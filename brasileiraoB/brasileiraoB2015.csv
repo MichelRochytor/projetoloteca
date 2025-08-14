@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,08/05/15,Atlético-GO,1-0,Boa
+1,08/05/15,ABC,0-1,Oeste
+1,08/05/15,Paraná,1-0,Ceará SC
+1,08/05/15,Mogi Mirim,1-2,Criciúma
+1,09/05/15,EC Vitória,0-2,Sampaio Corrêa
+1,09/05/15,Macaé,2-0,Santa Cruz
+1,09/05/15,América-MG,1-1,Bahia
+1,09/05/15,Náutico,1-0,Luverdense
+1,09/05/15,CRB,2-0,Bragantino
+1,09/05/15,Paysandu,0-1,Botafogo
+2,15/05/15,Santa Cruz,4-1,Paraná
+2,15/05/15,Sampaio Corrêa,3-1,Macaé
+2,15/05/15,Bahia,4-1,Mogi Mirim
+2,15/05/15,Criciúma,0-2,ABC
+2,16/05/15,Oeste,1-2,EC Vitória
+2,16/05/15,Bragantino,1-0,Paysandu
+2,16/05/15,Boa,0-1,Náutico
+2,16/05/15,Botafogo,4-1,CRB
+2,16/05/15,Ceará SC,2-0,Atlético-GO
+2,16/05/15,Luverdense,1-0,América-MG
+3,19/05/15,Macaé,4-2,Oeste
+3,19/05/15,Náutico,2-0,Criciúma
+3,22/05/15,EC Vitória,4-1,Bragantino
+3,22/05/15,Mogi Mirim,1-1,Sampaio Corrêa
+3,23/05/15,América-MG,4-1,Santa Cruz
+3,23/05/15,Paysandu,2-1,Ceará SC
+3,23/05/15,Atlético-GO,0-0,Botafogo
+3,23/05/15,Paraná,1-1,Boa
+3,23/05/15,CRB,0-3,Bahia
+3,23/05/15,ABC,1-1,Luverdense
+4,26/05/15,Ceará SC,1-1,CRB
+4,29/05/15,Santa Cruz,0-1,ABC
+4,29/05/15,Bragantino,0-1,América-MG
+4,29/05/15,Bahia,1-0,Paraná
+4,30/05/15,Boa,0-1,Paysandu
+4,30/05/15,Criciúma,1-0,Atlético-GO
+4,30/05/15,Botafogo,2-0,EC Vitória
+4,30/05/15,Sampaio Corrêa,1-1,Náutico
+4,30/05/15,Luverdense,1-2,Macaé
+4,30/05/15,Oeste,0-0,Mogi Mirim
+5,02/06/15,Mogi Mirim,0-2,Boa
+5,02/06/15,Náutico,2-0,Ceará SC
+5,02/06/15,ABC,1-1,Bragantino
+5,02/06/15,América-MG,1-0,Sampaio Corrêa
+5,02/06/15,EC Vitória,2-1,Criciúma
+5,02/06/15,Paysandu,2-1,Santa Cruz
+5,02/06/15,Atlético-GO,0-1,Luverdense
+5,02/06/15,CRB,3-0,Oeste
+5,02/06/15,Macaé,0-0,Bahia
+5,02/06/15,Paraná,1-2,Botafogo
+6,05/06/15,EC Vitória,3-1,Atlético-GO
+6,05/06/15,Náutico,2-1,América-MG
+6,05/06/15,Botafogo,3-0,Mogi Mirim
+6,06/06/15,Bragantino,2-0,Bahia
+6,06/06/15,Ceará SC,1-3,Sampaio Corrêa
+6,06/06/15,Luverdense,2-2,Santa Cruz
+6,06/06/15,Criciúma,0-3,Macaé
+6,06/06/15,Paysandu,2-1,Paraná
+6,06/06/15,Boa,1-2,Oeste
+6,06/06/15,CRB,0-1,ABC
+7,09/06/15,Paraná,1-0,Luverdense
+7,09/06/15,Oeste,0-1,Botafogo
+7,12/06/15,ABC,0-2,Paysandu
+7,12/06/15,Sampaio Corrêa,3-1,Criciúma
+7,12/06/15,Santa Cruz,0-0,Boa
+7,13/06/15,Bahia,1-0,Ceará SC
+7,13/06/15,Atlético-GO,2-0,Náutico
+7,13/06/15,Mogi Mirim,1-1,EC Vitória
+7,13/06/15,América-MG,1-0,CRB
+7,13/06/15,Macaé,2-5,Bragantino
+8,16/06/15,Náutico,1-1,Paysandu
+8,16/06/15,Luverdense,0-1,Criciúma
+8,19/06/15,Sampaio Corrêa,0-0,Bahia
+8,19/06/15,Paraná,3-1,Mogi Mirim
+8,19/06/15,Botafogo,1-1,Boa
+8,20/06/15,Ceará SC,3-3,Santa Cruz
+8,20/06/15,América-MG,1-0,Atlético-GO
+8,20/06/15,EC Vitória,2-0,ABC
+8,20/06/15,CRB,3-1,Macaé
+8,20/06/15,Bragantino,3-1,Oeste
+9,23/06/15,Criciúma,2-2,América-MG
+9,23/06/15,Paysandu,1-0,EC Vitória
+9,26/06/15,Oeste,2-0,Ceará SC
+9,26/06/15,Atlético-GO,1-1,Paraná
+9,27/06/15,ABC,3-3,Náutico
+9,27/06/15,Santa Cruz,1-0,Sampaio Corrêa
+9,27/06/15,Mogi Mirim,0-1,CRB
+9,27/06/15,Bahia,1-0,Luverdense
+9,27/06/15,Macaé,4-2,Botafogo
+9,27/06/15,Boa,3-0,Bragantino
+10,30/06/15,Paysandu,2-0,Atlético-GO
+10,30/06/15,Luverdense,3-0,Ceará SC
+10,03/07/15,Paraná,0-0,Criciúma
+10,03/07/15,Botafogo,5-0,Sampaio Corrêa
+10,04/07/15,Bragantino,1-2,Santa Cruz
+10,04/07/15,EC Vitória,4-1,Bahia
+10,04/07/15,ABC,1-1,Macaé
+10,04/07/15,Náutico,2-1,Oeste
+10,04/07/15,CRB,1-1,Boa
+10,04/07/15,América-MG,3-1,Mogi Mirim
+11,07/07/15,Sampaio Corrêa,3-1,Luverdense
+11,07/07/15,Boa,0-0,EC Vitória
+11,07/07/15,Criciúma,1-0,Bragantino
+11,07/07/15,Oeste,1-0,Paraná
+11,07/07/15,Macaé,1-1,América-MG
+11,07/07/15,Mogi Mirim,2-1,Náutico
+11,07/07/15,Atlético-GO,1-2,ABC
+11,07/07/15,Bahia,2-0,Paysandu
+11,07/07/15,Santa Cruz,2-1,CRB
+11,07/07/15,Ceará SC,0-0,Botafogo
+12,10/07/15,Ceará SC,1-1,Criciúma
+12,10/07/15,Macaé,2-1,Paysandu
+12,10/07/15,Atlético-GO,1-1,Mogi Mirim
+12,10/07/15,Bragantino,1-0,Botafogo
+12,11/07/15,Sampaio Corrêa,3-0,Boa
+12,11/07/15,Náutico,2-1,Santa Cruz
+12,11/07/15,CRB,0-0,Luverdense
+12,11/07/15,Paraná,0-1,EC Vitória
+12,11/07/15,América-MG,2-1,ABC
+12,11/07/15,Bahia,1-0,Oeste
+13,14/07/15,ABC,1-4,Paraná
+13,14/07/15,Mogi Mirim,3-1,Macaé
+13,17/07/15,EC Vitória,3-1,CRB
+13,17/07/15,Luverdense,2-1,Bragantino
+13,18/07/15,Botafogo,1-0,Náutico
+13,18/07/15,Santa Cruz,3-0,Atlético-GO
+13,18/07/15,Paysandu,1-1,Sampaio Corrêa
+13,18/07/15,Criciúma,2-1,Bahia
+13,18/07/15,Boa,0-0,Ceará SC
+13,18/07/15,Oeste,3-1,América-MG
+14,21/07/15,Macaé,0-0,Paraná
+14,24/07/15,América-MG,2-0,Boa
+14,24/07/15,Bragantino,0-1,Atlético-GO
+14,25/07/15,Sampaio Corrêa,3-2,ABC
+14,25/07/15,Náutico,2-1,EC Vitória
+14,25/07/15,Bahia,1-1,Botafogo
+14,25/07/15,CRB,3-0,Paysandu
+14,25/07/15,Criciúma,0-0,Santa Cruz
+14,25/07/15,Luverdense,1-1,Oeste
+14,25/07/15,Ceará SC,2-3,Mogi Mirim
+15,28/07/15,Santa Cruz,3-1,Bahia
+15,28/07/15,EC Vitória,0-0,Macaé
+15,28/07/15,ABC,0-1,Ceará SC
+15,28/07/15,Paysandu,2-0,América-MG
+15,28/07/15,Boa,2-1,Luverdense
+15,28/07/15,Mogi Mirim,2-3,Bragantino
+15,28/07/15,Paraná,2-0,Náutico
+15,28/07/15,Oeste,1-0,Sampaio Corrêa
+15,28/07/15,Botafogo,0-0,Criciúma
+15,28/07/15,Atlético-GO,1-0,CRB
+16,31/07/15,Boa,1-1,Criciúma
+16,31/07/15,ABC,0-3,Bahia
+16,31/07/15,Paysandu,1-1,Mogi Mirim
+16,01/08/15,Náutico,1-1,Macaé
+16,01/08/15,EC Vitória,1-1,América-MG
+16,01/08/15,Atlético-GO,3-1,Sampaio Corrêa
+16,01/08/15,Oeste,1-0,Santa Cruz
+16,01/08/15,Paraná,0-0,CRB
+16,01/08/15,Botafogo,0-0,Luverdense
+16,01/08/15,Bragantino,3-0,Ceará SC
+17,04/08/15,América-MG,2-0,Paraná
+17,04/08/15,Sampaio Corrêa,2-0,Bragantino
+17,07/08/15,Criciúma,3-2,Oeste
+17,07/08/15,Luverdense,1-0,Paysandu
+17,07/08/15,Bahia,4-1,Boa
+17,08/08/15,Ceará SC,1-2,EC Vitória
+17,08/08/15,Macaé,0-1,Atlético-GO
+17,08/08/15,CRB,1-0,Náutico
+17,08/08/15,Santa Cruz,1-0,Botafogo
+17,08/08/15,Mogi Mirim,2-2,ABC
+18,11/08/15,Sampaio Corrêa,1-0,CRB
+18,11/08/15,Oeste,0-0,Atlético-GO
+18,11/08/15,Santa Cruz,2-1,Mogi Mirim
+18,11/08/15,Bahia,1-1,Náutico
+18,11/08/15,Ceará SC,0-2,América-MG
+18,11/08/15,Criciúma,1-0,Paysandu
+18,11/08/15,Luverdense,0-2,EC Vitória
+18,11/08/15,Boa,2-1,Macaé
+18,11/08/15,Bragantino,2-1,Paraná
+18,11/08/15,Botafogo,3-1,ABC
+19,14/08/15,Paraná,1-0,Sampaio Corrêa
+19,14/08/15,EC Vitória,2-1,Santa Cruz
+19,14/08/15,Atlético-GO,1-1,Bahia
+19,15/08/15,América-MG,1-2,Botafogo
+19,15/08/15,Paysandu,3-1,Oeste
+19,15/08/15,CRB,3-1,Criciúma
+19,15/08/15,ABC,0-1,Boa
+19,15/08/15,Náutico,3-1,Bragantino
+19,15/08/15,Mogi Mirim,1-1,Luverdense
+19,15/08/15,Macaé,1-2,Ceará SC
+20,21/08/15,Criciúma,0-0,Mogi Mirim
+20,21/08/15,Santa Cruz,1-0,Macaé
+20,22/08/15,Oeste,1-1,ABC
+20,22/08/15,Bahia,1-1,América-MG
+20,22/08/15,Bragantino,2-1,CRB
+20,22/08/15,Luverdense,5-1,Náutico
+20,22/08/15,Boa,2-2,Atlético-GO
+20,22/08/15,Sampaio Corrêa,1-0,EC Vitória
+20,23/08/15,Botafogo,2-3,Paysandu
+20,23/08/15,Ceará SC,4-3,Paraná
+21,25/08/15,EC Vitória,1-1,Oeste
+21,25/08/15,ABC,2-2,Criciúma
+21,28/08/15,América-MG,1-2,Luverdense
+21,28/08/15,CRB,2-1,Botafogo
+21,29/08/15,Paraná,3-2,Santa Cruz
+21,29/08/15,Paysandu,2-0,Bragantino
+21,29/08/15,Atlético-GO,3-2,Ceará SC
+21,29/08/15,Náutico,1-0,Boa
+21,29/08/15,Macaé,1-1,Sampaio Corrêa
+21,29/08/15,Mogi Mirim,1-1,Bahia
+22,01/09/15,Criciúma,1-0,Náutico
+22,01/09/15,Ceará SC,0-0,Paysandu
+22,01/09/15,Sampaio Corrêa,3-1,Mogi Mirim
+22,01/09/15,Bahia,3-2,CRB
+22,01/09/15,Bragantino,2-1,EC Vitória
+22,01/09/15,Luverdense,1-1,ABC
+22,01/09/15,Boa,1-2,Paraná
+22,01/09/15,Santa Cruz,2-1,América-MG
+22,01/09/15,Oeste,1-2,Macaé
+22,01/09/15,Botafogo,4-0,Atlético-GO
+23,04/09/15,CRB,1-3,Ceará SC
+23,04/09/15,ABC,1-1,Santa Cruz
+23,04/09/15,Mogi Mirim,0-0,Oeste
+23,04/09/15,Náutico,1-1,Sampaio Corrêa
+23,04/09/15,Macaé,1-3,Luverdense
+23,04/09/15,Paraná,1-0,Bahia
+23,05/09/15,EC Vitória,1-2,Botafogo
+23,05/09/15,América-MG,1-2,Bragantino
+23,05/09/15,Paysandu,3-0,Boa
+23,22/09/15,Atlético-GO,0-0,Criciúma
+24,07/09/15,Oeste,0-0,CRB
+24,07/09/15,Ceará SC,1-0,Náutico
+24,08/09/15,Sampaio Corrêa,0-2,América-MG
+24,08/09/15,Botafogo,2-1,Paraná
+24,08/09/15,Santa Cruz,1-2,Paysandu
+24,08/09/15,Criciúma,2-3,EC Vitória
+24,08/09/15,Bahia,1-0,Macaé
+24,08/09/15,Boa,0-1,Mogi Mirim
+24,08/09/15,Bragantino,3-1,ABC
+24,08/09/15,Luverdense,1-1,Atlético-GO
+25,11/09/15,Bahia,3-2,Bragantino
+25,11/09/15,Paraná,1-1,Paysandu
+25,11/09/15,Oeste,2-1,Boa
+25,11/09/15,Mogi Mirim,0-3,Botafogo
+25,12/09/15,ABC,0-0,CRB
+25,12/09/15,Sampaio Corrêa,1-0,Ceará SC
+25,12/09/15,Santa Cruz,2-0,Luverdense
+25,12/09/15,Atlético-GO,0-0,EC Vitória
+25,12/09/15,América-MG,2-1,Náutico
+25,12/09/15,Macaé,1-1,Criciúma
+26,15/09/15,Bragantino,2-2,Macaé
+26,15/09/15,Ceará SC,2-2,Bahia
+26,15/09/15,CRB,1-0,América-MG
+26,15/09/15,Luverdense,2-0,Paraná
+26,15/09/15,Náutico,1-1,Atlético-GO
+26,15/09/15,EC Vitória,4-1,Mogi Mirim
+26,15/09/15,Criciúma,1-1,Sampaio Corrêa
+26,15/09/15,Paysandu,3-2,ABC
+26,15/09/15,Boa,1-3,Santa Cruz
+26,15/09/15,Botafogo,1-1,Oeste
+27,18/09/15,ABC,0-0,EC Vitória
+27,18/09/15,Atlético-GO,1-1,América-MG
+27,18/09/15,Boa,0-1,Botafogo
+27,19/09/15,Mogi Mirim,1-2,Paraná
+27,19/09/15,Bahia,1-1,Sampaio Corrêa
+27,19/09/15,Santa Cruz,2-1,Ceará SC
+27,19/09/15,Oeste,1-1,Bragantino
+27,19/09/15,Paysandu,0-1,Náutico
+27,19/09/15,Criciúma,0-1,Luverdense
+27,19/09/15,Macaé,0-0,CRB
+28,22/09/15,Botafogo,2-1,Macaé
+28,22/09/15,Bragantino,2-1,Boa
+28,25/09/15,América-MG,2-1,Criciúma
+28,26/09/15,Sampaio Corrêa,0-0,Santa Cruz
+28,26/09/15,Ceará SC,1-1,Oeste
+28,26/09/15,CRB,2-1,Mogi Mirim
+28,26/09/15,Náutico,3-0,ABC
+28,26/09/15,EC Vitória,3-1,Paysandu
+28,26/09/15,Luverdense,2-2,Bahia
+28,26/09/15,Paraná,1-2,Atlético-GO
+29,29/09/15,Ceará SC,0-1,Luverdense
+29,29/09/15,Santa Cruz,3-1,Bragantino
+29,02/10/15,Criciúma,0-0,Paraná
+29,02/10/15,Sampaio Corrêa,2-2,Botafogo
+29,03/10/15,Boa,1-3,CRB
+29,03/10/15,Macaé,3-1,ABC
+29,03/10/15,Atlético-GO,2-1,Paysandu
+29,03/10/15,Oeste,2-0,Náutico
+29,03/10/15,Bahia,1-3,EC Vitória
+29,03/10/15,Mogi Mirim,1-2,América-MG
+30,06/10/15,Bragantino,2-0,Criciúma
+30,06/10/15,América-MG,1-0,Macaé
+30,06/10/15,Náutico,1-0,Mogi Mirim
+30,06/10/15,CRB,3-2,Santa Cruz
+30,06/10/15,ABC,1-1,Atlético-GO
+30,06/10/15,Paraná,1-1,Oeste
+30,06/10/15,Luverdense,2-1,Sampaio Corrêa
+30,06/10/15,Paysandu,0-0,Bahia
+30,10/10/15,EC Vitória,2-1,Boa
+30,20/10/15,Botafogo,0-1,Ceará SC
+31,16/10/15,Boa,2-2,Sampaio Corrêa
+31,16/10/15,EC Vitória,1-1,Paraná
+31,17/10/15,Botafogo,4-0,Bragantino
+31,17/10/15,Santa Cruz,1-3,Náutico
+31,17/10/15,Criciúma,3-0,Ceará SC
+31,17/10/15,ABC,4-2,América-MG
+31,17/10/15,Mogi Mirim,0-2,Atlético-GO
+31,17/10/15,Oeste,0-1,Bahia
+31,17/10/15,Luverdense,2-0,CRB
+31,17/10/15,Paysandu,1-1,Macaé
+32,20/10/15,Bahia,1-0,Criciúma
+32,23/10/15,Macaé,1-0,Mogi Mirim
+32,23/10/15,América-MG,2-1,Oeste
+32,24/10/15,Atlético-GO,0-0,Santa Cruz
+32,24/10/15,CRB,0-0,EC Vitória
+32,24/10/15,Sampaio Corrêa,2-0,Paysandu
+32,24/10/15,Náutico,1-4,Botafogo
+32,24/10/15,Ceará SC,2-1,Boa
+32,24/10/15,Bragantino,3-2,Luverdense
+32,27/10/15,Paraná,0-0,ABC
+33,27/10/15,Boa,1-2,América-MG
+33,27/10/15,Oeste,1-0,Luverdense
+33,27/10/15,Santa Cruz,2-0,Criciúma
+33,30/10/15,Paraná,3-0,Macaé
+33,30/10/15,Atlético-GO,0-1,Bragantino
+33,31/10/15,EC Vitória,2-3,Náutico
+33,31/10/15,Botafogo,1-0,Bahia
+33,31/10/15,Mogi Mirim,0-2,Ceará SC
+33,31/10/15,Paysandu,5-1,CRB
+33,31/10/15,ABC,2-3,Sampaio Corrêa
+34,03/11/15,Bragantino,3-1,Mogi Mirim
+34,03/11/15,América-MG,3-1,Paysandu
+34,06/11/15,Ceará SC,3-0,ABC
+34,06/11/15,Luverdense,2-0,Boa
+34,07/11/15,Criciúma,1-0,Botafogo
+34,07/11/15,Macaé,0-2,EC Vitória
+34,07/11/15,Bahia,1-2,Santa Cruz
+34,07/11/15,Náutico,2-0,Paraná
+34,07/11/15,Sampaio Corrêa,1-1,Oeste
+34,07/11/15,CRB,4-1,Atlético-GO
+35,10/11/15,América-MG,4-0,EC Vitória
+35,10/11/15,Mogi Mirim,1-1,Paysandu
+35,10/11/15,Criciúma,3-0,Boa
+35,10/11/15,Macaé,1-1,Náutico
+35,10/11/15,Bahia,2-2,ABC
+35,10/11/15,Luverdense,0-1,Botafogo
+35,10/11/15,Santa Cruz,3-1,Oeste
+35,10/11/15,CRB,2-0,Paraná
+35,10/11/15,Sampaio Corrêa,2-0,Atlético-GO
+35,10/11/15,Ceará SC,3-0,Bragantino
+36,13/11/15,ABC,3-1,Mogi Mirim
+36,13/11/15,Paysandu,3-2,Luverdense
+36,13/11/15,Oeste,1-1,Criciúma
+36,14/11/15,Boa,3-0,Bahia
+36,14/11/15,Botafogo,0-3,Santa Cruz
+36,14/11/15,Náutico,1-1,CRB
+36,14/11/15,EC Vitória,1-0,Ceará SC
+36,14/11/15,Bragantino,3-0,Sampaio Corrêa
+36,14/11/15,Paraná,1-0,América-MG
+36,14/11/15,Atlético-GO,3-4,Macaé
+37,20/11/15,Atlético-GO,3-1,Oeste
+37,20/11/15,Macaé,1-1,Boa
+37,20/11/15,ABC,1-2,Botafogo
+37,21/11/15,EC Vitória,3-0,Luverdense
+37,21/11/15,Paraná,0-2,Bragantino
+37,21/11/15,Mogi Mirim,0-3,Santa Cruz
+37,21/11/15,Náutico,1-0,Bahia
+37,21/11/15,Paysandu,1-0,Criciúma
+37,21/11/15,América-MG,1-1,Ceará SC
+37,21/11/15,CRB,2-1,Sampaio Corrêa
+38,24/11/15,Boa,2-0,ABC
+38,27/11/15,Criciúma,2-1,CRB
+38,27/11/15,Luverdense,2-0,Mogi Mirim
+38,28/11/15,Bahia,1-0,Atlético-GO
+38,28/11/15,Oeste,0-0,Paysandu
+38,28/11/15,Bragantino,0-2,Náutico
+38,28/11/15,Botafogo,0-0,América-MG
+38,28/11/15,Santa Cruz,3-1,EC Vitória
+38,28/11/15,Ceará SC,1-0,Macaé
+38,28/11/15,Sampaio Corrêa,1-1,Paraná

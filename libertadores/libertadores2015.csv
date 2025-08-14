@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+FG,1,03/02/15,Alianza Lima,0-4,Huracán
+FG,1,04/02/15,Morelia,1-1,The Strongest
+FG,1,04/02/15,Corinthians,4-0,Once Caldas
+FG,1,05/02/15,Deportivo Táchira,2-1,Cerro Porteño
+FG,1,05/02/15,Palestino,1-0,Nacional
+FG,1,05/02/15,Independiente del Valle,1-0,Estudiantes
+FG,2,10/02/15,Huracán,0-0,Alianza Lima
+FG,2,10/02/15,The Strongest,2-0,Morelia
+FG,2,11/02/15,Cerro Porteño,2-2,Deportivo Táchira
+FG,2,11/02/15,Once Caldas,1-1,Corinthians
+FG,2,12/02/15,Nacional,2-1,Palestino
+FG,2,12/02/15,Estudiantes,4-0,Independiente del Valle
+FG,1,17/02/15,Univ de Chile,0-1,Emelec
+FG,1,17/02/15,Montevideo Wanderers,3-2,Zamora FC
+FG,1,17/02/15,The Strongest,3-1,Internacional
+FG,1,17/02/15,Deportivo Táchira,0-5,Racing
+FG,1,18/02/15,Atlas,0-1,Santa Fe
+FG,1,18/02/15,Palestino,0-2,Boca Juniors
+FG,1,18/02/15,Guaraní,2-2,Sporting Cristal
+FG,1,18/02/15,Corinthians,2-0,São Paulo
+FG,1,18/02/15,Colo-Colo,2-0,Atlético-MG
+FG,1,19/02/15,Tigres,3-0,Juan Aurich
+FG,1,19/02/15,Libertad,2-2,Atlético Nacional
+FG,1,19/02/15,Danubio,1-2,San Lorenzo
+FG,1,19/02/15,San José,2-0,River Plate
+FG,2,24/02/15,Huracán,2-2,Mineros de Guayana
+FG,2,24/02/15,Racing,4-1,Guaraní
+FG,2,24/02/15,Emelec,3-0,The Strongest
+FG,2,24/02/15,Sporting Cristal,1-1,Deportivo Táchira
+FG,2,25/02/15,Atlético-MG,0-1,Atlas
+FG,2,25/02/15,Estudiantes,3-0,Barcelona SC
+FG,2,25/02/15,São Paulo,4-0,Danubio
+FG,2,25/02/15,Universitario,0-0,Cruzeiro
+FG,2,26/02/15,Boca Juniors,2-1,Montevideo Wanderers
+FG,2,26/02/15,Internacional,3-1,Univ de Chile
+FG,2,26/02/15,Zamora FC,0-1,Palestino
+FG,2,26/02/15,Santa Fe,3-1,Colo-Colo
+FG,3,03/03/15,Mineros de Guayana,0-1,Universitario
+FG,3,03/03/15,Barcelona SC,0-1,Libertad
+FG,3,03/03/15,Cruzeiro,0-0,Huracán
+FG,3,04/03/15,Colo-Colo,2-0,Atlas
+FG,3,04/03/15,Internacional,3-2,Emelec
+FG,3,04/03/15,San Lorenzo,0-1,Corinthians
+FG,3,05/03/15,Univ de Chile,3-1,The Strongest
+FG,3,05/03/15,River Plate,1-1,Tigres
+FG,3,05/03/15,Juan Aurich,2-0,San José
+FG,3,05/03/15,Atlético Nacional,1-1,Estudiantes
+FG,4,10/03/15,Montevideo Wanderers,1-0,Palestino
+FG,4,10/03/15,Universitario,0-0,Huracán
+FG,4,10/03/15,Racing,1-2,Sporting Cristal
+FG,4,10/03/15,Guaraní,5-2,Deportivo Táchira
+FG,4,11/03/15,Boca Juniors,5-0,Zamora FC
+FG,4,11/03/15,San José,0-1,Tigres
+FG,4,11/03/15,Barcelona SC,1-2,Atlético Nacional
+FG,4,12/03/15,Libertad,1-0,Estudiantes
+FG,4,12/03/15,Juan Aurich,1-1,River Plate
+FG,5,17/03/15,Danubio,1-2,Corinthians
+FG,5,17/03/15,Sporting Cristal,0-2,Racing
+FG,5,17/03/15,The Strongest,5-3,Univ de Chile
+FG,5,17/03/15,Zamora FC,1-5,Boca Juniors
+FG,5,18/03/15,Tigres,4-0,San José
+FG,5,18/03/15,Estudiantes,1-0,Libertad
+FG,5,18/03/15,Emelec,1-1,Internacional
+FG,5,18/03/15,Deportivo Táchira,1-1,Guaraní
+FG,5,18/03/15,Santa Fe,0-1,Atlético-MG
+FG,5,18/03/15,São Paulo,1-0,San Lorenzo
+FG,5,19/03/15,River Plate,1-1,Juan Aurich
+FG,5,19/03/15,Palestino,1-1,Montevideo Wanderers
+FG,5,19/03/15,Mineros de Guayana,0-2,Cruzeiro
+FG,5,19/03/15,Atlético Nacional,2-3,Barcelona SC
+FG,5,01/04/15,San Lorenzo,1-0,São Paulo
+FG,5,01/04/15,Corinthians,4-0,Danubio
+FG,6,07/04/15,Palestino,4-0,Zamora FC
+FG,6,07/04/15,Guaraní,2-0,Racing
+FG,6,07/04/15,Atlas,1-3,Colo-Colo
+FG,6,07/04/15,San José,1-1,Juan Aurich
+FG,6,08/04/15,Huracán,1-1,Universitario
+FG,6,08/04/15,Deportivo Táchira,0-0,Sporting Cristal
+FG,6,08/04/15,Cruzeiro,3-0,Mineros de Guayana
+FG,6,08/04/15,Tigres,2-2,River Plate
+FG,6,09/04/15,Estudiantes,0-1,Atlético Nacional
+FG,6,09/04/15,Libertad,1-1,Barcelona SC
+FG,6,09/04/15,Montevideo Wanderers,0-3,Boca Juniors
+FG,6,09/04/15,Atlético-MG,2-0,Santa Fe
+FG,6,14/04/15,Universitario,2-0,Mineros de Guayana
+FG,6,14/04/15,Huracán,3-1,Cruzeiro
+FG,6,14/04/15,Sporting Cristal,1-1,Guaraní
+FG,6,14/04/15,Racing,3-2,Deportivo Táchira
+FG,6,15/04/15,The Strongest,1-0,Emelec
+FG,6,15/04/15,Juan Aurich,4-5,Tigres
+FG,6,15/04/15,River Plate,3-0,San José
+FG,6,15/04/15,Danubio,1-2,São Paulo
+FG,6,15/04/15,Colo-Colo,0-3,Santa Fe
+FG,6,15/04/15,Atlas,1-0,Atlético-MG
+FG,6,16/04/15,Zamora FC,0-3,Montevideo Wanderers
+FG,6,16/04/15,Boca Juniors,2-0,Palestino
+FG,6,16/04/15,Univ de Chile,0-4,Internacional
+FG,6,16/04/15,Corinthians,0-0,San Lorenzo
+FG,6,21/04/15,Mineros de Guayana,3-0,Huracán
+FG,6,21/04/15,Cruzeiro,2-0,Universitario
+FG,6,21/04/15,Barcelona SC,0-2,Estudiantes
+FG,6,21/04/15,Atlético Nacional,4-0,Libertad
+FG,6,22/04/15,Emelec,2-0,Univ de Chile
+FG,6,22/04/15,Internacional,1-0,The Strongest
+FG,6,22/04/15,Atlético-MG,2-0,Colo-Colo
+FG,6,22/04/15,Santa Fe,3-1,Atlas
+FG,6,22/04/15,San Lorenzo,0-1,Danubio
+FG,6,22/04/15,São Paulo,2-0,Corinthians
+O,1,28/04/15,Universitario,1-2,Tigres
+O,1,05/05/15,Estudiantes,2-1,Santa Fe
+O,1,06/05/15,Guaraní,2-0,Corinthians
+O,1,06/05/15,Atlético-MG,2-2,Internacional
+O,1,06/05/15,São Paulo,1-0,Cruzeiro
+O,1,07/05/15,Montevideo Wanderers,1-1,Racing
+O,1,07/05/15,River Plate,1-0,Boca Juniors
+O,1,07/05/15,Emelec,2-0,Atlético Nacional
+O,2,05/05/15,Tigres,1-1,Universitario
+O,2,12/05/15,Santa Fe,2-0,Estudiantes
+O,2,13/05/15,Cruzeiro,1 (4)-0 (3),São Paulo
+O,2,13/05/15,Corinthians,0-1,Guaraní
+O,2,13/05/15,Internacional,3-1,Atlético-MG
+O,2,14/05/15,Racing,2-1,Montevideo Wanderers
+O,2,14/05/15,Boca Juniors,0-3,River Plate
+O,2,14/05/15,Atlético Nacional,1-0,Emelec
+Q,1,19/05/15,Emelec,1-0,Tigres
+Q,1,20/05/15,Santa Fe,1-0,Internacional
+Q,1,21/05/15,Guaraní,1-0,Racing
+Q,1,21/05/15,River Plate,0-1,Cruzeiro
+Q,2,26/05/15,Tigres,2-0,Emelec
+Q,2,27/05/15,Internacional,2-0,Santa Fe
+Q,2,27/05/15,Cruzeiro,0-3,River Plate
+Q,2,28/05/15,Racing,0-0,Guaraní
+S,1,14/07/15,River Plate,2-0,Guaraní
+S,1,15/07/15,Internacional,2-1,Tigres
+S,2,21/07/15,Guaraní,1-1,River Plate
+S,2,22/07/15,Tigres,3-1,Internacional
+F,1,29/07/15,Tigres,0-0,River Plate
+F,2,05/08/15,River Plate,3-0,Tigres
