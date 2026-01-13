@@ -438,3 +438,4 @@ while True:
             print("❌ Por favor, digite um número entre 1 e 38!")
     except ValueError:
         print("❌ Entrada inválida! Digite um número ou 'sair'.")
+
