@@ -1,0 +1,93 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,09/08/16,Deportivo Lara,1-3,Junior
+PR,1,09/08/16,Sport Luqueño,0-0,Peñarol
+PR,1,10/08/16,U Concepción,2-0,Bolívar
+PR,1,09/08/16,Real Potosí,3-1,Univ Católica
+PR,1,09/08/16,Fénix,1-0,Cerro Porteño
+PR,1,09/08/16,Universitario,0-3,CS Emelec
+PR,1,11/08/16,SD Aucas,2-1,Real Garcilaso
+PR,1,11/08/16,Dep Anzoátegui,2-1,Sport Huancayo
+PR,1,11/08/16,Blooming,1-0,Plaza Colonia
+PR,1,11/08/16,Palestino,1-0,Libertad
+PR,1,10/08/16,Sol de América,1-1,Wilstermann
+PR,1,10/08/16,Wanderers,0-0,O'Higgins
+PR,1,10/08/16,Barcelona,1-1,Zamora
+PR,1,10/08/16,Independiente Medellín,1-1,Univ Católica
+PR,1,11/08/16,Tolima,0-0,Dep La Guaira
+PR,1,11/08/16,Dep Municipal,0-5,Atlético Nacional
+PR,2,16/08/16,Bolívar,3-0,U Concepción
+PR,2,16/08/16,Peñarol,1-1,Sport Luqueño
+PR,2,16/08/16,O'Higgins,0-0,Wanderers
+PR,2,17/08/16,Univ Católica,0-1,Independiente Medellín
+PR,2,17/08/16,Dep La Guaira,1-0,Tolima
+PR,2,17/08/16,Plaza Colonia,1-0,Blooming
+PR,2,16/08/16,Junior,2-1,Deportivo Lara
+PR,2,16/08/16,CS Emelec,3-1,Universitario
+PR,2,18/08/16,Sport Huancayo,1-0,Dep Anzoátegui
+PR,2,18/08/16,Wilstermann,1-1,Sol de América
+PR,2,18/08/16,Zamora,1-1,Barcelona
+PR,2,17/08/16,Cerro Porteño,2-0,Fénix
+PR,2,17/08/16,Univ Católica,1-1,Real Potosí
+PR,2,17/08/16,Atlético Nacional,1-0,Dep Municipal
+PR,2,17/08/16,Real Garcilaso,1-0,SD Aucas
+PR,2,18/08/16,Libertad,0-3,Palestino
+2ª,1,23/08/16,Dep La Guaira,4-2,CS Emelec
+2ª,1,23/08/16,Banfield,2-0,San Lorenzo
+2ª,1,24/08/16,Real Garcilaso,2-2,Palestino
+2ª,1,24/08/16,Bolívar,1-1,Atlético Nacional
+2ª,1,24/08/16,Cerro Porteño,6-0,Real Potosí
+2ª,1,23/08/16,Blooming,0-2,Junior
+2ª,1,25/08/16,Cuiabá,1-0,Chapecoense
+2ª,1,25/08/16,Lanús,0-2,Independiente
+2ª,1,24/08/16,Independiente Medellín,3-0,Sport Luqueño
+2ª,1,24/08/16,Santa Cruz,0-0,Sport Recife
+2ª,1,24/08/16,Estudiantes,1-0,Belgrano
+2ª,1,24/08/16,Figueirense,4-2,Flamengo
+2ª,1,25/08/16,Zamora,0-1,Wanderers
+2ª,1,25/08/16,Sol de América,1-0,Sport Huancayo
+2ª,1,25/08/16,EC Vitória,2-1,Coritiba
+2ª,2,31/08/16,Coritiba,1-0,EC Vitória
+2ª,2,31/08/16,Sport Recife,0-1,Santa Cruz
+2ª,2,31/08/16,Flamengo,3-1,Figueirense
+2ª,2,31/08/16,Chapecoense,3-1,Cuiabá
+2ª,2,13/09/16,San Lorenzo,4-1,Banfield
+2ª,2,14/09/16,Wanderers,1-0,Zamora
+2ª,2,14/09/16,CS Emelec,0-0,Dep La Guaira
+2ª,2,14/09/16,Independiente,1-0,Lanús
+2ª,2,13/09/16,Atlético Nacional,1-0,Bolívar
+2ª,2,15/09/16,Sport Huancayo,1-1,Sol de América
+2ª,2,15/09/16,Real Potosí,0-1,Cerro Porteño
+2ª,2,15/09/16,Palestino,1-0,Real Garcilaso
+2ª,2,14/09/16,Junior,1-1,Blooming
+2ª,2,15/09/16,Sport Luqueño,2-0,Independiente Medellín
+2ª,2,15/09/16,Belgrano,2-0,Estudiantes
+O,1,20/09/16,Sol de América,1-1,Atlético Nacional
+O,1,21/09/16,Independiente,0-0,Chapecoense
+O,1,21/09/16,Wanderers,0-0,Junior
+O,1,22/09/16,San Lorenzo,2-1,Dep La Guaira
+O,1,21/09/16,Independiente Medellín,2-0,Santa Cruz
+O,1,21/09/16,Palestino,0-1,Flamengo
+O,1,21/09/16,Coritiba,1-2,Belgrano
+O,1,22/09/16,Santa Fe,2-0,Cerro Porteño
+O,2,28/09/16,Junior,0-0,Wanderers
+O,2,28/09/16,Chapecoense,0-0,Independiente
+O,2,27/09/16,Atlético Nacional,2-0,Sol de América
+O,2,29/09/16,Dep La Guaira,0-2,San Lorenzo
+O,2,28/09/16,Flamengo,1-2,Palestino
+O,2,28/09/16,Belgrano,1-2,Coritiba
+O,2,28/09/16,Santa Cruz,3-1,Independiente Medellín
+O,2,29/09/16,Cerro Porteño,4-1,Santa Fe
+Q,1,19/10/16,Junior,1-0,Chapecoense
+Q,1,18/10/16,Independiente Medellín,0-0,Cerro Porteño
+Q,1,19/10/16,Coritiba,1-1,Atlético Nacional
+Q,1,20/10/16,San Lorenzo,2-0,Palestino
+Q,2,26/10/16,Atlético Nacional,3-1,Coritiba
+Q,2,25/10/16,Cerro Porteño,2-0,Independiente Medellín
+Q,2,26/10/16,Chapecoense,3-0,Junior
+Q,2,27/10/16,Palestino,1-0,San Lorenzo
+S,1,01/11/16,Cerro Porteño,1-1,Atlético Nacional
+S,1,02/11/16,San Lorenzo,1-1,Chapecoense
+S,2,23/11/16,Chapecoense,0-0,San Lorenzo
+S,2,24/11/16,Atlético Nacional,0-0,Cerro Porteño
+F,1,30/11/16,Atlético Nacional,0-0,Chapecoense
+F,2,07/12/16,Chapecoense,0-0,Atlético Nacional

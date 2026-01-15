@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,02/02/16,Huracán,1-0,Caracas
+PR,1,03/02/16,U César Vallejo,1-1,São Paulo
+PR,1,02/02/16,River Plate (URU),2-0,U de Chile
+PR,1,04/02/16,Independiente del Valle,1-0,Guaraní
+PR,1,03/02/16,Puebla,2-2,Racing Club
+PR,1,04/02/16,Oriente Petrolero,1-3,Atlético Nacional
+PR,2,09/02/16,U de Chile,0-0,River Plate (URU)
+PR,2,09/02/16,Caracas,2-1,Huracán
+PR,2,10/02/16,São Paulo,1-0,U César Vallejo
+PR,2,11/02/16,Guaraní,2-1,Independiente del Valle
+PR,2,10/02/16,Racing Club,1-0,Puebla
+PR,2,11/02/16,Atlético Nacional,3-0,Oriente Petrolero
+FG,1,16/02/16,River Plate (URU),2-2,Palmeiras
+FG,1,17/02/16,Melgar,1-2,Atlético-MG
+FG,1,17/02/16,São Paulo,0-1,The Strongest
+FG,1,17/02/16,Cobresal,0-1,Corinthians
+FG,1,16/02/16,Santa Fe,0-0,Cerro Porteño
+FG,1,16/02/16,Dep Táchira,2-1,Olimpia
+FG,1,17/02/16,Toluca,2-0,Grêmio
+FG,1,18/02/16,Sporting Cristal,1-1,Peñarol
+FG,1,18/02/16,Independiente del Valle,1-1,Colo-Colo
+FG,1,18/02/16,UNAM Pumas,4-2,CS Emelec
+FG,1,23/02/16,LDU de Quito,2-0,San Lorenzo
+FG,1,24/02/16,Racing Club,4-1,Bolívar
+FG,1,24/02/16,AD Cali,0-0,Boca Juniors
+FG,1,23/02/16,Huracán,0-2,Atlético Nacional
+FG,1,25/02/16,Rosario Central,1-1,Nacional (URU)
+FG,1,25/02/16,Trujillanos,0-4,River Plate
+FG,2,24/02/16,Colo-Colo,1-0,Melgar
+FG,2,25/02/16,Cerro Porteño,2-1,Cobresal
+FG,2,24/02/16,Atlético-MG,1-0,Independiente del Valle
+FG,2,25/02/16,CS Emelec,2-0,Dep Táchira
+FG,2,01/03/16,Melgar,0-1,Independiente del Valle
+FG,2,01/03/16,Olimpia,0-2,UNAM Pumas
+FG,2,02/03/16,The Strongest,2-1,Trujillanos
+FG,2,02/03/16,Nacional (URU),0-0,River Plate (URU)
+FG,2,02/03/16,San Lorenzo,1-1,Toluca
+FG,2,01/03/16,Atlético Nacional,3-0,Sporting Cristal
+FG,2,01/03/16,Peñarol,0-1,Huracán
+FG,2,03/03/16,Boca Juniors,0-0,Racing Club
+FG,2,02/03/16,Grêmio,4-0,LDU de Quito
+FG,2,02/03/16,Corinthians,1-0,Santa Fe
+FG,2,03/03/16,Bolívar,5-0,AD Cali
+FG,2,03/03/16,Palmeiras,2-0,Rosario Central
+FG,2,10/03/16,River Plate,1-1,São Paulo
+FG,3,08/03/16,CS Emelec,2-2,Olimpia
+FG,3,09/03/16,Cobresal,1-2,Santa Fe
+FG,3,09/03/16,Cerro Porteño,3-2,Corinthians
+FG,3,09/03/16,Rosario Central,4-1,River Plate (URU)
+FG,3,08/03/16,Sporting Cristal,3-2,Huracán
+FG,3,08/03/16,Atlético Nacional,2-0,Peñarol
+FG,3,09/03/16,Dep Táchira,2-0,UNAM Pumas
+FG,3,09/03/16,Grêmio,1-1,San Lorenzo
+FG,3,09/03/16,Palmeiras,1-2,Nacional (URU)
+FG,3,10/03/16,LDU de Quito,1-2,Toluca
+FG,3,10/03/16,Bolívar,1-1,Boca Juniors
+FG,3,10/03/16,Colo-Colo,0-0,Atlético-MG
+FG,3,16/03/16,Trujillanos,1-1,São Paulo
+FG,3,16/03/16,The Strongest,1-1,River Plate
+FG,3,17/03/16,AD Cali,2-2,Racing Club
+FG,4,15/03/16,Santa Fe,3-0,Cobresal
+FG,4,15/03/16,Independiente del Valle,2-0,Melgar
+FG,4,15/03/16,Peñarol,0-4,Atlético Nacional
+FG,4,15/03/16,San Lorenzo,1-1,Grêmio
+FG,4,17/03/16,River Plate (URU),1-3,Rosario Central
+FG,4,17/03/16,Olimpia,4-2,CS Emelec
+FG,4,16/03/16,Atlético-MG,3-0,Colo-Colo
+FG,4,16/03/16,Corinthians,2-0,Cerro Porteño
+FG,4,17/03/16,UNAM Pumas,4-1,Dep Táchira
+FG,4,17/03/16,Nacional (URU),1-0,Palmeiras
+FG,4,05/04/16,Huracán,4-2,Sporting Cristal
+FG,4,06/04/16,River Plate,6-0,The Strongest
+FG,4,05/04/16,Toluca,2-1,LDU de Quito
+FG,4,05/04/16,São Paulo,6-0,Trujillanos
+FG,4,07/04/16,Boca Juniors,3-1,Bolívar
+FG,4,07/04/16,Racing Club,4-2,AD Cali
+FG,5,05/04/16,Dep Táchira,1-0,CS Emelec
+FG,5,07/04/16,River Plate (URU),2-2,Nacional (URU)
+FG,5,06/04/16,Independiente del Valle,3-2,Atlético-MG
+FG,5,06/04/16,Santa Fe,1-1,Corinthians
+FG,5,06/04/16,Rosario Central,3-3,Palmeiras
+FG,5,06/04/16,UNAM Pumas,4-1,Olimpia
+FG,5,07/04/16,Melgar,1-2,Colo-Colo
+FG,5,12/04/16,Trujillanos,2-1,The Strongest
+FG,5,12/04/16,Huracán,0-0,Peñarol
+FG,5,13/04/16,Cobresal,2-0,Cerro Porteño
+FG,5,13/04/16,Racing Club,0-1,Boca Juniors
+FG,5,12/04/16,Toluca,2-1,San Lorenzo
+FG,5,12/04/16,Sporting Cristal,0-1,Atlético Nacional
+FG,5,13/04/16,LDU de Quito,2-3,Grêmio
+FG,5,13/04/16,São Paulo,2-1,River Plate
+FG,5,14/04/16,AD Cali,1-1,Bolívar
+FG,6,13/04/16,CS Emelec,2-3,UNAM Pumas
+FG,6,13/04/16,Olimpia,4-0,Dep Táchira
+FG,6,14/04/16,Atlético-MG,4-0,Melgar
+FG,6,14/04/16,Colo-Colo,0-0,Independiente del Valle
+FG,6,14/04/16,Nacional (URU),0-2,Rosario Central
+FG,6,14/04/16,Palmeiras,4-0,River Plate (URU)
+FG,6,19/04/16,Atlético Nacional,0-0,Huracán
+FG,6,19/04/16,Peñarol,4-3,Sporting Cristal
+FG,6,20/04/16,Bolívar,1-1,Racing Club
+FG,6,20/04/16,Boca Juniors,6-2,AD Cali
+FG,6,19/04/16,Grêmio,1-0,Toluca
+FG,6,19/04/16,San Lorenzo,1-1,LDU de Quito
+FG,6,20/04/16,Cerro Porteño,1-0,Santa Fe
+FG,6,20/04/16,Corinthians,6-0,Cobresal
+FG,6,21/04/16,The Strongest,1-1,São Paulo
+FG,6,21/04/16,River Plate,4-3,Trujillanos
+O,1,26/04/16,Huracán,0-0,Atlético Nacional
+O,1,27/04/16,Racing Club,0-0,Atlético-MG
+O,1,26/04/16,Dep Táchira,1-0,UNAM Pumas
+O,1,28/04/16,Independiente del Valle,2-0,River Plate
+O,1,27/04/16,Grêmio,0-1,Rosario Central
+O,1,27/04/16,Nacional (URU),0-0,Corinthians
+O,1,28/04/16,Cerro Porteño,1-2,Boca Juniors
+O,1,28/04/16,São Paulo,4-0,Toluca
+O,2,04/05/16,Toluca,3-1,São Paulo
+O,2,04/05/16,River Plate,1-0,Independiente del Valle
+O,2,03/05/16,Atlético Nacional,4-2,Huracán
+O,2,03/05/16,UNAM Pumas,2-0,Dep Táchira
+O,2,05/05/16,Rosario Central,3-0,Grêmio
+O,2,04/05/16,Corinthians,2-2,Nacional (URU)
+O,2,04/05/16,Atlético-MG,2-1,Racing Club
+O,2,05/05/16,Boca Juniors,3-1,Cerro Porteño
+Q,1,12/05/16,Nacional (URU),1-1,Boca Juniors
+Q,1,11/05/16,São Paulo,1-0,Atlético-MG
+Q,1,12/05/16,Rosario Central,1-0,Atlético Nacional
+Q,1,17/05/16,Independiente del Valle,2-1,UNAM Pumas
+Q,2,19/05/16,Boca Juniors,1-1,Nacional (URU)
+Q,2,18/05/16,Atlético-MG,2-1,São Paulo
+Q,2,19/05/16,Atlético Nacional,3-1,Rosario Central
+Q,2,24/05/16,UNAM Pumas,2-1,Independiente del Valle
+S,1,06/07/16,São Paulo,0-2,Atlético Nacional
+S,1,07/07/16,Independiente del Valle,2-1,Boca Juniors
+S,2,13/07/16,Atlético Nacional,2-1,São Paulo
+S,2,14/07/16,Boca Juniors,2-3,Independiente del Valle
+F,1,20/07/16,Independiente del Valle,1-1,Atlético Nacional
+F,2,27/07/16,Atlético Nacional,1-0,Independiente del Valle

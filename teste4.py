@@ -94,7 +94,7 @@ def main():
     
     try:
         # Lê o arquivo CSV (ajuste o caminho conforme necessário)
-        df = pd.read_csv('brasileiraoA/brasileiraoA2015.csv')
+        df = pd.read_csv('brasileiraoB/brasileiraoB2016.csv')
         
         # Verifica se as colunas necessárias existem
         colunas_necessarias = ['Rodada', 'Time da Casa', 'Placar', 'Time Visitante']
