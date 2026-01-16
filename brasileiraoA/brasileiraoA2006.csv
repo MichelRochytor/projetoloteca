@@ -1,0 +1,381 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/04/06,Juventude,1-0,Paraná
+1,15/04/06,Vasco da Gama,1-1,Internacional
+1,16/04/06,São Paulo,1-0,Flamengo
+1,16/04/06,Grêmio,2-0,Corinthians
+1,16/04/06,Botafogo,1-0,Fortaleza
+1,16/04/06,São Caetano,2-1,Cruzeiro
+1,16/04/06,Palmeiras,2-3,Ponte Preta
+1,16/04/06,Santa Cruz,0-0,Figueirense
+1,16/04/06,Athletico-PR,1-2,Fluminense
+1,16/04/06,Goiás,0-0,Santos
+2,22/04/06,Corinthians,3-0,São Caetano
+2,22/04/06,Fluminense,1-0,Goiás
+2,22/04/06,Figueirense,6-1,Palmeiras
+2,23/04/06,Internacional,1-0,Santa Cruz
+2,23/04/06,Santos,2-0,Athletico-PR
+2,23/04/06,Ponte Preta,1-2,Vasco da Gama
+2,23/04/06,Flamengo,3-1,Juventude
+2,23/04/06,Cruzeiro,3-1,Grêmio
+2,23/04/06,Paraná,0-0,Botafogo
+2,23/04/06,Fortaleza,1-0,São Paulo
+3,29/04/06,Fortaleza,2-1,São Caetano
+3,29/04/06,Botafogo,0-4,Athletico-PR
+3,29/04/06,São Paulo,4-0,Santa Cruz
+3,30/04/06,Ponte Preta,3-2,Corinthians
+3,30/04/06,Internacional,1-0,Flamengo
+3,30/04/06,Paraná,5-2,Grêmio
+3,30/04/06,Palmeiras,1-2,Santos
+3,30/04/06,Vasco da Gama,1-1,Fluminense
+3,30/04/06,Juventude,1-1,Goiás
+3,30/04/06,Figueirense,0-2,Cruzeiro
+4,06/05/06,Santa Cruz,1-1,Ponte Preta
+4,06/05/06,Fluminense,2-1,Paraná
+4,06/05/06,Santos,2-0,Fortaleza
+4,07/05/06,Grêmio,1-2,Vasco da Gama
+4,07/05/06,São Caetano,2-0,Palmeiras
+4,07/05/06,Athletico-PR,1-2,Internacional
+4,07/05/06,Corinthians,1-3,São Paulo
+4,07/05/06,Flamengo,1-0,Botafogo
+4,07/05/06,Goiás,2-1,Figueirense
+4,07/05/06,Cruzeiro,2-0,Juventude
+5,13/05/06,São Caetano,0-2,Juventude
+5,13/05/06,Botafogo,2-2,Grêmio
+5,13/05/06,Santos,3-1,Ponte Preta
+5,14/05/06,Santa Cruz,1-2,Athletico-PR
+5,14/05/06,Internacional,3-1,São Paulo
+5,14/05/06,Figueirense,1-0,Fluminense
+5,14/05/06,Palmeiras,1-1,Cruzeiro
+5,14/05/06,Flamengo,0-0,Fortaleza
+5,14/05/06,Paraná,1-2,Corinthians
+5,14/05/06,Goiás,2-0,Vasco da Gama
+6,20/05/06,Athletico-PR,2-3,Goiás
+6,20/05/06,Fortaleza,1-1,Paraná
+6,20/05/06,Internacional,2-4,Figueirense
+6,20/05/06,São Paulo,1-0,São Caetano
+6,21/05/06,Palmeiras,2-1,Santa Cruz
+6,21/05/06,Cruzeiro,2-1,Flamengo
+6,21/05/06,Vasco da Gama,2-4,Corinthians
+6,21/05/06,Ponte Preta,1-1,Grêmio
+6,21/05/06,Fluminense,1-0,Santos
+6,21/05/06,Juventude,1-0,Botafogo
+7,24/05/06,Cruzeiro,5-1,Ponte Preta
+7,24/05/06,Paraná,0-0,Figueirense
+7,24/05/06,Juventude,4-1,Santa Cruz
+7,24/05/06,São Paulo,4-1,Palmeiras
+7,24/05/06,São Caetano,2-1,Athletico-PR
+7,24/05/06,Fortaleza,2-5,Fluminense
+7,24/05/06,Flamengo,2-2,Santos
+7,25/05/06,Botafogo,4-1,Vasco da Gama
+7,25/05/06,Grêmio,2-0,Goiás
+7,25/05/06,Corinthians,0-1,Internacional
+8,27/05/06,Athletico-PR,1-0,Juventude
+8,27/05/06,Figueirense,0-0,Fortaleza
+8,27/05/06,Ponte Preta,2-5,Paraná
+8,28/05/06,Santos,2-0,Corinthians
+8,28/05/06,Internacional,1-1,Cruzeiro
+8,28/05/06,Santa Cruz,1-1,Botafogo
+8,28/05/06,Fluminense,1-0,Flamengo
+8,28/05/06,Palmeiras,0-1,Grêmio
+8,28/05/06,Goiás,2-1,São Caetano
+8,28/05/06,Vasco da Gama,1-1,São Paulo
+9,31/05/06,Cruzeiro,1-1,Athletico-PR
+9,31/05/06,Fortaleza,1-1,Vasco da Gama
+9,31/05/06,Juventude,0-1,Ponte Preta
+9,31/05/06,São Caetano,1-1,Internacional
+9,31/05/06,São Paulo,1-0,Fluminense
+9,31/05/06,Grêmio,1-0,Santos
+9,31/05/06,Flamengo,2-1,Palmeiras
+9,01/06/06,Botafogo,2-3,Figueirense
+9,01/06/06,Paraná,3-0,Santa Cruz
+9,01/06/06,Corinthians,0-1,Goiás
+10,03/06/06,Fluminense,2-3,Internacional
+10,03/06/06,Fortaleza,0-2,Cruzeiro
+10,03/06/06,Grêmio,1-1,São Caetano
+10,04/06/06,Corinthians,0-2,Flamengo
+10,04/06/06,Vasco da Gama,2-1,Santa Cruz
+10,04/06/06,Ponte Preta,3-0,Figueirense
+10,04/06/06,Athletico-PR,2-0,Palmeiras
+10,04/06/06,Goiás,1-2,Paraná
+10,04/06/06,Juventude,1-1,São Paulo
+10,04/06/06,Santos,0-0,Botafogo
+11,12/07/06,Internacional,2-0,Ponte Preta
+11,12/07/06,Athletico-PR,0-0,Fortaleza
+11,12/07/06,Fluminense,3-2,Juventude
+11,12/07/06,São Paulo,2-1,Grêmio
+11,12/07/06,Figueirense,2-1,Santos
+11,12/07/06,São Caetano,1-1,Botafogo
+11,12/07/06,Cruzeiro,2-0,Corinthians
+11,13/07/06,Santa Cruz,2-1,Goiás
+11,13/07/06,Flamengo,1-4,Paraná
+11,13/07/06,Palmeiras,4-2,Vasco da Gama
+12,15/07/06,Botafogo,4-1,Ponte Preta
+12,15/07/06,São Paulo,2-1,Figueirense
+12,16/07/06,Grêmio,4-4,Fluminense
+12,16/07/06,Palmeiras,1-0,Corinthians
+12,16/07/06,São Caetano,2-0,Santos
+12,16/07/06,Cruzeiro,0-0,Goiás
+12,16/07/06,Fortaleza,1-4,Santa Cruz
+12,16/07/06,Paraná,2-1,Athletico-PR
+12,16/07/06,Juventude,2-0,Internacional
+12,16/07/06,Flamengo,0-1,Vasco da Gama
+13,22/07/06,Figueirense,2-0,Grêmio
+13,22/07/06,Paraná,1-0,Cruzeiro
+13,22/07/06,Corinthians,2-2,Fortaleza
+13,22/07/06,Fluminense,2-2,São Caetano
+13,23/07/06,Ponte Preta,1-3,São Paulo
+13,23/07/06,Vasco da Gama,2-1,Athletico-PR
+13,23/07/06,Santa Cruz,3-0,Flamengo
+13,23/07/06,Santos,3-2,Juventude
+13,23/07/06,Internacional,0-0,Botafogo
+13,23/07/06,Goiás,1-3,Palmeiras
+14,29/07/06,Juventude,1-0,Figueirense
+14,29/07/06,São Caetano,1-1,Ponte Preta
+14,29/07/06,Palmeiras,4-2,Paraná
+14,30/07/06,São Paulo,0-4,Santos
+14,30/07/06,Santa Cruz,1-0,Corinthians
+14,30/07/06,Vasco da Gama,1-0,Cruzeiro
+14,30/07/06,Athletico-PR,1-0,Flamengo
+14,30/07/06,Goiás,1-1,Fortaleza
+14,30/07/06,Internacional,0-0,Grêmio
+14,30/07/06,Fluminense,1-1,Botafogo
+15,05/08/06,Figueirense,1-1,São Caetano
+15,05/08/06,Grêmio,1-0,Juventude
+15,05/08/06,Corinthians,2-1,Athletico-PR
+15,05/08/06,Flamengo,1-0,Goiás
+15,06/08/06,Santos,2-1,Internacional
+15,06/08/06,Botafogo,1-1,São Paulo
+15,06/08/06,Paraná,2-1,Vasco da Gama
+15,06/08/06,Ponte Preta,3-0,Fluminense
+15,06/08/06,Cruzeiro,3-3,Santa Cruz
+15,06/08/06,Fortaleza,0-0,Palmeiras
+16,12/08/06,Juventude,0-0,Vasco da Gama
+16,12/08/06,São Caetano,2-0,Santa Cruz
+16,12/08/06,Corinthians,1-3,Figueirense
+16,12/08/06,Flamengo,0-0,Ponte Preta
+16,13/08/06,Botafogo,1-3,Palmeiras
+16,13/08/06,Grêmio,2-0,Athletico-PR
+16,13/08/06,Cruzeiro,2-3,Fluminense
+16,13/08/06,Fortaleza,1-2,Internacional
+16,13/08/06,São Paulo,2-1,Goiás
+16,13/08/06,Paraná,1-1,Santos
+17,16/08/06,Ponte Preta,1-3,Fortaleza
+17,16/08/06,Santa Cruz,2-4,Grêmio
+17,16/08/06,Vasco da Gama,1-2,São Caetano
+17,16/08/06,Goiás,2-2,Botafogo
+17,16/08/06,Figueirense,1-1,Flamengo
+17,16/08/06,Fluminense,1-2,Corinthians
+17,17/08/06,Santos,2-0,Cruzeiro
+17,17/08/06,Palmeiras,1-1,Juventude
+18,19/08/06,Ponte Preta,3-2,Goiás
+18,19/08/06,Flamengo,1-0,Grêmio
+18,20/08/06,Fluminense,1-1,Santa Cruz
+18,20/08/06,Santos,0-2,Vasco da Gama
+18,20/08/06,Fortaleza,4-1,Juventude
+18,20/08/06,Cruzeiro,2-2,São Paulo
+18,20/08/06,Figueirense,3-3,Athletico-PR
+18,20/08/06,Paraná,1-0,São Caetano
+18,20/08/06,Internacional,1-1,Palmeiras
+18,20/08/06,Corinthians,1-0,Botafogo
+19,23/08/06,Athletico-PR,3-0,Ponte Preta
+19,23/08/06,Goiás,2-2,Internacional
+19,23/08/06,Palmeiras,3-0,Fluminense
+19,23/08/06,Botafogo,1-0,Cruzeiro
+19,23/08/06,Santa Cruz,1-1,Santos
+19,23/08/06,Juventude,0-0,Corinthians
+19,23/08/06,São Caetano,2-2,Flamengo
+19,24/08/06,Grêmio,4-1,Fortaleza
+19,24/08/06,São Paulo,3-2,Paraná
+19,24/08/06,Vasco da Gama,3-1,Figueirense
+20,26/08/06,Fluminense,1-2,Athletico-PR
+20,26/08/06,Santos,2-1,Goiás
+20,26/08/06,Cruzeiro,3-0,São Caetano
+20,27/08/06,Flamengo,1-1,São Paulo
+20,27/08/06,Corinthians,0-2,Grêmio
+20,27/08/06,Internacional,1-2,Vasco da Gama
+20,27/08/06,Paraná,0-1,Juventude
+20,27/08/06,Ponte Preta,1-1,Palmeiras
+20,27/08/06,Figueirense,2-0,Santa Cruz
+20,27/08/06,Fortaleza,2-3,Botafogo
+21,30/08/06,Grêmio,2-1,Cruzeiro
+21,30/08/06,Goiás,3-1,Fluminense
+21,30/08/06,Santa Cruz,0-2,Internacional
+21,30/08/06,Palmeiras,1-1,Figueirense
+21,30/08/06,Juventude,1-0,Flamengo
+21,30/08/06,São Caetano,0-1,Corinthians
+21,30/08/06,Athletico-PR,2-1,Santos
+21,31/08/06,Botafogo,4-0,Paraná
+21,31/08/06,São Paulo,1-1,Fortaleza
+21,31/08/06,Vasco da Gama,2-2,Ponte Preta
+22,02/09/06,Cruzeiro,2-2,Figueirense
+22,02/09/06,Flamengo,1-2,Internacional
+22,03/09/06,Santos,5-1,Palmeiras
+22,03/09/06,Grêmio,2-1,Paraná
+22,03/09/06,São Caetano,0-0,Fortaleza
+22,03/09/06,Athletico-PR,0-5,Botafogo
+22,03/09/06,Goiás,2-0,Juventude
+22,03/09/06,Fluminense,1-1,Vasco da Gama
+22,03/09/06,Santa Cruz,1-3,São Paulo
+22,03/09/06,Corinthians,1-0,Ponte Preta
+23,09/09/06,Ponte Preta,2-0,Santa Cruz
+23,09/09/06,Vasco da Gama,1-1,Grêmio
+23,09/09/06,Palmeiras,3-1,São Caetano
+23,10/09/06,Juventude,2-0,Cruzeiro
+23,10/09/06,São Paulo,0-0,Corinthians
+23,10/09/06,Paraná,1-0,Fluminense
+23,10/09/06,Figueirense,2-2,Goiás
+23,10/09/06,Internacional,2-0,Athletico-PR
+23,10/09/06,Botafogo,0-2,Flamengo
+23,10/09/06,Fortaleza,1-1,Santos
+24,16/09/06,Athletico-PR,2-1,Santa Cruz
+24,16/09/06,Vasco da Gama,0-0,Goiás
+24,16/09/06,Corinthians,1-0,Paraná
+24,17/09/06,Cruzeiro,1-0,Palmeiras
+24,17/09/06,São Paulo,2-0,Internacional
+24,17/09/06,Grêmio,4-0,Botafogo
+24,17/09/06,Juventude,1-0,São Caetano
+24,17/09/06,Fluminense,2-0,Figueirense
+24,17/09/06,Ponte Preta,1-0,Santos
+24,17/09/06,Fortaleza,3-4,Flamengo
+25,20/09/06,Grêmio,4-0,Ponte Preta
+25,20/09/06,Figueirense,1-0,Internacional
+25,20/09/06,Botafogo,2-1,Juventude
+25,20/09/06,Paraná,2-0,Fortaleza
+25,20/09/06,Goiás,2-2,Athletico-PR
+25,20/09/06,Santos,1-1,Fluminense
+25,20/09/06,São Caetano,0-1,São Paulo
+25,20/09/06,Corinthians,1-1,Vasco da Gama
+25,21/09/06,Flamengo,1-0,Cruzeiro
+25,21/09/06,Santa Cruz,3-2,Palmeiras
+26,23/09/06,Fluminense,1-3,Fortaleza
+26,23/09/06,Athletico-PR,3-1,São Caetano
+26,24/09/06,Santos,3-0,Flamengo
+26,24/09/06,Palmeiras,3-1,São Paulo
+26,24/09/06,Figueirense,0-1,Paraná
+26,24/09/06,Internacional,1-1,Corinthians
+26,24/09/06,Santa Cruz,1-0,Juventude
+26,24/09/06,Ponte Preta,0-1,Cruzeiro
+26,24/09/06,Vasco da Gama,0-0,Botafogo
+26,24/09/06,Goiás,4-0,Grêmio
+17,30/09/06,Internacional,3-2,Paraná
+17,30/09/06,Athletico-PR,0-0,São Paulo
+27,04/10/06,Fortaleza,1-1,Figueirense
+27,04/10/06,Juventude,3-2,Athletico-PR
+27,04/10/06,Paraná,2-1,Ponte Preta
+27,04/10/06,Flamengo,4-1,Fluminense
+27,04/10/06,Grêmio,2-1,Palmeiras
+27,04/10/06,São Caetano,1-2,Goiás
+27,04/10/06,São Paulo,5-1,Vasco da Gama
+27,05/10/06,Botafogo,3-0,Santa Cruz
+27,05/10/06,Corinthians,0-3,Santos
+27,05/10/06,Cruzeiro,2-1,Internacional
+28,07/10/06,Ponte Preta,3-1,Juventude
+28,07/10/06,Vasco da Gama,2-0,Fortaleza
+28,07/10/06,Fluminense,1-2,São Paulo
+28,08/10/06,Palmeiras,3-1,Flamengo
+28,08/10/06,Santa Cruz,1-3,Paraná
+28,08/10/06,Athletico-PR,1-1,Cruzeiro
+28,08/10/06,Internacional,1-0,São Caetano
+28,08/10/06,Goiás,3-1,Corinthians
+28,08/10/06,Santos,1-0,Grêmio
+28,08/10/06,Figueirense,1-0,Botafogo
+29,14/10/06,Cruzeiro,0-0,Fortaleza
+29,14/10/06,São Paulo,5-0,Juventude
+29,14/10/06,Botafogo,4-3,Santos
+29,14/10/06,São Caetano,0-2,Grêmio
+29,15/10/06,Paraná,1-0,Goiás
+29,15/10/06,Flamengo,3-0,Corinthians
+29,15/10/06,Internacional,2-0,Fluminense
+29,15/10/06,Figueirense,2-1,Ponte Preta
+29,15/10/06,Palmeiras,2-2,Athletico-PR
+29,15/10/06,Santa Cruz,0-4,Vasco da Gama
+30,18/10/06,Vasco da Gama,3-0,Palmeiras
+30,21/10/06,Goiás,5-3,Santa Cruz
+30,21/10/06,Santos,2-1,Figueirense
+30,21/10/06,Ponte Preta,0-2,Internacional
+30,22/10/06,Grêmio,1-1,São Paulo
+30,22/10/06,Paraná,0-2,Flamengo
+30,22/10/06,Fortaleza,3-4,Athletico-PR
+30,22/10/06,Corinthians,1-0,Cruzeiro
+30,22/10/06,Botafogo,2-1,São Caetano
+30,22/10/06,Juventude,1-1,Fluminense
+31,25/10/06,Corinthians,1-0,Palmeiras
+31,26/10/06,Vasco da Gama,3-1,Flamengo
+31,26/10/06,Fluminense,1-2,Grêmio
+31,26/10/06,Internacional,1-0,Juventude
+31,26/10/06,Santa Cruz,0-1,Fortaleza
+31,28/10/06,Athletico-PR,4-0,Paraná
+31,28/10/06,Figueirense,0-2,São Paulo
+31,28/10/06,Ponte Preta,1-2,Botafogo
+31,28/10/06,Goiás,2-3,Cruzeiro
+31,28/10/06,Santos,1-0,São Caetano
+32,01/11/06,Athletico-PR,6-4,Vasco da Gama
+32,01/11/06,Palmeiras,1-3,Goiás
+32,01/11/06,Flamengo,1-1,Santa Cruz
+32,01/11/06,Grêmio,1-2,Figueirense
+32,01/11/06,Fortaleza,0-4,Corinthians
+32,01/11/06,Juventude,3-2,Santos
+32,01/11/06,São Caetano,1-1,Fluminense
+32,02/11/06,Botafogo,0-1,Internacional
+32,02/11/06,São Paulo,1-1,Ponte Preta
+32,02/11/06,Cruzeiro,2-2,Paraná
+33,04/11/06,Figueirense,1-0,Juventude
+33,04/11/06,Flamengo,1-0,Athletico-PR
+33,05/11/06,Cruzeiro,2-1,Vasco da Gama
+33,05/11/06,Santos,0-1,São Paulo
+33,05/11/06,Ponte Preta,1-2,São Caetano
+33,05/11/06,Grêmio,0-1,Internacional
+33,05/11/06,Fortaleza,0-3,Goiás
+33,05/11/06,Corinthians,1-0,Santa Cruz
+33,05/11/06,Botafogo,2-1,Fluminense
+33,05/11/06,Paraná,4-2,Palmeiras
+34,08/11/06,Vasco da Gama,3-1,Paraná
+34,08/11/06,São Caetano,3-1,Figueirense
+34,08/11/06,Juventude,1-2,Grêmio
+34,08/11/06,Palmeiras,3-0,Fortaleza
+34,08/11/06,Internacional,0-0,Santos
+34,08/11/06,Athletico-PR,1-2,Corinthians
+34,08/11/06,Goiás,0-1,Flamengo
+34,09/11/06,Fluminense,0-0,Ponte Preta
+34,09/11/06,São Paulo,3-0,Botafogo
+34,09/11/06,Santa Cruz,4-1,Cruzeiro
+35,11/11/06,Santos,1-0,Paraná
+35,11/11/06,Internacional,3-0,Fortaleza
+35,11/11/06,Vasco da Gama,1-1,Juventude
+35,12/11/06,Fluminense,1-0,Cruzeiro
+35,12/11/06,Figueirense,0-0,Corinthians
+35,12/11/06,Ponte Preta,3-0,Flamengo
+35,12/11/06,Goiás,0-2,São Paulo
+35,12/11/06,Athletico-PR,2-3,Grêmio
+35,12/11/06,Palmeiras,2-1,Botafogo
+35,12/11/06,Santa Cruz,0-3,São Caetano
+36,18/11/06,Grêmio,3-1,Santa Cruz
+36,18/11/06,Flamengo,0-2,Figueirense
+36,18/11/06,Corinthians,1-1,Fluminense
+36,19/11/06,Paraná,1-0,Internacional
+36,19/11/06,São Caetano,0-1,Vasco da Gama
+36,19/11/06,Juventude,3-2,Palmeiras
+36,19/11/06,Botafogo,2-2,Goiás
+36,19/11/06,Cruzeiro,1-1,Santos
+36,19/11/06,Fortaleza,1-0,Ponte Preta
+36,19/11/06,São Paulo,1-1,Athletico-PR
+37,26/11/06,Botafogo,0-0,Corinthians
+37,26/11/06,Juventude,2-2,Fortaleza
+37,26/11/06,Grêmio,3-0,Flamengo
+37,26/11/06,Athletico-PR,1-4,Figueirense
+37,26/11/06,São Caetano,0-2,Paraná
+37,26/11/06,Vasco da Gama,1-1,Santos
+37,26/11/06,Goiás,3-0,Ponte Preta
+37,26/11/06,São Paulo,2-0,Cruzeiro
+37,26/11/06,Santa Cruz,1-2,Fluminense
+37,26/11/06,Palmeiras,1-4,Internacional
+38,02/12/06,Internacional,1-4,Goiás
+38,02/12/06,Flamengo,4-1,São Caetano
+38,03/12/06,Fluminense,1-1,Palmeiras
+38,03/12/06,Paraná,0-0,São Paulo
+38,03/12/06,Figueirense,0-0,Vasco da Gama
+38,03/12/06,Cruzeiro,3-1,Botafogo
+38,03/12/06,Ponte Preta,1-1,Athletico-PR
+38,03/12/06,Corinthians,5-3,Juventude
+38,03/12/06,Fortaleza,1-0,Grêmio
+38,03/12/06,Santos,3-1,Santa Cruz

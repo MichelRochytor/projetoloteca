@@ -1,0 +1,381 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/05/07,Figueirense,3-6,Athletico-PR
+1,12/05/07,São Paulo,2-0,Goiás
+1,12/05/07,Fluminense,2-2,Cruzeiro
+1,13/05/07,Flamengo,2-4,Palmeiras
+1,13/05/07,Internacional,2-3,Botafogo
+1,13/05/07,Paraná,3-0,Grêmio
+1,13/05/07,Atlético-MG,2-1,Nautico
+1,13/05/07,Corinthians,1-0,Juventude
+1,13/05/07,America-RN,0-1,Vasco da Gama
+1,13/05/07,Sport Recife,4-1,Santos
+2,19/05/07,Juventude,1-2,Paraná
+2,19/05/07,Athletico-PR,2-1,Internacional
+2,19/05/07,Santos,2-3,America-RN
+2,20/05/07,Cruzeiro,0-3,Corinthians
+2,20/05/07,Goiás,1-3,Flamengo
+2,20/05/07,Palmeiras,2-1,Figueirense
+2,20/05/07,Botafogo,2-1,Atlético-MG
+2,20/05/07,Grêmio,2-0,Fluminense
+2,20/05/07,Nautico,1-0,São Paulo
+2,20/05/07,Vasco da Gama,3-1,Sport Recife
+3,26/05/07,America-RN,0-1,Figueirense
+3,26/05/07,Corinthians,0-0,Atlético-MG
+3,26/05/07,Fluminense,3-0,Internacional
+3,27/05/07,São Paulo,0-0,Palmeiras
+3,27/05/07,Athletico-PR,0-1,Santos
+3,27/05/07,Grêmio,1-0,Sport Recife
+3,27/05/07,Nautico,2-2,Vasco da Gama
+3,27/05/07,Cruzeiro,3-4,Paraná
+3,27/05/07,Goiás,3-1,Juventude
+3,27/05/07,Flamengo,2-2,Botafogo
+4,02/06/07,Atlético-MG,1-1,Athletico-PR
+4,02/06/07,Botafogo,3-0,Grêmio
+4,02/06/07,Figueirense,2-1,Goiás
+4,03/06/07,Santos,1-1,Corinthians
+4,03/06/07,Palmeiras,1-3,Cruzeiro
+4,03/06/07,Juventude,3-0,America-RN
+4,03/06/07,Sport Recife,2-2,Flamengo
+4,03/06/07,Paraná,0-1,São Paulo
+4,03/06/07,Vasco da Gama,1-1,Fluminense
+4,04/06/07,Internacional,2-0,Nautico
+5,09/06/07,Palmeiras,1-1,Botafogo
+5,09/06/07,Nautico,4-4,Paraná
+5,09/06/07,Vasco da Gama,4-0,Grêmio
+5,10/06/07,Figueirense,4-0,Flamengo
+5,10/06/07,Fluminense,3-0,Sport Recife
+5,10/06/07,America-RN,1-2,Corinthians
+5,10/06/07,Athletico-PR,0-3,Goiás
+5,10/06/07,São Paulo,0-1,Atlético-MG
+5,10/06/07,Internacional,1-0,Santos
+5,10/06/07,Cruzeiro,2-3,Juventude
+12,14/06/07,Botafogo,4-0,Vasco da Gama
+6,16/06/07,Grêmio,0-2,Cruzeiro
+6,16/06/07,Flamengo,2-2,Internacional
+6,16/06/07,Corinthians,0-0,Paraná
+6,17/06/07,Atlético-MG,4-1,Figueirense
+6,17/06/07,Athletico-PR,1-1,Fluminense
+6,17/06/07,São Paulo,2-0,Vasco da Gama
+6,17/06/07,Goiás,3-1,Palmeiras
+6,17/06/07,Botafogo,3-1,Nautico
+6,17/06/07,Sport Recife,2-2,America-RN
+6,17/06/07,Juventude,0-2,Santos
+7,23/06/07,Paraná,1-0,Sport Recife
+7,23/06/07,Juventude,1-1,Figueirense
+7,24/06/07,Santos,0-2,São Paulo
+7,24/06/07,Cruzeiro,4-2,Atlético-MG
+7,24/06/07,Palmeiras,0-2,Athletico-PR
+7,24/06/07,America-RN,0-1,Fluminense
+7,24/06/07,Internacional,0-2,Grêmio
+7,24/06/07,Nautico,0-2,Goiás
+8,28/06/07,Figueirense,0-0,São Paulo
+8,28/06/07,Sport Recife,4-1,Nautico
+8,30/06/07,Santos,0-0,Grêmio
+8,30/06/07,Cruzeiro,3-1,Vasco da Gama
+8,30/06/07,America-RN,0-3,Goiás
+8,30/06/07,Internacional,1-1,Atlético-MG
+8,30/06/07,Paraná,2-2,Athletico-PR
+8,30/06/07,Fluminense,1-2,Botafogo
+8,30/06/07,Corinthians,0-1,Palmeiras
+9,03/07/07,Palmeiras,2-0,America-RN
+9,03/07/07,São Paulo,1-0,Internacional
+9,03/07/07,Figueirense,2-1,Cruzeiro
+9,03/07/07,Grêmio,3-1,Juventude
+9,03/07/07,Athletico-PR,1-1,Nautico
+9,03/07/07,Fluminense,0-0,Paraná
+9,03/07/07,Goiás,1-1,Botafogo
+9,04/07/07,Sport Recife,2-1,Corinthians
+9,04/07/07,Atlético-MG,1-1,Flamengo
+9,04/07/07,Vasco da Gama,4-0,Santos
+10,06/07/07,Paraná,0-1,America-RN
+10,07/07/07,Santos,4-1,Cruzeiro
+10,07/07/07,Corinthians,1-1,Fluminense
+10,07/07/07,Atlético-MG,0-1,Grêmio
+10,07/07/07,Botafogo,2-0,Athletico-PR
+10,07/07/07,Goiás,3-2,Sport Recife
+10,07/07/07,Internacional,2-1,Figueirense
+10,07/07/07,Nautico,0-1,Palmeiras
+10,07/07/07,Juventude,2-0,Vasco da Gama
+29,07/07/07,São Paulo,0-0,Flamengo
+11,12/07/07,Paraná,1-2,Figueirense
+11,12/07/07,Juventude,1-1,Nautico
+11,12/07/07,Vasco da Gama,1-0,Athletico-PR
+11,14/07/07,Santos,3-0,Botafogo
+11,14/07/07,Sport Recife,2-0,Atlético-MG
+11,14/07/07,Grêmio,1-1,Palmeiras
+11,14/07/07,Cruzeiro,2-1,Goiás
+11,14/07/07,America-RN,1-2,Internacional
+11,14/07/07,Corinthians,1-1,São Paulo
+12,18/07/07,Figueirense,0-1,Sport Recife
+12,18/07/07,Atlético-MG,4-1,America-RN
+12,18/07/07,Athletico-PR,4-0,Juventude
+12,18/07/07,Internacional,3-0,Corinthians
+12,18/07/07,Nautico,1-4,Cruzeiro
+12,18/07/07,São Paulo,0-1,Fluminense
+12,19/07/07,Flamengo,1-2,Paraná
+12,19/07/07,Goiás,0-0,Grêmio
+12,19/07/07,Palmeiras,2-2,Santos
+14,19/07/07,Botafogo,3-1,Juventude
+14,19/07/07,Atlético-MG,3-0,Fluminense
+14,19/07/07,São Paulo,3-1,Sport Recife
+13,21/07/07,Juventude,2-0,Internacional
+13,21/07/07,America-RN,2-1,Athletico-PR
+13,21/07/07,Vasco da Gama,4-0,Atlético-MG
+13,22/07/07,Corinthians,0-3,Nautico
+13,22/07/07,Fluminense,3-0,Goiás
+13,22/07/07,Grêmio,1-0,Flamengo
+13,22/07/07,Cruzeiro,1-2,São Paulo
+13,22/07/07,Paraná,1-0,Palmeiras
+13,22/07/07,Sport Recife,3-3,Botafogo
+13,22/07/07,Santos,3-1,Figueirense
+14,25/07/07,Athletico-PR,2-2,Cruzeiro
+14,25/07/07,Goiás,1-0,Santos
+14,25/07/07,Nautico,0-2,Grêmio
+14,25/07/07,Flamengo,3-1,America-RN
+14,25/07/07,Palmeiras,3-2,Vasco da Gama
+14,25/07/07,Figueirense,2-2,Corinthians
+14,25/07/07,Internacional,1-0,Paraná
+15,28/07/07,Santos,1-2,Nautico
+15,28/07/07,Vasco da Gama,4-1,Goiás
+15,28/07/07,Grêmio,1-1,Athletico-PR
+15,29/07/07,Corinthians,2-2,Flamengo
+15,29/07/07,Paraná,1-3,Atlético-MG
+15,29/07/07,Juventude,1-1,Palmeiras
+15,29/07/07,Sport Recife,1-5,Internacional
+15,29/07/07,Cruzeiro,3-2,Botafogo
+15,29/07/07,America-RN,0-1,São Paulo
+15,29/07/07,Fluminense,1-1,Figueirense
+16,01/08/07,Nautico,0-0,Fluminense
+16,01/08/07,Goiás,2-0,Paraná
+16,01/08/07,Palmeiras,1-2,Sport Recife
+16,01/08/07,Botafogo,4-2,America-RN
+16,01/08/07,Atlético-MG,1-2,Santos
+16,01/08/07,Athletico-PR,2-2,Corinthians
+16,01/08/07,Internacional,0-2,Vasco da Gama
+16,02/08/07,São Paulo,3-1,Juventude
+16,02/08/07,Figueirense,1-0,Grêmio
+17,04/08/07,Sport Recife,3-2,Athletico-PR
+17,04/08/07,America-RN,1-5,Nautico
+17,04/08/07,Corinthians,1-0,Goiás
+17,05/08/07,Santos,3-0,Flamengo
+17,05/08/07,Cruzeiro,3-2,Internacional
+17,05/08/07,Fluminense,0-1,Palmeiras
+17,05/08/07,Juventude,1-2,Atlético-MG
+17,05/08/07,Grêmio,0-2,São Paulo
+17,05/08/07,Vasco da Gama,2-2,Figueirense
+17,05/08/07,Paraná,0-0,Botafogo
+18,08/08/07,Cruzeiro,2-0,Sport Recife
+18,08/08/07,Juventude,0-0,Fluminense
+18,08/08/07,Nautico,4-2,Figueirense
+18,08/08/07,Goiás,3-2,Atlético-MG
+18,08/08/07,Athletico-PR,2-0,Flamengo
+18,08/08/07,Botafogo,0-2,São Paulo
+18,09/08/07,Vasco da Gama,2-0,Corinthians
+18,09/08/07,Grêmio,3-0,America-RN
+18,09/08/07,Palmeiras,1-1,Internacional
+18,09/08/07,Santos,2-0,Paraná
+19,11/08/07,Sport Recife,3-0,Juventude
+19,11/08/07,São Paulo,2-0,Athletico-PR
+19,11/08/07,Flamengo,2-1,Nautico
+19,12/08/07,Corinthians,2-1,Grêmio
+19,12/08/07,Atlético-MG,1-2,Palmeiras
+19,12/08/07,Figueirense,1-1,Botafogo
+19,12/08/07,Internacional,1-0,Goiás
+19,12/08/07,America-RN,1-2,Cruzeiro
+19,12/08/07,Fluminense,3-0,Santos
+19,12/08/07,Paraná,0-0,Vasco da Gama
+7,15/08/07,Botafogo,2-3,Corinthians
+11,16/08/07,Fluminense,0-1,Flamengo
+20,18/08/07,Santos,2-0,Sport Recife
+20,18/08/07,Athletico-PR,1-1,Figueirense
+20,18/08/07,Grêmio,2-0,Paraná
+20,19/08/07,Palmeiras,2-1,Flamengo
+20,19/08/07,Nautico,0-1,Atlético-MG
+20,19/08/07,Juventude,2-2,Corinthians
+20,19/08/07,Vasco da Gama,2-0,America-RN
+20,19/08/07,Botafogo,1-1,Internacional
+20,19/08/07,Cruzeiro,4-2,Fluminense
+20,19/08/07,Goiás,0-0,São Paulo
+8,23/08/07,Flamengo,4-0,Juventude
+21,25/08/07,Corinthians,0-3,Cruzeiro
+21,25/08/07,Fluminense,1-1,Grêmio
+21,25/08/07,Internacional,1-0,Athletico-PR
+21,26/08/07,Atlético-MG,1-2,Botafogo
+21,26/08/07,São Paulo,5-0,Nautico
+21,26/08/07,Paraná,3-1,Juventude
+21,26/08/07,Figueirense,1-2,Palmeiras
+21,26/08/07,America-RN,1-4,Santos
+21,26/08/07,Sport Recife,0-0,Vasco da Gama
+21,26/08/07,Flamengo,3-1,Goiás
+22,29/08/07,Paraná,2-2,Cruzeiro
+22,29/08/07,Juventude,2-0,Goiás
+22,29/08/07,Botafogo,1-1,Flamengo
+22,29/08/07,Figueirense,3-1,America-RN
+22,29/08/07,Palmeiras,0-1,São Paulo
+22,29/08/07,Atlético-MG,5-2,Corinthians
+22,29/08/07,Sport Recife,2-0,Grêmio
+22,29/08/07,Internacional,1-4,Fluminense
+22,30/08/07,Santos,3-1,Athletico-PR
+22,30/08/07,Vasco da Gama,4-1,Nautico
+23,01/09/07,São Paulo,6-0,Paraná
+23,01/09/07,Flamengo,1-1,Sport Recife
+23,01/09/07,America-RN,0-3,Juventude
+23,02/09/07,Corinthians,2-0,Santos
+23,02/09/07,Cruzeiro,5-0,Palmeiras
+23,02/09/07,Athletico-PR,1-0,Atlético-MG
+23,02/09/07,Grêmio,3-0,Botafogo
+23,02/09/07,Goiás,2-1,Figueirense
+23,02/09/07,Fluminense,1-1,Vasco da Gama
+23,02/09/07,Nautico,1-1,Internacional
+24,05/09/07,Corinthians,1-0,America-RN
+24,05/09/07,Goiás,2-3,Athletico-PR
+24,05/09/07,Flamengo,4-1,Figueirense
+24,05/09/07,Juventude,1-0,Cruzeiro
+24,05/09/07,Santos,2-1,Internacional
+24,05/09/07,Atlético-MG,0-0,São Paulo
+24,05/09/07,Grêmio,3-1,Vasco da Gama
+24,06/09/07,Paraná,2-4,Nautico
+24,06/09/07,Botafogo,1-1,Palmeiras
+24,06/09/07,Sport Recife,0-2,Fluminense
+25,08/09/07,Figueirense,2-1,Atlético-MG
+25,08/09/07,Internacional,3-0,Flamengo
+25,08/09/07,Vasco da Gama,0-2,São Paulo
+25,08/09/07,Cruzeiro,2-0,Grêmio
+25,08/09/07,Santos,1-0,Juventude
+25,09/09/07,Paraná,1-0,Corinthians
+25,09/09/07,Fluminense,2-0,Athletico-PR
+25,09/09/07,America-RN,1-1,Sport Recife
+25,09/09/07,Palmeiras,2-0,Goiás
+25,09/09/07,Nautico,4-1,Botafogo
+16,12/09/07,Flamengo,3-1,Cruzeiro
+26,15/09/07,Goiás,0-3,Nautico
+26,15/09/07,Fluminense,2-0,America-RN
+26,15/09/07,São Paulo,2-1,Santos
+26,16/09/07,Corinthians,0-1,Botafogo
+26,16/09/07,Athletico-PR,2-1,Palmeiras
+26,16/09/07,Sport Recife,3-1,Paraná
+26,16/09/07,Atlético-MG,3-4,Cruzeiro
+26,16/09/07,Figueirense,4-1,Juventude
+26,16/09/07,Flamengo,1-1,Vasco da Gama
+26,16/09/07,Grêmio,1-0,Internacional
+27,22/09/07,São Paulo,2-0,Figueirense
+27,22/09/07,Grêmio,1-0,Santos
+27,22/09/07,Goiás,1-1,America-RN
+27,23/09/07,Juventude,2-2,Flamengo
+27,23/09/07,Nautico,2-0,Sport Recife
+27,23/09/07,Palmeiras,1-0,Corinthians
+27,23/09/07,Atlético-MG,2-2,Internacional
+27,23/09/07,Athletico-PR,2-1,Paraná
+27,23/09/07,Botafogo,0-2,Fluminense
+27,23/09/07,Vasco da Gama,0-2,Cruzeiro
+28,29/09/07,Nautico,5-0,Athletico-PR
+28,29/09/07,Corinthians,1-2,Sport Recife
+28,29/09/07,Flamengo,1-0,Atlético-MG
+28,30/09/07,Santos,1-0,Vasco da Gama
+28,30/09/07,Botafogo,0-3,Goiás
+28,30/09/07,Internacional,1-2,São Paulo
+28,30/09/07,Juventude,1-2,Grêmio
+28,30/09/07,Cruzeiro,1-2,Figueirense
+28,30/09/07,America-RN,0-0,Palmeiras
+28,30/09/07,Paraná,3-1,Fluminense
+29,03/10/07,Palmeiras,2-1,Nautico
+29,03/10/07,Sport Recife,4-0,Goiás
+29,03/10/07,Grêmio,2-2,Atlético-MG
+29,03/10/07,Vasco da Gama,0-1,Juventude
+29,03/10/07,Athletico-PR,2-0,Botafogo
+29,03/10/07,Fluminense,1-1,Corinthians
+29,03/10/07,Cruzeiro,0-1,Santos
+10,04/10/07,Flamengo,1-0,São Paulo
+29,04/10/07,America-RN,3-2,Paraná
+29,04/10/07,Figueirense,0-0,Internacional
+30,06/10/07,Palmeiras,2-0,Grêmio
+30,06/10/07,Botafogo,1-2,Santos
+30,06/10/07,Nautico,4-1,Juventude
+30,07/10/07,São Paulo,0-1,Corinthians
+30,07/10/07,Athletico-PR,1-0,Vasco da Gama
+30,07/10/07,Atlético-MG,3-1,Sport Recife
+30,07/10/07,Internacional,2-0,America-RN
+30,07/10/07,Goiás,0-0,Cruzeiro
+30,07/10/07,Figueirense,4-0,Paraná
+30,07/10/07,Flamengo,0-2,Fluminense
+31,12/10/07,Sport Recife,0-0,Figueirense
+31,12/10/07,Cruzeiro,2-2,Nautico
+31,12/10/07,Juventude,0-0,Athletico-PR
+31,13/10/07,Corinthians,1-1,Internacional
+31,13/10/07,Paraná,0-1,Flamengo
+31,13/10/07,Fluminense,1-1,São Paulo
+31,13/10/07,America-RN,0-1,Atlético-MG
+31,13/10/07,Santos,1-1,Palmeiras
+31,13/10/07,Grêmio,2-1,Goiás
+31,14/10/07,Vasco da Gama,2-1,Botafogo
+7,18/10/07,Vasco da Gama,1-2,Flamengo
+32,20/10/07,Palmeiras,3-0,Paraná
+32,20/10/07,Goiás,5-3,Fluminense
+32,20/10/07,Botafogo,3-1,Sport Recife
+32,21/10/07,Nautico,1-0,Corinthians
+32,21/10/07,Atlético-MG,1-0,Vasco da Gama
+32,21/10/07,São Paulo,1-0,Cruzeiro
+32,21/10/07,Athletico-PR,2-0,America-RN
+32,21/10/07,Figueirense,1-0,Santos
+32,21/10/07,Internacional,3-0,Juventude
+32,21/10/07,Flamengo,2-0,Grêmio
+33,27/10/07,Fluminense,1-1,Atlético-MG
+33,27/10/07,Cruzeiro,1-1,Athletico-PR
+33,27/10/07,Santos,3-0,Goiás
+33,28/10/07,Sport Recife,1-2,São Paulo
+33,28/10/07,America-RN,0-1,Flamengo
+33,28/10/07,Grêmio,4-3,Nautico
+33,28/10/07,Corinthians,2-1,Figueirense
+33,28/10/07,Paraná,1-0,Internacional
+33,28/10/07,Juventude,1-1,Botafogo
+33,28/10/07,Vasco da Gama,2-2,Palmeiras
+34,31/10/07,Athletico-PR,2-0,Grêmio
+34,31/10/07,Figueirense,0-2,Fluminense
+34,31/10/07,Atlético-MG,0-0,Paraná
+34,31/10/07,Goiás,2-3,Vasco da Gama
+34,31/10/07,Nautico,1-2,Santos
+34,31/10/07,Flamengo,2-1,Corinthians
+34,31/10/07,São Paulo,3-0,America-RN
+34,01/11/07,Botafogo,4-1,Cruzeiro
+34,01/11/07,Palmeiras,0-1,Juventude
+34,01/11/07,Internacional,0-0,Sport Recife
+35,03/11/07,Paraná,1-0,Goiás
+35,03/11/07,Fluminense,2-1,Nautico
+35,03/11/07,Grêmio,1-2,Figueirense
+35,04/11/07,Santos,2-2,Atlético-MG
+35,04/11/07,Cruzeiro,3-1,Flamengo
+35,04/11/07,Corinthians,2-2,Athletico-PR
+35,04/11/07,America-RN,1-1,Botafogo
+35,04/11/07,Sport Recife,3-1,Palmeiras
+35,04/11/07,Vasco da Gama,1-2,Internacional
+35,07/11/07,Juventude,2-0,São Paulo
+36,10/11/07,Botafogo,3-2,Paraná
+36,10/11/07,Nautico,4-0,America-RN
+36,10/11/07,Internacional,1-0,Cruzeiro
+36,11/11/07,Goiás,1-1,Corinthians
+36,11/11/07,Figueirense,3-3,Vasco da Gama
+36,11/11/07,Athletico-PR,0-0,Sport Recife
+36,11/11/07,Atlético-MG,4-1,Juventude
+36,11/11/07,São Paulo,1-0,Grêmio
+36,11/11/07,Flamengo,1-0,Santos
+36,14/11/07,Palmeiras,1-0,Fluminense
+37,24/11/07,America-RN,0-3,Grêmio
+37,24/11/07,Fluminense,3-2,Juventude
+37,25/11/07,São Paulo,2-2,Botafogo
+37,25/11/07,Internacional,2-1,Palmeiras
+37,25/11/07,Paraná,2-3,Santos
+37,25/11/07,Sport Recife,1-0,Cruzeiro
+37,25/11/07,Flamengo,2-0,Athletico-PR
+37,28/11/07,Atlético-MG,4-1,Goiás
+37,28/11/07,Figueirense,2-0,Nautico
+37,28/11/07,Corinthians,0-1,Vasco da Gama
+38,02/12/07,Athletico-PR,2-1,São Paulo
+38,02/12/07,Santos,2-4,Fluminense
+38,02/12/07,Nautico,1-0,Flamengo
+38,02/12/07,Palmeiras,1-3,Atlético-MG
+38,02/12/07,Cruzeiro,2-0,America-RN
+38,02/12/07,Grêmio,1-1,Corinthians
+38,02/12/07,Goiás,2-1,Internacional
+38,02/12/07,Vasco da Gama,3-0,Paraná
+38,02/12/07,Botafogo,1-1,Figueirense
+38,02/12/07,Juventude,2-1,Sport Recife

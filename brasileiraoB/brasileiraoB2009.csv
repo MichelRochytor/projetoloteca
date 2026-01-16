@@ -1,0 +1,371 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,08/05/09,Ponte Preta,2-0,ABC
+1,08/05/09,Campinense,1-2,Duque de Caxias
+1,08/05/09,Figueirense,3-0,Ipatinga
+1,08/05/09,Bragantino,2-0,São Caetano
+1,09/05/09,Vila Nova,0-0,Portuguesa
+1,09/05/09,Juventude,2-2,Ceará SC
+1,09/05/09,Fortaleza,2-4,Guarani
+1,09/05/09,Bahia,2-0,Paraná
+1,09/05/09,Vasco da Gama,1-0,Brasiliense
+1,09/05/09,América-RN,1-2,Atlético-GO
+2,12/05/09,Atlético-GO,3-1,Bragantino
+2,12/05/09,Portuguesa,2-1,Fortaleza
+2,15/05/09,Paraná,0-0,Ponte Preta
+2,15/05/09,Duque de Caxias,4-2,Juventude
+2,16/05/09,Ceará SC,0-2,Vasco da Gama
+2,16/05/09,São Caetano,2-1,Bahia
+2,16/05/09,Guarani,1-0,América-RN
+2,16/05/09,ABC,1-3,Figueirense
+2,16/05/09,Ipatinga,4-0,Vila Nova
+2,16/05/09,Brasiliense,2-1,Campinense
+3,19/05/09,Bragantino,2-0,Duque de Caxias
+3,19/05/09,Campinense,1-2,Guarani
+3,22/05/09,Vila Nova,1-0,São Caetano
+3,22/05/09,América-RN,3-1,Paraná
+3,23/05/09,Figueirense,1-2,Portuguesa
+3,23/05/09,Ponte Preta,1-2,Ipatinga
+3,23/05/09,Vasco da Gama,3-0,Atlético-GO
+3,23/05/09,Bahia,1-0,Ceará SC
+3,23/05/09,Fortaleza,2-3,Brasiliense
+3,23/05/09,Juventude,2-0,ABC
+4,26/05/09,Ceará SC,2-2,Figueirense
+4,26/05/09,ABC,2-1,Fortaleza
+4,29/05/09,Guarani,3-2,Bragantino
+4,29/05/09,Atlético-GO,1-1,Ponte Preta
+4,30/05/09,Paraná,3-1,Vasco da Gama
+4,30/05/09,Ipatinga,5-1,Campinense
+4,30/05/09,Brasiliense,2-0,Juventude
+4,30/05/09,Portuguesa,0-0,Bahia
+4,30/05/09,São Caetano,0-1,América-RN
+4,30/05/09,Duque de Caxias,1-2,Vila Nova
+5,02/06/09,Juventude,0-1,Paraná
+5,02/06/09,Bragantino,1-1,Ipatinga
+5,05/06/09,Figueirense,0-1,Guarani
+5,05/06/09,Fortaleza,1-1,Duque de Caxias
+5,05/06/09,Vila Nova,1-0,Ceará SC
+5,05/06/09,Campinense,2-1,Atlético-GO
+5,06/06/09,Bahia,4-0,ABC
+5,06/06/09,América-RN,2-1,Brasiliense
+5,06/06/09,Vasco da Gama,0-0,São Caetano
+5,06/06/09,Ponte Preta,5-2,Portuguesa
+6,09/06/09,Brasiliense,3-0,Bahia
+6,09/06/09,Ipatinga,0-3,Portuguesa
+6,12/06/09,Fortaleza,3-2,Juventude
+6,12/06/09,Paraná,3-3,Ceará SC
+6,13/06/09,São Caetano,0-0,Ponte Preta
+6,13/06/09,Atlético-GO,3-2,Figueirense
+6,13/06/09,Duque de Caxias,4-1,América-RN
+6,13/06/09,Guarani,0-0,Vasco da Gama
+6,13/06/09,ABC,1-0,Vila Nova
+6,13/06/09,Bragantino,3-2,Campinense
+7,16/06/09,Portuguesa,0-1,Brasiliense
+7,16/06/09,Ceará SC,2-1,São Caetano
+7,19/06/09,Juventude,1-0,Bragantino
+7,19/06/09,Figueirense,1-0,Paraná
+7,19/06/09,Vasco da Gama,0-0,Duque de Caxias
+7,20/06/09,Vila Nova,2-3,Atlético-GO
+7,20/06/09,Ponte Preta,0-1,Guarani
+7,20/06/09,Campinense,2-4,Fortaleza
+7,20/06/09,Bahia,1-1,Ipatinga
+7,20/06/09,América-RN,1-0,ABC
+8,23/06/09,América-RN,1-2,Ponte Preta
+8,23/06/09,Ipatinga,0-1,Fortaleza
+8,26/06/09,Guarani,1-0,São Caetano
+8,26/06/09,Juventude,1-1,Vila Nova
+8,27/06/09,Duque de Caxias,0-0,Bahia
+8,27/06/09,Figueirense,1-1,Vasco da Gama
+8,27/06/09,Bragantino,1-2,Portuguesa
+8,27/06/09,Ceará SC,2-0,Campinense
+8,27/06/09,Atlético-GO,2-0,ABC
+8,27/06/09,Paraná,0-2,Brasiliense
+9,30/06/09,Brasiliense,1-1,Duque de Caxias
+9,30/06/09,Vasco da Gama,0-0,Bragantino
+10,03/07/09,Vila Nova,0-0,Guarani
+10,03/07/09,ABC,1-1,Ipatinga
+10,03/07/09,Portuguesa,1-0,Paraná
+10,04/07/09,Fortaleza,0-0,Ceará SC
+10,04/07/09,Campinense,0-1,América-RN
+10,04/07/09,Ponte Preta,3-0,Juventude
+10,04/07/09,Bahia,0-1,Figueirense
+10,04/07/09,São Caetano,2-2,Atlético-GO
+10,07/07/09,Campinense,1-0,Juventude
+10,07/07/09,Guarani,2-1,Brasiliense
+10,10/07/09,São Caetano,1-1,Portuguesa
+10,10/07/09,Figueirense,3-1,Fortaleza
+11,11/07/09,Bragantino,2-1,Vila Nova
+11,11/07/09,Ipatinga,1-0,Duque de Caxias
+11,11/07/09,América-RN,4-1,Bahia
+11,11/07/09,Ceará SC,2-0,ABC
+11,11/07/09,Vasco da Gama,3-0,Ponte Preta
+11,11/07/09,Atlético-GO,5-0,Paraná
+11,13/07/09,Fortaleza,3-0,América-RN
+11,14/07/09,Juventude,2-0,Figueirense
+11,14/07/09,Brasiliense,0-1,Ceará SC
+11,14/07/09,Ponte Preta,3-0,Campinense
+11,14/07/09,Paraná,2-0,Ipatinga
+11,14/07/09,Duque de Caxias,1-1,Guarani
+11,14/07/09,Vila Nova,0-2,Vasco da Gama
+11,14/07/09,ABC,0-4,São Caetano
+11,14/07/09,Bahia,1-1,Bragantino
+11,14/07/09,Portuguesa,2-1,Atlético-GO
+12,17/07/09,Ipatinga,5-2,Brasiliense
+12,17/07/09,Vasco da Gama,3-0,ABC
+12,17/07/09,Figueirense,3-1,Vila Nova
+12,17/07/09,Ceará SC,2-0,Portuguesa
+12,18/07/09,São Caetano,4-0,Duque de Caxias
+12,18/07/09,Atlético-GO,3-1,Fortaleza
+12,18/07/09,Bragantino,1-1,Ponte Preta
+12,18/07/09,Guarani,1-2,Paraná
+12,18/07/09,Campinense,1-2,Bahia
+12,18/07/09,América-RN,0-2,Juventude
+13,21/07/09,Juventude,2-2,Ipatinga
+13,21/07/09,Fortaleza,1-2,Bragantino
+13,24/07/09,Duque de Caxias,1-2,Ceará SC
+13,24/07/09,ABC,1-1,Guarani
+13,24/07/09,Paraná,1-0,São Caetano
+13,25/07/09,Vila Nova,2-1,Campinense
+13,25/07/09,Bahia,2-1,Vasco da Gama
+13,25/07/09,Portuguesa,2-1,América-RN
+13,25/07/09,Ponte Preta,0-1,Figueirense
+13,25/07/09,Brasiliense,0-1,Atlético-GO
+14,28/07/09,São Caetano,4-1,Campinense
+14,28/07/09,Paraná,1-3,ABC
+14,28/07/09,Figueirense,3-1,Brasiliense
+14,28/07/09,Ponte Preta,3-1,Vila Nova
+14,28/07/09,Portuguesa,4-3,Guarani
+14,28/07/09,Vasco da Gama,2-1,Fortaleza
+14,28/07/09,América-RN,1-4,Bragantino
+14,28/07/09,Atlético-GO,3-0,Duque de Caxias
+14,28/07/09,Ceará SC,2-0,Ipatinga
+14,28/07/09,Bahia,2-2,Juventude
+15,31/07/09,Vila Nova,2-1,América-RN
+15,31/07/09,ABC,1-0,Portuguesa
+15,31/07/09,Campinense,4-2,Figueirense
+15,31/07/09,Guarani,1-3,Atlético-GO
+15,01/08/09,Fortaleza,3-2,Bahia
+15,01/08/09,Juventude,1-2,Vasco da Gama
+15,01/08/09,Ipatinga,0-2,São Caetano
+15,01/08/09,Bragantino,1-1,Ceará SC
+15,01/08/09,Duque de Caxias,2-1,Paraná
+15,01/08/09,Brasiliense,3-0,Ponte Preta
+16,04/08/09,Paraná,4-1,Bragantino
+16,04/08/09,Portuguesa,0-1,Juventude
+16,07/08/09,Ipatinga,1-0,Guarani
+16,07/08/09,São Caetano,2-1,Brasiliense
+16,08/08/09,Figueirense,0-1,América-RN
+16,08/08/09,Ceará SC,1-0,Atlético-GO
+16,08/08/09,Vila Nova,1-0,Bahia
+16,08/08/09,Vasco da Gama,3-0,Campinense
+16,08/08/09,Ponte Preta,1-1,Fortaleza
+16,08/08/09,ABC,1-2,Duque de Caxias
+17,11/08/09,Juventude,1-2,São Caetano
+17,11/08/09,Bragantino,1-0,Figueirense
+17,11/08/09,Guarani,2-1,Ceará SC
+17,11/08/09,Atlético-GO,2-2,Ipatinga
+17,11/08/09,Bahia,2-2,Ponte Preta
+17,11/08/09,América-RN,2-2,Vasco da Gama
+17,11/08/09,Fortaleza,2-2,Vila Nova
+17,11/08/09,Duque de Caxias,2-1,Portuguesa
+17,11/08/09,Brasiliense,1-1,ABC
+17,11/08/09,Campinense,2-2,Paraná
+18,14/08/09,Brasiliense,2-1,Bragantino
+18,14/08/09,Atlético-GO,2-1,Juventude
+18,14/08/09,Ceará SC,1-1,Ponte Preta
+18,14/08/09,Paraná,3-0,Vila Nova
+18,15/08/09,São Caetano,2-0,Fortaleza
+18,15/08/09,Guarani,2-1,Bahia
+18,15/08/09,Duque de Caxias,2-3,Figueirense
+18,15/08/09,ABC,1-2,Campinense
+18,15/08/09,Portuguesa,1-3,Vasco da Gama
+18,15/08/09,Ipatinga,2-2,América-RN
+19,18/08/09,Campinense,3-3,Portuguesa
+19,18/08/09,Bahia,2-1,Atlético-GO
+19,21/08/09,Figueirense,0-2,São Caetano
+19,21/08/09,Juventude,4-1,Guarani
+19,22/08/09,Vila Nova,0-0,Brasiliense
+19,22/08/09,Fortaleza,4-0,Paraná
+19,22/08/09,Vasco da Gama,4-0,Ipatinga
+19,22/08/09,América-RN,1-5,Ceará SC
+19,22/08/09,Ponte Preta,4-1,Duque de Caxias
+19,22/08/09,Bragantino,3-0,ABC
+21,28/08/09,Figueirense,1-0,ABC
+21,28/08/09,Fortaleza,0-1,Portuguesa
+21,28/08/09,Vila Nova,0-2,Ipatinga
+21,28/08/09,Vasco da Gama,0-2,Ceará SC
+21,28/08/09,Campinense,1-0,Brasiliense
+21,29/08/09,Bahia,3-1,São Caetano
+21,29/08/09,Juventude,0-0,Duque de Caxias
+21,29/08/09,América-RN,3-1,Guarani
+21,29/08/09,Ponte Preta,3-3,Paraná
+21,29/08/09,Bragantino,2-2,Atlético-GO
+22,01/09/09,Duque de Caxias,0-1,Bragantino
+22,01/09/09,Portuguesa,3-1,Figueirense
+22,04/09/09,Ipatinga,0-0,Ponte Preta
+22,04/09/09,Guarani,3-0,Campinense
+22,04/09/09,Paraná,2-1,América-RN
+22,05/09/09,Ceará SC,2-1,Bahia
+22,05/09/09,ABC,2-1,Juventude
+22,05/09/09,Atlético-GO,2-2,Vasco da Gama
+22,05/09/09,São Caetano,3-1,Vila Nova
+22,05/09/09,Brasiliense,1-0,Fortaleza
+23,08/09/09,Bragantino,0-1,Guarani
+23,08/09/09,Juventude,2-0,Brasiliense
+23,11/09/09,Vasco da Gama,2-1,Paraná
+23,11/09/09,Ponte Preta,3-1,Atlético-GO
+23,11/09/09,Campinense,5-1,Ipatinga
+23,12/09/09,Vila Nova,3-2,Duque de Caxias
+23,12/09/09,Fortaleza,3-3,ABC
+23,12/09/09,Bahia,1-4,Portuguesa
+23,12/09/09,Figueirense,2-1,Ceará SC
+23,12/09/09,América-RN,0-0,São Caetano
+24,15/09/09,Paraná,1-1,Juventude
+24,15/09/09,Ceará SC,2-0,Vila Nova
+24,15/09/09,Portuguesa,1-1,Ponte Preta
+24,15/09/09,Guarani,3-2,Figueirense
+24,15/09/09,São Caetano,0-1,Vasco da Gama
+24,15/09/09,Ipatinga,2-0,Bragantino
+24,15/09/09,Duque de Caxias,4-3,Fortaleza
+24,15/09/09,ABC,3-0,Bahia
+24,15/09/09,Atlético-GO,1-0,Campinense
+24,15/09/09,Brasiliense,0-0,América-RN
+25,18/09/09,Figueirense,2-1,Atlético-GO
+25,18/09/09,Campinense,2-0,Bragantino
+25,18/09/09,Bahia,1-2,Brasiliense
+25,18/09/09,Ponte Preta,1-3,São Caetano
+25,19/09/09,Ceará SC,0-1,Paraná
+25,19/09/09,América-RN,0-1,Duque de Caxias
+25,19/09/09,Vila Nova,1-0,ABC
+25,19/09/09,Vasco da Gama,1-0,Guarani
+25,19/09/09,Juventude,2-0,Fortaleza
+25,19/09/09,Portuguesa,0-1,Ipatinga
+26,22/09/09,Bragantino,3-2,Juventude
+26,22/09/09,Ipatinga,0-0,Bahia
+26,25/09/09,São Caetano,0-0,Ceará SC
+26,25/09/09,Brasiliense,3-2,Portuguesa
+26,25/09/09,Fortaleza,3-0,Campinense
+26,26/09/09,Duque de Caxias,0-1,Vasco da Gama
+26,26/09/09,Guarani,2-1,Ponte Preta
+26,26/09/09,Atlético-GO,2-1,Vila Nova
+26,26/09/09,Paraná,0-4,Figueirense
+26,26/09/09,ABC,1-0,América-RN
+27,29/09/09,Brasiliense,0-1,Paraná
+27,29/09/09,ABC,2-1,Atlético-GO
+27,29/09/09,Portuguesa,2-0,Bragantino
+27,29/09/09,Campinense,1-3,Ceará SC
+27,29/09/09,Ponte Preta,4-0,América-RN
+27,29/09/09,São Caetano,1-2,Guarani
+27,29/09/09,Vasco da Gama,1-2,Figueirense
+27,29/09/09,Vila Nova,1-0,Juventude
+27,29/09/09,Fortaleza,1-0,Ipatinga
+27,29/09/09,Bahia,1-2,Duque de Caxias
+28,02/10/09,Ipatinga,2-1,ABC
+28,02/10/09,América-RN,4-4,Campinense
+28,02/10/09,Juventude,3-1,Ponte Preta
+28,02/10/09,Paraná,0-2,Portuguesa
+28,03/10/09,Figueirense,2-0,Bahia
+28,03/10/09,Guarani,1-1,Vila Nova
+28,03/10/09,Atlético-GO,2-0,São Caetano
+28,03/10/09,Duque de Caxias,0-0,Brasiliense
+28,03/10/09,Bragantino,0-0,Vasco da Gama
+28,03/10/09,Ceará SC,1-0,Fortaleza
+29,06/10/09,Portuguesa,1-1,São Caetano
+29,06/10/09,Vila Nova,1-2,Bragantino
+29,09/10/09,Duque de Caxias,3-1,Ipatinga
+29,09/10/09,Bahia,3-3,América-RN
+29,09/10/09,Paraná,2-1,Atlético-GO
+29,09/10/09,ABC,1-3,Ceará SC
+29,10/10/09,Fortaleza,3-1,Figueirense
+29,10/10/09,Ponte Preta,1-1,Vasco da Gama
+29,10/10/09,Brasiliense,1-2,Guarani
+29,10/10/09,Juventude,0-1,Campinense
+30,13/10/09,Vasco da Gama,4-1,Vila Nova
+30,13/10/09,Guarani,2-1,Duque de Caxias
+30,16/10/09,Campinense,2-3,Ponte Preta
+30,16/10/09,São Caetano,3-0,ABC
+30,16/10/09,Figueirense,3-1,Juventude
+30,17/10/09,Atlético-GO,0-1,Portuguesa
+30,17/10/09,Ceará SC,2-1,Brasiliense
+30,17/10/09,América-RN,2-1,Fortaleza
+30,17/10/09,Bragantino,3-0,Bahia
+30,17/10/09,Ipatinga,1-1,Paraná
+31,20/10/09,Juventude,2-1,América-RN
+31,20/10/09,Bahia,3-0,Campinense
+31,20/10/09,Ponte Preta,2-1,Bragantino
+31,20/10/09,Portuguesa,1-0,Ceará SC
+31,20/10/09,ABC,2-3,Vasco da Gama
+31,20/10/09,Paraná,2-0,Guarani
+31,20/10/09,Vila Nova,2-1,Figueirense
+31,20/10/09,Fortaleza,0-1,Atlético-GO
+31,20/10/09,Brasiliense,2-0,Ipatinga
+31,20/10/09,Duque de Caxias,2-1,São Caetano
+32,23/10/09,América-RN,4-0,Portuguesa
+32,23/10/09,Atlético-GO,5-1,Brasiliense
+32,23/10/09,Bragantino,4-1,Fortaleza
+32,23/10/09,Ceará SC,1-0,Duque de Caxias
+32,24/10/09,Figueirense,1-2,Ponte Preta
+32,24/10/09,São Caetano,1-2,Paraná
+32,24/10/09,Guarani,1-0,ABC
+32,24/10/09,Vasco da Gama,2-1,Bahia
+32,24/10/09,Campinense,2-3,Vila Nova
+32,24/10/09,Ipatinga,0-1,Juventude
+33,27/10/09,Bragantino,2-1,América-RN
+33,27/10/09,Juventude,0-1,Bahia
+33,30/10/09,Vila Nova,3-2,Ponte Preta
+33,30/10/09,Duque de Caxias,5-1,Atlético-GO
+33,30/10/09,Ipatinga,0-0,Ceará SC
+33,31/10/09,Campinense,2-1,São Caetano
+33,31/10/09,Brasiliense,0-4,Figueirense
+33,31/10/09,Fortaleza,1-1,Vasco da Gama
+33,31/10/09,Portuguesa,0-3,Guarani
+33,31/10/09,ABC,1-1,Paraná
+34,03/11/09,Ceará SC,2-0,Bragantino
+34,03/11/09,Ponte Preta,2-0,Brasiliense
+34,03/11/09,Portuguesa,2-1,ABC
+34,06/11/09,São Caetano,0-0,Ipatinga
+34,06/11/09,Figueirense,3-1,Campinense
+34,06/11/09,Bahia,2-2,Fortaleza
+34,07/11/09,Atlético-GO,4-1,Guarani
+34,07/11/09,Paraná,1-1,Duque de Caxias
+34,07/11/09,Vasco da Gama,2-1,Juventude
+34,07/11/09,América-RN,2-0,Vila Nova
+35,10/11/09,Duque de Caxias,2-1,ABC
+35,10/11/09,Juventude,1-0,Portuguesa
+35,10/11/09,Bragantino,2-2,Paraná
+35,10/11/09,Guarani,3-1,Ipatinga
+35,10/11/09,Campinense,0-1,Vasco da Gama
+35,10/11/09,América-RN,1-0,Figueirense
+35,10/11/09,Fortaleza,2-1,Ponte Preta
+35,10/11/09,Atlético-GO,4-1,Ceará SC
+35,10/11/09,Bahia,1-0,Vila Nova
+35,11/11/09,Brasiliense,2-2,São Caetano
+36,13/11/09,Vasco da Gama,2-1,América-RN
+36,13/11/09,Paraná,3-0,Campinense
+36,13/11/09,Portuguesa,1-1,Duque de Caxias
+36,14/11/09,São Caetano,0-0,Juventude
+36,14/11/09,Figueirense,2-1,Bragantino
+36,14/11/09,Ceará SC,2-2,Guarani
+36,14/11/09,Vila Nova,2-1,Fortaleza
+36,14/11/09,ABC,6-2,Brasiliense
+36,14/11/09,Ponte Preta,1-3,Bahia
+36,14/11/09,Ipatinga,1-0,Atlético-GO
+37,21/11/09,Juventude,1-3,Atlético-GO
+37,21/11/09,Figueirense,1-2,Duque de Caxias
+37,21/11/09,Fortaleza,1-2,São Caetano
+37,21/11/09,Vasco da Gama,0-1,Portuguesa
+37,21/11/09,Vila Nova,2-2,Paraná
+37,21/11/09,Bahia,2-0,Guarani
+37,21/11/09,Ponte Preta,1-2,Ceará SC
+37,21/11/09,Bragantino,1-2,Brasiliense
+37,21/11/09,América-RN,1-0,Ipatinga
+37,21/11/09,Campinense,3-1,ABC
+38,27/11/09,São Caetano,2-1,Figueirense
+38,27/11/09,Atlético-GO,0-3,Bahia
+38,27/11/09,Duque de Caxias,4-1,Ponte Preta
+38,27/11/09,Paraná,1-1,Fortaleza
+38,27/11/09,ABC,0-1,Bragantino
+38,27/11/09,Portuguesa,1-1,Campinense
+38,28/11/09,Ceará SC,0-0,América-RN
+38,28/11/09,Guarani,2-1,Juventude
+38,28/11/09,Brasiliense,2-1,Vila Nova
+38,28/11/09,Ipatinga,2-0,Vasco da Gama

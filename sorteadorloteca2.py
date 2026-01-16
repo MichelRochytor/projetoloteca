@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-def gerar_38_concursos_loteca(arquivo_a, arquivo_b, output_dir="simulacao2015"):
+def gerar_38_concursos_loteca(arquivo_a, arquivo_b, output_dir="simulacao2016"):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -62,4 +62,4 @@ def gerar_38_concursos_loteca(arquivo_a, arquivo_b, output_dir="simulacao2015"):
     print(f"\n🚀 Pronto! {concursos_gerados} rodadas processadas em '{output_dir}'.")
 
 # Executar
-gerar_38_concursos_loteca('brasileiraoA/brasileiraoA2015.csv', 'brasileiraoB/brasileiraoB2015.csv')
+gerar_38_concursos_loteca('brasileiraoA/brasileiraoA2016.csv', 'brasileiraoB/brasileiraoB2016.csv')

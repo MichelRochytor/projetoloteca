@@ -1,0 +1,269 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,08/08/20,Fortaleza,0-2,Athletico-PR
+1,08/08/20,Coritiba,0-1,Internacional
+1,08/08/20,Sport Recife,3-2,Ceará SC
+1,09/08/20,Santos,1-1,Bragantino
+1,09/08/20,Flamengo,0-1,Atlético-MG
+1,09/08/20,Grêmio,1-0,Fluminense
+2,12/08/20,Athletico-PR,2-1,Goiás
+2,12/08/20,Atlético-MG,3-2,Corinthians
+2,12/08/20,Bragantino,1-1,Botafogo
+2,12/08/20,Bahia,1-0,Coritiba
+2,12/08/20,Atletico-GO,3-0,Flamengo
+2,12/08/20,Ceará SC,1-1,Grêmio
+2,12/08/20,Fluminense,1-1,Palmeiras
+2,13/08/20,São Paulo,1-0,Fortaleza
+2,13/08/20,Internacional,2-0,Santos
+2,13/08/20,Vasco da Gama,2-0,Sport Recife
+3,15/08/20,Grêmio,0-0,Corinthians
+3,15/08/20,Coritiba,0-1,Flamengo
+3,15/08/20,Palmeiras,1-1,Goiás
+3,16/08/20,Atlético-MG,2-0,Ceará SC
+3,16/08/20,Bahia,2-1,Bragantino
+3,16/08/20,Vasco da Gama,2-1,São Paulo
+3,16/08/20,Fluminense,2-1,Internacional
+3,16/08/20,Atletico-GO,1-1,Sport Recife
+3,16/08/20,Fortaleza,0-0,Botafogo
+3,16/08/20,Santos,3-1,Athletico-PR
+4,19/08/20,Flamengo,1-1,Grêmio
+4,19/08/20,Bragantino,2-1,Fluminense
+4,19/08/20,Athletico-PR,0-1,Palmeiras
+4,19/08/20,Goiás,1-3,Fortaleza
+4,19/08/20,Internacional,3-0,Atletico-GO
+4,19/08/20,Corinthians,3-1,Coritiba
+4,19/08/20,Botafogo,2-1,Atlético-MG
+4,20/08/20,Sport Recife,0-1,Santos
+4,20/08/20,Ceará SC,0-3,Vasco da Gama
+4,20/08/20,São Paulo,1-1,Bahia
+5,22/08/20,Athletico-PR,0-1,Fluminense
+5,22/08/20,Internacional,1-0,Atlético-MG
+5,22/08/20,Goiás,2-0,Atletico-GO
+5,23/08/20,Flamengo,1-1,Botafogo
+5,23/08/20,Vasco da Gama,0-0,Grêmio
+5,23/08/20,Palmeiras,2-1,Santos
+5,23/08/20,Bragantino,1-2,Coritiba
+5,23/08/20,Sport Recife,0-1,São Paulo
+5,23/08/20,Ceará SC,2-0,Bahia
+5,26/08/20,Corinthians,1-1,Fortaleza
+11,26/08/20,São Paulo,1-0,Athletico-PR
+6,29/08/20,Botafogo,0-2,Internacional
+6,29/08/20,Fluminense,2-1,Vasco da Gama
+6,29/08/20,Bahia,1-1,Palmeiras
+6,29/08/20,Fortaleza,3-0,Bragantino
+6,30/08/20,São Paulo,2-1,Corinthians
+6,30/08/20,Coritiba,1-0,Sport Recife
+6,30/08/20,Santos,0-1,Flamengo
+6,30/08/20,Atletico-GO,0-2,Ceará SC
+7,02/09/20,Ceará SC,1-0,Fortaleza
+7,02/09/20,Fluminense,1-1,Atletico-GO
+7,02/09/20,Goiás,1-2,Corinthians
+7,02/09/20,Botafogo,0-0,Coritiba
+7,02/09/20,Athletico-PR,1-1,Bragantino
+7,02/09/20,Bahia,3-5,Flamengo
+7,02/09/20,Palmeiras,1-1,Internacional
+7,02/09/20,Santos,2-2,Vasco da Gama
+7,03/09/20,Grêmio,1-2,Sport Recife
+7,03/09/20,Atlético-MG,3-0,São Paulo
+8,05/09/20,Flamengo,2-1,Fortaleza
+8,05/09/20,Corinthians,2-2,Botafogo
+8,05/09/20,Ceará SC,0-1,Santos
+8,06/09/20,Bragantino,1-2,Palmeiras
+8,06/09/20,Internacional,2-2,Bahia
+8,06/09/20,São Paulo,3-1,Fluminense
+8,06/09/20,Vasco da Gama,1-0,Athletico-PR
+8,06/09/20,Atletico-GO,1-1,Grêmio
+8,06/09/20,Sport Recife,2-1,Goiás
+8,06/09/20,Coritiba,0-1,Atlético-MG
+9,09/09/20,Athletico-PR,1-1,Botafogo
+9,09/09/20,Fortaleza,1-0,Sport Recife
+9,09/09/20,Goiás,3-3,Coritiba
+9,09/09/20,São Paulo,1-1,Bragantino
+9,09/09/20,Fluminense,1-2,Flamengo
+9,09/09/20,Santos,3-1,Atlético-MG
+9,10/09/20,Internacional,2-0,Ceará SC
+9,10/09/20,Corinthians,0-2,Palmeiras
+9,10/09/20,Bahia,0-2,Grêmio
+9,10/09/20,Vasco da Gama,1-2,Atletico-GO
+10,12/09/20,Athletico-PR,1-0,Coritiba
+10,12/09/20,Santos,2-2,São Paulo
+10,13/09/20,Fluminense,2-1,Corinthians
+10,13/09/20,Grêmio,1-1,Fortaleza
+10,13/09/20,Atlético-MG,2-1,Bragantino
+10,13/09/20,Bahia,0-1,Atletico-GO
+10,13/09/20,Ceará SC,2-0,Flamengo
+10,13/09/20,Goiás,1-0,Internacional
+10,13/09/20,Palmeiras,2-2,Sport Recife
+10,13/09/20,Botafogo,2-3,Vasco da Gama
+11,16/09/20,Corinthians,3-2,Bahia
+11,19/09/20,Fortaleza,1-0,Internacional
+11,19/09/20,Bragantino,4-2,Ceará SC
+11,19/09/20,Atletico-GO,3-4,Atlético-MG
+11,20/09/20,Grêmio,1-1,Palmeiras
+11,20/09/20,Coritiba,1-0,Vasco da Gama
+11,20/09/20,Botafogo,0-0,Santos
+11,20/09/20,Sport Recife,1-0,Fluminense
+12,23/09/20,Sport Recife,1-0,Corinthians
+12,26/09/20,Athletico-PR,1-0,Bahia
+12,26/09/20,Internacional,1-1,São Paulo
+12,26/09/20,Atlético-MG,3-1,Grêmio
+12,27/09/20,Vasco da Gama,1-1,Bragantino
+12,27/09/20,Palmeiras,1-1,Flamengo
+12,27/09/20,Ceará SC,2-2,Goiás
+12,27/09/20,Atletico-GO,1-1,Botafogo
+12,27/09/20,Santos,1-1,Fortaleza
+12,28/09/20,Fluminense,4-0,Coritiba
+1,30/09/20,Corinthians,0-0,Atletico-GO
+1,30/09/20,Botafogo,1-2,Bahia
+13,03/10/20,Grêmio,1-1,Internacional
+13,03/10/20,Palmeiras,2-1,Ceará SC
+13,03/10/20,Bragantino,0-0,Corinthians
+13,04/10/20,Botafogo,1-1,Fluminense
+13,04/10/20,Coritiba,1-1,São Paulo
+13,04/10/20,Flamengo,3-1,Athletico-PR
+13,04/10/20,Fortaleza,0-0,Atletico-GO
+13,04/10/20,Goiás,2-3,Santos
+13,04/10/20,Bahia,1-2,Sport Recife
+13,04/10/20,Atlético-MG,4-1,Vasco da Gama
+14,07/10/20,Corinthians,1-1,Santos
+14,07/10/20,Flamengo,3-0,Sport Recife
+14,07/10/20,Bahia,3-0,Vasco da Gama
+14,07/10/20,Grêmio,2-1,Coritiba
+14,07/10/20,São Paulo,3-0,Atletico-GO
+14,07/10/20,Goiás,2-4,Fluminense
+14,07/10/20,Botafogo,2-1,Palmeiras
+14,07/10/20,Fortaleza,2-1,Atlético-MG
+14,08/10/20,Athletico-PR,0-0,Ceará SC
+14,08/10/20,Bragantino,0-2,Internacional
+15,10/10/20,Vasco da Gama,1-2,Flamengo
+15,10/10/20,Coritiba,0-0,Fortaleza
+15,10/10/20,Palmeiras,0-2,São Paulo
+15,10/10/20,Atlético-MG,3-0,Goiás
+15,11/10/20,Fluminense,1-0,Bahia
+15,11/10/20,Santos,2-1,Grêmio
+15,11/10/20,Sport Recife,1-2,Botafogo
+15,11/10/20,Atletico-GO,2-1,Bragantino
+15,11/10/20,Ceará SC,2-1,Corinthians
+15,11/10/20,Internacional,2-1,Athletico-PR
+11,13/10/20,Flamengo,2-1,Goiás
+16,14/10/20,Palmeiras,1-3,Coritiba
+16,14/10/20,Grêmio,3-1,Botafogo
+16,14/10/20,Santos,0-1,Atletico-GO
+16,14/10/20,Athletico-PR,0-1,Corinthians
+16,14/10/20,Atlético-MG,1-1,Fluminense
+16,14/10/20,Sport Recife,3-5,Internacional
+16,15/10/20,Flamengo,1-1,Bragantino
+16,16/10/20,Goiás,1-1,Bahia
+17,17/10/20,Atletico-GO,1-1,Athletico-PR
+17,17/10/20,Coritiba,1-2,Santos
+17,17/10/20,Fluminense,2-2,Ceará SC
+17,17/10/20,São Paulo,0-0,Grêmio
+17,18/10/20,Corinthians,1-5,Flamengo
+17,18/10/20,Internacional,2-0,Vasco da Gama
+17,18/10/20,Bragantino,2-0,Sport Recife
+17,18/10/20,Fortaleza,2-0,Palmeiras
+17,19/10/20,Bahia,3-1,Atlético-MG
+17,19/10/20,Botafogo,0-0,Goiás
+18,21/10/20,Vasco da Gama,1-2,Corinthians
+18,24/10/20,Bragantino,2-0,Goiás
+18,24/10/20,Ceará SC,2-1,Coritiba
+18,24/10/20,Atlético-MG,0-0,Sport Recife
+18,25/10/20,Atletico-GO,0-3,Palmeiras
+18,25/10/20,Fluminense,3-1,Santos
+18,25/10/20,Athletico-PR,1-2,Grêmio
+18,25/10/20,Internacional,2-2,Flamengo
+19,31/10/20,Botafogo,2-2,Ceará SC
+19,31/10/20,Coritiba,1-0,Atletico-GO
+19,31/10/20,Corinthians,1-0,Internacional
+19,31/10/20,Fortaleza,0-1,Fluminense
+19,01/11/20,Flamengo,1-4,São Paulo
+19,01/11/20,Sport Recife,1-0,Athletico-PR
+19,01/11/20,Santos,3-1,Bahia
+19,01/11/20,Goiás,1-1,Vasco da Gama
+19,02/11/20,Palmeiras,3-0,Atlético-MG
+19,02/11/20,Grêmio,2-1,Bragantino
+20,07/11/20,Athletico-PR,2-1,Fortaleza
+20,07/11/20,São Paulo,2-1,Goiás
+20,07/11/20,Atletico-GO,1-1,Corinthians
+20,08/11/20,Vasco da Gama,0-1,Palmeiras
+20,08/11/20,Internacional,2-2,Coritiba
+20,08/11/20,Bragantino,1-1,Santos
+20,08/11/20,Atlético-MG,4-0,Flamengo
+20,08/11/20,Bahia,1-0,Botafogo
+20,08/11/20,Fluminense,0-1,Grêmio
+20,08/11/20,Ceará SC,0-0,Sport Recife
+18,11/11/20,Bahia,2-1,Fortaleza
+21,14/11/20,Sport Recife,0-2,Vasco da Gama
+21,14/11/20,Santos,2-0,Internacional
+21,14/11/20,Goiás,0-1,Athletico-PR
+21,14/11/20,Corinthians,1-2,Atlético-MG
+21,14/11/20,Fortaleza,2-3,São Paulo
+21,14/11/20,Grêmio,4-2,Ceará SC
+21,14/11/20,Palmeiras,2-0,Fluminense
+21,14/11/20,Flamengo,1-1,Atletico-GO
+21,16/11/20,Coritiba,1-2,Bahia
+21,16/11/20,Botafogo,1-2,Bragantino
+6,18/11/20,Atlético-MG,0-2,Athletico-PR
+16,19/11/20,Vasco da Gama,0-0,Fortaleza
+22,20/11/20,Bragantino,4-0,Bahia
+22,21/11/20,Athletico-PR,1-0,Santos
+22,21/11/20,Flamengo,3-1,Coritiba
+22,21/11/20,Goiás,1-0,Palmeiras
+22,22/11/20,São Paulo,1-1,Vasco da Gama
+22,22/11/20,Ceará SC,2-2,Atlético-MG
+22,22/11/20,Internacional,1-2,Fluminense
+22,22/11/20,Botafogo,1-2,Fortaleza
+22,22/11/20,Corinthians,0-0,Grêmio
+22,23/11/20,Sport Recife,0-1,Atletico-GO
+16,25/11/20,Ceará SC,1-1,São Paulo
+23,25/11/20,Atlético-MG,2-1,Botafogo
+23,25/11/20,Coritiba,0-1,Corinthians
+23,26/11/20,Fortaleza,1-1,Goiás
+23,28/11/20,Palmeiras,3-0,Athletico-PR
+23,28/11/20,Santos,4-2,Sport Recife
+23,28/11/20,Bahia,1-3,São Paulo
+23,28/11/20,Atletico-GO,0-0,Internacional
+6,30/11/20,Grêmio,2-1,Goiás
+23,30/11/20,Vasco da Gama,1-4,Ceará SC
+23,30/11/20,Fluminense,0-0,Bragantino
+24,02/12/20,Fortaleza,0-0,Corinthians
+1,03/12/20,Goiás,0-3,São Paulo
+24,05/12/20,Santos,2-2,Palmeiras
+24,05/12/20,Botafogo,0-1,Flamengo
+24,05/12/20,Fluminense,3-1,Athletico-PR
+24,05/12/20,Bahia,0-2,Ceará SC
+24,05/12/20,Coritiba,0-0,Bragantino
+24,06/12/20,São Paulo,1-0,Sport Recife
+24,06/12/20,Grêmio,4-0,Vasco da Gama
+24,06/12/20,Atlético-MG,2-2,Internacional
+24,07/12/20,Atletico-GO,0-1,Goiás
+18,09/12/20,São Paulo,4-0,Botafogo
+25,12/12/20,Athletico-PR,0-1,Atlético-MG
+25,12/12/20,Bragantino,2-1,Fortaleza
+25,12/12/20,Internacional,2-1,Botafogo
+25,12/12/20,Palmeiras,3-0,Bahia
+25,12/12/20,Goiás,0-0,Grêmio
+25,12/12/20,Ceará SC,1-2,Atletico-GO
+25,13/12/20,Flamengo,4-1,Santos
+25,13/12/20,Corinthians,1-0,São Paulo
+25,13/12/20,Sport Recife,1-0,Coritiba
+25,13/12/20,Vasco da Gama,1-1,Fluminense
+26,16/12/20,São Paulo,3-0,Atlético-MG
+26,16/12/20,Atletico-GO,2-1,Fluminense
+26,19/12/20,Sport Recife,1-1,Grêmio
+26,19/12/20,Internacional,2-0,Palmeiras
+26,19/12/20,Coritiba,1-2,Botafogo
+26,20/12/20,Bragantino,0-1,Athletico-PR
+26,20/12/20,Vasco da Gama,1-0,Santos
+26,20/12/20,Flamengo,4-3,Bahia
+26,20/12/20,Fortaleza,0-2,Ceará SC
+26,21/12/20,Corinthians,2-1,Goiás
+27,26/12/20,Atlético-MG,2-0,Coritiba
+27,26/12/20,Goiás,1-0,Sport Recife
+27,26/12/20,Fortaleza,0-0,Flamengo
+27,26/12/20,Fluminense,1-2,São Paulo
+27,27/12/20,Botafogo,0-2,Corinthians
+27,27/12/20,Bahia,1-2,Internacional
+27,27/12/20,Athletico-PR,3-0,Vasco da Gama
+27,27/12/20,Palmeiras,1-0,Bragantino
+27,27/12/20,Santos,1-1,Ceará SC
+27,27/12/20,Grêmio,2-1,Atletico-GO

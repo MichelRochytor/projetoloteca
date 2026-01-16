@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/04/18,Fortaleza,2-1,Guarani
+1,13/04/18,Atlético-GO,3-2,Criciúma
+1,13/04/18,Oeste,2-0,CRB
+1,14/04/18,Vila Nova,1-0,Avaí
+1,14/04/18,Londrina,1-0,Boa Esporte
+1,14/04/18,Brasil-RS,1-1,São Bento
+1,14/04/18,CSA,2-1,Goiás
+1,14/04/18,Sampaio Corrêa,2-0,Coritiba
+1,13/04/18,Figueirense,2-1,Juventude
+1,14/04/18,Ponte Preta,0-1,Paysandu
+2,17/04/18,Boa Esporte,0-2,Fortaleza
+2,17/04/18,Coritiba,1-0,Atlético-GO
+2,20/04/18,Juventude,1-1,Oeste
+2,20/04/18,São Bento,2-1,CSA
+2,21/04/18,Goiás,0-2,Figueirense
+2,21/04/18,Guarani,2-0,Sampaio Corrêa
+2,21/04/18,CRB,0-1,Vila Nova
+2,21/04/18,Avaí,2-2,Brasil-RS
+2,21/04/18,Criciúma,0-1,Ponte Preta
+2,20/04/18,Paysandu,1-0,Londrina
+3,24/04/18,Atlético-GO,3-2,Guarani
+3,24/04/18,Fortaleza,3-1,CRB
+3,27/04/18,Figueirense,2-0,Boa Esporte
+3,27/04/18,CSA,5-1,Oeste
+3,28/04/18,Paysandu,2-1,Brasil-RS
+3,28/04/18,Vila Nova,3-1,Sampaio Corrêa
+3,28/04/18,Juventude,1-3,Avaí
+3,28/04/18,Ponte Preta,0-1,Londrina
+3,27/04/18,Coritiba,2-1,Criciúma
+3,28/04/18,São Bento,1-1,Goiás
+4,01/05/18,Criciúma,1-3,CSA
+4,01/05/18,Boa Esporte,1-2,Juventude
+4,01/05/18,Londrina,1-1,Fortaleza
+4,01/05/18,Brasil-RS,1-0,Figueirense
+4,04/05/18,Sampaio Corrêa,1-1,Paysandu
+4,04/05/18,CRB,3-1,Atlético-GO
+4,05/05/18,Avaí,1-1,São Bento
+4,05/05/18,Goiás,1-3,Vila Nova
+4,05/05/18,Guarani,2-3,Ponte Preta
+4,04/05/18,Oeste,1-1,Coritiba
+5,07/05/18,Sampaio Corrêa,2-3,CRB
+5,08/05/18,Guarani,1-0,Criciúma
+5,08/05/18,Coritiba,1-0,Brasil-RS
+5,11/05/18,Juventude,1-1,Paysandu
+5,12/05/18,Figueirense,0-1,Avaí
+5,12/05/18,CSA,1-0,Boa Esporte
+5,12/05/18,São Bento,1-0,Oeste
+5,12/05/18,Fortaleza,3-0,Goiás
+5,11/05/18,Atlético-GO,0-0,Londrina
+5,13/05/18,Vila Nova,0-0,Ponte Preta
+6,15/05/18,CRB,0-4,Avaí
+6,15/05/18,Criciúma,0-0,Juventude
+6,18/05/18,Goiás,1-1,Guarani
+6,19/05/18,Oeste,2-0,Vila Nova
+6,19/05/18,Londrina,1-2,CSA
+6,19/05/18,Paysandu,1-1,São Bento
+6,19/05/18,Ponte Preta,1-0,Atlético-GO
+6,19/05/18,Boa Esporte,1-1,Coritiba
+6,18/05/18,Figueirense,1-3,Fortaleza
+6,19/05/18,Brasil-RS,1-2,Sampaio Corrêa
+7,22/05/18,CSA,1-4,Figueirense
+7,22/05/18,Fortaleza,2-0,Criciúma
+7,25/05/18,Atlético-GO,2-2,Oeste
+7,25/05/18,Avaí,3-1,Paysandu
+7,26/05/18,Brasil-RS,3-0,Londrina
+7,26/05/18,São Bento,2-2,Juventude
+7,26/05/18,Goiás,1-2,Boa Esporte
+7,25/05/18,Coritiba,2-0,Vila Nova
+7,26/05/18,Guarani,2-0,CRB
+7,28/05/18,Sampaio Corrêa,1-0,Ponte Preta
+8,29/05/18,São Bento,1-1,Figueirense
+8,29/05/18,Londrina,3-2,Coritiba
+8,01/06/18,Juventude,1-0,Guarani
+8,01/06/18,Vila Nova,0-1,CSA
+8,02/06/18,Atlético-GO,1-3,Goiás
+8,02/06/18,CRB,1-1,Brasil-RS
+8,02/06/18,Fortaleza,1-0,Sampaio Corrêa
+8,02/06/18,Ponte Preta,1-1,Oeste
+8,01/06/18,Paysandu,2-0,Boa Esporte
+8,01/06/18,Avaí,0-1,Criciúma
+9,05/06/18,Coritiba,1-0,CRB
+9,05/06/18,Criciúma,4-1,Paysandu
+9,05/06/18,Figueirense,1-1,Londrina
+9,05/06/18,Juventude,2-2,Atlético-GO
+9,05/06/18,CSA,1-2,Guarani
+9,05/06/18,Boa Esporte,2-2,São Bento
+9,05/06/18,Sampaio Corrêa,1-1,Avaí
+9,05/06/18,Oeste,0-0,Brasil-RS
+9,05/06/18,Ponte Preta,2-1,Goiás
+9,05/06/18,Vila Nova,0-0,Fortaleza
+10,08/06/18,Londrina,0-1,Juventude
+10,08/06/18,Goiás,2-1,Paysandu
+10,09/06/18,CSA,0-0,CRB
+10,09/06/18,Sampaio Corrêa,2-0,Oeste
+10,09/06/18,Criciúma,1-1,Boa Esporte
+10,09/06/18,São Bento,2-1,Fortaleza
+10,09/06/18,Guarani,1-1,Vila Nova
+10,09/06/18,Atlético-GO,3-4,Figueirense
+10,08/06/18,Avaí,2-0,Coritiba
+10,09/06/18,Brasil-RS,0-2,Ponte Preta
+11,11/06/18,Juventude,1-1,Coritiba
+11,12/06/18,Londrina,1-3,Goiás
+11,12/06/18,Figueirense,1-0,Sampaio Corrêa
+11,15/06/18,Fortaleza,2-0,Brasil-RS
+11,15/06/18,Boa Esporte,0-2,Avaí
+11,14/06/18,Guarani,0-0,São Bento
+11,16/06/18,Vila Nova,0-0,Atlético-GO
+11,16/06/18,Oeste,2-2,Criciúma
+11,15/06/18,CRB,2-0,Ponte Preta
+11,16/06/18,Paysandu,0-0,CSA
+12,19/06/18,Ponte Preta,1-1,CSA
+12,19/06/18,Avaí,3-3,Guarani
+12,21/06/18,Brasil-RS,1-0,Criciúma
+12,21/06/18,Goiás,1-1,Juventude
+12,23/06/18,Coritiba,1-1,Figueirense
+12,23/06/18,São Bento,0-1,Londrina
+12,23/06/18,Sampaio Corrêa,2-3,Atlético-GO
+12,23/06/18,Boa Esporte,0-2,Vila Nova
+12,23/06/18,Fortaleza,1-2,Oeste
+12,23/06/18,CRB,1-1,Paysandu
+13,26/06/18,Juventude,0-1,Vila Nova
+13,26/06/18,Oeste,1-0,Avaí
+13,26/06/18,Goiás,2-1,CRB
+13,29/06/18,CSA,2-2,Coritiba
+13,29/06/18,Atlético-GO,2-1,Brasil-RS
+13,30/06/18,Criciúma,1-0,São Bento
+13,30/06/18,Figueirense,0-2,Ponte Preta
+13,30/06/18,Paysandu,0-1,Fortaleza
+13,29/06/18,Guarani,1-1,Boa Esporte
+13,01/07/18,Londrina,1-1,Sampaio Corrêa
+14,04/07/18,Coritiba,2-0,Paysandu
+14,04/07/18,CRB,1-0,São Bento
+14,04/07/18,Atlético-GO,2-0,Boa Esporte
+14,04/07/18,Avaí,0-1,Goiás
+14,05/07/18,Oeste,0-1,Guarani
+14,05/07/18,Brasil-RS,0-2,CSA
+14,05/07/18,Vila Nova,1-1,Londrina
+14,05/07/18,Criciúma,1-1,Figueirense
+14,08/07/18,Ponte Preta,2-0,Fortaleza
+15,09/07/18,Guarani,2-1,Coritiba
+15,09/07/18,Figueirense,1-2,Oeste
+15,12/07/18,Londrina,1-2,Avaí
+15,12/07/18,Paysandu,1-2,Vila Nova
+15,13/07/18,Brasil-RS,1-1,Juventude
+15,13/07/18,Goiás,2-1,Criciúma
+15,13/07/18,Boa Esporte,0-1,CRB
+15,14/07/18,Fortaleza,0-1,Atlético-GO
+15,14/07/18,São Bento,0-2,Ponte Preta
+15,13/07/18,CSA,1-0,Sampaio Corrêa
+16,17/07/18,Avaí,0-0,Atlético-GO
+16,17/07/18,Sampaio Corrêa,0-0,Juventude
+16,17/07/18,Vila Nova,0-0,Brasil-RS
+16,17/07/18,Guarani,2-3,Figueirense
+16,20/07/18,Criciúma,2-1,Londrina
+16,20/07/18,Sampaio Corrêa,1-3,Goiás
+16,21/07/18,Coritiba,2-2,São Bento
+16,21/07/18,Juventude,1-0,CRB
+16,21/07/18,Oeste,2-2,Paysandu
+16,21/07/18,Boa Esporte,2-1,Ponte Preta
+16,20/07/18,CSA,0-0,Fortaleza
+17,23/07/18,Atlético-GO,2-2,CSA
+17,24/07/18,Brasil-RS,2-0,Boa Esporte
+17,24/07/18,Londrina,3-0,Oeste
+17,24/07/18,Figueirense,2-1,Vila Nova
+17,24/07/18,Goiás,0-1,Coritiba
+17,24/07/18,Paysandu,1-0,Guarani
+17,24/07/18,CRB,0-0,Criciúma
+17,24/07/18,Ponte Preta,0-1,Juventude
+17,24/07/18,Fortaleza,1-1,Avaí
+17,24/07/18,São Bento,2-1,Sampaio Corrêa
+18,27/07/18,Avaí,0-0,CSA
+18,28/07/18,São Bento,2-1,Atlético-GO
+18,28/07/18,Juventude,0-3,Fortaleza
+18,28/07/18,CRB,1-1,Londrina
+18,28/07/18,Guarani,2-1,Brasil-RS
+18,28/07/18,Goiás,1-0,Oeste
+18,28/07/18,Coritiba,0-0,Ponte Preta
+18,28/07/18,Criciúma,1-0,Vila Nova
+18,27/07/18,Paysandu,2-0,Figueirense
+18,28/07/18,Boa Esporte,3-1,Sampaio Corrêa
+19,31/07/18,Figueirense,0-0,CRB
+19,31/07/18,Atlético-GO,1-0,Paysandu
+19,03/08/18,Londrina,1-2,Guarani
+19,03/08/18,Oeste,1-1,Boa Esporte
+19,04/08/18,Vila Nova,1-0,São Bento
+19,04/08/18,Fortaleza,2-1,Coritiba
+19,04/08/18,Brasil-RS,1-0,Goiás
+19,04/08/18,Ponte Preta,2-2,Avaí
+19,03/08/18,CSA,1-0,Juventude
+19,04/08/18,Sampaio Corrêa,0-1,Criciúma
+20,07/08/18,Avaí,1-0,Vila Nova
+20,07/08/18,Paysandu,0-4,Ponte Preta
+20,10/08/18,Goiás,3-0,CSA
+20,10/08/18,Boa Esporte,1-0,Londrina
+20,11/08/18,Guarani,2-3,Fortaleza
+20,11/08/18,Criciúma,1-1,Atlético-GO
+20,11/08/18,CRB,0-1,Oeste
+20,11/08/18,São Bento,1-1,Brasil-RS
+20,11/08/18,Juventude,0-0,Figueirense
+20,10/08/18,Coritiba,0-0,Sampaio Corrêa
+21,14/08/18,Brasil-RS,1-1,Avaí
+21,14/08/18,Ponte Preta,3-1,Criciúma
+21,17/08/18,Londrina,2-1,Paysandu
+21,17/08/18,Vila Nova,0-0,CRB
+21,18/08/18,Fortaleza,2-1,Boa Esporte
+21,18/08/18,Atlético-GO,1-0,Coritiba
+21,18/08/18,Oeste,0-0,Juventude
+21,18/08/18,Sampaio Corrêa,0-2,Guarani
+21,17/08/18,Figueirense,1-2,Goiás
+21,18/08/18,CSA,1-0,São Bento
+22,21/08/18,Avaí,1-0,Juventude
+22,21/08/18,Criciúma,2-2,Coritiba
+22,21/08/18,Londrina,1-0,Ponte Preta
+22,21/08/18,Brasil-RS,0-0,Paysandu
+22,21/08/18,Boa Esporte,0-2,Figueirense
+22,21/08/18,CRB,2-1,Fortaleza
+22,21/08/18,Goiás,2-1,São Bento
+22,21/08/18,Oeste,2-1,CSA
+22,21/08/18,Sampaio Corrêa,0-0,Vila Nova
+22,21/08/18,Guarani,2-0,Atlético-GO
+23,24/08/18,Figueirense,1-1,Brasil-RS
+23,24/08/18,Coritiba,0-2,Oeste
+23,25/08/18,Paysandu,0-1,Sampaio Corrêa
+23,25/08/18,Ponte Preta,0-0,Guarani
+23,25/08/18,CSA,3-0,Criciúma
+23,25/08/18,São Bento,0-1,Avaí
+23,25/08/18,Vila Nova,3-0,Goiás
+23,25/08/18,Fortaleza,2-1,Londrina
+23,24/08/18,Atlético-GO,1-0,CRB
+23,25/08/18,Juventude,0-0,Boa Esporte
+24,27/08/18,Brasil-RS,0-1,Coritiba
+24,28/08/18,Criciúma,0-0,Guarani
+24,28/08/18,Oeste,0-1,São Bento
+24,31/08/18,Londrina,4-1,Atlético-GO
+24,31/08/18,Paysandu,3-3,Juventude
+24,01/09/18,Avaí,0-1,Figueirense
+24,01/09/18,Goiás,3-1,Fortaleza
+24,31/08/18,CRB,2-1,Sampaio Corrêa
+24,31/08/18,Ponte Preta,1-1,Vila Nova
+24,01/09/18,Boa Esporte,3-0,CSA
+25,03/09/18,Vila Nova,1-1,Oeste
+25,04/09/18,Avaí,1-0,CRB
+25,04/09/18,Guarani,0-2,Goiás
+25,04/09/18,Atlético-GO,2-0,Ponte Preta
+25,04/09/18,Coritiba,2-1,Boa Esporte
+25,04/09/18,São Bento,1-0,Paysandu
+25,04/09/18,CSA,4-1,Londrina
+25,04/09/18,Juventude,0-1,Criciúma
+25,04/09/18,Sampaio Corrêa,1-2,Brasil-RS
+25,04/09/18,Fortaleza,2-2,Figueirense
+26,07/09/18,CRB,1-1,Guarani
+26,07/09/18,Boa Esporte,1-0,Goiás
+26,07/09/18,Oeste,1-2,Atlético-GO
+26,07/09/18,Paysandu,2-1,Avaí
+26,08/09/18,Figueirense,1-2,CSA
+26,08/09/18,Criciúma,2-0,Fortaleza
+26,08/09/18,Juventude,0-2,São Bento
+26,08/09/18,Londrina,1-0,Brasil-RS
+26,08/09/18,Ponte Preta,0-0,Sampaio Corrêa
+26,08/09/18,Vila Nova,2-1,Coritiba
+27,11/09/18,CSA,1-2,Vila Nova
+27,14/09/18,Coritiba,0-1,Londrina
+27,14/09/18,Figueirense,2-2,São Bento
+27,13/09/18,Guarani,1-0,Juventude
+27,15/09/18,Boa Esporte,1-1,Paysandu
+27,15/09/18,Criciúma,3-2,Avaí
+27,15/09/18,Brasil-RS,1-0,CRB
+27,15/09/18,Goiás,2-1,Atlético-GO
+27,14/09/18,Sampaio Corrêa,1-0,Fortaleza
+27,15/09/18,Oeste,0-0,Ponte Preta
+28,18/09/18,Atlético-GO,0-1,Juventude
+28,18/09/18,Londrina,2-0,Figueirense
+28,21/09/18,Goiás,2-2,Ponte Preta
+28,21/09/18,CRB,1-1,Coritiba
+28,21/09/18,São Bento,0-0,Boa Esporte
+28,22/09/18,Brasil-RS,1-3,Oeste
+28,22/09/18,Paysandu,1-1,Criciúma
+28,22/09/18,Guarani,1-0,CSA
+28,21/09/18,Fortaleza,2-0,Vila Nova
+28,22/09/18,Avaí,3-1,Sampaio Corrêa
+29,25/09/18,Fortaleza,2-1,São Bento
+29,25/09/18,Ponte Preta,0-1,Brasil-RS
+29,27/09/18,Juventude,0-0,Londrina
+29,28/09/18,Paysandu,2-3,Goiás
+29,29/09/18,CRB,0-0,CSA
+29,29/09/18,Oeste,0-0,Sampaio Corrêa
+29,29/09/18,Figueirense,2-2,Atlético-GO
+29,29/09/18,Coritiba,1-0,Avaí
+29,28/09/18,Vila Nova,1-1,Guarani
+29,29/09/18,Boa Esporte,1-2,Criciúma
+30,02/10/18,Sampaio Corrêa,1-0,Figueirense
+30,02/10/18,Criciúma,0-0,Oeste
+30,02/10/18,Goiás,0-0,Londrina
+30,02/10/18,CSA,1-0,Paysandu
+30,05/10/18,São Bento,1-0,Guarani
+30,05/10/18,Brasil-RS,0-1,Fortaleza
+30,05/10/18,Avaí,2-0,Boa Esporte
+30,06/10/18,Atlético-GO,2-2,Vila Nova
+30,06/10/18,Ponte Preta,1-0,CRB
+30,05/10/18,Coritiba,2-1,Juventude
+31,09/10/18,Paysandu,1-1,CRB
+31,09/10/18,Criciúma,0-1,Brasil-RS
+31,12/10/18,Juventude,3-5,Goiás
+31,12/10/18,Atlético-GO,1-2,Sampaio Corrêa
+31,13/10/18,Guarani,1-2,Avaí
+31,13/10/18,Vila Nova,2-0,Boa Esporte
+31,13/10/18,Oeste,0-0,Fortaleza
+31,13/10/18,Figueirense,2-2,Coritiba
+31,12/10/18,CSA,1-2,Ponte Preta
+31,13/10/18,Londrina,2-1,São Bento
+32,16/10/18,Coritiba,1-1,CSA
+32,16/10/18,Brasil-RS,1-2,Atlético-GO
+32,19/10/18,CRB,2-0,Goiás
+32,19/10/18,São Bento,0-0,Criciúma
+32,20/10/18,Avaí,1-1,Oeste
+32,20/10/18,Boa Esporte,2-1,Guarani
+32,20/10/18,Vila Nova,1-0,Juventude
+32,20/10/18,Fortaleza,1-0,Paysandu
+32,19/10/18,Ponte Preta,2-1,Figueirense
+32,20/10/18,Sampaio Corrêa,1-2,Londrina
+33,23/10/18,CSA,2-0,Brasil-RS
+33,26/10/18,Londrina,3-2,Vila Nova
+33,26/10/18,Fortaleza,1-1,Ponte Preta
+33,26/10/18,Juventude,1-0,Sampaio Corrêa
+33,27/10/18,Boa Esporte,0-2,Atlético-GO
+33,27/10/18,Figueirense,3-2,Criciúma
+33,27/10/18,São Bento,1-0,CRB
+33,27/10/18,Guarani,1-1,Oeste
+33,27/10/18,Paysandu,1-1,Coritiba
+33,26/10/18,Goiás,0-3,Avaí
+34,01/11/18,Criciúma,2-2,Goiás
+34,02/11/18,Ponte Preta,2-1,São Bento
+34,02/11/18,Vila Nova,0-0,Paysandu
+34,02/11/18,Oeste,0-0,Figueirense
+34,01/11/18,Juventude,0-1,Brasil-RS
+34,03/11/18,CRB,2-1,Boa Esporte
+34,03/11/18,Avaí,1-1,Londrina
+34,03/11/18,Atlético-GO,1-2,Fortaleza
+34,03/11/18,Coritiba,0-2,Guarani
+34,02/11/18,Sampaio Corrêa,2-3,CSA
+35,05/11/18,Goiás,1-0,Sampaio Corrêa
+35,06/11/18,Brasil-RS,5-0,Vila Nova
+35,06/11/18,Londrina,4-2,Criciúma
+35,06/11/18,Atlético-GO,2-2,Avaí
+35,06/11/18,CRB,2-0,Juventude
+35,06/11/18,Ponte Preta,1-0,Boa Esporte
+35,06/11/18,São Bento,5-2,Coritiba
+35,06/11/18,Paysandu,4-3,Oeste
+35,06/11/18,Fortaleza,1-1,CSA
+35,06/11/18,Figueirense,0-0,Guarani
+36,09/11/18,Vila Nova,3-1,Figueirense
+36,09/11/18,Juventude,0-1,Ponte Preta
+36,09/11/18,Boa Esporte,0-1,Brasil-RS
+36,09/11/18,Coritiba,1-0,Goiás
+36,10/11/18,CSA,0-0,Atlético-GO
+36,10/11/18,Criciúma,3-3,CRB
+36,10/11/18,Oeste,0-0,Londrina
+36,10/11/18,Avaí,0-1,Fortaleza
+36,10/11/18,Sampaio Corrêa,2-1,São Bento
+36,10/11/18,Guarani,0-2,Paysandu
+37,13/11/18,Figueirense,2-3,Paysandu
+37,13/11/18,Ponte Preta,2-0,Coritiba
+37,15/11/18,Fortaleza,4-1,Juventude
+37,16/11/18,Atlético-GO,1-0,São Bento
+37,16/11/18,Londrina,1-2,CRB
+37,17/11/18,CSA,0-1,Avaí
+37,17/11/18,Sampaio Corrêa,1-0,Boa Esporte
+37,17/11/18,Brasil-RS,1-1,Guarani
+37,17/11/18,Vila Nova,2-2,Criciúma
+37,17/11/18,Oeste,1-3,Goiás
+38,23/11/18,Coritiba,1-0,Fortaleza
+38,24/11/18,CRB,2-1,Figueirense
+38,24/11/18,Paysandu,2-5,Atlético-GO
+38,24/11/18,Boa Esporte,0-0,Oeste
+38,24/11/18,Goiás,0-1,Brasil-RS
+38,24/11/18,São Bento,2-2,Vila Nova
+38,24/11/18,Guarani,1-0,Londrina
+38,24/11/18,Juventude,0-4,CSA
+38,24/11/18,Avaí,0-0,Ponte Preta
+38,24/11/18,Criciúma,2-0,Sampaio Corrêa

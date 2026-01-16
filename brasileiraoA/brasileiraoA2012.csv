@@ -1,0 +1,381 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/05/12,Palmeiras,1-1,Portuguesa
+1,19/05/12,Sport Recife,1-1,Flamengo
+1,19/05/12,Figueirense,2-1,Nautico
+1,20/05/12,Corinthians,0-1,Fluminense
+1,20/05/12,Internacional,2-0,Coritiba
+1,20/05/12,Botafogo,4-2,São Paulo
+1,20/05/12,Ponte Preta,0-1,Atlético-MG
+1,20/05/12,Cruzeiro,0-0,Atletico-GO
+1,20/05/12,Bahia,0-0,Santos
+1,20/05/12,Vasco da Gama,2-1,Grêmio
+2,26/05/12,Atletico-GO,1-1,Ponte Preta
+2,26/05/12,Flamengo,3-3,Internacional
+2,26/05/12,Portuguesa,0-1,Vasco da Gama
+2,26/05/12,Nautico,0-0,Cruzeiro
+2,27/05/12,São Paulo,1-0,Bahia
+2,27/05/12,Atlético-MG,1-0,Corinthians
+2,27/05/12,Coritiba,2-3,Botafogo
+2,27/05/12,Santos,0-0,Sport Recife
+2,27/05/12,Grêmio,1-0,Palmeiras
+2,27/05/12,Fluminense,2-2,Figueirense
+3,06/06/12,Atletico-GO,0-1,Grêmio
+3,06/06/12,Sport Recife,2-1,Palmeiras
+3,06/06/12,Vasco da Gama,4-2,Nautico
+3,06/06/12,Atlético-MG,1-1,Bahia
+3,06/06/12,Coritiba,2-0,Portuguesa
+3,06/06/12,Internacional,1-0,São Paulo
+3,06/06/12,Ponte Preta,2-2,Flamengo
+3,06/06/12,Santos,1-1,Fluminense
+3,07/06/12,Corinthians,1-1,Figueirense
+3,07/06/12,Botafogo,2-3,Cruzeiro
+4,09/06/12,Flamengo,3-1,Coritiba
+4,09/06/12,Palmeiras,0-1,Atlético-MG
+4,10/06/12,Portuguesa,2-0,Atletico-GO
+4,10/06/12,Grêmio,2-0,Corinthians
+4,10/06/12,Fluminense,0-0,Internacional
+4,10/06/12,Bahia,1-2,Vasco da Gama
+4,10/06/12,São Paulo,1-0,Santos
+4,10/06/12,Nautico,3-2,Botafogo
+4,10/06/12,Cruzeiro,1-0,Sport Recife
+4,10/06/12,Figueirense,0-0,Ponte Preta
+5,16/06/12,Internacional,1-2,Botafogo
+5,16/06/12,Cruzeiro,1-0,Figueirense
+5,16/06/12,Fluminense,4-1,Portuguesa
+5,17/06/12,São Paulo,1-0,Atlético-MG
+5,17/06/12,Bahia,2-1,Sport Recife
+5,17/06/12,Flamengo,1-0,Santos
+5,17/06/12,Palmeiras,1-1,Vasco da Gama
+5,17/06/12,Nautico,1-0,Grêmio
+5,17/06/12,Coritiba,3-0,Atletico-GO
+5,17/06/12,Ponte Preta,1-0,Corinthians
+6,23/06/12,Portuguesa,1-0,São Paulo
+6,23/06/12,Vasco da Gama,1-3,Cruzeiro
+6,23/06/12,Atlético-MG,5-1,Nautico
+6,24/06/12,Corinthians,2-1,Palmeiras
+6,24/06/12,Grêmio,2-0,Flamengo
+6,24/06/12,Figueirense,1-1,Bahia
+6,24/06/12,Botafogo,1-2,Ponte Preta
+6,24/06/12,Santos,2-2,Coritiba
+6,24/06/12,Atletico-GO,1-4,Fluminense
+6,24/06/12,Sport Recife,0-2,Internacional
+7,30/06/12,Nautico,0-2,Fluminense
+7,30/06/12,Cruzeiro,2-3,São Paulo
+7,30/06/12,Vasco da Gama,3-2,Ponte Preta
+7,01/07/12,Coritiba,2-3,Sport Recife
+7,01/07/12,Bahia,1-1,Internacional
+7,01/07/12,Portuguesa,0-0,Santos
+7,01/07/12,Grêmio,0-1,Atlético-MG
+7,01/07/12,Flamengo,3-2,Atletico-GO
+7,01/07/12,Palmeiras,3-1,Figueirense
+8,07/07/12,Botafogo,3-0,Bahia
+8,07/07/12,Internacional,2-1,Cruzeiro
+8,07/07/12,Atletico-GO,0-1,Nautico
+8,08/07/12,São Paulo,3-1,Coritiba
+8,08/07/12,Figueirense,1-1,Vasco da Gama
+8,08/07/12,Fluminense,1-0,Flamengo
+8,08/07/12,Santos,4-2,Grêmio
+8,08/07/12,Ponte Preta,1-0,Palmeiras
+8,08/07/12,Atlético-MG,2-0,Portuguesa
+8,08/07/12,Sport Recife,1-1,Corinthians
+7,11/07/12,Corinthians,1-3,Botafogo
+9,14/07/12,Corinthians,2-1,Nautico
+9,14/07/12,Figueirense,3-4,Atlético-MG
+9,14/07/12,Ponte Preta,4-1,Coritiba
+9,15/07/12,Botafogo,1-1,Fluminense
+9,15/07/12,Internacional,0-0,Santos
+9,15/07/12,Bahia,1-2,Flamengo
+9,15/07/12,Cruzeiro,1-3,Grêmio
+9,15/07/12,Sport Recife,2-1,Portuguesa
+9,15/07/12,Vasco da Gama,1-0,Atletico-GO
+9,15/07/12,Palmeiras,1-1,São Paulo
+10,18/07/12,Santos,0-0,Botafogo
+10,18/07/12,Grêmio,3-1,Sport Recife
+10,18/07/12,Nautico,3-0,Ponte Preta
+10,18/07/12,Portuguesa,0-2,Cruzeiro
+10,18/07/12,Atlético-MG,3-1,Internacional
+10,18/07/12,São Paulo,0-1,Vasco da Gama
+10,18/07/12,Flamengo,0-3,Corinthians
+10,19/07/12,Atletico-GO,3-2,Figueirense
+10,19/07/12,Fluminense,4-0,Bahia
+10,19/07/12,Coritiba,1-1,Palmeiras
+11,21/07/12,Sport Recife,1-4,Atlético-MG
+11,21/07/12,Vasco da Gama,2-0,Santos
+11,21/07/12,Corinthians,1-1,Portuguesa
+11,22/07/12,Palmeiras,3-0,Nautico
+11,22/07/12,Internacional,4-1,Atletico-GO
+11,22/07/12,Cruzeiro,1-0,Flamengo
+11,22/07/12,Figueirense,0-2,São Paulo
+11,22/07/12,Ponte Preta,1-2,Fluminense
+11,22/07/12,Botafogo,0-1,Grêmio
+11,22/07/12,Bahia,2-2,Coritiba
+12,25/07/12,Figueirense,0-1,Internacional
+12,25/07/12,Ponte Preta,1-1,Sport Recife
+12,25/07/12,Vasco da Gama,1-0,Botafogo
+12,25/07/12,Nautico,3-4,Coritiba
+12,25/07/12,Corinthians,2-0,Cruzeiro
+12,25/07/12,Atletico-GO,4-3,São Paulo
+12,25/07/12,Grêmio,1-0,Fluminense
+12,26/07/12,Atlético-MG,2-0,Santos
+12,26/07/12,Flamengo,0-0,Portuguesa
+12,26/07/12,Palmeiras,0-2,Bahia
+13,28/07/12,Internacional,0-0,Vasco da Gama
+13,28/07/12,Coritiba,2-1,Grêmio
+13,28/07/12,Botafogo,1-0,Figueirense
+13,29/07/12,São Paulo,4-1,Flamengo
+13,29/07/12,Fluminense,0-0,Atlético-MG
+13,29/07/12,Sport Recife,0-0,Atletico-GO
+13,29/07/12,Bahia,0-0,Corinthians
+13,29/07/12,Cruzeiro,2-1,Palmeiras
+13,29/07/12,Santos,2-1,Ponte Preta
+13,29/07/12,Portuguesa,3-1,Nautico
+14,04/08/12,Palmeiras,0-1,Internacional
+14,04/08/12,Atletico-GO,1-2,Botafogo
+14,04/08/12,Portuguesa,2-0,Figueirense
+14,05/08/12,Vasco da Gama,0-0,Corinthians
+14,05/08/12,Grêmio,3-1,Bahia
+14,05/08/12,Coritiba,0-2,Fluminense
+14,05/08/12,São Paulo,1-0,Sport Recife
+14,05/08/12,Cruzeiro,1-2,Ponte Preta
+14,05/08/12,Nautico,3-0,Santos
+15,08/08/12,Sport Recife,0-2,Vasco da Gama
+15,08/08/12,Internacional,0-0,Nautico
+15,08/08/12,Bahia,0-0,Portuguesa
+15,08/08/12,Corinthians,1-1,Atletico-GO
+15,08/08/12,Figueirense,0-2,Flamengo
+15,08/08/12,Botafogo,1-2,Palmeiras
+15,08/08/12,Santos,4-2,Cruzeiro
+15,09/08/12,Ponte Preta,0-0,Grêmio
+15,09/08/12,Atlético-MG,1-0,Coritiba
+15,09/08/12,Fluminense,2-1,São Paulo
+16,11/08/12,Bahia,0-1,Cruzeiro
+16,11/08/12,Sport Recife,0-1,Figueirense
+16,11/08/12,Santos,2-2,Atletico-GO
+16,11/08/12,Flamengo,2-0,Nautico
+16,12/08/12,Atlético-MG,1-0,Vasco da Gama
+16,12/08/12,Internacional,2-1,Ponte Preta
+16,12/08/12,Coritiba,1-2,Corinthians
+16,12/08/12,São Paulo,1-2,Grêmio
+16,12/08/12,Fluminense,1-0,Palmeiras
+16,12/08/12,Portuguesa,1-1,Botafogo
+17,15/08/12,Grêmio,1-2,Portuguesa
+17,15/08/12,Cruzeiro,1-1,Fluminense
+17,15/08/12,Atletico-GO,1-1,Atlético-MG
+17,15/08/12,Ponte Preta,0-2,Bahia
+17,15/08/12,Palmeiras,1-0,Flamengo
+17,15/08/12,Nautico,3-0,São Paulo
+17,15/08/12,Botafogo,2-0,Sport Recife
+17,16/08/12,Vasco da Gama,2-2,Coritiba
+17,16/08/12,Corinthians,1-0,Internacional
+17,16/08/12,Figueirense,1-3,Santos
+18,18/08/12,Nautico,1-0,Bahia
+18,18/08/12,Fluminense,1-0,Sport Recife
+18,18/08/12,São Paulo,3-0,Ponte Preta
+18,19/08/12,Santos,3-2,Corinthians
+18,19/08/12,Coritiba,4-0,Cruzeiro
+18,19/08/12,Atlético-MG,3-2,Botafogo
+18,19/08/12,Grêmio,4-0,Figueirense
+18,19/08/12,Portuguesa,1-1,Internacional
+18,19/08/12,Atletico-GO,2-1,Palmeiras
+18,19/08/12,Flamengo,1-0,Vasco da Gama
+19,25/08/12,Palmeiras,1-2,Santos
+19,25/08/12,Vasco da Gama,1-2,Fluminense
+19,25/08/12,Ponte Preta,2-1,Portuguesa
+19,26/08/12,Internacional,0-1,Grêmio
+19,26/08/12,Botafogo,0-0,Flamengo
+19,26/08/12,Corinthians,1-2,São Paulo
+19,26/08/12,Figueirense,3-1,Coritiba
+19,26/08/12,Cruzeiro,2-2,Atlético-MG
+19,26/08/12,Bahia,1-1,Atletico-GO
+19,26/08/12,Sport Recife,0-0,Nautico
+20,29/08/12,Coritiba,1-0,Internacional
+20,29/08/12,Santos,1-3,Bahia
+20,29/08/12,Portuguesa,3-0,Palmeiras
+20,29/08/12,Nautico,3-2,Figueirense
+20,29/08/12,Atlético-MG,2-2,Ponte Preta
+20,29/08/12,Fluminense,1-1,Corinthians
+20,29/08/12,Grêmio,2-0,Vasco da Gama
+20,29/08/12,Atletico-GO,0-2,Cruzeiro
+20,30/08/12,Flamengo,1-1,Sport Recife
+20,30/08/12,São Paulo,4-0,Botafogo
+21,01/09/12,Palmeiras,0-0,Grêmio
+21,01/09/12,Figueirense,2-2,Fluminense
+21,01/09/12,Vasco da Gama,2-0,Portuguesa
+21,02/09/12,Internacional,4-1,Flamengo
+21,02/09/12,Corinthians,1-0,Atlético-MG
+21,02/09/12,Bahia,1-0,São Paulo
+21,02/09/12,Sport Recife,2-1,Santos
+21,02/09/12,Ponte Preta,3-1,Atletico-GO
+21,02/09/12,Cruzeiro,3-0,Nautico
+21,02/09/12,Botafogo,2-0,Coritiba
+22,05/09/12,Flamengo,0-1,Ponte Preta
+22,05/09/12,Portuguesa,3-0,Coritiba
+22,05/09/12,Nautico,1-1,Vasco da Gama
+22,05/09/12,Bahia,0-0,Atlético-MG
+22,05/09/12,Grêmio,2-1,Atletico-GO
+22,05/09/12,Figueirense,1-0,Corinthians
+22,05/09/12,São Paulo,1-1,Internacional
+22,05/09/12,Cruzeiro,1-3,Botafogo
+22,06/09/12,Fluminense,3-1,Santos
+22,06/09/12,Palmeiras,3-1,Sport Recife
+23,08/09/12,Coritiba,3-0,Flamengo
+23,08/09/12,Ponte Preta,2-2,Figueirense
+23,08/09/12,Corinthians,3-1,Grêmio
+23,09/09/12,Santos,0-0,São Paulo
+23,09/09/12,Internacional,0-1,Fluminense
+23,09/09/12,Botafogo,3-1,Nautico
+23,09/09/12,Vasco da Gama,0-4,Bahia
+23,09/09/12,Atletico-GO,1-1,Portuguesa
+23,09/09/12,Sport Recife,2-1,Cruzeiro
+23,09/09/12,Atlético-MG,3-0,Palmeiras
+24,12/09/12,Portuguesa,0-2,Fluminense
+24,12/09/12,Figueirense,2-0,Cruzeiro
+24,12/09/12,Corinthians,1-1,Ponte Preta
+24,12/09/12,Atletico-GO,1-2,Coritiba
+24,12/09/12,Sport Recife,1-1,Bahia
+24,12/09/12,Atlético-MG,1-0,São Paulo
+24,12/09/12,Vasco da Gama,3-1,Palmeiras
+24,12/09/12,Santos,2-0,Flamengo
+24,13/09/12,Grêmio,2-0,Nautico
+24,13/09/12,Botafogo,1-1,Internacional
+25,15/09/12,Fluminense,1-2,Atletico-GO
+25,15/09/12,São Paulo,3-1,Portuguesa
+25,16/09/12,Coritiba,1-2,Santos
+25,16/09/12,Palmeiras,0-2,Corinthians
+25,16/09/12,Cruzeiro,1-1,Vasco da Gama
+25,16/09/12,Nautico,1-0,Atlético-MG
+25,16/09/12,Bahia,2-1,Figueirense
+25,16/09/12,Flamengo,1-1,Grêmio
+25,16/09/12,Internacional,2-2,Sport Recife
+25,16/09/12,Ponte Preta,0-0,Botafogo
+26,22/09/12,Figueirense,1-3,Palmeiras
+26,22/09/12,Fluminense,2-1,Nautico
+26,22/09/12,Santos,1-3,Portuguesa
+26,23/09/12,Botafogo,2-2,Corinthians
+26,23/09/12,São Paulo,1-0,Cruzeiro
+26,23/09/12,Ponte Preta,0-0,Vasco da Gama
+26,23/09/12,Atletico-GO,1-2,Flamengo
+26,23/09/12,Internacional,3-1,Bahia
+26,23/09/12,Atlético-MG,0-0,Grêmio
+26,23/09/12,Sport Recife,1-0,Coritiba
+14,26/09/12,Flamengo,2-1,Atlético-MG
+27,29/09/12,Portuguesa,1-1,Atlético-MG
+27,29/09/12,Vasco da Gama,3-1,Figueirense
+27,29/09/12,Cruzeiro,0-0,Internacional
+27,29/09/12,Nautico,2-0,Atletico-GO
+27,29/09/12,Palmeiras,3-0,Ponte Preta
+27,30/09/12,Flamengo,0-1,Fluminense
+27,30/09/12,Corinthians,3-0,Sport Recife
+27,30/09/12,Bahia,2-0,Botafogo
+27,30/09/12,Coritiba,1-1,São Paulo
+27,30/09/12,Grêmio,1-1,Santos
+28,04/10/12,Flamengo,0-0,Bahia
+28,04/10/12,Portuguesa,5-1,Sport Recife
+28,04/10/12,Coritiba,1-0,Ponte Preta
+28,06/10/12,São Paulo,3-0,Palmeiras
+28,06/10/12,Santos,1-1,Internacional
+28,06/10/12,Atletico-GO,0-1,Vasco da Gama
+28,06/10/12,Nautico,2-1,Corinthians
+28,06/10/12,Fluminense,1-0,Botafogo
+28,06/10/12,Grêmio,2-1,Cruzeiro
+28,06/10/12,Atlético-MG,6-0,Figueirense
+29,10/10/12,Cruzeiro,2-0,Portuguesa
+29,10/10/12,Botafogo,0-2,Santos
+29,10/10/12,Figueirense,3-1,Atletico-GO
+29,10/10/12,Ponte Preta,2-1,Nautico
+29,10/10/12,Bahia,0-2,Fluminense
+29,10/10/12,Vasco da Gama,0-2,São Paulo
+29,10/10/12,Corinthians,3-2,Flamengo
+29,10/10/12,Internacional,3-0,Atlético-MG
+29,11/10/12,Palmeiras,0-1,Coritiba
+29,11/10/12,Sport Recife,1-3,Grêmio
+30,13/10/12,Flamengo,1-1,Cruzeiro
+30,13/10/12,Atletico-GO,3-1,Internacional
+30,13/10/12,Portuguesa,1-1,Corinthians
+30,14/10/12,Atlético-MG,2-1,Sport Recife
+30,14/10/12,Santos,2-0,Vasco da Gama
+30,14/10/12,São Paulo,2-0,Figueirense
+30,14/10/12,Coritiba,2-1,Bahia
+30,14/10/12,Nautico,1-0,Palmeiras
+30,14/10/12,Fluminense,2-1,Ponte Preta
+30,14/10/12,Grêmio,1-1,Botafogo
+31,17/10/12,Fluminense,2-2,Grêmio
+31,17/10/12,Internacional,2-3,Figueirense
+31,17/10/12,Coritiba,2-1,Nautico
+31,17/10/12,Bahia,0-1,Palmeiras
+31,17/10/12,Cruzeiro,2-0,Corinthians
+31,17/10/12,Portuguesa,0-0,Flamengo
+31,17/10/12,Santos,2-2,Atlético-MG
+31,18/10/12,Botafogo,3-2,Vasco da Gama
+31,18/10/12,São Paulo,2-0,Atletico-GO
+31,18/10/12,Sport Recife,3-1,Ponte Preta
+32,20/10/12,Palmeiras,2-0,Cruzeiro
+32,20/10/12,Grêmio,0-0,Coritiba
+32,20/10/12,Corinthians,1-1,Bahia
+32,21/10/12,Atlético-MG,3-2,Fluminense
+32,21/10/12,Flamengo,1-0,São Paulo
+32,21/10/12,Nautico,0-0,Portuguesa
+32,21/10/12,Ponte Preta,1-0,Santos
+32,21/10/12,Atletico-GO,0-1,Sport Recife
+32,24/10/12,Vasco da Gama,1-2,Internacional
+32,24/10/12,Figueirense,0-2,Botafogo
+33,25/10/12,Fluminense,2-1,Coritiba
+33,25/10/12,Santos,0-0,Nautico
+33,25/10/12,Ponte Preta,1-0,Cruzeiro
+33,27/10/12,Internacional,2-1,Palmeiras
+33,27/10/12,Corinthians,1-0,Vasco da Gama
+33,27/10/12,Botafogo,4-0,Atletico-GO
+33,27/10/12,Figueirense,0-0,Portuguesa
+33,27/10/12,Sport Recife,2-4,São Paulo
+33,27/10/12,Bahia,1-1,Grêmio
+33,31/10/12,Atlético-MG,1-1,Flamengo
+34,03/11/12,Cruzeiro,0-4,Santos
+34,03/11/12,Grêmio,1-0,Ponte Preta
+34,03/11/12,Flamengo,1-0,Figueirense
+34,04/11/12,Palmeiras,2-2,Botafogo
+34,04/11/12,Vasco da Gama,0-3,Sport Recife
+34,04/11/12,São Paulo,1-1,Fluminense
+34,04/11/12,Atletico-GO,0-2,Corinthians
+34,04/11/12,Portuguesa,0-1,Bahia
+34,04/11/12,Coritiba,1-0,Atlético-MG
+34,04/11/12,Nautico,3-0,Internacional
+35,10/11/12,Botafogo,3-0,Portuguesa
+35,10/11/12,Atletico-GO,2-1,Santos
+35,10/11/12,Corinthians,5-1,Coritiba
+35,11/11/12,Palmeiras,2-3,Fluminense
+35,11/11/12,Grêmio,2-1,São Paulo
+35,11/11/12,Vasco da Gama,1-1,Atlético-MG
+35,11/11/12,Cruzeiro,3-1,Bahia
+35,11/11/12,Nautico,0-1,Flamengo
+35,11/11/12,Figueirense,1-1,Sport Recife
+35,11/11/12,Ponte Preta,1-0,Internacional
+36,17/11/12,Santos,2-0,Figueirense
+36,17/11/12,Coritiba,1-2,Vasco da Gama
+36,18/11/12,Flamengo,1-1,Palmeiras
+36,18/11/12,Fluminense,0-2,Cruzeiro
+36,18/11/12,São Paulo,2-1,Nautico
+36,18/11/12,Atlético-MG,2-2,Atletico-GO
+36,18/11/12,Bahia,1-0,Ponte Preta
+36,18/11/12,Internacional,0-2,Corinthians
+36,18/11/12,Portuguesa,2-2,Grêmio
+36,18/11/12,Sport Recife,2-0,Botafogo
+37,24/11/12,Vasco da Gama,1-1,Flamengo
+37,24/11/12,Corinthians,1-1,Santos
+37,25/11/12,Botafogo,2-3,Atlético-MG
+37,25/11/12,Figueirense,2-4,Grêmio
+37,25/11/12,Ponte Preta,0-0,São Paulo
+37,25/11/12,Cruzeiro,2-1,Coritiba
+37,25/11/12,Palmeiras,1-2,Atletico-GO
+37,25/11/12,Bahia,1-1,Nautico
+37,25/11/12,Internacional,0-2,Portuguesa
+37,25/11/12,Sport Recife,1-1,Fluminense
+38,01/12/12,Santos,3-1,Palmeiras
+38,01/12/12,Flamengo,2-2,Botafogo
+38,02/12/12,Fluminense,1-2,Vasco da Gama
+38,02/12/12,Grêmio,0-0,Internacional
+38,02/12/12,Atlético-MG,3-2,Cruzeiro
+38,02/12/12,São Paulo,3-1,Corinthians
+38,02/12/12,Coritiba,3-0,Figueirense
+38,02/12/12,Atletico-GO,0-1,Bahia
+38,02/12/12,Portuguesa,0-0,Ponte Preta
+38,02/12/12,Nautico,1-0,Sport Recife

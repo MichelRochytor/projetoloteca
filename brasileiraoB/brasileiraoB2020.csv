@@ -1,0 +1,379 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,07/08/20,Cuiabá,0-0,Brasil-RS
+1,08/08/20,Juventude,2-1,CRB
+1,08/08/20,Operário-PR,3-1,Figueirense
+1,08/08/20,EC Vitória,1-0,Sampaio Corrêa
+1,08/08/20,Avaí,3-1,Náutico
+1,08/08/20,Cruzeiro,2-1,Botafogo-SP
+1,07/08/20,Confiança,2-2,Paraná
+1,09/08/20,Oeste,0-0,Chapecoense
+1,08/08/20,Ponte Preta,0-1,América-MG
+1,08/08/20,CSA,1-0,Guarani
+2,11/08/20,Sampaio Corrêa,0-1,Juventude
+2,11/08/20,Botafogo-SP,2-0,Confiança
+2,11/08/20,Brasil-RS,1-1,Ponte Preta
+2,11/08/20,Guarani,2-3,Cruzeiro
+2,11/08/20,Paraná,1-0,Avaí
+2,12/08/20,CRB,1-0,Oeste
+2,11/08/20,Figueirense,0-0,EC Vitória
+2,11/08/20,América-MG,0-1,Cuiabá
+2,11/08/20,Náutico,0-0,Operário-PR
+2,27/10/20,Chapecoense,0-0,CSA
+3,14/08/20,América-MG,1-1,Operário-PR
+3,14/08/20,Ponte Preta,3-3,EC Vitória
+3,15/08/20,Botafogo-SP,0-1,Guarani
+3,15/08/20,Brasil-RS,1-1,Oeste
+3,15/08/20,Náutico,1-1,CRB
+3,14/08/20,Paraná,3-1,Juventude
+3,16/08/20,Chapecoense,1-0,Sampaio Corrêa
+3,16/08/20,Figueirense,0-1,Cruzeiro
+3,15/09/20,Confiança,2-2,Avaí
+3,16/09/20,CSA,1-2,Cuiabá
+4,17/08/20,Juventude,0-0,América-MG
+4,18/08/20,Avaí,0-1,Botafogo-SP
+4,18/08/20,Operário-PR,3-0,CSA
+4,18/08/20,Oeste,1-3,Ponte Preta
+4,18/08/20,Cuiabá,1-0,Confiança
+4,18/08/20,CRB,1-0,Brasil-RS
+4,18/08/20,Guarani,1-2,Paraná
+4,19/08/20,EC Vitória,0-0,Náutico
+4,20/08/20,Cruzeiro,0-1,Chapecoense
+4,14/10/20,Sampaio Corrêa,3-0,Figueirense
+5,21/08/20,América-MG,2-1,Oeste
+5,22/08/20,Avaí,0-2,Cuiabá
+5,22/08/20,Náutico,3-3,Juventude
+5,22/08/20,Botafogo-SP,0-1,Figueirense
+5,22/08/20,CRB,2-2,EC Vitória
+5,21/08/20,Ponte Preta,2-1,CSA
+5,23/08/20,Paraná,0-0,Operário-PR
+5,23/08/20,Confiança,1-1,Cruzeiro
+5,24/08/20,Chapecoense,2-0,Guarani
+5,03/11/20,Brasil-RS,0-0,Sampaio Corrêa
+6,28/08/20,Oeste,0-2,Avaí
+6,28/08/20,Cuiabá,2-1,Chapecoense
+6,29/08/20,Juventude,0-0,Botafogo-SP
+6,29/08/20,EC Vitória,1-0,Paraná
+6,29/08/20,Cruzeiro,1-2,América-MG
+6,29/08/20,Figueirense,0-0,Confiança
+6,28/08/20,Guarani,1-2,Náutico
+6,30/08/20,CSA,0-2,CRB
+6,30/08/20,Operário-PR,2-1,Brasil-RS
+6,29/08/20,Sampaio Corrêa,1-2,Ponte Preta
+7,31/08/20,Guarani,1-1,Oeste
+7,01/09/20,Botafogo-SP,1-1,Cuiabá
+7,01/09/20,Paraná,2-1,Ponte Preta
+7,01/09/20,Chapecoense,1-0,Juventude
+7,02/09/20,América-MG,2-1,CSA
+7,02/09/20,Avaí,2-0,Operário-PR
+7,02/09/20,CRB,2-2,Sampaio Corrêa
+7,01/09/20,Náutico,1-0,Figueirense
+7,01/09/20,Confiança,1-0,EC Vitória
+7,02/09/20,Brasil-RS,1-0,Cruzeiro
+8,04/09/20,Figueirense,0-1,Paraná
+8,05/09/20,Oeste,1-3,Juventude
+8,05/09/20,EC Vitória,4-2,Cuiabá
+8,05/09/20,CSA,1-1,Confiança
+8,05/09/20,Operário-PR,1-2,Guarani
+8,05/09/20,Sampaio Corrêa,1-0,América-MG
+8,04/09/20,Ponte Preta,1-0,Botafogo-SP
+8,06/09/20,Chapecoense,1-0,Avaí
+8,05/09/20,Brasil-RS,2-1,Náutico
+8,07/09/20,Cruzeiro,1-1,CRB
+9,08/09/20,Juventude,3-1,Confiança
+9,09/09/20,Paraná,0-1,América-MG
+9,08/09/20,Cuiabá,0-0,Figueirense
+9,11/09/20,Avaí,0-1,Ponte Preta
+9,12/09/20,Guarani,0-0,Brasil-RS
+9,12/09/20,Sampaio Corrêa,0-1,Operário-PR
+9,12/09/20,Náutico,3-1,Botafogo-SP
+9,11/09/20,Cruzeiro,1-0,EC Vitória
+9,13/09/20,Oeste,2-1,CSA
+9,14/10/20,CRB,0-1,Chapecoense
+10,18/09/20,Confiança,1-0,Guarani
+10,19/09/20,América-MG,0-1,Figueirense
+10,19/09/20,Ponte Preta,1-1,Operário-PR
+10,18/09/20,Náutico,1-1,Chapecoense
+10,20/09/20,Avaí,2-5,Sampaio Corrêa
+10,19/09/20,Cuiabá,3-0,Oeste
+10,19/09/20,CSA,3-1,Cruzeiro
+10,21/09/20,Botafogo-SP,0-1,Brasil-RS
+11,22/09/20,Operário-PR,1-1,Cuiabá
+11,25/09/20,Chapecoense,0-0,América-MG
+11,25/09/20,Botafogo-SP,1-2,CRB
+11,26/09/20,Figueirense,2-2,Guarani
+11,26/09/20,CSA,3-2,Juventude
+11,26/09/20,EC Vitória,3-1,Oeste
+11,26/09/20,Brasil-RS,1-1,Paraná
+11,25/09/20,Cruzeiro,0-1,Avaí
+11,27/09/20,Ponte Preta,2-1,Confiança
+11,17/11/20,Sampaio Corrêa,2-1,Náutico
+12,28/09/20,CRB,0-0,América-MG
+12,29/09/20,EC Vitória,0-1,CSA
+12,29/09/20,Avaí,1-0,Figueirense
+12,29/09/20,Juventude,1-0,Operário-PR
+12,29/09/20,Oeste,0-1,Botafogo-SP
+12,30/09/20,Confiança,1-1,Brasil-RS
+12,30/09/20,Cruzeiro,3-0,Ponte Preta
+12,29/09/20,Guarani,1-1,Sampaio Corrêa
+12,29/09/20,Cuiabá,1-0,Náutico
+12,29/09/20,Paraná,1-1,Chapecoense
+13,02/10/20,Figueirense,4-1,Oeste
+13,02/10/20,Operário-PR,1-1,EC Vitória
+13,02/10/20,CRB,3-1,Avaí
+13,03/10/20,América-MG,0-0,Guarani
+13,03/10/20,Náutico,0-1,Confiança
+13,03/10/20,Sampaio Corrêa,1-0,CSA
+13,03/10/20,Brasil-RS,0-1,Chapecoense
+13,03/10/20,Ponte Preta,1-3,Juventude
+13,02/10/20,Botafogo-SP,1-0,Paraná
+13,03/10/20,Cuiabá,1-0,Cruzeiro
+14,05/10/20,Oeste,0-1,Operário-PR
+14,06/10/20,Chapecoense,1-0,Botafogo-SP
+14,06/10/20,Confiança,1-0,CRB
+14,06/10/20,Paraná,0-0,Náutico
+14,06/10/20,EC Vitória,1-2,América-MG
+14,06/10/20,Juventude,1-1,Cuiabá
+14,06/10/20,CSA,3-0,Figueirense
+14,06/10/20,Avaí,2-1,Brasil-RS
+14,06/10/20,Ponte Preta,2-0,Guarani
+14,08/10/20,Cruzeiro,1-2,Sampaio Corrêa
+15,09/10/20,Figueirense,0-0,Chapecoense
+15,09/10/20,Operário-PR,1-1,Confiança
+15,09/10/20,Cuiabá,2-1,Ponte Preta
+15,09/10/20,América-MG,2-0,Náutico
+15,10/10/20,Juventude,1-2,Brasil-RS
+15,10/10/20,EC Vitória,1-2,Avaí
+15,10/10/20,Guarani,3-1,CRB
+15,10/10/20,CSA,4-0,Paraná
+15,11/10/20,Oeste,0-0,Cruzeiro
+15,11/10/20,Sampaio Corrêa,2-0,Botafogo-SP
+16,12/10/20,Náutico,0-2,Ponte Preta
+16,13/10/20,Avaí,1-1,CSA
+16,13/10/20,Guarani,1-0,Cuiabá
+16,16/10/20,Botafogo-SP,1-2,América-MG
+16,17/10/20,Chapecoense,1-1,EC Vitória
+16,17/10/20,Confiança,3-1,Oeste
+16,17/10/20,CRB,4-1,Operário-PR
+16,17/10/20,Brasil-RS,0-0,Figueirense
+16,16/10/20,Cruzeiro,0-0,Juventude
+16,18/10/20,Paraná,0-0,Sampaio Corrêa
+17,20/10/20,América-MG,3-1,Brasil-RS
+17,20/10/20,Oeste,0-1,Náutico
+17,20/10/20,Juventude,3-0,Avaí
+17,20/10/20,CSA,1-0,Botafogo-SP
+17,21/10/20,Figueirense,2-0,CRB
+17,21/10/20,Cuiabá,3-3,Paraná
+17,21/10/20,Sampaio Corrêa,1-3,Confiança
+17,20/10/20,Operário-PR,0-1,Cruzeiro
+17,20/10/20,Ponte Preta,0-5,Chapecoense
+17,22/10/20,EC Vitória,1-1,Guarani
+18,23/10/20,Brasil-RS,1-1,CSA
+18,24/10/20,CRB,1-0,Ponte Preta
+18,24/10/20,Sampaio Corrêa,3-0,Cuiabá
+18,23/10/20,Chapecoense,1-0,Operário-PR
+18,25/10/20,Náutico,1-1,Cruzeiro
+18,25/10/20,Guarani,2-1,Avaí
+18,25/10/20,Figueirense,1-1,Juventude
+18,25/10/20,Botafogo-SP,2-1,EC Vitória
+18,24/10/20,América-MG,2-1,Confiança
+18,26/10/20,Paraná,4-0,Oeste
+19,30/10/20,EC Vitória,0-0,Brasil-RS
+19,31/10/20,Oeste,0-3,Sampaio Corrêa
+19,31/10/20,Confiança,0-2,Chapecoense
+19,31/10/20,Operário-PR,0-0,Botafogo-SP
+19,31/10/20,Avaí,1-0,América-MG
+19,30/10/20,Cruzeiro,2-0,Paraná
+19,01/11/20,Juventude,1-0,Guarani
+19,31/10/20,CSA,3-1,Náutico
+19,31/10/20,Cuiabá,3-0,CRB
+19,02/11/20,Ponte Preta,2-1,Figueirense
+20,06/11/20,Botafogo-SP,0-1,Cruzeiro
+20,06/11/20,Náutico,2-2,Avaí
+20,06/11/20,Guarani,2-1,CSA
+20,07/11/20,Brasil-RS,3-0,Cuiabá
+20,07/11/20,Figueirense,0-1,Operário-PR
+20,07/11/20,América-MG,1-1,Ponte Preta
+20,06/11/20,Paraná,1-1,Confiança
+20,08/11/20,Sampaio Corrêa,2-1,EC Vitória
+20,08/11/20,CRB,0-1,Juventude
+20,07/11/20,Chapecoense,0-0,Oeste
+21,09/11/20,Cruzeiro,3-3,Guarani
+21,10/11/20,CSA,0-1,Chapecoense
+21,10/11/20,Confiança,1-0,Botafogo-SP
+21,13/11/20,Ponte Preta,1-1,Brasil-RS
+21,13/11/20,Operário-PR,3-1,Náutico
+21,13/11/20,Avaí,2-1,Paraná
+21,13/11/20,Oeste,1-2,CRB
+21,12/11/20,EC Vitória,3-0,Figueirense
+21,14/11/20,Juventude,2-3,Sampaio Corrêa
+21,14/11/20,Cuiabá,0-0,América-MG
+22,20/11/20,Avaí,1-0,Confiança
+22,20/11/20,EC Vitória,0-0,Ponte Preta
+22,20/11/20,Juventude,5-0,Paraná
+22,20/11/20,Sampaio Corrêa,1-3,Chapecoense
+22,20/11/20,Guarani,2-1,Botafogo-SP
+22,21/11/20,Operário-PR,0-1,América-MG
+22,21/11/20,Oeste,2-1,Brasil-RS
+22,21/11/20,Cuiabá,0-1,CSA
+22,21/11/20,CRB,2-1,Náutico
+22,20/11/20,Cruzeiro,1-1,Figueirense
+23,23/11/20,Figueirense,1-2,Sampaio Corrêa
+23,23/11/20,Botafogo-SP,0-1,Avaí
+23,24/11/20,Paraná,1-2,Guarani
+23,24/11/20,Ponte Preta,1-0,Oeste
+23,24/11/20,CSA,1-0,Operário-PR
+23,24/11/20,Confiança,2-0,Cuiabá
+23,25/11/20,Náutico,0-0,EC Vitória
+23,24/11/20,América-MG,2-1,Juventude
+23,24/11/20,Brasil-RS,2-1,CRB
+23,24/11/20,Chapecoense,0-1,Cruzeiro
+24,27/11/20,Operário-PR,1-0,Paraná
+24,27/11/20,Oeste,1-1,América-MG
+24,27/11/20,Sampaio Corrêa,0-1,Brasil-RS
+24,26/11/20,Figueirense,0-0,Botafogo-SP
+24,28/11/20,CSA,2-1,Ponte Preta
+24,28/11/20,EC Vitória,2-1,CRB
+24,27/11/20,Cuiabá,2-1,Avaí
+24,27/11/20,Cruzeiro,1-2,Confiança
+24,28/11/20,Guarani,2-0,Chapecoense
+24,28/11/20,Juventude,1-0,Náutico
+25,30/11/20,Brasil-RS,0-0,Operário-PR
+25,30/11/20,Avaí,0-3,Oeste
+25,01/12/20,Chapecoense,1-0,Cuiabá
+25,01/12/20,CRB,0-0,CSA
+25,01/12/20,Náutico,2-0,Guarani
+25,01/12/20,Confiança,1-1,Figueirense
+25,02/12/20,Botafogo-SP,1-1,Juventude
+25,01/12/20,Paraná,1-4,EC Vitória
+25,01/12/20,Ponte Preta,1-1,Sampaio Corrêa
+25,02/12/20,América-MG,1-2,Cruzeiro
+26,04/12/20,Oeste,0-1,Guarani
+26,04/12/20,EC Vitória,2-3,Confiança
+26,03/12/20,Operário-PR,1-1,Avaí
+26,05/12/20,Juventude,1-1,Chapecoense
+26,05/12/20,CSA,0-1,América-MG
+26,05/12/20,Sampaio Corrêa,3-0,CRB
+26,04/12/20,Ponte Preta,2-1,Paraná
+26,06/12/20,Figueirense,2-0,Náutico
+26,05/12/20,Cruzeiro,4-1,Brasil-RS
+26,05/12/20,Cuiabá,2-0,Botafogo-SP
+27,08/12/20,Juventude,2-2,Oeste
+27,08/12/20,Guarani,3-0,Operário-PR
+27,08/12/20,Botafogo-SP,2-1,Ponte Preta
+27,08/12/20,América-MG,2-1,Sampaio Corrêa
+27,09/12/20,Paraná,0-2,Figueirense
+27,08/12/20,Cuiabá,3-3,EC Vitória
+27,08/12/20,Avaí,0-2,Chapecoense
+27,08/12/20,CRB,0-0,Cruzeiro
+27,08/12/20,Confiança,1-5,CSA
+27,10/12/20,Náutico,1-0,Brasil-RS
+28,11/12/20,Operário-PR,1-1,Sampaio Corrêa
+28,11/12/20,Ponte Preta,1-2,Avaí
+28,11/12/20,CSA,2-1,Oeste
+28,12/12/20,Figueirense,1-0,Cuiabá
+28,12/12/20,América-MG,1-0,Paraná
+28,12/12/20,Confiança,0-1,Juventude
+28,11/12/20,EC Vitória,0-1,Cruzeiro
+28,13/12/20,Botafogo-SP,1-1,Náutico
+28,13/12/20,Brasil-RS,3-1,Guarani
+28,12/12/20,Chapecoense,3-2,CRB
+29,14/12/20,Operário-PR,1-0,Ponte Preta
+29,15/12/20,Oeste,0-2,Cuiabá
+29,15/12/20,Sampaio Corrêa,0-1,Avaí
+29,16/12/20,Brasil-RS,0-0,Botafogo-SP
+29,16/12/20,Chapecoense,0-0,Náutico
+29,16/12/20,Guarani,1-0,Confiança
+29,15/12/20,Cruzeiro,1-1,CSA
+29,15/12/20,EC Vitória,1-0,Juventude
+29,17/12/20,Figueirense,1-2,América-MG
+29,17/12/20,CRB,0-2,Paraná
+30,18/12/20,Oeste,2-1,EC Vitória
+30,18/12/20,Juventude,1-0,CSA
+30,18/12/20,Avaí,1-1,Cruzeiro
+30,19/12/20,Náutico,1-0,Sampaio Corrêa
+30,19/12/20,Confiança,1-2,Ponte Preta
+30,18/12/20,Cuiabá,2-0,Operário-PR
+30,20/12/20,América-MG,2-2,Chapecoense
+30,20/12/20,Guarani,2-2,Figueirense
+30,20/12/20,CRB,1-0,Botafogo-SP
+30,21/12/20,Paraná,0-1,Brasil-RS
+31,22/12/20,Operário-PR,3-0,Juventude
+31,22/12/20,CSA,3-0,EC Vitória
+31,23/12/20,Sampaio Corrêa,0-1,Guarani
+31,23/12/20,Botafogo-SP,1-1,Oeste
+31,22/12/20,Náutico,2-0,Cuiabá
+31,22/12/20,Ponte Preta,2-1,Cruzeiro
+31,26/12/20,Figueirense,2-0,Avaí
+31,26/12/20,América-MG,1-0,CRB
+31,28/12/20,Brasil-RS,1-0,Confiança
+31,28/12/20,Chapecoense,2-0,Paraná
+32,29/12/20,Avaí,0-1,CRB
+32,30/12/20,Juventude,2-1,Ponte Preta
+32,29/12/20,Cruzeiro,0-0,Cuiabá
+32,02/01/21,CSA,2-1,Sampaio Corrêa
+32,02/01/21,Oeste,2-1,Figueirense
+32,03/01/21,Chapecoense,0-0,Brasil-RS
+32,03/01/21,EC Vitória,1-1,Operário-PR
+32,02/01/21,Guarani,0-1,América-MG
+32,04/01/21,Paraná,1-1,Botafogo-SP
+32,04/01/21,Confiança,2-0,Náutico
+33,05/01/21,Guarani,1-1,Ponte Preta
+33,05/01/21,Cuiabá,1-0,Juventude
+33,08/01/21,Brasil-RS,0-1,Avaí
+33,08/01/21,CRB,2-0,Confiança
+33,08/01/21,Operário-PR,2-0,Oeste
+33,08/01/21,Náutico,2-1,Paraná
+33,09/01/21,América-MG,4-0,EC Vitória
+33,08/01/21,Figueirense,0-0,CSA
+33,08/01/21,Sampaio Corrêa,0-1,Cruzeiro
+33,09/01/21,Botafogo-SP,3-0,Chapecoense
+34,11/01/21,Ponte Preta,2-2,Cuiabá
+34,11/01/21,CRB,2-0,Guarani
+34,11/01/21,Confiança,1-2,Operário-PR
+34,12/01/21,Náutico,0-0,América-MG
+34,12/01/21,Botafogo-SP,2-1,Sampaio Corrêa
+34,12/01/21,Paraná,2-0,CSA
+34,12/01/21,Brasil-RS,2-1,Juventude
+34,13/01/21,Avaí,2-2,EC Vitória
+34,12/01/21,Chapecoense,2-1,Figueirense
+34,13/01/21,Cruzeiro,0-1,Oeste
+35,14/01/21,Operário-PR,3-2,CRB
+35,15/01/21,Figueirense,3-0,Brasil-RS
+35,15/01/21,Sampaio Corrêa,2-1,Paraná
+35,14/01/21,Cuiabá,4-0,Guarani
+35,16/01/21,CSA,1-1,Avaí
+35,16/01/21,Juventude,1-0,Cruzeiro
+35,15/01/21,América-MG,1-1,Botafogo-SP
+35,17/01/21,EC Vitória,0-0,Chapecoense
+35,17/01/21,Ponte Preta,2-0,Náutico
+35,16/01/21,Oeste,0-1,Confiança
+36,19/01/21,Brasil-RS,0-0,América-MG
+36,19/01/21,Botafogo-SP,1-3,CSA
+36,19/01/21,CRB,5-1,Figueirense
+36,19/01/21,Avaí,5-2,Juventude
+36,19/01/21,Confiança,0-1,Sampaio Corrêa
+36,20/01/21,Guarani,1-2,EC Vitória
+36,20/01/21,Náutico,4-1,Oeste
+36,19/01/21,Paraná,0-2,Cuiabá
+36,21/01/21,Chapecoense,1-0,Ponte Preta
+36,20/01/21,Cruzeiro,2-1,Operário-PR
+37,22/01/21,Juventude,2-1,Figueirense
+37,22/01/21,CSA,1-1,Brasil-RS
+37,23/01/21,Confiança,0-0,América-MG
+37,23/01/21,Avaí,2-1,Guarani
+37,22/01/21,Cuiabá,1-3,Sampaio Corrêa
+37,24/01/21,Cruzeiro,0-0,Náutico
+37,24/01/21,Ponte Preta,3-1,CRB
+37,25/01/21,Operário-PR,2-0,Chapecoense
+37,26/01/21,Oeste,1-0,Paraná
+37,26/01/21,EC Vitória,1-0,Botafogo-SP
+38,29/01/21,Figueirense,2-7,Ponte Preta
+38,29/01/21,Sampaio Corrêa,1-0,Oeste
+38,29/01/21,Botafogo-SP,0-1,Operário-PR
+38,29/01/21,CRB,4-1,Cuiabá
+38,29/01/21,Paraná,0-0,Cruzeiro
+38,29/01/21,Brasil-RS,0-1,EC Vitória
+38,29/01/21,Náutico,1-1,CSA
+38,29/01/21,Chapecoense,3-1,Confiança
+38,29/01/21,Guarani,0-1,Juventude
+38,29/01/21,América-MG,2-1,Avaí

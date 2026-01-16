@@ -1,0 +1,381 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,27/04/19,São Paulo,2-0,Botafogo
+1,27/04/19,Atlético-MG,2-1,Avai
+1,27/04/19,Chapecoense,2-0,Internacional
+1,27/04/19,Flamengo,3-1,Cruzeiro
+1,28/04/19,Grêmio,1-2,Santos
+1,28/04/19,Bahia,3-2,Corinthians
+1,28/04/19,Athletico-PR,4-1,Vasco da Gama
+1,28/04/19,Ceará SC,4-0,CSA
+1,28/04/19,Palmeiras,4-0,Fortaleza
+1,28/04/19,Fluminense,0-1,Goiás
+2,01/05/19,Internacional,2-1,Flamengo
+2,01/05/19,CSA,1-1,Palmeiras
+2,01/05/19,Corinthians,1-0,Chapecoense
+2,01/05/19,Cruzeiro,1-0,Ceará SC
+2,01/05/19,Avai,1-1,Grêmio
+2,01/05/19,Goiás,1-2,São Paulo
+2,01/05/19,Vasco da Gama,1-2,Atlético-MG
+2,01/05/19,Fortaleza,2-1,Athletico-PR
+2,02/05/19,Santos,2-1,Fluminense
+2,02/05/19,Botafogo,3-2,Bahia
+3,04/05/19,Vasco da Gama,1-1,Corinthians
+3,04/05/19,Palmeiras,1-0,Internacional
+3,04/05/19,Ceará SC,1-2,Atlético-MG
+3,05/05/19,Chapecoense,1-1,Athletico-PR
+3,05/05/19,São Paulo,1-1,Flamengo
+3,05/05/19,Botafogo,1-0,Fortaleza
+3,05/05/19,CSA,0-0,Santos
+3,05/05/19,Cruzeiro,2-1,Goiás
+3,05/05/19,Grêmio,4-5,Fluminense
+3,05/05/19,Bahia,1-0,Avai
+4,11/05/19,Fluminense,0-1,Botafogo
+4,11/05/19,Corinthians,0-0,Grêmio
+4,11/05/19,Goiás,2-1,Ceará SC
+4,12/05/19,Flamengo,2-1,Chapecoense
+4,12/05/19,Santos,3-0,Vasco da Gama
+4,12/05/19,Atlético-MG,0-2,Palmeiras
+4,12/05/19,Internacional,3-1,Cruzeiro
+4,12/05/19,Avai,0-0,CSA
+4,12/05/19,Athletico-PR,1-0,Bahia
+4,12/05/19,Fortaleza,0-1,São Paulo
+5,18/05/19,Fluminense,4-1,Cruzeiro
+5,18/05/19,Palmeiras,4-0,Santos
+5,18/05/19,Atlético-MG,2-1,Flamengo
+5,19/05/19,São Paulo,0-0,Bahia
+5,19/05/19,Internacional,2-0,CSA
+5,19/05/19,Athletico-PR,0-2,Corinthians
+5,19/05/19,Goiás,1-0,Botafogo
+5,19/05/19,Chapecoense,1-3,Fortaleza
+5,19/05/19,Vasco da Gama,1-1,Avai
+5,19/05/19,Ceará SC,2-1,Grêmio
+6,25/05/19,Botafogo,0-1,Palmeiras
+6,25/05/19,Grêmio,1-0,Atlético-MG
+6,26/05/19,Flamengo,3-2,Athletico-PR
+6,26/05/19,Santos,0-0,Internacional
+6,26/05/19,Fortaleza,1-1,Vasco da Gama
+6,26/05/19,Cruzeiro,1-2,Chapecoense
+6,26/05/19,Bahia,3-2,Fluminense
+6,26/05/19,Corinthians,1-0,São Paulo
+6,27/05/19,CSA,1-0,Goiás
+6,27/05/19,Avai,1-2,Ceará SC
+7,01/06/19,Flamengo,2-0,Fortaleza
+7,01/06/19,Bahia,1-0,Grêmio
+7,02/06/19,Botafogo,1-0,Vasco da Gama
+7,02/06/19,Ceará SC,0-1,Santos
+7,02/06/19,Athletico-PR,3-0,Fluminense
+7,02/06/19,São Paulo,1-1,Cruzeiro
+7,02/06/19,Atlético-MG,4-0,CSA
+7,02/06/19,Chapecoense,1-2,Palmeiras
+7,02/06/19,Internacional,2-0,Avai
+8,07/06/19,Vasco da Gama,2-1,Internacional
+8,08/06/19,Palmeiras,1-0,Athletico-PR
+8,08/06/19,Grêmio,1-0,Fortaleza
+8,08/06/19,Cruzeiro,0-0,Corinthians
+8,08/06/19,Ceará SC,0-0,Bahia
+8,08/06/19,Avai,0-0,São Paulo
+8,09/06/19,CSA,1-2,Botafogo
+8,09/06/19,Fluminense,0-0,Flamengo
+8,09/06/19,Santos,3-1,Atlético-MG
+8,10/06/19,Goiás,3-1,Chapecoense
+9,12/06/19,Botafogo,0-1,Grêmio
+9,12/06/19,Fortaleza,2-1,Cruzeiro
+9,12/06/19,Internacional,3-1,Bahia
+9,12/06/19,CSA,0-2,Flamengo
+9,12/06/19,Santos,1-0,Corinthians
+9,13/06/19,Vasco da Gama,1-0,Ceará SC
+9,13/06/19,Chapecoense,1-1,Fluminense
+9,13/06/19,Palmeiras,2-0,Avai
+9,13/06/19,Atlético-MG,1-1,São Paulo
+9,13/06/19,Goiás,2-1,Athletico-PR
+10,13/07/19,Grêmio,2-1,Vasco da Gama
+10,13/07/19,Fortaleza,2-0,Avai
+10,13/07/19,Bahia,0-1,Santos
+10,13/07/19,São Paulo,1-1,Palmeiras
+10,14/07/19,Flamengo,6-1,Goiás
+10,14/07/19,Corinthians,1-0,CSA
+10,14/07/19,Athletico-PR,1-0,Internacional
+10,14/07/19,Cruzeiro,0-0,Botafogo
+10,14/07/19,Chapecoense,1-2,Atlético-MG
+10,15/07/19,Fluminense,1-1,Ceará SC
+11,20/07/19,Vasco da Gama,2-1,Fluminense
+11,20/07/19,Bahia,0-0,Cruzeiro
+11,20/07/19,Ceará SC,2-0,Palmeiras
+11,20/07/19,CSA,0-4,Athletico-PR
+11,20/07/19,Internacional,1-1,Grêmio
+11,21/07/19,Botafogo,0-1,Santos
+11,21/07/19,Atlético-MG,2-2,Fortaleza
+11,21/07/19,Corinthians,1-1,Flamengo
+11,21/07/19,Avai,0-0,Goiás
+11,22/07/19,São Paulo,4-0,Chapecoense
+12,27/07/19,Palmeiras,1-1,Vasco da Gama
+12,27/07/19,Cruzeiro,0-2,Athletico-PR
+12,27/07/19,Fluminense,1-2,São Paulo
+12,27/07/19,Internacional,1-0,Ceará SC
+12,28/07/19,Chapecoense,0-0,Bahia
+12,28/07/19,Flamengo,3-2,Botafogo
+12,28/07/19,Santos,3-1,Avai
+12,28/07/19,Goiás,0-0,Atlético-MG
+12,28/07/19,Fortaleza,1-3,Corinthians
+12,29/07/19,CSA,0-0,Grêmio
+13,03/08/19,Ceará SC,2-1,Fortaleza
+13,03/08/19,Fluminense,2-1,Internacional
+13,04/08/19,Santos,6-1,Goiás
+13,04/08/19,Avai,0-2,Botafogo
+13,04/08/19,Bahia,3-0,Flamengo
+13,04/08/19,Corinthians,1-1,Palmeiras
+13,04/08/19,Vasco da Gama,0-0,CSA
+13,04/08/19,Atlético-MG,2-0,Cruzeiro
+13,05/08/19,Grêmio,3-3,Chapecoense
+7,07/08/19,Corinthians,2-0,Goiás
+14,10/08/19,Ceará SC,4-1,Chapecoense
+14,10/08/19,São Paulo,3-2,Santos
+14,10/08/19,Flamengo,3-1,Grêmio
+14,10/08/19,Atlético-MG,2-1,Fluminense
+14,11/08/19,Internacional,0-0,Corinthians
+14,11/08/19,Palmeiras,2-2,Bahia
+14,11/08/19,Avai,2-2,Cruzeiro
+14,11/08/19,Botafogo,2-1,Athletico-PR
+14,11/08/19,Goiás,0-1,Vasco da Gama
+14,12/08/19,CSA,0-2,Fortaleza
+15,17/08/19,Corinthians,2-0,Botafogo
+15,17/08/19,Fortaleza,0-1,Internacional
+15,17/08/19,Vasco da Gama,1-4,Flamengo
+15,17/08/19,Athletico-PR,1-0,Atlético-MG
+15,17/08/19,Grêmio,1-1,Palmeiras
+15,18/08/19,Fluminense,0-1,CSA
+15,18/08/19,São Paulo,1-0,Ceará SC
+15,18/08/19,Bahia,1-1,Goiás
+15,18/08/19,Cruzeiro,2-0,Santos
+15,18/08/19,Chapecoense,1-0,Avai
+13,21/08/19,Athletico-PR,0-1,São Paulo
+16,24/08/19,Atlético-MG,0-1,Bahia
+16,24/08/19,Grêmio,2-1,Athletico-PR
+16,25/08/19,Goiás,2-1,Internacional
+16,25/08/19,Vasco da Gama,2-0,São Paulo
+16,25/08/19,Santos,3-3,Fortaleza
+16,25/08/19,Ceará SC,0-3,Flamengo
+16,25/08/19,Avai,1-1,Corinthians
+16,25/08/19,CSA,1-1,Cruzeiro
+16,26/08/19,Botafogo,0-0,Chapecoense
+17,31/08/19,São Paulo,0-0,Grêmio
+17,31/08/19,Bahia,1-0,CSA
+17,31/08/19,Chapecoense,0-1,Santos
+17,31/08/19,Athletico-PR,1-0,Ceará SC
+17,31/08/19,Internacional,3-2,Botafogo
+17,01/09/19,Flamengo,3-0,Palmeiras
+17,01/09/19,Fortaleza,2-0,Goiás
+17,01/09/19,Cruzeiro,1-0,Vasco da Gama
+17,01/09/19,Corinthians,1-0,Atlético-MG
+17,02/09/19,Fluminense,0-1,Avai
+18,07/09/19,Vasco da Gama,0-2,Bahia
+18,07/09/19,Corinthians,2-2,Ceará SC
+18,07/09/19,Avai,0-3,Flamengo
+18,07/09/19,Fortaleza,0-1,Fluminense
+18,07/09/19,Internacional,1-0,São Paulo
+18,07/09/19,Goiás,1-2,Palmeiras
+18,08/09/19,Cruzeiro,1-4,Grêmio
+18,08/09/19,Santos,1-1,Athletico-PR
+18,08/09/19,Botafogo,2-1,Atlético-MG
+18,08/09/19,CSA,2-0,Chapecoense
+16,10/09/19,Palmeiras,3-0,Fluminense
+19,14/09/19,Flamengo,1-0,Santos
+19,14/09/19,Chapecoense,1-2,Vasco da Gama
+19,14/09/19,Palmeiras,1-0,Cruzeiro
+19,14/09/19,Ceará SC,0-0,Botafogo
+19,15/09/19,Athletico-PR,0-1,Avai
+19,15/09/19,Atlético-MG,1-3,Internacional
+19,15/09/19,Bahia,1-1,Fortaleza
+19,15/09/19,Grêmio,3-0,Goiás
+19,15/09/19,Fluminense,1-0,Corinthians
+19,15/09/19,São Paulo,1-1,CSA
+20,21/09/19,Botafogo,1-2,São Paulo
+20,21/09/19,Cruzeiro,1-2,Flamengo
+20,21/09/19,Corinthians,2-1,Bahia
+20,21/09/19,Santos,0-3,Grêmio
+20,22/09/19,Internacional,1-0,Chapecoense
+20,22/09/19,Fortaleza,0-1,Palmeiras
+20,22/09/19,CSA,1-0,Ceará SC
+20,22/09/19,Vasco da Gama,1-1,Athletico-PR
+20,22/09/19,Goiás,3-0,Fluminense
+20,23/09/19,Avai,1-0,Atlético-MG
+21,25/09/19,Ceará SC,0-0,Cruzeiro
+21,25/09/19,Bahia,2-0,Botafogo
+21,25/09/19,Flamengo,3-1,Internacional
+21,25/09/19,São Paulo,0-1,Goiás
+21,26/09/19,Palmeiras,6-2,CSA
+21,26/09/19,Fluminense,1-1,Santos
+21,26/09/19,Grêmio,6-1,Avai
+21,26/09/19,Athletico-PR,4-1,Fortaleza
+22,28/09/19,Flamengo,0-0,São Paulo
+22,29/09/19,Corinthians,1-0,Vasco da Gama
+22,29/09/19,Santos,2-0,CSA
+22,29/09/19,Internacional,1-1,Palmeiras
+22,29/09/19,Fluminense,2-1,Grêmio
+22,29/09/19,Athletico-PR,1-1,Chapecoense
+22,29/09/19,Atlético-MG,2-1,Ceará SC
+22,30/09/19,Avai,0-2,Bahia
+22,30/09/19,Fortaleza,1-0,Botafogo
+22,30/09/19,Goiás,1-0,Cruzeiro
+21,02/10/19,Atlético-MG,1-2,Vasco da Gama
+21,02/10/19,Chapecoense,0-1,Corinthians
+23,05/10/19,Vasco da Gama,0-1,Santos
+23,05/10/19,São Paulo,2-1,Fortaleza
+23,05/10/19,Grêmio,0-0,Corinthians
+23,05/10/19,Bahia,1-2,Athletico-PR
+23,05/10/19,Cruzeiro,1-1,Internacional
+23,06/10/19,Chapecoense,0-1,Flamengo
+23,06/10/19,Ceará SC,0-1,Goiás
+23,06/10/19,Palmeiras,1-1,Atlético-MG
+23,06/10/19,Botafogo,0-1,Fluminense
+23,06/10/19,CSA,3-1,Avai
+24,09/10/19,CSA,1-0,Internacional
+24,09/10/19,Botafogo,3-1,Goiás
+24,09/10/19,Fortaleza,2-0,Chapecoense
+24,09/10/19,Bahia,0-0,São Paulo
+24,09/10/19,Grêmio,2-1,Ceará SC
+24,09/10/19,Cruzeiro,0-0,Fluminense
+24,09/10/19,Santos,2-0,Palmeiras
+24,10/10/19,Corinthians,2-2,Athletico-PR
+24,10/10/19,Avai,0-0,Vasco da Gama
+24,10/10/19,Flamengo,3-1,Atlético-MG
+25,12/10/19,Goiás,1-0,CSA
+25,12/10/19,Fluminense,2-0,Bahia
+25,12/10/19,Palmeiras,1-0,Botafogo
+25,13/10/19,Internacional,0-0,Santos
+25,13/10/19,Athletico-PR,0-2,Flamengo
+25,13/10/19,Ceará SC,1-0,Avai
+25,13/10/19,Vasco da Gama,1-0,Fortaleza
+25,13/10/19,São Paulo,1-0,Corinthians
+25,13/10/19,Atlético-MG,1-4,Grêmio
+25,13/10/19,Chapecoense,1-1,Cruzeiro
+26,16/10/19,CSA,2-2,Atlético-MG
+26,16/10/19,Grêmio,0-1,Bahia
+26,16/10/19,Fortaleza,1-2,Flamengo
+26,16/10/19,Cruzeiro,1-0,São Paulo
+26,16/10/19,Palmeiras,1-0,Chapecoense
+26,16/10/19,Goiás,2-2,Corinthians
+26,16/10/19,Vasco da Gama,2-1,Botafogo
+26,17/10/19,Avai,0-2,Internacional
+26,17/10/19,Santos,2-1,Ceará SC
+26,17/10/19,Fluminense,1-2,Athletico-PR
+27,19/10/19,Fortaleza,2-1,Grêmio
+27,19/10/19,Corinthians,1-2,Cruzeiro
+27,20/10/19,Internacional,0-1,Vasco da Gama
+27,20/10/19,São Paulo,1-0,Avai
+27,20/10/19,Atlético-MG,2-0,Santos
+27,20/10/19,Flamengo,2-0,Fluminense
+27,20/10/19,Chapecoense,2-2,Goiás
+27,20/10/19,Athletico-PR,1-1,Palmeiras
+27,21/10/19,Bahia,1-2,Ceará SC
+27,21/10/19,Botafogo,2-1,CSA
+28,26/10/19,Corinthians,0-0,Santos
+28,26/10/19,Ceará SC,1-1,Vasco da Gama
+28,26/10/19,Bahia,2-3,Internacional
+28,26/10/19,Fluminense,1-1,Chapecoense
+28,26/10/19,Cruzeiro,1-1,Fortaleza
+28,27/10/19,Athletico-PR,4-1,Goiás
+28,27/10/19,Grêmio,3-0,Botafogo
+28,27/10/19,São Paulo,2-0,Atlético-MG
+28,27/10/19,Avai,1-2,Palmeiras
+28,27/10/19,Flamengo,1-0,CSA
+29,30/10/19,Palmeiras,3-0,São Paulo
+29,30/10/19,Avai,1-3,Fortaleza
+29,30/10/19,Atlético-MG,0-2,Chapecoense
+29,30/10/19,Ceará SC,2-0,Fluminense
+29,30/10/19,Vasco da Gama,1-3,Grêmio
+29,30/10/19,CSA,2-1,Corinthians
+29,31/10/19,Santos,1-0,Bahia
+29,31/10/19,Goiás,2-2,Flamengo
+29,31/10/19,Internacional,1-1,Athletico-PR
+29,31/10/19,Botafogo,0-2,Cruzeiro
+30,02/11/19,Fortaleza,2-2,Atlético-MG
+30,02/11/19,Fluminense,0-0,Vasco da Gama
+30,02/11/19,Palmeiras,1-0,Ceará SC
+30,02/11/19,Chapecoense,0-3,São Paulo
+30,03/11/19,Flamengo,4-1,Corinthians
+30,03/11/19,Athletico-PR,1-0,CSA
+30,03/11/19,Grêmio,2-0,Internacional
+30,03/11/19,Santos,4-1,Botafogo
+30,03/11/19,Cruzeiro,1-1,Bahia
+30,03/11/19,Goiás,2-0,Avai
+31,06/11/19,Corinthians,3-2,Fortaleza
+31,06/11/19,Atlético-MG,2-0,Goiás
+31,06/11/19,Avai,1-2,Santos
+31,06/11/19,Athletico-PR,0-0,Cruzeiro
+31,06/11/19,Vasco da Gama,1-2,Palmeiras
+31,06/11/19,Bahia,1-1,Chapecoense
+31,07/11/19,Ceará SC,2-0,Internacional
+31,07/11/19,São Paulo,0-2,Fluminense
+31,07/11/19,Botafogo,0-1,Flamengo
+31,07/11/19,Grêmio,2-1,CSA
+32,09/11/19,Goiás,0-3,Santos
+32,09/11/19,Palmeiras,1-1,Corinthians
+32,10/11/19,Internacional,2-1,Fluminense
+32,10/11/19,Cruzeiro,0-0,Atlético-MG
+32,10/11/19,São Paulo,0-1,Athletico-PR
+32,10/11/19,Flamengo,3-1,Bahia
+32,10/11/19,Chapecoense,0-1,Grêmio
+32,10/11/19,Fortaleza,1-0,Ceará SC
+32,10/11/19,CSA,0-3,Vasco da Gama
+32,11/11/19,Botafogo,2-0,Avai
+34,13/11/19,Flamengo,4-4,Vasco da Gama
+33,16/11/19,Santos,1-1,São Paulo
+33,16/11/19,Fluminense,1-1,Atlético-MG
+33,17/11/19,Grêmio,0-1,Flamengo
+33,17/11/19,Bahia,1-1,Palmeiras
+33,17/11/19,Chapecoense,1-0,Ceará SC
+33,17/11/19,Athletico-PR,1-0,Botafogo
+33,17/11/19,Corinthians,0-0,Internacional
+33,17/11/19,Fortaleza,3-0,CSA
+33,18/11/19,Vasco da Gama,1-1,Goiás
+33,18/11/19,Cruzeiro,0-0,Avai
+34,23/11/19,Santos,4-1,Cruzeiro
+34,24/11/19,Palmeiras,1-2,Grêmio
+34,24/11/19,Atlético-MG,0-1,Athletico-PR
+34,24/11/19,Goiás,4-3,Bahia
+34,24/11/19,Botafogo,1-0,Corinthians
+34,24/11/19,Ceará SC,1-1,São Paulo
+34,24/11/19,Internacional,2-2,Fortaleza
+34,24/11/19,Avai,0-1,Chapecoense
+34,25/11/19,CSA,0-1,Fluminense
+35,27/11/19,Internacional,1-2,Goiás
+35,27/11/19,Chapecoense,0-1,Botafogo
+35,27/11/19,Bahia,1-1,Atlético-MG
+35,27/11/19,Athletico-PR,2-0,Grêmio
+35,27/11/19,Flamengo,4-1,Ceará SC
+35,27/11/19,Corinthians,3-0,Avai
+35,28/11/19,Fluminense,1-0,Palmeiras
+35,28/11/19,Fortaleza,2-1,Santos
+35,28/11/19,São Paulo,1-0,Vasco da Gama
+35,28/11/19,Cruzeiro,0-1,CSA
+36,30/11/19,Botafogo,0-1,Internacional
+36,30/11/19,Ceará SC,1-1,Athletico-PR
+36,01/12/19,Avai,1-1,Fluminense
+36,01/12/19,Palmeiras,1-3,Flamengo
+36,01/12/19,Goiás,1-2,Fortaleza
+36,01/12/19,CSA,1-2,Bahia
+36,01/12/19,Atlético-MG,2-1,Corinthians
+36,01/12/19,Santos,2-0,Chapecoense
+36,01/12/19,Grêmio,3-0,São Paulo
+36,02/12/19,Vasco da Gama,1-0,Cruzeiro
+37,04/12/19,Athletico-PR,1-0,Santos
+37,04/12/19,Ceará SC,0-1,Corinthians
+37,04/12/19,Atlético-MG,2-0,Botafogo
+37,04/12/19,Chapecoense,3-0,CSA
+37,04/12/19,Fluminense,0-0,Fortaleza
+37,04/12/19,São Paulo,2-1,Internacional
+37,05/12/19,Grêmio,2-0,Cruzeiro
+37,05/12/19,Palmeiras,5-1,Goiás
+37,05/12/19,Bahia,1-1,Vasco da Gama
+37,05/12/19,Flamengo,6-1,Avai
+38,08/12/19,Corinthians,1-2,Fluminense
+38,08/12/19,Santos,4-0,Flamengo
+38,08/12/19,Botafogo,1-1,Ceará SC
+38,08/12/19,CSA,1-2,São Paulo
+38,08/12/19,Internacional,2-1,Atlético-MG
+38,08/12/19,Cruzeiro,0-2,Palmeiras
+38,08/12/19,Goiás,3-2,Grêmio
+38,08/12/19,Vasco da Gama,1-1,Chapecoense
+38,08/12/19,Avai,0-0,Athletico-PR
+38,08/12/19,Fortaleza,2-1,Bahia

@@ -91,44 +91,45 @@ def mostrar_jogos_rodada(df, rodada):
 def main():
     print("Tabela do Campeonato Brasileiro - Visualizador por Rodada")
     print("="*60)
-    
-    try:
-        # Lê o arquivo CSV (ajuste o caminho conforme necessário)
-        df = pd.read_csv('brasileiraoB/brasileiraoB2016.csv')
-        
-        # Verifica se as colunas necessárias existem
-        colunas_necessarias = ['Rodada', 'Time da Casa', 'Placar', 'Time Visitante']
-        if not all(col in df.columns for col in colunas_necessarias):
-            print("O arquivo CSV não possui as colunas necessárias.")
-            print("Colunas encontradas:", df.columns.tolist())
-            print("Colunas necessárias:", colunas_necessarias)
-            return
-        
-        while True:
-            try:
-                rodada = int(input("\nDigite o número da rodada (1-38) ou 0 para sair: "))
-                if rodada == 0:
-                    print("Saindo...")
-                    break
-                if 1 <= rodada <= 38:
-                    # Mostra jogos da rodada
-                    mostrar_jogos_rodada(df, rodada)
-                    
-                    # Calcula e mostra a classificação até a rodada
-                    classificacao = calcular_classificacao(df, rodada)
-                    
-                    print(f"\nClassificação até a Rodada {rodada}:")
-                    print("="*60)
-                    print(classificacao[['Time', 'Pts', 'J', 'V', 'E', 'D', 'GP', 'GC', 'SG']])
-                    print("="*60)
-                else:
-                    print("Por favor, digite um número entre 1 e 38.")
-            except ValueError:
-                print("Por favor, digite um número válido.")
-    except FileNotFoundError:
-        print("Arquivo 'brasileirao.csv' não encontrado no diretório.")
-    except Exception as e:
-        print(f"Ocorreu um erro: {e}")
+    while True:
+        try:
+            # Lê o arquivo CSV (ajuste o caminho conforme necessário)
+            ano = input("Digite o Ano: ")
+            df = pd.read_csv(f'brasileiraoB/brasileiraoB{ano}.csv')
+            
+            # Verifica se as colunas necessárias existem
+            colunas_necessarias = ['Rodada', 'Time da Casa', 'Placar', 'Time Visitante']
+            if not all(col in df.columns for col in colunas_necessarias):
+                print("O arquivo CSV não possui as colunas necessárias.")
+                print("Colunas encontradas:", df.columns.tolist())
+                print("Colunas necessárias:", colunas_necessarias)
+                return
+            rodada = 1
+            while rodada > 0:
+                try:
+                    rodada = int(input("\nDigite o número da rodada (1-38) ou 0 para sair: "))
+                    if rodada == 0:
+                        print("Saindo...")
+                        break
+                    if 1 <= rodada <= 38:
+                        # Mostra jogos da rodada
+                        mostrar_jogos_rodada(df, rodada)
+                        
+                        # Calcula e mostra a classificação até a rodada
+                        classificacao = calcular_classificacao(df, rodada)
+                        
+                        print(f"\nClassificação até a Rodada {rodada}:")
+                        print("="*60)
+                        print(classificacao[['Time', 'Pts', 'J', 'V', 'E', 'D', 'GP', 'GC', 'SG']])
+                        print("="*60)
+                    else:
+                        print("Por favor, digite um número entre 1 e 38.")
+                except ValueError:
+                    print("Por favor, digite um número válido.")
+        except FileNotFoundError:
+            print("Arquivo 'brasileirao.csv' não encontrado no diretório.")
+        except Exception as e:
+            print(f"Ocorreu um erro: {e}")
 
 if __name__ == "__main__":
     main()

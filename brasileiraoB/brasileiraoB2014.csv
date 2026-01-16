@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/04/14,Vila Nova,0-0,Luverdense
+1,18/04/14,Sampaio Corrêa,0-2,Paraná
+1,18/04/14,Joinville,3-0,Portuguesa
+1,18/04/14,Ponte Preta,1-1,Icasa
+1,19/04/14,Bragantino,2-2,Náutico
+1,19/04/14,Santa Cruz,1-1,ABC
+1,19/04/14,Vasco da Gama,1-1,América-MG
+1,19/04/14,Boa Esporte,1-1,Atlético-GO
+1,19/04/14,América-RN,3-1,Avaí
+1,19/04/14,Ceará SC,1-0,Oeste
+2,22/04/14,Avaí,1-2,Bragantino
+2,25/04/14,Icasa,0-3,Sampaio Corrêa
+2,25/04/14,Paraná,2-3,Joinville
+2,26/04/14,Luverdense,2-1,Vasco da Gama
+2,26/04/14,Oeste,2-1,América-RN
+2,26/04/14,Atlético-GO,2-2,Ponte Preta
+2,26/04/14,Portuguesa,1-1,Santa Cruz
+2,26/04/14,Náutico,2-0,Vila Nova
+2,26/04/14,ABC,1-0,Boa Esporte
+2,26/04/14,América-MG,3-0,Ceará SC
+3,29/04/14,Bragantino,2-2,Portuguesa
+3,02/05/14,Joinville,2-1,Icasa
+3,02/05/14,Santa Cruz,1-1,Paraná
+3,03/05/14,América-RN,0-2,ABC
+3,03/05/14,Boa Esporte,1-3,América-MG
+3,03/05/14,Ceará SC,2-2,Náutico
+3,03/05/14,Vasco da Gama,3-0,Atlético-GO
+3,03/05/14,Ponte Preta,2-2,Luverdense
+3,03/05/14,Vila Nova,0-1,Avaí
+3,03/05/14,Sampaio Corrêa,2-2,Oeste
+4,06/05/14,Boa Esporte,2-1,Portuguesa
+4,09/05/14,Vila Nova,0-1,Icasa
+4,10/05/14,América-RN,3-3,Atlético-GO
+4,10/05/14,Ponte Preta,2-1,ABC
+4,10/05/14,Joinville,1-0,Náutico
+4,10/05/14,Vasco da Gama,2-0,Oeste
+4,10/05/14,Santa Cruz,0-0,Luverdense
+4,10/05/14,Bragantino,0-2,América-MG
+4,10/05/14,Ceará SC,2-1,Paraná
+4,07/06/14,Sampaio Corrêa,1-1,Avaí
+5,13/05/14,Oeste,1-1,Ponte Preta
+5,16/05/14,Paraná,0-0,Boa Esporte
+5,17/05/14,ABC,1-0,Sampaio Corrêa
+5,17/05/14,Avaí,1-1,Ceará SC
+5,17/05/14,América-MG,2-0,Vila Nova
+5,17/05/14,Icasa,1-1,Santa Cruz
+5,17/05/14,Portuguesa,1-2,América-RN
+5,17/05/14,Luverdense,2-0,Bragantino
+5,17/05/14,Atlético-GO,0-0,Joinville
+5,12/08/14,Náutico,0-1,Vasco da Gama
+6,20/05/14,Atlético-GO,2-0,ABC
+6,20/05/14,Ponte Preta,1-0,Vila Nova
+6,20/05/14,Oeste,1-1,Santa Cruz
+6,20/05/14,América-MG,3-1,Joinville
+6,20/05/14,Avaí,2-1,Paraná
+6,20/05/14,América-RN,0-1,Ceará SC
+6,20/05/14,Luverdense,4-2,Boa Esporte
+6,20/05/14,Náutico,2-1,Portuguesa
+6,20/05/14,Icasa,3-0,Bragantino
+6,20/05/14,Vasco da Gama,1-1,Sampaio Corrêa
+7,23/05/14,Boa Esporte,2-0,Avaí
+7,23/05/14,Bragantino,3-0,Oeste
+7,23/05/14,Santa Cruz,1-1,América-MG
+7,23/05/14,Ceará SC,3-2,Ponte Preta
+7,24/05/14,Portuguesa,2-0,Atlético-GO
+7,24/05/14,Joinville,0-0,Vasco da Gama
+7,24/05/14,Vila Nova,1-3,América-RN
+7,24/05/14,Sampaio Corrêa,1-0,Luverdense
+7,24/05/14,ABC,3-0,Icasa
+7,24/05/14,Paraná,2-0,Náutico
+8,27/05/14,ABC,0-1,Oeste
+8,27/05/14,Boa Esporte,0-2,Santa Cruz
+8,27/05/14,Portuguesa,1-4,Sampaio Corrêa
+8,27/05/14,Joinville,1-0,América-RN
+8,27/05/14,Paraná,1-2,Ponte Preta
+8,27/05/14,Luverdense,1-0,Icasa
+8,27/05/14,Ceará SC,4-0,Vila Nova
+8,27/05/14,Náutico,0-1,Avaí
+8,27/05/14,Bragantino,1-1,Vasco da Gama
+8,27/05/14,Atlético-GO,3-0,América-MG
+9,30/05/14,América-RN,2-0,Luverdense
+9,30/05/14,Oeste,2-2,Paraná
+9,30/05/14,Avaí,0-1,ABC
+9,30/05/14,Santa Cruz,2-0,Joinville
+9,31/05/14,Sampaio Corrêa,2-2,Ceará SC
+9,31/05/14,Vasco da Gama,1-1,Portuguesa
+9,31/05/14,América-MG,1-3,Náutico
+9,31/05/14,Ponte Preta,1-0,Boa Esporte
+9,31/05/14,Vila Nova,1-1,Bragantino
+9,31/05/14,Icasa,1-0,Atlético-GO
+10,03/06/14,Sampaio Corrêa,3-0,América-RN
+10,03/06/14,Portuguesa,2-1,América-MG
+10,03/06/14,Santa Cruz,2-1,Ponte Preta
+10,03/06/14,Bragantino,1-2,Ceará SC
+10,03/06/14,ABC,1-1,Náutico
+10,03/06/14,Boa Esporte,0-2,Vasco da Gama
+10,03/06/14,Icasa,0-2,Avaí
+10,06/06/14,Joinville,1-0,Vila Nova
+10,06/06/14,Paraná,0-2,Luverdense
+10,22/07/14,Atlético-GO,4-2,Oeste
+11,15/07/14,América-MG,1-0,Paraná
+11,15/07/14,Avaí,2-1,Atlético-GO
+11,15/07/14,Ponte Preta,0-0,Portuguesa
+11,15/07/14,Náutico,1-0,Sampaio Corrêa
+11,15/07/14,Vila Nova,0-2,Boa Esporte
+11,15/07/14,América-RN,4-2,Bragantino
+11,15/07/14,Luverdense,3-1,ABC
+11,15/07/14,Ceará SC,1-3,Joinville
+11,15/07/14,Vasco da Gama,4-1,Santa Cruz
+11,15/07/14,Oeste,0-0,Icasa
+12,18/07/14,América-MG,3-0,Oeste
+12,19/07/14,Portuguesa,1-1,Paraná
+12,19/07/14,Avaí,1-0,Ponte Preta
+12,19/07/14,ABC,2-1,Joinville
+12,19/07/14,Luverdense,0-2,Atlético-GO
+12,19/07/14,Vasco da Gama,1-1,América-RN
+12,19/07/14,Ceará SC,2-1,Icasa
+12,19/07/14,Vila Nova,3-2,Santa Cruz
+12,19/07/14,Bragantino,0-1,Sampaio Corrêa
+12,19/07/14,Náutico,1-3,Boa Esporte
+13,23/07/14,Icasa,2-0,Portuguesa
+13,25/07/14,Oeste,2-1,Luverdense
+13,25/07/14,América-RN,1-0,América-MG
+13,25/07/14,Boa Esporte,2-1,Bragantino
+13,26/07/14,Santa Cruz,2-3,Ceará SC
+13,26/07/14,Joinville,0-1,Avaí
+13,26/07/14,Ponte Preta,0-0,Vasco da Gama
+13,26/07/14,Atlético-GO,2-0,Náutico
+13,26/07/14,Paraná,1-0,ABC
+13,26/07/14,Sampaio Corrêa,2-0,Vila Nova
+14,29/07/14,Náutico,1-0,Icasa
+14,29/07/14,Portuguesa,0-0,Oeste
+14,01/08/14,Vila Nova,0-2,Atlético-GO
+14,01/08/14,Avaí,1-2,Luverdense
+14,02/08/14,América-RN,0-1,Santa Cruz
+14,02/08/14,Sampaio Corrêa,3-3,Ponte Preta
+14,02/08/14,Vasco da Gama,1-0,Paraná
+14,02/08/14,Bragantino,1-0,Joinville
+14,02/08/14,América-MG,1-0,ABC
+14,02/08/14,Ceará SC,2-2,Boa Esporte
+15,05/08/14,Luverdense,3-1,Portuguesa
+15,05/08/14,Joinville,3-1,Sampaio Corrêa
+15,08/08/14,Atlético-GO,0-2,Ceará SC
+15,08/08/14,Icasa,2-0,América-MG
+15,08/08/14,Ponte Preta,1-0,Bragantino
+15,09/08/14,ABC,1-2,Vasco da Gama
+15,09/08/14,Paraná,3-1,Vila Nova
+15,09/08/14,Santa Cruz,3-0,Náutico
+15,09/08/14,Boa Esporte,3-2,América-RN
+15,09/08/14,Oeste,0-0,Avaí
+16,12/08/14,ABC,0-0,Portuguesa
+16,12/08/14,Avaí,2-0,América-MG
+16,14/10/14,Santa Cruz,2-1,Bragantino
+16,15/08/14,Atlético-GO,2-1,Paraná
+16,16/08/14,Luverdense,0-2,Náutico
+16,16/08/14,Icasa,0-2,América-RN
+16,16/08/14,Vasco da Gama,2-0,Ceará SC
+16,15/08/14,Ponte Preta,2-0,Joinville
+16,16/08/14,Oeste,1-3,Vila Nova
+16,16/08/14,Boa Esporte,2-1,Sampaio Corrêa
+17,19/08/14,América-RN,0-2,Ponte Preta
+17,19/08/14,Ceará SC,1-2,ABC
+17,19/08/14,Náutico,3-2,Oeste
+17,19/08/14,Joinville,2-1,Boa Esporte
+17,19/08/14,Paraná,1-0,Icasa
+17,19/08/14,Sampaio Corrêa,0-0,Santa Cruz
+17,19/08/14,América-MG,2-0,Luverdense
+17,19/08/14,Bragantino,2-1,Atlético-GO
+17,19/08/14,Vila Nova,2-1,Vasco da Gama
+17,19/08/14,Portuguesa,1-3,Avaí
+18,22/08/14,Oeste,2-1,Boa Esporte
+18,22/08/14,América-MG,3-0,Ponte Preta
+18,22/08/14,Icasa,1-1,Vasco da Gama
+18,23/08/14,Atlético-GO,2-4,Sampaio Corrêa
+18,23/08/14,Portuguesa,1-1,Ceará SC
+18,23/08/14,Avaí,0-0,Santa Cruz
+18,23/08/14,Paraná,1-0,Bragantino
+18,23/08/14,Náutico,2-1,América-RN
+18,23/08/14,Luverdense,2-2,Joinville
+18,23/08/14,ABC,0-2,Vila Nova
+19,26/08/14,Boa Esporte,2-0,Icasa
+19,26/08/14,Vila Nova,1-2,Portuguesa
+19,29/08/14,Joinville,2-1,Oeste
+19,29/08/14,Santa Cruz,2-0,Atlético-GO
+19,29/08/14,Sampaio Corrêa,0-0,América-MG
+19,30/08/14,América-RN,2-3,Paraná
+19,30/08/14,Vasco da Gama,0-5,Avaí
+19,30/08/14,Ponte Preta,2-0,Náutico
+19,30/08/14,Bragantino,1-0,ABC
+19,30/08/14,Ceará SC,3-1,Luverdense
+20,02/09/14,Atlético-GO,0-3,Boa Esporte
+20,02/09/14,Paraná,0-0,Sampaio Corrêa
+20,02/09/14,Portuguesa,1-2,Joinville
+20,05/09/14,Icasa,0-1,Ponte Preta
+20,06/09/14,ABC,2-1,Santa Cruz
+20,06/09/14,Avaí,0-0,América-RN
+20,06/09/14,América-MG,2-3,Vasco da Gama
+20,06/09/14,Náutico,0-0,Bragantino
+20,06/09/14,Luverdense,2-0,Vila Nova
+20,06/09/14,Oeste,3-1,Ceará SC
+21,09/09/14,Boa Esporte,0-0,ABC
+21,09/09/14,Ponte Preta,3-4,Atlético-GO
+21,09/09/14,América-RN,0-1,Oeste
+21,09/09/14,Vila Nova,0-1,Náutico
+21,09/09/14,Sampaio Corrêa,3-2,Icasa
+21,09/09/14,Santa Cruz,1-0,Portuguesa
+21,09/09/14,Vasco da Gama,2-0,Luverdense
+21,09/09/14,Ceará SC,5-2,América-MG
+21,09/09/14,Bragantino,1-4,Avaí
+21,08/09/14,Joinville,3-0,Paraná
+22,12/09/14,Oeste,0-0,Sampaio Corrêa
+22,12/09/14,Náutico,2-1,Ceará SC
+22,12/09/14,Icasa,1-1,Joinville
+22,13/09/14,ABC,0-0,América-RN
+22,13/09/14,Atlético-GO,1-1,Vasco da Gama
+22,13/09/14,Paraná,3-2,Santa Cruz
+22,13/09/14,América-MG,0-2,Boa Esporte
+22,12/09/14,Luverdense,0-1,Ponte Preta
+22,13/09/14,Portuguesa,1-3,Bragantino
+22,13/09/14,Avaí,2-1,Vila Nova
+23,16/09/14,Náutico,1-2,Joinville
+23,16/09/14,Portuguesa,1-1,Boa Esporte
+23,16/09/14,Paraná,0-0,Ceará SC
+23,16/09/14,Avaí,3-2,Sampaio Corrêa
+23,16/09/14,América-MG,0-2,Bragantino
+23,16/09/14,Atlético-GO,2-0,América-RN
+23,16/09/14,ABC,0-2,Ponte Preta
+23,16/09/14,Luverdense,2-1,Santa Cruz
+23,16/09/14,Oeste,1-1,Vasco da Gama
+23,16/09/14,Icasa,0-1,Vila Nova
+24,19/09/14,América-RN,1-1,Portuguesa
+24,20/09/14,Sampaio Corrêa,2-1,ABC
+24,20/09/14,Joinville,2-0,Atlético-GO
+24,20/09/14,Vasco da Gama,2-1,Náutico
+24,20/09/14,Santa Cruz,1-1,Icasa
+24,20/09/14,Ponte Preta,5-1,Oeste
+24,20/09/14,Vila Nova,0-1,América-MG
+24,19/09/14,Ceará SC,2-2,Avaí
+24,20/09/14,Bragantino,2-0,Luverdense
+24,20/09/14,Boa Esporte,1-0,Paraná
+25,23/09/14,ABC,2-0,Atlético-GO
+25,23/09/14,Vila Nova,0-3,Ponte Preta
+25,23/09/14,Bragantino,2-1,Icasa
+25,23/09/14,Paraná,1-1,Avaí
+25,23/09/14,Joinville,1-1,América-MG
+25,23/09/14,Boa Esporte,2-1,Luverdense
+25,23/09/14,Ceará SC,2-0,América-RN
+25,23/09/14,Santa Cruz,3-0,Oeste
+25,23/09/14,Portuguesa,0-0,Náutico
+25,23/09/14,Sampaio Corrêa,2-2,Vasco da Gama
+26,26/09/14,América-RN,0-1,Vila Nova
+26,26/09/14,Luverdense,0-1,Sampaio Corrêa
+26,26/09/14,Náutico,3-1,Paraná
+26,27/09/14,Avaí,2-0,Boa Esporte
+26,27/09/14,Ponte Preta,3-1,Ceará SC
+26,27/09/14,América-MG,1-0,Santa Cruz
+26,27/09/14,Oeste,4-1,Bragantino
+26,26/09/14,Vasco da Gama,2-0,Joinville
+26,27/09/14,Icasa,1-0,ABC
+26,27/09/14,Atlético-GO,2-1,Portuguesa
+27,30/09/14,Sampaio Corrêa,0-0,Portuguesa
+27,30/09/14,Vila Nova,1-5,Ceará SC
+27,30/09/14,Icasa,1-0,Luverdense
+27,30/09/14,Ponte Preta,2-2,Paraná
+27,03/10/14,América-MG,1-1,Atlético-GO
+27,03/10/14,Santa Cruz,3-0,Boa Esporte
+27,04/10/14,Avaí,0-2,Náutico
+27,03/10/14,Vasco da Gama,2-2,Bragantino
+27,04/10/14,América-RN,1-0,Joinville
+27,04/10/14,Oeste,1-0,ABC
+28,07/10/14,Náutico,1-4,América-MG
+28,07/10/14,Paraná,0-0,Oeste
+28,07/10/14,Ceará SC,1-1,Sampaio Corrêa
+28,07/10/14,Boa Esporte,0-1,Ponte Preta
+28,07/10/14,Bragantino,1-2,Vila Nova
+28,07/10/14,Atlético-GO,0-0,Icasa
+28,07/10/14,Luverdense,2-1,América-RN
+28,07/10/14,ABC,2-1,Avaí
+28,07/10/14,Joinville,1-1,Santa Cruz
+28,07/10/14,Portuguesa,0-1,Vasco da Gama
+29,10/10/14,Vila Nova,0-1,Joinville
+29,10/10/14,Ceará SC,1-0,Bragantino
+29,10/10/14,Vasco da Gama,2-0,Boa Esporte
+29,10/10/14,Oeste,1-2,Atlético-GO
+29,11/10/14,América-RN,2-2,Sampaio Corrêa
+29,11/10/14,América-MG,3-1,Portuguesa
+29,11/10/14,Ponte Preta,1-1,Santa Cruz
+29,11/10/14,Náutico,2-1,ABC
+29,11/10/14,Luverdense,0-2,Paraná
+29,11/10/14,Avaí,1-0,Icasa
+30,14/10/14,Boa Esporte,3-0,Vila Nova
+30,14/10/14,Atlético-GO,2-0,Avaí
+30,17/10/14,Portuguesa,0-3,Ponte Preta
+30,17/10/14,Icasa,0-0,Oeste
+30,18/10/14,Sampaio Corrêa,1-1,Náutico
+30,18/10/14,Joinville,3-0,Ceará SC
+30,18/10/14,Santa Cruz,1-0,Vasco da Gama
+30,18/10/14,Bragantino,2-1,América-RN
+30,17/10/14,Paraná,1-1,América-MG
+30,18/10/14,ABC,0-1,Luverdense
+31,21/10/14,América-RN,2-0,Vasco da Gama
+31,21/10/14,Sampaio Corrêa,3-0,Bragantino
+31,21/10/14,Icasa,2-1,Ceará SC
+31,21/10/14,Ponte Preta,3-1,Avaí
+31,21/10/14,Paraná,1-0,Portuguesa
+31,21/10/14,Oeste,1-3,América-MG
+31,21/10/14,Atlético-GO,3-0,Luverdense
+31,21/10/14,Boa Esporte,1-0,Náutico
+31,21/10/14,Joinville,3-0,ABC
+31,28/10/14,Santa Cruz,5-1,Vila Nova
+32,24/10/14,Portuguesa,1-2,Icasa
+32,24/10/14,América-MG,2-1,América-RN
+32,24/10/14,Avaí,0-3,Joinville
+32,24/10/14,ABC,2-1,Paraná
+32,24/10/14,Ceará SC,0-2,Santa Cruz
+32,25/10/14,Vasco da Gama,1-1,Ponte Preta
+32,25/10/14,Náutico,1-2,Atlético-GO
+32,25/10/14,Bragantino,4-2,Boa Esporte
+32,25/10/14,Luverdense,1-0,Oeste
+32,25/10/14,Vila Nova,4-1,Sampaio Corrêa
+33,28/10/14,Oeste,3-0,Portuguesa
+33,28/10/14,Luverdense,3-1,Avaí
+33,28/10/14,Joinville,1-0,Bragantino
+33,31/10/14,Atlético-GO,3-1,Vila Nova
+33,31/10/14,Paraná,1-1,Vasco da Gama
+33,01/11/14,ABC,1-0,América-MG
+33,01/11/14,Santa Cruz,0-1,América-RN
+33,01/11/14,Ponte Preta,1-0,Sampaio Corrêa
+33,01/11/14,Icasa,3-1,Náutico
+33,01/11/14,Boa Esporte,3-1,Ceará SC
+34,04/11/14,Avaí,0-0,Oeste
+34,04/11/14,Sampaio Corrêa,1-2,Joinville
+34,07/11/14,América-RN,1-3,Boa Esporte
+34,07/11/14,Ceará SC,0-0,Atlético-GO
+34,08/11/14,Náutico,0-0,Santa Cruz
+34,08/11/14,América-MG,1-1,Icasa
+34,08/11/14,Bragantino,0-2,Ponte Preta
+34,08/11/14,Vasco da Gama,1-0,ABC
+34,08/11/14,Portuguesa,1-0,Luverdense
+34,08/11/14,Vila Nova,2-0,Paraná
+35,11/11/14,Portuguesa,0-0,ABC
+35,11/11/14,Paraná,2-0,Atlético-GO
+35,14/11/14,Vila Nova,0-1,Oeste
+35,14/11/14,América-MG,3-0,Avaí
+35,15/11/14,Ceará SC,2-0,Vasco da Gama
+35,15/11/14,Joinville,3-1,Ponte Preta
+35,15/11/14,Náutico,1-0,Luverdense
+35,15/11/14,Bragantino,2-1,Santa Cruz
+35,15/11/14,América-RN,2-0,Icasa
+35,15/11/14,Sampaio Corrêa,3-0,Boa Esporte
+36,18/11/14,Icasa,1-2,Paraná
+36,18/11/14,Atlético-GO,1-0,Bragantino
+36,18/11/14,Oeste,2-0,Náutico
+36,18/11/14,Avaí,2-0,Portuguesa
+36,18/11/14,ABC,1-0,Ceará SC
+36,18/11/14,Santa Cruz,0-2,Sampaio Corrêa
+36,18/11/14,Luverdense,1-2,América-MG
+36,18/11/14,Boa Esporte,1-0,Joinville
+36,18/11/14,Ponte Preta,2-2,América-RN
+36,18/11/14,Vasco da Gama,3-1,Vila Nova
+37,21/11/14,América-RN,1-0,Náutico
+37,21/11/14,Vila Nova,3-5,ABC
+37,21/11/14,Bragantino,1-1,Paraná
+37,22/11/14,Boa Esporte,1-0,Oeste
+37,22/11/14,Ponte Preta,0-1,América-MG
+37,22/11/14,Vasco da Gama,1-1,Icasa
+37,22/11/14,Santa Cruz,0-1,Avaí
+37,22/11/14,Joinville,1-1,Luverdense
+37,22/11/14,Sampaio Corrêa,1-2,Atlético-GO
+37,22/11/14,Ceará SC,2-1,Portuguesa
+38,28/11/14,Portuguesa,2-3,Vila Nova
+38,29/11/14,ABC,0-2,Bragantino
+38,29/11/14,Luverdense,1-0,Ceará SC
+38,29/11/14,Náutico,1-1,Ponte Preta
+38,29/11/14,Icasa,3-2,Boa Esporte
+38,29/11/14,América-MG,4-0,Sampaio Corrêa
+38,29/11/14,Paraná,4-1,América-RN
+38,29/11/14,Oeste,1-0,Joinville
+38,29/11/14,Avaí,1-0,Vasco da Gama
+38,29/11/14,Atlético-GO,2-3,Santa Cruz

@@ -1,0 +1,381 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,10/05/08,Nautico,2-1,Goiás
+1,10/05/08,São Paulo,0-1,Grêmio
+1,10/05/08,EC Vitória,0-2,Cruzeiro
+1,11/05/08,Coritiba,2-0,Palmeiras
+1,11/05/08,Internacional,1-0,Vasco da Gama
+1,11/05/08,Botafogo,2-0,Sport Recife
+1,11/05/08,Ipatinga,0-1,Athletico-PR
+1,11/05/08,Portuguesa,5-5,Figueirense
+1,11/05/08,Atlético-MG,0-0,Fluminense
+1,11/05/08,Flamengo,3-1,Santos
+2,17/05/08,Cruzeiro,1-0,Botafogo
+2,17/05/08,Sport Recife,0-0,EC Vitória
+2,17/05/08,Vasco da Gama,3-1,Portuguesa
+2,18/05/08,Grêmio,0-0,Flamengo
+2,18/05/08,Athletico-PR,1-1,São Paulo
+2,18/05/08,Fluminense,0-2,Nautico
+2,18/05/08,Goiás,1-1,Atlético-MG
+2,18/05/08,Figueirense,2-1,Coritiba
+2,18/05/08,Palmeiras,2-1,Internacional
+2,18/05/08,Santos,4-0,Ipatinga
+3,24/05/08,Grêmio,2-0,Nautico
+3,24/05/08,Flamengo,2-1,Internacional
+3,24/05/08,EC Vitória,4-0,Figueirense
+3,25/05/08,Cruzeiro,4-0,Santos
+3,25/05/08,São Paulo,1-1,Coritiba
+3,25/05/08,Sport Recife,2-1,Fluminense
+3,25/05/08,Goiás,1-1,Ipatinga
+3,25/05/08,Athletico-PR,1-1,Atlético-MG
+3,25/05/08,Portuguesa,1-1,Palmeiras
+3,25/05/08,Botafogo,1-1,Vasco da Gama
+4,31/05/08,Vasco da Gama,2-1,Grêmio
+4,31/05/08,Internacional,1-1,Sport Recife
+4,31/05/08,Figueirense,0-0,Goiás
+4,01/06/08,Santos,0-0,São Paulo
+4,01/06/08,Coritiba,1-1,Cruzeiro
+4,01/06/08,Nautico,3-0,Botafogo
+4,01/06/08,Ipatinga,2-0,EC Vitória
+4,01/06/08,Palmeiras,1-0,Athletico-PR
+4,01/06/08,Atlético-MG,2-0,Portuguesa
+4,01/06/08,Fluminense,0-1,Flamengo
+5,07/06/08,São Paulo,5-1,Atlético-MG
+5,07/06/08,Flamengo,5-0,Figueirense
+5,07/06/08,Ipatinga,0-0,Nautico
+5,08/06/08,Portuguesa,3-1,Internacional
+5,08/06/08,Grêmio,2-1,Fluminense
+5,08/06/08,Sport Recife,2-0,Palmeiras
+5,08/06/08,Athletico-PR,5-0,Goiás
+5,08/06/08,Botafogo,2-1,Coritiba
+5,08/06/08,Cruzeiro,1-0,Vasco da Gama
+5,08/06/08,EC Vitória,1-0,Santos
+6,12/06/08,Fluminense,1-1,Santos
+6,12/06/08,Palmeiras,5-2,Cruzeiro
+6,12/06/08,Atlético-MG,4-2,Ipatinga
+6,14/06/08,Flamengo,2-4,São Paulo
+6,14/06/08,Internacional,2-1,Botafogo
+6,14/06/08,Figueirense,3-1,Sport Recife
+6,14/06/08,Portuguesa,1-0,Athletico-PR
+6,14/06/08,Coritiba,0-0,EC Vitória
+6,14/06/08,Nautico,1-1,Vasco da Gama
+6,14/06/08,Goiás,0-3,Grêmio
+7,21/06/08,Botafogo,0-1,Portuguesa
+7,21/06/08,São Paulo,1-0,Sport Recife
+7,21/06/08,Cruzeiro,3-0,Figueirense
+7,21/06/08,Coritiba,2-1,Fluminense
+7,22/06/08,Ipatinga,1-3,Flamengo
+7,22/06/08,EC Vitória,2-1,Internacional
+7,22/06/08,Vasco da Gama,0-2,Palmeiras
+7,22/06/08,Grêmio,3-0,Athletico-PR
+7,22/06/08,Santos,0-4,Goiás
+7,22/06/08,Nautico,2-1,Atlético-MG
+8,28/06/08,Vasco da Gama,4-2,Ipatinga
+8,28/06/08,EC Vitória,3-0,Goiás
+8,28/06/08,Portuguesa,0-0,Santos
+8,29/06/08,Cruzeiro,1-1,São Paulo
+8,29/06/08,Figueirense,1-1,Atlético-MG
+8,29/06/08,Sport Recife,1-2,Flamengo
+8,29/06/08,Athletico-PR,1-1,Coritiba
+8,29/06/08,Grêmio,1-1,Internacional
+8,29/06/08,Fluminense,0-0,Botafogo
+8,29/06/08,Palmeiras,2-0,Nautico
+9,05/07/08,Sport Recife,1-0,Cruzeiro
+9,05/07/08,Athletico-PR,1-0,Santos
+9,05/07/08,Flamengo,3-0,Nautico
+9,06/07/08,Figueirense,2-1,Vasco da Gama
+9,06/07/08,Portuguesa,1-2,EC Vitória
+9,06/07/08,Atlético-MG,1-1,Palmeiras
+9,06/07/08,Internacional,3-0,Coritiba
+9,06/07/08,Botafogo,2-0,Grêmio
+9,06/07/08,São Paulo,1-1,Ipatinga
+9,06/07/08,Goiás,1-0,Fluminense
+11,06/07/08,São Paulo,2-1,Palmeiras
+11,06/07/08,Cruzeiro,2-1,Atlético-MG
+11,06/07/08,Athletico-PR,1-1,Internacional
+11,06/07/08,Santos,2-2,Botafogo
+11,06/07/08,Ipatinga,0-1,Figueirense
+11,06/07/08,Grêmio,2-1,Portuguesa
+11,06/07/08,Nautico,0-2,Sport Recife
+11,06/07/08,Flamengo,3-1,Vasco da Gama
+10,09/07/08,Internacional,1-0,Goiás
+10,09/07/08,Coritiba,4-0,Portuguesa
+10,09/07/08,Fluminense,3-0,Athletico-PR
+10,09/07/08,EC Vitória,5-2,Botafogo
+10,09/07/08,Atlético-MG,1-1,Flamengo
+10,09/07/08,Santos,1-1,Grêmio
+10,09/07/08,Nautico,2-1,São Paulo
+10,10/07/08,Palmeiras,1-1,Figueirense
+10,10/07/08,Ipatinga,2-2,Cruzeiro
+10,10/07/08,Vasco da Gama,4-0,Sport Recife
+11,12/07/08,Fluminense,2-1,EC Vitória
+11,12/07/08,Goiás,2-2,Coritiba
+12,16/07/08,Sport Recife,2-2,Grêmio
+12,16/07/08,Botafogo,4-0,Ipatinga
+12,16/07/08,Figueirense,3-0,Santos
+12,16/07/08,Portuguesa,3-2,Nautico
+12,16/07/08,Cruzeiro,1-0,Athletico-PR
+12,16/07/08,Palmeiras,3-1,Fluminense
+12,16/07/08,EC Vitória,1-3,São Paulo
+12,17/07/08,Vasco da Gama,1-1,Goiás
+12,17/07/08,Internacional,1-0,Atlético-MG
+12,17/07/08,Coritiba,1-0,Flamengo
+14,17/07/08,Palmeiras,4-2,Santos
+14,17/07/08,Figueirense,1-7,Grêmio
+14,17/07/08,Sport Recife,1-0,Athletico-PR
+13,19/07/08,Ipatinga,4-1,Portuguesa
+13,19/07/08,Fluminense,1-0,Figueirense
+13,19/07/08,Grêmio,1-0,Cruzeiro
+13,20/07/08,Athletico-PR,3-1,Vasco da Gama
+13,20/07/08,Goiás,3-2,Palmeiras
+13,20/07/08,Santos,1-0,Sport Recife
+13,20/07/08,Nautico,1-1,Internacional
+13,20/07/08,Flamengo,0-1,EC Vitória
+13,20/07/08,São Paulo,2-1,Botafogo
+13,20/07/08,Atlético-MG,3-2,Coritiba
+14,23/07/08,Coritiba,1-0,Ipatinga
+14,23/07/08,Cruzeiro,0-1,Goiás
+14,23/07/08,EC Vitória,2-0,Nautico
+14,23/07/08,Vasco da Gama,3-3,Fluminense
+14,23/07/08,Internacional,2-0,São Paulo
+14,23/07/08,Portuguesa,2-2,Flamengo
+14,23/07/08,Botafogo,4-0,Atlético-MG
+15,26/07/08,Nautico,1-2,Coritiba
+15,26/07/08,Ipatinga,1-0,Internacional
+15,26/07/08,Fluminense,1-3,Cruzeiro
+15,27/07/08,Santos,5-2,Vasco da Gama
+15,27/07/08,Grêmio,1-1,Palmeiras
+15,27/07/08,Athletico-PR,0-0,Figueirense
+15,27/07/08,Goiás,1-2,Sport Recife
+15,27/07/08,Atlético-MG,2-1,EC Vitória
+15,27/07/08,Flamengo,0-0,Botafogo
+15,27/07/08,São Paulo,3-1,Portuguesa
+16,30/07/08,Cruzeiro,4-2,Nautico
+16,30/07/08,EC Vitória,2-1,Athletico-PR
+16,30/07/08,Portuguesa,3-1,Fluminense
+16,30/07/08,Botafogo,2-0,Goiás
+16,30/07/08,Palmeiras,1-0,Flamengo
+16,30/07/08,Figueirense,1-1,São Paulo
+16,30/07/08,Internacional,0-1,Santos
+16,31/07/08,Sport Recife,3-1,Ipatinga
+16,31/07/08,Vasco da Gama,6-1,Atlético-MG
+16,31/07/08,Coritiba,0-1,Grêmio
+17,02/08/08,Goiás,4-0,Portuguesa
+17,02/08/08,Nautico,1-2,Figueirense
+17,02/08/08,Fluminense,1-2,Internacional
+17,03/08/08,Grêmio,2-0,EC Vitória
+17,03/08/08,Ipatinga,1-2,Palmeiras
+17,03/08/08,Flamengo,1-2,Cruzeiro
+17,03/08/08,São Paulo,4-0,Vasco da Gama
+17,03/08/08,Santos,1-3,Coritiba
+17,03/08/08,Atlético-MG,2-1,Sport Recife
+17,03/08/08,Athletico-PR,0-3,Botafogo
+18,06/08/08,Grêmio,1-0,Ipatinga
+18,06/08/08,Vasco da Gama,0-2,Coritiba
+18,06/08/08,Athletico-PR,2-0,Nautico
+18,06/08/08,Sport Recife,2-0,Portuguesa
+18,06/08/08,Santos,2-3,Atlético-MG
+18,06/08/08,Goiás,2-1,Flamengo
+18,06/08/08,Fluminense,3-1,São Paulo
+18,07/08/08,Palmeiras,3-0,EC Vitória
+18,07/08/08,Figueirense,1-2,Botafogo
+18,07/08/08,Cruzeiro,2-0,Internacional
+19,09/08/08,Flamengo,1-0,Athletico-PR
+19,09/08/08,São Paulo,2-1,Goiás
+19,09/08/08,Atlético-MG,0-4,Grêmio
+19,10/08/08,Coritiba,3-0,Sport Recife
+19,10/08/08,EC Vitória,5-0,Vasco da Gama
+19,10/08/08,Portuguesa,2-1,Cruzeiro
+19,10/08/08,Botafogo,1-0,Palmeiras
+19,10/08/08,Ipatinga,2-1,Fluminense
+19,10/08/08,Nautico,1-0,Santos
+19,10/08/08,Internacional,1-1,Figueirense
+20,16/08/08,Athletico-PR,5-0,Ipatinga
+20,16/08/08,Figueirense,2-1,Portuguesa
+20,16/08/08,Cruzeiro,2-1,EC Vitória
+20,17/08/08,Grêmio,1-0,São Paulo
+20,17/08/08,Santos,2-2,Flamengo
+20,17/08/08,Vasco da Gama,4-0,Internacional
+20,17/08/08,Goiás,3-0,Nautico
+20,17/08/08,Fluminense,1-0,Atlético-MG
+20,17/08/08,Sport Recife,0-1,Botafogo
+20,17/08/08,Palmeiras,1-0,Coritiba
+21,20/08/08,EC Vitória,0-0,Sport Recife
+21,20/08/08,Coritiba,3-0,Figueirense
+21,20/08/08,Botafogo,1-0,Cruzeiro
+21,20/08/08,São Paulo,3-1,Athletico-PR
+21,20/08/08,Internacional,4-1,Palmeiras
+21,20/08/08,Nautico,1-3,Fluminense
+21,20/08/08,Ipatinga,1-1,Santos
+21,21/08/08,Portuguesa,0-1,Vasco da Gama
+21,21/08/08,Atlético-MG,1-1,Goiás
+21,21/08/08,Flamengo,2-1,Grêmio
+22,23/08/08,Fluminense,1-1,Sport Recife
+22,23/08/08,Figueirense,1-2,EC Vitória
+22,24/08/08,Coritiba,2-2,São Paulo
+22,24/08/08,Palmeiras,4-2,Portuguesa
+22,24/08/08,Internacional,1-1,Flamengo
+22,24/08/08,Santos,2-0,Cruzeiro
+22,24/08/08,Ipatinga,1-0,Goiás
+22,24/08/08,Vasco da Gama,1-1,Botafogo
+22,24/08/08,Atlético-MG,4-0,Athletico-PR
+22,24/08/08,Nautico,1-1,Grêmio
+23,30/08/08,Goiás,2-0,Figueirense
+23,30/08/08,EC Vitória,0-0,Ipatinga
+23,30/08/08,Botafogo,1-1,Nautico
+23,31/08/08,Grêmio,2-1,Vasco da Gama
+23,31/08/08,Sport Recife,1-0,Internacional
+23,31/08/08,Athletico-PR,1-2,Palmeiras
+23,31/08/08,São Paulo,0-0,Santos
+23,31/08/08,Portuguesa,1-1,Atlético-MG
+23,31/08/08,Cruzeiro,1-1,Coritiba
+23,31/08/08,Flamengo,2-2,Fluminense
+24,03/09/08,Goiás,4-0,Athletico-PR
+24,03/09/08,Santos,2-0,EC Vitória
+24,03/09/08,Figueirense,2-3,Flamengo
+24,03/09/08,Atlético-MG,1-1,São Paulo
+24,04/09/08,Palmeiras,0-3,Sport Recife
+24,04/09/08,Vasco da Gama,1-3,Cruzeiro
+24,06/09/08,Internacional,1-0,Portuguesa
+24,06/09/08,Fluminense,0-0,Grêmio
+24,06/09/08,Nautico,2-0,Ipatinga
+24,06/09/08,Coritiba,0-1,Botafogo
+25,13/09/08,Grêmio,1-2,Goiás
+25,13/09/08,Athletico-PR,2-0,Portuguesa
+25,13/09/08,Ipatinga,3-2,Atlético-MG
+25,14/09/08,Cruzeiro,0-1,Palmeiras
+25,14/09/08,São Paulo,2-0,Flamengo
+25,14/09/08,Sport Recife,5-0,Figueirense
+25,14/09/08,Vasco da Gama,1-3,Nautico
+25,14/09/08,Santos,2-1,Fluminense
+25,14/09/08,EC Vitória,1-0,Coritiba
+25,14/09/08,Botafogo,1-2,Internacional
+26,20/09/08,Goiás,4-1,Santos
+26,20/09/08,Fluminense,2-3,Coritiba
+26,20/09/08,Atlético-MG,2-1,Nautico
+26,21/09/08,Sport Recife,0-0,São Paulo
+26,21/09/08,Athletico-PR,0-0,Grêmio
+26,21/09/08,Portuguesa,3-1,Botafogo
+26,21/09/08,Figueirense,3-4,Cruzeiro
+26,21/09/08,Palmeiras,2-0,Vasco da Gama
+26,21/09/08,Internacional,1-0,EC Vitória
+26,21/09/08,Flamengo,1-0,Ipatinga
+27,27/09/08,Goiás,3-0,EC Vitória
+27,27/09/08,Flamengo,2-1,Sport Recife
+27,27/09/08,Atlético-MG,0-0,Figueirense
+27,28/09/08,Coritiba,1-1,Athletico-PR
+27,28/09/08,Nautico,0-0,Palmeiras
+27,28/09/08,São Paulo,2-0,Cruzeiro
+27,28/09/08,Ipatinga,3-1,Vasco da Gama
+27,28/09/08,Internacional,4-1,Grêmio
+27,28/09/08,Santos,1-1,Portuguesa
+27,28/09/08,Botafogo,1-1,Fluminense
+28,01/10/08,Fluminense,1-1,Goiás
+28,02/10/08,EC Vitória,3-1,Portuguesa
+28,02/10/08,Cruzeiro,1-0,Sport Recife
+28,04/10/08,Grêmio,2-1,Botafogo
+28,04/10/08,Ipatinga,1-3,São Paulo
+28,04/10/08,Palmeiras,3-1,Atlético-MG
+28,04/10/08,Nautico,0-2,Flamengo
+28,04/10/08,Santos,4-0,Athletico-PR
+28,04/10/08,Coritiba,4-2,Internacional
+28,04/10/08,Vasco da Gama,2-4,Figueirense
+29,08/10/08,Grêmio,2-0,Santos
+29,08/10/08,Sport Recife,2-2,Vasco da Gama
+29,08/10/08,Figueirense,0-0,Palmeiras
+29,09/10/08,Botafogo,3-1,EC Vitória
+29,09/10/08,São Paulo,1-0,Nautico
+29,09/10/08,Cruzeiro,1-0,Ipatinga
+29,11/10/08,Goiás,1-1,Internacional
+29,11/10/08,Portuguesa,0-0,Coritiba
+29,11/10/08,Athletico-PR,1-3,Fluminense
+29,11/10/08,Flamengo,0-3,Atlético-MG
+30,18/10/08,Botafogo,0-1,Santos
+30,18/10/08,Internacional,2-1,Athletico-PR
+30,18/10/08,Figueirense,1-1,Ipatinga
+30,19/10/08,Palmeiras,2-2,São Paulo
+30,19/10/08,EC Vitória,2-2,Fluminense
+30,19/10/08,Coritiba,1-1,Goiás
+30,19/10/08,Atlético-MG,0-2,Cruzeiro
+30,19/10/08,Portuguesa,2-0,Grêmio
+30,19/10/08,Sport Recife,2-2,Nautico
+30,19/10/08,Vasco da Gama,0-1,Flamengo
+31,22/10/08,Goiás,2-4,Vasco da Gama
+31,23/10/08,Grêmio,1-0,Sport Recife
+31,23/10/08,Flamengo,5-0,Coritiba
+31,23/10/08,São Paulo,2-1,EC Vitória
+31,25/10/08,Fluminense,3-0,Palmeiras
+31,25/10/08,Ipatinga,0-3,Botafogo
+31,25/10/08,Santos,3-0,Figueirense
+31,25/10/08,Athletico-PR,1-0,Cruzeiro
+31,25/10/08,Nautico,1-1,Portuguesa
+31,25/10/08,Atlético-MG,2-2,Internacional
+32,29/10/08,Portuguesa,2-0,Ipatinga
+32,29/10/08,Coritiba,2-1,Atlético-MG
+32,29/10/08,Internacional,1-1,Nautico
+32,29/10/08,Palmeiras,1-0,Goiás
+32,29/10/08,Botafogo,1-2,São Paulo
+32,29/10/08,Cruzeiro,3-0,Grêmio
+32,29/10/08,EC Vitória,0-0,Flamengo
+32,30/10/08,Sport Recife,1-1,Santos
+32,30/10/08,Vasco da Gama,2-2,Athletico-PR
+33,01/11/08,Flamengo,2-2,Portuguesa
+33,01/11/08,Nautico,1-0,EC Vitória
+33,01/11/08,Ipatinga,2-0,Coritiba
+33,02/11/08,Santos,1-2,Palmeiras
+33,02/11/08,Goiás,3-0,Cruzeiro
+33,02/11/08,Athletico-PR,1-0,Sport Recife
+33,02/11/08,Atlético-MG,2-1,Botafogo
+33,02/11/08,Fluminense,0-1,Vasco da Gama
+33,02/11/08,Grêmio,1-1,Figueirense
+33,02/11/08,São Paulo,3-0,Internacional
+32,05/11/08,Figueirense,0-1,Fluminense
+34,08/11/08,Portuguesa,2-3,São Paulo
+34,08/11/08,Vasco da Gama,1-0,Santos
+34,08/11/08,Figueirense,0-2,Athletico-PR
+34,09/11/08,Palmeiras,0-1,Grêmio
+34,09/11/08,Cruzeiro,1-0,Fluminense
+34,09/11/08,Coritiba,0-0,Nautico
+34,09/11/08,Sport Recife,2-1,Goiás
+34,09/11/08,Botafogo,0-1,Flamengo
+34,09/11/08,Internacional,4-0,Ipatinga
+34,09/11/08,EC Vitória,0-1,Atlético-MG
+35,12/11/08,Atlético-MG,4-1,Vasco da Gama
+35,15/11/08,Fluminense,3-1,Portuguesa
+35,15/11/08,Ipatinga,3-0,Sport Recife
+35,15/11/08,Nautico,5-2,Cruzeiro
+35,16/11/08,Flamengo,5-2,Palmeiras
+35,16/11/08,São Paulo,3-1,Figueirense
+35,16/11/08,Goiás,3-1,Botafogo
+35,16/11/08,Grêmio,2-1,Coritiba
+35,16/11/08,Athletico-PR,2-1,EC Vitória
+35,16/11/08,Santos,1-0,Internacional
+36,20/11/08,Figueirense,4-3,Nautico
+36,22/11/08,Botafogo,2-2,Athletico-PR
+36,22/11/08,Portuguesa,0-0,Goiás
+36,22/11/08,Coritiba,5-1,Santos
+36,23/11/08,EC Vitória,4-2,Grêmio
+36,23/11/08,Cruzeiro,3-2,Flamengo
+36,23/11/08,Vasco da Gama,1-2,São Paulo
+36,23/11/08,Internacional,0-2,Fluminense
+36,23/11/08,Sport Recife,3-0,Atlético-MG
+36,23/11/08,Palmeiras,2-0,Ipatinga
+37,30/11/08,Coritiba,0-2,Vasco da Gama
+37,30/11/08,Botafogo,1-3,Figueirense
+37,30/11/08,Portuguesa,2-2,Sport Recife
+37,30/11/08,Nautico,2-1,Athletico-PR
+37,30/11/08,Atlético-MG,0-0,Santos
+37,30/11/08,Internacional,1-0,Cruzeiro
+37,30/11/08,EC Vitória,0-0,Palmeiras
+37,30/11/08,Flamengo,3-3,Goiás
+37,30/11/08,Ipatinga,1-4,Grêmio
+37,30/11/08,São Paulo,1-1,Fluminense
+38,07/12/08,Santos,0-0,Nautico
+38,07/12/08,Vasco da Gama,0-2,EC Vitória
+38,07/12/08,Figueirense,3-1,Internacional
+38,07/12/08,Athletico-PR,5-3,Flamengo
+38,07/12/08,Sport Recife,4-3,Coritiba
+38,07/12/08,Cruzeiro,4-1,Portuguesa
+38,07/12/08,Fluminense,1-1,Ipatinga
+38,07/12/08,Palmeiras,0-1,Botafogo
+38,07/12/08,Grêmio,2-0,Atlético-MG
+38,07/12/08,Goiás,0-1,São Paulo

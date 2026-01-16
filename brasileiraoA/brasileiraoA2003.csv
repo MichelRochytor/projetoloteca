@@ -1,0 +1,553 @@
+﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+1,29/03/03,Guarani,4-2,Vasco da Gama
+1,29/03/03,Athletico-PR,2-0,Grêmio
+1,30/03/03,Flamengo,1-1,Coritiba
+1,30/03/03,Goiás,2-2,Paysandu
+1,30/03/03,Internacional,1-1,Ponte Preta
+1,30/03/03,Criciúma,2-0,Fluminense
+1,30/03/03,Juventude,2-2,São Paulo
+1,30/03/03,Fortaleza,0-0,Bahia
+1,30/03/03,Cruzeiro,2-2,São Caetano
+1,30/03/03,EC Vitória,1-1,Figueirense
+1,30/03/03,Santos,2-2,Paraná
+1,30/03/03,Corinthians,0-3,Atlético-MG
+2,05/04/03,Fluminense,1-1,Fortaleza
+2,05/04/03,Atlético-MG,0-0,Santos
+2,05/04/03,Coritiba,0-1,Internacional
+2,05/04/03,Grêmio,3-1,Guarani
+2,06/04/03,Bahia,1-2,Flamengo
+2,06/04/03,Figueirense,3-3,Corinthians
+2,06/04/03,Paysandu,1-2,EC Vitória
+2,06/04/03,Ponte Preta,1-0,Juventude
+2,06/04/03,Paraná,3-0,Athletico-PR
+2,06/04/03,São Caetano,3-2,Criciúma
+2,06/04/03,São Paulo,2-4,Cruzeiro
+2,06/04/03,Vasco da Gama,6-4,Goiás
+4,09/04/03,Paysandu,2-1,Santos
+3,12/04/03,Internacional,2-0,Bahia
+3,12/04/03,Santos,2-0,Figueirense
+3,12/04/03,Athletico-PR,1-2,Atlético-MG
+3,12/04/03,Corinthians,6-1,Paysandu
+3,13/04/03,EC Vitória,2-1,Vasco da Gama
+3,13/04/03,Criciúma,1-1,São Paulo
+3,13/04/03,Fortaleza,1-1,São Caetano
+3,13/04/03,Juventude,2-1,Coritiba
+3,13/04/03,Guarani,2-0,Paraná
+3,13/04/03,Goiás,1-1,Grêmio
+3,13/04/03,Cruzeiro,3-0,Ponte Preta
+3,13/04/03,Flamengo,4-1,Fluminense
+4,16/04/03,Bahia,3-1,Juventude
+4,16/04/03,Grêmio,2-1,EC Vitória
+4,16/04/03,Atlético-MG,3-2,Guarani
+4,16/04/03,Figueirense,1-1,Athletico-PR
+4,16/04/03,Ponte Preta,1-1,Criciúma
+4,16/04/03,São Caetano,1-1,Flamengo
+4,16/04/03,Vasco da Gama,2-2,Corinthians
+4,16/04/03,Coritiba,3-4,Cruzeiro
+4,17/04/03,Fluminense,3-1,Internacional
+4,17/04/03,São Paulo,3-1,Fortaleza
+4,17/04/03,Paraná,3-1,Goiás
+12,18/04/03,Flamengo,3-0,Cruzeiro
+5,19/04/03,Bahia,2-4,Atlético-MG
+5,19/04/03,São Caetano,1-1,Grêmio
+5,19/04/03,Flamengo,0-2,Santos
+5,20/04/03,São Paulo,3-1,Vasco da Gama
+5,20/04/03,Internacional,2-1,Corinthians
+5,20/04/03,Criciúma,1-0,Guarani
+5,20/04/03,Juventude,1-1,EC Vitória
+5,20/04/03,Fortaleza,1-0,Athletico-PR
+5,20/04/03,Ponte Preta,4-4,Paysandu
+5,20/04/03,Cruzeiro,4-1,Goiás
+5,20/04/03,Fluminense,0-0,Paraná
+5,21/04/03,Coritiba,1-0,Figueirense
+6,26/04/03,Atlético-MG,1-2,Coritiba
+6,26/04/03,Paraná,3-1,Bahia
+6,26/04/03,EC Vitória,0-3,Internacional
+6,26/04/03,Guarani,1-1,Cruzeiro
+6,27/04/03,Corinthians,1-1,Flamengo
+6,27/04/03,Goiás,7-0,Juventude
+6,27/04/03,Figueirense,0-0,Ponte Preta
+6,27/04/03,Santos,4-0,Fortaleza
+6,27/04/03,Grêmio,0-1,Fluminense
+6,27/04/03,Athletico-PR,4-2,Criciúma
+6,27/04/03,Paysandu,5-2,São Paulo
+6,27/04/03,Vasco da Gama,1-0,São Caetano
+7,03/05/03,Flamengo,2-1,EC Vitória
+7,03/05/03,Bahia,2-1,Grêmio
+7,03/05/03,Cruzeiro,5-2,Athletico-PR
+7,04/05/03,Fortaleza,1-2,Corinthians
+7,04/05/03,São Paulo,3-2,Figueirense
+7,04/05/03,São Caetano,2-0,Paysandu
+7,04/05/03,Internacional,2-1,Goiás
+7,04/05/03,Ponte Preta,2-1,Atlético-MG
+7,04/05/03,Juventude,1-1,Guarani
+7,04/05/03,Coritiba,2-1,Paraná
+7,04/05/03,Criciúma,1-3,Santos
+7,04/05/03,Fluminense,0-0,Vasco da Gama
+8,10/05/03,Goiás,1-1,Flamengo
+8,10/05/03,Santos,0-2,Cruzeiro
+8,10/05/03,Paraná,3-2,Ponte Preta
+8,10/05/03,Corinthians,3-0,Criciúma
+8,11/05/03,Vasco da Gama,1-1,Bahia
+8,11/05/03,Paysandu,2-2,Fluminense
+8,11/05/03,Atlético-MG,2-2,São Paulo
+8,11/05/03,EC Vitória,2-1,Fortaleza
+8,11/05/03,Guarani,3-0,Internacional
+8,11/05/03,Athletico-PR,2-0,Juventude
+8,11/05/03,Figueirense,3-0,São Caetano
+8,11/05/03,Grêmio,1-0,Coritiba
+9,17/05/03,Fluminense,3-0,Figueirense
+9,17/05/03,São Caetano,2-0,Atlético-MG
+9,17/05/03,Juventude,1-1,Santos
+9,18/05/03,Bahia,2-0,Paysandu
+9,18/05/03,Internacional,1-1,Athletico-PR
+9,18/05/03,Coritiba,1-1,Vasco da Gama
+9,18/05/03,Cruzeiro,1-1,Corinthians
+9,18/05/03,Fortaleza,1-0,Goiás
+9,18/05/03,Ponte Preta,2-1,Grêmio
+9,18/05/03,Criciúma,1-1,EC Vitória
+9,18/05/03,Flamengo,1-1,Guarani
+9,18/05/03,São Paulo,2-0,Paraná
+10,24/05/03,Atlético-MG,3-0,Fluminense
+10,24/05/03,Paraná,1-1,São Caetano
+10,24/05/03,Corinthians,3-0,Juventude
+10,24/05/03,Vasco da Gama,1-0,Ponte Preta
+10,25/05/03,Athletico-PR,4-1,Flamengo
+10,25/05/03,Paysandu,1-3,Coritiba
+10,25/05/03,Goiás,0-2,Criciúma
+10,25/05/03,Grêmio,1-2,São Paulo
+10,25/05/03,Guarani,2-1,Fortaleza
+10,25/05/03,Figueirense,1-0,Bahia
+10,25/05/03,EC Vitória,2-1,Cruzeiro
+10,25/05/03,Santos,2-1,Internacional
+11,31/05/03,Fluminense,2-1,Athletico-PR
+11,31/05/03,Cruzeiro,2-0,Criciúma
+11,31/05/03,Coritiba,3-2,Guarani
+11,31/05/03,Ponte Preta,0-0,São Caetano
+11,31/05/03,Internacional,2-1,Paysandu
+11,01/06/03,Paraná,6-2,Flamengo
+11,01/06/03,Bahia,2-1,Goiás
+11,01/06/03,Fortaleza,3-1,Juventude
+11,01/06/03,Figueirense,2-1,Grêmio
+11,01/06/03,Santos,3-2,São Paulo
+11,01/06/03,Corinthians,4-0,EC Vitória
+11,01/06/03,Vasco da Gama,2-2,Atlético-MG
+12,07/06/03,EC Vitória,2-1,Fluminense
+12,07/06/03,Guarani,1-2,Santos
+12,07/06/03,Grêmio,3-1,Fortaleza
+12,07/06/03,Atlético-MG,1-1,Figueirense
+12,08/06/03,Paysandu,3-0,Paraná
+12,08/06/03,Juventude,0-0,Vasco da Gama
+12,08/06/03,Athletico-PR,4-2,Ponte Preta
+12,08/06/03,Goiás,1-2,Coritiba
+12,08/06/03,São Caetano,1-0,Corinthians
+12,08/06/03,Criciúma,1-0,Internacional
+12,08/06/03,São Paulo,2-2,Bahia
+13,14/06/03,Fluminense,2-3,Goiás
+13,14/06/03,Ponte Preta,0-2,Guarani
+13,14/06/03,Coritiba,2-0,Athletico-PR
+13,15/06/03,Corinthians,1-2,São Paulo
+13,15/06/03,Fortaleza,1-2,Paysandu
+13,15/06/03,Paraná,1-2,Juventude
+13,15/06/03,Grêmio,0-0,Internacional
+13,15/06/03,Santos,0-1,São Caetano
+13,15/06/03,Criciúma,1-0,Figueirense
+13,15/06/03,Bahia,2-1,EC Vitória
+13,15/06/03,Vasco da Gama,1-2,Flamengo
+13,15/06/03,Cruzeiro,0-0,Atlético-MG
+14,19/06/03,Bahia,2-2,Coritiba
+14,21/06/03,Vasco da Gama,2-0,Criciúma
+14,21/06/03,Atlético-MG,3-2,Grêmio
+14,21/06/03,Internacional,2-1,Paraná
+14,21/06/03,São Paulo,1-0,Goiás
+14,22/06/03,Paysandu,2-2,Flamengo
+14,22/06/03,Ponte Preta,3-3,Corinthians
+14,22/06/03,São Caetano,2-1,EC Vitória
+14,22/06/03,Figueirense,2-2,Fortaleza
+14,22/06/03,Juventude,0-1,Cruzeiro
+14,22/06/03,Fluminense,5-2,Guarani
+15,28/06/03,Fortaleza,0-1,Vasco da Gama
+15,28/06/03,Coritiba,2-0,São Caetano
+15,28/06/03,Grêmio,1-4,Juventude
+15,28/06/03,Santos,4-0,Bahia
+15,28/06/03,Flamengo,0-2,Figueirense
+15,29/06/03,Corinthians,1-0,Fluminense
+15,29/06/03,Guarani,0-1,São Paulo
+15,29/06/03,Criciúma,2-0,Paysandu
+15,29/06/03,EC Vitória,1-0,Athletico-PR
+15,29/06/03,Cruzeiro,3-2,Internacional
+15,29/06/03,Paraná,1-1,Atlético-MG
+16,05/07/03,Vasco da Gama,1-4,Paraná
+16,05/07/03,São Paulo,1-1,São Caetano
+16,05/07/03,Figueirense,1-0,Cruzeiro
+16,05/07/03,Atlético-MG,3-2,Paysandu
+16,06/07/03,Grêmio,2-0,Flamengo
+16,06/07/03,Guarani,3-2,Goiás
+16,06/07/03,Athletico-PR,3-1,Corinthians
+16,06/07/03,Juventude,1-1,Internacional
+16,06/07/03,Fortaleza,0-1,Criciúma
+16,06/07/03,EC Vitória,1-4,Ponte Preta
+16,06/07/03,Santos,3-1,Coritiba
+16,06/07/03,Fluminense,1-0,Bahia
+17,09/07/03,São Caetano,0-0,Athletico-PR
+17,09/07/03,Corinthians,1-1,Santos
+17,09/07/03,Cruzeiro,2-0,Fortaleza
+17,09/07/03,Bahia,2-0,Guarani
+17,09/07/03,Paysandu,1-0,Figueirense
+17,09/07/03,Goiás,1-1,EC Vitória
+17,09/07/03,Flamengo,2-1,Juventude
+17,09/07/03,Internacional,2-1,Vasco da Gama
+17,09/07/03,Coritiba,0-2,São Paulo
+17,10/07/03,Ponte Preta,3-0,Fluminense
+17,10/07/03,Criciúma,1-0,Atlético-MG
+17,10/07/03,Paraná,3-1,Grêmio
+18,12/07/03,Athletico-PR,0-0,Goiás
+18,12/07/03,Fortaleza,3-0,Internacional
+18,12/07/03,Vasco da Gama,0-2,Paysandu
+18,13/07/03,Atlético-MG,1-0,Flamengo
+18,13/07/03,Ponte Preta,1-0,Bahia
+18,13/07/03,Corinthians,0-1,Coritiba
+18,13/07/03,Criciúma,3-0,Juventude
+18,13/07/03,Figueirense,4-2,Paraná
+18,13/07/03,São Caetano,0-2,Guarani
+18,13/07/03,Fluminense,1-3,São Paulo
+18,13/07/03,Grêmio,0-1,Cruzeiro
+18,13/07/03,EC Vitória,2-0,Santos
+19,16/07/03,Flamengo,0-2,Fortaleza
+19,16/07/03,Juventude,1-2,Figueirense
+19,16/07/03,Bahia,0-0,São Caetano
+19,16/07/03,Coritiba,3-0,Fluminense
+19,16/07/03,Guarani,2-2,EC Vitória
+19,16/07/03,Internacional,3-3,Atlético-MG
+19,16/07/03,Santos,2-1,Ponte Preta
+19,16/07/03,Cruzeiro,4-1,Vasco da Gama
+19,16/07/03,Goiás,1-1,Corinthians
+19,17/07/03,Paysandu,1-1,Grêmio
+19,17/07/03,São Paulo,2-0,Athletico-PR
+20,19/07/03,Fluminense,1-4,Santos
+20,19/07/03,Corinthians,1-0,Guarani
+20,19/07/03,Fortaleza,4-3,Atlético-MG
+20,19/07/03,Internacional,3-0,Figueirense
+20,20/07/03,Juventude,2-0,Paysandu
+20,20/07/03,Athletico-PR,2-1,Bahia
+20,20/07/03,Ponte Preta,1-1,Coritiba
+20,20/07/03,Criciúma,4-3,Flamengo
+20,20/07/03,Goiás,2-1,São Caetano
+20,20/07/03,EC Vitória,0-2,São Paulo
+20,20/07/03,Cruzeiro,5-1,Paraná
+20,20/07/03,Vasco da Gama,2-0,Grêmio
+21,23/07/03,Paraná,4-1,Fortaleza
+21,23/07/03,Atlético-MG,2-1,Juventude
+21,23/07/03,Paysandu,3-0,Cruzeiro
+21,23/07/03,Guarani,1-0,Athletico-PR
+21,23/07/03,Figueirense,0-0,Vasco da Gama
+21,23/07/03,Santos,3-3,Goiás
+21,23/07/03,Bahia,0-0,Corinthians
+21,24/07/03,Coritiba,1-1,EC Vitória
+21,24/07/03,Grêmio,0-2,Criciúma
+21,24/07/03,Flamengo,2-1,Internacional
+21,24/07/03,São Caetano,2-0,Fluminense
+21,24/07/03,São Paulo,1-2,Ponte Preta
+22,26/07/03,Santos,2-1,Vasco da Gama
+22,26/07/03,Goiás,1-1,Atlético-MG
+22,26/07/03,Athletico-PR,1-1,Paysandu
+22,27/07/03,Fortaleza,2-3,Ponte Preta
+22,27/07/03,Juventude,2-1,Fluminense
+22,27/07/03,Flamengo,1-1,São Paulo
+22,27/07/03,Criciúma,2-3,Coritiba
+22,27/07/03,Guarani,3-0,Figueirense
+22,27/07/03,EC Vitória,0-3,Paraná
+22,27/07/03,Corinthians,1-0,Grêmio
+22,27/07/03,Cruzeiro,5-2,Bahia
+22,27/07/03,Internacional,0-0,São Caetano
+15,30/07/03,Athletico-PR,0-2,Santos
+15,30/07/03,Goiás,0-0,Ponte Preta
+19,31/07/03,Paraná,2-1,Criciúma
+23,02/08/03,Fluminense,2-2,Cruzeiro
+23,02/08/03,Grêmio,2-0,Santos
+23,02/08/03,São Paulo,0-2,Internacional
+23,02/08/03,São Caetano,1-1,Juventude
+23,03/08/03,Figueirense,0-1,Goiás
+23,03/08/03,Paraná,1-1,Corinthians
+23,03/08/03,Paysandu,6-1,Guarani
+23,03/08/03,Coritiba,1-1,Fortaleza
+23,03/08/03,Bahia,2-2,Criciúma
+23,03/08/03,Ponte Preta,1-1,Flamengo
+23,03/08/03,Vasco da Gama,2-1,Athletico-PR
+23,03/08/03,Atlético-MG,1-0,EC Vitória
+24,06/08/03,EC Vitória,1-1,Paysandu
+24,06/08/03,Athletico-PR,1-0,Paraná
+24,06/08/03,Criciúma,0-1,São Caetano
+24,06/08/03,Fortaleza,3-1,Fluminense
+24,06/08/03,Juventude,0-0,Ponte Preta
+24,06/08/03,Santos,3-3,Atlético-MG
+24,06/08/03,Goiás,3-1,Vasco da Gama
+24,06/08/03,Cruzeiro,1-1,São Paulo
+24,07/08/03,Flamengo,6-0,Bahia
+24,07/08/03,Corinthians,0-1,Figueirense
+24,07/08/03,Guarani,2-0,Grêmio
+24,07/08/03,Internacional,1-0,Coritiba
+25,09/08/03,Fluminense,1-1,Criciúma
+25,09/08/03,São Caetano,2-0,Cruzeiro
+25,09/08/03,Paraná,1-2,Santos
+25,09/08/03,São Paulo,3-1,Juventude
+25,10/08/03,Paysandu,2-2,Goiás
+25,10/08/03,Ponte Preta,1-4,Internacional
+25,10/08/03,Coritiba,5-0,Flamengo
+25,10/08/03,Atlético-MG,2-3,Corinthians
+25,10/08/03,Figueirense,1-2,EC Vitória
+25,10/08/03,Bahia,1-0,Fortaleza
+25,10/08/03,Vasco da Gama,0-0,Guarani
+25,10/08/03,Grêmio,1-1,Athletico-PR
+26,16/08/03,Vasco da Gama,1-0,EC Vitória
+26,16/08/03,Bahia,1-3,Internacional
+26,16/08/03,Figueirense,1-0,Santos
+26,16/08/03,Coritiba,1-0,Juventude
+26,16/08/03,Atlético-MG,1-2,Athletico-PR
+26,16/08/03,São Paulo,0-0,Criciúma
+26,17/08/03,Paysandu,2-2,Corinthians
+26,17/08/03,São Caetano,3-0,Fortaleza
+26,17/08/03,Ponte Preta,1-3,Cruzeiro
+26,17/08/03,Paraná,0-0,Guarani
+26,17/08/03,Grêmio,0-1,Goiás
+26,17/08/03,Fluminense,0-1,Flamengo
+27,20/08/03,Flamengo,1-0,São Caetano
+27,20/08/03,Goiás,1-0,Paraná
+27,20/08/03,Juventude,1-0,Bahia
+27,20/08/03,Cruzeiro,2-2,Coritiba
+27,20/08/03,Athletico-PR,1-2,Figueirense
+27,20/08/03,EC Vitória,4-1,Grêmio
+27,20/08/03,Santos,2-0,Paysandu
+27,20/08/03,Fortaleza,0-2,São Paulo
+27,20/08/03,Corinthians,0-0,Vasco da Gama
+27,21/08/03,Internacional,0-1,Fluminense
+27,21/08/03,Guarani,2-2,Atlético-MG
+27,21/08/03,Criciúma,3-0,Ponte Preta
+28,23/08/03,Santos,2-1,Flamengo
+28,23/08/03,Athletico-PR,3-1,Fortaleza
+28,23/08/03,Goiás,1-0,Cruzeiro
+28,23/08/03,Grêmio,0-0,São Caetano
+28,24/08/03,Vasco da Gama,3-2,São Paulo
+28,24/08/03,Paysandu,3-2,Ponte Preta
+28,24/08/03,Paraná,2-0,Fluminense
+28,24/08/03,EC Vitória,3-0,Juventude
+28,24/08/03,Guarani,1-0,Criciúma
+28,24/08/03,Figueirense,1-2,Coritiba
+28,24/08/03,Corinthians,3-1,Internacional
+28,24/08/03,Atlético-MG,1-0,Bahia
+29,30/08/03,Fluminense,2-0,Grêmio
+29,30/08/03,Fortaleza,0-0,Santos
+29,30/08/03,Internacional,0-1,EC Vitória
+29,30/08/03,Cruzeiro,4-1,Guarani
+29,30/08/03,São Paulo,1-0,Paysandu
+29,31/08/03,São Caetano,1-0,Vasco da Gama
+29,31/08/03,Juventude,0-2,Goiás
+29,31/08/03,Flamengo,1-0,Corinthians
+29,31/08/03,Bahia,4-2,Paraná
+29,31/08/03,Ponte Preta,1-1,Figueirense
+29,31/08/03,Criciúma,2-0,Athletico-PR
+29,31/08/03,Coritiba,2-2,Atlético-MG
+30,13/09/03,Santos,5-2,Criciúma
+30,13/09/03,Athletico-PR,1-4,Cruzeiro
+30,13/09/03,Grêmio,1-1,Bahia
+30,13/09/03,Corinthians,2-0,Fortaleza
+30,14/09/03,EC Vitória,1-0,Flamengo
+30,14/09/03,Figueirense,2-2,São Paulo
+30,14/09/03,Goiás,3-1,Internacional
+30,14/09/03,Paysandu,1-0,São Caetano
+30,14/09/03,Guarani,2-0,Juventude
+30,14/09/03,Paraná,2-3,Coritiba
+30,14/09/03,Vasco da Gama,1-0,Fluminense
+30,14/09/03,Atlético-MG,2-0,Ponte Preta
+31,20/09/03,Cruzeiro,3-0,Santos
+31,20/09/03,Coritiba,1-0,Grêmio
+31,20/09/03,Ponte Preta,4-0,Paraná
+31,20/09/03,Fluminense,1-1,Paysandu
+31,20/09/03,Internacional,2-0,Guarani
+31,21/09/03,Bahia,3-0,Vasco da Gama
+31,21/09/03,Criciúma,1-0,Corinthians
+31,21/09/03,Fortaleza,1-0,EC Vitória
+31,21/09/03,Juventude,4-0,Athletico-PR
+31,21/09/03,São Caetano,0-2,Figueirense
+31,21/09/03,São Paulo,2-2,Atlético-MG
+31,21/09/03,Flamengo,1-1,Goiás
+32,24/09/03,Athletico-PR,2-1,Internacional
+32,24/09/03,Grêmio,2-2,Ponte Preta
+32,24/09/03,Goiás,0-1,Fortaleza
+32,24/09/03,Paysandu,4-0,Bahia
+32,24/09/03,EC Vitória,1-1,Criciúma
+32,24/09/03,Guarani,5-3,Flamengo
+32,24/09/03,Paraná,4-2,São Paulo
+32,24/09/03,Santos,1-1,Juventude
+32,24/09/03,Corinthians,0-1,Cruzeiro
+32,25/09/03,Figueirense,2-2,Fluminense
+32,25/09/03,Vasco da Gama,2-1,Coritiba
+32,25/09/03,Atlético-MG,3-1,São Caetano
+33,27/09/03,Internacional,1-0,Santos
+33,27/09/03,São Paulo,3-1,Grêmio
+33,27/09/03,Flamengo,2-1,Athletico-PR
+33,28/09/03,Cruzeiro,1-0,EC Vitória
+33,28/09/03,Bahia,1-1,Figueirense
+33,28/09/03,Criciúma,1-0,Goiás
+33,28/09/03,Fortaleza,3-0,Guarani
+33,28/09/03,Juventude,6-1,Corinthians
+33,28/09/03,Ponte Preta,2-2,Vasco da Gama
+33,28/09/03,São Caetano,2-0,Paraná
+33,28/09/03,Fluminense,0-1,Atlético-MG
+33,28/09/03,Coritiba,1-0,Paysandu
+34,04/10/03,Athletico-PR,0-0,Fluminense
+34,04/10/03,Paysandu,0-0,Internacional
+34,04/10/03,São Caetano,1-0,Ponte Preta
+34,04/10/03,Grêmio,3-1,Figueirense
+34,04/10/03,São Paulo,1-2,Santos
+34,05/10/03,EC Vitória,1-2,Corinthians
+34,05/10/03,Goiás,3-1,Bahia
+34,05/10/03,Atlético-MG,2-1,Vasco da Gama
+34,05/10/03,Juventude,2-2,Fortaleza
+34,05/10/03,Guarani,2-1,Coritiba
+34,05/10/03,Flamengo,0-3,Paraná
+34,05/10/03,Criciúma,1-3,Cruzeiro
+35,08/10/03,Vasco da Gama,1-1,Juventude
+35,08/10/03,Fortaleza,2-2,Grêmio
+35,08/10/03,Corinthians,0-3,São Caetano
+35,08/10/03,Coritiba,1-0,Goiás
+35,08/10/03,Ponte Preta,2-2,Athletico-PR
+35,08/10/03,Santos,1-1,Guarani
+35,08/10/03,Bahia,3-0,São Paulo
+35,08/10/03,Cruzeiro,2-0,Flamengo
+35,09/10/03,Paraná,4-2,Paysandu
+35,09/10/03,Internacional,2-0,Criciúma
+35,09/10/03,Fluminense,2-0,EC Vitória
+35,09/10/03,Figueirense,0-1,Atlético-MG
+36,11/10/03,Athletico-PR,2-0,Coritiba
+36,11/10/03,Guarani,1-3,Ponte Preta
+36,11/10/03,São Caetano,2-2,Santos
+36,12/10/03,Atlético-MG,0-1,Cruzeiro
+36,12/10/03,Figueirense,4-2,Criciúma
+36,12/10/03,São Paulo,3-0,Corinthians
+36,12/10/03,EC Vitória,2-1,Bahia
+36,12/10/03,Goiás,6-1,Fluminense
+36,12/10/03,Juventude,1-1,Paraná
+36,12/10/03,Flamengo,2-1,Vasco da Gama
+36,12/10/03,Internacional,0-1,Grêmio
+36,15/10/03,Paysandu,3-0,Fortaleza
+37,18/10/03,Goiás,3-1,São Paulo
+37,18/10/03,Guarani,2-0,Fluminense
+37,18/10/03,Flamengo,2-0,Paysandu
+37,18/10/03,Grêmio,2-2,Atlético-MG
+37,18/10/03,Coritiba,3-2,Bahia
+37,19/10/03,Paraná,4-0,Internacional
+37,19/10/03,Santos,3-2,Athletico-PR
+37,19/10/03,Criciúma,2-1,Vasco da Gama
+37,19/10/03,Fortaleza,1-1,Figueirense
+37,19/10/03,EC Vitória,0-0,São Caetano
+37,19/10/03,Corinthians,3-0,Ponte Preta
+37,19/10/03,Cruzeiro,1-2,Juventude
+38,22/10/03,Ponte Preta,0-2,Goiás
+38,22/10/03,São Caetano,2-0,Coritiba
+38,22/10/03,Athletico-PR,1-2,EC Vitória
+38,22/10/03,Figueirense,0-0,Flamengo
+38,22/10/03,Fluminense,1-0,Corinthians
+38,22/10/03,Internacional,1-0,Cruzeiro
+38,22/10/03,Bahia,4-7,Santos
+38,23/10/03,Paysandu,4-0,Criciúma
+38,23/10/03,São Paulo,3-3,Guarani
+38,23/10/03,Atlético-MG,2-2,Paraná
+38,23/10/03,Juventude,1-2,Grêmio
+38,23/10/03,Vasco da Gama,1-1,Fortaleza
+39,25/10/03,Coritiba,0-4,Santos
+39,25/10/03,Bahia,2-2,Fluminense
+39,25/10/03,Ponte Preta,1-1,EC Vitória
+39,25/10/03,Cruzeiro,1-0,Figueirense
+39,26/10/03,São Caetano,0-1,São Paulo
+39,26/10/03,Paraná,3-3,Vasco da Gama
+39,26/10/03,Goiás,3-0,Guarani
+39,26/10/03,Criciúma,2-2,Fortaleza
+39,26/10/03,Corinthians,2-3,Athletico-PR
+39,26/10/03,Paysandu,1-0,Atlético-MG
+39,26/10/03,Flamengo,2-1,Grêmio
+39,26/10/03,Internacional,0-0,Juventude
+40,01/11/03,Guarani,3-2,Bahia
+40,01/11/03,Athletico-PR,1-0,São Caetano
+40,01/11/03,Grêmio,0-2,Paraná
+40,01/11/03,Fluminense,2-2,Ponte Preta
+40,01/11/03,Atlético-MG,1-1,Criciúma
+40,02/11/03,Santos,3-1,Corinthians
+40,02/11/03,Juventude,2-2,Flamengo
+40,02/11/03,Fortaleza,1-2,Cruzeiro
+40,02/11/03,Figueirense,6-0,Paysandu
+40,02/11/03,EC Vitória,3-4,Goiás
+40,02/11/03,Vasco da Gama,0-1,Internacional
+40,02/11/03,São Paulo,1-0,Coritiba
+41,05/11/03,Paraná,1-1,Figueirense
+41,05/11/03,Internacional,1-1,Fortaleza
+41,05/11/03,Juventude,3-1,Criciúma
+41,05/11/03,Paysandu,1-2,Vasco da Gama
+41,05/11/03,São Paulo,1-0,Fluminense
+41,05/11/03,Coritiba,1-0,Corinthians
+41,05/11/03,Santos,3-1,EC Vitória
+41,05/11/03,Cruzeiro,3-0,Grêmio
+41,06/11/03,Bahia,1-0,Ponte Preta
+41,06/11/03,Goiás,4-1,Athletico-PR
+41,06/11/03,Flamengo,3-2,Atlético-MG
+41,06/11/03,Guarani,0-1,São Caetano
+42,08/11/03,Fluminense,3-2,Coritiba
+42,08/11/03,Grêmio,2-0,Paysandu
+42,08/11/03,Criciúma,1-2,Paraná
+42,09/11/03,Ponte Preta,3-4,Santos
+42,09/11/03,Vasco da Gama,0-1,Cruzeiro
+42,09/11/03,Fortaleza,4-1,Flamengo
+42,09/11/03,Athletico-PR,4-3,São Paulo
+42,09/11/03,São Caetano,4-1,Bahia
+42,09/11/03,Figueirense,2-1,Juventude
+42,09/11/03,EC Vitória,0-0,Guarani
+42,09/11/03,Corinthians,2-0,Goiás
+42,09/11/03,Atlético-MG,1-2,Internacional
+43,22/11/03,Figueirense,3-2,Internacional
+43,22/11/03,Atlético-MG,2-0,Fortaleza
+43,22/11/03,Coritiba,1-1,Ponte Preta
+43,22/11/03,Grêmio,4-3,Vasco da Gama
+43,22/11/03,Flamengo,1-0,Criciúma
+43,23/11/03,Santos,3-1,Fluminense
+43,23/11/03,Paraná,1-3,Cruzeiro
+43,23/11/03,São Caetano,1-0,Goiás
+43,23/11/03,Bahia,0-2,Athletico-PR
+43,23/11/03,São Paulo,3-1,EC Vitória
+43,23/11/03,Guarani,0-1,Corinthians
+43,23/11/03,Paysandu,3-2,Juventude
+44,29/11/03,Vasco da Gama,1-0,Figueirense
+44,29/11/03,Juventude,1-0,Atlético-MG
+44,29/11/03,Athletico-PR,3-1,Guarani
+44,29/11/03,Fluminense,2-1,São Caetano
+44,29/11/03,Internacional,3-1,Flamengo
+44,30/11/03,Goiás,3-0,Santos
+44,30/11/03,Fortaleza,5-3,Paraná
+44,30/11/03,Criciúma,0-2,Grêmio
+44,30/11/03,EC Vitória,1-0,Coritiba
+44,30/11/03,Ponte Preta,1-2,São Paulo
+44,30/11/03,Corinthians,1-2,Bahia
+44,30/11/03,Cruzeiro,2-1,Paysandu
+45,06/12/03,EC Vitória,0-1,Atlético-MG
+45,06/12/03,Goiás,0-3,Figueirense
+45,06/12/03,Athletico-PR,2-2,Vasco da Gama
+45,06/12/03,Corinthians,1-1,Paraná
+45,07/12/03,Cruzeiro,5-2,Fluminense
+45,07/12/03,Guarani,2-1,Paysandu
+45,07/12/03,Santos,2-2,Grêmio
+45,07/12/03,Flamengo,1-1,Ponte Preta
+45,07/12/03,Criciúma,3-2,Bahia
+45,07/12/03,Fortaleza,2-2,Coritiba
+45,07/12/03,Internacional,1-1,São Paulo
+45,07/12/03,Juventude,2-1,São Caetano
+46,13/12/03,Paraná,2-0,EC Vitória
+46,13/12/03,Coritiba,2-0,Criciúma
+46,13/12/03,Atlético-MG,3-2,Goiás
+46,13/12/03,Figueirense,2-0,Guarani
+46,13/12/03,São Caetano,5-0,Internacional
+46,14/12/03,Grêmio,3-0,Corinthians
+46,14/12/03,Ponte Preta,2-0,Fortaleza
+46,14/12/03,Bahia,0-7,Cruzeiro
+46,14/12/03,Fluminense,1-0,Juventude
+46,14/12/03,Paysandu,2-2,Athletico-PR
+46,14/12/03,Vasco da Gama,1-1,Santos
+46,14/12/03,São Paulo,1-3,Flamengo

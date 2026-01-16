@@ -1,0 +1,382 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,28/05/21,Brasil-RS,0-0,Londrina
+1,28/05/21,Guarani,1-1,EC Vitória
+1,28/05/21,Vila Nova,1-1,Botafogo
+1,28/05/21,Náutico,1-0,CSA
+1,29/05/21,Vasco da Gama,0-2,Operário-PR
+1,29/05/21,CRB,2-2,Remo
+1,29/05/21,Confiança,3-1,Cruzeiro
+1,30/05/21,Brusque,2-1,Ponte Preta
+1,31/05/21,Coritiba,2-0,Avaí
+1,31/05/21,Sampaio Corrêa,0-0,Goiás
+2,01/06/21,Operário-PR,2-5,Guarani
+2,04/06/21,Goiás,2-0,Confiança
+2,04/06/21,EC Vitória,1-1,Náutico
+2,05/06/21,Londrina,0-1,Brusque
+2,05/06/21,CSA,0-0,Sampaio Corrêa
+2,05/06/21,Remo,1-0,Brasil-RS
+2,05/06/21,Botafogo,2-0,Coritiba
+2,06/06/21,Avaí,1-1,Vila Nova
+2,06/06/21,Cruzeiro,3-4,CRB
+2,06/06/21,Ponte Preta,1-1,Vasco da Gama
+3,11/06/21,Sampaio Corrêa,1-0,Ponte Preta
+3,11/06/21,Guarani,1-3,Náutico
+3,12/06/21,Brasil-RS,1-2,Vasco da Gama
+3,12/06/21,CRB,3-2,Confiança
+3,12/06/21,Vila Nova,1-0,CSA
+3,12/06/21,Cruzeiro,1-1,Goiás
+3,13/06/21,Botafogo,3-0,Remo
+3,13/06/21,Avaí,1-2,Brusque
+3,13/06/21,Coritiba,1-1,Londrina
+3,13/06/21,EC Vitória,0-0,Operário-PR
+4,15/06/21,CSA,1-1,Guarani
+4,15/06/21,Náutico,2-0,Vila Nova
+4,15/06/21,Confiança,1-1,Brasil-RS
+4,16/06/21,Remo,0-0,EC Vitória
+4,16/06/21,Operário-PR,1-0,Sampaio Corrêa
+4,16/06/21,Londrina,2-2,Botafogo
+4,16/06/21,Ponte Preta,0-1,Cruzeiro
+4,17/06/21,Brusque,0-0,Coritiba
+4,17/06/21,Goiás,1-0,CRB
+4,17/06/21,Vasco da Gama,0-2,Avaí
+5,18/06/21,Brasil-RS,1-1,Goiás
+5,19/06/21,Vila Nova,0-0,Guarani
+5,19/06/21,Cruzeiro,2-1,Confiança
+5,19/06/21,Náutico,3-1,Botafogo
+5,19/06/21,Sampaio Corrêa,3-1,EC Vitória
+5,20/06/21,CRB,1-1,Vasco da Gama
+5,20/06/21,Avaí,1-0,Remo
+5,20/06/21,Operário-PR,0-0,Ponte Preta
+5,21/06/21,Coritiba,1-0,Brusque
+5,21/06/21,CSA,1-0,Londrina
+6,22/06/21,Brasil-RS,1-1,Ponte Preta
+6,22/06/21,Guarani,1-0,CRB
+6,22/06/21,Vila Nova,0-0,Goiás
+6,22/06/21,Remo,0-0,Guarani
+6,22/06/21,Coritiba,1-0,EC Vitória
+6,23/06/21,Brusque,0-0,Sampaio Corrêa
+6,23/06/21,Confiança,1-0,Vila Nova
+6,24/06/21,Londrina,0-0,Náutico
+6,24/06/21,Cruzeiro,2-1,Vasco da Gama
+6,25/06/21,Botafogo,2-0,CSA
+7,25/06/21,Brasil-RS,0-1,Cruzeiro
+7,25/06/21,Vila Nova,0-0,Goiás
+7,26/06/21,Sampaio Corrêa,2-0,Botafogo
+7,26/06/21,EC Vitória,1-2,Londrina
+7,26/06/21,Náutico,1-1,Remo
+7,27/06/21,Avaí,1-0,CRB
+7,27/06/21,CSA,2-1,Cruzeiro
+7,27/06/21,Vasco da Gama,2-1,Brusque
+7,28/06/21,Operário-PR,0-0,Confiança
+7,30/06/21,Guarani,0-2,Coritiba
+8,29/06/21,CRB,1-1,Náutico
+8,29/06/21,Remo,0-2,Sampaio Corrêa
+8,30/06/21,Cruzeiro,3-3,Guarani
+8,30/06/21,Londrina,1-3,Avaí
+8,30/06/21,Goiás,1-0,Vasco da Gama
+8,30/06/21,Botafogo,1-0,EC Vitória
+8,30/06/21,Brusque,1-0,Brasil-RS
+8,30/06/21,Ponte Preta,2-1,CSA
+8,02/07/21,Confiança,0-1,Coritiba
+8,03/07/21,Operário-PR,1-2,Vila Nova
+9,02/07/21,Coritiba,2-1,Remo
+9,02/07/21,Náutico,5-0,Operário-PR
+9,03/07/21,Vasco da Gama,1-0,Confiança
+9,03/07/21,CSA,0-1,CRB
+9,03/07/21,Sampaio Corrêa,1-0,Londrina
+9,03/07/21,Brasil-RS,0-0,Cruzeiro
+9,03/07/21,Avaí,1-1,Botafogo
+9,03/07/21,Vila Nova,0-0,Ponte Preta
+9,03/07/21,EC Vitória,1-1,Goiás
+9,04/07/21,Guarani,4-1,Brusque
+10,06/07/21,Ponte Preta,0-0,Avaí
+10,06/07/21,Cruzeiro,0-0,Coritiba
+10,06/07/21,CRB,2-1,Botafogo
+10,08/07/21,Remo,0-1,Vila Nova
+10,09/07/21,Goiás,0-1,Náutico
+10,09/07/21,Vasco da Gama,1-0,Sampaio Corrêa
+10,09/07/21,Londrina,0-1,Guarani
+10,09/07/21,Confiança,1-1,EC Vitória
+10,10/07/21,Operário-PR,2-1,Brasil-RS
+10,11/07/21,Brusque,2-3,CSA
+11,10/07/21,Botafogo,3-3,Cruzeiro
+11,12/07/21,Náutico,1-1,Ponte Preta
+11,13/07/21,Vila Nova,0-0,Brasil-RS
+11,13/07/21,Guarani,1-0,CRB
+11,13/07/21,Avaí,2-1,Confiança
+11,13/07/21,Londrina,1-2,Operário-PR
+11,13/07/21,Coritiba,1-1,Vasco da Gama
+11,13/07/21,EC Vitória,2-2,Sampaio Corrêa
+11,14/07/21,CSA,0-1,Goiás
+11,14/07/21,Remo,2-1,Brusque
+12,16/07/21,Confiança,1-4,Guarani
+12,16/07/21,Sampaio Corrêa,2-3,Coritiba
+12,17/07/21,Brasil-RS,1-0,EC Vitória
+12,17/07/21,Goiás,0-0,Londrina
+12,17/07/21,Cruzeiro,0-3,Avaí
+12,17/07/21,Ponte Preta,1-1,Remo
+12,17/07/21,Operário-PR,0-2,CSA
+12,17/07/21,Brusque,2-1,Botafogo
+12,18/07/21,Vasco da Gama,1-1,Náutico
+12,18/07/21,CRB,2-1,Vila Nova
+13,20/07/21,Guarani,0-0,Sampaio Corrêa
+13,20/07/21,Botafogo,0-2,Goiás
+13,20/07/21,Remo,1-0,Cruzeiro
+13,20/07/21,Londrina,0-0,Confiança
+13,20/07/21,EC Vitória,1-0,Ponte Preta
+13,21/07/21,Vila Nova,0-1,Brusque
+13,21/07/21,CSA,2-2,Vasco da Gama
+13,21/07/21,Náutico,2-1,Brasil-RS
+13,22/07/21,Coritiba,1-1,CRB
+13,22/07/21,Avaí,1-0,Operário-PR
+14,23/07/21,Londrina,1-0,Remo
+14,23/07/21,Ponte Preta,2-1,Goiás
+14,24/07/21,Vila Nova,0-0,Cruzeiro
+14,24/07/21,Confiança,0-1,Botafogo
+14,24/07/21,Náutico,1-1,Brusque
+14,24/07/21,Vasco da Gama,4-1,Guarani
+14,24/07/21,CSA,2-1,EC Vitória
+14,25/07/21,Operário-PR,1-0,Coritiba
+14,25/07/21,Avaí,1-1,Brasil-RS
+14,25/07/21,Sampaio Corrêa,2-3,CRB
+15,27/07/21,Botafogo,2-0,CSA
+15,28/07/21,Guarani,4-1,Brusque
+15,30/07/21,Goiás,1-0,Operário-PR
+15,30/07/21,Coritiba,3-1,Náutico
+15,31/07/21,EC Vitória,0-0,Avaí
+15,31/07/21,Brasil-RS,1-2,Sampaio Corrêa
+15,31/07/21,Cruzeiro,2-2,Londrina
+15,31/07/21,Botafogo,2-0,Vasco da Gama
+15,01/08/21,CRB,1-1,Ponte Preta
+15,01/08/21,Remo,1-0,CSA
+15,31/07/21,Brusque,3-0,Confiança
+16,03/08/21,Brasil-RS,1-1,Sampaio Corrêa
+16,03/08/21,Brusque,0-1,Coritiba
+16,06/08/21,Goiás,1-1,Guarani
+16,06/08/21,CRB,3-0,EC Vitória
+16,07/08/21,Remo,2-1,Operário-PR
+16,07/08/21,Avaí,0-0,Vasco da Gama
+16,07/08/21,Confiança,0-2,Náutico
+16,07/08/21,Londrina,0-2,CSA
+16,08/08/21,Vila Nova,0-0,Cruzeiro
+16,08/08/21,Botafogo,2-0,Ponte Preta
+17,10/08/21,Coritiba,2-1,Goiás
+17,10/08/21,Guarani,2-0,Brasil-RS
+17,10/08/21,Náutico,0-4,Confiança
+17,10/08/21,Vasco da Gama,1-0,Vila Nova
+17,11/08/21,Operário-PR,1-0,Brusque
+17,11/08/21,EC Vitória,0-1,Avaí
+17,11/08/21,Ponte Preta,1-0,Londrina
+17,11/08/21,Cruzeiro,1-1,Sampaio Corrêa
+17,12/08/21,CRB,0-0,Remo
+17,12/08/21,CSA,1-1,Vila Nova
+18,13/08/21,Goiás,1-1,Brasil-RS
+18,14/08/21,Brusque,1-2,Cruzeiro
+18,14/08/21,Náutico,0-1,Botafogo
+18,14/08/21,CSA,3-0,Coritiba
+18,14/08/21,Confiança,0-2,Operário-PR
+18,15/08/21,Remo,2-1,Vasco da Gama
+18,15/08/21,Londrina,1-0,EC Vitória
+18,15/08/21,Sampaio Corrêa,0-2,Guarani
+18,15/08/21,Ponte Preta,3-0,Vila Nova
+18,15/08/21,CRB,0-0,Avaí
+19,17/08/21,Confiança,0-2,CSA
+19,17/08/21,Brasil-RS,1-1,Coritiba
+19,18/08/21,Cruzeiro,1-0,Náutico
+19,18/08/21,Vila Nova,1-0,EC Vitória
+19,18/08/21,Guarani,1-1,Botafogo
+19,18/08/21,Vasco da Gama,2-0,Londrina
+19,19/08/21,Remo,1-2,CRB
+19,19/08/21,Avaí,1-0,Sampaio Corrêa
+19,19/08/21,Operário-PR,1-1,Goiás
+19,20/08/21,Ponte Preta,3-0,Brusque
+20,20/08/21,Avaí,1-2,Coritiba
+20,21/08/21,Vitória,1-0,Guarani
+20,21/08/21,Operário-PR,2-0,Vasco da Gama
+20,20/08/21,Cruzeiro,1-0,Confiança
+20,22/08/21,Botafogo,3-2,Vila Nova
+20,22/08/21,Goiás,2-2,Sampaio Corrêa
+20,22/08/21,Londrina,0-0,Brasil-RS
+20,22/08/21,Ponte Preta,3-0,Brusque
+20,21/08/21,Remo,1-2,CRB
+20,24/08/21,CSA,0-1,Náutico
+21,24/08/21,Guarani,3-0,Operário-PR
+21,25/08/21,Vila Nova,1-0,Avaí
+21,26/08/21,Confiança,1-2,Goiás
+21,27/08/21,Brasil-RS,1-1,Remo
+21,27/08/21,Coritiba,0-1,Botafogo
+21,28/08/21,Brusque,0-0,Londrina
+21,29/08/21,CRB,0-0,Cruzeiro
+21,29/08/21,Náutico,1-1,Vitória
+21,29/08/21,Vasco da Gama,2-0,Ponte Preta
+21,28/08/21,Sampaio Corrêa,2-0,CSA
+22,01/09/21,Confiança,1-2,CRB
+22,01/09/21,Londrina,2-3,Coritiba
+22,03/09/21,Brusque,0-0,Avaí
+22,03/09/21,Vasco da Gama,1-1,Brasil-RS
+22,03/09/21,Ponte Preta,3-2,Sampaio Corrêa
+22,04/09/21,Operário-PR,0-1,Vitória
+22,04/09/21,Náutico,1-1,Guarani
+22,04/09/21,Remo,0-1,Botafogo
+22,03/09/21,CSA,1-1,Vila Nova
+22,07/09/21,Goiás,1-1,Cruzeiro
+23,06/09/21,Avaí,3-1,Vasco da Gama
+23,07/09/21,Brasil-RS,1-1,Confiança
+23,07/09/21,Guarani,1-0,CSA
+23,07/09/21,Coritiba,4-0,Brusque
+23,10/09/21,Vitória,1-2,Remo
+23,11/09/21,Cruzeiro,1-0,Ponte Preta
+23,11/09/21,Botafogo,4-0,Londrina
+23,11/09/21,Sampaio Corrêa,0-0,Operário-PR
+23,10/09/21,Vila Nova,1-0,Náutico
+23,11/09/21,CRB,0-1,Goiás
+24,16/09/21,CRB,1-1,Vasco da Gama
+24,16/09/21,Cruzeiro,1-1,Operário-PR
+24,17/09/21,Brusque,0-0,Vitória
+24,17/09/21,Coritiba,1-0,Vila Nova
+24,17/09/21,Confiança,2-0,Sampaio Corrêa
+24,16/09/21,Remo,2-1,Avaí
+24,18/09/21,Botafogo,3-1,Náutico
+24,18/09/21,Londrina,0-2,CSA
+24,18/09/21,Goiás,2-1,Brasil-RS
+24,17/09/21,Ponte Preta,0-0,Guarani
+25,19/09/21,Vasco da Gama,1-1,Cruzeiro
+25,21/09/21,Guarani,2-0,Remo
+25,21/09/21,Avaí,1-0,Goiás
+25,21/09/21,Sampaio Corrêa,2-2,Brusque
+25,21/09/21,Brasil-RS,0-1,CRB
+25,22/09/21,Vitória,0-0,Coritiba
+25,21/09/21,Vila Nova,0-0,Confiança
+25,21/09/21,Náutico,1-2,Londrina
+25,23/09/21,CSA,2-0,Botafogo
+25,22/09/21,Operário-PR,1-2,Ponte Preta
+26,24/09/21,Goiás,1-2,Vila Nova
+26,24/09/21,Remo,1-0,Náutico
+26,25/09/21,Londrina,1-0,Vitória
+26,25/09/21,Confiança,1-0,Operário-PR
+26,25/09/21,CRB,1-2,Avaí
+26,24/09/21,Brusque,0-1,Vasco da Gama
+26,26/09/21,Cruzeiro,1-2,CSA
+26,26/09/21,Ponte Preta,1-0,Brasil-RS
+26,26/09/21,Botafogo,2-0,Sampaio Corrêa
+26,25/09/21,Coritiba,1-0,Guarani
+27,27/09/21,Vasco da Gama,2-0,Goiás
+27,28/09/21,Avaí,2-0,Londrina
+27,28/09/21,Náutico,1-3,CRB
+27,29/09/21,Brasil-RS,0-2,Brusque
+27,29/09/21,Guarani,1-1,Cruzeiro
+27,28/09/21,Vila Nova,2-1,Operário-PR
+27,28/09/21,Coritiba,1-1,Confiança
+27,29/09/21,Vitória,0-0,Botafogo
+27,29/09/21,CSA,2-1,Ponte Preta
+27,30/09/21,Sampaio Corrêa,1-1,Remo
+28,02/10/21,Brusque,2-0,Guarani
+28,02/10/21,Goiás,3-0,Vitória
+28,02/10/21,CRB,0-0,CSA
+28,02/10/21,Botafogo,1-2,Avaí
+28,01/10/21,Operário-PR,1-2,Náutico
+28,03/10/21,Cruzeiro,2-0,Brasil-RS
+28,03/10/21,Confiança,1-2,Vasco da Gama
+28,03/10/21,Londrina,3-1,Sampaio Corrêa
+28,02/10/21,Ponte Preta,1-1,Vila Nova
+28,04/10/21,Remo,0-0,Coritiba
+29,05/10/21,Avaí,1-1,Ponte Preta
+29,06/10/21,Brasil-RS,1-0,Operário-PR
+29,05/10/21,Náutico,3-2,Goiás
+29,08/10/21,Botafogo,2-0,CRB
+29,08/10/21,Vila Nova,1-0,Remo
+29,09/10/21,Guarani,3-0,Londrina
+29,09/10/21,Vitória,0-1,Confiança
+29,08/10/21,Coritiba,0-3,Cruzeiro
+29,09/10/21,Sampaio Corrêa,1-0,Vasco da Gama
+29,09/10/21,CSA,4-1,Brusque
+30,12/10/21,Sampaio Corrêa,0-1,Vitória
+30,12/10/21,Cruzeiro,0-0,Botafogo
+30,15/10/21,Brusque,3-1,Remo
+30,15/10/21,CRB,2-2,Guarani
+30,16/10/21,Brasil-RS,2-2,Vila Nova
+30,16/10/21,Ponte Preta,2-3,Náutico
+30,16/10/21,Vasco da Gama,2-1,Coritiba
+30,16/10/21,Operário-PR,0-0,Londrina
+30,15/10/21,Goiás,3-1,CSA
+30,16/10/21,Confiança,3-1,Avaí
+31,18/10/21,Vila Nova,0-0,CRB
+31,19/10/21,Londrina,0-0,Goiás
+31,20/10/21,Botafogo,3-0,Brusque
+31,19/10/21,Coritiba,3-0,Sampaio Corrêa
+31,22/10/21,Guarani,1-2,Confiança
+31,23/10/21,Vitória,4-0,Brasil-RS
+31,23/10/21,CSA,2-4,Operário-PR
+31,22/10/21,Avaí,1-0,Cruzeiro
+31,24/10/21,Náutico,2-2,Vasco da Gama
+31,24/10/21,Remo,0-1,Ponte Preta
+32,24/10/21,Brusque,2-3,Vila Nova
+32,26/10/21,CRB,1-1,Coritiba
+32,26/10/21,Goiás,1-1,Botafogo
+32,28/10/21,Sampaio Corrêa,0-1,Guarani
+32,29/10/21,Operário-PR,2-1,Avaí
+32,28/10/21,Cruzeiro,1-3,Remo
+32,28/10/21,Brasil-RS,3-2,Náutico
+32,30/10/21,Ponte Preta,0-0,Vitória
+32,30/10/21,Confiança,0-2,Londrina
+32,29/10/21,Vasco da Gama,1-3,CSA
+33,01/11/21,Cruzeiro,1-1,Vila Nova
+33,02/11/21,Vitória,0-1,CSA
+33,02/11/21,Brasil-RS,0-1,Avaí
+33,02/11/21,Brusque,4-3,Náutico
+33,02/11/21,Remo,0-1,Londrina
+33,03/11/21,Coritiba,3-1,Operário-PR
+33,03/11/21,Botafogo,1-0,Confiança
+33,02/11/21,Goiás,2-2,Ponte Preta
+33,04/11/21,Guarani,1-0,Vasco da Gama
+33,04/11/21,CRB,1-0,Sampaio Corrêa
+34,05/11/21,CSA,2-0,Remo
+34,05/11/21,Avaí,1-1,Vitória
+34,06/11/21,Náutico,2-1,Coritiba
+34,06/11/21,Operário-PR,1-1,Goiás
+34,06/11/21,Confiança,3-2,Brusque
+34,05/11/21,Londrina,0-1,Cruzeiro
+34,07/11/21,Vasco da Gama,0-4,Botafogo
+34,07/11/21,Vila Nova,2-2,Guarani
+34,07/11/21,Sampaio Corrêa,2-1,Brasil-RS
+34,07/11/21,Ponte Preta,1-0,CRB
+35,08/11/21,Avaí,1-1,CSA
+35,09/11/21,Operário-PR,2-1,Remo
+35,09/11/21,Confiança,0-0,Náutico
+35,10/11/21,Brasil-RS,0-1,Guarani
+35,09/11/21,Cruzeiro,2-0,Brusque
+35,11/11/21,Ponte Preta,0-0,Botafogo
+35,11/11/21,Sampaio Corrêa,3-0,Vila Nova
+35,10/11/21,CRB,1-0,Londrina
+35,10/11/21,Goiás,2-1,Coritiba
+35,10/11/21,Vasco da Gama,0-3,Vitória
+36,13/11/21,Guarani,4-0,Avaí
+36,12/11/21,CSA,0-0,Confiança
+36,14/11/21,Coritiba,2-1,Brasil-RS
+36,14/11/21,Vitória,3-0,Cruzeiro
+36,15/11/21,Brusque,1-0,CRB
+36,15/11/21,Botafogo,2-1,Operário-PR
+36,15/11/21,Londrina,2-1,Ponte Preta
+36,15/11/21,Náutico,2-1,Sampaio Corrêa
+36,15/11/21,Vila Nova,2-2,Vasco da Gama
+36,15/11/21,Remo,0-1,Goiás
+37,19/11/21,Brusque,2-0,Operário-PR
+37,19/11/21,Vasco da Gama,2-2,Remo
+37,18/11/21,Sampaio Corrêa,1-1,Cruzeiro
+37,20/11/21,Confiança,0-1,Ponte Preta
+37,19/11/21,Vila Nova,2-1,Londrina
+37,21/11/21,Brasil-RS,0-1,Botafogo
+37,21/11/21,Coritiba,0-1,CSA
+37,21/11/21,Náutico,1-2,Avaí
+37,22/11/21,CRB,3-1,Vitória
+37,22/11/21,Guarani,0-2,Goiás
+38,25/11/21,Cruzeiro,0-0,Náutico
+38,26/11/21,Ponte Preta,3-2,Coritiba
+38,28/11/21,Londrina,3-0,Vasco da Gama
+38,28/11/21,Vitória,0-1,Vila Nova
+38,28/11/21,Botafogo,2-2,Guarani
+38,28/11/21,Avaí,2-1,Sampaio Corrêa
+38,28/11/21,CSA,4-0,Brasil-RS
+38,28/11/21,Remo,0-0,Confiança
+38,28/11/21,Goiás,2-2,Brusque
+38,28/11/21,Operário-PR,2-1,CRB
