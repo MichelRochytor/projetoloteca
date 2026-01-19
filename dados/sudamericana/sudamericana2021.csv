@@ -1,0 +1,158 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,16/03/21,12 de Octubre,0-0,Nacional (PAR)
+PR,1,16/03/21,Macará,2-2,Emelec
+PR,1,16/03/21,Antofagasta,0-1,Huachipato
+PR,1,16/03/21,Tolima,3-0,Deportivo Cali
+PR,1,17/03/21,Guabirá,4-1,Nacional Potosí
+PR,1,17/03/21,Wilstermann,2-1,Palmaflor
+PR,1,17/03/21,UTC,0-1,Sport Huancayo
+PR,1,17/03/21,Aragua,0-1,Mineros
+PR,1,18/03/21,Metropolitanos,2-0,Puerto Cabello
+PR,1,18/03/21,Guaireña,1-2,River Plate (PAR)
+PR,1,18/03/21,Aucas,2-1,Guayaquil City
+PR,1,18/03/21,Cobresal,0-0,Palestino
+PR,1,18/03/21,La Equidad,1-2,Deportivo Pasto
+PR,1,18/03/21,Carlos Mannucci,1-2,Melgar
+PR,2,06/04/21,Nacional (PAR),0-0,12 de Octubre
+PR,2,06/04/21,Emelec,2-0,Macará
+PR,2,06/04/21,Deportivo Cali,0-0,Tolima
+PR,2,06/04/21,Huachipato,3-0,Antofagasta
+PR,2,06/04/21,Cerro Largo,2-2,Peñarol
+PR,2,07/04/21,Palmaflor,1-2,Wilstermann
+PR,2,07/04/21,Nacional Potosí,1-2,Guabirá
+PR,2,07/04/21,Sport Huancayo,4-0,UTC
+PR,2,07/04/21,Montevideo City,0-0,Fénix
+PR,2,07/04/21,Mineros,1-2,Aragua
+PR,2,08/04/21,Puerto Cabello,0-1,Metropolitanos
+PR,2,08/04/21,River Plate (PAR),4-2,Guaireña
+PR,2,08/04/21,Guayaquil City,0-3,Aucas
+PR,2,08/04/21,Palestino,2-1,Cobresal
+PR,2,08/04/21,Deportivo Pasto,0-2,La Equidad
+PR,2,08/04/21,Melgar,3-2,Carlos Mannucci
+PR,2,13/04/21,Peñarol,4-1,Cerro Largo
+PR,2,14/04/21,Fénix,0-2,Montevideo City
+FG,1,20/04/21,Metropolitanos,2-3,Melgar
+FG,1,20/04/21,Atlético-GO,0-0,Newell's
+FG,1,20/04/21,12 de Octubre,1-0,Rosário Central
+FG,1,20/04/21,Aucas,0-1,Athletico-PR
+FG,1,21/04/21,Ceará,3-1,Wilstermann
+FG,1,21/04/21,Guabirá,1-3,Independiente
+FG,1,21/04/21,San Lorenzo,0-1,Huachipato
+FG,1,21/04/21,Montevideo City,1-1,Bahia
+FG,1,22/04/21,Talleres,1-2,Emelec
+FG,1,22/04/21,Bragantino,2-1,Tolima
+FG,1,22/04/21,Aragua,0-1,Lanús
+FG,1,22/04/21,Grêmio,2-1,La Equidad
+FG,1,22/04/21,Bolívar,2-1,Arsenal de Sarandí
+FG,1,22/04/21,Peñarol,5-1,Sport Huancayo
+FG,1,22/04/21,Libertad,2-0,Palestino
+FG,1,22/04/21,River Plate (PAR),0-0,Corinthians
+FG,2,27/04/21,Bahia,5-0,Guabirá
+FG,2,27/04/21,Arsenal de Sarandí,0-0,Ceará
+FG,2,27/04/21,Huachipato,0-0,12 de Octubre
+FG,2,28/04/21,Independiente,3-1,Montevideo City
+FG,2,28/04/21,Athletico-PR,1-0,Metropolitanos
+FG,2,28/04/21,Rosário Central,2-0,San Lorenzo
+FG,2,28/04/21,Melgar,2-0,Aucas
+FG,2,28/04/21,Tolima,1-1,Talleres
+FG,2,28/04/21,Emelec,3-0,Bragantino
+FG,2,29/04/21,Wilstermann,0-0,Bolívar
+FG,2,29/04/21,Newell's,1-3,Libertad
+FG,2,29/04/21,Palestino,0-1,Atlético-GO
+FG,2,29/04/21,Corinthians,0-2,Peñarol
+FG,2,29/04/21,River Plate (PAR),1-2,Sport Huancayo
+FG,2,29/04/21,Lanús,1-2,Grêmio
+FG,2,29/04/21,La Equidad,2-1,Aragua
+FG,3,04/05/21,Bahia,2-2,Independiente
+FG,3,04/05/21,Metropolitanos,3-2,Aucas
+FG,3,04/05/21,Melgar,1-0,Athletico-PR
+FG,3,04/05/21,Palestino,0-1,Newell's
+FG,3,05/05/21,Montevideo City,4-0,Guabirá
+FG,3,05/05/21,Huachipato,1-1,Rosário Central
+FG,3,05/05/21,Bragantino,0-1,Talleres
+FG,3,05/05/21,Bolívar,0-0,Ceará
+FG,3,06/05/21,Arsenal de Sarandí,3-0,Wilstermann
+FG,3,06/05/21,Libertad,1-2,Atlético-GO
+FG,3,06/05/21,Grêmio,8-0,Aragua
+FG,3,06/05/21,La Equidad,0-1,Lanús
+FG,3,06/05/21,San Lorenzo,1-1,12 de Octubre
+FG,3,06/05/21,Peñarol,3-0,River Plate (PAR)
+FG,3,06/05/21,Sport Huancayo,0-3,Corinthians
+FG,3,07/05/21,Tolima,1-1,Emelec
+FG,4,11/05/21,Bragantino,2-0,Emelec
+FG,4,11/05/21,Talleres,0-0,Tolima
+FG,4,11/05/21,Montevideo City,1-1,Independiente
+FG,4,11/05/21,Athletico-PR,1-0,Metropolitanos
+FG,4,12/05/21,Guabirá,0-1,Bahia
+FG,4,12/05/21,Ceará,0-0,Arsenal de Sarandí
+FG,4,12/05/21,12 de Octubre,1-2,Huachipato
+FG,4,12/05/21,San Lorenzo,1-2,Rosário Central
+FG,4,13/05/21,Wilstermann,1-2,Bolívar
+FG,4,13/05/21,Libertad,1-0,Newell's
+FG,4,13/05/21,Atlético-GO,0-0,Palestino
+FG,4,13/05/21,Aragua,0-8,Grêmio
+FG,4,13/05/21,Lanús,4-1,La Equidad
+FG,4,13/05/21,Peñarol,4-0,Corinthians
+FG,4,13/05/21,River Plate (PAR),2-1,Sport Huancayo
+FG,4,13/05/21,Aucas,2-1,Melgar
+FG,5,18/05/21,Independiente,1-0,Bahia
+FG,5,18/05/21,Talleres,0-1,Bragantino
+FG,5,18/05/21,River Plate (PAR),2-1,Peñarol
+FG,5,19/05/21,Guabirá,0-4,Montevideo City
+FG,5,19/05/21,Ceará,2-0,Bolívar
+FG,5,19/05/21,Wilstermann,1-2,Arsenal de Sarandí
+FG,5,19/05/21,Newell's,1-1,Atlético-GO
+FG,5,19/05/21,Emelec,2-0,Tolima
+FG,5,19/05/21,Athletico-PR,1-0,Melgar
+FG,5,19/05/21,Rosário Central,5-0,Huachipato
+FG,5,19/05/21,Aucas,3-0,Metropolitanos
+FG,5,20/05/21,Corinthians,5-0,Sport Huancayo
+FG,5,20/05/21,Aragua,2-6,Grêmio
+FG,5,20/05/21,Lanús,0-0,Aragua
+FG,5,20/05/21,Palestino,1-2,Libertad
+FG,5,20/05/21,12 de Octubre,0-2,San Lorenzo
+FG,6,25/05/21,Tolima,1-2,Bragantino
+FG,6,25/05/21,Emelec,1-4,Talleres
+FG,6,25/05/21,Newell's,1-1,Palestino
+FG,6,25/05/21,Atlético-GO,0-0,Libertad
+FG,6,26/05/21,Independiente,1-0,Guabirá
+FG,6,26/05/21,Bahia,2-4,Montevideo City
+FG,6,26/05/21,Huachipato,0-3,San Lorenzo
+FG,6,26/05/21,Rosário Central,0-0,12 de Octubre
+FG,6,26/05/21,Peñarol,0-0,Sport Huancayo
+FG,6,26/05/21,Corinthians,4-0,River Plate (PAR)
+FG,6,27/05/21,Arsenal de Sarandí,3-1,Bolívar
+FG,6,27/05/21,Wilstermann,1-0,Ceará
+FG,6,27/05/21,La Equidad,0-0,Grêmio
+FG,6,27/05/21,Aragua,0-0,Lanús
+FG,6,27/05/21,Melgar,0-0,Metropolitanos
+FG,6,27/05/21,Athletico-PR,4-0,Aucas
+O,1,13/07/21,LDU Quito,0-1,Grêmio
+O,1,13/07/21,América de Cali,0-1,Athletico-PR
+O,1,14/07/21,Sporting Cristal,2-1,Arsenal de Sarandí
+O,1,14/07/21,Indep. del Valle,0-2,Bragantino
+O,1,14/07/21,Junior,3-4,Libertad
+O,1,15/07/21,Santos,1-0,Independiente
+O,1,15/07/21,Deportivo Táchira,2-2,Rosário Central
+O,1,15/07/21,Nacional (URU),1-2,Peñarol
+O,2,20/07/21,Grêmio,1-2,LDU Quito
+O,2,20/07/21,Athletico-PR,4-1,América de Cali
+O,2,21/07/21,Arsenal de Sarandí,1-1,Sporting Cristal
+O,2,21/07/21,Bragantino,1-1,Indep. del Valle
+O,2,21/07/21,Libertad,0-1,Junior
+O,2,22/07/21,Independiente,1-1,Santos
+O,2,22/07/21,Rosário Central,1-0,Deportivo Táchira
+O,2,22/07/21,Peñarol,0-1,Nacional (URU)
+Q,1,10/08/21,Rosário Central,3-4,Bragantino
+Q,1,11/08/21,Sporting Cristal,1-3,Peñarol
+Q,1,12/08/21,LDU Quito,1-0,Athletico-PR
+Q,1,12/08/21,Santos,2-1,Libertad
+Q,2,17/08/21,Bragantino,1-0,Rosário Central
+Q,2,18/08/21,Peñarol,1-0,Sporting Cristal
+Q,2,19/08/21,Athletico-PR,4-2,LDU Quito
+Q,2,19/08/21,Libertad,1-0,Santos
+S,1,22/09/21,Bragantino,2-0,Libertad
+S,1,23/09/21,Peñarol,1-2,Athletico-PR
+S,2,29/09/21,Libertad,1-3,Bragantino
+S,2,30/09/21,Athletico-PR,2-0,Peñarol
+F,1,20/11/21,Athletico-PR,1-0,Bragantino

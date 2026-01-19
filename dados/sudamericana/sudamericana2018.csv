@@ -1,0 +1,107 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,1,13/02/18,Univ. Técnica,2-0,Rampla Juniors
+1F,1,13/02/18,Sportivo Luqueño,2-0,Deportivo Cuenca
+1F,1,13/02/18,Zamora FC,0-2,Colón
+1F,1,15/02/18,Nacional,0-0,Mineros
+1F,1,15/02/18,Defensa y Justicia,0-1,América de Cali
+1F,1,15/02/18,Unión Española,0-0,Sport Huancayo
+1F,1,20/02/18,Sport Rosario,0-0,CA Cerro
+1F,1,20/02/18,Barcelona SC,0-0,General Díaz
+1F,1,21/02/18,Lanús,4-2,Sporting Cristal
+1F,1,22/02/18,El Nacional,3-2,San José
+1F,1,22/02/18,Everton,1-2,Caracas FC
+1F,2,06/03/18,San José,1-1,El Nacional
+1F,2,06/03/18,Colón,1-0,Zamora FC
+1F,2,06/03/18,Caracas FC,0-1,Everton
+1F,2,07/03/18,General Díaz,2-1,Barcelona SC
+1F,2,07/03/18,CA Cerro,2-0,Sport Rosario
+1F,2,07/03/18,Sporting Cristal,2-1,Lanús
+1F,2,07/03/18,Deportivo Cuenca,2-0,Sportivo Luqueño
+1F,2,08/03/18,Rampla Juniors,4-0,Univ. Técnica
+1F,2,08/03/18,Mineros,0-0,Nacional
+1F,2,08/03/18,Sport Huancayo,3-0,Unión Española
+1F,2,08/03/18,América de Cali,0-3,Defensa y Justicia
+1F,1,10/04/18,Jaguares de Córdoba,2-1,Boston River
+1F,1,10/04/18,LDU Quito,2-1,Guabirá
+1F,1,10/04/18,Deportivo Cali,3-0,Danubio
+1F,1,11/04/18,San Lorenzo,1-0,Atlético Mineiro
+1F,1,11/04/18,Blooming,1-0,Bahia
+1F,1,11/04/18,Fluminense,3-0,Nacional Potosí
+1F,1,12/04/18,Athletico-PR,3-0,Newell's Old Boys
+1F,1,12/04/18,Audax Italiano,1-2,Botafogo
+1F,1,12/04/18,Rosario Central,0-0,São Paulo
+1F,1,12/04/18,Sol de América,2-0,Independiente Medellín
+1F,1,18/04/18,Estudiantes de Mérida,1-1,Temuco
+1F,2,08/05/18,Guabirá,3-2,LDU Quito
+1F,2,08/05/18,Atlético Mineiro,0-0,San Lorenzo
+1F,2,08/05/18,Danubio,3-2,Deportivo Cali
+1F,2,09/05/18,Temuco,2-0,Estudiantes de Mérida
+1F,2,09/05/18,Botafogo,1-1,Audax Italiano
+1F,2,09/05/18,São Paulo,1-0,Rosario Central
+1F,2,10/05/18,Newell's Old Boys,2-1,Athletico-PR
+1F,2,10/05/18,Boston River,3-0,Jaguares de Córdoba
+1F,2,10/05/18,Nacional Potosí,2-0,Fluminense
+1F,2,10/05/18,Independiente Medellín,3-1,Sol de América
+1F,2,23/05/18,Bahia,4-0,Blooming
+2F,1,17/07/18,Caracas FC,2-0,Sport Huancayo
+2F,1,17/07/18,Lanús,1-0,Junior Barranquilla
+2F,1,18/07/18,Defensa y Justicia,2-0,El Nacional
+2F,1,18/07/18,Deportivo Cali,4-0,Bolívar
+2F,1,18/07/18,Sol de América,0-0,Nacional
+2F,1,19/07/18,Deportivo Cuenca,2-2,Jorge Wilstermann
+2F,1,19/07/18,Rampla Juniors,0-0,Santa Fe
+2F,2,24/07/18,Sport Huancayo,3-4,Caracas FC
+2F,2,24/07/18,Junior Barranquilla,1-0,Lanús
+2F,2,25/07/18,LDU Quito,3-1,Vasco
+2F,2,25/07/18,Boston River,1-0,Banfield
+2F,2,25/07/18,Bahia,2-0,CA Cerro
+2F,1,26/07/18,Athletico-PR,2-0,Peñarol
+2F,1,26/07/18,San Lorenzo,3-0,Temuco
+2F,1,26/07/18,General Díaz,1-1,Millonarios
+2F,2,31/07/18,Jorge Wilstermann,2-2,Deportivo Cuenca
+2F,2,31/07/18,El Nacional,1-0,Defensa y Justicia
+2F,2,31/07/18,Santa Fe,2-0,Rampla Juniors
+2F,2,01/08/18,Nacional,2-1,Botafogo
+2F,2,01/08/18,Banfield,2-0,Boston River
+2F,1,02/08/18,São Paulo,0-1,Colón
+2F,1,02/08/18,Bolívar,1-2,Deportivo Cali
+2F,1,02/08/18,Fluminense,2-0,Defensor Sporting
+2F,2,07/08/18,Peñarol,1-4,Athletico-PR
+2F,2,08/08/18,CA Cerro,1-1,Bahia
+2F,2,09/08/18,Vasco,1-0,LDU Quito
+2F,1,14/08/18,Nacional,1-0,Sol de América
+2F,2,15/08/18,Temuco,1-0,San Lorenzo
+2F,2,15/08/18,Millonarios,4-0,General Díaz
+2F,2,16/08/18,Botafogo,2-0,Nacional
+2F,2,16/08/18,Defensor Sporting,0-1,Fluminense
+2F,2,16/08/18,Colón,0-1,São Paulo
+O,1,21/08/18,Defensa y Justicia,0-0,Banfield
+O,1,22/08/18,San Lorenzo,3-1,Nacional
+O,1,22/08/18,LDU Quito,1-0,Deportivo Cali
+O,1,18/09/18,Santa Fe,0-0,Millonarios
+O,1,19/09/18,Caracas FC,0-2,Athletico-PR
+O,2,19/09/18,Deportivo Cali,1-0,LDU Quito
+O,1,20/09/18,Deportivo Cuenca,0-2,Fluminense
+O,1,20/09/18,Bahia,2-1,Botafogo
+O,2,25/09/18,Nacional,2-0,San Lorenzo
+O,1,26/09/18,Junior Barranquilla,1-0,Colón
+O,2,27/09/18,Banfield,0-2,Defensa y Justicia
+O,2,02/10/18,Millonarios,0-0,Santa Fe
+O,2,03/10/18,Athletico-PR,2-1,Caracas FC
+O,2,03/10/18,Botafogo,2-1,Bahia
+O,2,04/10/18,Colón,1-1,Junior Barranquilla
+O,2,04/10/18,Fluminense,2-0,Deportivo Cuenca
+Q,1,23/10/18,Santa Fe,1-1,Deportivo Cali
+Q,1,24/10/18,Fluminense,1-1,Nacional
+Q,1,24/10/18,Bahia,0-1,Athletico-PR
+Q,1,25/10/18,Junior Barranquilla,2-0,Defensa y Justicia
+Q,2,30/10/18,Deportivo Cali,1-2,Santa Fe
+Q,2,31/10/18,Nacional,0-1,Fluminense
+Q,2,31/10/18,Athletico-PR,0-1,Bahia
+Q,2,01/11/18,Defensa y Justicia,3-1,Junior Barranquilla
+S,1,07/11/18,Athletico-PR,2-0,Fluminense
+S,1,08/11/18,Santa Fe,0-2,Junior Barranquilla
+S,2,28/11/18,Fluminense,0-2,Athletico-PR
+S,2,29/11/18,Junior Barranquilla,1-0,Santa Fe
+F,1,05/12/18,Junior Barranquilla,1-1,Athletico-PR
+F,2,12/12/18,Athletico-PR,1-1,Junior Barranquilla

@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,29/01/08,Arsenal de Sarandí,2-0,Mineros de Guayana
+PR,1,30/01/08,Cruzeiro,3-1,Cerro Porteño
+PR,1,31/01/08,Atlas,2-0,La Paz FC
+PR,1,31/01/08,Olmedo,1-0,Lanús
+PR,1,31/01/08,Cienciano,1-0,Montevideo Wanderers
+PR,1,07/02/08,Boyacá Chicó,4-3,Audax Italiano
+PR,2,05/02/08,Lanús,3-0,Olmedo
+PR,2,05/02/08,Mineros de Guayana,2-1,Arsenal de Sarandí
+PR,2,06/02/08,La Paz FC,1-0,Atlas
+PR,2,06/02/08,Cerro Porteño,2-3,Cruzeiro
+PR,2,07/02/08,Montevideo Wanderers,0-0,Cienciano
+PR,2,12/02/08,Audax Italiano,1-0,Boyacá Chicó
+FG,1,12/02/08,Caracas FC,2-0,San Lorenzo
+FG,1,12/02/08,Deportivo Cuenca,1-0,Estudiantes
+FG,1,13/02/08,Universidad San Martín,2-0,River Plate
+FG,1,13/02/08,Coronel Bolognesi,0-0,Flamengo
+FG,1,13/02/08,Cruzeiro,3-0,Real Potosí
+FG,1,14/02/08,Cúcuta Deportivo,0-0,Santos
+FG,1,14/02/08,Cienciano,2-1,Nacional
+FG,1,14/02/08,Lanús,3-1,Danubio
+FG,1,19/02/08,Audax Italiano,1-2,Sportivo Luqueño
+FG,1,19/02/08,Chivas,2-0,San José
+FG,1,20/02/08,Arsenal de Sarandí,1-0,Libertad
+FG,1,20/02/08,UA Maracaibo,1-1,Boca Juniors
+FG,1,20/02/08,LDU Quito,0-0,Fluminense
+FG,1,21/02/08,Club América,2-1,Universidad Católica
+FG,1,21/02/08,Atlas,3-0,Colo-Colo
+FG,1,27/02/08,Atlético Nacional,1-1,São Paulo
+FG,2,19/02/08,Coronel Bolognesi,0-1,Nacional
+FG,2,21/02/08,San Lorenzo,0-0,Cruzeiro
+FG,2,21/02/08,Deportivo Cuenca,0-0,Danubio
+FG,2,26/02/08,Estudiantes,0-0,Lanús
+FG,2,26/02/08,Caracas FC,2-1,Real Potosí
+FG,2,26/02/08,Universidad San Martín,0-1,Universidad Católica
+FG,2,27/02/08,River Plate,2-1,Club América
+FG,2,27/02/08,Flamengo,2-1,Cienciano
+FG,2,28/02/08,UA Maracaibo,1-3,Colo-Colo
+FG,2,28/02/08,Cúcuta Deportivo,0-0,San José
+FG,2,04/03/08,LDU Quito,2-0,Libertad
+FG,2,04/03/08,Santos,1-0,Chivas
+FG,2,05/03/08,Fluminense,6-0,Arsenal de Sarandí
+FG,2,05/03/08,São Paulo,2-1,Audax Italiano
+FG,2,06/03/08,Boca Juniors,3-0,Atlas
+FG,2,06/03/08,Atlético Nacional,3-0,Sportivo Luqueño
+FG,3,04/03/08,Cruzeiro,3-0,Caracas FC
+FG,3,05/03/08,Danubio,1-2,Estudiantes
+FG,3,06/03/08,Nacional,3-0,Flamengo
+FG,3,11/03/08,Cienciano,1-0,Coronel Bolognesi
+FG,3,11/03/08,Real Potosí,2-3,San Lorenzo
+FG,3,11/03/08,Chivas,0-1,Cúcuta Deportivo
+FG,3,12/03/08,Arsenal de Sarandí,0-1,LDU Quito
+FG,3,12/03/08,Universidad Católica,1-2,River Plate
+FG,3,12/03/08,Atlas,3-0,UA Maracaibo
+FG,3,13/03/08,Club América,3-1,Universidad San Martín
+FG,3,18/03/08,Audax Italiano,1-0,Atlético Nacional
+FG,3,19/03/08,Libertad,1-2,Fluminense
+FG,3,19/03/08,San José,2-1,Santos
+FG,3,20/03/08,Sportivo Luqueño,1-1,São Paulo
+FG,3,20/03/08,Colo-Colo,2-0,Boca Juniors
+FG,4,13/03/08,Lanús,0-0,Deportivo Cuenca
+FG,4,18/03/08,Estudiantes,2-0,Danubio
+FG,4,18/03/08,Caracas FC,1-1,Cruzeiro
+FG,4,19/03/08,Flamengo,2-0,Nacional
+FG,4,25/03/08,San Lorenzo,1-0,Real Potosí
+FG,4,25/03/08,UA Maracaibo,1-1,Atlas
+FG,4,25/03/08,Coronel Bolognesi,0-0,Cienciano
+FG,4,26/03/08,LDU Quito,6-1,Arsenal de Sarandí
+FG,4,26/03/08,River Plate,2-0,Universidad Católica
+FG,4,26/03/08,Universidad San Martín,1-0,Club América
+FG,4,27/03/08,Boca Juniors,4-3,Colo-Colo
+FG,4,27/03/08,Cúcuta Deportivo,1-0,Chivas
+FG,4,01/04/08,Santos,7-0,San José
+FG,4,02/04/08,Fluminense,2-0,Libertad
+FG,4,02/04/08,São Paulo,1-0,Sportivo Luqueño
+FG,4,03/04/08,Atlético Nacional,1-1,Audax Italiano
+FG,5,20/03/08,Deportivo Cuenca,1-1,Lanús
+FG,5,27/03/08,Danubio,2-0,Deportivo Cuenca
+FG,5,01/04/08,Real Potosí,3-1,Caracas FC
+FG,5,01/04/08,Universidad Católica,1-0,Universidad San Martín
+FG,5,02/04/08,Lanús,3-3,Estudiantes
+FG,5,03/04/08,Club América,4-3,River Plate
+FG,5,03/04/08,Nacional,1-0,Coronel Bolognesi
+FG,5,03/04/08,Cruzeiro,3-1,San Lorenzo
+FG,5,08/04/08,San José,2-4,Cúcuta Deportivo
+FG,5,08/04/08,Atlas,3-1,Boca Juniors
+FG,5,08/04/08,Libertad,3-1,LDU Quito
+FG,5,09/04/08,Arsenal de Sarandí,2-0,Fluminense
+FG,5,09/04/08,Chivas,3-2,Santos
+FG,5,09/04/08,Cienciano,0-3,Flamengo
+FG,5,10/04/08,Colo-Colo,2-0,UA Maracaibo
+FG,5,10/04/08,Sportivo Luqueño,1-3,Atlético Nacional
+FG,5,10/04/08,Audax Italiano,1-0,São Paulo
+FG,6,15/04/08,Estudiantes,2-0,Deportivo Cuenca
+FG,6,15/04/08,Danubio,1-2,Lanús
+FG,6,16/04/08,Real Potosí,5-1,Cruzeiro
+FG,6,16/04/08,San Lorenzo,3-0,Caracas FC
+FG,6,16/04/08,San José,0-3,Chivas
+FG,6,16/04/08,Santos,2-1,Cúcuta Deportivo
+FG,6,16/04/08,Libertad,1-2,Arsenal de Sarandí
+FG,6,17/04/08,Fluminense,1-0,LDU Quito
+FG,6,17/04/08,Universidad Católica,2-0,Club América
+FG,6,17/04/08,River Plate,5-0,Universidad San Martín
+FG,6,22/04/08,Colo-Colo,1-1,Atlas
+FG,6,22/04/08,Boca Juniors,3-0,UA Maracaibo
+FG,6,23/04/08,Flamengo,2-0,Coronel Bolognesi
+FG,6,23/04/08,Nacional,3-1,Cienciano
+FG,6,23/04/08,Sportivo Luqueño,4-1,Audax Italiano
+FG,6,23/04/08,São Paulo,1-0,Atlético Nacional
+O,1,29/04/08,Lanús,0-1,Atlas
+O,1,29/04/08,LDU Quito,2-0,Estudiantes
+O,1,30/04/08,Boca Juniors,2-1,Cruzeiro
+O,1,30/04/08,San Lorenzo,2-1,River Plate
+O,1,30/04/08,Club América,2-4,Flamengo
+O,1,30/04/08,Nacional,0-0,São Paulo
+O,1,30/04/08,Atlético Nacional,1-2,Fluminense
+O,1,01/05/08,Santos,2-0,Cúcuta Deportivo
+O,2,06/05/08,Fluminense,1-0,Atlético Nacional
+O,2,06/05/08,Estudiantes,2-1,LDU Quito
+O,2,06/05/08,Atlas,2-2,Lanús
+O,2,07/05/08,Cruzeiro,1-2,Boca Juniors
+O,2,07/05/08,Flamengo,0-3,Club América
+O,2,07/05/08,São Paulo,2-0,Nacional
+O,2,08/05/08,River Plate,2-2,San Lorenzo
+O,2,08/05/08,Cúcuta Deportivo,0-2,Santos
+Q,1,14/05/08,Boca Juniors,2-2,Atlas
+Q,1,14/05/08,São Paulo,1-0,Fluminense
+Q,1,15/05/08,San Lorenzo,1-1,LDU Quito
+Q,1,15/05/08,Club América,2-0,Santos
+Q,2,21/05/08,Atlas,0-3,Boca Juniors
+Q,2,21/05/08,Fluminense,3-1,São Paulo
+Q,2,22/05/08,LDU Quito,1-1,San Lorenzo
+Q,2,22/05/08,Santos,1-0,Club América
+S,1,27/05/08,Club América,1-1,LDU Quito
+S,1,28/05/08,Boca Juniors,2-2,Fluminense
+S,2,03/06/08,LDU Quito,0-0,Club América
+S,2,04/06/08,Fluminense,3-1,Boca Juniors
+F,1,25/06/08,LDU Quito,4-2,Fluminense
+F,2,02/07/08,Fluminense,3-1,LDU Quito

@@ -1,0 +1,113 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+R1,1,07/03/12,Boavista,0-0,América-MG
+R1,1,07/03/12,Gama,0-2,Ceará
+R1,1,07/03/12,Aquidauanense,1-0,Bahia de Feira
+R1,1,07/03/12,Brasiliense,2-0,Guarani
+R1,1,07/03/12,Gurupi,0-1,Atlético-GO
+R1,1,07/03/12,Real-RR,0-0,Remo
+R1,1,07/03/12,Operário-PR,0-4,Juventude
+R1,1,07/03/12,Espigão,1-3,Paysandu
+R1,1,07/03/12,Real Noroeste,0-2,Ipatinga
+R1,1,07/03/12,Luverdense,2-2,Paraná
+R1,1,07/03/12,Horizonte,2-0,América-RN
+R1,1,07/03/12,Trem,0-5,ABC
+R1,1,07/03/12,Sampaio Corrêa,2-1,Athletico-PR
+R1,1,07/03/12,Rio Branco-AC,0-6,Cruzeiro
+R1,1,07/03/12,Independiente Tucuruí,0-1,São Paulo
+R1,1,07/03/12,Penarol-AM,1-2,Santa Cruz
+R1,1,07/03/12,Comercial-PI,2-3,Fortaleza
+R1,1,07/03/12,River Plate-SE,2-3,Grêmio
+R1,1,07/03/12,Auto Esporte,0-3,Bahia
+R1,1,08/03/12,Paulista,2-3,Goiás
+R1,1,08/03/12,São Domingos,0-0,Vitória
+R1,1,08/03/12,Cuiabá,1-1,Portuguesa
+R1,1,14/03/12,Santa Quitéria,2-3,ASA
+R1,1,14/03/12,Madureira,0-2,Criciúma
+R1,1,14/03/12,Sapucaiense,0-0,Ponte Preta
+R1,2,14/03/12,São Paulo,4-0,Independiente Tucuruí
+R1,2,14/03/12,América-RN,2-0,Horizonte
+R1,2,14/03/12,Santa Cruz,2-3,Penarol-AM
+R1,2,14/03/12,Remo,3-0,Real-RR
+R1,2,14/03/12,Bahia de Feira,2-0,Aquidauanense
+R1,2,14/03/12,América-MG,2-1,Boavista
+R1,2,14/03/12,Guarani,3-0,Brasiliense
+R1,2,14/03/12,Vitória,2-0,São Domingos
+R1,1,14/03/12,Nacional-AM,0-0,Coritiba
+R1,1,14/03/12,São Mateus,2-1,Chapecoense
+R1,1,14/03/12,Coruripe,0-1,Palmeiras
+R1,1,14/03/12,CENE,1-3,Atlético-MG
+R1,1,14/03/12,4 de Julho,0-2,Sport
+R1,1,14/03/12,Treze,1-1,Botafogo
+R1,2,15/03/12,Athletico-PR,1-0,Sampaio Corrêa
+R1,2,15/03/12,Atlético-GO,4-2,Gurupi
+R1,2,15/03/12,Paraná,2-0,Luverdense
+R1,1,15/03/12,Santa Cruz-RN,1-3,Náutico
+R1,2,21/03/12,Ponte Preta,5-2,Sapucaiense
+R1,2,21/03/12,Portuguesa,4-0,Cuiabá
+R1,2,21/03/12,Grêmio,3-1,River Plate-SE
+R1,2,21/03/12,Palmeiras,3-0,Coruripe
+R1,2,21/03/12,ASA,2-1,Santa Quitéria
+R1,2,21/03/12,Chapecoense,3-1,São Mateus
+R1,2,21/03/12,Goiás,3-0,Paulista
+R1,2,21/03/12,Fortaleza,3-0,Comercial-PI
+R1,2,21/03/12,Botafogo,1-1,Treze
+R1,2,22/03/12,Coritiba,2-0,Nacional-AM
+R2,1,04/04/12,Ipatinga,0-1,Grêmio
+R2,1,04/04/12,Juventude,2-0,Portuguesa
+R2,1,04/04/12,ASA,1-0,Coritiba
+R2,1,04/04/12,Paysandu,2-1,Sport
+R2,1,04/04/12,América-MG,0-0,Goiás
+R2,1,04/04/12,Guarani,1-2,Botafogo
+R2,1,04/04/12,Horizonte,1-3,Palmeiras
+R2,1,05/04/12,Criciúma,1-2,Athletico-PR
+R2,1,05/04/12,Atlético-GO,2-1,Ponte Preta
+R2,2,11/04/12,Grêmio,3-0,Ipatinga
+R2,2,11/04/12,Coritiba,3-0,ASA
+R2,1,11/04/12,ABC,1-1,Vitória
+R2,1,11/04/12,Penarol-AM,0-5,Atlético-MG
+R2,1,11/04/12,Chapecoense,1-1,Cruzeiro
+R2,1,11/04/12,Remo,2-1,Bahia
+R2,1,11/04/12,Ceará,2-2,Paraná
+R2,1,11/04/12,Bahia de Feira,2-5,São Paulo
+R2,2,11/04/12,Sport,1-4,Paysandu
+R2,2,11/04/12,Goiás,4-3,América-MG
+R2,2,12/04/12,Athletico-PR,5-1,Criciúma
+R2,2,12/04/12,Portuguesa,4-0,Juventude
+R2,1,12/04/12,Fortaleza,4-0,Náutico
+R2,2,18/04/12,Ponte Preta,2-1,Atlético-GO
+R2,2,18/04/12,Botafogo,0-0,Guarani
+R2,2,18/04/12,Vitória,3-2,ABC
+R2,2,18/04/12,Paraná,1-1,Ceará
+R2,2,18/04/12,Cruzeiro,4-1,Chapecoense
+R2,2,18/04/12,Náutico,2-1,Fortaleza
+R2,2,19/04/12,Bahia,4-0,Remo
+O,1,25/04/12,Portuguesa,0-0,Bahia
+O,1,25/04/12,Goiás,2-0,Atlético-MG
+O,1,25/04/12,Paraná,1-2,Palmeiras
+O,1,26/04/12,Coritiba,4-1,Paysandu
+O,1,02/05/12,Fortaleza,0-2,Grêmio
+O,1,02/05/12,Athletico-PR,1-0,Cruzeiro
+O,1,02/05/12,Ponte Preta,1-0,São Paulo
+O,1,02/05/12,Vitória,1-1,Botafogo
+O,2,03/05/12,Paysandu,0-1,Coritiba
+O,2,03/05/12,Atlético-MG,2-1,Goiás
+O,2,09/05/12,Botafogo,1-2,Vitória
+O,2,09/05/12,Cruzeiro,1-2,Athletico-PR
+O,2,09/05/12,Grêmio,2-0,Fortaleza
+O,2,09/05/12,Palmeiras,4-0,Paraná
+O,2,10/05/12,Bahia,2-0,Portuguesa
+O,2,10/05/12,São Paulo,3-1,Ponte Preta
+Q,1,16/05/12,Athletico-PR,2-2,Palmeiras
+Q,1,16/05/12,São Paulo,2-0,Goiás
+Q,1,16/05/12,Vitória,0-0,Coritiba
+Q,1,17/05/12,Bahia,1-2,Grêmio
+Q,2,23/05/12,Palmeiras,2-0,Athletico-PR
+Q,2,23/05/12,Coritiba,4-1,Vitória
+Q,2,23/05/12,Goiás,2-2,São Paulo
+Q,2,24/05/12,Grêmio,2-0,Bahia
+S,1,13/06/12,Grêmio,0-2,Palmeiras
+S,1,14/06/12,São Paulo,1-0,Coritiba
+S,2,20/06/12,Coritiba,2-0,São Paulo
+S,2,21/06/12,Palmeiras,1-1,Grêmio
+F,1,05/07/12,Palmeiras,2-0,Coritiba
+F,2,11/07/12,Coritiba,1-1,Palmeiras

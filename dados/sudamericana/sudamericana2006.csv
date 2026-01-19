@@ -1,0 +1,55 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,22/08/06,San Lorenzo,2-1,Banfield
+PR,1,22/08/06,LDU Quito,2-3,El Nacional
+PR,1,22/08/06,Mineros de Guayana,3-0,Deportes Tolima
+PR,1,23/08/06,Central Español,0-1,Nacional
+PR,1,24/08/06,Coronel Bolognesi,1-0,Univ. San Martín
+PR,1,24/08/06,Universitario,2-2,Bolívar
+PR,1,24/08/06,Huachipato,1-2,Colo-Colo
+PR,1,29/08/06,Lanús,2-0,Vélez Sarsfield
+PR,2,30/08/06,El Nacional,1-1,LDU Quito
+PR,2,31/08/06,Colo-Colo,1-1,Huachipato
+PR,2,05/09/06,Deportes Tolima,2-2,Mineros de Guayana
+PR,2,05/09/06,Nacional,0-0,Central Español
+PR,2,06/09/06,Vasco da Gama,0-1,Corinthians
+PR,2,06/09/06,Paraná,1-3,Athletico-PR
+PR,2,06/09/06,Botafogo,1-1,Fluminense
+PR,2,07/09/06,Santos,1-0,Cruzeiro
+PR,2,12/09/06,Univ. San Martín,3-2,Coronel Bolognesi
+PR,2,12/09/06,Bolívar,2-1,Universitario
+PR,2,13/09/06,Corinthians,3-1,Vasco da Gama
+PR,2,13/09/06,Athletico-PR,1-0,Paraná
+PR,2,13/09/06,Fluminense,1-1,Botafogo
+PR,2,13/09/06,Cruzeiro,1-0,Santos
+PR,2,14/09/06,Banfield,0-0,San Lorenzo
+PR,2,20/09/06,Vélez Sarsfield,0-1,Lanús
+O,1,26/09/06,Corinthians,0-0,Lanús
+O,1,27/09/06,River Plate,0-1,Athletico-PR
+O,1,27/09/06,San Lorenzo,3-0,Santos
+O,1,28/09/06,Fluminense,1-1,Gimnasia y Esgrima
+O,1,28/09/06,Nacional,2-1,Boca Juniors
+O,1,03/10/06,Toluca,1-0,El Nacional
+O,1,04/10/06,Deportes Tolima,2-1,Pachuca
+O,1,04/10/06,LD Alajuelense,0-4,Colo-Colo
+O,2,10/10/06,Pachuca,5-1,Deportes Tolima
+O,2,10/10/06,El Nacional,0-2,Toluca
+O,2,10/10/06,Colo-Colo,7-2,LD Alajuelense
+O,2,11/10/06,Santos,1-0,San Lorenzo
+O,2,11/10/06,Lanús,4-2,Corinthians
+O,2,11/10/06,Gimnasia y Esgrima,2-0,Fluminense
+O,2,12/10/06,Boca Juniors,2-1,Nacional
+O,2,12/10/06,Athletico-PR,2-2,River Plate
+Q,1,18/10/06,Lanús,0-3,Pachuca
+Q,1,19/10/06,Nacional,1-2,Athletico-PR
+Q,1,19/10/06,Colo-Colo,4-1,Gimnasia y Esgrima
+Q,1,25/10/06,San Lorenzo,3-1,Toluca
+Q,2,25/10/06,Athletico-PR,4-1,Nacional
+Q,2,26/10/06,Gimnasia y Esgrima,0-2,Colo-Colo
+Q,2,31/10/06,Pachuca,2-2,Lanús
+Q,2,01/11/06,Toluca,2-0,San Lorenzo
+S,1,15/11/06,Athletico-PR,0-1,Pachuca
+S,1,16/11/06,Colo-Colo,2-1,Toluca
+S,2,21/11/06,Toluca,0-2,Colo-Colo
+S,2,22/11/06,Pachuca,4-1,Athletico-PR
+F,1,30/11/06,Pachuca,1-1,Colo-Colo
+F,2,13/12/06,Colo-Colo,1-2,Pachuca

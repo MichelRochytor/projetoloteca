@@ -1,0 +1,77 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,03/08/10,Defensor Sporting,2-0,Olimpia
+PR,1,04/08/10,Dep. Quito,3-2,Univ. San Martín
+PR,1,04/08/10,Atlético Huila,4-1,Trujillanos
+PR,1,12/08/10,César Vallejo,1-2,Barcelona SC
+PR,1,17/08/10,Universitario Sucre,2-0,Colo-Colo
+PR,1,17/08/10,Deportivo Lara,2-0,Santa Fe
+PR,1,19/08/10,Guaraní,2-0,River Plate (URU)
+PR,1,24/08/10,Univ. de Chile,2-2,Oriente Petrolero
+PR,2,10/08/10,Univ. San Martín,2-1,Dep. Quito
+PR,2,24/08/10,Barcelona SC,3-1,César Vallejo
+PR,2,25/08/10,Colo-Colo,3-1,Universitario Sucre
+PR,2,26/08/10,Santa Fe,4-0,Deportivo Lara
+PR,2,31/08/10,Oriente Petrolero,1-0,Univ. de Chile
+PR,2,01/09/10,River Plate (URU),4-2,Guaraní
+PR,2,01/09/10,Trujillanos,1-1,Atlético Huila
+PR,2,02/09/10,Olimpia,1-1,Defensor Sporting
+1F,1,04/08/10,Grêmio Barueri,0-0,Atlético-MG
+1F,1,05/08/10,Goiás,1-1,Grêmio
+1F,1,11/08/10,Vitória,2-0,Palmeiras
+1F,1,12/08/10,Santos,1-3,Avaí
+1F,1,26/08/10,Independiente,1-0,Argentinos Juniors
+1F,1,02/09/10,Vélez Sarsfield,0-1,Banfield
+1F,1,16/09/10,Newell's Old Boys,1-0,Estudiantes
+1F,2,11/08/10,Atlético-MG,1-0,Grêmio Barueri
+1F,2,12/08/10,Grêmio,0-2,Goiás
+1F,2,18/08/10,Avaí,0-1,Santos
+1F,2,19/08/10,Palmeiras,3-0,Vitória
+1F,2,09/09/10,Argentinos Juniors,1-1,Independiente
+1F,2,15/09/10,Banfield,1-1,Vélez Sarsfield
+1F,2,22/09/10,Estudiantes,1-1,Newell's Old Boys
+2F,1,31/08/10,Barcelona SC,0-1,Peñarol
+2F,1,07/09/10,Guaraní,1-1,Unión San Felipe
+2F,1,07/09/10,Atlético Huila,1-1,San José
+2F,1,09/09/10,Universitario Sucre,1-0,Cerro Porteño
+2F,1,14/09/10,Oriente Petrolero,1-0,Tolima
+2F,1,15/09/10,Univ. San Martín,2-1,Emelec
+2F,1,16/09/10,Santa Fe,2-1,Caracas FC
+2F,1,16/09/10,Defensor Sporting,9-0,Sport Huancayo
+2F,2,14/09/10,Peñarol,2-1,Barcelona SC
+2F,2,21/09/10,Cerro Porteño,2-2,Universitario Sucre
+2F,2,21/09/10,Tolima,2-0,Oriente Petrolero
+2F,2,22/09/10,Sport Huancayo,2-0,Defensor Sporting
+2F,2,22/09/10,San José,4-0,Atlético Huila
+2F,2,23/09/10,Unión San Felipe,1-1,Guaraní
+2F,2,23/09/10,Emelec,5-0,Univ. San Martín
+2F,2,23/09/10,Caracas FC,0-0,Santa Fe
+O,1,28/09/10,Defensor Sporting,1-0,Independiente
+O,1,29/09/10,Banfield,2-0,Tolima
+O,1,06/10/10,Newell's Old Boys,6-0,San José
+O,1,12/10/10,Unión San Felipe,4-2,LDU Quito
+O,1,12/10/10,Tolima,3-0,Banfield
+O,1,13/10/10,Goiás,1-0,Peñarol
+O,1,13/10/10,Atlético-MG,2-0,Santa Fe
+O,1,13/10/10,Emelec,2-1,Avaí
+O,1,14/10/10,Universitario Sucre,0-1,Palmeiras
+O,2,19/10/10,Independiente,4-2,Defensor Sporting
+O,2,19/10/10,LDU Quito,6-1,Unión San Felipe
+O,2,20/10/10,Peñarol,3-2,Goiás
+O,2,20/10/10,Santa Fe,1-0,Atlético-MG
+O,2,20/10/10,Palmeiras,3-1,Universitario Sucre
+O,2,21/10/10,Avaí,3-1,Emelec
+O,2,21/10/10,San José,2-0,Newell's Old Boys
+Q,1,27/10/10,Atlético-MG,1-1,Palmeiras
+Q,1,27/10/10,Goiás,2-2,Avaí
+Q,1,02/11/10,Newell's Old Boys,0-0,LDU Quito
+Q,1,03/11/10,Tolima,2-2,Independiente
+Q,2,10/11/10,LDU Quito,1-0,Newell's Old Boys
+Q,2,10/11/10,Palmeiras,2-0,Atlético-MG
+Q,2,11/11/10,Avaí,0-1,Goiás
+Q,2,11/11/10,Independiente,0-0,Tolima
+S,1,17/11/10,Goiás,0-1,Palmeiras
+S,1,18/11/10,LDU Quito,3-2,Independiente
+S,2,24/11/10,Palmeiras,1-2,Goiás
+S,2,25/11/10,Independiente,2-1,LDU Quito
+F,1,01/12/10,Goiás,2-0,Independiente
+F,2,08/12/10,Independiente,3-1,Goiás

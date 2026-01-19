@@ -1,0 +1,158 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,08/03/22,Sol de América,0-3,General Caballero JLM
+PR,1,08/03/22,Estudiantes de Mérida,0-2,Metropolitanos FC
+PR,1,08/03/22,Royal Pari FC,2-3,Oriente Petrolero
+PR,1,08/03/22,Ñublense,0-0,Unión La Calera
+PR,1,08/03/22,Cienciano,1-1,FBC Melgar
+PR,1,09/03/22,Liverpool Montevideo,0-1,River Plate (URU)
+PR,1,09/03/22,Ayacucho FC,2-0,Sport Boys Callao
+PR,1,09/03/22,Mushuc Runa,0-2,LDU Quito
+PR,1,09/03/22,Independiente Medellín,2-1,América de Cali
+PR,1,10/03/22,Hermanos Colmenarez,2-0,Dep. La Guaira
+PR,1,10/03/22,Unión Española,1-2,Antofagasta
+PR,1,10/03/22,Nacional (PAR),0-1,Guaireña FC
+PR,1,10/03/22,Jorge Wilstermann,4-0,Guabirá
+PR,1,10/03/22,La Equidad,0-0,Junior Barranquilla
+PR,1,10/03/22,Delfín SC,1-1,Nueve de Octubre
+PR,1,10/03/22,Montevideo Wanderers,2-1,Cerro Largo
+PR,2,15/03/22,General Caballero JLM,2-1,Sol de América
+PR,2,15/03/22,Oriente Petrolero,3-0,Royal Pari FC
+PR,2,15/03/22,Metropolitanos FC,4-0,Estudiantes de Mérida
+PR,2,15/03/22,FBC Melgar,1-0,Cienciano
+PR,2,15/03/22,Unión La Calera,2-1,Ñublense
+PR,2,16/03/22,River Plate (URU),2-0,Liverpool Montevideo
+PR,2,16/03/22,Sport Boys Callao,3-2,Ayacucho FC
+PR,2,16/03/22,América de Cali,2-1,Independiente Medellín
+PR,2,16/03/22,LDU Quito,1-1,Mushuc Runa
+PR,2,17/03/22,Antofagasta,0-1,Unión Española
+PR,2,17/03/22,Guaireña FC,0-0,Nacional (PAR)
+PR,2,17/03/22,Cerro Largo,0-1,Montevideo Wanderers
+PR,2,17/03/22,Junior Barranquilla,3-1,La Equidad
+PR,2,17/03/22,Guabirá,3-0,Jorge Wilstermann
+PR,2,17/03/22,Nueve de Octubre,2-0,Delfín SC
+PR,2,19/03/22,Dep. La Guaira,3-0,Hermanos Colmenarez
+FG,1,05/04/22,Ceará,2-1,Independiente
+FG,1,05/04/22,Banfield,1-0,Santos
+FG,1,05/04/22,Universidad Catolica (CHI),0-0,Unión La Calera
+FG,1,05/04/22,Everton,1-1,Jorge Wilstermann
+FG,1,05/04/22,Atlético Goianiense,4-0,LDU Quito
+FG,1,06/04/22,Fluminense,3-0,Oriente Petrolero
+FG,1,06/04/22,Unión,1-1,Junior Barranquilla
+FG,1,06/04/22,General Caballero JLM,1-1,Dep. La Guaira
+FG,1,06/04/22,Nueve de Octubre,2-2,Internacional
+FG,1,06/04/22,Antofagasta,1-3,Defensa y Justicia
+FG,1,07/04/22,River Plate (URU),0-1,Racing Club
+FG,1,07/04/22,Cuiabá,2-0,FBC Melgar
+FG,1,07/04/22,Guaireña FC,3-3,Independiente Medellín
+FG,1,07/04/22,Ayacucho FC,2-3,São Paulo
+FG,1,07/04/22,Barcelona SC,4-2,Montevideo Wanderers
+FG,1,07/04/22,Metropolitanos FC,0-0,Lanús
+FG,2,12/04/22,Dep. La Guaira,0-2,Ceará
+FG,2,12/04/22,Oriente Petrolero,1-3,Unión
+FG,2,12/04/22,LDU Quito,4-0,Antofagasta
+FG,2,12/04/22,Defensa y Justicia,0-1,Atlético Goianiense
+FG,2,12/04/22,Independiente,2-0,General Caballero JLM
+FG,2,13/04/22,Racing Club,2-0,Cuiabá
+FG,2,13/04/22,Santos,3-2,Universidad Catolica (CHI)
+FG,2,13/04/22,FBC Melgar,2-0,River Plate (URU)
+FG,2,13/04/22,Jorge Wilstermann,0-2,Ayacucho FC
+FG,2,13/04/22,Junior Barranquilla,3-0,Fluminense
+FG,2,14/04/22,Montevideo Wanderers,1-1,Metropolitanos FC
+FG,2,14/04/22,Unión La Calera,1-0,Banfield
+FG,2,14/04/22,São Paulo,2-0,Everton
+FG,2,14/04/22,Internacional,1-1,Guaireña FC
+FG,2,14/04/22,Independiente Medellín,2-1,Nueve de Octubre
+FG,2,14/04/22,Lanús,3-1,Barcelona SC
+FG,3,26/04/22,Dep. La Guaira,0-2,Independiente
+FG,3,26/04/22,General Caballero JLM,0-2,Ceará
+FG,3,26/04/22,Fluminense,0-0,Unión
+FG,3,26/04/22,Independiente Medellín,0-1,Internacional
+FG,3,26/04/22,Everton,2-1,Ayacucho FC
+FG,3,27/04/22,Cuiabá,1-2,River Plate (URU)
+FG,3,27/04/22,Guaireña FC,1-0,Nueve de Octubre
+FG,3,27/04/22,FBC Melgar,3-1,Racing Club
+FG,3,27/04/22,Antofagasta,2-1,Atlético Goianiense
+FG,3,27/04/22,Universidad Catolica (CHI),2-0,Banfield
+FG,3,28/04/22,Jorge Wilstermann,1-3,São Paulo
+FG,3,28/04/22,Defensa y Justicia,1-2,LDU Quito
+FG,3,28/04/22,Unión La Calera,1-1,Santos
+FG,3,28/04/22,Montevideo Wanderers,0-1,Lanús
+FG,3,28/04/22,Oriente Petrolero,1-3,Junior Barranquilla
+FG,3,28/04/22,Barcelona SC,1-0,Metropolitanos FC
+FG,4,03/05/22,Cuiabá,1-2,Racing Club
+FG,4,03/05/22,River Plate (URU),1-2,FBC Melgar
+FG,4,03/05/22,Ceará,3-0,Dep. La Guaira
+FG,4,03/05/22,General Caballero JLM,0-4,Independiente
+FG,4,03/05/22,Nueve de Octubre,3-2,Independiente Medellín
+FG,4,04/05/22,Metropolitanos FC,0-1,Montevideo Wanderers
+FG,4,04/05/22,Antofagasta,1-2,LDU Quito
+FG,4,04/05/22,Atlético Goianiense,3-2,Defensa y Justicia
+FG,4,04/05/22,Fluminense,2-1,Junior Barranquilla
+FG,4,04/05/22,Barcelona SC,1-1,Lanús
+FG,5,05/05/22,Guaireña FC,1-1,Internacional
+FG,5,05/05/22,Everton,0-0,São Paulo
+FG,5,05/05/22,Unión,2-0,Oriente Petrolero
+FG,5,05/05/22,Banfield,0-1,Unión La Calera
+FG,5,05/05/22,Universidad Catolica (CHI),0-1,Santos
+FG,5,05/05/22,Ayacucho FC,0-0,Jorge Wilstermann
+FG,5,17/05/22,Ceará,6-0,General Caballero JLM
+FG,5,17/05/22,Internacional,2-0,Independiente Medellín
+FG,5,17/05/22,Banfield,1-1,Universidad Catolica (CHI)
+FG,5,17/05/22,Junior Barranquilla,2-0,Oriente Petrolero
+FG,5,17/05/22,Nueve de Octubre,2-3,Guaireña FC
+FG,5,17/05/22,Atlético Goianiense,1-0,Antofagasta
+FG,5,18/05/22,River Plate (URU),1-2,Cuiabá
+FG,5,18/05/22,Ayacucho FC,0-2,Everton
+FG,5,18/05/22,LDU Quito,2-2,Defensa y Justicia
+FG,5,18/05/22,Racing Club,1-0,FBC Melgar
+FG,5,18/05/22,Santos,1-0,Unión La Calera
+FG,5,19/05/22,Independiente,4-0,Dep. La Guaira
+FG,5,19/05/22,Unión,0-0,Fluminense
+FG,5,19/05/22,São Paulo,3-0,Jorge Wilstermann
+FG,5,19/05/22,Metropolitanos FC,2-2,Barcelona SC
+FG,5,19/05/22,Lanús,1-2,Montevideo Wanderers
+FG,6,24/05/22,Unión La Calera,3-2,Universidad Catolica (CHI)
+FG,6,24/05/22,Santos,1-1,Banfield
+FG,6,24/05/22,LDU Quito,1-1,Atlético Goianiense
+FG,6,24/05/22,Defensa y Justicia,0-2,Antofagasta
+FG,6,24/05/22,Internacional,5-1,Nueve de Octubre
+FG,6,24/05/22,Independiente Medellín,1-1,Guaireña FC
+FG,6,25/05/22,Montevideo Wanderers,0-0,Barcelona SC
+FG,6,25/05/22,Jorge Wilstermann,0-2,Everton
+FG,6,25/05/22,São Paulo,1-0,Ayacucho FC
+FG,6,25/05/22,Lanús,1-0,Metropolitanos FC
+FG,6,25/05/22,Independiente,0-2,Ceará
+FG,6,25/05/22,Dep. La Guaira,0-1,General Caballero JLM
+FG,6,26/05/22,Racing Club,0-1,River Plate (URU)
+FG,6,26/05/22,FBC Melgar,3-1,Cuiabá
+FG,6,26/05/22,Junior Barranquilla,0-4,Unión
+FG,6,26/05/22,Oriente Petrolero,1-10,Fluminense
+O,1,28/06/22,Nacional (URU),2-0,Unión
+O,1,28/06/22,Colo-Colo,2-0,Internacional
+O,1,29/06/22,The Strongest,1-2,Ceará
+O,1,29/06/22,Deportivo Táchira,1-1,Santos
+O,1,29/06/22,Deportivo Cali,0-0,FBC Melgar
+O,1,30/06/22,Indep. del Valle,2-1,Lanús
+O,1,30/06/22,Universidad Católica (CHI),2-4,São Paulo
+O,1,30/06/22,Olimpia,2-0,Atlético Goianiense
+O,2,05/07/22,Unión,1-2,Nacional (URU)
+O,2,05/07/22,Internacional,4-1,Colo-Colo
+O,2,06/07/22,Ceará,3-0,The Strongest
+O,2,06/07/22,Santos,1-1,Deportivo Táchira
+O,2,06/07/22,FBC Melgar,2-1,Deportivo Cali
+O,2,07/07/22,Lanús,0-0,Indep. del Valle
+O,2,07/07/22,Atlético Goianiense,2-0,Olimpia
+O,2,07/07/22,São Paulo,4-1,Universidad Católica (CHI)
+Q,1,02/08/22,Nacional (URU),0-1,Atlético Goianiense
+Q,1,02/08/22,Deportivo Táchira,0-1,Indep. del Valle
+Q,1,03/08/22,São Paulo,1-0,Ceará
+Q,1,04/08/22,FBC Melgar,0-0,Internacional
+Q,2,09/08/22,Atlético Goianiense,3-0,Nacional (URU)
+Q,2,09/08/22,Indep. del Valle,4-1,Deportivo Táchira
+Q,2,10/08/22,Ceará,2-1,São Paulo
+Q,2,11/08/22,Internacional,0-0,FBC Melgar
+S,1,31/08/22,Indep. del Valle,3-0,FBC Melgar
+S,1,01/09/22,Atlético Goianiense,3-1,São Paulo
+S,2,07/09/22,FBC Melgar,0-3,Indep. del Valle
+S,2,08/09/22,São Paulo,2-0,Atlético Goianiense
+F,1,01/10/22,São Paulo,0-2,Indep. del Valle

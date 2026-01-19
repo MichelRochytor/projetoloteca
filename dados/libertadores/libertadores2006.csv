@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,24/01/06,Colo-Colo,1-3,Chivas
+PR,1,24/01/06,Nacional,2-2,Universitario
+PR,1,25/01/06,Palmeiras,2-0,Deportivo Táchira
+PR,1,26/01/06,River Plate,6-0,Oriente Petrolero
+PR,1,27/01/06,Deportivo Cuenca,1-1,Goiás
+PR,1,27/01/06,Defensor Sporting,2-2,Santa Fe
+PR,2,31/01/06,Chivas,5-3,Colo-Colo
+PR,2,31/01/06,Universitario,0-0,Nacional
+PR,2,01/02/06,Goiás,3-0,Deportivo Cuenca
+PR,2,01/02/06,Deportivo Táchira,2-4,Palmeiras
+PR,2,02/02/06,Oriente Petrolero,0-2,River Plate
+PR,2,03/02/06,Santa Fe,0-0,Defensor Sporting
+FG,1,07/02/06,Rocha FC,0-0,Universitario
+FG,1,07/02/06,Bolívar,1-0,Estudiantes
+FG,1,08/02/06,LDU Quito,1-3,Vélez Sarsfield
+FG,1,08/02/06,Nacional,2-0,Pumas
+FG,1,08/02/06,Universidad Católica,3-2,Tigres
+FG,1,09/02/06,Cienciano,0-1,Chivas
+FG,1,09/02/06,The Strongest,3-2,Newell's Old Boys
+FG,1,09/02/06,Atlético Nacional,1-0,Rosario Central
+FG,1,10/02/06,Sporting Cristal,1-2,Santa Fe
+FG,2,14/02/06,Unión Española,0-2,Goiás
+FG,2,14/02/06,Vélez Sarsfield,3-0,Rocha FC
+FG,2,15/02/06,El Nacional,1-1,Paulista
+FG,2,15/02/06,Cerro Porteño,0-0,Palmeiras
+FG,2,15/02/06,Deportivo Cali,0-1,Corinthians
+FG,2,15/02/06,Santa Fe,2-2,Bolívar
+FG,2,16/02/06,UA Maracaibo,1-1,Internacional
+FG,2,16/02/06,Libertad,2-0,River Plate
+FG,2,17/02/06,Universitario,1-2,LDU Quito
+FG,3,21/02/06,Newell's Old Boys,2-0,Unión Española
+FG,3,21/02/06,Estudiantes,4-3,Sporting Cristal
+FG,3,21/02/06,Tigres,5-4,Deportivo Cali
+FG,3,22/02/06,Goiás,2-0,The Strongest
+FG,3,22/02/06,Corinthians,2-2,Universidad Católica
+FG,3,23/02/06,Pumas,0-1,UA Maracaibo
+FG,3,23/02/06,Internacional,3-0,Nacional
+FG,3,23/02/06,Rosario Central,0-2,Cerro Porteño
+FG,4,28/02/06,Unión Española,1-0,The Strongest
+FG,4,01/03/06,Caracas FC,1-2,São Paulo
+FG,4,02/03/06,Paulista,0-0,Libertad
+FG,4,02/03/06,Palmeiras,3-2,Atlético Nacional
+FG,4,07/03/06,Rocha FC,3-2,LDU Quito
+FG,4,07/03/06,Universitario,0-1,Vélez Sarsfield
+FG,4,07/03/06,Chivas,1-1,Caracas FC
+FG,4,08/03/06,Sporting Cristal,2-1,Bolívar
+FG,4,08/03/06,River Plate,4-3,El Nacional
+FG,4,08/03/06,São Paulo,4-1,Cienciano
+FG,4,09/03/06,Pumas,1-2,Internacional
+FG,4,09/03/06,Nacional,0-0,UA Maracaibo
+FG,5,09/03/06,Santa Fe,3-1,Estudiantes
+FG,5,09/03/06,Tigres,2-0,Corinthians
+FG,5,14/03/06,Vélez Sarsfield,4-3,Universitario
+FG,5,14/03/06,Cerro Porteño,1-5,Atlético Nacional
+FG,5,14/03/06,Cienciano,2-1,Caracas FC
+FG,5,15/03/06,Goiás,3-0,Newell's Old Boys
+FG,5,15/03/06,Palmeiras,0-0,Rosario Central
+FG,5,15/03/06,Bolívar,1-2,Sporting Cristal
+FG,5,16/03/06,UA Maracaibo,2-3,Nacional
+FG,5,16/03/06,River Plate,4-1,Paulista
+FG,5,16/03/06,LDU Quito,5-0,Rocha FC
+FG,6,21/03/06,Estudiantes,1-0,Santa Fe
+FG,6,21/03/06,Universidad Católica,2-1,Deportivo Cali
+FG,6,21/03/06,Chivas,2-1,São Paulo
+FG,6,22/03/06,Newell's Old Boys,0-0,Goiás
+FG,6,22/03/06,Corinthians,1-0,Tigres
+FG,6,23/03/06,Libertad,4-1,El Nacional
+FG,6,23/03/06,Internacional,3-2,Pumas
+FG,6,23/03/06,Rosario Central,2-2,Palmeiras
+FG,6,23/03/06,Atlético Nacional,2-2,Cerro Porteño
+FG,6,28/03/06,Caracas FC,4-0,Cienciano
+FG,6,28/03/06,Bolívar,1-0,Santa Fe
+FG,6,29/03/06,The Strongest,0-1,Unión Española
+FG,6,30/03/06,UA Maracaibo,3-0,Pumas
+FG,6,30/03/06,El Nacional,1-1,Libertad
+FG,6,30/03/06,Deportivo Cali,2-3,Universidad Católica
+FG,6,04/04/06,Nacional,0-0,Internacional
+FG,6,04/04/06,Atlético Nacional,1-2,Palmeiras
+FG,6,04/04/06,Sporting Cristal,2-2,Estudiantes
+FG,6,05/04/06,Paulista,2-1,River Plate
+FG,6,05/04/06,The Strongest,1-0,Goiás
+FG,6,05/04/06,São Paulo,1-2,Chivas
+FG,6,06/04/06,LDU Quito,4-0,Universitario
+FG,6,06/04/06,Cerro Porteño,1-3,Rosario Central
+FG,6,06/04/06,Universidad Católica,2-3,Corinthians
+FG,6,11/04/06,Rocha FC,0-5,Vélez Sarsfield
+FG,6,11/04/06,Unión Española,1-1,Newell's Old Boys
+FG,6,11/04/06,Deportivo Cali,2-2,Tigres
+FG,6,12/04/06,Libertad,1-0,Paulista
+FG,6,12/04/06,Caracas FC,0-0,Chivas
+FG,6,12/04/06,Estudiantes,2-1,Bolívar
+FG,6,12/04/06,Santa Fe,2-1,Sporting Cristal
+FG,6,12/04/06,Palmeiras,2-3,Cerro Porteño
+FG,6,12/04/06,Rosario Central,1-2,Atlético Nacional
+FG,6,12/04/06,El Nacional,2-0,River Plate
+FG,6,12/04/06,Cienciano,0-2,São Paulo
+FG,6,17/04/06,Internacional,4-0,UA Maracaibo
+FG,6,17/04/06,Universitario,1-1,Rocha FC
+FG,6,17/04/06,Pumas,1-1,Nacional
+FG,6,17/04/06,Vélez Sarsfield,2-2,LDU Quito
+FG,6,18/04/06,Corinthians,3-0,Deportivo Cali
+FG,6,18/04/06,Goiás,0-0,Unión Española
+FG,6,18/04/06,Tigres,1-0,Universidad Católica
+FG,6,18/04/06,Newell's Old Boys,2-0,The Strongest
+FG,6,19/04/06,Chivas,0-0,Cienciano
+FG,6,19/04/06,São Paulo,2-0,Caracas FC
+FG,6,19/04/06,Paulista,0-0,El Nacional
+FG,6,19/04/06,River Plate,1-0,Libertad
+O,1,24/04/06,LDU Quito,4-0,Atlético Nacional
+O,1,24/04/06,Estudiantes,2-0,Goiás
+O,1,26/04/06,Palmeiras,1-1,São Paulo
+O,1,26/04/06,River Plate,3-2,Corinthians
+O,1,26/04/06,Chivas,3-0,Santa Fe
+O,1,27/04/06,Nacional,1-2,Internacional
+O,1,27/04/06,Newell's Old Boys,2-4,Vélez Sarsfield
+O,1,27/04/06,Tigres,0-0,Libertad
+O,2,02/05/06,Atlético Nacional,0-1,LDU Quito
+O,2,02/05/06,Santa Fe,3-1,Chivas
+O,2,03/05/06,Vélez Sarsfield,2-2,Newell's Old Boys
+O,2,03/05/06,Internacional,0-0,Nacional
+O,2,03/05/06,São Paulo,2-1,Palmeiras
+O,2,04/05/06,Libertad,0 (5)-0 (3),Tigres
+O,2,04/05/06,Goiás,3-1,Estudiantes
+O,2,04/05/06,Corinthians,1-3,River Plate
+Q,1,09/05/06,Chivas,0-0,Vélez Sarsfield
+Q,1,10/05/06,LDU Quito,2-1,Internacional
+Q,1,10/05/06,Estudiantes,1-0,São Paulo
+Q,1,11/05/06,River Plate,2-2,Libertad
+Q,2,18/07/06,Libertad,3-1,River Plate
+Q,2,19/07/06,Internacional,2-0,LDU Quito
+Q,2,19/07/06,São Paulo,1 (4)-0 (3),Estudiantes
+Q,2,20/07/06,Vélez Sarsfield,1-2,Chivas
+S,1,26/07/06,Chivas,0-1,São Paulo
+S,1,27/07/06,Libertad,0-0,Internacional
+S,2,02/08/06,São Paulo,3-0,Chivas
+S,2,03/08/06,Internacional,2-0,Libertad
+F,1,09/08/06,São Paulo,1-2,Internacional
+F,2,16/08/06,Internacional,2-2,São Paulo

@@ -1,0 +1,56 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,31/07/07,Audax Italiano,2-0,Universidad Católica
+PR,1,01/08/07,Real Potosí,1-1,Jorge Wilstermann
+PR,1,02/08/07,Millonarios,0-1,Atlético Nacional
+PR,1,07/08/07,Universitario,0-1,Coronel Bolognesi
+PR,1,07/08/07,Defensor Sporting,2-2,Danubio
+PR,1,08/08/07,Tacuary,1-1,Danubio
+PR,1,09/08/07,Olmedo,1-0,El Nacional
+PR,1,14/08/07,Arsenal de Sarandí,1-1,San Lorenzo
+PR,1,15/08/07,Figueirense,2-2,São Paulo
+PR,1,15/08/07,Athletico-PR,2-4,Vasco
+PR,1,16/08/07,Goiás,2-0,Cruzeiro
+PR,1,16/08/07,Carabobo,0-1,El Nacional
+PR,1,22/08/07,Botafogo,3-1,Corinthians
+PR,2,07/08/07,Universidad Católica,1-1,Audax Italiano
+PR,2,14/08/07,Jorge Wilstermann,1-1,Real Potosí
+PR,2,21/08/07,Coronel Bolognesi,1-0,Universitario
+PR,2,23/08/07,Atlético Nacional,2-3,Millonarios
+PR,2,28/08/07,El Nacional,0-1,Zamora
+PR,2,31/08/07,Olmedo,2-1,Carabobo
+PR,2,04/09/07,Danubio,1-3,Defensor Sporting
+PR,2,05/09/07,San Lorenzo,0-3,Arsenal de Sarandí
+PR,2,05/09/07,Cruzeiro,1-0,Goiás
+PR,2,06/09/07,São Paulo,1-1,Figueirense
+PR,2,12/09/07,Vasco,2-0,Athletico-PR
+PR,2,12/09/07,Corinthians,1-2,Botafogo
+O,1,19/09/07,Goiás,2-3,Arsenal de Sarandí
+O,1,19/09/07,Boca Juniors,2-1,São Paulo
+O,1,19/09/07,Vasco,2-0,Lanús
+O,1,19/09/07,Botafogo,1-0,River Plate
+O,1,20/09/07,Millonarios,1-1,Colo-Colo
+O,1,25/09/07,Pachuca,1-4,Club América
+O,1,25/09/07,DC United,2-1,Guadalajara
+O,1,26/09/07,Defensor Sporting,3-0,El Nacional
+O,2,26/09/07,Arsenal de Sarandí,1-1,Goiás
+O,2,26/09/07,São Paulo,1-0,Boca Juniors
+O,2,27/09/07,River Plate,4-2,Botafogo
+O,2,02/10/07,Guadalajara,1-0,DC United
+O,2,03/10/07,Club América,0-0,Pachuca
+O,2,04/10/07,Colo-Colo,1-1,Millonarios
+O,2,23/10/07,Lanús,2-0,Vasco
+O,2,24/10/07,El Nacional,2-0,Defensor Sporting
+Q,1,10/10/07,Arsenal de Sarandí,0-0,Guadalajara
+Q,1,10/10/07,São Paulo,0-1,Millonarios
+Q,1,24/10/07,Club América,2-0,Vasco
+Q,1,25/10/07,Defensor Sporting,2-2,River Plate
+Q,2,24/10/07,Guadalajara,1-3,Arsenal de Sarandí
+Q,2,24/10/07,Millonarios,2-0,São Paulo
+Q,2,30/10/07,River Plate,0-0,Defensor Sporting
+Q,2,30/07/07,Vasco,1-0,Club América
+S,1,07/11/07,Millonarios,2-3,Club América
+S,1,08/11/07,Arsenal de Sarandí,0-0,River Plate
+S,2,13/11/07,Club América,2-0,Millonarios
+S,2,14/11/07,River Plate,0-0,Arsenal de Sarandí
+F,1,30/11/07,Club América,2-3,Arsenal de Sarandí
+F,2,05/12/07,Arsenal de Sarandí,1-2,Club América

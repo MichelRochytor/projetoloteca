@@ -1,0 +1,93 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR1,1,30/07/13,Inti Gas,0-1,Atlético Nacional
+PR1,1,30/07/13,LDU de Loja,2-0,Deportivo Lara
+PR1,1,30/07/13,Águilas Doradas,3-0,Juan Aurich
+PR1,1,30/07/13,Real Potosí,3-1,Universidad de Chile
+PR1,1,30/07/13,Nacional,0-0,The Strongest
+PR1,1,30/07/13,Trujillanos FC,0-1,La Equidad
+PR1,1,31/07/13,Sport Huancayo,1-3,Emelec
+PR1,1,31/07/13,El Tanque Sisley,0-1,Colo-Colo
+PR1,1,31/07/13,Blooming,0-1,River Plate (URU)
+PR1,1,31/07/13,Deportivo Pasto,3-0,FBC Melgar
+PR1,1,31/07/13,Univ. Católica,1-1,Cerro Porteño
+PR1,1,01/08/13,Independiente José Terán,0-0,Anzoátegui
+PR1,1,01/08/13,Montevideo Wanderers,1-2,Libertad
+PR1,1,01/08/13,Cobreloa,0-0,Peñarol
+PR1,1,01/08/13,Mineros,2-2,Barcelona SC
+PR1,1,01/08/13,Guaraní,0-0,Oriente Petrolero
+PR1,2,06/08/13,FBC Melgar,2-0,Deportivo Pasto
+PR1,2,06/08/13,River Plate (URU),4-0,Blooming
+PR1,2,06/08/13,Universidad de Chile,5-0,Real Potosí
+PR1,2,06/08/13,Deportivo Lara,1-1,LDU de Loja
+PR1,2,06/08/13,Atlético Nacional,4-0,Inti Gas
+PR1,2,07/08/13,Emelec,4-0,Sport Huancayo
+PR1,2,07/08/13,Cerro Porteño,0-1,Univ. Católica
+PR1,2,07/08/13,The Strongest,1-1,Nacional
+PR1,2,07/08/13,Juan Aurich,2-3,Águilas Doradas
+PR1,2,07/08/13,La Equidad,0-0,Trujillanos FC
+PR1,2,07/08/13,Colo-Colo,2-0,El Tanque Sisley
+PR1,2,08/08/13,Peñarol,0-2,Cobreloa
+PR1,2,08/08/13,Barcelona SC,0-2,Mineros
+PR1,2,08/08/13,Oriente Petrolero,1-4,Guaraní
+PR1,2,08/08/13,Libertad,0-0,Montevideo Wanderers
+PR1,2,08/08/13,Anzoátegui,0-2,Independiente José Terán
+PR2,1,13/08/13,Belgrano,1-0,Vélez Sarsfield
+PR2,1,14/08/13,Racing Club,1-2,Lanús
+PR2,1,20/08/13,Sport Recife,2-0,Náutico
+PR2,1,20/08/13,Univ. Católica,4-0,Emelec
+PR2,1,20/08/13,Guaraní,0-2,Atlético Nacional
+PR2,1,20/08/13,La Equidad,0-0,Cobreloa
+PR2,1,21/08/13,Águilas Doradas,1-0,River Plate (URU)
+PR2,1,21/08/13,Libertad,2-0,Mineros
+PR2,1,21/08/13,Criciúma,1-2,Ponte Preta
+PR2,1,21/08/13,Vitória,1-0,Coritiba
+PR2,1,21/08/13,Universidad de Chile,1-1,Independiente José Terán
+PR2,1,22/08/13,LDU de Loja,0-0,Nacional
+PR2,1,22/08/13,San Lorenzo,0-1,River Plate
+PR2,1,22/08/13,Portuguesa,1-2,Bahia
+PR2,1,22/08/13,Deportivo Pasto,1-0,Colo-Colo
+PR2,2,27/08/13,Emelec,2-3,Univ. Católica
+PR2,2,27/08/13,Ponte Preta,0-0,Criciúma
+PR2,2,27/08/13,Coritiba,1-0,Vitória
+PR2,2,27/08/13,Atlético Nacional,0-0,Guaraní
+PR2,2,28/08/13,River Plate (URU),0-0,Águilas Doradas
+PR2,2,28/08/13,Lanús,2-0,Racing Club
+PR2,2,28/08/13,Náutico,2-0,Sport Recife
+PR2,2,28/08/13,Bahia,0-0,Portuguesa
+PR2,2,28/08/13,Mineros,1-2,Libertad
+PR2,2,28/08/13,Colo-Colo,0-2,Deportivo Pasto
+PR2,2,29/08/13,Independiente José Terán,1-3,Universidad de Chile
+PR2,2,29/08/13,Nacional,0-1,LDU de Loja
+PR2,2,29/08/13,Cobreloa,1-1,La Equidad
+PR2,2,29/08/13,Vélez Sarsfield,2-0,Belgrano
+PR2,2,05/09/13,River Plate,0-0,San Lorenzo
+O,1,18/09/13,Lanús,4-0,Universidad de Chile
+O,1,18/09/13,La Equidad,1-2,Vélez Sarsfield
+O,1,19/09/13,LDU de Loja,2-1,River Plate
+O,1,24/09/13,Coritiba,0-1,Águilas Doradas
+O,1,25/09/13,Ponte Preta,2-0,Deportivo Pasto
+O,2,25/09/13,Universidad de Chile,1-0,Lanús
+O,1,25/09/13,Libertad,2-0,Sport Recife
+O,2,26/09/13,River Plate,2-0,LDU de Loja
+O,1,26/09/13,Atlético Nacional,1-0,Bahia
+O,1,26/09/13,São Paulo,1-1,Univ. Católica
+O,2,02/10/13,Vélez Sarsfield,2-1,La Equidad
+O,2,22/10/13,Deportivo Pasto,1-0,Ponte Preta
+O,2,23/10/13,Univ. Católica,3-4,São Paulo
+O,2,23/10/13,Sport Recife,1-2,Libertad
+O,2,24/10/13,Bahia,1-0,Atlético Nacional
+O,2,24/10/13,Águilas Doradas,2-1,Coritiba
+Q,1,29/10/13,Lanús,0-0,River Plate
+Q,1,30/10/13,São Paulo,3-2,Atlético Nacional
+Q,1,31/10/13,Ponte Preta,0-0,Vélez Sarsfield
+Q,1,31/10/13,Libertad,2-0,Águilas Doradas
+Q,2,06/11/13,River Plate,1-3,Lanús
+Q,2,06/11/13,Atlético Nacional,0-0,São Paulo
+Q,2,07/11/13,Vélez Sarsfield,0-2,Ponte Preta
+Q,2,07/11/13,Águilas Doradas,1-0,Libertad
+S,1,20/11/13,São Paulo,1-3,Ponte Preta
+S,1,21/11/13,Libertad,1-2,Lanús
+S,2,27/11/13,Ponte Preta,1-1,São Paulo
+S,2,28/11/13,Lanús,2-1,Libertad
+F,1,04/12/13,Ponte Preta,1-1,Lanús
+F,2,11/12/13,Lanús,2-0,Ponte Preta

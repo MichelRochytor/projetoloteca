@@ -1,0 +1,157 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,23/01/17,Universitario Sucre,3-2,Montevideo Wanderers
+PR,1,23/01/17,Deportivo Capiatá,1-0,Deportivo Táchira
+PR,1,23/01/17,Deportivo Municipal,0-1,Independiente del Valle
+PR,2,27/01/17,Montevideo Wanderers,5-2,Universitario Sucre
+PR,2,27/01/17,Independiente del Valle,2-2,Deportivo Municipal
+PR,2,27/01/17,Deportivo Táchira,0-0,Deportivo Capiatá
+PR,1,31/01/17,CA Cerro,2-3,Unión Española
+PR,1,31/01/17,Carabobo,0-1,Junior Barranquilla
+PR,1,31/01/17,Atlético Tucumán,2-2,El Nacional
+PR,1,01/02/17,Athletico-PR,1-0,Millonarios
+PR,1,01/02/17,Botafogo,2-1,Colo-Colo
+PR,1,02/02/17,Montevideo Wanderers,0-2,The Strongest
+PR,1,02/02/17,Independiente del Valle,1-0,Olimpia
+PR,1,02/02/17,Deportivo Capiatá,1-3,Universitario
+PR,2,07/02/17,Junior Barranquilla,3-0,Carabobo
+PR,2,07/02/17,Unión Española,2-0,CA Cerro
+PR,2,07/02/17,El Nacional,0-1,Atlético Tucumán
+PR,2,08/02/17,Millonarios,1-0,Athletico-PR
+PR,2,08/02/17,Colo-Colo,1-1,Botafogo
+PR,2,09/02/17,The Strongest,4-0,Montevideo Wanderers
+PR,2,09/02/17,Olimpia,3-1,Independiente del Valle
+PR,2,09/02/17,Universitario,0-3,Deportivo Capiatá
+PR,1,15/02/17,Botafogo,1-0,Olimpia
+PR,1,15/02/17,Athletico-PR,3-3,Deportivo Capiatá
+PR,1,16/02/17,Junior Barranquilla,1-0,Atlético Tucumán
+PR,1,16/02/17,Unión Española,1-1,The Strongest
+PR,2,22/02/17,Deportivo Capiatá,0-1,Athletico-PR
+PR,2,22/02/17,Olimpia,1-0,Botafogo
+PR,2,23/02/17,Atlético Tucumán,3-1,Junior Barranquilla
+PR,2,23/02/17,The Strongest,5-0,Unión Española
+FG,1,07/03/17,Deportes Iquique,0-1,Guaraní
+FG,1,07/03/17,Jorge Wilstermann,6-2,Peñarol
+FG,1,07/03/17,Athletico-PR,2-2,Universidad Católica
+FG,1,07/03/17,Zulia,1-2,Chapecoense
+FG,1,08/03/17,Sport Boys Warnes,3-3,Libertad
+FG,1,08/03/17,Godoy Cruz,1-1,Atlético-MG
+FG,1,08/03/17,Atlético Tucumán,1-1,Palmeiras
+FG,1,08/03/17,Flamengo,4-0,San Lorenzo
+FG,1,09/03/17,Zamora FC,0-2,Grêmio
+FG,1,09/03/17,Lanús,0-1,Nacional
+FG,1,09/03/17,The Strongest,2-0,Santa Fe
+FG,1,09/03/17,Sporting Cristal,1-1,Santos
+FG,1,14/03/17,FBC Melgar,1-0,Emelec
+FG,1,14/03/17,Botafogo,2-1,Estudiantes
+FG,1,14/03/17,Barcelona SC,2-1,Atlético Nacional
+FG,2,15/03/17,San Lorenzo,0-1,Athletico-PR
+FG,2,15/03/17,Nacional,0-1,Zulia
+FG,1,15/03/17,Independiente Medellín,1-3,River Plate
+FG,2,15/03/17,Palmeiras,1-0,Jorge Wilstermann
+FG,2,15/03/17,Universidad Católica,1-0,Flamengo
+FG,2,16/03/17,Chapecoense,1-3,Lanús
+FG,2,16/03/17,Peñarol,2-1,Atlético Tucumán
+FG,2,16/03/17,Santos,2-0,The Strongest
+FG,2,16/03/17,Santa Fe,3-0,Sporting Cristal
+FG,2,11/04/17,Jorge Wilstermann,2-1,Atlético Tucumán
+FG,2,11/04/17,Libertad,1-2,Godoy Cruz
+FG,2,11/04/17,Estudiantes,0-2,Barcelona SC
+FG,2,11/04/17,Grêmio,3-2,Deportes Iquique
+FG,2,12/04/17,Guaraní,3-1,Zamora FC
+FG,3,12/04/17,Universidad Católica,1-1,San Lorenzo
+FG,3,12/04/17,Palmeiras,3-2,Peñarol
+FG,2,12/04/17,Flamengo,2-1,Athletico-PR
+FG,2,13/04/17,Atlético-MG,5-2,Sport Boys Warnes
+FG,2,13/04/17,Emelec,1-0,Independiente Medellín
+FG,2,13/04/17,River Plate,4-2,FBC Melgar
+FG,2,13/04/17,Atlético Nacional,0-2,Botafogo
+FG,3,18/04/17,Lanús,5-0,Zulia
+FG,3,18/04/17,Chapecoense,1-1,Nacional
+FG,3,18/04/17,Sporting Cristal,0-0,The Strongest
+FG,3,19/04/17,Estudiantes,1-0,Atlético Nacional
+FG,3,19/04/17,Zamora FC,1-4,Deportes Iquique
+FG,3,19/04/17,Libertad,1-0,Atlético-MG
+FG,3,19/04/17,Santa Fe,0-0,Santos
+FG,3,20/04/17,Godoy Cruz,2-0,Sport Boys Warnes
+FG,3,20/04/17,Guaraní,1-1,Grêmio
+FG,3,20/04/17,Independiente Medellín,2-0,FBC Melgar
+FG,3,20/04/17,Barcelona SC,1-1,Botafogo
+FG,4,25/04/17,Deportes Iquique,4-3,Zamora FC
+FG,4,25/04/17,Atlético Tucumán,2-1,Jorge Wilstermann
+FG,4,25/04/17,San Lorenzo,2-1,Universidad Católica
+FG,4,26/04/17,Atlético-MG,2-0,Libertad
+FG,4,26/04/17,FBC Melgar,1-2,Independiente Medellín
+FG,3,26/04/17,Athletico-PR,2-1,Flamengo
+FG,4,26/04/17,Peñarol,2-3,Palmeiras
+FG,4,27/04/17,Nacional,3-0,Chapecoense
+FG,4,27/04/17,Zulia,1-1,Lanús
+FG,3,27/04/17,Emelec,1-2,River Plate
+FG,4,27/04/17,Sport Boys Warnes,1-3,Godoy Cruz
+FG,4,27/04/17,Grêmio,4-1,Guaraní
+FG,5,02/05/17,Atlético Tucumán,2-1,Peñarol
+FG,4,02/05/17,Atlético Nacional,4-1,Estudiantes
+FG,4,02/05/17,Botafogo,0-2,Barcelona SC
+FG,5,03/05/17,Deportes Iquique,2-1,Grêmio
+FG,5,03/05/17,Sport Boys Warnes,1-5,Atlético-MG
+FG,5,03/05/17,Athletico-PR,0-3,San Lorenzo
+FG,5,03/05/17,Jorge Wilstermann,3-2,Palmeiras
+FG,4,03/05/17,Flamengo,3-1,Universidad Católica
+FG,4,04/05/17,The Strongest,5-1,Sporting Cristal
+FG,5,04/05/17,Godoy Cruz,1-1,Libertad
+FG,4,04/05/17,Santos,3-2,Santa Fe
+FG,5,04/05/17,Zamora FC,1-3,Guaraní
+FG,4,10/05/17,River Plate,1-1,Emelec
+FG,5,16/05/17,Zulia,0-0,Nacional
+FG,6,16/05/17,Atlético-MG,4-1,Godoy Cruz
+FG,6,16/05/17,Libertad,1-1,Sport Boys Warnes
+FG,5,16/05/17,Independiente Medellín,1-2,Emelec
+FG,5,17/05/17,Sporting Cristal,0-2,Santa Fe
+FG,5,17/05/17,The Strongest,1-1,Santos
+FG,6,17/05/17,Universidad Católica,2-3,Athletico-PR
+FG,6,17/05/17,Lanús,3-0,Chapecoense
+FG,6,17/05/17,San Lorenzo,2-1,Flamengo
+FG,5,18/05/17,Barcelona SC,0-3,Estudiantes
+FG,6,18/05/17,FBC Melgar,2-3,River Plate
+FG,5,18/05/17,Botafogo,1-0,Atlético Nacional
+FG,6,23/05/17,Chapecoense,2-1,Zulia
+FG,6,23/05/17,Nacional,0-1,Lanús
+FG,6,23/05/17,Santos,4-0,Sporting Cristal
+FG,6,23/05/17,Santa Fe,1-1,The Strongest
+FG,6,24/05/17,Peñarol,2-0,Jorge Wilstermann
+FG,6,24/05/17,Palmeiras,3-1,Atlético Tucumán
+FG,6,25/05/17,River Plate,1-2,Independiente Medellín
+FG,6,25/05/17,Emelec,3-0,FBC Melgar
+FG,6,25/05/17,Estudiantes,1-0,Botafogo
+FG,6,25/05/17,Atlético Nacional,3-1,Barcelona SC
+FG,6,25/05/17,Guaraní,0-0,Deportes Iquique
+FG,6,25/05/17,Grêmio,4-0,Zamora FC
+O,1,04/07/17,Godoy Cruz,0-1,Grêmio
+O,1,04/07/17,Guaraní,0-2,River Plate
+O,1,05/07/17,Athletico-PR,2-3,Santos
+O,1,05/07/17,Jorge Wilstermann,1-0,Atlético-MG
+O,1,05/07/17,Barcelona SC,1-0,Palmeiras
+O,1,06/07/17,The Strongest,1-1,Lanús
+O,1,06/07/17,Nacional,0-1,Botafogo
+O,1,06/07/17,Emelec,0-1,San Lorenzo
+O,2,08/08/17,Lanús,1-0,The Strongest
+O,2,08/08/17,River Plate,1-1,Guaraní
+O,2,09/08/17,Grêmio,2-1,Godoy Cruz
+O,2,09/08/17,Palmeiras,1-0,Barcelona SC
+O,2,09/08/17,Atlético-MG,0-0,Jorge Wilstermann
+O,2,10/08/17,Botafogo,2-0,Nacional
+O,2,10/08/17,San Lorenzo,0-1,Emelec
+O,2,10/08/17,Santos,1-0,Athletico-PR
+Q,1,13/09/17,San Lorenzo,2-0,Lanús
+Q,1,13/09/17,Botafogo,0-0,Grêmio
+Q,1,13/09/17,Barcelona SC,1-1,Santos
+Q,1,14/09/17,Jorge Wilstermann,3-0,River Plate
+Q,2,20/09/17,Santos,0-1,Barcelona SC
+Q,2,20/09/17,Grêmio,1-0,Botafogo
+Q,2,21/09/17,River Plate,8-0,Jorge Wilstermann
+Q,2,21/09/17,Lanús,2-0,San Lorenzo
+S,1,24/10/17,River Plate,1-0,Lanús
+S,1,25/10/17,Barcelona SC,0-3,Grêmio
+S,2,31/10/17,Lanús,4-2,River Plate
+S,2,01/11/17,Grêmio,0-1,Barcelona SC
+F,1,22/11/17,Grêmio,1-0,Lanús
+F,2,29/11/17,Lanús,1-2,Grêmio

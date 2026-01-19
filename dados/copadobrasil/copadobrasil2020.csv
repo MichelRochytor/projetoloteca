@@ -1,0 +1,121 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+R1,1,05/02/20,Barbalha,0-3,Operário Ferroviário
+R1,1,05/02/20,Independente Tucuruí,2-3,CRB
+R1,1,05/02/20,Coruripe,0-0,Juventude
+R1,1,05/02/20,Santo André,4-1,Criciúma
+R1,1,05/02/20,Vilhenense,1-1,Boa Esporte
+R1,1,05/02/20,Santos-AP,1-1,América-MG
+R1,1,05/02/20,Bahia de Feira,3-1,Luverdense
+R1,1,05/02/20,XV de Piracicaba,1-0,Londrina
+R1,1,05/02/20,São Luiz,0-0,América-RN
+R1,1,05/02/20,CEOV Operário,0-0,Santa Cruz
+R1,1,05/02/20,Aquidauanense,0-1,ABC
+R1,1,05/02/20,Palmas,0-2,Paraná
+R1,1,05/02/20,Caxias,1-1,Botafogo
+R1,1,05/02/20,River-PI,1-0,Bahia
+R1,1,05/02/20,Fast Clube,0-2,Goiás
+R1,1,06/02/20,Grêmio Novorizontino,1-2,Figueirense
+R1,1,06/02/20,Brasiliense,1-1,Paysandu
+R1,1,06/02/20,Vitória-ES,2-1,CSA
+R1,1,06/02/20,União Rondonópolis,0-1,Atlético-GO
+R1,1,11/02/20,Imperatriz,0-0,Vitória
+R1,1,12/02/20,Bragantino-PA,1-2,Ceará
+R1,1,12/02/20,Caucaia,1-2,São José-RS
+R1,1,12/02/20,Frei Paulistano,1-2,Remo
+R1,1,12/02/20,Bangu,1-1,Oeste
+R1,1,12/02/20,Brusque,2-1,Sport
+R1,1,12/02/20,Atlético-BA,0-0,Botafogo-PB
+R1,1,12/02/20,Gama,3-3,GE Brasil
+R1,1,12/02/20,Altos,1-1,Vasco
+R1,1,12/02/20,Galvez EC,0-1,Vila Nova
+R1,1,12/02/20,Toledo,0-2,Náutico
+R1,1,12/02/20,Águia Negra,2-1,Sampaio Corrêa
+R1,1,12/02/20,Campinense,0-0,Atlético-MG
+R1,1,12/02/20,Manaus FC,1-0,Coritiba
+R1,1,13/02/20,Ferroviária,2-0,Avaí
+R1,1,13/02/20,Novo Hamburgo,1-2,Ponte Preta
+R1,1,13/02/20,Afogados da Ingazeira,3-0,Atlético-AC
+R1,1,13/02/20,São Raimundo-RR,2-2,Cruzeiro
+R1,1,19/02/20,Lagarto-SE,1-0,Volta Redonda
+R1,1,19/02/20,Boavista-RJ,0-2,Chapecoense
+R1,1,26/02/20,Moto Club,2-4,Fluminense
+R2,1,18/02/20,Vitória-ES,0-1,Figueirense
+R2,1,19/02/20,Paysandu,1-1,CRB
+R2,1,19/02/20,Oeste,1-1,Ceará
+R2,1,19/02/20,Náutico,1-1,Botafogo
+R2,1,20/02/20,Brusque,5-1,Remo
+R2,1,26/02/20,XV de Piracicaba,1-1,Juventude
+R2,1,26/02/20,Paraná,3-2,Bahia de Feira
+R2,1,26/02/20,River-PI,1-1,América-RN
+R2,1,26/02/20,Ferroviária,6-2,Águia Negra
+R2,1,26/02/20,Afogados da Ingazeira,2-2,Atlético-MG
+R2,1,27/02/20,São José-RS,0-0,Chapecoense
+R2,1,27/02/20,Ponte Preta,0-0,Vila Nova
+R2,1,04/03/20,Fluminense,2-0,Botafogo-PB
+R2,1,04/03/20,Santo André,0-2,Goiás
+R2,1,04/03/20,GE Brasil,1-0,Manaus FC
+R2,1,04/03/20,Boa Esporte,1-1,Cruzeiro
+R2,1,04/03/20,Atlético Goianiense,1-1,Santa Cruz
+R2,1,05/03/20,Vitória,3-1,Lagarto-SE
+R2,1,05/03/20,Operário Ferroviário,0-2,América-MG
+R2,1,05/03/20,Vasco,1-0,ABC
+R3,1,10/03/20,Botafogo,1-0,Paraná
+R3,1,11/03/20,Figueirense,1-0,Fluminense
+R3,1,11/03/20,Ferroviária,0-0,América-MG
+R3,1,11/03/20,Juventude,1-1,América-RN
+R3,1,11/03/20,Atlético Goianiense,2-0,São José-RS
+R3,1,11/03/20,Cruzeiro,0-2,CRB
+R3,1,12/03/20,Ponte Preta,3-0,Afogados da Ingazeira
+R3,1,12/03/20,Ceará,1-0,Vitória
+R3,1,12/03/20,GE Brasil,0-1,Brusque
+R3,1,12/03/20,Vasco,0-1,Goiás
+R3,2,25/08/20,Afogados da Ingazeira,0-2,Ponte Preta
+R3,2,25/08/20,América-MG,1-0,Ferroviária
+R3,2,25/08/20,Fluminense,3-0,Figueirense
+R3,2,26/08/20,CRB,1-1,Cruzeiro
+R3,2,26/08/20,América-RN,1-1,Juventude
+R3,2,26/08/20,Paraná,1-2,Botafogo
+R3,2,26/08/20,Goiás,1-2,Vasco
+R3,2,26/08/20,Vitória,3-4,Ceará
+R3,2,27/08/20,Brusque,1-0,GE Brasil
+R3,2,27/08/20,São José-RS,1-0,Atlético Goianiense
+R4,1,16/09/20,Ponte Preta,2-2,América-MG
+R4,1,16/09/20,Brusque,0-2,Ceará
+R4,1,16/09/20,Fluminense,1-0,Atlético Goianiense
+R4,1,17/09/20,Juventude,2-0,CRB
+R4,1,17/09/20,Botafogo,1-0,Vasco
+R4,2,22/09/20,CRB,1-0,Juventude
+R4,2,22/09/20,América-MG,3-1,Ponte Preta
+R4,2,23/09/20,Ceará,5-1,Brusque
+R4,2,23/09/20,Vasco,0-0,Botafogo
+R4,2,24/09/20,Atlético Goianiense,3-1,Fluminense
+O,1,14/10/20,Fortaleza,3-3,São Paulo
+O,2,25/10/20,São Paulo,2-2,Fortaleza
+O,1,27/10/20,Botafogo,0-1,Cuiabá
+O,1,28/10/20,Santos,0-0,Ceará
+O,1,28/10/20,Atlético Goianiense,1-2,Internacional
+O,1,28/10/20,Athletico-PR,0-1,Flamengo
+O,1,28/10/20,Corinthians,0-1,América-MG
+O,1,29/10/20,Red Bull Bragantino,1-3,Palmeiras
+O,1,29/10/20,Grêmio,1-0,Juventude
+O,2,03/11/20,Cuiabá,0-0,Botafogo
+O,2,03/11/20,Internacional,2-1,Atlético Goianiense
+O,2,04/11/20,Ceará,1-0,Santos
+O,2,04/11/20,Flamengo,3-2,Athletico-PR
+O,2,04/11/20,América-MG,1-1,Corinthians
+O,2,05/11/20,Palmeiras,1-0,Red Bull Bragantino
+O,2,05/11/20,Juventude,0-1,Grêmio
+Q,1,11/11/20,Palmeiras,3-0,Ceará
+Q,1,11/11/20,Cuiabá,1-2,Grêmio
+Q,1,11/11/20,Flamengo,1-2,São Paulo
+Q,1,11/11/20,Internacional,0-1,América-MG
+Q,2,18/11/20,Grêmio,2-0,Cuiabá
+Q,2,18/11/20,Ceará,2-2,Palmeiras
+Q,2,18/11/20,São Paulo,3-0,Flamengo
+Q,2,18/11/20,América-MG,0-1,Internacional
+S,1,23/12/20,Palmeiras,1-1,América-MG
+S,1,23/12/20,Grêmio,1-0,São Paulo
+S,2,30/12/20,América-MG,0-2,Palmeiras
+S,2,30/12/20,São Paulo,0-0,Grêmio
+F,1,28/02/21,Grêmio,0-1,Palmeiras
+F,2,07/03/21,Palmeiras,2-0,Grêmio

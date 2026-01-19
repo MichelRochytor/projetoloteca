@@ -1,0 +1,52 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,05/08/09,Zamora,0-1,Emelec
+PR,1,06/08/09,Alianza Atlético,0-0,Deportivo Anzoátegui
+PR,1,11/08/09,La Equidad,2-2,Unión Española
+PR,1,12/08/09,Vitória,2-0,River Plate (URU)
+PR,1,13/08/09,Universidad de Chile,2-1,Deportivo Cali
+PR,2,25/08/09,Unión Española,0-1,La Equidad
+PR,2,27/08/09,Emelec,2-1,Zamora
+PR,2,15/09/09,Deportivo Anzoátegui,1-2,Alianza Atlético
+PR,2,16/09/09,Deportivo Cali,0-1,Universidad de Chile
+1F,1,11/08/09,Atlético-MG,1-1,Vitória
+1F,1,12/08/09,Flamengo,0-0,Fluminense
+1F,1,12/08/09,Athletico-PR,0-0,Botafogo
+1F,1,13/08/09,Internacional,1-1,Coritiba
+1F,1,18/08/09,Tigre,1-2,San Lorenzo
+1F,1,20/08/09,River Plate,1-2,Lanús
+1F,1,02/09/09,Boca Juniors,1-1,Vélez Sarsfield
+1F,2,25/08/09,Coritiba,1-1,Internacional
+1F,2,26/08/09,Fluminense,1-1,Flamengo
+1F,2,26/08/09,Vitória,0-1,Atlético-MG
+1F,2,15/09/09,San Lorenzo,3-1,Tigre
+1F,2,16/09/09,Botafogo,3-2,Athletico-PR
+1F,2,16/09/09,Vélez Sarsfield,1-0,Boca Juniors
+1F,2,17/09/09,Lanús,1-0,River Plate
+O,1,22/09/09,Vélez Sarsfield,3-2,Unión Española
+O,1,22/09/09,Internacional,1-1,Universidad de Chile
+O,1,23/09/09,Alianza Atlético,2-2,Fluminense
+O,1,23/09/09,Botafogo,4-1,Emelec
+O,1,23/09/09,LDU Quito,4-0,Lanús
+O,1,24/09/09,Vitória,2-0,River Plate (URU)
+O,1,24/09/09,San Lorenzo,3-0,Cienciano
+O,2,30/09/09,Unión Española,2-2,Vélez Sarsfield
+O,2,30/09/09,Universidad de Chile,1-0,Internacional
+O,2,30/09/09,Emelec,2-1,Botafogo
+O,2,01/10/09,Fluminense,4-1,Alianza Atlético
+O,2,01/10/09,Lanús,1-1,LDU Quito
+O,2,13/10/09,Cienciano,0-2,San Lorenzo
+O,2,22/10/09,River Plate (URU),4-1,Vitória
+Q,1,20/10/09,Vélez Sarsfield,1-1,LDU Quito
+Q,1,21/10/09,Cerro Porteño,2-1,Botafogo
+Q,1,22/10/09,Fluminense,2-2,Universidad de Chile
+Q,1,22/10/09,River Plate (URU),0-1,San Lorenzo
+Q,2,04/11/09,Botafogo,1-3,Cerro Porteño
+Q,2,04/11/09,San Lorenzo,0-1,River Plate (URU)
+Q,2,05/11/09,LDU Quito,2-1,Vélez Sarsfield
+Q,2,05/11/09,Universidad de Chile,0-1,Fluminense
+S,1,11/11/09,Cerro Porteño,0-1,Fluminense
+S,1,12/11/09,River Plate (URU),0-1,LDU Quito
+S,2,18/11/09,Fluminense,2-1,Cerro Porteño
+S,2,19/11/09,LDU Quito,7-0,River Plate (URU)
+F,1,25/11/09,LDU Quito,5-1,Fluminense
+F,2,02/12/09,Fluminense,3-0,LDU Quito

@@ -1,0 +1,93 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,24/07/12,Danubio,0-0,Olimpia
+PR,1,24/07/12,Tacuary,0-1,Cobreloa
+PR,1,25/07/12,Liverpool Montevideo,3-0,Universitario Sucre
+PR,1,25/07/12,Deportivo Táchira,0-0,Barcelona SC
+PR,1,26/07/12,Guaraní,0-1,Oriente Petrolero
+PR,1,26/07/12,O'Higgins,3-3,Cerro Porteño
+PR,1,26/07/12,Aurora,2-1,Cerro Largo
+PR,1,31/07/12,Unión Comercio,0-0,Envigado
+PR,1,31/07/12,Deportes Iquique,2-0,Nacional (PAR)
+PR,1,31/07/12,Emelec,1-0,Univ. San Martín
+PR,1,31/07/12,Tolima,3-1,Deportivo Lara
+PR,1,01/08/12,Dep. Quito,1-0,León de Huánuco
+PR,1,02/08/12,Monagas SC,0-2,LDU de Loja
+PR,1,02/08/12,Inti Gas,0-0,Millonarios
+PR,1,02/08/12,La Equidad,0-1,Mineros
+PR,1,02/08/12,Blooming,1-1,Univ. Católica
+PR,2,07/08/12,Cobreloa,2-2,Tacuary
+PR,2,07/08/12,Olimpia,2-1,Danubio
+PR,2,08/08/12,Barcelona SC,5-1,Deportivo Táchira
+PR,2,08/08/12,Cerro Porteño,4-0,O'Higgins
+PR,2,09/08/12,Oriente Petrolero,1-2,Guaraní
+PR,2,09/08/12,Univ. Católica,3-0,Blooming
+PR,2,09/08/12,Mineros,2-1,La Equidad
+PR,2,14/08/12,Cerro Largo,0-0,Aurora
+PR,2,14/08/12,Nacional (PAR),4-0,Deportes Iquique
+PR,2,14/08/12,Millonarios,3-0,Inti Gas
+PR,2,15/08/12,LDU de Loja,4-2,Monagas SC
+PR,2,15/08/12,Envigado,2-0,Unión Comercio
+PR,2,16/08/12,Universitario Sucre,1-2,Liverpool Montevideo
+PR,2,16/08/12,Deportivo Lara,0-0,Tolima
+PR,2,21/08/12,Univ. San Martín,1-1,Emelec
+PR,2,23/08/12,León de Huánuco,2-3,Dep. Quito
+1F,1,31/07/12,Grêmio,1-0,Coritiba
+1F,1,01/08/12,Atlético Goianiense,1-1,Figueirense
+1F,1,01/08/12,Palmeiras,2-0,Botafogo
+1F,1,01/08/12,Bahia,0-2,São Paulo
+1F,1,16/08/12,Argentinos Juniors,1-2,Tigre
+1F,1,22/08/12,Boca Juniors,3-3,Independiente
+1F,1,23/08/12,Colón,3-1,Racing Club
+1F,2,21/08/12,São Paulo,2-0,Bahia
+1F,2,22/08/12,Coritiba,3-2,Grêmio
+1F,2,22/08/12,Botafogo,3-1,Palmeiras
+1F,2,23/08/12,Figueirense,1-1,Atlético Goianiense
+1F,2,29/08/12,Independiente,0-0,Boca Juniors
+1F,2,30/08/12,Tigre,4-1,Argentinos Juniors
+1F,2,30/08/12,Racing Club,1-2,Colón
+2F,1,28/08/12,Envigado,1-1,Liverpool Montevideo
+2F,1,28/08/12,Cobreloa,0-0,Barcelona SC
+2F,1,28/08/12,Olimpia,0-1,Emelec
+2F,1,29/08/12,LDU de Loja,0-1,Nacional (URU)
+2F,1,29/08/12,Mineros,2-2,Cerro Porteño
+2F,1,29/08/12,Univ. Católica,2-0,Tolima
+2F,1,30/08/12,Dep. Quito,2-1,Aurora
+2F,1,30/08/12,Guaraní,2-4,Millonarios
+2F,2,18/09/12,Aurora,1-3,Dep. Quito
+2F,2,18/09/12,Nacional (URU),1-2,LDU de Loja
+2F,2,18/09/12,Tolima,3-1,Univ. Católica
+2F,2,18/09/12,Emelec,0-0,Olimpia
+2F,2,19/09/12,Barcelona SC,4-3,Cobreloa
+2F,2,19/09/12,Millonarios,1-1,Guaraní
+2F,2,19/09/12,Cerro Porteño,4-0,Mineros
+2F,2,20/09/12,Liverpool Montevideo,1-0,Envigado
+O,1,25/09/12,Dep. Quito,2-0,Tigre
+O,1,25/09/12,Barcelona SC,0-1,Grêmio
+O,1,25/09/12,Independiente,2-1,Liverpool Montevideo
+O,1,26/09/12,LDU de Loja,1-1,São Paulo
+O,1,27/09/12,Colón,1-2,Cerro Porteño
+O,1,02/10/12,Universidad de Chile,2-2,Emelec
+O,1,02/10/12,Palmeiras,3-1,Millonarios
+O,1,03/10/12,Univ. Católica,2-0,Atlético Goianiense
+O,2,23/10/12,Cerro Porteño,2-1,Colón
+O,2,23/10/12,Grêmio,2-1,Barcelona SC
+O,2,23/10/12,Millonarios,3-0,Palmeiras
+O,2,24/10/12,Atlético Goianiense,3-1,Univ. Católica
+O,2,24/10/12,São Paulo,0-0,LDU de Loja
+O,2,25/10/12,Liverpool Montevideo,1-2,Independiente
+O,2,25/10/12,Tigre,4-0,Dep. Quito
+O,2,25/10/12,Emelec,0-1,Universidad de Chile
+Q,1,30/10/12,Grêmio,1-0,Millonarios
+Q,1,31/10/12,Universidad de Chile,0-2,São Paulo
+Q,1,31/10/12,Independiente,2-2,Univ. Católica
+Q,1,01/11/12,Cerro Porteño,1-0,Tigre
+Q,2,07/11/12,São Paulo,5-0,Universidad de Chile
+Q,2,08/11/12,Univ. Católica,2-1,Independiente
+Q,2,08/11/12,Tigre,4-2,Cerro Porteño
+Q,2,15/11/12,Millonarios,3-1,Grêmio
+S,1,22/11/12,Univ. Católica,1-1,São Paulo
+S,1,22/11/12,Tigre,0-0,Millonarios
+S,2,28/11/12,São Paulo,0-0,Univ. Católica
+S,2,29/11/12,Millonarios,1-1,Tigre
+F,1,05/12/12,Tigre,0-0,São Paulo
+F,2,12/12/12,São Paulo,2-0,Tigre

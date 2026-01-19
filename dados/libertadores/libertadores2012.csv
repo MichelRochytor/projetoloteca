@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,24/01/12,Arsenal de Sarandí,3-0,Sport Huancayo
+PR,1,24/01/12,El Nacional,1-0,Libertad
+PR,1,25/01/12,Unión Española,1-0,Tigres
+PR,1,25/01/12,Internacional,1-0,Once Caldas
+PR,1,25/01/12,Real Potosí,2-1,Flamengo
+PR,1,26/01/12,Peñarol,4-0,Caracas FC
+PR,2,31/01/12,Libertad,4-1,El Nacional
+PR,2,31/01/12,Sport Huancayo,1-1,Arsenal de Sarandí
+PR,2,01/02/12,Flamengo,2-0,Real Potosí
+PR,2,01/02/12,Once Caldas,2-2,Internacional
+PR,2,02/02/12,Caracas FC,1-1,Peñarol
+PR,2,03/02/12,Tigres,2-2,Unión Española
+FG,1,07/02/12,Defensor Sporting,0-3,Vélez Sarsfield
+FG,1,07/02/12,Fluminense,1-0,Arsenal de Sarandí
+FG,1,08/02/12,Chivas,1-1,Deportivo Quito
+FG,1,08/02/12,Unión Española,2-0,Junior Barranquilla
+FG,1,08/02/12,Nacional,1-2,Cruz Azul
+FG,1,08/02/12,Vasco da Gama,1-2,Nacional (URU)
+FG,1,09/02/12,Internacional,2-0,Juan Aurich
+FG,1,09/02/12,Universidad Católica,1-1,Bolívar
+FG,1,09/02/12,Libertad,4-1,Alianza Lima
+FG,1,10/02/12,Emelec,1-0,Olimpia
+FG,1,14/02/12,Defensor Sporting,2-0,Deportivo Quito
+FG,1,14/02/12,Zamora FC,0-0,Boca Juniors
+FG,1,15/02/12,Atlético Nacional,2-0,Universidad de Chile
+FG,1,15/02/12,The Strongest,2-1,Santos
+FG,1,15/02/12,Deportivo Táchira,1-1,Corinthians
+FG,1,15/02/12,Lanús,1-1,Flamengo
+FG,2,16/02/12,Nacional,1-2,Libertad
+FG,2,16/02/12,Godoy Cruz,1-0,Peñarol
+FG,2,21/02/12,Peñarol,0-4,Atlético Nacional
+FG,2,21/02/12,Arsenal de Sarandí,3-0,Zamora FC
+FG,2,21/02/12,Bolívar,1-3,Unión Española
+FG,2,21/02/12,Cruz Azul,4-0,Deportivo Táchira
+FG,2,22/02/12,Universidad de Chile,5-1,Godoy Cruz
+FG,2,22/02/12,Vélez Sarsfield,3-0,Chivas
+FG,2,23/02/12,Olimpia,2-1,Lanús
+FG,2,23/02/12,The Strongest,2-1,Juan Aurich
+FG,2,23/02/12,Universidad Católica,2-2,Junior Barranquilla
+FG,2,06/03/12,Peñarol,1-1,Universidad de Chile
+FG,3,06/03/12,Unión Española,1-1,Universidad Católica
+FG,2,06/03/12,Vasco da Gama,3-2,Alianza Lima
+FG,2,07/03/12,Santos,3-1,Internacional
+FG,3,07/03/12,Deportivo Quito,3-0,Vélez Sarsfield
+FG,2,07/03/12,Boca Juniors,1-2,Fluminense
+FG,2,07/03/12,Corinthians,2-0,Nacional
+FG,3,08/03/12,Flamengo,1-0,Emelec
+FG,3,08/03/12,Godoy Cruz,4-4,Atlético Nacional
+FG,3,09/03/12,Junior Barranquilla,0-1,Bolívar
+FG,3,13/03/12,Nacional,3-2,Deportivo Táchira
+FG,4,13/03/12,Lanús,1-0,Emelec
+FG,3,13/03/12,Internacional,5-0,The Strongest
+FG,4,13/03/12,Alianza Lima,1-0,Nacional (URU)
+FG,3,14/03/12,Chivas,1-0,Defensor Sporting
+FG,3,14/03/12,Fluminense,1-0,Zamora FC
+FG,3,14/03/12,Arsenal de Sarandí,1-2,Boca Juniors
+FG,3,14/03/12,Cruz Azul,0-0,Corinthians
+FG,3,14/03/12,Libertad,1-1,Vasco da Gama
+FG,3,15/03/12,Juan Aurich,1-3,Santos
+FG,4,15/03/12,Flamengo,3-3,Olimpia
+FG,5,20/03/12,Emelec,0-2,Lanús
+FG,4,20/03/12,Bolívar,2-1,Junior Barranquilla
+FG,4,21/03/12,The Strongest,1-1,Internacional
+FG,4,21/03/12,Corinthians,1-0,Cruz Azul
+FG,4,21/03/12,Vasco da Gama,2-0,Libertad
+FG,4,22/03/12,Vélez Sarsfield,1-0,Deportivo Quito
+FG,4,22/03/12,Santos,2-0,Juan Aurich
+FG,4,22/03/12,Atlético Nacional,2-2,Godoy Cruz
+FG,5,27/03/12,Nacional (URU),1-0,Alianza Lima
+FG,5,27/03/12,Deportivo Táchira,0-0,Nacional
+FG,4,27/03/12,Universidad de Chile,2-1,Peñarol
+FG,4,28/03/12,Defensor Sporting,1-0,Chivas
+FG,4,28/03/12,Universidad Católica,2-1,Unión Española
+FG,5,28/03/12,Olimpia,3-2,Flamengo
+FG,4,29/03/12,Boca Juniors,2-0,Arsenal de Sarandí
+FG,4,29/03/12,Zamora FC,0-1,Fluminense
+FG,5,03/04/12,Lanús,6-0,Olimpia
+FG,6,03/04/12,Deportivo Táchira,1-1,Cruz Azul
+FG,5,03/04/12,Alianza Lima,1-2,Vasco da Gama
+FG,5,04/04/12,Godoy Cruz,0-1,Universidad de Chile
+FG,5,04/04/12,Junior Barranquilla,3-0,Universidad Católica
+FG,5,04/04/12,Internacional,1-1,Santos
+FG,6,04/04/12,Emelec,3-2,Flamengo
+FG,5,05/04/12,Libertad,2-1,Nacional (URU)
+FG,4,05/04/12,Juan Aurich,1-0,The Strongest
+FG,5,10/04/12,Deportivo Quito,2-0,Defensor Sporting
+FG,5,10/04/12,Unión Española,2-1,Bolívar
+FG,5,10/04/12,Zamora FC,0-1,Arsenal de Sarandí
+FG,5,10/04/12,Atlético Nacional,3-0,Peñarol
+FG,5,11/04/12,Chivas,0-2,Vélez Sarsfield
+FG,5,11/04/12,Nacional,1-3,Corinthians
+FG,5,11/04/12,Fluminense,0-2,Boca Juniors
+FG,6,12/04/12,Olimpia,2-3,Emelec
+FG,6,12/04/12,Flamengo,3-0,Lanús
+FG,6,12/04/12,Alianza Lima,1-2,Libertad
+FG,6,12/04/12,Nacional (URU),0-1,Vasco da Gama
+FG,6,17/04/12,Vélez Sarsfield,1-3,Defensor Sporting
+FG,6,17/04/12,Deportivo Quito,5-0,Chivas
+FG,6,17/04/12,Junior Barranquilla,2-1,Unión Española
+FG,6,17/04/12,Bolívar,3-0,Universidad Católica
+FG,6,18/04/12,Boca Juniors,2-0,Zamora FC
+FG,6,18/04/12,Arsenal de Sarandí,1-2,Fluminense
+FG,6,18/04/12,Corinthians,6-0,Deportivo Táchira
+FG,6,18/04/12,Cruz Azul,4-1,Nacional
+FG,6,19/04/12,Santos,2-0,The Strongest
+FG,6,19/04/12,Juan Aurich,1-0,Internacional
+FG,6,19/04/12,Peñarol,4-2,Godoy Cruz
+FG,6,19/04/12,Universidad de Chile,2-1,Atlético Nacional
+O,1,25/04/12,Bolívar,2-1,Santos
+O,1,25/04/12,Internacional,0-0,Fluminense
+O,1,01/05/12,Atlético Nacional,0-1,Vélez Sarsfield
+O,1,01/05/12,Cruz Azul,1-1,Libertad
+O,1,02/05/12,Boca Juniors,2-1,Unión Española
+O,1,02/05/12,Emelec,0-0,Corinthians
+O,1,02/05/12,Vasco da Gama,2-1,Lanús
+O,1,03/05/12,Deportivo Quito,4-1,Universidad de Chile
+O,2,08/05/12,Vélez Sarsfield,1-1,Atlético Nacional
+O,2,08/05/12,Libertad,2-0,Cruz Azul
+O,2,09/05/12,Unión Española,2-3,Boca Juniors
+O,2,09/05/12,Lanús,2-1,Vasco da Gama
+O,2,09/05/12,Corinthians,3-0,Emelec
+O,2,10/05/12,Santos,8-0,Bolívar
+O,2,10/05/12,Universidad de Chile,6-0,Deportivo Quito
+O,2,10/05/12,Fluminense,2-1,Internacional
+Q,1,16/05/12,Libertad,1-1,Universidad de Chile
+Q,1,16/05/12,Vasco da Gama,0-0,Corinthians
+Q,1,17/05/12,Boca Juniors,1-0,Fluminense
+Q,1,17/05/12,Vélez Sarsfield,1-0,Santos
+Q,2,23/05/12,Fluminense,1-1,Boca Juniors
+Q,2,23/05/12,Corinthians,1-0,Vasco da Gama
+Q,2,24/05/12,Santos,1-0,Vélez Sarsfield
+Q,2,24/05/12,Universidad de Chile,1-1,Libertad
+S,1,13/06/12,Santos,0-1,Corinthians
+S,1,14/06/12,Boca Juniors,2-0,Universidad de Chile
+S,2,20/06/12,Corinthians,1-1,Santos
+S,2,21/06/12,Universidad de Chile,0-0,Boca Juniors
+F,1,27/06/12,Boca Juniors,1-1,Corinthians
+F,2,04/07/12,Corinthians,2-0,Boca Juniors

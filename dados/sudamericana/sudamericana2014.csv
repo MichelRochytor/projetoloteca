@@ -1,0 +1,88 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,19/08/14,Rentistas,0-2,Cerro Porteño
+PR,1,19/08/14,Universitario Sucre,2-0,Deportes Iquique
+PR,1,19/08/14,Universidad Católica,1-1,Anzoátegui
+PR,1,19/08/14,Águilas Doradas,1-1,Emelec
+PR,1,19/08/14,Huachipato,3-1,San José
+PR,1,20/08/14,Nacional Potosí,1-0,Libertad
+PR,1,20/08/14,Univ. Técnica,0-0,Deportivo Cali
+PR,1,20/08/14,General Díaz,2-1,Cobresal
+PR,1,20/08/14,Peñarol,2-0,Jorge Wilstermann
+PR,1,20/08/14,Dep. La Guaira,1-1,Atlético Nacional
+PR,1,21/08/14,Inti Gas,0-1,Caracas FC
+PR,1,21/08/14,Deportivo Capiatá,3-1,Danubio
+PR,1,21/08/14,Barcelona SC,3-0,Alianza Lima
+PR,1,21/08/14,Trujillanos FC,0-1,Independiente José Terán
+PR,1,21/08/14,Univ. Católica (CHI),0-1,River Plate (URU)
+PR,1,21/08/14,Millonarios,1-2,Universidad César Vallejo
+PR,2,26/08/14,San José,2-3,Huachipato
+PR,2,26/08/14,Emelec,2-1,Águilas Doradas
+PR,2,26/08/14,Anzoátegui,1-1,Universidad Católica
+PR,2,26/08/14,Deportes Iquique,1-0,Universitario Sucre
+PR,2,26/08/14,Cerro Porteño,0-1,Rentistas
+PR,2,27/08/14,Independiente José Terán,1-1,Trujillanos FC
+PR,2,27/08/14,Cobresal,2-2,General Díaz
+PR,2,27/08/14,River Plate (URU),3-0,Univ. Católica (CHI)
+PR,2,27/08/14,Libertad,3-0,Nacional Potosí
+PR,2,27/08/14,Atlético Nacional,1-0,Dep. La Guaira
+PR,2,27/08/14,Alianza Lima,0-0,Barcelona SC
+PR,2,28/08/14,Danubio,2-2,Deportivo Capiatá
+PR,2,28/08/14,Caracas FC,1-0,Inti Gas
+PR,2,28/08/14,Universidad César Vallejo,2-2,Millonarios
+PR,2,28/08/14,Jorge Wilstermann,0-4,Peñarol
+PR,2,28/08/14,Deportivo Cali,3-0,Univ. Técnica
+2F,1,27/08/14,Internacional,0-2,Bahia
+2F,1,28/08/14,Fluminense,2-1,Goiás
+2F,1,28/08/14,Criciúma,2-1,São Paulo
+2F,1,28/08/14,Sport,0-1,Vitória
+2F,1,03/09/14,Gimnasia,0-0,Estudiantes
+2F,1,03/09/14,Godoy Cruz,0-1,River Plate
+2F,1,04/09/14,Rosario Central,1-1,Boca Juniors
+2F,2,03/09/14,Vitória,2-1,Sport
+2F,2,03/09/14,Goiás,1-0,Fluminense
+2F,2,04/09/14,São Paulo,2-0,Criciúma
+2F,2,04/09/14,Bahia,1-1,Internacional
+2F,1,10/09/14,Atlético Nacional,0-2,General Díaz
+2F,1,12/09/14,Barcelona SC,1-0,Libertad
+2F,2,16/09/14,Estudiantes,1-0,Gimnasia
+2F,2,16/09/14,Independiente José Terán,1-0,Cerro Porteño
+2F,2,16/09/14,Deportivo Capiatá,1-1,Caracas FC
+2F,2,16/09/14,Peñarol,2-2,Deportivo Cali
+2F,2,17/09/14,Huachipato,2-0,Universidad Católica
+2F,2,17/09/14,Universidad César Vallejo,3-0,Universitario Sucre
+2F,2,17/09/14,Libertad,2-0,Barcelona SC
+2F,2,17/09/14,River Plate,2-0,Godoy Cruz
+2F,1,18/09/14,Emelec,2-1,River Plate (URU)
+2F,2,18/09/14,Boca Juniors,3-0,Rosario Central
+2F,2,25/09/14,River Plate (URU),1-1,Emelec
+2F,2,25/09/14,General Díaz,1-3,Atlético Nacional
+O,1,30/09/14,São Paulo,1-0,Huachipato
+O,1,01/10/14,Bahia,2-0,Universidad César Vallejo
+O,1,01/10/14,Emelec,1-0,Goiás
+O,1,01/10/14,Atlético Nacional,2-2,Vitória
+O,1,14/10/14,Estudiantes,2-1,Peñarol
+O,1,14/10/14,Cerro Porteño,2-1,Lanús
+O,2,15/10/14,Huachipato,2-3,São Paulo
+O,1,15/10/14,Boca Juniors,0-1,Deportivo Capiatá
+O,2,15/10/14,Universidad César Vallejo,2-0,Bahia
+O,2,15/10/14,Goiás,1-0,Emelec
+O,2,16/10/14,Vitória,0-1,Atlético Nacional
+O,1,16/10/14,Libertad,1-3,River Plate
+O,2,21/10/14,Lanús,1-1,Cerro Porteño
+O,2,22/10/14,Peñarol,2-1,Estudiantes
+O,2,22/10/14,River Plate,2-0,Libertad
+O,2,23/10/14,Deportivo Capiatá,0-1,Boca Juniors
+Q,1,29/10/14,Estudiantes,1-2,River Plate
+Q,1,29/10/14,Atlético Nacional,1-0,Universidad César Vallejo
+Q,1,30/10/14,São Paulo,4-2,Emelec
+Q,1,30/10/14,Boca Juniors,1-0,Cerro Porteño
+Q,2,05/11/14,Emelec,3-2,São Paulo
+Q,2,06/11/14,Universidad César Vallejo,0-1,Atlético Nacional
+Q,2,06/11/14,Cerro Porteño,1-4,Boca Juniors
+Q,2,06/11/14,River Plate,3-2,Estudiantes
+S,1,19/11/14,Atlético Nacional,1-0,São Paulo
+S,1,20/11/14,Boca Juniors,0-0,River Plate
+S,2,26/11/14,São Paulo,1-0,Atlético Nacional
+S,2,27/11/14,River Plate,1-0,Boca Juniors
+F,1,03/12/14,Atlético Nacional,1-1,River Plate
+F,2,10/12/14,River Plate,2-0,Atlético Nacional

@@ -1,0 +1,156 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,22/01/19,Delfín SC,3-0,Nacional (PAR)
+PR,1,23/01/19,Bolívar,2-4,Defensor Sporting
+PR,1,23/01/19,Dep. La Guaira,1-0,Real Garcilaso
+PR,2,29/01/19,Real Garcilaso,2-1,Dep. La Guaira
+PR,2,30/01/19,Nacional (PAR),1-2,Delfín SC
+PR,2,30/01/19,Defensor Sporting,2-3,Bolívar
+PR,1,05/02/19,Danubio,2-2,Atlético Mineiro
+PR,1,05/02/19,FBC Melgar,1-0,Universidad de Chile
+PR,1,05/02/19,The Strongest,1-1,Libertad
+PR,1,06/02/19,Defensor Sporting,3-0,Barcelona SC
+PR,1,06/02/19,Delfín SC,1-1,Caracas FC
+PR,1,06/02/19,Palestino,1-1,Independiente Medellín
+PR,1,06/02/19,Talleres,2-0,São Paulo
+PR,1,07/02/19,Dep. La Guaira,0-1,Atlético Nacional
+PR,2,12/02/19,Atlético Mineiro,3-2,Danubio
+PR,2,12/02/19,Independiente Medellín,1-1,Palestino
+PR,2,12/02/19,Barcelona SC,1-0,Defensor Sporting
+PR,2,13/02/19,Universidad de Chile,0-0,FBC Melgar
+PR,2,13/02/19,Libertad,5-1,The Strongest
+PR,2,13/02/19,Caracas FC,0-0,Delfín SC
+PR,2,13/02/19,São Paulo,0-0,Talleres
+PR,2,14/02/19,Atlético Nacional,0-0,Dep. La Guaira
+PR,1,19/02/19,FBC Melgar,2-0,Caracas FC
+PR,1,20/02/19,Talleres,2-2,Palestino
+PR,1,20/02/19,Defensor Sporting,0-2,Atlético Mineiro
+PR,1,21/02/19,Libertad,1-0,Atlético Nacional
+PR,2,26/02/19,Caracas FC,2-1,FBC Melgar
+PR,2,27/02/19,Palestino,2-1,Talleres
+PR,2,27/02/19,Atlético Mineiro,0-0,Defensor Sporting
+PR,2,28/02/19,Atlético Nacional,1-0,Libertad
+FG,1,05/03/19,FBC Melgar,0-0,San Lorenzo
+FG,1,05/03/19,San José,0-1,Flamengo
+FG,1,05/03/19,Godoy Cruz,0-0,Olimpia
+FG,1,05/03/19,Libertad,4-1,Universidad Católica
+FG,1,05/03/19,Jorge Wilstermann,0-0,Boca Juniors
+FG,1,05/03/19,Tolima,1-0,Athletico Paranaense
+FG,1,06/03/19,Univ. Concepción,5-4,Sporting Cristal
+FG,1,06/03/19,Palestino,0-1,Internacional
+FG,1,06/03/19,Atlético Mineiro,0-1,Cerro Porteño
+FG,1,06/03/19,Alianza Lima,1-1,River Plate
+FG,1,06/03/19,Rosario Central,1-1,Grêmio
+FG,1,06/03/19,Zamora FC,0-1,Nacional
+FG,1,06/03/19,Junior Barranquilla,0-2,Palmeiras
+FG,1,07/03/19,Huracán,0-1,Cruzeiro
+FG,1,07/03/19,LDU Quito,2-0,Peñarol
+FG,1,08/03/19,Deportivo Lara,0-0,Emelec
+FG,2,12/03/19,Olimpia,1-1,Univ. Concepción
+FG,2,12/03/19,Palmeiras,3-0,FBC Melgar
+FG,2,12/03/19,Boca Juniors,3-0,Tolima
+FG,2,12/03/19,Nacional,1-0,Atlético Mineiro
+FG,2,12/03/19,Sporting Cristal,1-1,Godoy Cruz
+FG,2,12/03/19,Grêmio,0-1,Libertad
+FG,2,13/03/19,Cerro Porteño,2-1,Zamora FC
+FG,2,13/03/19,San Lorenzo,1-0,Junior Barranquilla
+FG,2,13/03/19,Internacional,2-0,Alianza Lima
+FG,2,13/03/19,Universidad Católica,2-1,Rosario Central
+FG,2,13/03/19,Flamengo,3-1,LDU Quito
+FG,2,13/03/19,River Plate,0-0,Palestino
+FG,2,14/03/19,Peñarol,4-0,San José
+FG,2,14/03/19,Athletico Paranaense,4-0,Jorge Wilstermann
+FG,2,14/03/19,Emelec,0-0,Huracán
+FG,2,27/03/19,Cruzeiro,2-0,Deportivo Lara
+FG,3,02/04/19,San José,3-3,LDU Quito
+FG,3,02/04/19,Cerro Porteño,1-0,Nacional
+FG,3,02/04/19,San Lorenzo,1-0,Palmeiras
+FG,3,02/04/19,Palestino,3-0,Alianza Lima
+FG,3,02/04/19,Athletico Paranaense,3-0,Boca Juniors
+FG,3,02/04/19,FBC Melgar,1-0,Junior Barranquilla
+FG,3,03/04/19,Atlético Mineiro,3-2,Zamora FC
+FG,3,03/04/19,Univ. Concepción,0-0,Godoy Cruz
+FG,3,03/04/19,Internacional,2-2,River Plate
+FG,3,03/04/19,Tolima,2-2,Jorge Wilstermann
+FG,3,03/04/19,Emelec,0-1,Cruzeiro
+FG,3,03/04/19,Flamengo,0-1,Peñarol
+FG,3,03/04/19,Deportivo Lara,2-1,Huracán
+FG,3,04/04/19,Universidad Católica,1-0,Grêmio
+FG,3,04/04/19,Libertad,2-0,Rosario Central
+FG,3,04/04/19,Sporting Cristal,0-3,Olimpia
+FG,4,09/04/19,Olimpia,2-1,Godoy Cruz
+FG,4,09/04/19,Athletico Paranaense,1-0,Tolima
+FG,4,09/04/19,Peñarol,1-0,LDU Quito
+FG,4,09/04/19,San Lorenzo,2-0,FBC Melgar
+FG,4,09/04/19,Internacional,3-2,Palestino
+FG,4,10/04/19,Sporting Cristal,2-0,Univ. Concepción
+FG,4,10/04/19,Cruzeiro,4-0,Huracán
+FG,4,10/04/19,Nacional,1-0,Zamora FC
+FG,4,10/04/19,Cerro Porteño,4-1,Atlético Mineiro
+FG,4,10/04/19,Palmeiras,3-0,Junior Barranquilla
+FG,4,10/04/19,Grêmio,3-1,Rosario Central
+FG,4,10/04/19,Boca Juniors,4-0,Jorge Wilstermann
+FG,4,10/04/19,Universidad Católica,2-3,Libertad
+FG,4,11/04/19,River Plate,3-0,Alianza Lima
+FG,4,11/04/19,Flamengo,6-1,San José
+FG,4,11/04/19,Emelec,2-2,Deportivo Lara
+FG,5,23/04/19,Deportivo Lara,0-2,Cruzeiro
+FG,5,23/04/19,Libertad,0-2,Grêmio
+FG,5,23/04/19,Huracán,1-2,Emelec
+FG,5,23/04/19,Univ. Concepción,3-3,Olimpia
+FG,5,23/04/19,Atlético Mineiro,0-1,Nacional
+FG,5,23/04/19,Godoy Cruz,2-0,Sporting Cristal
+FG,5,24/04/19,Jorge Wilstermann,3-2,Athletico Paranaense
+FG,5,24/04/19,Palestino,0-2,River Plate
+FG,5,24/04/19,Rosario Central,1-1,Universidad Católica
+FG,5,24/04/19,Alianza Lima,0-1,Internacional
+FG,5,24/04/19,LDU Quito,2-1,Flamengo
+FG,5,24/04/19,San José,3-1,Peñarol
+FG,5,24/04/19,Tolima,2-2,Boca Juniors
+FG,5,25/04/19,Zamora FC,2-1,Cerro Porteño
+FG,5,25/04/19,Junior Barranquilla,1-0,San Lorenzo
+FG,5,25/04/19,FBC Melgar,0-4,Palmeiras
+FG,6,07/05/19,Nacional,1-1,Cerro Porteño
+FG,6,07/05/19,Zamora FC,1-2,Atlético Mineiro
+FG,6,07/05/19,Alianza Lima,1-2,Palestino
+FG,6,07/05/19,River Plate,2-2,Internacional
+FG,6,08/05/19,Cruzeiro,1-2,Emelec
+FG,6,08/05/19,Huracán,3-0,Deportivo Lara
+FG,6,08/05/19,Rosario Central,2-1,Libertad
+FG,6,08/05/19,Grêmio,2-0,Universidad Católica
+FG,6,08/05/19,LDU Quito,4-0,San José
+FG,6,08/05/19,Peñarol,0-0,Flamengo
+FG,6,08/05/19,Junior Barranquilla,0-1,FBC Melgar
+FG,6,08/05/19,Palmeiras,1-0,San Lorenzo
+FG,6,09/05/19,Olimpia,0-1,Sporting Cristal
+FG,6,09/05/19,Godoy Cruz,1-0,Univ. Concepción
+FG,6,09/05/19,Boca Juniors,2-1,Athletico Paranaense
+FG,6,09/05/19,Jorge Wilstermann,0-2,Tolima
+O,1,23/07/19,River Plate,0-0,Cruzeiro
+O,1,23/07/19,LDU Quito,3-1,Olimpia
+O,1,23/07/19,Godoy Cruz,2-2,Palmeiras
+O,1,24/07/19,San Lorenzo,0-0,Cerro Porteño
+O,1,24/07/19,Nacional,0-1,Internacional
+O,1,24/07/19,Emelec,2-0,Flamengo
+O,1,24/07/19,Athletico Paranaense,0-1,Boca Juniors
+O,1,25/07/19,Grêmio,2-0,Libertad
+O,2,30/07/19,Cruzeiro,0-0,River Plate
+O,2,30/07/19,Palmeiras,4-0,Godoy Cruz
+O,2,30/07/19,Olimpia,1-1,LDU Quito
+O,2,31/07/19,Internacional,2-0,Nacional
+O,2,31/07/19,Cerro Porteño,2-1,San Lorenzo
+O,2,31/07/19,Flamengo,2-0,Emelec
+O,2,31/07/19,Boca Juniors,2-0,Athletico Paranaense
+O,2,01/08/19,Libertad,0-3,Grêmio
+Q,1,20/08/19,Grêmio,0-1,Palmeiras
+Q,1,21/08/19,LDU Quito,0-3,Boca Juniors
+Q,1,21/08/19,Flamengo,2-0,Internacional
+Q,1,22/08/19,River Plate,2-0,Cerro Porteño
+Q,2,27/08/19,Palmeiras,1-2,Grêmio
+Q,2,28/08/19,Boca Juniors,0-0,LDU Quito
+Q,2,28/08/19,Internacional,1-1,Flamengo
+Q,2,29/08/19,Cerro Porteño,1-1,River Plate
+S,1,01/10/19,River Plate,2-0,Boca Juniors
+S,1,02/10/19,Grêmio,1-1,Flamengo
+S,2,22/10/19,Boca Juniors,1-0,River Plate
+S,2,23/10/19,Flamengo,5-0,Grêmio
+F,1,23/11/19,River Plate,1-2,Flamengo

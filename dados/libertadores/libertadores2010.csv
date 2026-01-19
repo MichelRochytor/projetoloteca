@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,26/01/10,Colón,3-2,Universidad Católica
+PR,1,26/01/10,Deportivo Táchira,1-0,Libertad
+PR,1,27/01/10,Newell's Old Boys,0-0,Emelec
+PR,1,27/01/10,Real Potosí,1-1,Cruzeiro
+PR,1,28/01/10,Juan Aurich,2-0,Estudiantes Tecos
+PR,1,28/01/10,Junior Barranquilla,2-2,Racing Montevideo
+PR,2,02/02/10,Libertad,3-1,Deportivo Táchira
+PR,2,03/02/10,Cruzeiro,7-0,Real Potosí
+PR,2,04/02/10,Estudiantes Tecos,1-2,Juan Aurich
+PR,2,04/02/10,Racing Montevideo,2-0,Junior Barranquilla
+PR,2,09/02/10,Universidad Católica,3-2,Colón
+PR,2,10/02/10,Emelec,2-1,Newell's Old Boys
+FG,1,09/02/10,CA Cerro,2-0,Deportivo Quito
+FG,1,09/02/10,Nacional,0-2,Once Caldas
+FG,1,09/02/10,Lanús,0-2,Libertad
+FG,1,10/02/10,Bolívar,1-3,Alianza Lima
+FG,1,10/02/10,Banfield,2-1,Morelia
+FG,1,10/02/10,São Paulo,2-0,Monterrey
+FG,1,10/02/10,Vélez Sarsfield,2-0,Cruzeiro
+FG,1,11/02/10,Nacional (URU),3-2,Deportivo Cuenca
+FG,1,11/02/10,Cerro Porteño,1-1,Independiente Medellín
+FG,1,11/02/10,Estudiantes,5-1,Juan Aurich
+FG,1,11/02/10,Blooming,1-2,Universitario
+FG,2,16/02/10,Colo-Colo,1-0,Deportivo Petare
+FG,2,16/02/10,Libertad,4-0,Blooming
+FG,2,17/02/10,Deportivo Cuenca,1-4,Banfield
+FG,2,18/02/10,Universitario,2-0,Lanús
+FG,2,18/02/10,Universidad de Chile,1-0,Caracas FC
+FG,2,18/02/10,Alianza Lima,4-1,Estudiantes
+FG,2,23/02/10,Deportivo Petare,0-1,Vélez Sarsfield
+FG,1,23/02/10,Internacional,2-1,Emelec
+FG,2,24/02/10,Morelia,0-0,Nacional
+FG,2,24/02/10,Cruzeiro,4-1,Colo-Colo
+FG,2,24/02/10,Juan Aurich,2-0,Bolívar
+FG,1,24/02/10,Corinthians,2-1,Racing Montevideo
+FG,1,24/02/10,Flamengo,2-0,Universidad Católica
+FG,2,25/02/10,Monterrey,2-1,Nacional
+FG,2,25/02/10,Blooming,1-4,Lanús
+FG,2,25/02/10,Once Caldas,2-1,São Paulo
+FG,2,25/02/10,Universitario,0-0,Libertad
+FG,3,09/03/10,Racing Montevideo,2-1,Cerro Porteño
+FG,3,09/03/10,Bolívar,0-0,Estudiantes
+FG,3,09/03/10,Universidad Católica,2-2,Universidad de Chile
+FG,3,09/03/10,Deportivo Cuenca,2-0,Morelia
+FG,3,10/03/10,Nacional,2-2,Banfield
+FG,3,10/03/10,Once Caldas,1-1,Monterrey
+FG,3,10/03/10,Alianza Lima,2-0,Juan Aurich
+FG,3,10/03/10,Independiente Medellín,1-1,Corinthians
+FG,3,10/03/10,Caracas FC,1-3,Flamengo
+FG,3,11/03/10,Nacional (URU),0-2,São Paulo
+FG,3,11/03/10,Deportivo Petare,2-2,Cruzeiro
+FG,2,11/03/10,Emelec,1-2,CA Cerro
+FG,2,11/03/10,Deportivo Quito,1-1,Internacional
+FG,4,16/03/10,Banfield,0-2,Nacional
+FG,4,16/03/10,Juan Aurich,4-2,Alianza Lima
+FG,4,16/03/10,Colo-Colo,1-1,Vélez Sarsfield
+FG,4,17/03/10,Morelia,2-1,Deportivo Cuenca
+FG,4,17/03/10,Caracas FC,0-0,Universidad Católica
+FG,4,17/03/10,Universidad de Chile,2-1,Flamengo
+FG,4,17/03/10,Cerro Porteño,0-1,Corinthians
+FG,4,18/03/10,Monterrey,2-2,Once Caldas
+FG,3,18/03/10,CA Cerro,0-0,Internacional
+FG,4,18/03/10,São Paulo,3-0,Nacional (URU)
+FG,4,18/03/10,Independiente Medellín,0-0,Racing Montevideo
+FG,4,23/03/10,Estudiantes,2-0,Bolívar
+FG,4,23/03/10,Libertad,1-1,Universitario
+FG,5,24/03/10,Universidad Católica,1-1,Caracas FC
+FG,5,24/03/10,Lanús,1-0,Blooming
+FG,5,24/03/10,Cruzeiro,2-0,Deportivo Petare
+FG,5,25/03/10,Vélez Sarsfield,2-1,Colo-Colo
+FG,5,25/03/10,Racing Montevideo,1-0,Independiente Medellín
+FG,4,25/03/10,Deportivo Quito,1-0,Emelec
+FG,5,30/03/10,Libertad,1-1,Lanús
+FG,5,30/03/10,Juan Aurich,0-2,Estudiantes
+FG,6,31/03/10,Cruzeiro,3-0,Vélez Sarsfield
+FG,4,31/03/10,Internacional,2-0,CA Cerro
+FG,5,31/03/10,Monterrey,0-0,São Paulo
+FG,5,01/04/10,Morelia,1-1,Banfield
+FG,5,01/04/10,Corinthians,2-1,Cerro Porteño
+FG,5,01/04/10,Emelec,0-1,Deportivo Quito
+FG,5,01/04/10,Once Caldas,1-0,Nacional
+FG,6,06/04/10,Deportivo Petare,2-3,Colo-Colo
+FG,6,06/04/10,Universitario,0-0,Blooming
+FG,6,07/04/10,Deportivo Cuenca,0-0,Nacional (URU)
+FG,6,08/04/10,Flamengo,2-2,Universidad de Chile
+FG,6,08/04/10,Independiente Medellín,1-0,Cerro Porteño
+FG,6,08/04/10,Alianza Lima,1-0,Bolívar
+FG,6,13/04/10,Deportivo Quito,2-1,CA Cerro
+FG,6,13/04/10,Caracas FC,1-3,Universidad de Chile
+FG,5,14/04/10,Emelec,0-0,Internacional
+FG,6,14/04/10,Universidad Católica,2-0,Flamengo
+FG,6,14/04/10,Racing Montevideo,0-2,Corinthians
+FG,6,15/04/10,Lanús,0-0,Universitario
+FG,6,15/04/10,Blooming,1-2,Libertad
+FG,6,15/04/10,Vélez Sarsfield,4-0,Deportivo Petare
+FG,6,15/04/10,Colo-Colo,1-1,Cruzeiro
+FG,6,20/04/10,Bolívar,2-0,Juan Aurich
+FG,6,20/04/10,Estudiantes,1-0,Alianza Lima
+FG,6,21/04/10,Banfield,4-1,Deportivo Cuenca
+FG,6,21/04/10,Nacional,2-0,Morelia
+FG,6,21/04/10,Universidad de Chile,0-0,Universidad Católica
+FG,6,21/04/10,Flamengo,3-2,Caracas FC
+FG,6,21/04/10,Nacional (URU),2-0,Monterrey
+FG,6,21/04/10,São Paulo,1-0,Once Caldas
+FG,6,22/04/10,CA Cerro,0-0,Emelec
+FG,6,22/04/10,Internacional,3-0,Deportivo Quito
+FG,6,22/04/10,Corinthians,1-0,Independiente Medellín
+FG,6,22/04/10,Cerro Porteño,0-0,Racing Montevideo
+O,1,27/04/10,San Luis,0-1,Estudiantes
+O,1,27/04/10,Chivas,3-0,Vélez Sarsfield
+O,1,28/04/10,Universitario,0-0,São Paulo
+O,1,28/04/10,Banfield,3-1,Internacional
+O,1,28/04/10,Flamengo,1-0,Corinthians
+O,1,29/04/10,Cruzeiro,3-1,Nacional (URU)
+O,1,29/04/10,Alianza Lima,0-1,Universidad de Chile
+O,1,29/04/10,Once Caldas,0-0,Libertad
+O,2,04/05/10,São Paulo,0-0,Universitario
+O,2,04/05/10,Vélez Sarsfield,2-0,Chivas
+O,2,05/05/10,Estudiantes,3-1,San Luis
+O,2,05/05/10,Nacional (URU),0-3,Cruzeiro
+O,2,05/05/10,Corinthians,2-1,Flamengo
+O,2,06/05/10,Internacional,2-0,Banfield
+O,2,06/05/10,Libertad,2-1,Once Caldas
+O,2,06/05/10,Universidad de Chile,2-2,Alianza Lima
+Q,1,11/05/10,Chivas,3-0,Libertad
+Q,1,12/05/10,Flamengo,2-3,Universidad de Chile
+Q,1,12/05/10,Cruzeiro,0-2,São Paulo
+Q,1,13/05/10,Internacional,1-0,Estudiantes
+Q,2,18/05/10,Libertad,2-0,Chivas
+Q,2,19/05/10,São Paulo,2-0,Cruzeiro
+Q,2,20/05/10,Estudiantes,2-1,Internacional
+Q,2,20/05/10,Universidad de Chile,1-2,Flamengo
+S,1,27/07/10,Chivas,1-1,Universidad de Chile
+S,1,28/07/10,Internacional,1-0,São Paulo
+S,2,03/08/10,Universidad de Chile,0-2,Chivas
+S,2,05/08/10,São Paulo,2-1,Internacional
+F,1,11/08/10,Chivas,1-2,Internacional
+F,2,18/08/10,Internacional,3-2,Chivas

@@ -1,0 +1,112 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+R1,1,16/02/11,Iraty,3-1,Grêmio Barueri
+R1,1,16/02/11,Ceilândia,0-5,Caxias
+R1,1,16/02/11,Bangu,3-1,Portuguesa
+R1,1,16/02/11,Ypiranga-RS,0-1,Coritiba
+R1,1,16/02/11,Botafogo-PB,3-1,Vitória
+R1,1,16/02/11,Santa Helena,1-3,Uberaba
+R1,1,16/02/11,Gurupi,1-1,Paraná
+R1,1,16/02/11,Vitória-ES,1-4,Goiás
+R1,1,16/02/11,Horizonte,3-1,ASA
+R1,1,16/02/11,União Rondonópolis,4-4,Guarani
+R1,1,16/02/11,Naviraiense,1-2,Santo André
+R1,1,16/02/11,São Domingos,0-0,Bahia
+R1,1,16/02/11,Treze,0-3,São Paulo
+R1,1,16/02/11,Murici,0-3,Flamengo
+R1,1,16/02/11,Fast Clube,2-0,Fortaleza
+R1,1,23/02/11,Penarol-AM,2-3,Paysandu
+R1,1,23/02/11,Rio Branco-AC,2-1,Atlético Paranaense
+R1,1,23/02/11,River Plate-SE,1-0,Botafogo
+R1,1,23/02/11,Vilhena,0-3,Avaí
+R1,1,23/02/11,Rio Branco-ES,0-1,Ipatinga
+R1,1,23/02/11,Baré,0-1,Ponte Preta
+R1,1,23/02/11,Trem,2-1,Náutico
+R1,1,23/02/11,Águia,1-1,Brasiliense
+R1,1,23/02/11,Brusque,3-2,Atlético Goianiense
+R1,1,23/02/11,Comercial-MS,1-6,Vasco
+R1,1,23/02/11,Comercial-PI,1-2,Palmeiras
+R1,1,23/02/11,Cuiabá,0-2,Ceará
+R1,1,23/02/11,IAPE,2-3,Atlético Mineiro
+R1,1,23/02/11,Coríntians-RN,1-4,Santa Cruz
+R1,2,23/02/11,Guarani,0-0,União Rondonópolis
+R1,2,23/02/11,Portuguesa,1-0,Bangu
+R1,2,23/02/11,Bahia,5-1,São Domingos
+R1,2,23/02/11,ASA,3-3,Horizonte
+R1,2,23/02/11,Grêmio Barueri,3-0,Iraty
+R1,2,23/02/11,Fortaleza,4-1,Fast Clube
+R1,2,23/02/11,Paraná,3-0,Gurupi
+R1,2,23/02/11,Santo André,1-0,Naviraiense
+R1,2,24/02/11,Coritiba,2-0,Ypiranga-RS
+R1,2,24/02/11,Vitória,0-0,Botafogo-PB
+R1,1,24/02/11,Barras,1-1,ABC
+R1,1,24/02/11,Sampaio Corrêa,0-0,Sport
+R1,1,24/02/11,São José-RS,1-0,Paulista
+R1,2,02/03/11,Atlético Paranaense,3-1,Rio Branco-AC
+R1,2,02/03/11,Botafogo,1-0,River Plate-SE
+R1,2,02/03/11,Paysandu,2-2,Penarol-AM
+R1,2,02/03/11,Atlético Goianiense,1-0,Brusque
+R1,2,02/03/11,Paulista,3-0,São José-RS
+R1,2,02/03/11,Ipatinga,3-0,Rio Branco-ES
+R1,2,02/03/11,Atlético Mineiro,8-1,IAPE
+R1,2,02/03/11,ABC,2-1,Barras
+R1,2,02/03/11,Brasiliense,2-0,Águia
+R1,2,02/03/11,Palmeiras,5-1,Comercial-PI
+R1,2,02/03/11,Sport,2-2,Sampaio Corrêa
+R1,2,03/03/11,Náutico,6-0,Trem
+R2,1,16/03/11,Paulista,0-2,Atlético Paranaense
+R2,1,16/03/11,Ipatinga,1-1,Avaí
+R2,1,16/03/11,Botafogo-PB,0-1,Caxias
+R2,1,16/03/11,Sampaio Corrêa,3-2,Santo André
+R2,1,16/03/11,Brasiliense,0-0,Ceará
+R2,1,16/03/11,Bangu,0-2,Náutico
+R2,1,16/03/11,Uberaba,0-4,Palmeiras
+R2,1,16/03/11,Fortaleza,0-3,Flamengo
+R2,1,17/03/11,Horizonte,1-1,Guarani
+R2,1,17/03/11,Atlético Goianiense,1-2,Coritiba
+R2,1,30/03/11,Paraná,1-2,Botafogo
+R2,2,30/03/11,Guarani,2-2,Horizonte
+R2,2,30/03/11,Ceará,2-1,Brasiliense
+R2,2,30/03/11,Avaí,4-1,Ipatinga
+R2,2,30/03/11,Coritiba,3-1,Atlético Goianiense
+R2,1,30/03/11,Santa Cruz,1-0,São Paulo
+R2,1,30/03/11,Paysandu,0-0,Bahia
+R2,1,30/03/11,ABC,0-0,Vasco
+R2,1,31/03/11,Ponte Preta,0-3,Goiás
+R2,1,31/03/11,Grêmio Barueri,2-1,Atlético Mineiro
+R2,2,06/04/11,Botafogo,3-0,Paraná
+R2,2,06/04/11,Caxias,3-1,Botafogo-PB
+R2,2,06/04/11,Bahia,2-1,Paysandu
+R2,2,06/04/11,São Paulo,2-0,Santa Cruz
+R2,2,06/04/11,Vasco,2-1,ABC
+R2,2,06/04/11,Santo André,1-0,Sampaio Corrêa
+R2,2,06/04/11,Atlético Mineiro,0-0,Grêmio Barueri
+O,1,13/04/11,Botafogo,2-2,Avaí
+O,1,13/04/11,Bahia,1-1,Atlético Paranaense
+O,1,13/04/11,Náutico,0-3,Vasco
+O,1,13/04/11,Santo André,1-2,Palmeiras
+O,1,14/04/11,Coritiba,4-0,Caxias
+O,2,20/04/11,Avaí,1-1,Botafogo
+O,1,20/04/11,Flamengo,1-1,Horizonte
+O,1,20/04/11,Goiás,0-1,São Paulo
+O,2,20/04/11,Atlético Paranaense,5-0,Bahia
+O,2,21/04/11,Palmeiras,1-0,Santo André
+O,1,21/04/11,Ceará,2-1,Grêmio Barueri
+O,2,27/04/11,Grêmio Barueri,1-2,Ceará
+O,2,27/04/11,Vasco,0-0,Náutico
+O,2,27/04/11,Horizonte,0-3,Flamengo
+O,2,27/04/11,São Paulo,1-0,Goiás
+O,2,28/04/11,Caxias,0-1,Coritiba
+Q,1,04/05/11,Atlético Paranaense,2-2,Vasco
+Q,1,04/05/11,São Paulo,1-0,Avaí
+Q,1,05/05/11,Coritiba,6-0,Palmeiras
+Q,1,05/05/11,Flamengo,1-2,Ceará
+Q,2,11/05/11,Palmeiras,2-0,Coritiba
+Q,2,11/05/11,Ceará,2-2,Flamengo
+Q,2,12/05/11,Vasco,1-1,Atlético Paranaense
+Q,2,12/05/11,Avaí,3-1,São Paulo
+S,1,18/05/11,Vasco,1-1,Avaí
+S,1,18/05/11,Ceará,0-0,Coritiba
+S,2,25/05/11,Avaí,0-2,Vasco
+S,2,25/05/11,Coritiba,1-0,Ceará
+F,1,01/06/11,Vasco,1-0,Coritiba
+F,2,08/06/11,Coritiba,3-2,Vasco

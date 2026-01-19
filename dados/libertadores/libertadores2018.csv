@@ -1,0 +1,157 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,22/01/18,Montevideo Wanderers,0-0,Olimpia
+PR,1,22/01/18,Macará,1-1,Deportivo Táchira
+PR,1,22/01/18,Oriente Petrolero,2-0,Universitario
+PR,2,26/01/18,Olimpia,2-0,Montevideo Wanderers
+PR,2,26/01/18,Deportivo Táchira,0-0,Macará
+PR,2,26/01/18,Universitario,3-1,Oriente Petrolero
+PR,1,30/01/18,Carabobo,1-0,Guaraní
+PR,1,30/01/18,Banfield,1-1,Independiente del Valle
+PR,1,30/01/18,Santiago Wanderers,1-1,FBC Melgar
+PR,1,31/01/18,Chapecoense,0-1,Nacional
+PR,1,31/01/18,Univ. Concepción,0-4,Vasco
+PR,1,01/02/18,Deportivo Táchira,2-3,Santa Fe
+PR,1,01/02/18,Olimpia,1-0,Junior Barranquilla
+PR,1,01/02/18,Oriente Petrolero,1-2,Jorge Wilstermann
+PR,2,06/02/18,Guaraní,6-0,Carabobo
+PR,2,06/02/18,Independiente del Valle,2-2,Banfield
+PR,2,06/02/18,FBC Melgar,0-1,Santiago Wanderers
+PR,2,07/02/18,Vasco,2-0,Univ. Concepción
+PR,2,07/02/18,Nacional,1-0,Chapecoense
+PR,2,08/02/18,Santa Fe,0-0,Deportivo Táchira
+PR,2,08/02/18,Jorge Wilstermann,2-2,Oriente Petrolero
+PR,2,09/02/18,Junior Barranquilla,3-1,Olimpia
+PR,1,13/02/18,Santiago Wanderers,1-2,Santa Fe
+PR,1,14/02/18,Banfield,2-2,Nacional
+PR,1,14/02/18,Vasco,4-0,Jorge Wilstermann
+PR,1,15/02/18,Junior Barranquilla,1-0,Guaraní
+PR,2,20/02/18,Santa Fe,3-0,Santiago Wanderers
+PR,2,21/02/18,Jorge Wilstermann,4-0,Vasco
+PR,2,21/02/18,Nacional,1-0,Banfield
+PR,2,22/02/18,Guaraní,0-0,Junior Barranquilla
+FG,1,27/02/18,Monagas SC,0-2,Cerro Porteño
+FG,1,27/02/18,Defensor Sporting,1-1,Grêmio
+FG,1,27/02/18,Racing Club,4-2,Cruzeiro
+FG,1,27/02/18,Colo-Colo,0-1,Atlético Nacional
+FG,1,28/02/18,Nacional,0-0,Estudiantes
+FG,1,28/02/18,Millonarios,0-0,Corinthians
+FG,1,28/02/18,Delfín SC,1-1,Bolívar
+FG,1,28/02/18,Flamengo,2-2,River Plate
+FG,1,01/03/18,Deportivo Lara,1-0,Independiente
+FG,1,01/03/18,Santa Fe,1-1,Emelec
+FG,1,01/03/18,Real Garcilaso,2-0,Santos
+FG,1,01/03/18,Junior Barranquilla,0-3,Palmeiras
+FG,1,01/03/18,Alianza Lima,0-0,Boca Juniors
+FG,2,13/03/18,Atlético Tucumán,0-2,Libertad
+FG,2,13/03/18,Cerro Porteño,2-1,Defensor Sporting
+FG,1,13/03/18,Vasco,0-1,Universidad de Chile
+FG,2,14/03/18,Estudiantes,3-0,Real Garcilaso
+FG,2,14/03/18,Bolívar,1-1,Colo-Colo
+FG,2,14/03/18,Corinthians,2-0,Deportivo Lara
+FG,2,14/03/18,Emelec,1-2,Flamengo
+FG,2,14/03/18,Atlético Nacional,4-0,Delfín SC
+FG,2,15/03/18,Santos,3-1,Nacional
+FG,2,15/03/18,The Strongest,1-0,Peñarol
+FG,2,15/03/18,Independiente,1-0,Millonarios
+FG,3,03/04/18,Libertad,3-0,The Strongest
+FG,3,03/04/18,Real Garcilaso,0-0,Nacional
+FG,2,03/04/18,Palmeiras,2-0,Alianza Lima
+FG,2,03/04/18,Universidad de Chile,1-1,Racing Club
+FG,2,04/04/18,Grêmio,4-0,Monagas SC
+FG,3,04/04/18,Peñarol,3-1,Atlético Tucumán
+FG,2,04/04/18,Cruzeiro,0-0,Vasco
+FG,2,04/04/18,Boca Juniors,1-0,Junior Barranquilla
+FG,2,05/04/18,River Plate,0-0,Santa Fe
+FG,3,05/04/18,Colo-Colo,0-2,Delfín SC
+FG,3,05/04/18,Bolívar,1-0,Atlético Nacional
+FG,3,05/04/18,Estudiantes,0-1,Santos
+FG,3,11/04/18,Palmeiras,1-1,Boca Juniors
+FG,3,17/04/18,Defensor Sporting,3-1,Monagas SC
+FG,3,17/04/18,Cerro Porteño,0-0,Grêmio
+FG,3,17/04/18,Millonarios,4-0,Deportivo Lara
+FG,4,18/04/18,The Strongest,1-2,Atlético Tucumán
+FG,3,18/04/18,Independiente,0-1,Corinthians
+FG,4,18/04/18,Libertad,2-1,Peñarol
+FG,3,18/04/18,Flamengo,1-1,Santa Fe
+FG,3,19/04/18,Racing Club,4-0,Vasco
+FG,3,19/04/18,Universidad de Chile,0-0,Cruzeiro
+FG,3,19/04/18,Emelec,0-1,River Plate
+FG,3,19/04/18,Alianza Lima,0-2,Junior Barranquilla
+FG,4,24/04/18,Deportivo Lara,2-1,Millonarios
+FG,4,24/04/18,Santos,2-0,Estudiantes
+FG,4,24/04/18,Atlético Nacional,4-1,Bolívar
+FG,5,25/04/18,Atlético Tucumán,3-0,The Strongest
+FG,4,25/04/18,Nacional,4-0,Real Garcilaso
+FG,4,25/04/18,Monagas SC,1-0,Defensor Sporting
+FG,4,25/04/18,Boca Juniors,0-2,Palmeiras
+FG,4,25/04/18,Santa Fe,0-0,Flamengo
+FG,4,26/04/18,Cruzeiro,7-0,Universidad de Chile
+FG,4,26/04/18,River Plate,2-1,Emelec
+FG,4,26/04/18,Junior Barranquilla,1-0,Alianza Lima
+FG,5,26/04/18,Peñarol,2-0,Libertad
+FG,4,26/04/18,Vasco,1-1,Racing Club
+FG,5,01/05/18,Real Garcilaso,0-0,Estudiantes
+FG,4,01/05/18,Grêmio,5-0,Cerro Porteño
+FG,5,01/05/18,Nacional,1-0,Santos
+FG,5,02/05/18,Junior Barranquilla,1-1,Boca Juniors
+FG,6,02/05/18,Atlético Tucumán,1-0,Peñarol
+FG,4,02/05/18,Corinthians,1-2,Independiente
+FG,4,02/05/18,Delfín SC,1-2,Colo-Colo
+FG,5,02/05/18,Vasco,0-4,Cruzeiro
+FG,5,03/05/18,Racing Club,1-0,Universidad de Chile
+FG,6,03/05/18,The Strongest,1-3,Libertad
+FG,5,03/05/18,Santa Fe,0-1,River Plate
+FG,5,03/05/18,Alianza Lima,1-3,Palmeiras
+FG,5,15/05/18,Defensor Sporting,0-1,Cerro Porteño
+FG,5,15/05/18,Delfín SC,1-0,Atlético Nacional
+FG,5,15/05/18,Monagas SC,1-2,Grêmio
+FG,5,15/05/18,Colo-Colo,2-0,Bolívar
+FG,6,16/05/18,Boca Juniors,5-0,Alianza Lima
+FG,5,16/05/18,Flamengo,2-0,Emelec
+FG,6,16/05/18,Palmeiras,3-1,Junior Barranquilla
+FG,6,17/05/18,Peñarol,2-0,The Strongest
+FG,5,17/05/18,Libertad,0-0,Atlético Tucumán
+FG,5,17/05/18,Deportivo Lara,2-7,Corinthians
+FG,5,17/05/18,Millonarios,1-1,Independiente
+FG,6,22/05/18,Cruzeiro,2-1,Racing Club
+FG,6,22/05/18,Universidad de Chile,0-2,Vasco
+FG,6,23/05/18,Grêmio,1-0,Defensor Sporting
+FG,6,23/05/18,Cerro Porteño,3-2,Monagas SC
+FG,6,23/05/18,River Plate,0-0,Flamengo
+FG,6,23/05/18,Emelec,0-3,Santa Fe
+FG,6,24/05/18,Santos,0-0,Real Garcilaso
+FG,6,24/05/18,Estudiantes,3-1,Nacional
+FG,6,24/05/18,Atlético Nacional,0-0,Colo-Colo
+FG,6,24/05/18,Bolívar,2-1,Delfín SC
+FG,6,24/05/18,Corinthians,0-1,Millonarios
+FG,6,24/05/18,Independiente,2-0,Deportivo Lara
+O,1,07/08/18,Estudiantes,2-1,Grêmio
+O,1,08/08/18,Boca Juniors,2-0,Libertad
+O,1,08/08/18,Colo-Colo,1-0,Corinthians
+O,1,08/08/18,Flamengo,0-2,Cruzeiro
+O,1,09/08/18,Racing Club,0-0,River Plate
+O,1,09/08/18,Cerro Porteño,0-2,Palmeiras
+O,1,09/08/18,Atlético Tucumán,2-0,Atlético Nacional
+O,1,21/08/18,Independiente,3-0,Santos
+O,2,28/08/18,Santos,0-0,Independiente
+O,2,28/08/18,Atlético Nacional,1-0,Atlético Tucumán
+O,2,28/08/18,Grêmio,2-1,Estudiantes
+O,2,29/08/18,River Plate,3-0,Racing Club
+O,2,29/08/18,Cruzeiro,0-1,Flamengo
+O,2,29/08/18,Corinthians,2-1,Colo-Colo
+O,2,30/08/18,Libertad,2-4,Boca Juniors
+O,2,30/08/18,Palmeiras,0-1,Cerro Porteño
+Q,1,18/09/18,Atlético Tucumán,0-2,Grêmio
+Q,1,19/09/18,Independiente,0-0,River Plate
+Q,1,19/09/18,Boca Juniors,2-0,Cruzeiro
+Q,1,20/09/18,Colo-Colo,0-2,Palmeiras
+Q,2,02/10/18,River Plate,3-1,Independiente
+Q,2,02/10/18,Grêmio,4-0,Atlético Tucumán
+Q,2,03/10/18,Palmeiras,2-0,Colo-Colo
+Q,2,04/10/18,Cruzeiro,1-1,Boca Juniors
+S,1,23/10/18,River Plate,0-1,Grêmio
+S,1,24/10/18,Boca Juniors,2-0,Palmeiras
+S,2,30/10/18,Grêmio,1-2,River Plate
+S,2,31/10/18,Palmeiras,2-2,Boca Juniors
+F,1,11/11/18,Boca Juniors,2-2,River Plate
+F,2,09/12/18,River Plate,3-1,Boca Juniors

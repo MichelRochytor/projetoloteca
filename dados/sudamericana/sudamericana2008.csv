@@ -1,0 +1,54 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,29/07/08,River Plate (URU),2-0,Universidad Católica
+PR,1,30/07/08,Universitario,0-0,Deportivo Quito
+PR,1,31/07/08,UA Maracaibo,0-0,América de Cali
+PR,1,12/08/08,Olimpia,4-2,Blooming
+PR,2,05/08/08,Deportivo Quito,2-1,Universitario
+PR,2,07/08/08,Universidad Católica,4-0,River Plate (URU)
+PR,2,07/08/08,América de Cali,4-2,UA Maracaibo
+PR,2,21/08/08,Blooming,1-0,Olimpia
+1F,1,05/08/08,Independiente,2-1,Estudiantes
+1F,1,06/08/08,Argentinos Juniors,0-0,San Lorenzo
+1F,1,12/08/08,Athletico-PR,0-0,São Paulo
+1F,1,13/08/08,Vasco da Gama,3-1,Palmeiras
+1F,1,13/08/08,Internacional,1-1,Grêmio
+1F,1,14/08/08,Botafogo,3-1,Atlético Mineiro
+1F,1,14/08/08,América de Cali,2-0,Deportivo Cali
+1F,2,20/08/08,Estudiantes,2-1,Independiente
+1F,2,21/08/08,San Lorenzo,0-2,Argentinos Juniors
+1F,2,26/08/08,Libertad,3-3,Defensor Sporting
+1F,2,27/08/08,São Paulo,0-0,Athletico-PR
+1F,2,27/08/08,Atlético Mineiro,2-5,Botafogo
+1F,2,28/08/08,Grêmio,2-2,Internacional
+1F,2,16/09/08,Deportivo Cali,1-0,América de Cali
+1F,2,17/09/08,Palmeiras,3-0,Vasco da Gama
+O,1,23/09/08,Boca Juniors,4-0,LDU Quito
+O,1,23/09/08,Estudiantes,2-1,Arsenal de Sarandí
+O,1,24/09/08,San Luis,2-1,Argentinos Juniors
+O,1,24/09/08,América de Cali,1-0,Botafogo
+O,1,24/09/08,Chivas,2-2,Athletico-PR
+O,1,24/09/08,Sport Áncash,0-0,Palmeiras
+O,1,25/09/08,Defensor Sporting,1-2,River Plate
+O,1,25/09/08,Universidad Católica,1-1,Internacional
+O,2,30/09/08,Athletico-PR,3-4,Chivas
+O,2,01/10/08,Internacional,0-0,Universidad Católica
+O,2,01/10/08,LDU Quito,1-1,Boca Juniors
+O,2,01/10/08,Botafogo,3-1,América de Cali
+O,2,01/10/08,Palmeiras,1-0,Sport Áncash
+O,2,01/10/08,Argentinos Juniors,2-0,San Luis
+O,2,02/10/08,River Plate,2-1,Defensor Sporting
+O,2,02/10/08,Arsenal de Sarandí,0-0,Estudiantes
+Q,1,21/10/08,Estudiantes,2-0,Botafogo
+Q,1,22/10/08,River Plate,1-2,Chivas
+Q,1,22/10/08,Internacional,2-0,Boca Juniors
+Q,1,22/10/08,Palmeiras,0-1,Argentinos Juniors
+Q,2,05/11/08,Botafogo,2-2,Estudiantes
+Q,2,05/11/08,Argentinos Juniors,2-0,Palmeiras
+Q,2,06/11/08,Boca Juniors,1-2,Internacional
+Q,2,06/11/08,Chivas,2-2,River Plate
+S,1,12/11/08,Chivas,0-2,Internacional
+S,1,13/11/08,Argentinos Juniors,1-1,Estudiantes
+S,2,19/11/08,Internacional,4-0,Chivas
+S,2,20/11/08,Estudiantes,1-0,Argentinos Juniors
+F,1,26/11/08,Estudiantes,0-1,Internacional
+F,2,03/12/08,Internacional,1-1,Estudiantes

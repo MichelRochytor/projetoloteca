@@ -1,0 +1,93 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,11/08/15,Univ. Catolica (EQU),1-1,Dep. La Guaira
+PR,1,11/08/15,Univ. Católica (CHI),1-0,Danubio
+PR,1,11/08/15,Carabobo,0-0,Tolima
+PR,1,11/08/15,Oriente Petrolero,0-3,Nacional (URU)
+PR,1,11/08/15,Universitario,3-1,Anzoátegui
+PR,1,12/08/15,LDU de Loja,0-0,Santa Fe
+PR,1,12/08/15,Santiago Wanderers,0-0,Libertad
+PR,1,12/08/15,Olimpia,2-0,Huachipato
+PR,1,12/08/15,Defensor Sporting,3-0,Bolívar
+PR,1,12/08/15,Junior Barranquilla,5-0,FBC Melgar
+PR,1,13/08/15,León de Huánuco,1-3,Emelec
+PR,1,13/08/15,Juventud,4-1,Real Potosí
+PR,1,13/08/15,Nacional (PAR),2-1,Univ. Concepción
+PR,1,13/08/15,Zamora FC,1-1,LDU Quito
+PR,1,13/08/15,Aurora,1-2,Sportivo Luqueño
+PR,1,13/08/15,Águilas Doradas,2-0,Unión Comercio
+PR,2,18/08/15,Bolívar,2-0,Defensor Sporting
+PR,2,18/08/15,FBC Melgar,4-0,Junior Barranquilla
+PR,2,18/08/15,Dep. La Guaira,1-0,Univ. Catolica (EQU)
+PR,2,18/08/15,Libertad,2-1,Santiago Wanderers
+PR,2,19/08/15,Huachipato,0-2,Olimpia
+PR,2,19/08/15,LDU Quito,2-0,Zamora FC
+PR,2,19/08/15,Tolima,0-0,Carabobo
+PR,2,19/08/15,Danubio,1-2,Univ. Católica (CHI)
+PR,2,19/08/15,Sportivo Luqueño,5-1,Aurora
+PR,2,20/08/15,Real Potosí,2-0,Juventud
+PR,2,20/08/15,Unión Comercio,1-1,Águilas Doradas
+PR,2,20/08/15,Anzoátegui,1-3,Universitario
+PR,2,20/08/15,Univ. Concepción,1-3,Nacional (PAR)
+PR,2,20/08/15,Emelec,3-0,León de Huánuco
+PR,2,20/08/15,Nacional (URU),0-0,Oriente Petrolero
+PR,2,20/08/15,Santa Fe,3-0,LDU de Loja
+1F,1,18/08/15,Brasília,0-0,Goiás
+1F,1,19/08/15,Bahia,1-0,Sport
+1F,1,19/08/15,Ponte Preta,1-1,Chapecoense
+1F,1,20/08/15,Joinville,0-2,Atlético Paranaense
+1F,1,26/08/15,Arsenal de Sarandí,1-1,Independiente
+1F,1,26/08/15,Tigre,2-5,Huracán
+1F,1,27/08/15,Belgrano,1-1,Lanús
+1F,2,25/08/15,Goiás,0-2,Brasília
+1F,2,26/08/15,Chapecoense,3-0,Ponte Preta
+1F,2,26/08/15,Sport,4-1,Bahia
+1F,2,27/08/15,Atlético Paranaense,1-0,Joinville
+1F,2,16/09/15,Independiente,1-0,Arsenal de Sarandí
+1F,2,16/09/15,Huracán,1-0,Tigre
+1F,2,17/09/15,Lanús,5-1,Belgrano
+2F,1,26/08/15,LDU Quito,1-0,Nacional (PAR)
+2F,1,26/08/15,Defensor Sporting,3-0,Universitario
+2F,1,27/08/15,Tolima,0-1,Junior Barranquilla
+2F,1,27/08/15,Olimpia,1-1,Águilas Doradas
+2F,1,27/08/15,Dep. La Guaira,1-1,Sportivo Luqueño
+2F,1,27/08/15,Nacional (URU),0-2,Santa Fe
+2F,1,27/08/15,Univ. Católica (CHI),2-3,Libertad
+2F,1,27/08/15,Emelec,0-0,Juventud
+2F,2,15/09/15,Sportivo Luqueño,4-0,Dep. La Guaira
+2F,2,15/09/15,Águilas Doradas,1-2,Olimpia
+2F,2,15/09/15,Universitario,0-1,Defensor Sporting
+2F,2,16/09/15,Nacional (PAR),0-1,LDU Quito
+2F,2,16/09/15,Santa Fe,0-1,Nacional (URU)
+2F,2,17/09/15,Juventud,0-0,Emelec
+2F,2,17/09/15,Libertad,1-0,Univ. Católica (CHI)
+2F,2,17/09/15,Junior Barranquilla,0-2,Tolima
+O,1,22/09/15,Tolima,1-1,Sportivo Luqueño
+O,1,23/09/15,Emelec,2-1,Santa Fe
+O,1,23/09/15,River Plate,2-0,LDU Quito
+O,1,23/09/15,Independiente,1-0,Olimpia
+O,1,23/09/15,Atlético Paranaense,1-0,Brasília
+O,1,23/09/15,Sport,1-1,Huracán
+O,1,24/09/15,Libertad,1-1,Chapecoense
+O,1,24/09/15,Lanús,0-0,Defensor Sporting
+O,2,29/09/15,Sportivo Luqueño,1-0,Tolima
+O,2,29/09/15,Santa Fe,1-0,Emelec
+O,2,30/09/15,LDU Quito,1-0,River Plate
+O,2,30/09/15,Olimpia,0-0,Independiente
+O,2,30/09/15,Brasília,0-0,Atlético Paranaense
+O,2,30/09/15,Huracán,3-0,Sport
+O,2,01/10/15,Defensor Sporting,0-0,Lanús
+O,2,01/10/15,Chapecoense,1-1,Libertad
+Q,1,20/10/15,Huracán,1-0,Defensor Sporting
+Q,1,21/10/15,Atlético Paranaense,1-0,Sportivo Luqueño
+Q,1,21/10/15,River Plate,3-1,Chapecoense
+Q,1,22/10/15,Independiente,0-1,Santa Fe
+Q,2,27/10/15,Defensor Sporting,0-0,Huracán
+Q,2,28/10/15,Sportivo Luqueño,2-0,Atlético Paranaense
+Q,2,28/10/15,Chapecoense,2-1,River Plate
+Q,2,29/10/15,Santa Fe,1-1,Independiente
+S,1,04/11/15,Sportivo Luqueño,1-1,Santa Fe
+S,1,05/11/15,River Plate,0-1,Huracán
+S,2,25/11/15,Santa Fe,0-0,Sportivo Luqueño
+S,2,26/11/15,Huracán,2-2,River Plate
+F,1,02/12/15,Huracán,0-0,Santa Fe
+F,2,09/12/15,Santa Fe,0-0,Huracán

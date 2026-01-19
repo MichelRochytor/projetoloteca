@@ -1,0 +1,107 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,1,28/02/17,O'Higgins,1-0,Fuerza Amarilla
+1F,1,28/02/17,Boston River,3-1,Comerciantes Unidos
+1F,1,28/02/17,LDU Quito,2-2,Defensor Sporting
+1F,1,28/02/17,Deportivo Cali,1-0,Sportivo Luqueño
+1F,1,01/03/17,Anzoátegui,3-0,Huracán
+1F,1,01/03/17,Nacional Potosí,3-1,Sport Huancayo
+1F,1,01/03/17,Racing Club,1-0,Rionegro Águilas
+1F,1,01/03/17,Palestino,0-1,Atlético Venezuela
+1F,1,02/03/17,Juan Aurich,0-2,Arsenal de Sarandí
+1F,1,02/03/17,Cerro Porteño,1-1,Caracas FC
+1F,1,02/03/17,Tolima,2-1,Bolívar
+1F,1,04/04/17,Petrolero Yacuiba,1-3,Universidad Católica (EQU)
+1F,1,04/04/17,Cruzeiro,2-1,Nacional (PAR)
+1F,1,04/04/17,Independiente,0-0,Alianza Lima
+1F,1,05/04/17,Ponte Preta,0-0,Gimnasia y Esgrima
+1F,1,05/04/17,Defensa y Justicia,0-0,São Paulo
+1F,1,05/04/17,Everton,1-0,Patriotas
+1F,1,05/04/17,Corinthians,2-0,Universidad de Chile
+1F,1,05/04/17,Fluminense,2-0,Liverpool Montevideo
+1F,1,06/04/17,Sport,3-0,Danubio
+1F,1,06/04/17,Estudiantes de Caracas,2-3,Sol de América
+1F,1,06/04/17,Oriente Petrolero,1-1,Deportivo Cuenca
+1F,2,09/05/17,Sport Huancayo,2-1,Nacional Potosí
+1F,2,09/05/17,Gimnasia y Esgrima,1-1,Ponte Preta
+1F,2,09/05/17,Sportivo Luqueño,2-1,Deportivo Cali
+1F,2,10/05/17,Nacional (PAR),2-1,Cruzeiro
+1F,2,10/05/17,Atlético Venezuela,0-1,Palestino
+1F,2,10/05/17,Universidad de Chile,1-2,Corinthians
+1F,2,10/05/17,Liverpool Montevideo,1-0,Fluminense
+1F,2,11/05/17,Caracas FC,1-2,Cerro Porteño
+1F,2,11/05/17,Arsenal de Sarandí,6-1,Juan Aurich
+1F,2,11/05/17,São Paulo,1-1,Defensa y Justicia
+1F,2,11/05/17,Danubio,3-0,Sport
+1F,2,30/05/17,Universidad Católica (EQU),3-0,Petrolero Yacuiba
+1F,2,30/05/17,Defensor Sporting,1-2,LDU Quito
+1F,2,30/05/17,Patriotas,1-0,Everton
+1F,2,31/05/17,Huracán,4-0,Anzoátegui
+1F,2,31/05/17,Sol de América,7-1,Estudiantes de Caracas
+1F,2,31/05/17,Fuerza Amarilla,2-0,O'Higgins
+1F,2,31/05/17,Alianza Lima,0-1,Independiente
+1F,2,01/06/17,Comerciantes Unidos,1-1,Boston River
+1F,2,01/06/17,Bolívar,1-0,Tolima
+1F,2,01/06/17,Deportivo Cuenca,1-1,Oriente Petrolero
+1F,2,01/06/17,Rionegro Águilas,1-1,Racing Club
+2F,1,27/06/17,Fuerza Amarilla,1-1,Santa Fe
+2F,1,28/06/17,Defensa y Justicia,1-0,Chapecoense
+2F,1,28/06/17,Patriotas,1-1,Corinthians
+2F,1,29/06/17,Ponte Preta,1-0,Sol de América
+2F,1,29/06/17,Racing Club,3-1,Independiente Medellín
+2F,1,29/06/17,Fluminense,4-0,Universidad Católica (EQU)
+2F,1,05/07/17,Palestino,2-5,Flamengo
+2F,1,06/07/17,Sport,2-0,Arsenal de Sarandí
+2F,1,11/07/17,Huracán,1-5,Libertad
+2F,1,11/07/17,Oriente Petrolero,2-3,Atlético Tucumán
+2F,1,11/07/17,Cerro Porteño,2-1,Boston River
+2F,1,12/07/17,Bolívar,1-0,LDU Quito
+2F,1,12/07/17,Independiente,4-2,Deportes Iquique
+2F,1,12/07/17,Nacional (PAR),1-1,Olimpia
+2F,1,13/07/17,Nacional Potosí,0-1,Estudiantes
+2F,1,13/07/17,Deportivo Cali,1-1,Junior Barranquilla
+2F,2,25/07/17,Chapecoense,1-0,Defensa y Justicia
+2F,2,25/07/17,Santa Fe,1-0,Fuerza Amarilla
+2F,2,26/07/17,Sol de América,1-3,Ponte Preta
+2F,2,26/07/17,Universidad Católica (EQU),1-2,Fluminense
+2F,2,26/07/17,Boston River,1-4,Cerro Porteño
+2F,2,26/07/17,Corinthians,2-0,Patriotas
+2F,2,27/07/17,Arsenal de Sarandí,2-1,Sport
+2F,2,27/07/17,Independiente Medellín,2-3,Racing Club
+2F,2,01/08/17,Libertad,2-0,Huracán
+2F,2,01/08/17,Atlético Tucumán,3-0,Oriente Petrolero
+2F,2,02/08/17,LDU Quito,1-0,Bolívar
+2F,2,02/08/17,Olimpia,2-2,Nacional (PAR)
+2F,2,02/08/17,Deportes Iquique,1-2,Independiente
+2F,2,03/08/17,Estudiantes,2-0,Nacional Potosí
+2F,2,03/08/17,Junior Barranquilla,1-1,Deportivo Cali
+2F,2,09/08/17,Flamengo,5-0,Palestino
+O,1,22/08/17,Atlético Tucumán,1-0,Independiente
+O,1,23/08/17,Nacional (PAR),1-0,Estudiantes
+O,1,24/08/17,Libertad,1-0,Santa Fe
+O,2,12/09/17,Independiente,2-0,Atlético Tucumán
+O,2,12/09/17,Cerro Porteño,0-0,Junior Barranquilla
+O,2,13/09/17,Sport,3-1,Ponte Preta
+O,2,13/09/17,Chapecoense,0-0,Flamengo
+O,2,13/09/17,Corinthians,1-1,Racing Club
+O,2,14/09/17,Fluminense,1-0,LDU Quito
+O,2,14/09/17,Santa Fe,1-1,Libertad
+O,2,19/09/17,Estudiantes,0-1,Nacional (PAR)
+O,2,19/09/17,Junior Barranquilla,3-1,Cerro Porteño
+O,2,20/09/17,Ponte Preta,1-0,Sport
+O,2,20/09/17,Flamengo,4-0,Chapecoense
+O,2,20/09/17,Racing Club,0-0,Corinthians
+O,2,21/09/17,LDU Quito,2-1,Fluminense
+Q,1,24/10/17,Libertad,1-0,Racing Club
+Q,1,25/10/17,Nacional (PAR),1-4,Independiente
+Q,1,25/10/17,Fluminense,0-1,Flamengo
+Q,1,26/10/17,Sport,0-2,Junior Barranquilla
+Q,2,01/11/17,Racing Club,0-0,Libertad
+Q,2,01/11/17,Flamengo,3-3,Fluminense
+Q,2,02/11/17,Independiente,2-0,Nacional (PAR)
+Q,2,02/11/17,Junior Barranquilla,0-0,Sport
+S,1,21/11/17,Libertad,1-0,Independiente
+S,1,23/11/17,Flamengo,2-1,Junior Barranquilla
+S,2,28/11/17,Independiente,3-1,Libertad
+S,2,30/11/17,Junior Barranquilla,0-2,Flamengo
+F,1,06/12/17,Independiente,2-1,Flamengo
+F,2,13/12/17,Flamengo,1-1,Independiente

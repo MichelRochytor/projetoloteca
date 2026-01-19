@@ -1,0 +1,116 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+R1,1,18/02/09,Corinthians-PR,0-2,Guarani
+R1,1,18/02/09,Flamengo-PI,1-4,Vasco
+R1,1,18/02/09,Americana,2-0,Caxias
+R1,1,18/02/09,Icasa,1-1,Portuguesa
+R1,1,18/02/09,Americano,2-0,Santa Cruz
+R1,1,18/02/09,Tupi,2-0,Criciúma
+R1,1,18/02/09,Misto,1-1,Campinense
+R1,1,18/02/09,Holanda-AM,1-2,Coritiba
+R1,1,18/02/09,Mixto,1-2,Paraná
+R1,1,18/02/09,União Rondonópolis,1-0,Internacional
+R1,1,18/02/09,Desportiva Capixaba,1-1,Fortaleza
+R1,1,18/02/09,Sampaio Corrêa,3-2,Figueirense
+R1,1,18/02/09,Nacional-PB,0-1,Fluminense
+R1,1,18/02/09,Rio Branco-AC,1-2,Santos
+R1,1,18/02/09,Itabaiana,0-5,Atlético Mineiro
+R1,1,04/03/09,Barras,0-1,Remo
+R1,2,04/03/09,Internacional,2-0,União Rondonópolis
+R1,1,04/03/09,Fast Clube,1-1,ABC
+R1,1,04/03/09,Tocantins,0-3,Atlético Paranaense
+R1,1,04/03/09,Águia,2-1,América Mineiro
+R1,1,04/03/09,Serra,2-3,CSA
+R1,1,04/03/09,Potiguar,2-2,Bahia
+R1,1,04/03/09,Vilhena,1-2,Ponte Preta
+R1,1,04/03/09,Cristal,1-2,Brasiliense
+R1,1,04/03/09,Atlético Roraima,1-3,Goiás
+R1,1,04/03/09,Atlético Sorocaba,1-0,Juventude
+R1,2,04/03/09,Portuguesa,1-1,Icasa
+R1,2,04/03/09,Campinense,1-1,Misto
+R1,2,04/03/09,Caxias,2-1,Americana
+R1,2,04/03/09,Fortaleza,3-0,Desportiva Capixaba
+R1,2,04/03/09,Coritiba,3-0,Holanda-AM
+R1,1,04/03/09,Confiança,3-2,América-RN
+R1,2,04/03/09,Criciúma,3-0,Tupi
+R1,2,04/03/09,Figueirense,2-1,Sampaio Corrêa
+R1,1,04/03/09,Ivinhema,0-5,Flamengo
+R1,1,04/03/09,Moto Club,1-1,Náutico
+R1,1,04/03/09,Central,0-0,Ceará
+R1,1,04/03/09,Itumbiara,0-2,Corinthians
+R1,1,04/03/09,ASA,1-1,Vitória
+R1,2,05/03/09,Fluminense,3-0,Nacional-PB
+R1,2,05/03/09,Paraná,1-2,Mixto
+R1,2,05/03/09,Santa Cruz,2-4,Americano
+R1,1,05/03/09,Dom Pedro,0-2,Botafogo
+R1,2,18/03/09,América-RN,0-0,Confiança
+R1,2,18/03/09,Ponte Preta,6-1,Vilhena
+R1,2,18/03/09,Remo,2-0,Barras
+R1,2,18/03/09,Brasiliense,3-1,Cristal
+R1,2,18/03/09,CSA,3-1,Serra
+R1,2,18/03/09,Ceará,1-1,Central
+R1,2,18/03/09,Náutico,2-0,Moto Club
+R1,2,18/03/09,Santos,4-0,Rio Branco-AC
+R1,2,18/03/09,Vitória,1-1,ASA
+R1,2,19/03/09,Bahia,6-1,Potiguar
+R1,2,19/03/09,América Mineiro,0-1,Águia
+R1,2,19/03/09,ABC,4-0,Fast Clube
+R1,2,18/03/09,Juventude,2-0,Atlético Sorocaba
+R2,1,08/04/09,Americano,2-1,Botafogo
+R2,1,08/04/09,Brasiliense,0-1,Goiás
+R2,1,08/04/09,Bahia,2-2,Coritiba
+R2,1,08/04/09,ABC,2-2,Atlético Paranaense
+R2,1,08/04/09,CSA,0-0,Santos
+R2,1,08/04/09,Remo,0-2,Flamengo
+R2,1,08/04/09,Guarani,1-2,Internacional
+R2,1,08/04/09,Juventude,1-2,Vitória
+R2,1,09/04/09,Figueirense,2-2,Ponte Preta
+R2,2,15/04/09,Vitória,1-1,Juventude
+R2,1,15/04/09,Icasa,0-0,Confiança
+R2,1,15/04/09,Fortaleza,2-1,Paraná
+R2,2,15/04/09,Coritiba,0-0,Bahia
+R2,1,15/04/09,Misto,0-2,Corinthians
+R2,1,15/04/09,Criciúma,2-2,Náutico
+R2,1,15/04/09,Americana,2-2,Atlético Mineiro
+R2,1,15/04/09,Central,0-3,Vasco
+R2,2,16/04/09,Botafogo,2-1,Americano
+R2,2,16/04/09,Goiás,4-1,Brasiliense
+R2,1,16/04/09,Águia,2-1,Fluminense
+R2,2,22/04/09,Atlético Paranaense,3-1,ABC
+R2,2,22/04/09,Ponte Preta,0-0,Figueirense
+R2,2,22/04/09,Confiança,1-2,Icasa
+R2,2,22/04/09,Fluminense,3-0,Águia
+R2,2,22/04/09,Internacional,5-0,Guarani
+R2,2,22/04/09,Paraná,1-1,Fortaleza
+R2,2,22/04/09,Santos,0-1,CSA
+R2,2,23/04/09,Atlético Mineiro,2-0,Americana
+R2,2,23/04/09,Náutico,3-2,Criciúma
+O,1,29/04/09,Atlético Paranaense,3-2,Corinthians
+O,1,29/04/09,Vitória,3-0,Atlético Mineiro
+O,1,29/04/09,Americano,0-0,Ponte Preta
+O,1,29/04/09,CSA,0-4,Coritiba
+O,1,29/04/09,Náutico,0-3,Internacional
+O,1,29/04/09,Flamengo,0-0,Fortaleza
+O,1,30/04/09,Vasco,1-1,Icasa
+O,1,30/04/09,Goiás,2-2,Fluminense
+O,2,05/05/09,Ponte Preta,2-1,Americano
+O,2,06/05/09,Icasa,1-4,Vasco
+O,2,06/05/09,Atlético Mineiro,3-0,Vitória
+O,2,06/05/09,Internacional,2-0,Náutico
+O,2,06/05/09,Fortaleza,0-3,Flamengo
+O,2,06/05/09,Coritiba,3-0,CSA
+O,2,06/05/09,Corinthians,2-0,Atlético Paranaense
+O,2,07/05/09,Fluminense,1-1,Goiás
+Q,1,12/05/09,Ponte Preta,2-2,Coritiba
+Q,1,13/05/09,Vasco,4-0,Vitória
+Q,1,13/05/09,Flamengo,0-0,Internacional
+Q,1,13/05/09,Corinthians,1-0,Fluminense
+Q,2,19/05/09,Coritiba,1-0,Ponte Preta
+Q,2,20/05/09,Fluminense,2-2,Corinthians
+Q,2,20/05/09,Vitória,1-1,Vasco
+Q,2,20/05/09,Internacional,2-1,Flamengo
+S,1,27/05/09,Vasco,1-1,Corinthians
+S,1,27/05/09,Internacional,3-1,Coritiba
+S,2,03/06/09,Corinthians,0-0,Vasco
+S,2,03/06/09,Coritiba,1-0,Internacional
+F,1,17/06/09,Corinthians,2-0,Internacional
+F,2,01/07/09,Internacional,2-2,Corinthians

@@ -1,0 +1,139 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,25/01/07,Club América,5-0,Sporting Cristal
+PR,1,30/01/07,Vélez Sarsfield,3-0,Danubio
+PR,1,30/01/07,Deportivo Táchira,1-2,Tolima
+PR,1,31/01/07,Blooming,0-1,Santos
+PR,2,01/02/07,Sporting Cristal,2-1,Club América
+PR,1,01/02/07,Cobreloa,0-2,Paraná
+PR,1,01/02/07,Tacuary,1-1,LDU Quito
+PR,2,06/02/07,Danubio,1-2,Vélez Sarsfield
+PR,2,06/02/07,LDU Quito,3-0,Tacuary
+PR,2,07/02/07,Paraná,1-1,Cobreloa
+PR,2,07/02/07,Santos,5-0,Blooming
+PR,2,08/02/07,Tolima,2-0,Deportivo Táchira
+FG,1,13/02/07,Defensor Sporting,3-0,Gimnasia
+FG,1,13/02/07,Cúcuta Deportivo,0-0,Tolima
+FG,1,14/02/07,Emelec,0-1,Vélez Sarsfield
+FG,1,14/02/07,Bolívar,0-0,Boca Juniors
+FG,1,14/02/07,Audax Italiano,0-0,São Paulo
+FG,1,14/02/07,Real Potosí,2-2,Flamengo
+FG,1,15/02/07,UA Maracaibo,2-4,Paraná
+FG,1,15/02/07,Cerro Porteño,0-1,Grêmio
+FG,1,20/02/07,El Nacional,1-2,Club América
+FG,1,20/02/07,Libertad,1-0,Banfield
+FG,1,21/02/07,Alianza Lima,1-2,Necaxa
+FG,2,21/02/07,Paraná,2-0,Real Potosí
+FG,2,21/02/07,Flamengo,3-1,UA Maracaibo
+FG,1,21/02/07,Nacional,3-1,Internacional
+FG,1,22/02/07,Cienciano,1-2,Toluca
+FG,1,22/02/07,Deportivo Pasto,0-1,Santos
+FG,1,22/02/07,Caracas FC,1-0,LDU Quito
+FG,1,22/02/07,Colo-Colo,1-2,River Plate
+FG,2,27/02/07,Banfield,4-1,El Nacional
+FG,2,27/02/07,Grêmio,0-0,Cúcuta Deportivo
+FG,2,27/02/07,Toluca,1-2,Bolívar
+FG,2,28/02/07,Vélez Sarsfield,1-1,Nacional
+FG,2,28/02/07,São Paulo,4-0,Alianza Lima
+FG,2,28/02/07,Internacional,3-0,Emelec
+FG,2,01/03/07,Necaxa,2-0,Audax Italiano
+FG,2,01/03/07,Santos,1-0,Defensor Sporting
+FG,2,01/03/07,Boca Juniors,1-0,Cienciano
+FG,2,01/03/07,Club América,1-4,Libertad
+FG,2,06/03/07,Gimnasia,3-2,Deportivo Pasto
+FG,3,06/03/07,El Nacional,1-1,Libertad
+FG,2,07/03/07,LDU Quito,3-1,Colo-Colo
+FG,2,07/03/07,Tolima,1-0,Cerro Porteño
+FG,3,07/03/07,Club América,4-0,Banfield
+FG,2,08/03/07,Cienciano,5-1,Bolívar
+FG,2,08/03/07,River Plate,0-1,Caracas FC
+FG,3,13/03/07,UA Maracaibo,1-1,Real Potosí
+FG,3,13/03/07,Cúcuta Deportivo,1-1,Cerro Porteño
+FG,3,13/03/07,Alianza Lima,1-3,Audax Italiano
+FG,3,14/03/07,Vélez Sarsfield,3-0,Internacional
+FG,3,14/03/07,Santos,3-0,Gimnasia
+FG,3,14/03/07,Paraná,0-1,Flamengo
+FG,3,15/03/07,Toluca,2-0,Boca Juniors
+FG,3,15/03/07,LDU Quito,1-1,River Plate
+FG,3,15/03/07,Tolima,1-0,Grêmio
+FG,3,15/03/07,Deportivo Pasto,1-2,Defensor Sporting
+FG,4,20/03/07,Caracas FC,0-4,Colo-Colo
+FG,4,20/03/07,Real Potosí,2-2,UA Maracaibo
+FG,4,20/03/07,Cerro Porteño,2-1,Cúcuta Deportivo
+FG,4,21/03/07,Banfield,3-1,Club América
+FG,4,21/03/07,Flamengo,1-0,Paraná
+FG,4,21/03/07,Necaxa,2-1,São Paulo
+FG,4,22/03/07,Gimnasia,1-2,Santos
+FG,4,22/03/07,Libertad,1-0,El Nacional
+FG,4,22/03/07,Boca Juniors,3-0,Toluca
+FG,3,22/03/07,Emelec,1-0,Nacional
+FG,4,27/03/07,Audax Italiano,1-0,Alianza Lima
+FG,4,27/03/07,Grêmio,1-0,Tolima
+FG,3,28/03/07,Bolívar,2-3,Cienciano
+FG,4,28/03/07,Defensor Sporting,3-0,Deportivo Pasto
+FG,4,28/03/07,Internacional,0-0,Vélez Sarsfield
+FG,4,29/03/07,River Plate,0-0,LDU Quito
+FG,5,30/03/07,Colo-Colo,2-1,Caracas FC
+FG,4,03/04/07,Nacional,3-1,Emelec
+FG,5,03/04/07,Colo-Colo,4-0,LDU Quito
+FG,5,03/04/07,El Nacional,0-1,Banfield
+FG,5,04/04/07,Cienciano,3-0,Boca Juniors
+FG,5,04/04/07,UA Maracaibo,1-2,Flamengo
+FG,5,04/04/07,São Paulo,3-0,Necaxa
+FG,5,05/04/07,Defensor Sporting,0-2,Santos
+FG,6,05/04/07,Caracas FC,3-1,River Plate
+FG,5,05/04/07,Deportivo Pasto,0-2,Gimnasia
+FG,6,10/04/07,Real Potosí,3-1,Paraná
+FG,5,10/04/07,Cerro Porteño,1-0,Tolima
+FG,5,10/04/07,Emelec,1-2,Internacional
+FG,6,11/04/07,Libertad,1-2,Club América
+FG,6,11/04/07,Cúcuta Deportivo,3-1,Grêmio
+FG,5,11/04/07,Audax Italiano,2-1,Necaxa
+FG,5,12/04/07,Nacional,2-0,Vélez Sarsfield
+FG,6,12/04/07,Bolívar,0-2,Toluca
+FG,6,18/04/07,Banfield,0-1,Libertad
+FG,6,18/04/07,Club América,2-1,El Nacional
+FG,6,18/04/07,Flamengo,1-0,Real Potosí
+FG,6,18/04/07,Paraná,2-1,UA Maracaibo
+FG,6,18/04/07,Alianza Lima,0-1,São Paulo
+FG,6,19/04/07,Vélez Sarsfield,1-0,Emelec
+FG,6,19/04/07,Internacional,1-0,Nacional
+FG,6,19/04/07,Gimnasia,3-0,Defensor Sporting
+FG,6,19/04/07,Santos,3-0,Deportivo Pasto
+FG,6,24/04/07,Tolima,3-4,Cúcuta Deportivo
+FG,6,24/04/07,Grêmio,1-0,Cerro Porteño
+FG,6,25/04/07,LDU Quito,3-1,Caracas FC
+FG,6,25/04/07,River Plate,1-0,Colo-Colo
+FG,6,25/04/07,São Paulo,2-2,Audax Italiano
+FG,6,25/04/07,Necaxa,2-0,Alianza Lima
+FG,6,26/04/07,Toluca,3-0,Cienciano
+FG,6,26/04/07,Boca Juniors,7-0,Bolívar
+O,1,02/05/07,Caracas FC,2-2,Santos
+O,1,02/05/07,Club América,3-0,Colo-Colo
+O,1,02/05/07,Boca Juniors,3-0,Vélez Sarsfield
+O,1,02/05/07,São Paulo,1-0,Grêmio
+O,1,02/05/07,Defensor Sporting,3-0,Flamengo
+O,1,03/05/07,Paraná,1-2,Libertad
+O,1,03/05/07,Nacional,3-2,Necaxa
+O,1,03/05/07,Cúcuta Deportivo,5-1,Toluca
+O,2,08/05/07,Colo-Colo,2-1,Club América
+O,2,08/05/07,Toluca,2-0,Cúcuta Deportivo
+O,2,09/05/07,Vélez Sarsfield,3-1,Boca Juniors
+O,2,09/05/07,Flamengo,2-0,Defensor Sporting
+O,2,09/05/07,Grêmio,2-0,São Paulo
+O,2,10/05/07,Santos,3-2,Caracas FC
+O,2,10/05/07,Libertad,1-1,Paraná
+O,2,10/05/07,Necaxa,0-1,Nacional
+Q,1,15/05/07,Cúcuta Deportivo,2-0,Nacional
+Q,1,16/05/07,Defensor Sporting,2-0,Grêmio
+Q,1,16/05/07,Club América,0-0,Santos
+Q,1,17/05/07,Boca Juniors,1-1,Libertad
+Q,2,22/05/07,Nacional,2-2,Cúcuta Deportivo
+Q,2,23/05/07,Grêmio,2-0,Defensor Sporting
+Q,2,23/05/07,Santos,2-1,Club América
+Q,2,24/05/07,Libertad,0-2,Boca Juniors
+S,1,30/05/07,Grêmio,2-0,Santos
+S,1,31/05/07,Cúcuta Deportivo,3-1,Boca Juniors
+S,2,06/06/07,Santos,3-1,Grêmio
+S,2,07/06/07,Boca Juniors,3-0,Cúcuta Deportivo
+F,1,13/06/07,Boca Juniors,3-0,Grêmio
+F,2,20/06/07,Grêmio,0-2,Boca Juniors

@@ -1,0 +1,114 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+R1,1,15/02/06,Parnahyba,0-1,ABC
+R1,1,15/02/06,Estrela do Norte,1-1,Guarani
+R1,1,15/02/06,Hermann Aichinger,0-3,Atlético-MG
+R1,1,15/02/06,Mineiros,3-1,Americano
+R1,1,15/02/06,Sergipe,0-0,Santos
+R1,1,15/02/06,URT,3-2,Londrina
+R1,1,15/02/06,Botafogo-PB,1-1,Vasco
+R1,1,15/02/06,Ulbra,2-4,Iraty
+R1,1,15/02/06,Cabofriense,1-1,São Caetano
+R1,1,15/02/06,Novo Hamburgo,2-2,Criciúma
+R1,1,15/02/06,Moto Club,1-3,Atlético-PR
+R1,1,15/02/06,Volta Redonda,2-1,América-MG
+R1,1,15/02/06,Colinas,0-2,Paysandu
+R1,1,15/02/06,Grêmio Coariense,2-5,Vila Nova
+R1,1,15/02/06,Vila Aurora,0-0,Santa Cruz
+R1,1,16/02/06,Operário-MS,1-2,Botafogo
+R1,1,22/02/06,ASA,1-1,Flamengo
+R1,1,22/02/06,Potiguar,2-0,Santo André
+R1,1,22/02/06,Vilhena,1-3,Fortaleza
+R1,1,22/02/06,Ceilândia,0-0,Bahia
+R1,1,22/02/06,Serra,1-3,Ipatinga
+R1,1,22/02/06,Icasa,0-0,Coritiba
+R1,1,22/02/06,Rio Branco-AC,0-1,Náutico
+R1,1,22/02/06,São Raimundo-RR,0-2,Brasiliense
+R1,1,22/02/06,Itabaiana,0-0,Remo
+R1,1,22/02/06,Piauí,1-2,Grêmio
+R1,1,22/02/06,15 de Novembro,4-1,Noroeste
+R1,1,22/02/06,Operário-MT,2-3,Fluminense
+R1,1,22/02/06,CENE,2-1,Treze
+R1,1,22/02/06,Nacional-AM,2-5,Cruzeiro
+R1,1,22/02/06,São José-AP,0-1,CRB
+R1,1,22/02/06,Imperatriz,1-1,Vitória
+R1,2,22/02/06,ABC,5-1,Parnahyba
+R1,2,22/02/06,Londrina,1-1,URT
+R1,2,22/02/06,Vasco,7-0,Botafogo-PB
+R1,2,22/02/06,Criciúma,2-1,Novo Hamburgo
+R1,2,22/02/06,Botafogo,5-1,Operário-MS
+R1,2,22/02/06,Santa Cruz,1-0,Vila Aurora
+R1,2,22/02/06,América-MG,2-1,Volta Redonda
+R1,2,22/02/06,Santos,3-0,Sergipe
+R1,2,08/03/06,Flamengo,2-1,ASA
+R1,2,08/03/06,Guarani,3-0,Estrela do Norte
+R1,2,08/03/06,Americano,4-2,Mineiros
+R1,2,08/03/06,Bahia,1-2,Ceilândia
+R1,2,08/03/06,Coritiba,3-1,Icasa
+R1,2,08/03/06,Náutico,4-1,Rio Branco-AC
+R1,2,08/03/06,Remo,4-1,Itabaiana
+R1,2,08/03/06,Grêmio,4-0,Piauí
+R1,2,08/03/06,Noroeste,2-0,15 de Novembro
+R1,2,08/03/06,Treze,1-3,CENE
+R1,2,08/03/06,CRB,3-0,São José-AP
+R1,2,08/03/06,Vitória,5-2,Imperatriz
+R1,2,08/03/06,Santo André,1-2,Potiguar
+R1,2,09/03/06,Fluminense,3-1,Operário-MT
+R1,2,09/03/06,São Caetano,4-1,Cabofriense
+R2,1,15/03/06,Mineiros,3-2,Atlético-MG
+R2,1,15/03/06,Santa Cruz,2-2,Vitória
+R2,1,15/03/06,Ipatinga,3-0,Botafogo
+R2,1,15/03/06,Ceilândia,1-1,Fortaleza
+R2,1,15/03/06,15 de Novembro,1-0,Grêmio
+R2,1,15/03/06,Náutico,2-0,Coritiba
+R2,1,15/03/06,São Caetano,4-1,Criciúma
+R2,1,15/03/06,Brasiliense,3-1,Remo
+R2,1,22/03/06,Iraty,2-2,Vasco
+R2,1,22/03/06,Potiguar,0-4,Guarani
+R2,1,22/03/06,Vila Nova,3-1,Paysandu
+R2,1,22/03/06,ABC,0-1,Flamengo
+R2,1,22/03/06,CENE,3-5,Fluminense
+R2,1,22/03/06,Volta Redonda,2-1,Atlético-PR
+R2,1,22/03/06,CRB,0-2,Cruzeiro
+R2,1,22/03/06,URT,1-3,Santos
+R2,2,22/03/06,Atlético-MG,4-1,Mineiros
+R2,2,22/03/06,Vitória,3-2,Santa Cruz
+R2,2,22/03/06,Coritiba,0-0,Náutico
+R2,2,22/03/06,Criciúma,4-0,São Caetano
+R2,2,22/03/06,Remo,0-1,Brasiliense
+R2,2,23/03/06,Botafogo,1-3,Ipatinga
+R2,2,23/03/06,Grêmio,1-0,15 de Novembro
+R2,2,05/04/06,Atlético-PR,0-0,Volta Redonda
+R2,2,05/04/06,Flamengo,4-0,ABC
+R2,2,05/04/06,Fortaleza,3-1,Ceilândia
+R2,2,05/04/06,Paysandu,1-0,Vila Nova
+R2,2,08/04/06,Vasco,5-1,Iraty
+O,1,12/04/06,Flamengo,5-1,Guarani
+O,1,12/04/06,Atlético-MG,0-2,Fortaleza
+O,1,12/04/06,Ipatinga,3-1,Náutico
+O,1,12/04/06,Santos,2-1,Brasiliense
+O,1,12/04/06,Criciúma,1-2,Vasco
+O,1,12/04/06,Volta Redonda,1-0,15 de Novembro
+O,1,12/04/06,Vila Nova,2-2,Fluminense
+O,1,12/04/06,Vitória,2-1,Cruzeiro
+O,2,19/04/06,Guarani,1-0,Flamengo
+O,2,19/04/06,Fortaleza,1-3,Atlético-MG
+O,2,19/04/06,Náutico,1-3,Ipatinga
+O,2,19/04/06,Brasiliense,1-1,Santos
+O,2,19/04/06,15 de Novembro,2-1,Volta Redonda
+O,2,19/04/06,Fluminense,4-0,Vila Nova
+O,2,19/04/06,Cruzeiro,4-0,Vitória
+O,2,20/04/06,Vasco,1-0,Criciúma
+Q,1,26/04/06,Flamengo,4-1,Atlético-MG
+Q,1,26/04/06,Ipatinga,1-1,Santos
+Q,1,26/04/06,Cruzeiro,2-3,Fluminense
+Q,1,27/04/06,Volta Redonda,0-0,Vasco
+Q,2,03/05/06,Atlético-MG,0-0,Flamengo
+Q,2,03/05/06,Santos,1-1,Ipatinga
+Q,2,03/05/06,Fluminense,1-0,Cruzeiro
+Q,2,04/05/06,Vasco,2-1,Volta Redonda
+S,1,10/05/06,Ipatinga,1-1,Flamengo
+S,1,11/05/06,Fluminense,0-1,Vasco
+S,2,17/05/06,Vasco,1-1,Fluminense
+S,2,18/05/06,Flamengo,2-1,Ipatinga
+F,1,19/07/06,Flamengo,2-0,Vasco
+F,2,26/07/06,Vasco,0-1,Flamengo

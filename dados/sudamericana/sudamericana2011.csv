@@ -1,0 +1,77 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,02/08/11,Bella Vista,1-1,Univ. Católica
+PR,1,02/08/11,Universidad César Vallejo,1-1,Santa Fe
+PR,1,03/08/11,Dep. Quito,1-0,Anzoátegui
+PR,1,03/08/11,San José,0-0,Nacional (PAR)
+PR,1,03/08/11,Olimpia,2-0,The Strongest
+PR,1,04/08/11,Yaracuyanos FC,1-1,LDU Quito
+PR,1,09/08/11,Universidad de Chile,1-0,Fénix
+PR,1,18/08/11,La Equidad,2-0,Juan Aurich
+PR,2,11/08/11,The Strongest,2-1,Olimpia
+PR,2,16/08/11,Univ. Católica,3-0,Bella Vista
+PR,2,16/08/11,Anzoátegui,2-0,Dep. Quito
+PR,2,17/08/11,LDU Quito,1-0,Yaracuyanos FC
+PR,2,17/08/11,Nacional (PAR),1-0,San José
+PR,2,18/08/11,Fénix,0-0,Universidad de Chile
+PR,2,23/08/11,Santa Fe,2-0,Universidad César Vallejo
+PR,2,25/08/11,Juan Aurich,1-2,La Equidad
+1F,1,10/08/11,Ceará,2-1,São Paulo
+1F,1,10/08/11,Atlético Mineiro,1-2,Botafogo
+1F,1,10/08/11,Flamengo,1-0,Atlético Paranaense
+1F,1,11/08/11,Vasco,2-0,Palmeiras
+1F,1,30/08/11,Arsenal de Sarandí,2-0,Estudiantes
+1F,1,31/08/11,Lanús,2-2,Godoy Cruz
+1F,1,01/09/11,Argentinos Juniors,0-0,Vélez Sarsfield
+1F,2,23/08/11,Botafogo,1-0,Atlético Mineiro
+1F,2,24/08/11,São Paulo,3-0,Ceará
+1F,2,24/08/11,Atlético Paranaense,0-1,Flamengo
+1F,2,25/08/11,Palmeiras,3-1,Vasco
+1F,2,06/09/11,Estudiantes,1-0,Arsenal de Sarandí
+1F,2,07/09/11,Godoy Cruz,0-0,Lanús
+1F,2,08/09/11,Vélez Sarsfield,4-0,Argentinos Juniors
+2F,1,30/08/11,Nacional (PAR),1-1,Aurora
+2F,1,01/09/11,Anzoátegui,1-2,Universitario
+2F,1,08/09/11,Univ. Católica,2-1,Deportes Iquique
+2F,1,13/09/11,LDU Quito,4-1,Trujillanos FC
+2F,1,13/09/11,Universidad de Chile,1-0,Nacional (URU)
+2F,1,13/09/11,La Equidad,0-1,Libertad
+2F,1,15/09/11,Olimpia,2-1,Emelec
+2F,1,15/09/11,Santa Fe,1-1,Deportivo Cali
+2F,2,14/09/11,Universitario,2-0,Anzoátegui
+2F,2,14/09/11,Deportes Iquique,0-0,Univ. Católica
+2F,2,20/09/11,Aurora,5-2,Nacional (PAR)
+2F,2,20/09/11,Emelec,1-2,Olimpia
+2F,2,21/09/11,Nacional (URU),0-2,Universidad de Chile
+2F,2,21/09/11,Libertad,1-0,La Equidad
+2F,2,22/09/11,Trujillanos FC,0-1,LDU Quito
+2F,2,22/09/11,Deportivo Cali,1-1,Santa Fe
+O,1,28/09/11,LDU Quito,2-0,Independiente
+O,1,29/09/11,Olimpia,0-0,Arsenal de Sarandí
+O,1,29/09/11,Botafogo,1-1,Santa Fe
+O,1,29/09/11,Godoy Cruz,1-1,Universitario
+O,1,05/10/11,Univ. Católica,0-2,Vélez Sarsfield
+O,1,05/10/11,Aurora,3-1,Vasco
+O,1,19/10/11,Flamengo,0-4,Universidad de Chile
+O,1,19/10/11,São Paulo,1-0,Libertad
+O,2,12/10/11,Independiente,1-0,LDU Quito
+O,2,19/10/11,Arsenal de Sarandí,3-2,Olimpia
+O,2,20/10/11,Vélez Sarsfield,1-1,Univ. Católica
+O,2,20/10/11,Universitario,1-1,Godoy Cruz
+O,2,25/10/11,Libertad,2-0,São Paulo
+O,2,25/10/11,Universidad de Chile,1-0,Flamengo
+O,2,25/10/11,Santa Fe,4-1,Botafogo
+O,2,26/10/11,Vasco,8-3,Aurora
+Q,1,01/11/11,Santa Fe,1-1,Vélez Sarsfield
+Q,1,02/11/11,Universitario,2-0,Vasco
+Q,1,02/11/11,LDU Quito,1-0,Libertad
+Q,1,03/11/11,Arsenal de Sarandí,1-2,Universidad de Chile
+Q,2,09/11/11,Vasco,5-2,Universitario
+Q,2,10/11/11,Vélez Sarsfield,3-2,Santa Fe
+Q,2,17/11/11,Libertad,1-0,LDU Quito
+Q,2,17/11/11,Universidad de Chile,3-0,Arsenal de Sarandí
+S,1,23/11/11,Vasco,1-1,Universidad de Chile
+S,1,24/11/11,LDU Quito,2-0,Vélez Sarsfield
+S,2,29/11/11,Vélez Sarsfield,0-1,LDU Quito
+S,2,30/11/11,Universidad de Chile,2-0,Vasco
+F,1,08/12/11,LDU Quito,0-1,Universidad de Chile
+F,2,14/12/11,Universidad de Chile,3-0,LDU Quito

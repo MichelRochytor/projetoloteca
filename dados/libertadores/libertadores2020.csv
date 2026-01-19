@@ -1,0 +1,156 @@
+Fase,Rodada,Data,Time da Casa,Placar,Time Visitante
+PR,1,21/01/20,Carabobo,1-1,Universitario
+PR,1,22/01/20,San José,0-1,Guaraní
+PR,1,22/01/20,Progreso,0-2,Barcelona SC
+PR,2,28/01/20,Universitario,1-0,Carabobo
+PR,2,29/01/20,Guaraní,4-0,San José
+PR,2,29/01/20,Barcelona SC,3-1,Progreso
+PR,1,04/02/20,Univ. de Chile,0-0,Internacional
+PR,1,04/02/20,Ind. Medellín,4-0,Deportivo Táchira
+PR,1,04/02/20,Macará,0-1,Tolima
+PR,1,05/02/20,Cerro Largo,1-1,Palestino
+PR,1,05/02/20,Universitario,1-1,Cerro Porteño
+PR,1,05/02/20,Guaraní,1-0,Corinthians
+PR,1,05/02/20,The Strongest,2-0,Atlético Tucumán
+PR,1,06/02/20,Barcelona SC,4-0,Sporting Cristal
+PR,2,11/02/20,Internacional,2-0,Univ. de Chile
+PR,2,11/02/20,Deportivo Táchira,2-0,Ind. Medellín
+PR,2,11/02/20,Tolima,1-0,Macará
+PR,2,12/02/20,Cerro Porteño,1-0,Universitario
+PR,2,12/02/20,Palestino,5-1,Cerro Largo
+PR,2,12/02/20,Atlético Tucumán,2-0,The Strongest
+PR,2,12/02/20,Corinthians,2-1,Guaraní
+PR,2,13/02/20,Sporting Cristal,2-1,Barcelona SC
+PR,1,18/02/20,Ind. Medellín,1-0,Atlético Tucumán
+PR,1,19/02/20,Tolima,0-0,Internacional
+PR,1,19/02/20,Barcelona SC,1-0,Cerro Porteño
+PR,1,20/02/20,Palestino,0-1,Guaraní
+PR,2,25/02/20,Atlético Tucumán,1-0,Ind. Medellín
+PR,2,26/02/20,Cerro Porteño,0-4,Barcelona SC
+PR,2,26/02/20,Internacional,1-0,Tolima
+PR,2,27/02/20,Guaraní,2-1,Palestino
+FG,1,03/03/20,Defensa y Justicia,1-2,Santos
+FG,1,03/03/20,Internacional,3-0,Univ. Católica
+FG,1,03/03/20,Ind. Medellín,1-2,Libertad
+FG,1,03/03/20,América de Cali,0-2,Grêmio
+FG,1,03/03/20,Caracas FC,1-1,Boca Juniors
+FG,1,03/03/20,Athletico-PR,1-0,Peñarol
+FG,1,04/03/20,Barcelona SC,0-3,Ind. del Valle
+FG,1,04/03/20,Jorge Wilstermann,2-0,Colo-Colo
+FG,1,04/03/20,Tigre,0-2,Palmeiras
+FG,1,04/03/20,LDU Quito,3-0,River Plate
+FG,1,04/03/20,Junior Barranquilla,1-2,Flamengo
+FG,1,04/03/20,Guaraní,2-0,Bolívar
+FG,1,04/03/20,Delfín SC,1-1,Olimpia
+FG,1,05/03/20,Estudiantes de Mérida,1-2,Racing Club
+FG,1,05/03/20,Binacional,2-1,São Paulo
+FG,1,05/03/20,Alianza Lima,0-1,Nacional
+FG,2,10/03/20,Bolívar,2-0,Tigre
+FG,2,10/03/20,Santos,1-0,Delfín SC
+FG,2,10/03/20,Univ. Católica,1-2,América de Cali
+FG,2,10/03/20,Libertad,3-2,Caracas FC
+FG,2,10/03/20,Boca Juniors,3-0,Ind. Medellín
+FG,2,10/03/20,Palmeiras,3-1,Guaraní
+FG,2,11/03/20,Peñarol,1-0,Jorge Wilstermann
+FG,2,11/03/20,River Plate,8-0,Binacional
+FG,2,11/03/20,Colo-Colo,1-0,Athletico-PR
+FG,2,11/03/20,Ind. del Valle,3-0,Junior Barranquilla
+FG,2,11/03/20,Flamengo,3-0,Barcelona SC
+FG,2,11/03/20,São Paulo,3-0,LDU Quito
+FG,2,11/03/20,Olimpia,2-1,Defensa y Justicia
+FG,2,12/03/20,Nacional,1-0,Estudiantes de Mérida
+FG,2,12/03/20,Grêmio,0-0,Internacional
+FG,2,12/03/20,Racing Club,1-0,Alianza Lima
+FG,3,15/09/20,Colo-Colo,2-1,Peñarol
+FG,3,15/09/20,Jorge Wilstermann,2-3,Athletico-PR
+FG,3,15/09/20,Binacional,0-1,LDU Quito
+FG,3,15/09/20,Santos,0-0,Olimpia
+FG,3,16/09/20,Estudiantes de Mérida,3-2,Alianza Lima
+FG,3,16/09/20,Internacional,4-3,América de Cali
+FG,3,16/09/20,Univ. Católica,2-0,Grêmio
+FG,3,16/09/20,Ind. Medellín,2-3,Caracas FC
+FG,3,16/09/20,Bolívar,1-2,Palmeiras
+FG,3,17/09/20,Racing Club,0-1,Nacional
+FG,3,17/09/20,Defensa y Justicia,3-0,Delfín SC
+FG,3,17/09/20,São Paulo,2-2,River Plate
+FG,3,17/09/20,Ind. del Valle,5-0,Flamengo
+FG,3,17/09/20,Libertad,0-2,Boca Juniors
+FG,3,17/09/20,Barcelona SC,1-2,Junior Barranquilla
+FG,3,17/09/20,Guaraní,4-1,Tigre
+FG,4,22/09/20,Estudiantes de Mérida,1-3,Nacional
+FG,4,22/09/20,Barcelona SC,1-2,Flamengo
+FG,4,22/09/20,Tigre,1-1,Bolívar
+FG,4,22/09/20,LDU Quito,4-2,São Paulo
+FG,4,22/09/20,Junior Barranquilla,4-1,Ind. del Valle
+FG,4,22/09/20,Binacional,0-6,River Plate
+FG,4,23/09/20,Caracas FC,2-1,Libertad
+FG,4,23/09/20,Athletico-PR,2-0,Colo-Colo
+FG,4,23/09/20,Defensa y Justicia,2-1,Olimpia
+FG,4,23/09/20,Internacional,0-1,Grêmio
+FG,4,23/09/20,Alianza Lima,0-2,Racing Club
+FG,4,23/09/20,América de Cali,1-1,Univ. Católica
+FG,4,23/09/20,Guaraní,0-0,Palmeiras
+FG,4,24/09/20,Jorge Wilstermann,3-1,Peñarol
+FG,4,24/09/20,Ind. Medellín,0-1,Boca Juniors
+FG,4,24/09/20,Delfín SC,1-2,Santos
+FG,5,29/09/20,Grêmio,2-0,Univ. Católica
+FG,5,29/09/20,Peñarol,3-0,Colo-Colo
+FG,5,29/09/20,Boca Juniors,0-0,Libertad
+FG,5,29/09/20,Athletico-PR,0-0,Jorge Wilstermann
+FG,5,29/09/20,América de Cali,0-0,Internacional
+FG,5,29/09/20,LDU Quito,4-0,Binacional
+FG,5,30/09/20,Caracas FC,0-2,Ind. Medellín
+FG,5,30/09/20,Nacional,1-2,Racing Club
+FG,5,30/09/20,Palmeiras,5-0,Bolívar
+FG,5,30/09/20,Flamengo,4-0,Ind. del Valle
+FG,5,30/09/20,Junior Barranquilla,0-2,Barcelona SC
+FG,5,30/09/20,River Plate,2-1,São Paulo
+FG,5,30/09/20,Alianza Lima,2-2,Estudiantes de Mérida
+FG,5,01/10/20,Olimpia,2-3,Santos
+FG,5,01/10/20,Tigre,1-3,Guaraní
+FG,5,01/10/20,Delfín SC,3-0,Defensa y Justicia
+FG,6,20/10/20,Olimpia,0-1,Delfín SC
+FG,6,20/10/20,Santos,2-1,Defensa y Justicia
+FG,6,20/10/20,Colo-Colo,0-1,Jorge Wilstermann
+FG,6,20/10/20,River Plate,3-0,LDU Quito
+FG,6,20/10/20,Peñarol,3-2,Athletico-PR
+FG,6,20/10/20,São Paulo,5-1,Binacional
+FG,6,21/10/20,Racing Club,2-1,Estudiantes de Mérida
+FG,6,21/10/20,Nacional,2-0,Alianza Lima
+FG,6,21/10/20,Ind. del Valle,2-0,Barcelona SC
+FG,6,21/10/20,Palmeiras,5-0,Tigre
+FG,6,21/10/20,Bolívar,2-3,Guaraní
+FG,6,21/10/20,Flamengo,3-1,Junior Barranquilla
+FG,6,22/10/20,Univ. Católica,2-1,Internacional
+FG,6,22/10/20,Grêmio,1-1,América de Cali
+FG,6,22/10/20,Libertad,2-4,Ind. Medellín
+FG,6,22/10/20,Boca Juniors,3-0,Caracas FC
+O,1,24/11/20,Athletico-PR,1-1,River Plate
+O,1,24/11/20,LDU Quito,1-2,Santos
+O,1,24/11/20,Racing Club,1-1,Flamengo
+O,1,25/11/20,Delfín SC,1-3,Palmeiras
+O,1,25/11/20,Ind. del Valle,0-0,Nacional
+O,1,25/11/20,Libertad,3-1,Jorge Wilstermann
+O,1,26/11/20,Guaraní,0-2,Grêmio
+O,1,02/12/20,Internacional,0-1,Boca Juniors
+O,2,01/12/20,River Plate,1-0,Athletico-PR
+O,2,01/12/20,Santos,0-1,LDU Quito
+O,2,01/12/20,Flamengo,1-1,Racing Club
+O,2,02/12/20,Palmeiras,5-0,Delfín SC
+O,2,02/12/20,Nacional,0-0,Ind. del Valle
+O,2,02/12/20,Jorge Wilstermann,0-2,Libertad
+O,2,03/12/20,Grêmio,2-0,Guaraní
+O,2,09/12/20,Boca Juniors,0-1,Internacional
+Q,1,08/12/20,Libertad,1-1,Palmeiras
+Q,1,09/12/20,Grêmio,1-1,Santos
+Q,1,10/12/20,River Plate,2-0,Nacional
+Q,1,16/12/20,Racing Club,1-0,Boca Juniors
+Q,2,15/12/20,Palmeiras,3-0,Libertad
+Q,2,16/12/20,Santos,4-1,Grêmio
+Q,2,17/12/20,Nacional,2-6,River Plate
+Q,2,23/12/20,Boca Juniors,2-0,Racing Club
+S,1,05/01/21,River Plate,0-3,Palmeiras
+S,1,06/01/21,Boca Juniors,0-0,Santos
+S,2,12/01/21,Palmeiras,0-2,River Plate
+S,2,13/01/21,Santos,3-0,Boca Juniors
+F,1,30/01/21,Palmeiras,1-0,Santos
