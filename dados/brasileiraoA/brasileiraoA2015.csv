@@ -5,8 +5,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,10/05/15,São Paulo,2-1,Flamengo
 1,10/05/15,Cruzeiro,0-1,Corinthians
 1,10/05/15,Atlético-PR,3-0,Internacional
-1,10/05/15,Sport Recife,4-1,Figueirense
-1,10/05/15,Vasco da Gama,0-0,Goiás
+1,10/05/15,Sport,4-1,Figueirense
+1,10/05/15,Vasco,0-0,Goiás
 1,10/05/15,Grêmio,3-3,Ponte Preta
 1,10/05/15,Avaí,1-1,Santos
 2,16/05/15,Corinthians,1-0,Chapecoense
@@ -16,10 +16,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 2,17/05/15,Santos,1-0,Cruzeiro
 2,17/05/15,Internacional,1-0,Avaí
 2,17/05/15,Joinville,0-0,Palmeiras
-2,17/05/15,Flamengo,2-2,Sport Recife
+2,17/05/15,Flamengo,2-2,Sport
 2,17/05/15,Atlético-MG,4-1,Fluminense
-2,17/05/15,Figueirense,0-0,Vasco da Gama
-3,23/05/15,Vasco da Gama,1-1,Internacional
+2,17/05/15,Figueirense,0-0,Vasco
+3,23/05/15,Vasco,1-1,Internacional
 3,23/05/15,Grêmio,1-0,Figueirense
 3,23/05/15,São Paulo,3-0,Joinville
 3,24/05/15,Cruzeiro,1-1,Ponte Preta
@@ -27,20 +27,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 3,24/05/15,Chapecoense,1-0,Santos
 3,24/05/15,Palmeiras,0-1,Goiás
 3,24/05/15,Fluminense,0-0,Corinthians
-3,24/05/15,Sport Recife,1-0,Coritiba
+3,24/05/15,Sport,1-0,Coritiba
 3,24/05/15,Avaí,2-1,Flamengo
 4,30/05/15,Ponte Preta,3-1,Chapecoense
 4,30/05/15,Joinville,1-2,Atlético-PR
 4,30/05/15,Coritiba,1-2,Avaí
-4,31/05/15,Santos,2-2,Sport Recife
+4,31/05/15,Santos,2-2,Sport
 4,31/05/15,Goiás,1-1,Grêmio
 4,31/05/15,Corinthians,0-2,Palmeiras
 4,31/05/15,Internacional,0-0,São Paulo
 4,31/05/15,Figueirense,2-1,Cruzeiro
 4,31/05/15,Flamengo,2-3,Fluminense
-4,31/05/15,Atlético-MG,3-0,Vasco da Gama
+4,31/05/15,Atlético-MG,3-0,Vasco
 5,03/06/15,Grêmio,3-1,Corinthians
-5,03/06/15,Vasco da Gama,0-3,Ponte Preta
+5,03/06/15,Vasco,0-3,Ponte Preta
 5,03/06/15,Chapecoense,2-0,Joinville
 5,03/06/15,Atlético-PR,1-0,Figueirense
 5,03/06/15,São Paulo,3-2,Santos
@@ -48,22 +48,22 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 5,03/06/15,Avaí,1-4,Atlético-MG
 5,04/06/15,Palmeiras,1-1,Internacional
 5,04/06/15,Fluminense,2-0,Coritiba
-5,04/06/15,Sport Recife,1-0,Goiás
+5,04/06/15,Sport,1-0,Goiás
 6,06/06/15,Flamengo,1-0,Chapecoense
-6,06/06/15,Atlético-PR,2-0,Vasco da Gama
+6,06/06/15,Atlético-PR,2-0,Vasco
 6,06/06/15,Joinville,0-1,Corinthians
 6,06/06/15,Santos,2-2,Ponte Preta
 6,06/06/15,Atlético-MG,1-3,Cruzeiro
 6,06/06/15,São Paulo,2-0,Grêmio
 6,07/06/15,Internacional,2-0,Coritiba
-6,07/06/15,Fluminense,0-0,Sport Recife
+6,07/06/15,Fluminense,0-0,Sport
 6,07/06/15,Goiás,0-1,Avaí
 6,07/06/15,Figueirense,2-1,Palmeiras
 7,13/06/15,Coritiba,0-1,Flamengo
-7,13/06/15,Vasco da Gama,1-3,Cruzeiro
+7,13/06/15,Vasco,1-3,Cruzeiro
 7,13/06/15,Chapecoense,0-1,São Paulo
 7,13/06/15,Corinthians,2-1,Internacional
-7,13/06/15,Sport Recife,2-1,Joinville
+7,13/06/15,Sport,2-1,Joinville
 7,14/06/15,Ponte Preta,0-0,Goiás
 7,14/06/15,Palmeiras,2-1,Fluminense
 7,14/06/15,Grêmio,2-1,Atlético-PR
@@ -72,7 +72,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 8,20/06/15,Grêmio,1-0,Palmeiras
 8,20/06/15,Santos,1-0,Corinthians
 8,20/06/15,Flamengo,0-2,Atlético-MG
-8,20/06/15,Sport Recife,2-1,Vasco da Gama
+8,20/06/15,Sport,2-1,Vasco
 8,21/06/15,Joinville,2-1,Goiás
 8,21/06/15,Cruzeiro,0-1,Chapecoense
 8,21/06/15,São Paulo,1-1,Avaí
@@ -80,17 +80,17 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 8,18/06/15,Figueirense,0-0,Internacional
 8,24/06/15,Fluminense,2-0,Ponte Preta
 9,27/06/15,Corinthians,2-1,Figueirense
-9,27/06/15,Chapecoense,1-1,Sport Recife
+9,27/06/15,Chapecoense,1-1,Sport
 9,27/06/15,Avaí,1-2,Grêmio
 9,28/06/15,Palmeiras,4-0,São Paulo
 9,28/06/15,Internacional,1-0,Santos
 9,28/06/15,Ponte Preta,2-1,Atlético-PR
 9,28/06/15,Coritiba,1-0,Cruzeiro
 9,28/06/15,Goiás,1-2,Fluminense
-9,28/06/15,Vasco da Gama,1-0,Flamengo
+9,28/06/15,Vasco,1-0,Flamengo
 9,28/06/15,Atlético-MG,1-0,Joinville
-10,01/07/15,Sport Recife,3-0,Internacional
-10,01/07/15,Vasco da Gama,1-0,Avaí
+10,01/07/15,Sport,3-0,Internacional
+10,01/07/15,Vasco,1-0,Avaí
 10,01/07/15,Palmeiras,2-0,Chapecoense
 10,01/07/15,Atlético-MG,2-0,Coritiba
 10,01/07/15,Grêmio,1-0,Cruzeiro
@@ -101,12 +101,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 10,02/07/15,Fluminense,2-1,Santos
 11,04/07/15,Coritiba,0-0,Joinville
 11,04/07/15,Cruzeiro,2-0,Atlético-PR
-11,04/07/15,Chapecoense,1-0,Vasco da Gama
+11,04/07/15,Chapecoense,1-0,Vasco
 11,05/07/15,Santos,1-3,Grêmio
 11,05/07/15,Goiás,0-0,Corinthians
 11,05/07/15,São Paulo,0-0,Fluminense
 11,05/07/15,Ponte Preta,0-2,Palmeiras
-11,05/07/15,Avaí,2-2,Sport Recife
+11,05/07/15,Avaí,2-2,Sport
 11,05/07/15,Flamengo,1-2,Figueirense
 11,05/07/15,Internacional,1-3,Atlético-MG
 12,08/07/15,Goiás,4-1,Santos
@@ -115,11 +115,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,08/07/15,Palmeiras,3-0,Avaí
 12,08/07/15,Figueirense,0-2,Joinville
 12,08/07/15,Internacional,1-2,Flamengo
-12,08/07/15,Vasco da Gama,0-4,São Paulo
-12,08/07/15,Atlético-MG,2-1,Sport Recife
+12,08/07/15,Vasco,0-4,São Paulo
+12,08/07/15,Atlético-MG,2-1,Sport
 12,09/07/15,Corinthians,2-0,Atlético-PR
 12,09/07/15,Fluminense,1-0,Cruzeiro
-13,11/07/15,Grêmio,2-0,Vasco da Gama
+13,11/07/15,Grêmio,2-0,Vasco
 13,11/07/15,Santos,3-0,Figueirense
 13,11/07/15,Ponte Preta,0-2,Atlético-MG
 13,12/07/15,Cruzeiro,1-0,Goiás
@@ -127,19 +127,19 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,12/07/15,São Paulo,3-1,Coritiba
 13,12/07/15,Atlético-PR,1-2,Fluminense
 13,12/07/15,Flamengo,0-3,Corinthians
-13,12/07/15,Sport Recife,2-2,Palmeiras
+13,12/07/15,Sport,2-2,Palmeiras
 13,12/07/15,Avaí,2-1,Chapecoense
 14,18/07/15,Flamengo,1-0,Grêmio
 14,18/07/15,Corinthians,1-0,Atlético-MG
 14,18/07/15,Internacional,2-1,Goiás
-14,19/07/15,Sport Recife,2-0,São Paulo
+14,19/07/15,Sport,2-0,São Paulo
 14,19/07/15,Cruzeiro,1-1,Avaí
 14,19/07/15,Palmeiras,1-0,Santos
 14,19/07/15,Atlético-PR,1-0,Chapecoense
 14,19/07/15,Figueirense,0-0,Coritiba
 14,19/07/15,Joinville,1-1,Ponte Preta
-14,19/07/15,Fluminense,1-2,Vasco da Gama
-15,25/07/15,Grêmio,1-1,Sport Recife
+14,19/07/15,Fluminense,1-2,Vasco
+15,25/07/15,Grêmio,1-1,Sport
 15,25/07/15,Avaí,1-2,Atlético-PR
 15,25/07/15,Atlético-MG,1-0,Figueirense
 15,26/07/15,São Paulo,1-0,Cruzeiro
@@ -148,8 +148,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 15,26/07/15,Ponte Preta,0-0,Internacional
 15,26/07/15,Coritiba,1-1,Corinthians
 15,26/07/15,Goiás,0-1,Flamengo
-15,26/07/15,Vasco da Gama,1-4,Palmeiras
-16,29/07/15,Corinthians,3-0,Vasco da Gama
+15,26/07/15,Vasco,1-4,Palmeiras
+16,29/07/15,Corinthians,3-0,Vasco
 16,29/07/15,Atlético-MG,3-1,São Paulo
 16,01/08/15,Fluminense,1-0,Grêmio
 16,02/08/15,Palmeiras,0-1,Atlético-PR
@@ -158,28 +158,28 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,02/08/15,Figueirense,3-1,Ponte Preta
 16,02/08/15,Flamengo,2-2,Santos
 16,02/08/15,Internacional,0-0,Chapecoense
-16,02/08/15,Sport Recife,0-0,Cruzeiro
+16,02/08/15,Sport,0-0,Cruzeiro
 17,08/08/15,Avaí,1-0,Fluminense
 17,08/08/15,Santos,3-0,Coritiba
 17,09/08/15,Ponte Preta,1-0,Flamengo
-17,09/08/15,Vasco da Gama,0-0,Joinville
+17,09/08/15,Vasco,0-0,Joinville
 17,09/08/15,Grêmio,5-0,Internacional
 17,09/08/15,Cruzeiro,2-1,Palmeiras
 17,09/08/15,São Paulo,1-1,Corinthians
-17,09/08/15,Atlético-PR,1-1,Sport Recife
+17,09/08/15,Atlético-PR,1-1,Sport
 17,09/08/15,Chapecoense,2-2,Figueirense
 17,09/08/15,Goiás,0-0,Atlético-MG
 18,12/08/15,Flamengo,3-2,Atlético-PR
 18,12/08/15,Coritiba,2-1,Palmeiras
-18,12/08/15,Santos,1-0,Vasco da Gama
+18,12/08/15,Santos,1-0,Vasco
 18,12/08/15,Goiás,0-0,Chapecoense
-18,12/08/15,Corinthians,4-3,Sport Recife
+18,12/08/15,Corinthians,4-3,Sport
 18,12/08/15,Internacional,1-0,Fluminense
 18,12/08/15,Figueirense,0-2,São Paulo
 18,13/08/15,Joinville,3-0,Cruzeiro
 18,13/08/15,Ponte Preta,2-0,Avaí
 18,13/08/15,Atlético-MG,0-2,Grêmio
-19,15/08/15,Vasco da Gama,0-1,Coritiba
+19,15/08/15,Vasco,0-1,Coritiba
 19,15/08/15,Atlético-PR,0-0,Santos
 19,15/08/15,São Paulo,0-3,Goiás
 19,16/08/15,Palmeiras,4-2,Flamengo
@@ -187,11 +187,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 19,16/08/15,Grêmio,2-1,Joinville
 19,16/08/15,Avaí,1-2,Corinthians
 19,16/08/15,Cruzeiro,0-0,Internacional
-19,16/08/15,Sport Recife,1-1,Ponte Preta
+19,16/08/15,Sport,1-1,Ponte Preta
 19,16/08/15,Chapecoense,2-1,Atlético-MG
-20,22/08/15,Goiás,3-0,Vasco da Gama
+20,22/08/15,Goiás,3-0,Vasco
 20,22/08/15,Santos,5-2,Avaí
-20,22/08/15,Figueirense,2-1,Sport Recife
+20,22/08/15,Figueirense,2-1,Sport
 20,23/08/15,Corinthians,3-0,Cruzeiro
 20,23/08/15,Ponte Preta,0-0,Grêmio
 20,23/08/15,Joinville,2-1,Fluminense
@@ -199,9 +199,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,23/08/15,Coritiba,1-0,Chapecoense
 20,23/08/15,Flamengo,2-1,São Paulo
 20,23/08/15,Atlético-MG,2-1,Palmeiras
-21,29/08/15,Vasco da Gama,0-1,Figueirense
+21,29/08/15,Vasco,0-1,Figueirense
 21,29/08/15,São Paulo,3-0,Ponte Preta
-21,30/08/15,Sport Recife,0-1,Flamengo
+21,30/08/15,Sport,0-1,Flamengo
 21,30/08/15,Grêmio,0-0,Coritiba
 21,30/08/15,Palmeiras,3-2,Joinville
 21,30/08/15,Fluminense,1-2,Atlético-MG
@@ -210,16 +210,16 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 21,30/08/15,Atlético-PR,3-0,Goiás
 21,30/08/15,Avaí,3-0,Internacional
 22,02/09/15,Corinthians,2-0,Fluminense
-22,02/09/15,Internacional,6-0,Vasco da Gama
+22,02/09/15,Internacional,6-0,Vasco
 22,02/09/15,Ponte Preta,1-2,Cruzeiro
 22,02/09/15,Goiás,1-0,Palmeiras
-22,02/09/15,Coritiba,0-0,Sport Recife
+22,02/09/15,Coritiba,0-0,Sport
 22,02/09/15,Joinville,0-0,São Paulo
 22,02/09/15,Flamengo,3-0,Avaí
 22,02/09/15,Atlético-MG,0-1,Atlético-PR
 22,03/09/15,Santos,3-1,Chapecoense
 22,03/09/15,Figueirense,0-2,Grêmio
-23,05/09/15,Vasco da Gama,1-2,Atlético-MG
+23,05/09/15,Vasco,1-2,Atlético-MG
 23,05/09/15,São Paulo,2-0,Internacional
 23,05/09/15,Atlético-PR,0-0,Joinville
 23,06/09/15,Cruzeiro,5-1,Figueirense
@@ -228,34 +228,34 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 23,06/09/15,Avaí,0-2,Coritiba
 23,06/09/15,Palmeiras,3-3,Corinthians
 23,06/09/15,Fluminense,1-3,Flamengo
-23,06/09/15,Sport Recife,1-1,Santos
+23,06/09/15,Sport,1-1,Santos
 24,09/09/15,Internacional,1-0,Palmeiras
-24,09/09/15,Ponte Preta,0-1,Vasco da Gama
+24,09/09/15,Ponte Preta,0-1,Vasco
 24,09/09/15,Figueirense,1-1,Atlético-PR
 24,09/09/15,Coritiba,1-1,Fluminense
 24,09/09/15,Santos,3-0,São Paulo
 24,09/09/15,Corinthians,1-1,Grêmio
 24,09/09/15,Atlético-MG,2-0,Avaí
-24,10/09/15,Goiás,1-0,Sport Recife
+24,10/09/15,Goiás,1-0,Sport
 24,10/09/15,Joinville,0-0,Chapecoense
 24,10/09/15,Flamengo,2-0,Cruzeiro
 25,12/09/15,Coritiba,0-1,Internacional
 25,12/09/15,Palmeiras,2-0,Figueirense
 25,13/09/15,Corinthians,3-0,Joinville
 25,13/09/15,Ponte Preta,3-1,Santos
-25,13/09/15,Vasco da Gama,2-0,Atlético-PR
+25,13/09/15,Vasco,2-0,Atlético-PR
 25,13/09/15,Grêmio,1-2,São Paulo
 25,13/09/15,Cruzeiro,1-1,Atlético-MG
 25,13/09/15,Chapecoense,1-3,Flamengo
-25,13/09/15,Sport Recife,1-0,Fluminense
+25,13/09/15,Sport,1-0,Fluminense
 25,13/09/15,Avaí,2-1,Goiás
 26,16/09/15,Santos,4-0,Atlético-MG
 26,16/09/15,Goiás,1-2,Ponte Preta
-26,16/09/15,Joinville,1-1,Sport Recife
+26,16/09/15,Joinville,1-1,Sport
 26,16/09/15,Fluminense,1-4,Palmeiras
 26,16/09/15,Figueirense,0-1,Avaí
 26,16/09/15,Atlético-PR,1-2,Grêmio
-26,16/09/15,Cruzeiro,2-2,Vasco da Gama
+26,16/09/15,Cruzeiro,2-2,Vasco
 26,16/09/15,Internacional,2-1,Corinthians
 26,17/09/15,São Paulo,0-0,Chapecoense
 26,17/09/15,Flamengo,0-2,Coritiba
@@ -265,7 +265,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 27,20/09/15,Goiás,3-0,Joinville
 27,20/09/15,Corinthians,2-0,Santos
 27,20/09/15,Atlético-MG,4-1,Flamengo
-27,20/09/15,Vasco da Gama,2-1,Sport Recife
+27,20/09/15,Vasco,2-1,Sport
 27,20/09/15,Coritiba,2-0,Atlético-PR
 27,20/09/15,Chapecoense,0-2,Cruzeiro
 27,20/09/15,Avaí,2-1,São Paulo
@@ -276,20 +276,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 28,27/09/15,Joinville,2-2,Atlético-MG
 28,27/09/15,Figueirense,1-3,Corinthians
 28,27/09/15,São Paulo,1-1,Palmeiras
-28,27/09/15,Flamengo,1-2,Vasco da Gama
+28,27/09/15,Flamengo,1-2,Vasco
 28,27/09/15,Cruzeiro,2-0,Coritiba
-28,27/09/15,Sport Recife,3-0,Chapecoense
-29,03/10/15,Internacional,2-1,Sport Recife
+28,27/09/15,Sport,3-0,Chapecoense
+29,03/10/15,Internacional,2-1,Sport
 29,03/10/15,Coritiba,0-3,Atlético-MG
 29,03/10/15,São Paulo,1-0,Atlético-PR
 29,04/10/15,Flamengo,2-0,Joinville
-29,04/10/15,Avaí,1-1,Vasco da Gama
+29,04/10/15,Avaí,1-1,Vasco
 29,04/10/15,Goiás,2-3,Figueirense
 29,04/10/15,Cruzeiro,0-0,Grêmio
 29,04/10/15,Ponte Preta,2-2,Corinthians
 29,04/10/15,Santos,3-1,Fluminense
 29,04/10/15,Chapecoense,5-1,Palmeiras
-30,14/10/15,Sport Recife,3-0,Avaí
+30,14/10/15,Sport,3-0,Avaí
 30,14/10/15,Atlético-MG,2-1,Internacional
 30,14/10/15,Palmeiras,0-1,Ponte Preta
 30,14/10/15,Figueirense,3-0,Flamengo
@@ -297,29 +297,29 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 30,14/10/15,Fluminense,2-0,São Paulo
 30,14/10/15,Atlético-PR,2-2,Cruzeiro
 30,15/10/15,Corinthians,3-0,Goiás
-30,15/10/15,Vasco da Gama,1-1,Chapecoense
+30,15/10/15,Vasco,1-1,Chapecoense
 30,15/10/15,Grêmio,1-0,Santos
 31,17/10/15,Avaí,1-3,Palmeiras
 31,17/10/15,Joinville,1-0,Figueirense
 31,18/10/15,Ponte Preta,3-0,Coritiba
 31,18/10/15,Cruzeiro,2-0,Fluminense
-31,18/10/15,São Paulo,2-2,Vasco da Gama
+31,18/10/15,São Paulo,2-2,Vasco
 31,18/10/15,Flamengo,0-1,Internacional
 31,18/10/15,Atlético-PR,1-4,Corinthians
 31,18/10/15,Santos,3-1,Goiás
 31,18/10/15,Grêmio,2-3,Chapecoense
-31,18/10/15,Sport Recife,4-1,Atlético-MG
+31,18/10/15,Sport,4-1,Atlético-MG
 32,24/10/15,Fluminense,0-1,Atlético-PR
 32,24/10/15,Figueirense,0-0,Santos
 32,24/10/15,Internacional,1-0,Joinville
-32,24/10/15,Palmeiras,0-2,Sport Recife
+32,24/10/15,Palmeiras,0-2,Sport
 32,25/10/15,Corinthians,1-0,Flamengo
-32,25/10/15,Vasco da Gama,0-0,Grêmio
+32,25/10/15,Vasco,0-0,Grêmio
 32,25/10/15,Coritiba,1-2,São Paulo
 32,25/10/15,Chapecoense,0-0,Avaí
 32,25/10/15,Goiás,0-1,Cruzeiro
 32,25/10/15,Atlético-MG,2-1,Ponte Preta
-33,31/10/15,São Paulo,3-0,Sport Recife
+33,31/10/15,São Paulo,3-0,Sport
 33,31/10/15,Ponte Preta,1-0,Joinville
 33,31/10/15,Avaí,1-1,Cruzeiro
 33,31/10/15,Coritiba,1-1,Figueirense
@@ -327,7 +327,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 33,01/11/15,Atlético-MG,0-3,Corinthians
 33,01/11/15,Santos,2-1,Palmeiras
 33,01/11/15,Grêmio,2-0,Flamengo
-33,01/11/15,Vasco da Gama,0-1,Fluminense
+33,01/11/15,Vasco,0-1,Fluminense
 33,01/11/15,Goiás,2-1,Internacional
 34,07/11/15,Internacional,1-0,Ponte Preta
 34,07/11/15,Corinthians,2-1,Coritiba
@@ -335,18 +335,18 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 34,07/11/15,Fluminense,2-3,Chapecoense
 34,08/11/15,Figueirense,0-1,Atlético-MG
 34,08/11/15,Cruzeiro,2-1,São Paulo
-34,08/11/15,Palmeiras,0-2,Vasco da Gama
+34,08/11/15,Palmeiras,0-2,Vasco
 34,08/11/15,Flamengo,4-1,Goiás
 34,08/11/15,Joinville,0-0,Santos
-34,08/11/15,Sport Recife,1-0,Grêmio
-35,15/11/15,Cruzeiro,3-0,Sport Recife
+34,08/11/15,Sport,1-0,Grêmio
+35,15/11/15,Cruzeiro,3-0,Sport
 35,18/11/15,Ponte Preta,0-1,Figueirense
 35,18/11/15,Avaí,2-1,Joinville
 35,18/11/15,Atlético-PR,3-3,Palmeiras
 35,18/11/15,Goiás,1-3,Coritiba
 35,19/11/15,Grêmio,1-0,Fluminense
 35,19/11/15,Chapecoense,1-0,Internacional
-35,19/11/15,Vasco da Gama,1-1,Corinthians
+35,19/11/15,Vasco,1-1,Corinthians
 35,19/11/15,Santos,0-0,Flamengo
 35,19/11/15,São Paulo,4-2,Atlético-MG
 36,21/11/15,Palmeiras,1-1,Cruzeiro
@@ -354,28 +354,28 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 36,22/11/15,Internacional,1-0,Grêmio
 36,22/11/15,Atlético-MG,2-2,Goiás
 36,22/11/15,Figueirense,0-0,Chapecoense
-36,22/11/15,Joinville,1-2,Vasco da Gama
+36,22/11/15,Joinville,1-2,Vasco
 36,22/11/15,Flamengo,1-1,Ponte Preta
 36,22/11/15,Coritiba,1-0,Santos
-36,22/11/15,Sport Recife,0-0,Atlético-PR
+36,22/11/15,Sport,0-0,Atlético-PR
 36,22/11/15,Fluminense,3-1,Avaí
 37,28/11/15,São Paulo,3-2,Figueirense
 37,28/11/15,Fluminense,1-1,Internacional
 37,28/11/15,Avaí,1-0,Ponte Preta
 37,29/11/15,Grêmio,2-1,Atlético-MG
 37,29/11/15,Cruzeiro,3-0,Joinville
-37,29/11/15,Sport Recife,2-0,Corinthians
+37,29/11/15,Sport,2-0,Corinthians
 37,29/11/15,Palmeiras,0-2,Coritiba
-37,29/11/15,Vasco da Gama,1-0,Santos
+37,29/11/15,Vasco,1-0,Santos
 37,29/11/15,Chapecoense,1-3,Goiás
 37,29/11/15,Atlético-PR,3-0,Flamengo
 38,06/12/15,Goiás,0-1,São Paulo
-38,06/12/15,Coritiba,0-0,Vasco da Gama
+38,06/12/15,Coritiba,0-0,Vasco
 38,06/12/15,Figueirense,1-0,Fluminense
 38,06/12/15,Atlético-MG,3-0,Chapecoense
 38,06/12/15,Corinthians,1-1,Avaí
 38,06/12/15,Flamengo,1-2,Palmeiras
-38,06/12/15,Ponte Preta,0-1,Sport Recife
+38,06/12/15,Ponte Preta,0-1,Sport
 38,06/12/15,Internacional,2-0,Cruzeiro
 38,06/12/15,Santos,5-1,Atlético-PR
 38,06/12/15,Joinville,0-2,Grêmio

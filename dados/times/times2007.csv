@@ -1,0 +1,49 @@
+time,região,serie
+Figueirense,SC,A
+São Paulo,SP,A
+Fluminense,RJ,A
+Flamengo,RJ,A
+Internacional,RS,A
+Paraná,PR,A
+Atlético-MG,MG,A
+Corinthians,SP,A
+America-RN,OUTRO,A
+Sport,PE,A
+Juventude,RS,A
+Athletico-PR,PR,A
+Santos,SP,A
+Cruzeiro,MG,A
+Goiás,GO,A
+Palmeiras,SP,A
+Botafogo,RJ,A
+Grêmio,RS,A
+Nautico,OUTRO,A
+Vasco,RJ,A
+Ponte Preta,SP,B
+Fortaleza,CE,B
+Grêmio Barueri,SP,B
+Ipatinga,MG,B
+Santo André,SP,B
+Ituano,SP,B
+EC Vitória,OUTRO,B
+Brasiliense,DF,B
+Criciúma,SC,B
+Coritiba,PR,B
+Ceará,CE,B
+Portuguesa,SP,B
+Santa Cruz,PE,B
+Paulista,SP,B
+São Caetano,SP,B
+Marília,SP,B
+Gama,DF,B
+CRB,AL,B
+Remo,PA,B
+Avaí,SC,B
+1-1,OUTRO,B
+0-2,OUTRO,B
+3-2,OUTRO,B
+4-0,OUTRO,B
+2-2,OUTRO,B
+3-3,OUTRO,B
+2-1,OUTRO,B
+nan,OUTRO,B

@@ -2,36 +2,36 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,14/04/06,Remo,1-2,Coritiba
 1,14/04/06,América-RN,1-2,Ituano
 1,14/04/06,Gama,2-0,Vila Nova
-1,14/04/06,Ceará SC,2-1,Paysandu
+1,14/04/06,Ceará,2-1,Paysandu
 1,14/04/06,Guarani,3-2,CRB
 1,14/04/06,Portuguesa,1-1,São Raimundo
-1,14/04/06,Avaí,1-2,Sport Recife
+1,14/04/06,Avaí,1-2,Sport
 1,14/04/06,Náutico,3-2,Brasiliense
 1,14/04/06,Paulista,1-0,Santo André
 1,14/04/06,Marília,1-1,Atlético-MG
 2,17/04/06,Santo André,1-1,Marília
-2,17/04/06,Sport Recife,3-0,Gama
+2,17/04/06,Sport,3-0,Gama
 2,20/04/06,Paysandu,1-0,América-RN
 2,20/04/06,CRB,1-0,Portuguesa
 2,21/04/06,São Raimundo,0-0,Avaí
 2,21/04/06,Coritiba,1-1,Guarani
-2,21/04/06,Brasiliense,1-1,Ceará SC
+2,21/04/06,Brasiliense,1-1,Ceará
 2,22/04/06,Vila Nova,1-2,Remo
 2,22/04/06,Atlético-MG,3-1,Náutico
 2,22/04/06,Ituano,1-1,Paulista
 3,24/04/06,Náutico,3-2,Paysandu
-3,24/04/06,Santo André,0-1,Sport Recife
+3,24/04/06,Santo André,0-1,Sport
 3,27/04/06,América-RN,2-1,Brasiliense
 3,27/04/06,Gama,1-1,Paulista
 3,28/04/06,São Raimundo,1-1,Guarani
-3,28/04/06,Remo,1-1,Ceará SC
+3,28/04/06,Remo,1-1,Ceará
 3,28/04/06,Coritiba,3-0,Portuguesa
 3,28/04/06,Atlético-MG,5-0,CRB
 3,28/04/06,Marília,0-0,Avaí
 3,29/04/06,Vila Nova,0-1,Ituano
-4,01/05/06,Sport Recife,3-1,Remo
+4,01/05/06,Sport,3-1,Remo
 4,01/05/06,Avaí,1-0,Vila Nova
-4,04/05/06,Ceará SC,1-1,Santo André
+4,04/05/06,Ceará,1-1,Santo André
 4,04/05/06,Portuguesa,4-0,América-RN
 4,05/05/06,Guarani,2-2,Náutico
 4,05/05/06,Brasiliense,4-1,Coritiba
@@ -42,25 +42,25 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 5,08/05/06,CRB,5-1,São Raimundo
 5,08/05/06,Marília,2-1,América-RN
 5,08/05/06,Paysandu,3-1,Santo André
-5,08/05/06,Ceará SC,0-2,Paulista
+5,08/05/06,Ceará,0-2,Paulista
 5,11/05/06,Náutico,2-3,Vila Nova
 5,11/05/06,Guarani,2-2,Avaí
 5,12/05/06,Ituano,3-2,Brasiliense
 5,12/05/06,Gama,1-0,Portuguesa
-5,12/05/06,Coritiba,1-1,Sport Recife
+5,12/05/06,Coritiba,1-1,Sport
 5,12/05/06,Atlético-MG,3-1,Remo
 6,15/05/06,Remo,2-0,Guarani
 6,15/05/06,Paulista,1-1,Marília
 6,18/05/06,Brasiliense,4-0,Paysandu
 6,19/05/06,Atlético-MG,1-2,Ituano
 6,19/05/06,Santo André,0-0,Portuguesa
-6,19/05/06,Náutico,2-1,Ceará SC
-6,19/05/06,América-RN,2-0,Sport Recife
+6,19/05/06,Náutico,2-1,Ceará
+6,19/05/06,América-RN,2-0,Sport
 6,19/05/06,Avaí,1-0,Gama
 6,19/05/06,São Raimundo,1-2,Coritiba
 6,20/05/06,Vila Nova,3-1,CRB
-7,22/05/06,Avaí,0-0,Ceará SC
-7,22/05/06,Sport Recife,0-0,Atlético-MG
+7,22/05/06,Avaí,0-0,Ceará
+7,22/05/06,Sport,0-0,Atlético-MG
 7,22/05/06,Guarani,3-1,Paulista
 7,22/05/06,Gama,2-1,América-RN
 7,22/05/06,São Raimundo,1-0,Brasiliense
@@ -70,14 +70,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,22/05/06,Remo,0-0,Náutico
 7,23/05/06,Vila Nova,1-3,Santo André
 8,25/05/06,Paulista,0-1,Avaí
-8,25/05/06,Ceará SC,2-1,Gama
+8,25/05/06,Ceará,2-1,Gama
 8,26/05/06,Náutico,2-0,Portuguesa
 8,26/05/06,Ituano,1-2,São Raimundo
 8,26/05/06,Santo André,2-1,Coritiba
 8,26/05/06,Brasiliense,4-1,CRB
 8,26/05/06,Marília,1-0,Guarani
 8,26/05/06,América-RN,3-0,Remo
-8,26/05/06,Paysandu,0-1,Sport Recife
+8,26/05/06,Paysandu,0-1,Sport
 8,27/05/06,Atlético-MG,1-1,Vila Nova
 9,29/05/06,Portuguesa,2-6,Paysandu
 9,29/05/06,Remo,2-2,Brasiliense
@@ -85,20 +85,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,29/05/06,São Raimundo,1-1,América-RN
 9,29/05/06,CRB,1-2,Náutico
 9,29/05/06,Gama,1-0,Ituano
-9,29/05/06,Sport Recife,1-1,Marília
+9,29/05/06,Sport,1-1,Marília
 9,29/05/06,Avaí,1-0,Santo André
-9,29/05/06,Coritiba,1-1,Ceará SC
+9,29/05/06,Coritiba,1-1,Ceará
 9,30/05/06,Vila Nova,2-1,Paulista
 10,01/06/06,Portuguesa,0-1,Guarani
 10,01/06/06,Avaí,1-0,Remo
 10,02/06/06,São Raimundo,1-1,Vila Nova
 10,02/06/06,Paysandu,3-1,Gama
 10,02/06/06,Paulista,1-0,Náutico
-10,02/06/06,América-RN,3-1,Ceará SC
+10,02/06/06,América-RN,3-1,Ceará
 10,02/06/06,Marília,1-0,Coritiba
 10,02/06/06,Brasiliense,1-0,Atlético-MG
 10,02/06/06,Santo André,2-1,Ituano
-10,02/06/06,Sport Recife,1-2,CRB
+10,02/06/06,Sport,1-2,CRB
 11,10/07/06,Brasiliense,2-0,Avaí
 11,10/07/06,Ituano,1-1,Paysandu
 11,10/07/06,Náutico,1-0,América-RN
@@ -107,24 +107,24 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 11,10/07/06,Guarani,3-1,Gama
 11,10/07/06,Atlético-MG,1-1,Santo André
 11,10/07/06,CRB,2-2,Coritiba
-11,10/07/06,Ceará SC,1-1,Marília
-11,11/07/06,Vila Nova,1-1,Sport Recife
+11,10/07/06,Ceará,1-1,Marília
+11,11/07/06,Vila Nova,1-1,Sport
 12,13/07/06,Portuguesa,1-1,Brasiliense
 12,14/07/06,Vila Nova,2-1,Marília
 12,14/07/06,Gama,3-3,Santo André
 12,14/07/06,Remo,0-5,Ituano
 12,14/07/06,CRB,4-2,América-RN
-12,14/07/06,Náutico,2-1,Sport Recife
+12,14/07/06,Náutico,2-1,Sport
 12,14/07/06,Guarani,1-1,Paysandu
 12,14/07/06,Coritiba,2-1,Paulista
-12,14/07/06,São Raimundo,1-0,Ceará SC
+12,14/07/06,São Raimundo,1-0,Ceará
 12,14/07/06,Avaí,2-0,Atlético-MG
 13,17/07/06,Santo André,3-0,Remo
 13,17/07/06,Paysandu,1-1,Avaí
 13,20/07/06,Brasiliense,1-0,Guarani
 13,21/07/06,Ituano,1-1,Portuguesa
-13,21/07/06,Sport Recife,1-0,São Raimundo
-13,21/07/06,Ceará SC,0-0,CRB
+13,21/07/06,Sport,1-0,São Raimundo
+13,21/07/06,Ceará,0-0,CRB
 13,21/07/06,América-RN,1-0,Paulista
 13,21/07/06,Marília,4-0,Náutico
 13,21/07/06,Atlético-MG,4-2,Gama
@@ -134,14 +134,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 14,24/07/06,Paulista,2-2,CRB
 14,27/07/06,Remo,0-2,Paysandu
 14,27/07/06,Guarani,0-0,Santo André
-14,28/07/06,Ceará SC,2-2,Sport Recife
+14,28/07/06,Ceará,2-2,Sport
 14,28/07/06,Brasiliense,0-2,Gama
 14,28/07/06,Náutico,2-2,Coritiba
 14,28/07/06,América-RN,2-0,Vila Nova
 14,29/07/06,Atlético-MG,2-1,Portuguesa
 15,31/07/06,Gama,4-3,Remo
-15,01/08/06,Vila Nova,2-1,Ceará SC
-15,03/08/06,Sport Recife,1-2,Paulista
+15,01/08/06,Vila Nova,2-1,Ceará
+15,03/08/06,Sport,1-2,Paulista
 15,03/08/06,Coritiba,5-1,América-RN
 15,04/08/06,Ituano,2-2,Guarani
 15,04/08/06,Santo André,1-0,Brasiliense
@@ -154,9 +154,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,07/08/06,São Raimundo,2-2,Atlético-MG
 16,07/08/06,Avaí,3-2,América-RN
 16,10/08/06,Coritiba,1-0,Paysandu
-16,10/08/06,Sport Recife,2-0,Ituano
+16,10/08/06,Sport,2-0,Ituano
 16,11/08/06,CRB,3-0,Santo André
-16,11/08/06,Guarani,2-1,Ceará SC
+16,11/08/06,Guarani,2-1,Ceará
 16,11/08/06,Gama,1-3,Náutico
 16,12/08/06,Vila Nova,2-0,Brasiliense
 17,14/08/06,Marília,2-0,Gama
@@ -165,22 +165,22 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 17,14/08/06,América-RN,3-1,Guarani
 17,14/08/06,Náutico,4-1,Avaí
 17,14/08/06,Paulista,3-1,Remo
-17,14/08/06,Ceará SC,1-2,Portuguesa
+17,14/08/06,Ceará,1-2,Portuguesa
 17,14/08/06,Paysandu,2-1,Vila Nova
-17,14/08/06,Brasiliense,2-0,Sport Recife
+17,14/08/06,Brasiliense,2-0,Sport
 17,15/08/06,Atlético-MG,2-1,Coritiba
 18,18/08/06,Vila Nova,2-2,Portuguesa
 18,18/08/06,CRB,2-0,Avaí
-18,18/08/06,Sport Recife,8-1,Guarani
+18,18/08/06,Sport,8-1,Guarani
 18,18/08/06,Paysandu,1-1,Paulista
 18,18/08/06,Santo André,1-0,América-RN
 18,18/08/06,Ituano,1-1,Náutico
 18,18/08/06,Coritiba,2-1,Gama
 18,18/08/06,São Raimundo,1-0,Remo
-18,18/08/06,Atlético-MG,3-0,Ceará SC
+18,18/08/06,Atlético-MG,3-0,Ceará
 18,16/10/06,Brasiliense,1-0,Marília
-19,21/08/06,Portuguesa,1-1,Sport Recife
-19,21/08/06,Ceará SC,2-2,Ituano
+19,21/08/06,Portuguesa,1-1,Sport
+19,21/08/06,Ceará,2-2,Ituano
 19,24/08/06,Náutico,2-0,Santo André
 19,24/08/06,Guarani,2-1,Vila Nova
 19,25/08/06,Marília,4-1,Paysandu
@@ -193,39 +193,39 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,29/08/06,Vila Nova,0-1,Gama
 20,31/08/06,Coritiba,3-2,Remo
 20,01/09/06,Santo André,2-0,Paulista
-20,01/09/06,Paysandu,1-2,Ceará SC
-20,01/09/06,Sport Recife,2-0,Avaí
+20,01/09/06,Paysandu,1-2,Ceará
+20,01/09/06,Sport,2-0,Avaí
 20,01/09/06,São Raimundo,2-0,Portuguesa
 20,01/09/06,Ituano,0-1,América-RN
 20,01/09/06,Atlético-MG,2-0,Marília
 20,01/09/06,Brasiliense,1-0,Náutico
 21,04/09/06,Portuguesa,1-0,CRB
-21,04/09/06,Ceará SC,2-1,Brasiliense
+21,04/09/06,Ceará,2-1,Brasiliense
 21,04/09/06,Remo,4-1,Vila Nova
 21,04/09/06,América-RN,0-1,Paysandu
 21,04/09/06,Paulista,2-2,Ituano
 21,04/09/06,Avaí,0-1,São Raimundo
-21,04/09/06,Gama,0-1,Sport Recife
+21,04/09/06,Gama,0-1,Sport
 21,04/09/06,Guarani,1-0,Coritiba
 21,04/09/06,Marília,2-0,Santo André
 21,04/09/06,Náutico,3-0,Atlético-MG
-22,07/09/06,Sport Recife,0-0,Santo André
+22,07/09/06,Sport,0-0,Santo André
 22,07/09/06,Guarani,3-1,São Raimundo
 22,08/09/06,Paulista,4-3,Gama
 22,08/09/06,Ituano,1-1,Vila Nova
 22,08/09/06,Avaí,2-0,Marília
 22,08/09/06,Paysandu,1-0,Náutico
 22,08/09/06,Brasiliense,2-4,América-RN
-22,08/09/06,Ceará SC,1-1,Remo
+22,08/09/06,Ceará,1-1,Remo
 22,08/09/06,Portuguesa,2-2,Coritiba
 22,08/09/06,CRB,0-1,Atlético-MG
 23,11/09/06,Gama,3-2,CRB
 23,11/09/06,Marília,0-1,Ituano
 23,11/09/06,Náutico,4-1,Guarani
-23,11/09/06,Santo André,1-1,Ceará SC
+23,11/09/06,Santo André,1-1,Ceará
 23,11/09/06,Coritiba,0-2,Brasiliense
 23,11/09/06,São Raimundo,1-1,Paysandu
-23,11/09/06,Remo,2-0,Sport Recife
+23,11/09/06,Remo,2-0,Sport
 23,11/09/06,América-RN,2-0,Portuguesa
 23,12/09/06,Vila Nova,2-0,Avaí
 23,12/09/06,Atlético-MG,2-0,Paulista
@@ -234,16 +234,16 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 24,15/09/06,América-RN,1-0,Marília
 24,15/09/06,Portuguesa,0-0,Gama
 24,15/09/06,São Raimundo,2-0,CRB
-24,15/09/06,Sport Recife,2-0,Coritiba
+24,15/09/06,Sport,2-0,Coritiba
 24,15/09/06,Avaí,2-1,Guarani
-24,15/09/06,Paulista,4-0,Ceará SC
+24,15/09/06,Paulista,4-0,Ceará
 24,15/09/06,Remo,2-1,Atlético-MG
 24,15/09/06,Brasiliense,2-0,Ituano
 25,18/09/06,Guarani,0-1,Remo
 25,18/09/06,CRB,2-3,Vila Nova
 25,18/09/06,Paysandu,1-0,Brasiliense
-25,18/09/06,Sport Recife,2-0,América-RN
-25,18/09/06,Ceará SC,1-1,Náutico
+25,18/09/06,Sport,2-0,América-RN
+25,18/09/06,Ceará,1-1,Náutico
 25,18/09/06,Portuguesa,2-3,Santo André
 25,18/09/06,Ituano,1-2,Atlético-MG
 25,18/09/06,Gama,3-1,Avaí
@@ -256,44 +256,44 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 26,22/09/06,Paysandu,0-2,CRB
 26,22/09/06,Marília,4-0,Portuguesa
 26,22/09/06,Santo André,2-2,Vila Nova
-26,22/09/06,Ceará SC,3-2,Avaí
+26,22/09/06,Ceará,3-2,Avaí
 26,22/09/06,América-RN,5-1,Gama
-26,23/09/06,Atlético-MG,2-0,Sport Recife
+26,23/09/06,Atlético-MG,2-0,Sport
 27,25/09/06,Avaí,1-0,Paulista
-27,25/09/06,Gama,1-2,Ceará SC
+27,25/09/06,Gama,1-2,Ceará
 27,28/09/06,Remo,2-0,América-RN
 27,28/09/06,Coritiba,0-0,Santo André
 27,28/09/06,São Raimundo,0-1,Ituano
 27,28/09/06,Portuguesa,1-0,Náutico
 27,28/09/06,CRB,4-3,Brasiliense
-27,28/09/06,Sport Recife,4-2,Paysandu
+27,28/09/06,Sport,4-2,Paysandu
 27,29/09/06,Vila Nova,1-1,Atlético-MG
 27,29/09/06,Guarani,1-4,Marília
 28,02/10/06,Ituano,1-0,Gama
 28,02/10/06,Náutico,3-2,CRB
 28,02/10/06,América-RN,2-1,São Raimundo
-28,02/10/06,Marília,2-2,Sport Recife
+28,02/10/06,Marília,2-2,Sport
 28,02/10/06,Santo André,3-1,Avaí
 28,02/10/06,Paysandu,1-3,Portuguesa
 28,02/10/06,Brasiliense,2-0,Remo
-28,02/10/06,Ceará SC,2-0,Coritiba
+28,02/10/06,Ceará,2-0,Coritiba
 28,02/10/06,Atlético-MG,4-1,Guarani
 28,02/10/06,Paulista,5-1,Vila Nova
 29,05/10/06,Guarani,3-1,Portuguesa
 29,05/10/06,Náutico,3-3,Paulista
 29,06/10/06,Coritiba,6-2,Marília
-29,06/10/06,Ceará SC,4-2,América-RN
-29,06/10/06,CRB,1-1,Sport Recife
+29,06/10/06,Ceará,4-2,América-RN
+29,06/10/06,CRB,1-1,Sport
 29,06/10/06,Remo,2-0,Avaí
 29,06/10/06,Atlético-MG,1-0,Brasiliense
 29,06/10/06,Ituano,0-0,Santo André
 29,06/10/06,Gama,3-1,Paysandu
 29,07/10/06,Vila Nova,1-1,São Raimundo
 30,09/10/06,Portuguesa,3-1,Remo
-30,09/10/06,Sport Recife,3-0,Vila Nova
+30,09/10/06,Sport,3-0,Vila Nova
 30,12/10/06,Coritiba,2-1,CRB
 30,12/10/06,Avaí,1-1,Brasiliense
-30,13/10/06,Marília,3-3,Ceará SC
+30,13/10/06,Marília,3-3,Ceará
 30,13/10/06,São Raimundo,4-1,Paulista
 30,13/10/06,América-RN,3-1,Náutico
 30,13/10/06,Paysandu,2-1,Ituano
@@ -302,10 +302,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 31,17/10/06,Ituano,1-1,Remo
 31,20/10/06,Santo André,1-0,Gama
 31,20/10/06,Brasiliense,1-1,Portuguesa
-31,21/10/06,Ceará SC,1-0,São Raimundo
+31,21/10/06,Ceará,1-0,São Raimundo
 31,21/10/06,Paysandu,2-2,Guarani
 31,21/10/06,Marília,2-1,Vila Nova
-31,21/10/06,Sport Recife,2-0,Náutico
+31,21/10/06,Sport,2-0,Náutico
 31,21/10/06,Atlético-MG,4-1,Avaí
 31,21/10/06,Paulista,2-0,Coritiba
 31,21/10/06,América-RN,2-1,CRB
@@ -313,14 +313,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 32,23/10/06,Náutico,2-1,Marília
 32,26/10/06,Avaí,2-1,Paysandu
 32,27/10/06,Vila Nova,1-5,Coritiba
-32,27/10/06,São Raimundo,0-1,Sport Recife
-32,27/10/06,CRB,1-1,Ceará SC
+32,27/10/06,São Raimundo,0-1,Sport
+32,27/10/06,CRB,1-1,Ceará
 32,27/10/06,Gama,2-1,Atlético-MG
 32,27/10/06,Paulista,0-1,América-RN
 32,27/10/06,Portuguesa,1-2,Ituano
 32,27/10/06,Remo,1-1,Santo André
 33,31/10/06,CRB,3-4,Paulista
-33,31/10/06,Sport Recife,1-0,Ceará SC
+33,31/10/06,Sport,1-0,Ceará
 33,31/10/06,Santo André,1-0,Guarani
 33,31/10/06,Coritiba,1-1,Náutico
 33,31/10/06,Paysandu,1-3,Remo
@@ -329,18 +329,18 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 33,31/10/06,Ituano,0-0,Avaí
 33,31/10/06,São Raimundo,4-3,Marília
 33,31/10/06,Vila Nova,0-0,América-RN
-34,03/11/06,Paulista,2-0,Sport Recife
+34,03/11/06,Paulista,2-0,Sport
 34,03/11/06,Náutico,5-1,São Raimundo
 34,04/11/06,América-RN,0-0,Coritiba
 34,04/11/06,Marília,2-1,CRB
-34,04/11/06,Ceará SC,1-2,Vila Nova
+34,04/11/06,Ceará,1-2,Vila Nova
 34,04/11/06,Avaí,1-1,Portuguesa
 34,04/11/06,Brasiliense,6-1,Santo André
 34,04/11/06,Atlético-MG,3-0,Paysandu
 34,04/11/06,Remo,3-1,Gama
 34,04/11/06,Guarani,1-1,Ituano
-35,07/11/06,Ituano,1-1,Sport Recife
-35,07/11/06,Ceará SC,0-0,Guarani
+35,07/11/06,Ituano,1-1,Sport
+35,07/11/06,Ceará,0-0,Guarani
 35,07/11/06,Brasiliense,4-1,Vila Nova
 35,07/11/06,Atlético-MG,4-0,São Raimundo
 35,07/11/06,Marília,2-0,Remo
@@ -349,19 +349,19 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 35,07/11/06,Paysandu,1-3,Coritiba
 35,07/11/06,Santo André,2-1,CRB
 35,07/11/06,Paulista,0-2,Portuguesa
-36,10/11/06,Sport Recife,3-0,Brasiliense
+36,10/11/06,Sport,3-0,Brasiliense
 36,10/11/06,Remo,2-2,Paulista
 36,11/11/06,CRB,3-4,Ituano
 36,11/11/06,Coritiba,2-3,Atlético-MG
 36,11/11/06,Avaí,1-1,Náutico
 36,11/11/06,Guarani,1-2,América-RN
-36,11/11/06,Portuguesa,2-4,Ceará SC
+36,11/11/06,Portuguesa,2-4,Ceará
 36,11/11/06,Gama,3-0,Marília
 36,11/11/06,São Raimundo,3-2,Santo André
 36,11/11/06,Vila Nova,2-1,Paysandu
-37,18/11/06,Guarani,2-0,Sport Recife
+37,18/11/06,Guarani,2-0,Sport
 37,18/11/06,Marília,1-1,Brasiliense
-37,18/11/06,Ceará SC,0-1,Atlético-MG
+37,18/11/06,Ceará,0-1,Atlético-MG
 37,18/11/06,Gama,1-1,Coritiba
 37,18/11/06,América-RN,1-2,Santo André
 37,18/11/06,Náutico,2-0,Ituano
@@ -371,9 +371,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,18/11/06,Remo,3-0,São Raimundo
 38,25/11/06,CRB,2-1,Remo
 38,25/11/06,São Raimundo,2-0,Gama
-38,25/11/06,Sport Recife,2-3,Portuguesa
+38,25/11/06,Sport,2-3,Portuguesa
 38,25/11/06,Coritiba,4-2,Avaí
-38,25/11/06,Ituano,4-1,Ceará SC
+38,25/11/06,Ituano,4-1,Ceará
 38,25/11/06,Atlético-MG,2-2,América-RN
 38,25/11/06,Santo André,1-1,Náutico
 38,25/11/06,Paysandu,4-1,Marília

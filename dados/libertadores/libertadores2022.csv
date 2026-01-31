@@ -8,7 +8,7 @@ PR,2,16/02/22,Olimpia,2-0,Univ. César Vallejo
 PR,1,22/02/22,Everton,3-0,Monagas SC
 PR,1,22/02/22,Plaza Colonia,2-0,The Strongest
 PR,1,22/02/22,Millonarios,1-2,Fluminense
-PR,1,23/02/22,América Mineiro,0-1,Guaraní
+PR,1,23/02/22,América-MG,0-1,Guaraní
 PR,1,23/02/22,Bolívar,1-1,Univ. Católica
 PR,1,23/02/22,Barcelona SC,2-0,Universitario
 PR,1,23/02/22,Audax Italiano,1-0,Estudiantes
@@ -16,16 +16,16 @@ PR,1,24/02/22,Olimpia,3-1,Atlético Nacional
 PR,2,01/03/22,Monagas SC,1-0,Everton
 PR,2,01/03/22,Fluminense,2-0,Millonarios
 PR,2,01/03/22,The Strongest,3-0,Plaza Colonia
-PR,2,02/03/22,Guaraní,2-3,América Mineiro
+PR,2,02/03/22,Guaraní,2-3,América-MG
 PR,2,02/03/22,Univ. Católica,2-0,Bolívar
 PR,2,02/03/22,Universitario,0-1,Barcelona SC
 PR,2,02/03/22,Estudiantes,2-0,Audax Italiano
 PR,2,03/03/22,Atlético Nacional,1-1,Olimpia
-PR,1,08/03/22,América Mineiro,0-0,Barcelona SC
+PR,1,08/03/22,América-MG,0-0,Barcelona SC
 PR,1,09/03/22,Everton,0-1,Estudiantes
 PR,1,09/03/22,Fluminense,3-1,Olimpia
 PR,1,10/03/22,Univ. Católica,0-0,The Strongest
-PR,2,15/03/22,Barcelona SC,0-0,América Mineiro
+PR,2,15/03/22,Barcelona SC,0-0,América-MG
 PR,2,16/03/22,Estudiantes,1-0,Everton
 PR,2,16/03/22,Olimpia,2-0,Fluminense
 PR,2,17/03/22,The Strongest,2-1,Univ. Católica
@@ -36,7 +36,7 @@ FG,1,05/04/22,Deportivo Cali,2-0,Boca Juniors
 FG,1,05/04/22,Always Ready,2-0,Corinthians
 FG,1,05/04/22,Sporting Cristal,0-2,Flamengo
 FG,1,06/04/22,Talleres,1-0,Univ. Católica
-FG,1,06/04/22,América Mineiro,0-Ind. del Valle
+FG,1,06/04/22,América-MG,0-Ind. del Valle,nan
 FG,1,06/04/22,RB Bragantino,2-0,Nacional
 FG,1,06/04/22,Alianza Lima,0-1,River Plate
 FG,1,06/04/22,Tolima,0-2,Atlético-MG
@@ -56,7 +56,7 @@ FG,2,13/04/22,Colo-Colo,2-1,Alianza Lima
 FG,2,13/04/22,Libertad,2-1,Caracas FC
 FG,2,13/04/22,Corinthians,1-0,Deportivo Cali
 FG,2,13/04/22,Nacional,0-0,Estudiantes
-FG,2,13/04/22,Atlético-MG,1-1,América Mineiro
+FG,2,13/04/22,Atlético-MG,1-1,América-MG
 FG,2,13/04/22,Ind. del Valle,2-2,Tolima
 FG,2,14/04/22,Athletico-PR,1-0,The Strongest
 FG,2,14/04/22,Vélez Sarsfield,2-2,RB Bragantino
@@ -69,7 +69,7 @@ FG,3,26/04/22,Ind. del Valle,1-1,Atlético-MG
 FG,3,26/04/22,Talleres,1-0,Sporting Cristal
 FG,3,26/04/22,Corinthians,2-0,Boca Juniors
 FG,3,27/04/22,Fortaleza,2-1,Alianza Lima
-FG,3,27/04/22,América Mineiro,2-3,Tolima
+FG,3,27/04/22,América-MG,2-3,Tolima
 FG,3,27/04/22,Emelec,1-3,Palmeiras
 FG,3,27/04/22,Colo-Colo,1-2,River Plate
 FG,3,27/04/22,Cerro Porteño,1-0,Peñarol
@@ -81,7 +81,7 @@ FG,4,03/05/22,Caracas FC,1-0,Libertad
 FG,4,03/05/22,Deportivo Táchira,1-4,Emelec
 FG,4,03/05/22,The Strongest,5-0,Athletico-PR
 FG,4,03/05/22,Ind. Petrolero,0-5,Palmeiras
-FG,4,03/05/22,América Mineiro,1-2,Atlético-MG
+FG,4,03/05/22,América-MG,1-2,Atlético-MG
 FG,4,03/05/22,Estudiantes,1-0,Nacional
 FG,4,04/05/22,Colón,2-1,Cerro Porteño
 FG,4,04/05/22,Talleres,2-2,Flamengo
@@ -102,7 +102,7 @@ FG,5,17/05/22,Sporting Cristal,0-0,Talleres
 FG,5,18/05/22,Athletico-PR,2-0,Libertad
 FG,5,18/05/22,Nacional,2-3,Vélez Sarsfield
 FG,5,18/05/22,Palmeiras,1-0,Emelec
-FG,5,18/05/22,Tolima,2-2,América Mineiro
+FG,5,18/05/22,Tolima,2-2,América-MG
 FG,5,18/05/22,Colón,2-1,Olimpia
 FG,5,18/05/22,Deportivo Táchira,3-0,Ind. Petrolero
 FG,5,18/05/22,Alianza Lima,0-2,Fortaleza
@@ -120,7 +120,7 @@ FG,6,25/05/22,Colo-Colo,3-4,Fortaleza
 FG,6,25/05/22,Peñarol,2-1,Colón
 FG,6,25/05/22,Cerro Porteño,0-1,Olimpia
 FG,6,25/05/22,Atlético-MG,1-2,Tolima
-FG,6,25/05/22,Ind. del Valle,3-0,América Mineiro
+FG,6,25/05/22,Ind. del Valle,3-0,América-MG
 FG,6,26/05/22,Athletico-PR,5-1,Caracas FC
 FG,6,26/05/22,Libertad,4-1,The Strongest
 FG,6,26/05/22,Boca Juniors,1-0,Deportivo Cali

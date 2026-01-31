@@ -5,11 +5,13 @@ from collections import deque
 from datetime import datetime, timedelta
 
 # --- ETAPA 1: CARREGAMENTO DOS ARQUIVOS ---
-caminho_serie_a = 'brasileiraoA/brasileiraoA2015.csv'
-caminho_serie_b = 'brasileiraoB/brasileiraoB2015.csv'
-caminho_times = 'times/times2015.csv'
-caminho_copa_brasil = 'copadobrasil/copadobrasil2015.csv'
-caminho_libertadores = 'libertadores/libertadores2015.csv'
+caminho_serie_a = 'dados/brasileiraoA/brasileiraoA2020.csv'
+caminho_serie_b = 'dados/brasileiraoB/brasileiraoB2020.csv'
+caminho_times = 'dados/times/times2020.csv'
+caminho_copa_brasil = 'dados/copadobrasil/copadobrasil2020.csv'
+caminho_libertadores = 'dados/libertadores/libertadores2020.csv'
+caminho_sudamericana = 'dados/sudamericana/sudamericana2020.csv'
+# Carrega os arquivos principais
 
 try:
     df_serie_a = pd.read_csv(caminho_serie_a)
@@ -19,11 +21,16 @@ try:
     # Carrega os arquivos de copa e mostra as colunas para debug
     df_copa_brasil = pd.read_csv(caminho_copa_brasil)
     df_libertadores = pd.read_csv(caminho_libertadores)
+    df_sudamericana = pd.read_csv(caminho_sudamericana)
     
     print("✅ Arquivos CSV carregados com sucesso!")
+    print(f"Colunas Série A: {df_serie_a.columns.tolist()}")
+    print(f"Colunas Série B: {df_serie_b.columns.tolist()}")
+    print(f"Colunas Times: {df_times.columns.tolist()}")
     print(f"Colunas Copa do Brasil: {df_copa_brasil.columns.tolist()}")
     print(f"Colunas Libertadores: {df_libertadores.columns.tolist()}")
-    
+    print(f"Colunas Sudamericana: {df_sudamericana.columns.tolist()}")
+
 except FileNotFoundError as e:
     print(f"❌ Erro: Arquivo não encontrado! Verifique o caminho: {e.filename}")
     exit()
@@ -124,12 +131,14 @@ def processar_jogos_copa(df_copa, competicao):
 # Processa os jogos de copa
 jogos_copa_brasil = processar_jogos_copa(df_copa_brasil, 'Copa do Brasil')
 jogos_libertadores = processar_jogos_copa(df_libertadores, 'Libertadores')
+jogos_sudamericana = processar_jogos_copa(df_sudamericana, 'Sudamericana')
 
 # Combina os dois dicionários
 todos_jogos_copa = {}
 for time in set(list(jogos_copa_brasil.keys()) + list(jogos_libertadores.keys())):
     todos_jogos_copa[time] = (jogos_copa_brasil.get(time, []) + 
-                             jogos_libertadores.get(time, []))
+                             jogos_libertadores.get(time, []) +
+                             jogos_sudamericana.get(time, []))
 
 # Ordena os jogos por data para cada time
 for time in todos_jogos_copa:
@@ -139,6 +148,7 @@ for time in todos_jogos_copa:
 print(f"\n📊 Estatísticas dos jogos de copa processados:")
 print(f"Times na Copa do Brasil: {len(jogos_copa_brasil)}")
 print(f"Times na Libertadores: {len(jogos_libertadores)}")
+print(f"Times na Sudamericana: {len(jogos_sudamericana)}")
 print(f"Times totais com jogos de copa: {len(todos_jogos_copa)}")
 
 # --- ETAPA 2: FUNÇÃO PRINCIPAL DE ENGENHARIA DE FEATURES ---
@@ -423,6 +433,8 @@ def exibir_jogos_por_rodada(df, rodada_desejada):
 
 # --- ETAPA 4: EXECUÇÃO PRINCIPAL ---
 df_serie_a_enriquecido = gerar_features_completas(df_serie_a, df_times)
+df_serie_b_enriquecido = gerar_features_completas(df_serie_b, df_times)
+tudo = pd.concat([df_serie_a_enriquecido, df_serie_b_enriquecido], ignore_index=True)
 
 # Loop para consultar rodadas específicas
 while True:
@@ -433,7 +445,7 @@ while True:
         
         rodada = int(rodada)
         if 1 <= rodada <= 38:
-            exibir_jogos_por_rodada(df_serie_a_enriquecido, rodada)
+            exibir_jogos_por_rodada(tudo, rodada)
         else:
             print("❌ Por favor, digite um número entre 1 e 38!")
     except ValueError:

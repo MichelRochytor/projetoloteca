@@ -1,41 +1,41 @@
-﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+Rodada,Data,Time da Casa,Placar,Time Visitante
 1,08/05/10,Botafogo,3-3,Santos
-1,08/05/10,Atletico-GO,0-0,Grêmio
+1,08/05/10,Atlético-GO,0-0,Grêmio
 1,08/05/10,Palmeiras,1-0,EC Vitória
 1,09/05/10,Flamengo,1-1,São Paulo
-1,09/05/10,Atlético-MG,2-1,Vasco da Gama
+1,09/05/10,Atlético-MG,2-1,Vasco
 1,09/05/10,Internacional,1-2,Cruzeiro
 1,09/05/10,Corinthians,2-1,Athletico-PR
-1,09/05/10,Ceará SC,1-0,Fluminense
+1,09/05/10,Ceará,1-0,Fluminense
 1,09/05/10,Guarani,1-0,Goiás
 1,09/05/10,Avai,6-1,Gremio Prudente
-2,15/05/10,Fluminense,1-0,Atletico-GO
+2,15/05/10,Fluminense,1-0,Atlético-GO
 2,15/05/10,Gremio Prudente,4-0,Atlético-MG
 2,15/05/10,EC Vitória,1-1,Flamengo
-2,16/05/10,Santos,1-1,Ceará SC
+2,16/05/10,Santos,1-1,Ceará
 2,16/05/10,São Paulo,1-2,Botafogo
 2,16/05/10,Grêmio,1-2,Corinthians
 2,16/05/10,Goiás,2-3,Internacional
-2,16/05/10,Vasco da Gama,0-0,Palmeiras
+2,16/05/10,Vasco,0-0,Palmeiras
 2,16/05/10,Cruzeiro,2-2,Avai
 2,16/05/10,Athletico-PR,2-2,Guarani
 3,22/05/10,Botafogo,3-0,Goiás
-3,22/05/10,Atletico-GO,1-2,Santos
+3,22/05/10,Atlético-GO,1-2,Santos
 3,22/05/10,Palmeiras,4-2,Grêmio
 3,23/05/10,Atlético-MG,3-1,Athletico-PR
 3,23/05/10,Internacional,0-2,São Paulo
 3,23/05/10,Corinthians,1-0,Fluminense
-3,23/05/10,Ceará SC,1-0,EC Vitória
+3,23/05/10,Ceará,1-0,EC Vitória
 3,23/05/10,Guarani,2-2,Cruzeiro
-3,23/05/10,Avai,2-0,Vasco da Gama
+3,23/05/10,Avai,2-0,Vasco
 3,23/05/10,Flamengo,3-1,Gremio Prudente
 5,23/05/10,Guarani,0-0,São Paulo
 5,23/05/10,Atlético-MG,1-3,Fluminense
 5,23/05/10,Internacional,4-1,Athletico-PR
 5,23/05/10,Corinthians,4-2,Santos
-5,23/05/10,Ceará SC,1-0,Cruzeiro
-5,23/05/10,Botafogo,1-1,Vasco da Gama
-5,23/05/10,Atletico-GO,1-3,Goiás
+5,23/05/10,Ceará,1-0,Cruzeiro
+5,23/05/10,Botafogo,1-1,Vasco
+5,23/05/10,Atlético-GO,1-3,Goiás
 4,26/05/10,EC Vitória,4-3,Atlético-MG
 4,26/05/10,Fluminense,2-1,Flamengo
 4,26/05/10,Grêmio,3-0,Avai
@@ -43,46 +43,46 @@
 4,26/05/10,Gremio Prudente,2-2,Corinthians
 4,26/05/10,Santos,3-1,Guarani
 4,26/05/10,Cruzeiro,1-0,Botafogo
-4,27/05/10,Goiás,0-0,Ceará SC
-4,27/05/10,Vasco da Gama,3-2,Internacional
-4,27/05/10,Athletico-PR,2-1,Atletico-GO
+4,27/05/10,Goiás,0-0,Ceará
+4,27/05/10,Vasco,3-2,Internacional
+4,27/05/10,Athletico-PR,2-1,Atlético-GO
 5,29/05/10,Avai,0-0,EC Vitória
 5,29/05/10,Flamengo,1-1,Grêmio
 5,29/05/10,Palmeiras,0-0,Gremio Prudente
 6,02/06/10,Athletico-PR,3-2,Botafogo
 6,02/06/10,Fluminense,2-1,EC Vitória
-6,02/06/10,Gremio Prudente,1-0,Atletico-GO
-6,02/06/10,Ceará SC,2-0,Avai
+6,02/06/10,Gremio Prudente,1-0,Atlético-GO
+6,02/06/10,Ceará,2-0,Avai
 6,02/06/10,Cruzeiro,0-0,Santos
 6,02/06/10,Palmeiras,0-1,Flamengo
 6,02/06/10,Goiás,2-1,São Paulo
 6,03/06/10,Grêmio,2-1,Atlético-MG
-6,03/06/10,Vasco da Gama,0-1,Guarani
+6,03/06/10,Vasco,0-1,Guarani
 6,03/06/10,Corinthians,2-0,Internacional
 7,05/06/10,Avai,0-3,Fluminense
 7,05/06/10,Flamengo,1-2,Goiás
 7,05/06/10,EC Vitória,1-0,Athletico-PR
 7,06/06/10,São Paulo,3-1,Grêmio
-7,06/06/10,Santos,4-0,Vasco da Gama
-7,06/06/10,Atlético-MG,0-1,Ceará SC
+7,06/06/10,Santos,4-0,Vasco
+7,06/06/10,Atlético-MG,0-1,Ceará
 7,06/06/10,Botafogo,2-2,Corinthians
 7,06/06/10,Guarani,1-0,Gremio Prudente
 7,06/06/10,Internacional,1-1,Palmeiras
-7,06/06/10,Atletico-GO,2-1,Cruzeiro
+7,06/06/10,Atlético-GO,2-1,Cruzeiro
 8,14/07/10,Grêmio,1-1,EC Vitória
 8,14/07/10,Athletico-PR,0-2,Cruzeiro
 8,14/07/10,São Paulo,1-2,Avai
 8,14/07/10,Flamengo,1-0,Botafogo
-8,14/07/10,Ceará SC,0-0,Corinthians
-8,14/07/10,Goiás,0-0,Vasco da Gama
+8,14/07/10,Ceará,0-0,Corinthians
+8,14/07/10,Goiás,0-0,Vasco
 8,14/07/10,Guarani,0-3,Internacional
 8,15/07/10,Palmeiras,2-1,Santos
-8,15/07/10,Atlético-MG,3-2,Atletico-GO
+8,15/07/10,Atlético-MG,3-2,Atlético-GO
 8,15/07/10,Fluminense,1-1,Gremio Prudente
-9,17/07/10,Vasco da Gama,3-1,Athletico-PR
+9,17/07/10,Vasco,3-1,Athletico-PR
 9,17/07/10,EC Vitória,3-2,São Paulo
-9,18/07/10,Internacional,2-1,Ceará SC
-9,18/07/10,Atletico-GO,0-1,Flamengo
+9,18/07/10,Internacional,2-1,Ceará
+9,18/07/10,Atlético-GO,0-1,Flamengo
 9,18/07/10,Corinthians,1-0,Atlético-MG
 9,18/07/10,Avai,4-2,Palmeiras
 9,18/07/10,Santos,0-1,Fluminense
@@ -93,91 +93,91 @@
 10,21/07/10,Atlético-MG,1-2,Internacional
 10,21/07/10,EC Vitória,2-2,Goiás
 10,21/07/10,Flamengo,1-1,Avai
-10,21/07/10,Atletico-GO,3-1,Corinthians
-10,21/07/10,Grêmio,1-1,Vasco da Gama
+10,21/07/10,Atlético-GO,3-1,Corinthians
+10,21/07/10,Grêmio,1-1,Vasco
 10,21/07/10,Athletico-PR,2-0,Santos
-10,22/07/10,Guarani,1-1,Ceará SC
+10,22/07/10,Guarani,1-1,Ceará
 10,22/07/10,Palmeiras,2-2,Botafogo
 10,22/07/10,Fluminense,1-0,Cruzeiro
-11,24/07/10,Vasco da Gama,2-0,Atletico-GO
+11,24/07/10,Vasco,2-0,Atlético-GO
 11,24/07/10,Avai,0-0,Atlético-MG
 11,24/07/10,Gremio Prudente,0-0,EC Vitória
 11,25/07/10,Santos,1-0,São Paulo
 11,25/07/10,Cruzeiro,2-2,Grêmio
 11,25/07/10,Internacional,1-0,Flamengo
 11,25/07/10,Goiás,0-2,Athletico-PR
-11,25/07/10,Ceará SC,0-0,Palmeiras
+11,25/07/10,Ceará,0-0,Palmeiras
 11,25/07/10,Corinthians,3-1,Guarani
 11,25/07/10,Botafogo,1-1,Fluminense
-12,31/07/10,São Paulo,2-1,Ceará SC
+12,31/07/10,São Paulo,2-1,Ceará
 12,31/07/10,Fluminense,3-1,Athletico-PR
-12,31/07/10,Atletico-GO,1-1,Guarani
+12,31/07/10,Atlético-GO,1-1,Guarani
 12,01/08/10,Palmeiras,1-1,Corinthians
 12,01/08/10,EC Vitória,1-3,Botafogo
 12,01/08/10,Internacional,0-0,Grêmio
 12,01/08/10,Avai,4-1,Goiás
 12,01/08/10,Atlético-MG,0-1,Cruzeiro
-12,01/08/10,Flamengo,0-0,Vasco da Gama
+12,01/08/10,Flamengo,0-0,Vasco
 12,01/08/10,Gremio Prudente,1-2,Santos
 13,07/08/10,Botafogo,3-0,Atlético-MG
 13,07/08/10,Guarani,4-1,Avai
 13,08/08/10,Corinthians,1-0,Flamengo
 13,08/08/10,Goiás,1-1,Palmeiras
-13,08/08/10,Ceará SC,0-0,Atletico-GO
-13,08/08/10,Vasco da Gama,1-0,EC Vitória
+13,08/08/10,Ceará,0-0,Atlético-GO
+13,08/08/10,Vasco,1-0,EC Vitória
 13,08/08/10,Cruzeiro,0-0,Gremio Prudente
 13,08/08/10,Grêmio,1-2,Fluminense
 13,08/08/10,Athletico-PR,1-1,São Paulo
-14,14/08/10,Flamengo,1-0,Ceará SC
+14,14/08/10,Flamengo,1-0,Ceará
 14,14/08/10,Palmeiras,2-0,Athletico-PR
-14,14/08/10,Atletico-GO,0-2,Botafogo
+14,14/08/10,Atlético-GO,0-2,Botafogo
 14,14/08/10,Atlético-MG,3-1,Guarani
 14,15/08/10,São Paulo,2-2,Cruzeiro
 14,15/08/10,Fluminense,3-0,Internacional
-14,15/08/10,Gremio Prudente,1-2,Vasco da Gama
+14,15/08/10,Gremio Prudente,1-2,Vasco
 14,15/08/10,Avai,3-2,Corinthians
 14,15/08/10,EC Vitória,4-2,Santos
 14,15/08/10,Grêmio,2-0,Goiás
 15,21/08/10,Goiás,1-2,Gremio Prudente
-15,21/08/10,Ceará SC,2-1,Grêmio
+15,21/08/10,Ceará,2-1,Grêmio
 15,21/08/10,Botafogo,1-0,Avai
 15,22/08/10,Santos,2-0,Atlético-MG
-15,22/08/10,Internacional,1-1,Atletico-GO
+15,22/08/10,Internacional,1-1,Atlético-GO
 15,22/08/10,Athletico-PR,1-0,Flamengo
 15,22/08/10,Guarani,0-0,Palmeiras
 15,22/08/10,Cruzeiro,0-1,EC Vitória
-15,22/08/10,Vasco da Gama,2-2,Fluminense
+15,22/08/10,Vasco,2-2,Fluminense
 15,22/08/10,Corinthians,3-0,São Paulo
 16,25/08/10,Goiás,0-3,Fluminense
-16,25/08/10,Botafogo,1-0,Ceará SC
+16,25/08/10,Botafogo,1-0,Ceará
 16,25/08/10,Avai,0-1,Internacional
 16,25/08/10,Gremio Prudente,0-1,Athletico-PR
-16,25/08/10,São Paulo,0-0,Vasco da Gama
+16,25/08/10,São Paulo,0-0,Vasco
 16,25/08/10,Cruzeiro,1-0,Corinthians
 16,25/08/10,Grêmio,1-2,Santos
 16,26/08/10,EC Vitória,1-1,Guarani
 16,26/08/10,Flamengo,0-0,Atlético-MG
-16,26/08/10,Palmeiras,0-3,Atletico-GO
+16,26/08/10,Palmeiras,0-3,Atlético-GO
 17,28/08/10,Santos,2-0,Goiás
 17,28/08/10,Internacional,1-0,Botafogo
-17,28/08/10,Vasco da Gama,1-1,Cruzeiro
-17,28/08/10,Ceará SC,2-2,Gremio Prudente
+17,28/08/10,Vasco,1-1,Cruzeiro
+17,28/08/10,Ceará,2-2,Gremio Prudente
 17,29/08/10,Corinthians,2-1,EC Vitória
 17,29/08/10,Guarani,2-1,Flamengo
 17,29/08/10,Atlético-MG,1-2,Palmeiras
 17,29/08/10,Fluminense,2-2,São Paulo
-17,29/08/10,Atletico-GO,2-2,Avai
+17,29/08/10,Atlético-GO,2-2,Avai
 17,29/08/10,Athletico-PR,1-1,Grêmio
 18,01/09/10,Grêmio,1-0,Guarani
 18,01/09/10,EC Vitória,0-0,Internacional
 18,01/09/10,Gremio Prudente,0-1,Botafogo
 18,01/09/10,Goiás,1-3,Atlético-MG
 18,01/09/10,Cruzeiro,1-0,Flamengo
-18,01/09/10,Athletico-PR,2-1,Ceará SC
+18,01/09/10,Athletico-PR,2-1,Ceará
 18,01/09/10,Fluminense,1-1,Palmeiras
 18,02/09/10,Santos,2-1,Avai
-18,02/09/10,São Paulo,2-1,Atletico-GO
-19,04/09/10,Ceará SC,0-2,Vasco da Gama
+18,02/09/10,São Paulo,2-1,Atlético-GO
+19,04/09/10,Ceará,0-2,Vasco
 19,04/09/10,Corinthians,5-1,Goiás
 19,04/09/10,Botafogo,2-2,Grêmio
 19,05/09/10,Flamengo,0-0,Santos
@@ -185,53 +185,53 @@
 19,05/09/10,Palmeiras,2-3,Cruzeiro
 19,05/09/10,Avai,0-1,Athletico-PR
 19,05/09/10,Atlético-MG,2-3,São Paulo
-19,05/09/10,Atletico-GO,4-1,EC Vitória
+19,05/09/10,Atlético-GO,4-1,EC Vitória
 19,05/09/10,Internacional,2-0,Gremio Prudente
-20,08/09/10,Fluminense,3-1,Ceará SC
+20,08/09/10,Fluminense,3-1,Ceará
 20,08/09/10,Cruzeiro,1-0,Internacional
-20,08/09/10,Grêmio,2-0,Atletico-GO
+20,08/09/10,Grêmio,2-0,Atlético-GO
 20,08/09/10,Goiás,3-1,Guarani
 20,08/09/10,São Paulo,2-0,Flamengo
 20,08/09/10,EC Vitória,1-1,Palmeiras
 20,08/09/10,Athletico-PR,1-1,Corinthians
 20,09/09/10,Santos,0-1,Botafogo
-20,09/09/10,Vasco da Gama,1-1,Atlético-MG
+20,09/09/10,Vasco,1-1,Atlético-MG
 20,09/09/10,Gremio Prudente,1-1,Avai
 21,11/09/10,Flamengo,2-2,EC Vitória
 21,11/09/10,Corinthians,0-1,Grêmio
-21,11/09/10,Atletico-GO,2-1,Fluminense
-21,12/09/10,Palmeiras,0-0,Vasco da Gama
+21,11/09/10,Atlético-GO,2-1,Fluminense
+21,12/09/10,Palmeiras,0-0,Vasco
 21,12/09/10,Botafogo,2-0,São Paulo
 21,12/09/10,Atlético-MG,1-0,Gremio Prudente
 21,12/09/10,Avai,1-2,Cruzeiro
 21,12/09/10,Guarani,1-0,Athletico-PR
 21,12/09/10,Internacional,0-0,Goiás
-21,12/09/10,Ceará SC,2-1,Santos
-22,15/09/10,Santos,4-2,Atletico-GO
+21,12/09/10,Ceará,2-1,Santos
+22,15/09/10,Santos,4-2,Atlético-GO
 22,15/09/10,Cruzeiro,4-2,Guarani
 22,15/09/10,Goiás,4-1,Botafogo
 22,15/09/10,Athletico-PR,2-1,Atlético-MG
 22,15/09/10,Fluminense,1-2,Corinthians
 22,15/09/10,Gremio Prudente,1-2,Flamengo
 22,15/09/10,Grêmio,1-2,Palmeiras
-22,15/09/10,EC Vitória,0-0,Ceará SC
+22,15/09/10,EC Vitória,0-0,Ceará
 22,16/09/10,São Paulo,1-3,Internacional
-22,16/09/10,Vasco da Gama,1-1,Avai
+22,16/09/10,Vasco,1-1,Avai
 23,18/09/10,Corinthians,3-0,Gremio Prudente
 23,18/09/10,Botafogo,2-2,Cruzeiro
-23,18/09/10,Atletico-GO,1-2,Athletico-PR
+23,18/09/10,Atlético-GO,1-2,Athletico-PR
 23,19/09/10,Palmeiras,0-2,São Paulo
 23,19/09/10,Guarani,0-0,Santos
 23,19/09/10,Atlético-MG,2-3,EC Vitória
-23,19/09/10,Internacional,1-0,Vasco da Gama
+23,19/09/10,Internacional,1-0,Vasco
 23,19/09/10,Flamengo,3-3,Fluminense
 23,19/09/10,Avai,0-3,Grêmio
-23,19/09/10,Ceará SC,1-1,Goiás
+23,19/09/10,Ceará,1-1,Goiás
 24,22/09/10,São Paulo,2-1,Guarani
 24,22/09/10,Gremio Prudente,0-1,Palmeiras
-24,22/09/10,Cruzeiro,2-0,Ceará SC
-24,22/09/10,Goiás,1-3,Atletico-GO
-24,22/09/10,Vasco da Gama,2-2,Botafogo
+24,22/09/10,Cruzeiro,2-0,Ceará
+24,22/09/10,Goiás,1-3,Atlético-GO
+24,22/09/10,Vasco,2-2,Botafogo
 24,22/09/10,Athletico-PR,1-0,Internacional
 24,22/09/10,Grêmio,2-2,Flamengo
 24,22/09/10,Santos,2-3,Corinthians
@@ -239,143 +239,143 @@
 24,23/09/10,EC Vitória,3-0,Avai
 25,25/09/10,Santos,4-1,Cruzeiro
 25,25/09/10,São Paulo,0-3,Goiás
-25,25/09/10,Guarani,1-0,Vasco da Gama
-25,25/09/10,Atletico-GO,3-0,Gremio Prudente
+25,25/09/10,Guarani,1-0,Vasco
+25,25/09/10,Atlético-GO,3-0,Gremio Prudente
 25,25/09/10,Flamengo,1-3,Palmeiras
 25,26/09/10,Internacional,3-2,Corinthians
 25,26/09/10,EC Vitória,1-2,Fluminense
 25,26/09/10,Botafogo,1-1,Athletico-PR
-25,26/09/10,Avai,5-0,Ceará SC
+25,26/09/10,Avai,5-0,Ceará
 25,26/09/10,Atlético-MG,1-2,Grêmio
-26,28/09/10,Vasco da Gama,3-1,Santos
+26,28/09/10,Vasco,3-1,Santos
 26,28/09/10,Goiás,1-1,Flamengo
 26,29/09/10,Palmeiras,2-0,Internacional
 26,29/09/10,Gremio Prudente,4-2,Guarani
-26,29/09/10,Cruzeiro,3-0,Atletico-GO
+26,29/09/10,Cruzeiro,3-0,Atlético-GO
 26,29/09/10,Athletico-PR,1-0,EC Vitória
 26,29/09/10,Fluminense,1-0,Avai
 26,29/09/10,Grêmio,4-2,São Paulo
 26,29/09/10,Corinthians,1-1,Botafogo
-26,29/09/10,Ceará SC,0-0,Atlético-MG
-27,01/10/10,Vasco da Gama,3-2,Goiás
+26,29/09/10,Ceará,0-0,Atlético-MG
+27,01/10/10,Vasco,3-2,Goiás
 27,02/10/10,Santos,1-1,Palmeiras
-27,02/10/10,Corinthians,2-2,Ceará SC
+27,02/10/10,Corinthians,2-2,Ceará
 27,02/10/10,Gremio Prudente,1-1,Fluminense
 27,02/10/10,EC Vitória,0-3,Grêmio
 27,02/10/10,Cruzeiro,0-0,Athletico-PR
 27,02/10/10,Botafogo,1-1,Flamengo
 27,02/10/10,Internacional,3-0,Guarani
 27,02/10/10,Avai,0-0,São Paulo
-27,02/10/10,Atletico-GO,2-3,Atlético-MG
+27,02/10/10,Atlético-GO,2-3,Atlético-MG
 28,06/10/10,Fluminense,0-3,Santos
 28,06/10/10,Grêmio,4-0,Gremio Prudente
 28,06/10/10,Guarani,1-1,Botafogo
-28,06/10/10,Ceará SC,1-0,Internacional
-28,06/10/10,Athletico-PR,0-0,Vasco da Gama
+28,06/10/10,Ceará,1-0,Internacional
+28,06/10/10,Athletico-PR,0-0,Vasco
 28,06/10/10,São Paulo,2-0,EC Vitória
 28,06/10/10,Atlético-MG,2-1,Corinthians
 28,07/10/10,Palmeiras,4-1,Avai
 28,07/10/10,Goiás,0-1,Cruzeiro
-28,07/10/10,Flamengo,2-0,Atletico-GO
+28,07/10/10,Flamengo,2-0,Atlético-GO
 29,09/10/10,Santos,2-0,Athletico-PR
 29,09/10/10,Gremio Prudente,2-3,São Paulo
-29,09/10/10,Vasco da Gama,3-3,Grêmio
+29,09/10/10,Vasco,3-3,Grêmio
 29,10/10/10,Cruzeiro,1-0,Fluminense
-29,10/10/10,Corinthians,3-4,Atletico-GO
+29,10/10/10,Corinthians,3-4,Atlético-GO
 29,10/10/10,Botafogo,0-0,Palmeiras
 29,10/10/10,Goiás,1-0,EC Vitória
 29,10/10/10,Avai,2-2,Flamengo
-29,10/10/10,Ceará SC,2-0,Guarani
+29,10/10/10,Ceará,2-0,Guarani
 29,10/10/10,Internacional,1-0,Atlético-MG
 13,13/10/10,Santos,1-0,Internacional
-18,13/10/10,Vasco da Gama,2-0,Corinthians
+18,13/10/10,Vasco,2-0,Corinthians
 30,16/10/10,Flamengo,3-0,Internacional
 30,16/10/10,Athletico-PR,2-1,Goiás
 30,17/10/10,Atlético-MG,2-0,Avai
 30,17/10/10,Guarani,0-0,Corinthians
 30,17/10/10,Grêmio,2-1,Cruzeiro
-30,17/10/10,Atletico-GO,2-0,Vasco da Gama
+30,17/10/10,Atlético-GO,2-0,Vasco
 30,17/10/10,EC Vitória,2-0,Gremio Prudente
 30,17/10/10,Fluminense,0-0,Botafogo
 30,17/10/10,São Paulo,4-3,Santos
-30,17/10/10,Palmeiras,1-1,Ceará SC
+30,17/10/10,Palmeiras,1-1,Ceará
 31,23/10/10,Botafogo,1-0,EC Vitória
-31,23/10/10,Guarani,0-1,Atletico-GO
+31,23/10/10,Guarani,0-1,Atlético-GO
 31,24/10/10,Corinthians,1-0,Palmeiras
-31,24/10/10,Ceará SC,2-0,São Paulo
+31,24/10/10,Ceará,2-0,São Paulo
 31,24/10/10,Goiás,1-0,Avai
 31,24/10/10,Athletico-PR,2-2,Fluminense
-31,24/10/10,Vasco da Gama,1-1,Flamengo
+31,24/10/10,Vasco,1-1,Flamengo
 31,24/10/10,Santos,2-3,Gremio Prudente
 31,24/10/10,Cruzeiro,3-4,Atlético-MG
 31,24/10/10,Grêmio,2-2,Internacional
 32,27/10/10,Flamengo,1-1,Corinthians
 32,28/10/10,Fluminense,2-0,Grêmio
 32,28/10/10,São Paulo,2-1,Athletico-PR
-32,28/10/10,Atletico-GO,1-1,Ceará SC
+32,28/10/10,Atlético-GO,1-1,Ceará
 32,30/10/10,Internacional,1-1,Santos
-32,30/10/10,EC Vitória,4-2,Vasco da Gama
+32,30/10/10,EC Vitória,4-2,Vasco
 32,30/10/10,Palmeiras,3-2,Goiás
 32,30/10/10,Gremio Prudente,0-2,Cruzeiro
 32,30/10/10,Atlético-MG,0-2,Botafogo
 32,30/10/10,Avai,1-0,Guarani
 33,03/11/10,Santos,1-1,EC Vitória
 33,03/11/10,Internacional,0-0,Fluminense
-33,03/11/10,Botafogo,3-2,Atletico-GO
+33,03/11/10,Botafogo,3-2,Atlético-GO
 33,03/11/10,Guarani,0-0,Atlético-MG
 33,03/11/10,Goiás,0-2,Grêmio
 33,03/11/10,Cruzeiro,0-2,São Paulo
 33,03/11/10,Corinthians,4-0,Avai
-33,03/11/10,Ceará SC,2-2,Flamengo
-33,04/11/10,Vasco da Gama,2-1,Gremio Prudente
+33,03/11/10,Ceará,2-2,Flamengo
+33,04/11/10,Vasco,2-1,Gremio Prudente
 33,04/11/10,Athletico-PR,1-0,Palmeiras
 34,06/11/10,Atlético-MG,2-2,Santos
-34,06/11/10,Grêmio,5-1,Ceará SC
-34,06/11/10,Atletico-GO,2-2,Internacional
+34,06/11/10,Grêmio,5-1,Ceará
+34,06/11/10,Atlético-GO,2-2,Internacional
 34,07/11/10,São Paulo,0-2,Corinthians
 34,07/11/10,Gremio Prudente,4-1,Goiás
 34,07/11/10,EC Vitória,0-1,Cruzeiro
 34,07/11/10,Avai,0-0,Botafogo
-34,07/11/10,Fluminense,1-0,Vasco da Gama
+34,07/11/10,Fluminense,1-0,Vasco
 34,07/11/10,Palmeiras,1-0,Guarani
 34,07/11/10,Flamengo,0-1,Athletico-PR
-35,10/11/10,Ceará SC,2-2,Botafogo
+35,10/11/10,Ceará,2-2,Botafogo
 35,13/11/10,Corinthians,1-0,Cruzeiro
 35,13/11/10,Santos,0-0,Grêmio
 35,13/11/10,Atlético-MG,4-1,Flamengo
 35,14/11/10,Fluminense,1-1,Goiás
 35,14/11/10,Internacional,2-3,Avai
-35,14/11/10,Atletico-GO,3-0,Palmeiras
+35,14/11/10,Atlético-GO,3-0,Palmeiras
 35,14/11/10,Guarani,1-1,EC Vitória
-35,14/11/10,Vasco da Gama,1-1,São Paulo
+35,14/11/10,Vasco,1-1,São Paulo
 35,14/11/10,Athletico-PR,2-1,Gremio Prudente
 36,20/11/10,Grêmio,3-1,Athletico-PR
 36,20/11/10,Flamengo,2-1,Guarani
-36,20/11/10,Gremio Prudente,1-1,Ceará SC
+36,20/11/10,Gremio Prudente,1-1,Ceará
 36,21/11/10,São Paulo,1-4,Fluminense
 36,21/11/10,Botafogo,1-2,Internacional
 36,21/11/10,Palmeiras,0-2,Atlético-MG
 36,21/11/10,EC Vitória,1-1,Corinthians
-36,21/11/10,Cruzeiro,3-1,Vasco da Gama
-36,21/11/10,Avai,3-0,Atletico-GO
+36,21/11/10,Cruzeiro,3-1,Vasco
+36,21/11/10,Avai,3-0,Atlético-GO
 36,21/11/10,Goiás,1-4,Santos
 37,28/11/10,Palmeiras,1-2,Fluminense
-37,28/11/10,Corinthians,2-0,Vasco da Gama
+37,28/11/10,Corinthians,2-0,Vasco
 37,28/11/10,Flamengo,1-2,Cruzeiro
 37,28/11/10,Botafogo,3-1,Gremio Prudente
-37,28/11/10,Ceará SC,1-1,Athletico-PR
+37,28/11/10,Ceará,1-1,Athletico-PR
 37,28/11/10,Guarani,0-3,Grêmio
 37,28/11/10,Atlético-MG,3-1,Goiás
 37,28/11/10,Internacional,1-1,EC Vitória
-37,28/11/10,Atletico-GO,1-1,São Paulo
+37,28/11/10,Atlético-GO,1-1,São Paulo
 37,28/11/10,Avai,3-2,Santos
 38,02/12/10,Gremio Prudente,0-3,Internacional
 38,05/12/10,Fluminense,1-0,Guarani
 38,05/12/10,Cruzeiro,2-1,Palmeiras
 38,05/12/10,Goiás,1-1,Corinthians
 38,05/12/10,Grêmio,3-0,Botafogo
-38,05/12/10,Vasco da Gama,2-0,Ceará SC
+38,05/12/10,Vasco,2-0,Ceará
 38,05/12/10,Santos,0-0,Flamengo
 38,05/12/10,São Paulo,4-0,Atlético-MG
 38,05/12/10,Athletico-PR,1-0,Avai
-38,05/12/10,EC Vitória,0-0,Atletico-GO
+38,05/12/10,EC Vitória,0-0,Atlético-GO

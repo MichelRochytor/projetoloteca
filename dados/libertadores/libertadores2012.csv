@@ -16,7 +16,7 @@ FG,1,07/02/12,Fluminense,1-0,Arsenal de Sarandí
 FG,1,08/02/12,Chivas,1-1,Deportivo Quito
 FG,1,08/02/12,Unión Española,2-0,Junior Barranquilla
 FG,1,08/02/12,Nacional,1-2,Cruz Azul
-FG,1,08/02/12,Vasco da Gama,1-2,Nacional (URU)
+FG,1,08/02/12,Vasco,1-2,Nacional (URU)
 FG,1,09/02/12,Internacional,2-0,Juan Aurich
 FG,1,09/02/12,Universidad Católica,1-1,Bolívar
 FG,1,09/02/12,Libertad,4-1,Alianza Lima
@@ -40,7 +40,7 @@ FG,2,23/02/12,The Strongest,2-1,Juan Aurich
 FG,2,23/02/12,Universidad Católica,2-2,Junior Barranquilla
 FG,2,06/03/12,Peñarol,1-1,Universidad de Chile
 FG,3,06/03/12,Unión Española,1-1,Universidad Católica
-FG,2,06/03/12,Vasco da Gama,3-2,Alianza Lima
+FG,2,06/03/12,Vasco,3-2,Alianza Lima
 FG,2,07/03/12,Santos,3-1,Internacional
 FG,3,07/03/12,Deportivo Quito,3-0,Vélez Sarsfield
 FG,2,07/03/12,Boca Juniors,1-2,Fluminense
@@ -56,14 +56,14 @@ FG,3,14/03/12,Chivas,1-0,Defensor Sporting
 FG,3,14/03/12,Fluminense,1-0,Zamora FC
 FG,3,14/03/12,Arsenal de Sarandí,1-2,Boca Juniors
 FG,3,14/03/12,Cruz Azul,0-0,Corinthians
-FG,3,14/03/12,Libertad,1-1,Vasco da Gama
+FG,3,14/03/12,Libertad,1-1,Vasco
 FG,3,15/03/12,Juan Aurich,1-3,Santos
 FG,4,15/03/12,Flamengo,3-3,Olimpia
 FG,5,20/03/12,Emelec,0-2,Lanús
 FG,4,20/03/12,Bolívar,2-1,Junior Barranquilla
 FG,4,21/03/12,The Strongest,1-1,Internacional
 FG,4,21/03/12,Corinthians,1-0,Cruz Azul
-FG,4,21/03/12,Vasco da Gama,2-0,Libertad
+FG,4,21/03/12,Vasco,2-0,Libertad
 FG,4,22/03/12,Vélez Sarsfield,1-0,Deportivo Quito
 FG,4,22/03/12,Santos,2-0,Juan Aurich
 FG,4,22/03/12,Atlético Nacional,2-2,Godoy Cruz
@@ -77,7 +77,7 @@ FG,4,29/03/12,Boca Juniors,2-0,Arsenal de Sarandí
 FG,4,29/03/12,Zamora FC,0-1,Fluminense
 FG,5,03/04/12,Lanús,6-0,Olimpia
 FG,6,03/04/12,Deportivo Táchira,1-1,Cruz Azul
-FG,5,03/04/12,Alianza Lima,1-2,Vasco da Gama
+FG,5,03/04/12,Alianza Lima,1-2,Vasco
 FG,5,04/04/12,Godoy Cruz,0-1,Universidad de Chile
 FG,5,04/04/12,Junior Barranquilla,3-0,Universidad Católica
 FG,5,04/04/12,Internacional,1-1,Santos
@@ -94,7 +94,7 @@ FG,5,11/04/12,Fluminense,0-2,Boca Juniors
 FG,6,12/04/12,Olimpia,2-3,Emelec
 FG,6,12/04/12,Flamengo,3-0,Lanús
 FG,6,12/04/12,Alianza Lima,1-2,Libertad
-FG,6,12/04/12,Nacional (URU),0-1,Vasco da Gama
+FG,6,12/04/12,Nacional (URU),0-1,Vasco
 FG,6,17/04/12,Vélez Sarsfield,1-3,Defensor Sporting
 FG,6,17/04/12,Deportivo Quito,5-0,Chivas
 FG,6,17/04/12,Junior Barranquilla,2-1,Unión Española
@@ -113,22 +113,22 @@ O,1,01/05/12,Atlético Nacional,0-1,Vélez Sarsfield
 O,1,01/05/12,Cruz Azul,1-1,Libertad
 O,1,02/05/12,Boca Juniors,2-1,Unión Española
 O,1,02/05/12,Emelec,0-0,Corinthians
-O,1,02/05/12,Vasco da Gama,2-1,Lanús
+O,1,02/05/12,Vasco,2-1,Lanús
 O,1,03/05/12,Deportivo Quito,4-1,Universidad de Chile
 O,2,08/05/12,Vélez Sarsfield,1-1,Atlético Nacional
 O,2,08/05/12,Libertad,2-0,Cruz Azul
 O,2,09/05/12,Unión Española,2-3,Boca Juniors
-O,2,09/05/12,Lanús,2-1,Vasco da Gama
+O,2,09/05/12,Lanús,2-1,Vasco
 O,2,09/05/12,Corinthians,3-0,Emelec
 O,2,10/05/12,Santos,8-0,Bolívar
 O,2,10/05/12,Universidad de Chile,6-0,Deportivo Quito
 O,2,10/05/12,Fluminense,2-1,Internacional
 Q,1,16/05/12,Libertad,1-1,Universidad de Chile
-Q,1,16/05/12,Vasco da Gama,0-0,Corinthians
+Q,1,16/05/12,Vasco,0-0,Corinthians
 Q,1,17/05/12,Boca Juniors,1-0,Fluminense
 Q,1,17/05/12,Vélez Sarsfield,1-0,Santos
 Q,2,23/05/12,Fluminense,1-1,Boca Juniors
-Q,2,23/05/12,Corinthians,1-0,Vasco da Gama
+Q,2,23/05/12,Corinthians,1-0,Vasco
 Q,2,24/05/12,Santos,1-0,Vélez Sarsfield
 Q,2,24/05/12,Universidad de Chile,1-1,Libertad
 S,1,13/06/12,Santos,0-1,Corinthians

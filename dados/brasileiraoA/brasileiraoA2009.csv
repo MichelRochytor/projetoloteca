@@ -1,5 +1,5 @@
-﻿Rodada,Data,Time da Casa,Placar,Time Visitante
-1,09/05/09,Sport Recife,1-1,Barueri
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/05/09,Sport,1-1,Barueri
 1,09/05/09,Palmeiras,2-1,Coritiba
 1,09/05/09,Avai,2-2,Atlético-MG
 1,10/05/09,Corinthians,0-1,Internacional
@@ -17,7 +17,7 @@
 2,17/05/09,Barueri,0-0,Fluminense
 2,17/05/09,Internacional,2-0,Palmeiras
 2,17/05/09,Botafogo,0-0,Corinthians
-2,17/05/09,EC Vitória,1-0,Sport Recife
+2,17/05/09,EC Vitória,1-0,Sport
 2,17/05/09,Nautico,2-0,Cruzeiro
 3,23/05/09,Corinthians,2-1,Barueri
 3,23/05/09,Cruzeiro,2-0,EC Vitória
@@ -26,10 +26,10 @@
 3,24/05/09,Fluminense,1-4,Santos
 3,24/05/09,Athletico-PR,2-3,Nautico
 3,24/05/09,Grêmio,2-0,Botafogo
-3,24/05/09,Sport Recife,2-3,Atlético-MG
+3,24/05/09,Sport,2-3,Atlético-MG
 3,24/05/09,Avai,2-2,Coritiba
 3,24/05/09,Santo Andre,1-2,Flamengo
-4,30/05/09,Botafogo,2-2,Sport Recife
+4,30/05/09,Botafogo,2-2,Sport
 4,30/05/09,Coritiba,1-3,Goiás
 4,30/05/09,Atlético-MG,0-0,Santo Andre
 4,31/05/09,São Paulo,3-0,Cruzeiro
@@ -51,17 +51,17 @@
 5,06/06/09,Corinthians,2-0,Coritiba
 5,07/06/09,Palmeiras,2-1,EC Vitória
 5,07/06/09,Athletico-PR,0-4,Atlético-MG
-5,07/06/09,Sport Recife,4-2,Flamengo
+5,07/06/09,Sport,4-2,Flamengo
 5,07/06/09,Avai,0-0,São Paulo
 5,07/06/09,Cruzeiro,1-1,Internacional
 5,07/06/09,Goiás,2-2,Barueri
 5,07/06/09,Fluminense,1-0,Botafogo
 6,13/06/09,São Paulo,1-1,Santo Andre
-6,13/06/09,Sport Recife,0-1,Athletico-PR
+6,13/06/09,Sport,0-1,Athletico-PR
 6,13/06/09,Botafogo,2-0,Santos
 7,20/06/09,Athletico-PR,2-2,Palmeiras
 7,20/06/09,EC Vitória,4-3,Botafogo
-7,20/06/09,Santo Andre,2-1,Sport Recife
+7,20/06/09,Santo Andre,2-1,Sport
 7,20/06/09,Grêmio,2-2,Goiás
 7,20/06/09,Avai,3-2,Fluminense
 7,20/06/09,Nautico,0-1,Coritiba
@@ -77,9 +77,9 @@
 8,28/06/09,Palmeiras,1-1,Santos
 8,28/06/09,Internacional,3-0,Coritiba
 8,28/06/09,EC Vitória,4-1,Santo Andre
-8,28/06/09,Sport Recife,3-1,Grêmio
+8,28/06/09,Sport,3-1,Grêmio
 8,28/06/09,Fluminense,0-0,Flamengo
-9,04/07/09,Santos,1-0,Sport Recife
+9,04/07/09,Santos,1-0,Sport
 9,04/07/09,Santo Andre,1-1,Barueri
 9,04/07/09,Flamengo,2-1,EC Vitória
 9,05/07/09,Coritiba,2-0,São Paulo
@@ -97,7 +97,7 @@
 10,12/07/09,Grêmio,3-0,Corinthians
 10,12/07/09,São Paulo,2-2,Flamengo
 10,12/07/09,EC Vitória,6-2,Santos
-10,12/07/09,Sport Recife,1-0,Goiás
+10,12/07/09,Sport,1-0,Goiás
 10,12/07/09,Fluminense,0-1,Santo Andre
 11,15/07/09,Goiás,0-2,Avai
 11,15/07/09,Coritiba,2-1,Grêmio
@@ -106,7 +106,7 @@
 11,15/07/09,Flamengo,1-2,Palmeiras
 11,15/07/09,Internacional,4-2,Fluminense
 11,16/07/09,Atlético-MG,2-0,São Paulo
-11,16/07/09,Corinthians,4-3,Sport Recife
+11,16/07/09,Corinthians,4-3,Sport
 11,16/07/09,Nautico,1-1,EC Vitória
 12,18/07/09,Fluminense,1-4,Goiás
 12,18/07/09,Palmeiras,1-0,Santo Andre
@@ -116,7 +116,7 @@
 12,19/07/09,EC Vitória,0-0,Atlético-MG
 12,19/07/09,Cruzeiro,1-2,Corinthians
 12,19/07/09,Barueri,4-0,Nautico
-12,19/07/09,Sport Recife,1-3,Avai
+12,19/07/09,Sport,1-3,Avai
 12,19/07/09,Botafogo,2-2,Flamengo
 13,22/07/09,Flamengo,1-1,Barueri
 13,22/07/09,Santo Andre,0-2,Cruzeiro
@@ -126,7 +126,7 @@
 13,22/07/09,Internacional,2-2,São Paulo
 13,22/07/09,Nautico,2-2,Botafogo
 13,23/07/09,Atlético-MG,2-1,Fluminense
-13,23/07/09,Coritiba,1-1,Sport Recife
+13,23/07/09,Coritiba,1-1,Sport
 13,23/07/09,Corinthians,2-1,EC Vitória
 14,25/07/09,Grêmio,3-2,Santo Andre
 14,25/07/09,Athletico-PR,1-3,Avai
@@ -134,7 +134,7 @@
 14,26/07/09,Santos,1-2,Flamengo
 14,26/07/09,Corinthians,0-3,Palmeiras
 14,26/07/09,Atlético-MG,0-1,Goiás
-14,26/07/09,Sport Recife,3-3,Nautico
+14,26/07/09,Sport,3-3,Nautico
 14,26/07/09,Fluminense,1-1,Cruzeiro
 14,26/07/09,EC Vitória,1-0,Coritiba
 14,26/07/09,Barueri,1-2,São Paulo
@@ -142,13 +142,13 @@
 15,29/07/09,Coritiba,2-2,Botafogo
 15,29/07/09,Goiás,3-0,Athletico-PR
 15,29/07/09,Internacional,3-2,Barueri
-15,29/07/09,Cruzeiro,1-0,Sport Recife
+15,29/07/09,Cruzeiro,1-0,Sport
 15,29/07/09,Santo Andre,1-1,Corinthians
 15,29/07/09,Palmeiras,1-0,Fluminense
 15,30/07/09,Avai,4-0,EC Vitória
 15,30/07/09,Flamengo,3-1,Atlético-MG
 15,30/07/09,São Paulo,2-1,Grêmio
-16,01/08/09,Sport Recife,0-1,Palmeiras
+16,01/08/09,Sport,0-1,Palmeiras
 16,01/08/09,Botafogo,2-1,Barueri
 16,02/08/09,Flamengo,1-1,Nautico
 16,02/08/09,Corinthians,0-0,Avai
@@ -164,7 +164,7 @@
 17,05/08/09,Coritiba,0-1,Santos
 17,05/08/09,Goiás,3-2,Flamengo
 17,06/08/09,Palmeiras,1-1,Grêmio
-17,06/08/09,Fluminense,5-1,Sport Recife
+17,06/08/09,Fluminense,5-1,Sport
 17,06/08/09,Barueri,4-0,EC Vitória
 18,08/08/09,Santos,2-2,Avai
 18,08/08/09,Nautico,2-1,Santo Andre
@@ -174,7 +174,7 @@
 18,09/08/09,Coritiba,1-3,Cruzeiro
 18,09/08/09,São Paulo,3-1,Goiás
 18,09/08/09,Barueri,1-0,Grêmio
-18,10/08/09,Internacional,3-0,Sport Recife
+18,10/08/09,Internacional,3-0,Sport
 18,12/08/09,Atlético-MG,1-1,Palmeiras
 19,15/08/09,Avai,2-1,Nautico
 19,15/08/09,Santo Andre,0-2,Internacional
@@ -182,14 +182,14 @@
 19,16/08/09,Fluminense,1-3,Coritiba
 19,16/08/09,Grêmio,4-1,Flamengo
 19,16/08/09,Corinthians,2-0,Atlético-MG
-19,16/08/09,Sport Recife,1-2,São Paulo
+19,16/08/09,Sport,1-2,São Paulo
 19,16/08/09,Goiás,3-2,EC Vitória
 19,16/08/09,Athletico-PR,3-0,Barueri
 19,16/08/09,Cruzeiro,0-0,Santos
 20,19/08/09,Santos,1-0,Grêmio
 20,19/08/09,EC Vitória,2-1,Athletico-PR
 20,19/08/09,Botafogo,1-2,Santo Andre
-20,19/08/09,Barueri,2-1,Sport Recife
+20,19/08/09,Barueri,2-1,Sport
 20,19/08/09,São Paulo,1-0,Fluminense
 20,19/08/09,Coritiba,1-0,Palmeiras
 20,19/08/09,Internacional,1-2,Corinthians
@@ -198,7 +198,7 @@
 20,20/08/09,Atlético-MG,2-2,Avai
 21,22/08/09,Palmeiras,2-1,Internacional
 21,22/08/09,Santo Andre,1-0,Coritiba
-21,22/08/09,Sport Recife,2-0,EC Vitória
+21,22/08/09,Sport,2-0,EC Vitória
 21,23/08/09,Corinthians,3-3,Botafogo
 21,23/08/09,Athletico-PR,1-0,São Paulo
 21,23/08/09,Grêmio,4-1,Atlético-MG
@@ -214,7 +214,7 @@
 22,29/08/09,Nautico,3-0,Athletico-PR
 22,30/08/09,São Paulo,0-0,Palmeiras
 22,30/08/09,Santos,2-0,Fluminense
-22,30/08/09,Atlético-MG,1-1,Sport Recife
+22,30/08/09,Atlético-MG,1-1,Sport
 22,30/08/09,EC Vitória,3-3,Cruzeiro
 22,30/08/09,Internacional,4-0,Goiás
 22,30/08/09,Botafogo,3-3,Grêmio
@@ -222,7 +222,7 @@
 23,02/09/09,Corinthians,2-1,Santos
 23,05/09/09,Palmeiras,2-1,Barueri
 23,05/09/09,Grêmio,1-1,EC Vitória
-23,05/09/09,Sport Recife,2-1,Botafogo
+23,05/09/09,Sport,2-1,Botafogo
 23,06/09/09,Athletico-PR,0-0,Flamengo
 23,06/09/09,Cruzeiro,1-2,São Paulo
 23,06/09/09,Goiás,2-2,Coritiba
@@ -230,7 +230,7 @@
 23,06/09/09,Fluminense,1-1,Nautico
 23,06/09/09,Santo Andre,1-2,Atlético-MG
 24,12/09/09,São Paulo,2-0,Avai
-24,12/09/09,Flamengo,3-0,Sport Recife
+24,12/09/09,Flamengo,3-0,Sport
 24,13/09/09,Santos,1-0,Santo Andre
 24,13/09/09,Atlético-MG,2-1,Athletico-PR
 24,13/09/09,EC Vitória,3-2,Palmeiras
@@ -239,7 +239,7 @@
 24,13/09/09,Nautico,0-2,Grêmio
 24,13/09/09,Barueri,3-1,Goiás
 24,16/09/09,Coritiba,1-1,Corinthians
-25,19/09/09,Athletico-PR,1-0,Sport Recife
+25,19/09/09,Athletico-PR,1-0,Sport
 25,19/09/09,EC Vitória,2-0,Internacional
 25,19/09/09,Nautico,0-0,Atlético-MG
 25,20/09/09,Grêmio,5-1,Fluminense
@@ -258,18 +258,18 @@
 26,27/09/09,Fluminense,3-2,Avai
 26,27/09/09,Atlético-MG,3-1,Santos
 26,27/09/09,Botafogo,1-3,EC Vitória
-26,27/09/09,Sport Recife,2-1,Santo Andre
+26,27/09/09,Sport,2-1,Santo Andre
 27,30/09/09,Nautico,1-2,São Paulo
 27,03/10/09,Santo Andre,1-0,EC Vitória
 27,03/10/09,Corinthians,1-3,Athletico-PR
 27,03/10/09,Atlético-MG,2-1,Barueri
 27,04/10/09,Santos,1-3,Palmeiras
-27,04/10/09,Grêmio,3-3,Sport Recife
+27,04/10/09,Grêmio,3-3,Sport
 27,04/10/09,Goiás,1-3,Botafogo
 27,04/10/09,Flamengo,2-0,Fluminense
 27,04/10/09,Avai,2-2,Cruzeiro
 27,04/10/09,Coritiba,2-0,Internacional
-28,07/10/09,Sport Recife,0-1,Santos
+28,07/10/09,Sport,0-1,Santos
 28,07/10/09,Barueri,0-0,Santo Andre
 28,07/10/09,Athletico-PR,0-0,Grêmio
 28,07/10/09,São Paulo,2-2,Coritiba
@@ -286,13 +286,13 @@
 29,10/10/09,Coritiba,1-2,Barueri
 29,12/10/09,Santos,0-0,EC Vitória
 29,12/10/09,Atlético-MG,0-1,Cruzeiro
-29,12/10/09,Goiás,1-1,Sport Recife
+29,12/10/09,Goiás,1-1,Sport
 29,12/10/09,Nautico,3-0,Palmeiras
 29,12/10/09,Botafogo,2-2,Avai
 30,17/10/09,Barueri,0-0,Santos
 30,17/10/09,São Paulo,0-1,Atlético-MG
 30,17/10/09,Avai,2-1,Goiás
-30,18/10/09,Sport Recife,2-0,Corinthians
+30,18/10/09,Sport,2-0,Corinthians
 30,18/10/09,Grêmio,2-0,Coritiba
 30,18/10/09,Fluminense,2-2,Internacional
 30,18/10/09,Palmeiras,0-2,Flamengo
@@ -307,7 +307,7 @@
 31,25/10/09,Coritiba,3-2,Athletico-PR
 31,25/10/09,Goiás,2-2,Fluminense
 31,25/10/09,Corinthians,0-1,Cruzeiro
-31,25/10/09,Avai,2-2,Sport Recife
+31,25/10/09,Avai,2-2,Sport
 31,25/10/09,Botafogo,0-1,Flamengo
 32,28/10/09,Athletico-PR,1-1,Santos
 32,28/10/09,Botafogo,1-0,Nautico
@@ -316,7 +316,7 @@
 32,28/10/09,EC Vitória,0-1,Corinthians
 32,28/10/09,Barueri,2-0,Flamengo
 32,28/10/09,São Paulo,1-0,Internacional
-32,29/10/09,Sport Recife,1-1,Coritiba
+32,29/10/09,Sport,1-1,Coritiba
 32,29/10/09,Fluminense,2-1,Atlético-MG
 32,29/10/09,Palmeiras,4-0,Goiás
 33,31/10/09,Flamengo,1-0,Santos
@@ -328,10 +328,10 @@
 33,01/11/09,Goiás,2-3,Atlético-MG
 33,01/11/09,Cruzeiro,2-3,Fluminense
 33,01/11/09,Santo Andre,2-0,Grêmio
-33,01/11/09,Nautico,3-2,Sport Recife
+33,01/11/09,Nautico,3-2,Sport
 34,04/11/09,Grêmio,1-1,São Paulo
 34,07/11/09,EC Vitória,0-1,Avai
-34,07/11/09,Sport Recife,2-3,Cruzeiro
+34,07/11/09,Sport,2-3,Cruzeiro
 34,07/11/09,Santos,3-1,Nautico
 34,08/11/09,Fluminense,1-0,Palmeiras
 34,08/11/09,Atlético-MG,1-3,Flamengo
@@ -339,7 +339,7 @@
 34,08/11/09,Barueri,1-1,Internacional
 34,08/11/09,Botafogo,2-0,Coritiba
 34,08/11/09,Athletico-PR,2-0,Goiás
-35,11/11/09,Palmeiras,2-2,Sport Recife
+35,11/11/09,Palmeiras,2-2,Sport
 35,14/11/09,Cruzeiro,1-1,Grêmio
 35,14/11/09,São Paulo,2-0,EC Vitória
 35,14/11/09,Coritiba,2-1,Atlético-MG
@@ -353,7 +353,7 @@
 36,21/11/09,Corinthians,2-3,Nautico
 36,21/11/09,Athletico-PR,1-1,Cruzeiro
 36,22/11/09,Botafogo,3-2,São Paulo
-36,22/11/09,Sport Recife,0-3,Fluminense
+36,22/11/09,Sport,0-3,Fluminense
 36,22/11/09,Santo Andre,4-2,Avai
 36,22/11/09,Santos,4-0,Coritiba
 36,22/11/09,EC Vitória,2-1,Barueri
@@ -362,7 +362,7 @@
 37,29/11/09,Goiás,4-2,São Paulo
 37,29/11/09,Corinthians,0-2,Flamengo
 37,29/11/09,Palmeiras,3-1,Atlético-MG
-37,29/11/09,Sport Recife,1-2,Internacional
+37,29/11/09,Sport,1-2,Internacional
 37,29/11/09,Grêmio,4-2,Barueri
 37,29/11/09,Avai,2-2,Santos
 37,29/11/09,Cruzeiro,4-1,Coritiba
@@ -373,7 +373,7 @@
 38,05/12/09,Nautico,0-1,Avai
 38,06/12/09,Flamengo,2-1,Grêmio
 38,06/12/09,Botafogo,2-1,Palmeiras
-38,06/12/09,São Paulo,4-0,Sport Recife
+38,06/12/09,São Paulo,4-0,Sport
 38,06/12/09,Internacional,4-1,Santo Andre
 38,06/12/09,Santos,1-2,Cruzeiro
 38,06/12/09,Barueri,0-0,Athletico-PR

@@ -4,12 +4,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,11/05/07,Grêmio Barueri,2-1,Remo
 1,12/05/07,Ipatinga,2-1,Santa Cruz
 1,12/05/07,Santo André,1-3,CRB
-1,12/05/07,Ituano,2-3,Ceará SC
+1,12/05/07,Ituano,2-3,Ceará
 1,12/05/07,EC Vitória,5-1,Avaí
 1,12/05/07,Brasiliense,2-2,Marília
 1,12/05/07,Criciúma,3-2,São Caetano
 1,12/05/07,Coritiba,3-1,Paulista
-2,15/05/07,Ceará SC,1-1,Criciúma
+2,15/05/07,Ceará,1-1,Criciúma
 2,15/05/07,Portuguesa,3-0,Santo André
 2,18/05/07,Santa Cruz,3-0,Grêmio Barueri
 2,18/05/07,Paulista,2-2,Ponte Preta
@@ -26,7 +26,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 3,26/05/07,São Caetano,0-0,Gama
 3,26/05/07,Grêmio Barueri,2-1,Criciúma
 3,26/05/07,Santa Cruz,4-1,CRB
-3,26/05/07,Ceará SC,0-3,EC Vitória
+3,26/05/07,Ceará,0-3,EC Vitória
 3,26/05/07,Ipatinga,1-0,Portuguesa
 3,26/05/07,Brasiliense,4-1,Paulista
 4,29/05/07,Avaí,1-1,Grêmio Barueri
@@ -36,13 +36,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 4,01/06/07,Fortaleza,2-1,Santa Cruz
 4,02/06/07,Santo André,1-2,Brasiliense
 4,02/06/07,EC Vitória,4-0,Ipatinga
-4,02/06/07,Portuguesa,1-2,Ceará SC
+4,02/06/07,Portuguesa,1-2,Ceará
 4,02/06/07,Gama,3-1,Ituano
 4,02/06/07,Coritiba,0-1,São Caetano
 5,05/06/07,Ponte Preta,2-2,Grêmio Barueri
 5,05/06/07,Brasiliense,0-0,Gama
 5,08/06/07,Remo,1-2,Coritiba
-5,08/06/07,Fortaleza,1-0,Ceará SC
+5,08/06/07,Fortaleza,1-0,Ceará
 5,08/06/07,Ituano,2-1,Portuguesa
 5,09/06/07,São Caetano,2-0,Paulista
 5,09/06/07,Marília,1-0,Santa Cruz
@@ -58,7 +58,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 6,16/06/07,Santo André,0-2,Ponte Preta
 6,16/06/07,Ituano,3-1,EC Vitória
 6,16/06/07,Grêmio Barueri,2-1,Paulista
-6,16/06/07,Ceará SC,2-1,CRB
+6,16/06/07,Ceará,2-1,CRB
 7,19/06/07,Brasiliense,1-0,Ipatinga
 7,19/06/07,Ponte Preta,2-1,Ituano
 7,22/06/07,EC Vitória,4-1,Marília
@@ -68,7 +68,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,23/06/07,São Caetano,1-2,Portuguesa
 7,23/06/07,CRB,3-1,Avaí
 7,23/06/07,Remo,3-3,Gama
-7,23/06/07,Ceará SC,2-2,Coritiba
+7,23/06/07,Ceará,2-2,Coritiba
 8,26/06/07,Marília,3-2,Ponte Preta
 8,26/06/07,Portuguesa,1-0,EC Vitória
 8,26/06/07,Paulista,3-1,Santo André
@@ -76,7 +76,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 8,26/06/07,São Caetano,1-1,Grêmio Barueri
 8,26/06/07,Ipatinga,1-0,Coritiba
 8,26/06/07,Remo,1-2,Criciúma
-8,26/06/07,Avaí,2-0,Ceará SC
+8,26/06/07,Avaí,2-0,Ceará
 8,26/06/07,Fortaleza,0-1,Brasiliense
 8,26/06/07,Gama,1-0,CRB
 9,29/06/07,Brasiliense,1-1,Criciúma
@@ -87,18 +87,18 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,30/06/07,Ituano,0-3,Grêmio Barueri
 9,30/06/07,Marília,3-0,São Caetano
 9,30/06/07,EC Vitória,4-0,Ponte Preta
-9,30/06/07,Ceará SC,3-0,Gama
+9,30/06/07,Ceará,3-0,Gama
 9,30/06/07,CRB,3-1,Remo
 10,03/07/07,Grêmio Barueri,3-1,EC Vitória
-10,03/07/07,Ipatinga,4-1,Ceará SC
+10,03/07/07,Ipatinga,4-1,Ceará
 10,03/07/07,Santo André,3-0,Ituano
-10/06/07/07,Ponte Preta,1-1,São Caetano
-10/06/07/07,Paulista,0-2,Marília
-10/06/07/07,Brasiliense,3-2,Remo
-10/06/07/07,Criciúma,4-0,Gama
-10/07/07/07,Santa Cruz,2-2,Portuguesa
-10/07/07/07,Fortaleza,3-3,Avaí
-10/07/07/07,Coritiba,2-1,CRB
+10/06/07/07,Ponte Preta,1-1,São Caetano,nan
+10/06/07/07,Paulista,0-2,Marília,nan
+10/06/07/07,Brasiliense,3-2,Remo,nan
+10/06/07/07,Criciúma,4-0,Gama,nan
+10/07/07/07,Santa Cruz,2-2,Portuguesa,nan
+10/07/07/07,Fortaleza,3-3,Avaí,nan
+10/07/07/07,Coritiba,2-1,CRB,nan
 11,10/07/07,Criciúma,3-1,Coritiba
 11,10/07/07,CRB,3-1,Brasiliense
 11,10/07/07,Fortaleza,0-0,Ipatinga
@@ -107,7 +107,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 11,10/07/07,Ituano,3-1,Paulista
 11,10/07/07,São Caetano,1-1,Santo André
 11,10/07/07,EC Vitória,1-0,Santa Cruz
-11,10/07/07,Remo,2-0,Ceará SC
+11,10/07/07,Remo,2-0,Ceará
 11,10/07/07,Gama,4-2,Avaí
 12,13/07/07,Ituano,2-2,Ipatinga
 12,13/07/07,Grêmio Barueri,2-2,Brasiliense
@@ -115,7 +115,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,13/07/07,Ponte Preta,3-2,Criciúma
 12,13/07/07,Avaí,2-0,Paulista
 12,13/07/07,CRB,0-1,Marília
-12,13/07/07,Ceará SC,2-3,São Caetano
+12,13/07/07,Ceará,2-3,São Caetano
 12,14/07/07,Santo André,0-0,Coritiba
 12,14/07/07,Gama,2-1,Santa Cruz
 12,16/07/07,EC Vitória,6-0,Fortaleza
@@ -125,7 +125,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,20/07/07,São Caetano,0-1,Avaí
 13,21/07/07,Coritiba,4-1,Grêmio Barueri
 13,21/07/07,Criciúma,2-0,EC Vitória
-13,21/07/07,Marília,2-2,Ceará SC
+13,21/07/07,Marília,2-2,Ceará
 13,21/07/07,Paulista,2-1,Gama
 13,21/07/07,Santa Cruz,4-4,Remo
 13,21/07/07,Fortaleza,2-0,Ituano
@@ -133,7 +133,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 14,24/07/07,Portuguesa,3-1,Avaí
 14,24/07/07,São Caetano,3-1,Remo
 14,24/07/07,Paulista,2-2,CRB
-14,24/07/07,Santa Cruz,1-1,Ceará SC
+14,24/07/07,Santa Cruz,1-1,Ceará
 14,24/07/07,Brasiliense,6-0,EC Vitória
 14,24/07/07,Coritiba,2-1,Ponte Preta
 14,24/07/07,Fortaleza,2-0,Santo André
@@ -144,7 +144,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 15,27/07/07,Ponte Preta,5-1,Ipatinga
 15,28/07/07,Grêmio Barueri,2-1,Fortaleza
 15,28/07/07,Ituano,3-0,Brasiliense
-15,28/07/07,Ceará SC,2-1,Paulista
+15,28/07/07,Ceará,2-1,Paulista
 15,28/07/07,EC Vitória,3-1,Coritiba
 15,28/07/07,CRB,1-0,São Caetano
 15,28/07/07,Avaí,0-0,Santa Cruz
@@ -157,7 +157,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,04/08/07,Ipatinga,3-0,Gama
 16,04/08/07,Criciúma,3-0,CRB
 16,04/08/07,Santo André,1-2,Marília
-16,04/08/07,Brasiliense,3-2,Ceará SC
+16,04/08/07,Brasiliense,3-2,Ceará
 16,04/08/07,Ponte Preta,6-0,Santa Cruz
 17,07/08/07,Marília,2-1,Ipatinga
 17,07/08/07,Paulista,3-1,Criciúma
@@ -166,12 +166,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 17,07/08/07,Portuguesa,3-1,Coritiba
 17,07/08/07,CRB,4-3,EC Vitória
 17,07/08/07,Remo,2-0,Ituano
-17,07/08/07,Ceará SC,2-1,Grêmio Barueri
+17,07/08/07,Ceará,2-1,Grêmio Barueri
 17,07/08/07,Avaí,2-3,Ponte Preta
 17,07/08/07,Gama,1-1,Santo André
 18,10/08/07,Santa Cruz,2-1,Criciúma
 18,10/08/07,Portuguesa,1-1,Brasiliense
-18,10/08/07,Ceará SC,4-1,Ponte Preta
+18,10/08/07,Ceará,4-1,Ponte Preta
 18,11/08/07,São Caetano,0-1,Ipatinga
 18,11/08/07,Avaí,1-0,Santo André
 18,11/08/07,Marília,0-2,Coritiba
@@ -186,7 +186,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 19,18/08/07,Criciúma,2-2,Portuguesa
 19,18/08/07,Fortaleza,3-1,Marília
 19,18/08/07,Ponte Preta,1-1,Remo
-19,18/08/07,Santo André,5-2,Ceará SC
+19,18/08/07,Santo André,5-2,Ceará
 19,18/08/07,Ituano,1-1,Avaí
 19,18/08/07,Brasiliense,0-0,São Caetano
 20,21/08/07,Avaí,1-0,EC Vitória
@@ -196,7 +196,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,25/08/07,Paulista,3-2,Coritiba
 20,25/08/07,Santa Cruz,2-1,Ipatinga
 20,25/08/07,CRB,1-2,Santo André
-20,25/08/07,Ceará SC,3-0,Ituano
+20,25/08/07,Ceará,3-0,Ituano
 20,25/08/07,Portuguesa,1-0,Fortaleza
 20,25/08/07,São Caetano,1-0,Criciúma
 21,28/08/07,Santo André,2-2,Portuguesa
@@ -205,7 +205,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 21,28/08/07,Grêmio Barueri,5-1,Santa Cruz
 21,28/08/07,EC Vitória,3-2,São Caetano
 21,28/08/07,Brasiliense,3-1,Avaí
-21,28/08/07,Criciúma,0-0,Ceará SC
+21,28/08/07,Criciúma,0-0,Ceará
 21,28/08/07,Fortaleza,1-2,CRB
 21,28/08/07,Coritiba,1-1,Gama
 21,28/08/07,Ipatinga,3-0,Remo
@@ -215,13 +215,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,01/09/07,Avaí,1-1,Marília
 22,01/09/07,Fortaleza,1-1,Ponte Preta
 22,01/09/07,Coritiba,2-0,Ituano
-22,01/09/07,EC Vitória,2-2,Ceará SC
+22,01/09/07,EC Vitória,2-2,Ceará
 22,01/09/07,CRB,2-2,Santa Cruz
 22,01/09/07,Criciúma,2-0,Grêmio Barueri
 22,01/09/07,Paulista,2-0,Brasiliense
 23,04/09/07,Grêmio Barueri,0-0,Avaí
 23,04/09/07,Ipatinga,1-0,EC Vitória
-23,04/09/07,Ceará SC,0-0,Portuguesa
+23,04/09/07,Ceará,0-0,Portuguesa
 23,04/09/07,Marília,1-0,Criciúma
 23,04/09/07,Ponte Preta,2-1,CRB
 23,04/09/07,Brasiliense,1-1,Santo André
@@ -238,7 +238,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 24,08/09/07,Grêmio Barueri,2-1,Ponte Preta
 24,08/09/07,Santo André,0-2,EC Vitória
 24,08/09/07,Ipatinga,4-0,CRB
-24,08/09/07,Ceará SC,0-1,Fortaleza
+24,08/09/07,Ceará,0-1,Fortaleza
 25,15/09/07,Ponte Preta,2-1,Santo André
 25,15/09/07,São Caetano,2-2,Santa Cruz
 25,15/09/07,EC Vitória,0-0,Ituano
@@ -246,7 +246,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 25,15/09/07,Brasiliense,0-1,Coritiba
 25,15/09/07,Fortaleza,2-3,Gama
 25,15/09/07,Paulista,7-0,Grêmio Barueri
-25,15/09/07,CRB,0-4,Ceará SC
+25,15/09/07,CRB,0-4,Ceará
 25,15/09/07,Remo,2-2,Avaí
 25,15/09/07,Marília,1-2,Portuguesa
 26,18/09/07,Marília,1-2,EC Vitória
@@ -258,14 +258,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 26,22/09/07,Criciúma,2-0,Fortaleza
 26,22/09/07,Ipatinga,3-0,Brasiliense
 26,22/09/07,Avaí,4-2,CRB
-26,22/09/07,Coritiba,2-0,Ceará SC
+26,22/09/07,Coritiba,2-0,Ceará
 27,25/09/07,Ponte Preta,1-2,Marília
 27,25/09/07,EC Vitória,2-3,Portuguesa
 27,27/09/07,Santo André,1-0,Paulista
 27,27/09/07,Coritiba,1-0,Ipatinga
 27,29/09/07,Grêmio Barueri,0-2,São Caetano
 27,29/09/07,Criciúma,0-0,Remo
-27,29/09/07,Ceará SC,1-0,Avaí
+27,29/09/07,Ceará,1-0,Avaí
 27,29/09/07,Brasiliense,1-1,Fortaleza
 27,29/09/07,CRB,1-1,Gama
 27,29/09/07,Ituano,0-2,Santa Cruz
@@ -276,7 +276,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 28,02/10/07,Paulista,2-2,Portuguesa
 28,02/10/07,Fortaleza,4-1,Coritiba
 28,02/10/07,Ponte Preta,0-3,EC Vitória
-28,02/10/07,Gama,4-2,Ceará SC
+28,02/10/07,Gama,4-2,Ceará
 28,02/10/07,Criciúma,2-1,Brasiliense
 28,02/10/07,Santa Cruz,0-1,Santo André
 29,05/10/07,Gama,1-2,Criciúma
@@ -286,12 +286,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 29,06/10/07,Ituano,0-0,Santo André
 29,06/10/07,EC Vitória,2-1,Grêmio Barueri
 29,06/10/07,CRB,1-0,Coritiba
-29,06/10/07,Ceará SC,2-0,Ipatinga
+29,06/10/07,Ceará,2-0,Ipatinga
 29,06/10/07,Remo,5-1,Brasiliense
 29,06/10/07,Avaí,0-2,Fortaleza
 30,09/10/07,Avaí,1-0,Gama
 30,09/10/07,Grêmio Barueri,4-3,Marília
-30,12/10/07,Ceará SC,2-1,Remo
+30,12/10/07,Ceará,2-1,Remo
 30,12/10/07,Santo André,1-1,São Caetano
 30,12/10/07,Coritiba,1-0,Criciúma
 30,13/10/07,Paulista,2-3,Ituano
@@ -307,9 +307,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 31,20/10/07,Coritiba,2-1,Santo André
 31,20/10/07,Santa Cruz,1-1,Gama
 31,20/10/07,Marília,2-2,CRB
-31,20/10/07,São Caetano,3-3,Ceará SC
+31,20/10/07,São Caetano,3-3,Ceará
 31,20/10/07,Paulista,0-1,Avaí
-32,23/10/07,Ceará SC,1-1,Marília
+32,23/10/07,Ceará,1-1,Marília
 32,23/10/07,Avaí,1-1,São Caetano
 32,26/10/07,CRB,1-0,Portuguesa
 32,26/10/07,Santo André,0-0,Ipatinga
@@ -328,12 +328,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 33,30/10/07,Grêmio Barueri,4-2,Ipatinga
 33,30/10/07,CRB,1-1,Paulista
 33,30/10/07,Remo,0-1,São Caetano
-33,30/10/07,Ceará SC,3-0,Santa Cruz
+33,30/10/07,Ceará,3-0,Santa Cruz
 34,02/11/07,Ipatinga,3-1,Ponte Preta
 34,02/11/07,Portuguesa,1-0,Gama
 34,03/11/07,Coritiba,2-2,EC Vitória
 34,03/11/07,Santa Cruz,2-2,Avaí
-34,03/11/07,Paulista,0-0,Ceará SC
+34,03/11/07,Paulista,0-0,Ceará
 34,03/11/07,Brasiliense,5-1,Ituano
 34,03/11/07,Criciúma,0-2,Santo André
 34,03/11/07,São Caetano,4-0,CRB
@@ -348,14 +348,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 35,10/11/07,Avaí,1-0,Coritiba
 35,10/11/07,São Caetano,2-2,Ituano
 35,10/11/07,Remo,3-2,Fortaleza
-35,10/11/07,Ceará SC,1-3,Brasiliense
+35,10/11/07,Ceará,1-3,Brasiliense
 36,13/11/07,Criciúma,1-2,Paulista
 36,13/11/07,Coritiba,2-0,Portuguesa
 36,13/11/07,Ipatinga,3-2,Marília
 36,13/11/07,Ituano,2-1,Remo
 36,13/11/07,Brasiliense,3-0,Santa Cruz
 36,13/11/07,Santo André,1-0,Gama
-36,13/11/07,Grêmio Barueri,2-1,Ceará SC
+36,13/11/07,Grêmio Barueri,2-1,Ceará
 36,13/11/07,Ponte Preta,0-0,Avaí
 36,13/11/07,Fortaleza,0-1,São Caetano
 36,13/11/07,EC Vitória,4-1,CRB
@@ -363,7 +363,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,16/11/07,Coritiba,2-3,Marília
 37,17/11/07,Ituano,0-1,CRB
 37,17/11/07,Fortaleza,2-1,Paulista
-37,17/11/07,Ponte Preta,1-1,Ceará SC
+37,17/11/07,Ponte Preta,1-1,Ceará
 37,17/11/07,Brasiliense,1-1,Portuguesa
 37,17/11/07,Ipatinga,1-0,São Caetano
 37,17/11/07,Criciúma,2-0,Santa Cruz
@@ -371,7 +371,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,17/11/07,Grêmio Barueri,0-2,Gama
 38,24/11/07,Remo,0-1,Ponte Preta
 38,24/11/07,CRB,4-1,Grêmio Barueri
-38,24/11/07,Ceará SC,1-2,Santo André
+38,24/11/07,Ceará,1-2,Santo André
 38,24/11/07,Avaí,4-0,Ituano
 38,24/11/07,Gama,1-0,EC Vitória
 38,24/11/07,Paulista,2-5,Ipatinga

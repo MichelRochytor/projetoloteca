@@ -1,6 +1,6 @@
 Rodada,Data,Time da Casa,Placar,Time Visitante
 1,18/05/12,CRB,0-2,Bragantino
-1,18/05/12,Ceará SC,1-2,América-MG
+1,18/05/12,Ceará,1-2,América-MG
 1,18/05/12,Ipatinga,1-1,ABC
 1,19/05/12,Boa Esporte,2-2,Avaí
 1,19/05/12,Criciúma,4-1,Guaratinguetá
@@ -12,7 +12,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 2,22/05/12,Avaí,1-0,São Caetano
 2,25/05/12,Guarani,0-0,Boa Esporte
 2,25/05/12,ABC,0-0,Joinville
-2,26/05/12,Guaratinguetá,2-1,Ceará SC
+2,26/05/12,Guaratinguetá,2-1,Ceará
 2,26/05/12,Bragantino,3-4,Criciúma
 2,26/05/12,América-MG,4-0,CRB
 2,26/05/12,ASA,1-1,Grêmio Barueri
@@ -21,7 +21,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 2,10/07/12,Athletico-PR,1-0,Ipatinga
 3,29/05/12,América-RN,1-0,Avaí
 3,29/05/12,São Caetano,2-0,Bragantino
-3,29/05/12,Ceará SC,2-2,Goiás
+3,29/05/12,Ceará,2-2,Goiás
 3,29/05/12,Joinville,2-0,Guarani
 3,29/05/12,CRB,3-1,Guaratinguetá
 3,29/05/12,Paraná,0-1,América-MG
@@ -35,7 +35,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 4,02/06/12,América-MG,3-0,Criciúma
 4,02/06/12,EC Vitória,4-0,Ipatinga
 4,02/06/12,ASA,3-2,Boa Esporte
-4,02/06/12,Guarani,4-1,Ceará SC
+4,02/06/12,Guarani,4-1,Ceará
 4,02/06/12,Avaí,1-2,Joinville
 4,02/06/12,ABC,0-1,São Caetano
 4,02/06/12,Bragantino,3-3,Paraná
@@ -48,7 +48,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 5,09/06/12,Paraná,3-2,Guaratinguetá
 5,09/06/12,CRB,2-0,Athletico-PR
 5,09/06/12,Grêmio Barueri,2-2,Guarani
-5,09/06/12,Ceará SC,4-2,ABC
+5,09/06/12,Ceará,4-2,ABC
 6,12/06/12,Grêmio Barueri,1-2,Paraná
 6,12/06/12,Ipatinga,1-2,Boa Esporte
 6,12/06/12,EC Vitória,1-0,Guarani
@@ -57,7 +57,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 6,16/06/12,ABC,4-2,CRB
 6,16/06/12,Bragantino,1-0,Guaratinguetá
 6,16/06/12,Athletico-PR,0-0,Goiás
-6,16/06/12,Joinville,1-1,Ceará SC
+6,16/06/12,Joinville,1-1,Ceará
 6,16/06/12,ASA,1-2,Criciúma
 7,19/06/12,América-RN,2-0,ASA
 7,19/06/12,América-MG,3-2,Bragantino
@@ -67,9 +67,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,23/06/12,Goiás,4-3,EC Vitória
 7,23/06/12,Criciúma,3-2,Ipatinga
 7,23/06/12,Guarani,1-1,ABC
-7,23/06/12,Ceará SC,1-0,Athletico-PR
+7,23/06/12,Ceará,1-0,Athletico-PR
 7,23/12/12,Boa Esporte,4-1,Grêmio Barueri
-8,26/06/12,Ipatinga,1-2,Ceará SC
+8,26/06/12,Ipatinga,1-2,Ceará
 8,26/06/12,Goiás,1-1,Guaratinguetá
 8,26/06/12,Grêmio Barueri,0-1,América-MG
 8,29/06/12,América-RN,1-0,Guarani
@@ -82,7 +82,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,03/07/12,Guarani,1-0,Ipatinga
 9,03/07/12,Guaratinguetá,0-1,São Caetano
 9,06/07/12,Avaí,2-0,ASA
-9,06/07/12,Ceará SC,2-2,Criciúma
+9,06/07/12,Ceará,2-2,Criciúma
 9,06/07/12,Joinville,4-0,Grêmio Barueri
 9,07/07/12,ABC,0-1,EC Vitória
 9,07/07/12,CRB,4-2,América-RN
@@ -97,10 +97,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 10,14/07/12,São Caetano,1-0,Joinville
 10,14/07/12,CRB,2-0,Avaí
 10,14/07/12,Bragantino,0-0,Guarani
-10,14/07/12,América-RN,1-1,Ceará SC
+10,14/07/12,América-RN,1-1,Ceará
 10,14/07/12,Athletico-PR,2-1,ABC
 11,17/07/12,Boa Esporte,0-0,CRB
-11,17/07/12,Ceará SC,2-2,São Caetano
+11,17/07/12,Ceará,2-2,São Caetano
 11,17/07/12,ASA,2-3,EC Vitória
 11,17/07/12,Guarani,1-2,Goiás
 11,17/07/12,Joinville,6-0,Ipatinga
@@ -116,7 +116,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,21/07/12,Criciúma,2-1,Paraná
 12,21/07/12,CRB,4-3,Joinville
 12,21/07/12,Athletico-PR,0-1,EC Vitória
-12,21/07/12,Ceará SC,3-2,ASA
+12,21/07/12,Ceará,3-2,ASA
 12,21/07/12,Goiás,2-0,Avaí
 12,21/07/12,Bragantino,1-2,ABC
 13,24/07/12,Boa Esporte,2-1,América-MG
@@ -127,13 +127,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,28/07/12,ABC,3-0,Guaratinguetá
 13,28/07/12,EC Vitória,1-0,CRB
 13,28/07/12,Guarani,2-1,Athletico-PR
-13,28/07/12,Paraná,1-0,Ceará SC
+13,28/07/12,Paraná,1-0,Ceará
 13,28/07/12,Ipatinga,1-2,São Caetano
 14,31/07/12,América-MG,0-2,Joinville
 14,31/07/12,Goiás,1-1,ABC
 14,31/07/12,Paraná,1-1,Avaí
 14,31/07/12,Criciúma,2-1,Guarani
-14,31/07/12,Ceará SC,1-1,Boa Esporte
+14,31/07/12,Ceará,1-1,Boa Esporte
 14,31/07/12,Bragantino,2-2,ASA
 14,31/07/12,América-RN,2-1,Grêmio Barueri
 14,31/07/12,CRB,2-0,Ipatinga
@@ -145,14 +145,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 15,03/08/12,Ipatinga,0-6,Goiás
 15,04/08/12,ASA,3-2,América-MG
 15,04/08/12,Athletico-PR,0-1,São Caetano
-15,04/08/12,Avaí,2-1,Ceará SC
+15,04/08/12,Avaí,2-1,Ceará
 15,04/08/12,Guarani,2-1,Guaratinguetá
 15,04/08/12,Joinville,3-1,Criciúma
 15,04/08/12,ABC,2-0,Paraná
 16,07/08/12,América-RN,0-2,Athletico-PR
 16,07/08/12,Bragantino,0-2,Ipatinga
 16,07/08/12,Avaí,3-1,ABC
-16,10/08/12,Ceará SC,2-0,Grêmio Barueri
+16,10/08/12,Ceará,2-0,Grêmio Barueri
 16,10/08/12,ASA,1-0,Guarani
 16,11/08/12,São Caetano,1-1,Criciúma
 16,11/08/12,Goiás,2-0,Boa Esporte
@@ -165,7 +165,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 17,14/08/12,ABC,0-2,América-MG
 17,14/08/12,Joinville,1-0,Bragantino
 17,14/08/12,Boa Esporte,1-3,São Caetano
-17,14/08/12,CRB,0-2,Ceará SC
+17,14/08/12,CRB,0-2,Ceará
 17,14/08/12,Guarani,0-2,Avaí
 17,14/08/12,Athletico-PR,1-0,ASA
 17,14/08/12,Grêmio Barueri,2-0,Goiás
@@ -173,7 +173,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 18,17/08/12,Guarani,4-0,CRB
 18,17/08/12,Avaí,2-1,Grêmio Barueri
 18,17/08/12,América-MG,1-1,América-RN
-18,18/08/12,Bragantino,1-3,Ceará SC
+18,18/08/12,Bragantino,1-3,Ceará
 18,18/08/12,Athletico-PR,1-0,Criciúma
 18,18/08/12,ABC,1-2,Boa Esporte
 18,18/08/12,Goiás,0-0,São Caetano
@@ -182,7 +182,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 19,21/08/12,Grêmio Barueri,2-3,Guaratinguetá
 19,21/08/12,Ipatinga,1-0,América-MG
 19,21/08/12,Criciúma,2-0,Avaí
-19,24/08/12,Ceará SC,1-3,EC Vitória
+19,24/08/12,Ceará,1-3,EC Vitória
 19,25/08/12,Paraná,1-2,Athletico-PR
 19,25/08/12,Joinville,1-0,Goiás
 19,25/08/12,São Caetano,1-2,Guarani
@@ -198,17 +198,17 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,28/08/12,Goiás,1-0,América-RN
 20,28/08/12,ASA,4-1,São Caetano
 20,28/08/12,ABC,2-2,Ipatinga
-20,28/08/12,América-MG,1-3,Ceará SC
+20,28/08/12,América-MG,1-3,Ceará
 21,31/08/12,Boa Esporte,1-2,Guarani
 21,31/08/12,Criciúma,3-2,Bragantino
-21,31/08/12,Ceará SC,1-1,Guaratinguetá
+21,31/08/12,Ceará,1-1,Guaratinguetá
 21,31/08/12,Grêmio Barueri,1-0,ASA
 21,31/08/12,Ipatinga,1-1,Athletico-PR
-21/09/12,América-RN,2-2,EC Vitória
-21/09/12,São Caetano,1-0,Avaí
-21/09/12,Paraná,1-3,Goiás
-21/09/12,Joinville,0-0,ABC
-21/09/12,CRB,0-1,América-MG
+21/09/12,América-RN,2-2,EC Vitória,nan
+21/09/12,São Caetano,1-0,Avaí,nan
+21/09/12,Paraná,1-3,Goiás,nan
+21/09/12,Joinville,0-0,ABC,nan
+21/09/12,CRB,0-1,América-MG,nan
 22,04/09/12,Athletico-PR,2-1,Boa Esporte
 22,04/09/12,EC Vitória,2-2,Criciúma
 22,04/09/12,América-MG,0-0,Paraná
@@ -216,13 +216,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,04/09/12,Guarani,2-1,Joinville
 22,04/09/12,Bragantino,2-3,São Caetano
 22,04/09/12,ASA,3-0,Ipatinga
-22,04/09/12,Goiás,0-0,Ceará SC
+22,04/09/12,Goiás,0-0,Ceará
 22,04/09/12,ABC,2-1,Grêmio Barueri
 22,04/09/12,Guaratinguetá,1-2,CRB
 23,07/09/12,Paraná,2-0,Bragantino
 23,07/09/12,Boa Esporte,3-2,ASA
 23,07/09/12,América-RN,4-1,Guaratinguetá
-23,07/09/12,Ceará SC,1-0,Guarani
+23,07/09/12,Ceará,1-0,Guarani
 23,07/09/12,Grêmio Barueri,0-6,Athletico-PR
 23,08/09/12,CRB,0-2,Goiás
 23,08/09/12,Ipatinga,1-1,EC Vitória
@@ -238,7 +238,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 24,11/09/12,Bragantino,1-0,América-RN
 24,11/09/12,Goiás,1-0,Criciúma
 24,11/09/12,Guarani,1-0,Grêmio Barueri
-24,11/09/12,ABC,0-1,Ceará SC
+24,11/09/12,ABC,0-1,Ceará
 25,14/09/12,Criciúma,2-1,ASA
 25,14/09/12,Paraná,1-1,Grêmio Barueri
 25,14/09/12,América-RN,0-2,São Caetano
@@ -246,14 +246,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 25,14/09/12,América-MG,1-0,Avaí
 25,15/09/12,CRB,3-3,ABC
 25,15/09/12,Guarani,0-0,EC Vitória
-25,15/09/12,Ceará SC,4-3,Joinville
+25,15/09/12,Ceará,4-3,Joinville
 25,15/09/12,Goiás,3-2,Athletico-PR
 25,15/09/12,Boa Esporte,2-1,Ipatinga
 26,18/09/12,Bragantino,2-0,América-MG
 26,21/09/12,Avaí,2-0,Guaratinguetá
 26,21/09/12,ABC,3-1,Guarani
 26,21/09/12,Joinville,3-1,Paraná
-26,22/09/12,Athletico-PR,2-1,Ceará SC
+26,22/09/12,Athletico-PR,2-1,Ceará
 26,22/09/12,Grêmio Barueri,1-2,Boa Esporte
 26,22/09/12,São Caetano,3-2,CRB
 26,22/09/12,EC Vitória,3-1,Goiás
@@ -268,14 +268,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 27,29/09/12,Bragantino,2-1,Athletico-PR
 27,29/09/12,Avaí,2-0,EC Vitória
 27,29/09/12,Guarani,0-0,América-RN
-27,29/09/12,Ceará SC,1-1,Ipatinga
+27,29/09/12,Ceará,1-1,Ipatinga
 28,02/10/12,ASA,1-0,Avaí
 28,02/10/12,São Caetano,1-0,Guaratinguetá
 28,02/10/12,Goiás,1-0,Bragantino
 28,05/10/12,América-RN,3-3,CRB
 28,05/10/12,Ipatinga,0-0,Guarani
 28,05/10/12,Grêmio Barueri,1-1,Joinville
-28,05/10/12,Criciúma,2-1,Ceará SC
+28,05/10/12,Criciúma,2-1,Ceará
 28,05/10/12,Boa Esporte,2-1,Paraná
 28,10/10/12,Athletico-PR,5-4,América-MG
 28,10/10/12,EC Vitória,1-0,ABC
@@ -285,7 +285,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 29,12/10/12,Guarani,1-2,Bragantino
 29,12/10/12,ABC,0-1,Athletico-PR
 29,13/10/12,América-MG,1-2,Goiás
-29,13/10/12,Ceará SC,4-0,América-RN
+29,13/10/12,Ceará,4-0,América-RN
 29,13/10/12,Boa Esporte,0-4,Criciúma
 29,13/10/12,Paraná,3-1,EC Vitória
 29,13/10/12,Avaí,1-0,CRB
@@ -294,12 +294,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 30,16/10/12,Bragantino,2-2,Grêmio Barueri
 30,16/10/12,América-RN,2-1,Paraná
 30,16/10/12,Goiás,5-0,Guarani
-30,16/10/12,São Caetano,2-0,Ceará SC
+30,16/10/12,São Caetano,2-0,Ceará
 30,16/10/12,CRB,0-0,Boa Esporte
 30,16/10/12,Guaratinguetá,1-2,América-MG
 30,16/10/12,Ipatinga,1-0,Joinville
 30,16/10/12,Criciúma,2-0,ABC
-31,19/10/12,ASA,3-0,Ceará SC
+31,19/10/12,ASA,3-0,Ceará
 31,19/10/12,Ipatinga,4-0,América-RN
 31,19/10/12,Grêmio Barueri,2-2,São Caetano
 31,19/10/12,Avaí,1-4,Goiás
@@ -316,13 +316,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 32,23/10/12,Criciúma,3-4,Grêmio Barueri
 32,23/10/12,São Caetano,1-1,Ipatinga
 32,23/10/12,Bragantino,1-0,Avaí
-32,23/10/12,Ceará SC,0-1,Paraná
+32,23/10/12,Ceará,0-1,Paraná
 32,23/10/12,América-MG,3-2,Boa Esporte
 32,23/10/12,Guaratinguetá,2-1,ABC
 33,26/10/12,ABC,3-2,Goiás
 33,26/10/12,EC Vitória,0-1,São Caetano
 33,26/10/12,Grêmio Barueri,2-3,América-RN
-33,26/10/12,Boa Esporte,1-0,Ceará SC
+33,26/10/12,Boa Esporte,1-0,Ceará
 33,26/10/12,Avaí,3-1,Paraná
 33,27/10/12,Athletico-PR,3-0,Guaratinguetá
 33,27/10/12,ASA,1-1,Bragantino
@@ -333,14 +333,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 34,30/10/12,América-MG,0-1,ASA
 34,30/10/12,Goiás,4-0,Ipatinga
 34,02/11/12,Guaratinguetá,2-1,Guarani
-34,02/11/12,Ceará SC,0-1,Avaí
+34,02/11/12,Ceará,0-1,Avaí
 34,02/11/12,CRB,2-1,Grêmio Barueri
 34,03/11/12,Criciúma,2-3,Joinville
 34,03/11/12,São Caetano,1-3,Athletico-PR
 34,03/11/12,Bragantino,3-0,EC Vitória
 34,03/11/12,América-RN,4-4,Boa Esporte
 35,06/11/12,Athletico-PR,1-1,América-RN
-35,06/11/12,Grêmio Barueri,0-0,Ceará SC
+35,06/11/12,Grêmio Barueri,0-0,Ceará
 35,06/11/12,Criciúma,0-2,São Caetano
 35,06/11/12,Guarani,2-1,ASA
 35,06/11/12,Joinville,2-1,Guaratinguetá
@@ -358,11 +358,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 36,10/11/12,Guaratinguetá,1-0,EC Vitória
 36,10/11/12,Paraná,2-0,Ipatinga
 36,10/11/12,América-MG,3-3,ABC
-36,10/11/12,Ceará SC,1-2,CRB
+36,10/11/12,Ceará,1-2,CRB
 37,16/11/12,Paraná,2-0,ASA
 37,17/11/12,América-RN,1-1,América-MG
 37,17/11/12,CRB,2-1,Guarani
-37,17/11/12,Ceará SC,1-2,Bragantino
+37,17/11/12,Ceará,1-2,Bragantino
 37,17/11/12,Boa Esporte,0-0,ABC
 37,17/11/12,Ipatinga,2-3,Guaratinguetá
 37,17/11/12,Criciúma,0-0,Athletico-PR
@@ -378,4 +378,4 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 38,24/11/12,Goiás,2-1,Joinville
 38,24/11/12,Avaí,1-1,Criciúma
 38,24/11/12,Guaratinguetá,2-1,Grêmio Barueri
-38,24/11/12,EC Vitória,1-1,Ceará SC
+38,24/11/12,EC Vitória,1-1,Ceará

@@ -6,13 +6,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,10/05/08,Corinthians,3-2,CRB
 1,10/05/08,Grêmio Barueri,2-0,Gama
 1,10/05/08,Bahia,1-1,Fortaleza
-1,10/05/08,Ceará SC,2-1,Juventude
+1,10/05/08,Ceará,2-1,Juventude
 1,10/05/08,Paraná,0-1,Avaí
 1,10/05/08,ABC,3-2,Vila Nova
 2,13/05/08,Santo André,1-3,Brasiliense
 2,13/05/08,Marília,2-2,Grêmio Barueri
 2,13/05/08,CRB,1-1,São Caetano
-2,16/05/08,Vila Nova,1-0,Ceará SC
+2,16/05/08,Vila Nova,1-0,Ceará
 2,16/05/08,Juventude,1-0,Criciúma
 2,16/05/08,Ponte Preta,1-0,Bragantino
 2,17/05/08,Gama,1-3,Corinthians
@@ -25,12 +25,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 3,23/05/08,Fortaleza,5-1,Gama
 3,23/05/08,Bragantino,0-1,Juventude
 3,23/05/08,Brasiliense,1-0,América-RN
-3,24/05/08,Ponte Preta,3-2,Ceará SC
+3,24/05/08,Ponte Preta,3-2,Ceará
 3,24/05/08,ABC,0-1,Corinthians
 3,24/05/08,Santo André,2-0,Bahia
 3,24/05/08,Grêmio Barueri,2-2,Avaí
 4,27/05/08,Avaí,1-1,Santo André
-4,27/05/08,Ceará SC,3-0,Brasiliense
+4,27/05/08,Ceará,3-0,Brasiliense
 4,27/05/08,Paraná,2-2,Bragantino
 4,29/05/08,São Caetano,1-0,Vila Nova
 4,29/05/08,Juventude,2-0,Marília
@@ -47,21 +47,21 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 5,07/06/08,Fortaleza,2-2,Avaí
 5,07/06/08,Criciúma,1-2,Bahia
 5,07/06/08,Grêmio Barueri,1-4,Corinthians
-5,07/06/08,Paraná,2-2,Ceará SC
+5,07/06/08,Paraná,2-2,Ceará
 5,07/06/08,Vila Nova,3-2,América-RN
 6,10/06/08,Marília,3-1,Ponte Preta
 6,10/06/08,Gama,1-0,CRB
 6,10/06/08,Juventude,1-1,Fortaleza
 6,13/06/08,Avaí,4-1,Vila Nova
 6,13/06/08,Grêmio Barueri,1-5,Santo André
-6,14/06/08,Ceará SC,2-0,América-RN
+6,14/06/08,Ceará,2-0,América-RN
 6,14/06/08,Corinthians,4-1,Brasiliense
 6,14/06/08,Bahia,0-0,Paraná
 6,14/06/08,São Caetano,2-0,Bragantino
 6,14/06/08,ABC,0-0,Criciúma
 7,17/06/08,CRB,1-2,Grêmio Barueri
 7,17/06/08,Santo André,0-0,São Caetano
-7,17/06/08,Ceará SC,2-2,Bahia
+7,17/06/08,Ceará,2-2,Bahia
 7,20/06/08,Criciúma,2-1,Fortaleza
 7,20/06/08,Paraná,1-0,ABC
 7,20/06/08,Marília,1-1,Bragantino
@@ -69,7 +69,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,21/06/08,Ponte Preta,1-1,Corinthians
 7,21/06/08,América-RN,1-5,Avaí
 7,21/06/08,Gama,1-0,Brasiliense
-8,24/06/08,Avaí,2-1,Ceará SC
+8,24/06/08,Avaí,2-1,Ceará
 8,24/06/08,Ponte Preta,2-1,Santo André
 8,24/06/08,Juventude,4-1,Bahia
 8,25/06/08,Bragantino,1-1,Corinthians
@@ -85,14 +85,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,04/07/08,Juventude,1-0,América-RN
 9,04/07/08,Bahia,2-1,Avaí
 9,04/07/08,Fortaleza,1-2,Vila Nova
-9,05/07/08,ABC,3-3,Ceará SC
+9,05/07/08,ABC,3-3,Ceará
 9,05/07/08,Corinthians,1-0,São Caetano
 9,05/07/08,Grêmio Barueri,2-1,Bragantino
 9,05/07/08,Marília,2-2,Gama
 10,08/07/08,CRB,0-2,Ponte Preta
 10,08/07/08,Bragantino,2-1,Brasiliense
 10,08/07/08,Gama,0-4,Santo André
-10,08/07/08,Ceará SC,3-1,Criciúma
+10,08/07/08,Ceará,3-1,Criciúma
 10,08/07/08,Corinthians,5-0,Marília
 10,08/07/08,Bahia,1-1,ABC
 10,08/07/08,América-RN,1-1,Fortaleza
@@ -104,14 +104,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 11,11/07/08,Marília,2-1,São Caetano
 11,11/07/08,Vila Nova,1-1,Bahia
 11,12/07/08,Criciúma,1-1,Avaí
-11,12/07/08,Ceará SC,1-0,Fortaleza
+11,12/07/08,Ceará,1-0,Fortaleza
 11,12/07/08,Paraná,1-2,Juventude
 11,12/07/08,Gama,0-1,Bragantino
 11,12/07/08,Santo André,1-1,Corinthians
 11,12/07/08,ABC,0-0,América-RN
 12,15/07/08,São Caetano,0-4,ABC
 12,15/07/08,Avaí,2-0,Gama
-12,15/07/08,Grêmio Barueri,4-3,Ceará SC
+12,15/07/08,Grêmio Barueri,4-3,Ceará
 12,18/07/08,Brasiliense,1-2,Paraná
 12,18/07/08,Bragantino,0-2,Criciúma
 12,18/07/08,Vila Nova,2-2,Santo André
@@ -123,7 +123,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,22/07/08,Marília,1-1,Avaí
 13,22/07/08,CRB,0-3,Fortaleza
 13,22/07/08,Santo André,1-1,América-RN
-13,22/07/08,Ceará SC,2-2,Corinthians
+13,22/07/08,Ceará,2-2,Corinthians
 13,22/07/08,Bahia,1-1,São Caetano
 13,22/07/08,Criciúma,3-1,Brasiliense
 13,22/07/08,Ponte Preta,2-0,Vila Nova
@@ -132,7 +132,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 14,25/07/08,Bahia,2-2,Bragantino
 14,25/07/08,Santo André,4-0,Juventude
 14,25/07/08,Marília,4-2,Fortaleza
-14,25/07/08,Ceará SC,1-0,São Caetano
+14,25/07/08,Ceará,1-0,São Caetano
 14,26/07/08,Paraná,0-2,Corinthians
 14,26/07/08,Gama,2-2,Vila Nova
 14,26/07/08,Ponte Preta,3-2,Avaí
@@ -140,7 +140,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 14,26/07/08,CRB,1-1,América-RN
 14,26/07/08,Criciúma,2-2,Grêmio Barueri
 15,29/07/08,Fortaleza,2-0,Santo André
-15,29/07/08,Bragantino,1-1,Ceará SC
+15,29/07/08,Bragantino,1-1,Ceará
 15,29/07/08,Grêmio Barueri,3-2,ABC
 15,01/08/08,América-RN,2-0,Gama
 15,01/08/08,Vila Nova,4-0,Marília
@@ -156,13 +156,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,05/08/08,Corinthians,2-0,Juventude
 16,05/08/08,Bahia,2-1,Ponte Preta
 16,05/08/08,Brasiliense,0-1,Avaí
-16,05/08/08,Ceará SC,1-0,CRB
+16,05/08/08,Ceará,1-0,CRB
 16,05/08/08,Paraná,1-2,Gama
 16,05/08/08,Grêmio Barueri,0-1,Vila Nova
 17,08/08/08,Juventude,2-0,Brasiliense
 17,08/08/08,América-RN,1-1,São Caetano
 17,08/08/08,Gama,2-0,Criciúma
-17,08/08/08,Santo André,3-2,Ceará SC
+17,08/08/08,Santo André,3-2,Ceará
 17,09/08/08,Vila Nova,2-1,Corinthians
 17,09/08/08,CRB,1-2,Bahia
 17,09/08/08,Fortaleza,2-1,Grêmio Barueri
@@ -172,7 +172,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 18,12/08/08,Fortaleza,1-2,Bragantino
 18,12/08/08,Juventude,3-4,São Caetano
 18,12/08/08,América-RN,3-1,Grêmio Barueri
-18,12/08/08,Gama,1-0,Ceará SC
+18,12/08/08,Gama,1-0,Ceará
 18,12/08/08,Avaí,1-1,Corinthians
 18,12/08/08,Marília,3-1,Bahia
 18,12/08/08,Vila Nova,2-0,Brasiliense
@@ -180,7 +180,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 18,12/08/08,Santo André,1-0,Criciúma
 18,12/08/08,Ponte Preta,1-2,ABC
 19,15/08/08,Bahia,2-2,Gama
-19,15/08/08,Ceará SC,3-2,Marília
+19,15/08/08,Ceará,3-2,Marília
 19,15/08/08,Paraná,0-1,Santo André
 19,15/08/08,São Caetano,3-3,Avaí
 19,16/08/08,Corinthians,2-0,América-RN
@@ -197,9 +197,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,23/08/08,Avaí,3-1,Paraná
 20,23/08/08,Fortaleza,5-1,Bahia
 20,23/08/08,Gama,0-2,Grêmio Barueri
-20,23/08/08,Juventude,0-0,Ceará SC
+20,23/08/08,Juventude,0-0,Ceará
 20,23/08/08,América-RN,1-0,Criciúma
-21,26/08/08,Ceará SC,1-2,Vila Nova
+21,26/08/08,Ceará,1-2,Vila Nova
 21,26/08/08,São Caetano,2-4,CRB
 21,26/08/08,Grêmio Barueri,1-0,Marília
 21,26/08/08,Brasiliense,1-1,Santo André
@@ -213,7 +213,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,30/08/08,Bahia,1-4,Santo André
 22,30/08/08,América-RN,3-4,Brasiliense
 22,30/08/08,CRB,1-2,Vila Nova
-22,30/08/08,Ceará SC,2-0,Ponte Preta
+22,30/08/08,Ceará,2-0,Ponte Preta
 22,30/08/08,Corinthians,4-0,ABC
 22,30/08/08,Juventude,2-3,Bragantino
 22,30/08/08,Paraná,1-0,Marília
@@ -221,7 +221,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,30/08/08,Avaí,3-0,Grêmio Barueri
 23,05/09/08,Ponte Preta,2-0,América-RN
 23,06/09/08,Santo André,1-0,Avaí
-23,06/09/08,Brasiliense,3-1,Ceará SC
+23,06/09/08,Brasiliense,3-1,Ceará
 23,06/09/08,Fortaleza,1-3,Corinthians
 23,06/09/08,Marília,1-0,Juventude
 23,06/09/08,ABC,4-1,Gama
@@ -230,7 +230,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 23,06/09/08,Grêmio Barueri,3-2,Bahia
 23,06/09/08,Vila Nova,2-1,São Caetano
 24,09/09/08,Marília,2-0,Santo André
-24,09/09/08,Ceará SC,1-1,Paraná
+24,09/09/08,Ceará,1-1,Paraná
 24,09/09/08,CRB,0-2,Bragantino
 24,13/09/08,Juventude,3-0,ABC
 24,13/09/08,Corinthians,1-0,Grêmio Barueri
@@ -246,13 +246,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 25,16/09/08,Ponte Preta,2-0,Marília
 25,16/09/08,Criciúma,2-0,ABC
 25,16/09/08,Vila Nova,1-0,Avaí
-25,16/09/08,América-RN,0-0,Ceará SC
+25,16/09/08,América-RN,0-0,Ceará
 25,16/09/08,Santo André,2-1,Grêmio Barueri
 25,16/09/08,Fortaleza,0-0,Juventude
 26,19/09/08,São Caetano,1-1,Santo André
 26,19/09/08,Avaí,1-1,América-RN
 26,19/09/08,Juventude,4-3,Vila Nova
-26,19/09/08,Bahia,1-1,Ceará SC
+26,19/09/08,Bahia,1-1,Ceará
 26,20/09/08,Corinthians,3-0,Ponte Preta
 26,20/09/08,ABC,1-0,Paraná
 26,20/09/08,Bragantino,1-0,Marília
@@ -264,7 +264,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 27,23/09/08,Criciúma,1-1,Vila Nova
 27,23/09/08,Santo André,1-3,Ponte Preta
 27,23/09/08,Bahia,1-0,Juventude
-27,23/09/08,Ceará SC,0-0,Avaí
+27,23/09/08,Ceará,0-0,Avaí
 27,23/09/08,Marília,0-0,CRB
 27,23/09/08,Gama,1-2,São Caetano
 27,23/09/08,ABC,1-4,Fortaleza
@@ -277,7 +277,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 28,27/09/08,Avaí,4-1,Bahia
 28,27/09/08,América-RN,2-0,Juventude
 28,27/09/08,Gama,2-1,Marília
-28,27/09/08,Ceará SC,3-1,ABC
+28,27/09/08,Ceará,3-1,ABC
 28,27/09/08,Bragantino,0-2,Grêmio Barueri
 29,30/09/08,Brasiliense,3-1,Bragantino
 29,30/09/08,Vila Nova,0-2,Paraná
@@ -286,7 +286,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 29,03/10/08,ABC,5-1,Bahia
 29,03/10/08,Santo André,2-0,Gama
 29,04/10/08,Juventude,1-0,Avaí
-29,04/10/08,Criciúma,2-0,Ceará SC
+29,04/10/08,Criciúma,2-0,Ceará
 29,04/10/08,Marília,1-1,Corinthians
 29,04/10/08,Fortaleza,2-1,América-RN
 30,07/10/08,Bahia,3-2,Vila Nova
@@ -294,13 +294,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 30,10/10/08,Brasiliense,6-3,CRB
 30,10/10/10,Bragantino,4-0,Gama
 30,10/10/08,Avaí,3-0,Criciúma
-30,11/10/08,Fortaleza,2-2,Ceará SC
+30,11/10/08,Fortaleza,2-2,Ceará
 30,11/10/08,Corinthians,2-2,Santo André
 30,11/10/08,Juventude,1-1,Paraná
 30,11/10/08,Grêmio Barueri,1-0,Ponte Preta
 30,11/10/08,América-RN,3-2,ABC
 31,14/10/08,Santo André,2-1,Vila Nova
-31,14/10/08,Ceará SC,1-0,Grêmio Barueri
+31,14/10/08,Ceará,1-0,Grêmio Barueri
 31,14/10/08,Paraná,1-3,Brasiliense
 31,17/10/08,Marília,2-1,América-RN
 31,17/10/08,Gama,0-3,Avaí
@@ -314,7 +314,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 32,25/10/08,São Caetano,3-1,Bahia
 32,25/10/08,Bragantino,1-1,ABC
 32,25/10/08,Vila Nova,2-1,Ponte Preta
-32,25/10/08,Corinthians,2-0,Ceará SC
+32,25/10/08,Corinthians,2-0,Ceará
 32,25/10/08,Fortaleza,2-2,CRB
 32,25/10/08,América-RN,2-1,Santo André
 32,25/10/08,Juventude,3-2,Gama
@@ -325,14 +325,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 33,31/10/08,Grêmio Barueri,1-0,Criciúma
 33,31/10/08,Avaí,2-1,Ponte Preta
 33,31/10/08,Brasiliense,1-0,ABC
-33,01/11/08,São Caetano,2-2,Ceará SC
+33,01/11/08,São Caetano,2-2,Ceará
 33,01/11/08,Corinthians,2-1,Paraná
 33,01/11/08,Bragantino,4-0,Bahia
 33,01/11/08,América-RN,0-0,CRB
 34,04/11/08,Marília,1-0,Vila Nova
 34,04/11/08,Gama,2-2,América-RN
 34,04/11/08,Paraná,2-3,São Caetano
-34,07/11/08,Ceará SC,0-0,Bragantino
+34,07/11/08,Ceará,0-0,Bragantino
 34,07/11/08,Bahia,1-0,Brasiliense
 34,07/11/08,Ponte Preta,1-0,Juventude
 34,08/11/08,Santo André,3-0,Fortaleza
@@ -346,12 +346,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 35,11/11/08,Vila Nova,2-3,Grêmio Barueri
 35,11/11/08,Ponte Preta,1-0,Bahia
 35,11/11/08,Fortaleza,1-0,São Caetano
-35,11/11/08,CRB,1-0,Ceará SC
+35,11/11/08,CRB,1-0,Ceará
 35,11/11/08,América-RN,0-0,Bragantino
 35,12/11/08,Juventude,1-2,Corinthians
 36,14/11/08,Bahia,2-0,CRB
 36,14/11/08,São Caetano,1-2,América-RN
-36,14/11/08,Ceará SC,2-3,Santo André
+36,14/11/08,Ceará,2-3,Santo André
 36,15/11/08,Bragantino,3-2,Avaí
 36,15/11/08,Corinthians,3-1,Vila Nova
 36,15/11/08,Paraná,1-0,Ponte Preta
@@ -362,7 +362,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,18/11/08,São Caetano,2-1,Juventude
 37,18/11/08,Paraná,4-0,CRB
 37,21/11/08,Bahia,2-1,Marília
-37,21/11/08,Ceará SC,1-0,Gama
+37,21/11/08,Ceará,1-0,Gama
 37,22/11/08,Corinthians,3-2,Avaí
 37,22/11/08,Criciúma,4-4,Santo André
 37,22/11/08,Bragantino,0-1,Fortaleza
@@ -372,7 +372,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 38,28/11/08,Santo André,3-1,Paraná
 38,28/11/08,Gama,0-0,Bahia
 38,29/11/08,Avaí,2-2,São Caetano
-38,29/11/08,Marília,2-1,Ceará SC
+38,29/11/08,Marília,2-1,Ceará
 38,29/11/08,CRB,1-3,ABC
 38,29/11/08,Fortaleza,3-0,Brasiliense
 38,29/11/08,Ponte Preta,3-1,Criciúma

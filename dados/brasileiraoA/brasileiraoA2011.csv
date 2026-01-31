@@ -1,15 +1,15 @@
-﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+Rodada,Data,Time da Casa,Placar,Time Visitante
 1,21/05/11,Atlético-MG,3-0,Athletico-PR
 1,21/05/11,Flamengo,4-0,Avai
-1,21/05/11,Ceará SC,1-3,Vasco da Gama
+1,21/05/11,Ceará,1-3,Vasco
 1,21/05/11,Santos,1-1,Internacional
 1,22/05/11,Palmeiras,1-0,Botafogo
 1,22/05/11,Grêmio,1-2,Corinthians
-1,22/05/11,Coritiba,0-1,Atletico-GO
+1,22/05/11,Coritiba,0-1,Atlético-GO
 1,22/05/11,Figueirense,1-0,Cruzeiro
 1,22/05/11,Fluminense,0-2,São Paulo
 1,22/05/11,América-MG,2-1,Bahia
-2,28/05/11,Internacional,0-1,Ceará SC
+2,28/05/11,Internacional,0-1,Ceará
 2,28/05/11,Botafogo,1-0,Santos
 2,28/05/11,Avai,1-3,Atlético-MG
 2,28/05/11,São Paulo,1-0,Figueirense
@@ -17,36 +17,36 @@
 2,29/05/11,Bahia,3-3,Flamengo
 2,29/05/11,Athletico-PR,0-1,Grêmio
 2,29/05/11,Cruzeiro,1-1,Palmeiras
-2,29/05/11,Vasco da Gama,3-0,América-MG
-2,29/05/11,Atletico-GO,0-1,Fluminense
+2,29/05/11,Vasco,3-0,América-MG
+2,29/05/11,Atlético-GO,0-1,Fluminense
 3,04/06/11,Palmeiras,1-0,Athletico-PR
-3,04/06/11,Ceará SC,2-2,Botafogo
+3,04/06/11,Ceará,2-2,Botafogo
 3,04/06/11,Fluminense,2-1,Cruzeiro
-3,04/06/11,Figueirense,2-0,Atletico-GO
+3,04/06/11,Figueirense,2-0,Atlético-GO
 3,05/06/11,Flamengo,1-1,Corinthians
 3,05/06/11,Grêmio,2-0,Bahia
-3,05/06/11,Coritiba,5-1,Vasco da Gama
+3,05/06/11,Coritiba,5-1,Vasco
 3,05/06/11,América-MG,2-4,Internacional
 3,05/06/11,Santos,3-1,Avai
 3,08/06/11,Atlético-MG,0-1,São Paulo
 4,11/06/11,Cruzeiro,1-1,Santos
 4,11/06/11,Avai,2-2,América-MG
 4,11/06/11,São Paulo,3-1,Grêmio
-4,11/06/11,Vasco da Gama,1-1,Figueirense
+4,11/06/11,Vasco,1-1,Figueirense
 4,12/06/11,Internacional,2-2,Palmeiras
 4,12/06/11,Corinthians,2-0,Fluminense
 4,12/06/11,Bahia,1-1,Atlético-MG
-4,12/06/11,Atletico-GO,4-1,Ceará SC
+4,12/06/11,Atlético-GO,4-1,Ceará
 4,12/06/11,Botafogo,3-1,Coritiba
 4,12/06/11,Athletico-PR,1-1,Flamengo
 5,18/06/11,Fluminense,0-1,Bahia
 5,18/06/11,América-MG,1-1,Cruzeiro
 5,19/06/11,Palmeiras,5-0,Avai
-5,19/06/11,Grêmio,1-1,Vasco da Gama
+5,19/06/11,Grêmio,1-1,Vasco
 5,19/06/11,Figueirense,2-0,Athletico-PR
-5,19/06/11,Ceará SC,0-2,São Paulo
+5,19/06/11,Ceará,0-2,São Paulo
 5,19/06/11,Flamengo,0-0,Botafogo
-5,19/06/11,Atlético-MG,2-2,Atletico-GO
+5,19/06/11,Atlético-MG,2-2,Atlético-GO
 5,19/06/11,Coritiba,1-1,Internacional
 6,25/06/11,Flamengo,4-1,Atlético-MG
 6,25/06/11,Athletico-PR,0-2,Bahia
@@ -54,74 +54,74 @@
 6,26/06/11,Avai,0-1,Fluminense
 6,26/06/11,Corinthians,5-0,São Paulo
 6,26/06/11,Botafogo,2-1,Grêmio
-6,26/06/11,Ceará SC,2-0,Palmeiras
+6,26/06/11,Ceará,2-0,Palmeiras
 6,26/06/11,Internacional,4-1,Figueirense
-6,26/06/11,Atletico-GO,0-1,Vasco da Gama
-7,29/06/11,Vasco da Gama,0-3,Cruzeiro
+6,26/06/11,Atlético-GO,0-1,Vasco
+7,29/06/11,Vasco,0-3,Cruzeiro
 7,29/06/11,Grêmio,2-2,Avai
 7,29/06/11,América-MG,2-3,Flamengo
 7,29/06/11,Figueirense,2-1,Santos
 7,29/06/11,Bahia,0-1,Corinthians
 7,29/06/11,São Paulo,0-2,Botafogo
-7,30/06/11,Palmeiras,2-0,Atletico-GO
-7,30/06/11,Coritiba,3-1,Ceará SC
+7,30/06/11,Palmeiras,2-0,Atlético-GO
+7,30/06/11,Coritiba,3-1,Ceará
 7,30/06/11,Fluminense,3-1,Athletico-PR
 7,30/06/11,Atlético-MG,0-4,Internacional
 6,02/07/11,Santos,1-0,América-MG
 8,06/07/11,Internacional,1-0,Athletico-PR
 8,06/07/11,Cruzeiro,2-0,Grêmio
 8,06/07/11,Avai,2-2,Bahia
-8,06/07/11,Corinthians,2-1,Vasco da Gama
-8,06/07/11,Ceará SC,3-0,Atlético-MG
+8,06/07/11,Corinthians,2-1,Vasco
+8,06/07/11,Ceará,3-0,Atlético-MG
 8,06/07/11,Flamengo,1-0,São Paulo
-8,07/07/11,Botafogo,1-1,Atletico-GO
+8,07/07/11,Botafogo,1-1,Atlético-GO
 8,07/07/11,Coritiba,3-0,Figueirense
 8,07/07/11,América-MG,1-1,Palmeiras
-9,09/07/11,Vasco da Gama,2-0,Internacional
+9,09/07/11,Vasco,2-0,Internacional
 9,09/07/11,São Paulo,2-1,Cruzeiro
 9,09/07/11,Athletico-PR,0-0,Avai
 9,10/07/11,Fluminense,0-1,Flamengo
 9,10/07/11,Grêmio,2-0,Coritiba
 9,10/07/11,Bahia,1-1,Botafogo
-9,10/07/11,Atletico-GO,0-1,Corinthians
-9,10/07/11,Figueirense,1-1,Ceará SC
+9,10/07/11,Atlético-GO,0-1,Corinthians
+9,10/07/11,Figueirense,1-1,Ceará
 9,10/07/11,Palmeiras,3-0,Santos
 9,10/07/11,Atlético-MG,2-0,América-MG
 12,14/07/11,Corinthians,1-0,Internacional
-10,16/07/11,Vasco da Gama,2-1,Athletico-PR
+10,16/07/11,Vasco,2-1,Athletico-PR
 10,16/07/11,Coritiba,3-1,Fluminense
-10,16/07/11,Atletico-GO,0-1,Avai
+10,16/07/11,Atlético-GO,0-1,Avai
 10,16/07/11,Santos,2-1,Atlético-MG
-10,17/07/11,Ceará SC,4-0,América-MG
+10,17/07/11,Ceará,4-0,América-MG
 10,17/07/11,Internacional,0-3,São Paulo
 10,17/07/11,Cruzeiro,2-1,Bahia
 10,20/07/11,Palmeiras,0-0,Flamengo
 10,20/07/11,Figueirense,0-0,Grêmio
 10,20/07/11,Botafogo,0-2,Corinthians
 11,21/07/11,Avai,1-3,Internacional
-11,23/07/11,São Paulo,2-2,Atletico-GO
+11,23/07/11,São Paulo,2-2,Atlético-GO
 11,23/07/11,Athletico-PR,2-1,Botafogo
 11,23/07/11,América-MG,0-0,Figueirense
-11,23/07/11,Flamengo,1-1,Ceará SC
+11,23/07/11,Flamengo,1-1,Ceará
 11,24/07/11,Corinthians,0-1,Cruzeiro
 11,24/07/11,Bahia,0-0,Coritiba
 11,24/07/11,Fluminense,1-0,Palmeiras
-11,24/07/11,Atlético-MG,1-2,Vasco da Gama
-12,27/07/11,Atletico-GO,2-0,Cruzeiro
+11,24/07/11,Atlético-MG,1-2,Vasco
+12,27/07/11,Atlético-GO,2-0,Cruzeiro
 12,27/07/11,Botafogo,2-1,Avai
 12,27/07/11,Atlético-MG,1-0,Fluminense
 12,27/07/11,Grêmio,1-1,América-MG
 12,27/07/11,Santos,4-5,Flamengo
 12,27/07/11,Figueirense,0-1,Palmeiras
 12,27/07/11,Coritiba,3-4,São Paulo
-12,28/07/11,Vasco da Gama,1-1,Bahia
-12,28/07/11,Ceará SC,2-1,Athletico-PR
+12,28/07/11,Vasco,1-1,Bahia
+12,28/07/11,Ceará,2-1,Athletico-PR
 13,30/07/11,Flamengo,2-0,Grêmio
 13,30/07/11,Cruzeiro,0-1,Botafogo
 13,30/07/11,Palmeiras,3-2,Atlético-MG
-13,31/07/11,São Paulo,0-2,Vasco da Gama
-13,31/07/11,Fluminense,4-0,Ceará SC
-13,31/07/11,Internacional,0-0,Atletico-GO
+13,31/07/11,São Paulo,0-2,Vasco
+13,31/07/11,Fluminense,4-0,Ceará
+13,31/07/11,Internacional,0-0,Atlético-GO
 13,31/07/11,Avai,3-2,Corinthians
 13,31/07/11,Athletico-PR,3-2,Santos
 13,31/07/11,América-MG,1-3,Coritiba
@@ -129,68 +129,68 @@
 14,03/08/11,Corinthians,2-1,América-MG
 14,03/08/11,Grêmio,2-2,Atlético-MG
 14,03/08/11,Figueirense,2-0,Botafogo
-14,03/08/11,Ceará SC,0-3,Avai
+14,03/08/11,Ceará,0-3,Avai
 14,03/08/11,Cruzeiro,0-1,Flamengo
 14,03/08/11,Coritiba,1-1,Palmeiras
-14,03/08/11,Vasco da Gama,2-0,Santos
+14,03/08/11,Vasco,2-0,Santos
 14,04/08/11,São Paulo,3-0,Bahia
 14,04/08/11,Fluminense,2-0,Internacional
-14,04/08/11,Atletico-GO,0-3,Athletico-PR
+14,04/08/11,Atlético-GO,0-3,Athletico-PR
 15,06/08/11,Flamengo,1-0,Coritiba
 15,06/08/11,Palmeiras,0-0,Grêmio
 15,06/08/11,Atlético-MG,1-2,Figueirense
 15,07/08/11,Internacional,3-2,Cruzeiro
-15,07/08/11,Santos,1-0,Ceará SC
+15,07/08/11,Santos,1-0,Ceará
 15,07/08/11,Athletico-PR,1-1,Corinthians
 15,07/08/11,América-MG,3-0,Fluminense
-15,07/08/11,Bahia,2-1,Atletico-GO
+15,07/08/11,Bahia,2-1,Atlético-GO
 15,07/08/11,Avai,1-2,São Paulo
-15,07/08/11,Botafogo,4-0,Vasco da Gama
+15,07/08/11,Botafogo,4-0,Vasco
 5,10/08/11,Santos,0-0,Corinthians
 16,13/08/11,São Paulo,2-2,Athletico-PR
-16,13/08/11,Atletico-GO,2-0,Santos
+16,13/08/11,Atlético-GO,2-0,Santos
 16,13/08/11,Cruzeiro,5-0,Avai
 16,13/08/11,Botafogo,4-2,América-MG
-16,14/08/11,Corinthians,2-2,Ceará SC
-16,14/08/11,Vasco da Gama,1-0,Palmeiras
+16,14/08/11,Corinthians,2-2,Ceará
+16,14/08/11,Vasco,1-0,Palmeiras
 16,14/08/11,Coritiba,3-0,Atlético-MG
 16,14/08/11,Figueirense,2-2,Flamengo
 16,14/08/11,Grêmio,2-1,Fluminense
 16,14/08/11,Bahia,1-1,Internacional
 17,17/08/11,Athletico-PR,2-1,Cruzeiro
-17,17/08/11,Avai,0-2,Vasco da Gama
+17,17/08/11,Avai,0-2,Vasco
 17,17/08/11,Fluminense,3-0,Figueirense
-17,17/08/11,Ceará SC,3-0,Grêmio
+17,17/08/11,Ceará,3-0,Grêmio
 17,17/08/11,Internacional,1-0,Botafogo
 17,17/08/11,Santos,2-3,Coritiba
 17,17/08/11,Atlético-MG,2-3,Corinthians
-17,18/08/11,Flamengo,1-4,Atletico-GO
+17,18/08/11,Flamengo,1-4,Atlético-GO
 17,18/08/11,Palmeiras,1-1,Bahia
 17,18/08/11,América-MG,1-1,São Paulo
-18,20/08/11,Cruzeiro,1-0,Ceará SC
+18,20/08/11,Cruzeiro,1-0,Ceará
 18,20/08/11,Botafogo,3-1,Atlético-MG
 18,20/08/11,Corinthians,0-2,Figueirense
 18,21/08/11,São Paulo,1-1,Palmeiras
 18,21/08/11,Internacional,2-2,Flamengo
 18,21/08/11,Avai,0-0,Coritiba
-18,21/08/11,Atletico-GO,1-0,Grêmio
+18,21/08/11,Atlético-GO,1-0,Grêmio
 18,21/08/11,Athletico-PR,2-2,América-MG
 18,21/08/11,Bahia,1-2,Santos
-18,21/08/11,Vasco da Gama,1-1,Fluminense
+18,21/08/11,Vasco,1-1,Fluminense
 8,24/08/11,Santos,2-1,Fluminense
 19,27/08/11,Coritiba,1-1,Athletico-PR
-19,27/08/11,América-MG,1-2,Atletico-GO
+19,27/08/11,América-MG,1-2,Atlético-GO
 19,27/08/11,Fluminense,1-2,Botafogo
-19,28/08/11,Flamengo,0-0,Vasco da Gama
+19,28/08/11,Flamengo,0-0,Vasco
 19,28/08/11,Palmeiras,2-1,Corinthians
 19,28/08/11,Santos,1-1,São Paulo
 19,28/08/11,Grêmio,2-1,Internacional
-19,28/08/11,Ceará SC,3-0,Bahia
+19,28/08/11,Ceará,3-0,Bahia
 19,28/08/11,Figueirense,2-3,Avai
 19,28/08/11,Atlético-MG,1-2,Cruzeiro
 20,31/08/11,Corinthians,3-2,Grêmio
-20,31/08/11,Vasco da Gama,3-1,Ceará SC
-20,31/08/11,Atletico-GO,3-1,Coritiba
+20,31/08/11,Vasco,3-1,Ceará
+20,31/08/11,Atlético-GO,3-1,Coritiba
 20,31/08/11,Athletico-PR,0-1,Atlético-MG
 20,31/08/11,Cruzeiro,2-4,Figueirense
 20,31/08/11,São Paulo,1-2,Fluminense
@@ -200,36 +200,36 @@
 20,01/09/11,Bahia,0-0,América-MG
 21,03/09/11,Figueirense,1-2,São Paulo
 21,03/09/11,Atlético-MG,2-0,Avai
-21,03/09/11,Fluminense,3-2,Atletico-GO
+21,03/09/11,Fluminense,3-2,Atlético-GO
 21,04/09/11,Flamengo,1-3,Bahia
 21,04/09/11,Palmeiras,1-1,Cruzeiro
 21,04/09/11,Coritiba,1-0,Corinthians
 21,04/09/11,Grêmio,4-0,Athletico-PR
-21,04/09/11,América-MG,4-1,Vasco da Gama
-21,04/09/11,Ceará SC,1-1,Internacional
-22,07/09/11,Botafogo,4-0,Ceará SC
+21,04/09/11,América-MG,4-1,Vasco
+21,04/09/11,Ceará,1-1,Internacional
+22,07/09/11,Botafogo,4-0,Ceará
 22,07/09/11,Internacional,4-2,América-MG
 22,07/09/11,Avai,1-2,Santos
 22,07/09/11,São Paulo,2-1,Atlético-MG
-22,07/09/11,Atletico-GO,1-1,Figueirense
+22,07/09/11,Atlético-GO,1-1,Figueirense
 22,07/09/11,Athletico-PR,2-2,Palmeiras
 22,07/09/11,Cruzeiro,1-2,Fluminense
 22,08/09/11,Bahia,1-2,Grêmio
-22,08/09/11,Vasco da Gama,2-0,Coritiba
+22,08/09/11,Vasco,2-0,Coritiba
 22,08/09/11,Corinthians,2-1,Flamengo
 23,10/09/11,Santos,1-0,Cruzeiro
 23,10/09/11,América-MG,2-2,Avai
 23,11/09/11,Palmeiras,0-3,Internacional
-23,11/09/11,Figueirense,1-1,Vasco da Gama
+23,11/09/11,Figueirense,1-1,Vasco
 23,11/09/11,Fluminense,1-0,Corinthians
-23,11/09/11,Ceará SC,1-1,Atletico-GO
+23,11/09/11,Ceará,1-1,Atlético-GO
 23,11/09/11,Coritiba,5-0,Botafogo
 23,11/09/11,Flamengo,1-2,Athletico-PR
 23,11/09/11,Grêmio,1-0,São Paulo
 23,11/09/11,Atlético-MG,2-0,Bahia
-24,17/09/11,Atletico-GO,1-0,Atlético-MG
-24,17/09/11,Vasco da Gama,4-0,Grêmio
-24,17/09/11,São Paulo,4-0,Ceará SC
+24,17/09/11,Atlético-GO,1-0,Atlético-MG
+24,17/09/11,Vasco,4-0,Grêmio
+24,17/09/11,São Paulo,4-0,Ceará
 24,18/09/11,Botafogo,1-1,Flamengo
 24,18/09/11,Corinthians,1-3,Santos
 24,18/09/11,Avai,1-1,Palmeiras
@@ -244,9 +244,9 @@
 25,21/09/11,São Paulo,0-0,Corinthians
 25,21/09/11,Atlético-MG,1-1,Flamengo
 25,21/09/11,Figueirense,1-1,Internacional
-25,22/09/11,Palmeiras,1-0,Ceará SC
+25,22/09/11,Palmeiras,1-0,Ceará
 25,22/09/11,Grêmio,0-1,Botafogo
-25,22/09/11,Vasco da Gama,1-1,Atletico-GO
+25,22/09/11,Vasco,1-1,Atlético-GO
 26,24/09/11,Athletico-PR,1-1,Fluminense
 26,24/09/11,Santos,2-3,Figueirense
 26,24/09/11,Flamengo,2-1,América-MG
@@ -254,32 +254,32 @@
 26,25/09/11,Internacional,2-1,Atlético-MG
 26,25/09/11,Corinthians,1-0,Bahia
 26,25/09/11,Avai,1-2,Grêmio
-26,25/09/11,Cruzeiro,0-3,Vasco da Gama
-26,25/09/11,Ceará SC,3-2,Coritiba
-26,25/09/11,Atletico-GO,1-1,Palmeiras
+26,25/09/11,Cruzeiro,0-3,Vasco
+26,25/09/11,Ceará,3-2,Coritiba
+26,25/09/11,Atlético-GO,1-1,Palmeiras
 27,01/10/11,Palmeiras,1-1,América-MG
 27,01/10/11,Bahia,3-2,Avai
 27,01/10/11,Fluminense,3-2,Santos
 27,02/10/11,São Paulo,1-2,Flamengo
-27,02/10/11,Vasco da Gama,2-2,Corinthians
-27,02/10/11,Atlético-MG,1-1,Ceará SC
+27,02/10/11,Vasco,2-2,Corinthians
+27,02/10/11,Atlético-MG,1-1,Ceará
 27,02/10/11,Figueirense,0-0,Coritiba
 27,02/10/11,Athletico-PR,2-0,Internacional
 27,02/10/11,Grêmio,2-0,Cruzeiro
-27,02/10/11,Atletico-GO,2-0,Botafogo
+27,02/10/11,Atlético-GO,2-0,Botafogo
 11,05/10/11,Grêmio,1-0,Santos
 28,05/10/11,Cruzeiro,3-3,São Paulo
 28,08/10/11,Coritiba,2-0,Grêmio
 28,08/10/11,Botafogo,2-2,Bahia
 28,08/10/11,América-MG,0-0,Atlético-MG
 28,09/10/11,Santos,1-0,Palmeiras
-28,09/10/11,Internacional,3-0,Vasco da Gama
+28,09/10/11,Internacional,3-0,Vasco
 28,09/10/11,Flamengo,3-2,Fluminense
-28,09/10/11,Corinthians,3-0,Atletico-GO
-28,09/10/11,Ceará SC,1-1,Figueirense
+28,09/10/11,Corinthians,3-0,Atlético-GO
+28,09/10/11,Ceará,1-1,Figueirense
 28,09/10/11,Avai,3-0,Athletico-PR
-29,12/10/11,América-MG,4-1,Ceará SC
-29,12/10/11,Avai,2-2,Atletico-GO
+29,12/10/11,América-MG,4-1,Ceará
+29,12/10/11,Avai,2-2,Atlético-GO
 29,12/10/11,Grêmio,1-3,Figueirense
 29,12/10/11,São Paulo,0-0,Internacional
 29,12/10/11,Bahia,0-0,Cruzeiro
@@ -287,17 +287,17 @@
 29,12/10/11,Flamengo,1-1,Palmeiras
 29,13/10/11,Atlético-MG,2-1,Santos
 29,13/10/11,Fluminense,3-1,Coritiba
-29,13/10/11,Athletico-PR,2-2,Vasco da Gama
-30,15/10/11,Ceará SC,0-1,Flamengo
+29,13/10/11,Athletico-PR,2-2,Vasco
+30,15/10/11,Ceará,0-1,Flamengo
 30,15/10/11,Figueirense,2-1,América-MG
 30,16/10/11,Botafogo,2-0,Athletico-PR
 30,16/10/11,Santos,0-1,Grêmio
 30,16/10/11,Cruzeiro,0-1,Corinthians
 30,16/10/11,Internacional,4-2,Avai
 30,16/10/11,Palmeiras,1-2,Fluminense
-30,16/10/11,Atletico-GO,3-0,São Paulo
+30,16/10/11,Atlético-GO,3-0,São Paulo
 30,16/10/11,Coritiba,0-0,Bahia
-30,16/10/11,Vasco da Gama,2-0,Atlético-MG
+30,16/10/11,Vasco,2-0,Atlético-MG
 21,19/10/11,Santos,2-0,Botafogo
 31,22/10/11,Palmeiras,1-2,Figueirense
 31,22/10/11,Fluminense,0-2,Atlético-MG
@@ -305,77 +305,77 @@
 31,22/10/11,Avai,3-2,Botafogo
 31,23/10/11,Internacional,1-1,Corinthians
 31,23/10/11,São Paulo,0-0,Coritiba
-31,23/10/11,Bahia,0-2,Vasco da Gama
-31,23/10/11,Athletico-PR,1-0,Ceará SC
-31,23/10/11,Cruzeiro,3-2,Atletico-GO
+31,23/10/11,Bahia,0-2,Vasco
+31,23/10/11,Athletico-PR,1-0,Ceará
+31,23/10/11,Cruzeiro,3-2,Atlético-GO
 31,23/10/11,Flamengo,1-1,Santos
 32,29/10/11,Santos,4-1,Athletico-PR
-32,29/10/11,Ceará SC,1-2,Fluminense
+32,29/10/11,Ceará,1-2,Fluminense
 32,29/10/11,Botafogo,1-0,Cruzeiro
-32,30/10/11,Vasco da Gama,0-0,São Paulo
+32,30/10/11,Vasco,0-0,São Paulo
 32,30/10/11,Grêmio,4-2,Flamengo
 32,30/10/11,Corinthians,2-1,Avai
 32,30/10/11,Figueirense,2-1,Bahia
-32,30/10/11,Atletico-GO,0-1,Internacional
+32,30/10/11,Atlético-GO,0-1,Internacional
 32,30/10/11,Coritiba,3-1,América-MG
 32,30/10/11,Atlético-MG,2-1,Palmeiras
 33,05/11/11,Bahia,4-3,São Paulo
 33,05/11/11,Botafogo,0-1,Figueirense
 33,05/11/11,Atlético-MG,2-0,Grêmio
-33,06/11/11,Santos,2-0,Vasco da Gama
+33,06/11/11,Santos,2-0,Vasco
 33,06/11/11,América-MG,2-1,Corinthians
 33,06/11/11,Flamengo,5-1,Cruzeiro
-33,06/11/11,Avai,1-2,Ceará SC
-33,06/11/11,Athletico-PR,2-1,Atletico-GO
+33,06/11/11,Avai,1-2,Ceará
+33,06/11/11,Athletico-PR,2-1,Atlético-GO
 33,06/11/11,Internacional,1-2,Fluminense
 33,06/11/11,Palmeiras,0-2,Coritiba
 34,12/11/11,Fluminense,1-2,América-MG
 34,12/11/11,Figueirense,2-1,Atlético-MG
 34,12/11/11,São Paulo,2-0,Avai
 34,13/11/11,Coritiba,2-0,Flamengo
-34,13/11/11,Ceará SC,2-3,Santos
+34,13/11/11,Ceará,2-3,Santos
 34,13/11/11,Grêmio,2-2,Palmeiras
 34,13/11/11,Corinthians,2-1,Athletico-PR
-34,13/11/11,Vasco da Gama,2-0,Botafogo
-34,13/11/11,Atletico-GO,0-1,Bahia
+34,13/11/11,Vasco,2-0,Botafogo
+34,13/11/11,Atlético-GO,0-1,Bahia
 34,13/11/11,Cruzeiro,1-0,Internacional
 35,16/11/11,América-MG,2-1,Botafogo
 35,16/11/11,Internacional,1-0,Bahia
 35,16/11/11,Fluminense,5-4,Grêmio
 35,16/11/11,Athletico-PR,1-0,São Paulo
-35,16/11/11,Palmeiras,1-1,Vasco da Gama
+35,16/11/11,Palmeiras,1-1,Vasco
 35,16/11/11,Avai,0-0,Cruzeiro
-35,16/11/11,Ceará SC,0-1,Corinthians
+35,16/11/11,Ceará,0-1,Corinthians
 35,17/11/11,Atlético-MG,2-1,Coritiba
 35,17/11/11,Flamengo,0-0,Figueirense
-35,17/11/11,Santos,1-1,Atletico-GO
+35,17/11/11,Santos,1-1,Atlético-GO
 36,19/11/11,São Paulo,3-1,América-MG
-36,19/11/11,Vasco da Gama,2-0,Avai
-36,19/11/11,Grêmio,1-3,Ceará SC
-36,20/11/11,Atletico-GO,0-0,Flamengo
+36,19/11/11,Vasco,2-0,Avai
+36,19/11/11,Grêmio,1-3,Ceará
+36,20/11/11,Atlético-GO,0-0,Flamengo
 36,20/11/11,Corinthians,2-1,Atlético-MG
 36,20/11/11,Botafogo,1-2,Internacional
 36,20/11/11,Cruzeiro,1-1,Athletico-PR
 36,20/11/11,Figueirense,0-4,Fluminense
 36,20/11/11,Coritiba,1-0,Santos
 36,20/11/11,Bahia,0-2,Palmeiras
-37,27/11/11,Fluminense,1-2,Vasco da Gama
+37,27/11/11,Fluminense,1-2,Vasco
 37,27/11/11,Figueirense,0-1,Corinthians
 37,27/11/11,Palmeiras,1-0,São Paulo
 37,27/11/11,Flamengo,1-0,Internacional
 37,27/11/11,Atlético-MG,4-0,Botafogo
 37,27/11/11,Coritiba,1-0,Avai
-37,27/11/11,Ceará SC,2-2,Cruzeiro
+37,27/11/11,Ceará,2-2,Cruzeiro
 37,27/11/11,América-MG,2-1,Athletico-PR
-37,27/11/11,Grêmio,2-2,Atletico-GO
+37,27/11/11,Grêmio,2-2,Atlético-GO
 37,27/11/11,Santos,1-1,Bahia
 38,04/12/11,Corinthians,0-0,Palmeiras
-38,04/12/11,Vasco da Gama,1-1,Flamengo
+38,04/12/11,Vasco,1-1,Flamengo
 38,04/12/11,São Paulo,4-1,Santos
 38,04/12/11,Botafogo,1-1,Fluminense
 38,04/12/11,Internacional,1-0,Grêmio
 38,04/12/11,Cruzeiro,6-1,Atlético-MG
 38,04/12/11,Avai,1-1,Figueirense
-38,04/12/11,Atletico-GO,5-1,América-MG
-38,04/12/11,Bahia,2-1,Ceará SC
+38,04/12/11,Atlético-GO,5-1,América-MG
+38,04/12/11,Bahia,2-1,Ceará
 38,04/12/11,Athletico-PR,1-0,Coritiba

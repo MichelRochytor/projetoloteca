@@ -26,7 +26,7 @@ R1,1,13/02/19,Sergipe,0-2,Goiás
 R1,1,13/02/19,Real Ariquemes,1-4,Avaí
 R1,1,13/02/19,Galvez EC,0-1,ABC
 R1,1,13/02/19,Brusque,1-1,Atlético Goianiense
-R1,1,13/02/19,São Raimundo-RR,0-0,América Mineiro
+R1,1,13/02/19,São Raimundo-RR,0-0,América-MG
 R1,1,13/02/19,Ypiranga-AP,0-1,Cuiabá
 R1,1,13/02/19,Operário-MS,1-4,Botafogo-PB
 R1,1,13/02/19,Campinense,0-2,Botafogo
@@ -51,7 +51,7 @@ R2,1,27/02/19,Foz do Iguaçu,0-0,Ceará
 R2,1,27/02/19,URT,2-2,Vila Nova
 R2,1,27/02/19,Botafogo,3-0,Cuiabá
 R2,1,28/02/19,Tombense,2-2,Botafogo-PB
-R2,1,28/02/19,Juventude,2-1,América Mineiro
+R2,1,28/02/19,Juventude,2-1,América-MG
 R2,1,06/03/19,Santa Cruz de Natal,0-1,Bahia
 R2,1,06/03/19,Fluminense,3-0,Ypiranga-RS
 R2,1,06/03/19,Mixto,1-2,Chapecoense
@@ -92,7 +92,7 @@ R4,2,07/05/19,Vila Nova,0-0,Juventude
 O,1,15/05/19,Atlético Mineiro,0-0,Santos
 O,1,15/05/19,Fluminense,1-1,Cruzeiro
 O,1,15/05/19,Corinthians,0-1,Flamengo
-O,1,16/05/19,Fortaleza,0-0,Athletico Paranaense
+O,1,16/05/19,Fortaleza,0-0,Athletico-PR
 O,1,22/05/19,Sampaio Corrêa,0-1,Palmeiras
 O,1,22/05/19,São Paulo,0-1,Bahia
 O,1,22/05/19,Juventude,0-0,Grêmio
@@ -103,19 +103,19 @@ O,2,29/05/19,Grêmio,3-0,Juventude
 O,2,30/05/19,Palmeiras,2-0,Sampaio Corrêa
 O,2,04/06/19,Flamengo,1-0,Corinthians
 O,2,05/06/19,Cruzeiro,2-2,Fluminense
-O,2,05/06/19,Athletico Paranaense,1-0,Fortaleza
+O,2,05/06/19,Athletico-PR,1-0,Fortaleza
 O,2,06/06/19,Santos,1-2,Atlético Mineiro
 Q,1,10/07/19,Grêmio,1-1,Bahia
 Q,1,10/07/19,Palmeiras,1-0,Internacional
-Q,1,10/07/19,Athletico Paranaense,1-1,Flamengo
+Q,1,10/07/19,Athletico-PR,1-1,Flamengo
 Q,1,11/07/19,Cruzeiro,3-0,Atlético Mineiro
 Q,2,17/07/19,Bahia,0-1,Grêmio
 Q,2,17/07/19,Atlético Mineiro,2-0,Cruzeiro
 Q,2,17/07/19,Internacional,1-0,Palmeiras
-Q,2,17/07/19,Flamengo,1-1,Athletico Paranaense
+Q,2,17/07/19,Flamengo,1-1,Athletico-PR
 S,1,07/08/19,Cruzeiro,0-1,Internacional
-S,1,14/08/19,Grêmio,2-0,Athletico Paranaense
-S,2,04/09/19,Athletico Paranaense,2-0,Grêmio
+S,1,14/08/19,Grêmio,2-0,Athletico-PR
+S,2,04/09/19,Athletico-PR,2-0,Grêmio
 S,2,04/09/19,Internacional,3-0,Cruzeiro
-F,1,11/09/19,Athletico Paranaense,1-0,Internacional
-F,2,18/09/19,Internacional,1-2,Athletico Paranaense
+F,1,11/09/19,Athletico-PR,1-0,Internacional
+F,2,18/09/19,Internacional,1-2,Athletico-PR

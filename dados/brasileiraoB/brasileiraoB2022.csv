@@ -2,11 +2,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,04/05/22,Novorizontino,3-1,CRB
 1,04/05/22,CSA,1-1,Criciúma
 1,08/04/22,Brusque,1-0,Guarani
-1,08/04/22,Vasco da Gama,1-1,Vila Nova
+1,08/04/22,Vasco,1-1,Vila Nova
 1,08/04/22,Bahia,2-0,Cruzeiro
 1,09/04/22,Chapecoense,1-1,Ituano
 1,09/04/22,Ponte Preta,0-0,Grêmio
-1,09/04/22,Sport Recife,1-0,Sampaio Corrêa
+1,09/04/22,Sport,1-0,Sampaio Corrêa
 1,09/04/22,Tombense,1-1,Operário-PR
 1,10/04/22,Londrina,2-0,Náutico
 2,12/04/22,Vila Nova,0-0,Novorizontino
@@ -17,19 +17,19 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 2,16/04/22,Operário-PR,2-0,Ponte Preta
 2,16/04/22,Ituano,0-0,CSA
 2,16/04/22,Sampaio Corrêa,1-1,Tombense
-2,16/04/22,Guarani,0-0,Sport Recife
-2,16/04/22,CRB,1-1,Vasco da Gama
+2,16/04/22,Guarani,0-0,Sport
+2,16/04/22,CRB,1-1,Vasco
 3,21/04/22,Grêmio,3-1,Guarani
 3,21/04/22,Londrina,1-1,Novorizontino
 3,22/04/22,CSA,1-1,Bahia
-3,22/04/22,Chapecoense,0-0,Vasco da Gama
-3,23/04/22,Criciúma,1-1,Sport Recife
+3,22/04/22,Chapecoense,0-0,Vasco
+3,23/04/22,Criciúma,1-1,Sport
 3,23/04/22,Ponte Preta,1-0,CRB
 3,23/04/22,Sampaio Corrêa,3-1,Brusque
 3,23/04/22,Ituano,3-1,Vila Nova
 3,23/04/22,Tombense,1-1,Cruzeiro
 3,24/04/22,Náutico,2-0,Operário-PR
-4,26/04/22,Sport Recife,1-0,Ituano
+4,26/04/22,Sport,1-0,Ituano
 4,26/04/22,Novorizontino,0-3,Chapecoense
 4,26/04/22,Vila Nova,1-1,Tombense
 4,26/04/22,Bahia,1-0,Sampaio Corrêa
@@ -37,52 +37,52 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 4,27/04/22,Operário-PR,0-1,Grêmio
 4,27/04/22,CRB,1-2,Náutico
 4,27/04/22,Guarani,1-0,Criciúma
-4,27/04/22,Vasco da Gama,1-0,Ponte Preta
+4,27/04/22,Vasco,1-0,Ponte Preta
 4,26/04/22,Brusque,2-0,CSA
 5,29/04/22,Londrina,2-2,Vila Nova
 5,29/04/22,Ituano,1-0,Bahia
-5,30/04/22,CSA,1-0,Sport Recife
+5,30/04/22,CSA,1-0,Sport
 5,30/04/22,Grêmio,2-0,CRB
 5,30/04/22,Sampaio Corrêa,1-1,Operário-PR
 5,30/04/22,Chapecoense,0-2,Cruzeiro
 5,30/04/22,Ponte Preta,2-0,Brusque
 5,01/05/22,Criciúma,1-1,Novorizontino
-5,01/05/22,Tombense,1-1,Vasco da Gama
+5,01/05/22,Tombense,1-1,Vasco
 5,03/05/22,Náutico,1-1,Guarani
 6,03/05/22,Bahia,4-0,Londrina
 6,05/05/22,Brusque,0-0,Chapecoense
 6,06/05/22,Vila Nova,2-0,Náutico
-6,06/05/22,Sport Recife,2-0,Tombense
+6,06/05/22,Sport,2-0,Tombense
 6,07/05/22,Operário-PR,2-0,Criciúma
-6,07/05/22,Vasco da Gama,1-0,CSA
+6,07/05/22,Vasco,1-0,CSA
 6,07/05/22,Novorizontino,2-1,Ituano
 6,08/05/22,Cruzeiro,1-0,Grêmio
 6,08/05/22,Guarani,0-0,Ponte Preta
 6,09/05/22,CRB,2-1,Sampaio Corrêa
 7,13/05/22,Ponte Preta,0-1,Novorizontino
-7,13/05/22,Chapecoense,0-1,Sport Recife
+7,13/05/22,Chapecoense,0-1,Sport
 7,14/05/22,Criciúma,3-0,CRB
 7,14/05/22,Londrina,2-1,Brusque
 7,14/05/22,Tombense,1-1,Guarani
 7,14/05/22,Sampaio Corrêa,2-0,Vila Nova
 7,14/05/22,CSA,0-0,Operário-PR
 7,15/05/22,Náutico,0-1,Cruzeiro
-7,15/05/22,Vasco da Gama,1-0,Bahia
+7,15/05/22,Vasco,1-0,Bahia
 7,16/05/22,Ituano,1-1,Grêmio
-8,17/05/22,Novorizontino,0-0,Sport Recife
+8,17/05/22,Novorizontino,0-0,Sport
 8,18/05/22,CRB,1-0,Londrina
 8,19/05/22,Grêmio,0-0,Criciúma
 8,19/05/22,Vila Nova,0-0,Chapecoense
 8,19/05/22,Náutico,1-1,CSA
-8,19/05/22,Guarani,0-0,Vasco da Gama
+8,19/05/22,Guarani,0-0,Vasco
 8,20/05/22,Brusque,1-0,Tombense
 8,20/05/22,Bahia,2-1,Ponte Preta
 8,21/05/22,Operário-PR,3-2,Ituano
 8,22/05/22,Cruzeiro,2-0,Sampaio Corrêa
-9,24/05/22,Sport Recife,0-1,CRB
+9,24/05/22,Sport,0-1,CRB
 9,24/05/22,Ponte Preta,0-0,Chapecoense
 9,25/05/22,Londrina,2-1,Operário-PR
-9,26/05/22,Vasco da Gama,2-0,Brusque
+9,26/05/22,Vasco,2-0,Brusque
 9,26/05/22,Ituano,0-0,Náutico
 9,27/05/22,Tombense,1-0,Bahia
 9,27/05/22,Criciúma,0-1,Cruzeiro
@@ -90,8 +90,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,28/05/22,Sampaio Corrêa,2-1,Guarani
 9,29/05/22,Vila Nova,0-0,Grêmio
 10,01/06/22,CRB,0-0,CSA
-10,02/06/22,Vasco da Gama,0-0,Grêmio
-10,02/06/22,Sport Recife,2-1,Ponte Preta
+10,02/06/22,Vasco,0-0,Grêmio
+10,02/06/22,Sport,2-1,Ponte Preta
 10,02/06/22,Guarani,1-1,Vila Nova
 10,03/06/22,Operário-PR,1-2,Cruzeiro
 10,04/06/22,Bahia,2-1,Criciúma
@@ -101,14 +101,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 10,05/07/22,Chapecoense,0-3,Londrina
 11,06/06/22,Guarani,0-3,Operário-PR
 11,07/06/22,Vila Nova,0-2,Brusque
-11,07/06/22,Náutico,2-3,Vasco da Gama
+11,07/06/22,Náutico,2-3,Vasco
 11,07/06/22,Londrina,1-1,Tombense
 11,07/06/22,Ituano,1-2,Ponte Preta
 11,07/06/22,Criciúma,3-1,Sampaio Corrêa
 11,07/06/22,Grêmio,2-0,Novorizontino
 11,07/06/22,CSA,1-1,Chapecoense
 11,08/06/22,Cruzeiro,2-0,CRB
-11,08/06/22,Bahia,1-0,Sport Recife
+11,08/06/22,Bahia,1-0,Sport
 12,10/06/22,Sampaio Corrêa,2-0,Náutico
 12,10/06/22,Chapecoense,2-3,Criciúma
 12,11/06/22,Brusque,0-1,Ituano
@@ -116,27 +116,27 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,11/06/22,Ponte Preta,1-2,Londrina
 12,11/06/22,Operário-PR,0-1,Bahia
 12,12/06/22,Novorizontino,1-2,Guarani
-12,12/06/22,Vasco da Gama,1-0,Cruzeiro
+12,12/06/22,Vasco,1-0,Cruzeiro
 12,12/06/22,Tombense,2-1,CSA
-12,13/06/22,Sport Recife,0-0,Grêmio
+12,13/06/22,Sport,0-0,Grêmio
 13,14/06/22,Bahia,0-1,Chapecoense
 13,16/06/22,Cruzeiro,2-0,Ponte Preta
 13,16/06/22,Vila Nova,0-0,Operário-PR
 13,17/06/22,Criciúma,0-1,Brusque
 13,18/06/22,Grêmio,2-0,Sampaio Corrêa
 13,18/06/22,Novorizontino,1-3,Tombense
-13,18/06/22,Londrina,0-1,Vasco da Gama
-13,18/06/22,Náutico,1-1,Sport Recife
+13,18/06/22,Londrina,0-1,Vasco
+13,18/06/22,Náutico,1-1,Sport
 13,17/06/22,CRB,1-1,Ituano
 13,19/06/22,Guarani,0-0,CSA
 14,21/06/22,Chapecoense,1-2,CRB
 14,23/06/22,Ponte Preta,0-0,Sampaio Corrêa
 14,23/06/22,CSA,1-1,Grêmio
-14,24/06/22,Vasco da Gama,3-0,Operário-PR
+14,24/06/22,Vasco,3-0,Operário-PR
 14,24/06/22,Londrina,3-1,Guarani
 14,25/06/22,Criciúma,1-0,Vila Nova
 14,25/06/22,Bahia,0-1,Novorizontino
-14,25/06/22,Sport Recife,0-0,Brusque
+14,25/06/22,Sport,0-0,Brusque
 14,26/06/22,Tombense,1-1,Náutico
 14,05/07/22,Ituano,1-1,Cruzeiro
 15,27/06/22,Sampaio Corrêa,2-0,CSA
@@ -144,11 +144,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 15,28/06/22,Grêmio,1-0,Londrina
 15,28/06/22,Brusque,0-2,Bahia
 15,28/06/22,Guarani,0-2,Ituano
-15,28/06/22,Cruzeiro,2-1,Sport Recife
+15,28/06/22,Cruzeiro,2-1,Sport
 15,28/06/22,Vila Nova,1-1,Ponte Preta
 15,29/06/22,Náutico,1-1,Criciúma
 15,29/06/22,CRB,0-0,Tombense
-15,29/06/22,Novorizontino,2-0,Vasco da Gama
+15,29/06/22,Novorizontino,2-0,Vasco
 16,01/07/22,Chapecoense,3-1,Sampaio Corrêa
 16,01/07/22,Cruzeiro,2-0,Vila Nova
 16,01/07/22,Brusque,2-0,Operário-PR
@@ -158,40 +158,40 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,02/07/22,CRB,1-1,Guarani
 16,03/07/22,Ponte Preta,0-0,Tombense
 16,03/07/22,Bahia,0-0,Grêmio
-16,03/07/22,Vasco da Gama,0-0,Sport Recife
+16,03/07/22,Vasco,0-0,Sport
 17,05/07/22,Operário-PR,2-3,CRB
 17,06/07/22,Novorizontino,1-0,Brusque
 17,07/07/22,CSA,0-1,Ponte Preta
 17,08/07/22,Vila Nova,1-1,Bahia
 17,08/07/22,Grêmio,2-0,Náutico
 17,09/07/22,Guarani,1-0,Cruzeiro
-17,09/07/22,Sport Recife,2-0,Londrina
+17,09/07/22,Sport,2-0,Londrina
 17,09/07/22,Tombense,2-1,Chapecoense
-17,09/07/22,Criciúma,0-1,Vasco da Gama
+17,09/07/22,Criciúma,0-1,Vasco
 17,09/07/22,Sampaio Corrêa,2-0,Ituano
-18,14/07/22,Operário-PR,0-0,Sport Recife
+18,14/07/22,Operário-PR,0-0,Sport
 18,15/07/22,Criciúma,1-1,Ponte Preta
 18,15/07/22,Vila Nova,1-2,CSA
 18,16/07/22,Ituano,0-0,Londrina
 18,16/07/22,CRB,1-1,Brusque
-18,16/07/22,Sampaio Corrêa,3-1,Vasco da Gama
+18,16/07/22,Sampaio Corrêa,3-1,Vasco
 18,16/07/22,Grêmio,3-0,Tombense
 18,16/07/22,Guarani,0-2,Bahia
 18,17/07/22,Náutico,1-2,Chapecoense
 18,17/07/22,Cruzeiro,2-1,Novorizontino
-19,18/07/22,Sport Recife,0-0,Vila Nova
+19,18/07/22,Sport,0-0,Vila Nova
 19,19/07/22,Londrina,1-0,Sampaio Corrêa
 19,19/07/22,Bahia,1-1,CRB
 19,19/07/22,Brusque,1-1,Grêmio
 19,19/07/22,Tombense,1-0,Criciúma
-19,19/07/22,Vasco da Gama,1-1,Ituano
+19,19/07/22,Vasco,1-1,Ituano
 19,20/07/22,Chapecoense,0-0,Guarani
 19,20/07/22,Ponte Preta,1-0,Náutico
 19,20/07/22,CSA,1-1,Cruzeiro
 19,20/07/22,Novorizontino,2-1,Operário-PR
-20,22/07/22,Sampaio Corrêa,4-1,Sport Recife
+20,22/07/22,Sampaio Corrêa,4-1,Sport
 20,23/07/22,Cruzeiro,1-0,Bahia
-20,23/07/22,Vila Nova,1-0,Vasco da Gama
+20,23/07/22,Vila Nova,1-0,Vasco
 20,23/07/22,Grêmio,2-1,Ponte Preta
 20,23/07/22,Náutico,1-2,Londrina
 20,23/07/22,Ituano,1-0,Chapecoense
@@ -200,8 +200,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,25/07/22,Criciúma,2-1,CSA
 20,25/07/22,Operário-PR,0-0,Tombense
 21,26/07/22,Chapecoense,0-0,Grêmio
-21,28/07/22,Vasco da Gama,4-0,CRB
-21,28/07/22,Sport Recife,2-1,Guarani
+21,28/07/22,Vasco,4-0,CRB
+21,28/07/22,Sport,2-1,Guarani
 21,29/07/22,Bahia,3-0,Náutico
 21,29/07/22,Tombense,3-0,Sampaio Corrêa
 21,30/07/22,Brusque,0-0,Cruzeiro
@@ -209,8 +209,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 21,30/07/22,Novorizontino,1-1,Vila Nova
 21,30/07/22,Ponte Preta,3-0,Operário-PR
 21,30/07/22,CSA,1-3,Ituano
-22,31/07/22,Vasco da Gama,0-0,Chapecoense
-22,02/08/22,Sport Recife,1-1,Criciúma
+22,31/07/22,Vasco,0-0,Chapecoense
+22,02/08/22,Sport,1-1,Criciúma
 22,04/08/22,Brusque,1-1,Sampaio Corrêa
 22,04/08/22,CRB,1-1,Ponte Preta
 22,05/08/22,Vila Nova,1-1,Ituano
@@ -220,9 +220,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,06/08/22,Cruzeiro,2-0,Tombense
 22,06/08/22,Novorizontino,0-1,Londrina
 23,09/08/22,Grêmio,5-1,Operário-PR
-23,09/08/22,Ituano,4-1,Sport Recife
+23,09/08/22,Ituano,4-1,Sport
 23,09/08/22,CSA,1-0,Brusque
-23,09/08/22,Ponte Preta,3-1,Vasco da Gama
+23,09/08/22,Ponte Preta,3-1,Vasco
 23,09/08/22,Londrina,1-2,Cruzeiro
 23,09/08/22,Sampaio Corrêa,2-0,Bahia
 23,09/08/22,Tombense,0-0,Vila Nova
@@ -233,23 +233,23 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 24,12/08/22,Bahia,2-0,Ituano
 24,12/08/22,Brusque,2-1,Ponte Preta
 24,13/08/22,Operário-PR,1-1,Sampaio Corrêa
-24,13/08/22,Vasco da Gama,3-1,Tombense
-24,13/08/22,Sport Recife,4-0,CSA
+24,13/08/22,Vasco,3-1,Tombense
+24,13/08/22,Sport,4-0,CSA
 24,13/08/22,Cruzeiro,1-1,Chapecoense
 24,13/08/22,Guarani,1-0,Náutico
 24,13/08/22,CRB,2-0,Grêmio
 24,14/08/22,Novorizontino,3-1,Criciúma
 25,16/08/22,Londrina,1-1,Bahia
 25,17/08/22,Criciúma,2-0,Operário-PR
-25,18/08/22,CSA,2-0,Vasco da Gama
-25,18/08/22,Tombense,1-0,Sport Recife
+25,18/08/22,CSA,2-0,Vasco
+25,18/08/22,Tombense,1-0,Sport
 25,19/08/22,Ituano,1-0,Novorizontino
 25,19/08/22,Náutico,1-2,Vila Nova
 25,20/08/22,Ponte Preta,1-0,Guarani
 25,20/08/22,Chapecoense,1-0,Brusque
 25,20/08/22,Sampaio Corrêa,1-2,CRB
 25,21/08/22,Grêmio,2-2,Cruzeiro
-26,23/08/22,Sport Recife,1-0,Chapecoense
+26,23/08/22,Sport,1-0,Chapecoense
 26,25/08/22,Vila Nova,0-0,Sampaio Corrêa
 26,25/08/22,Novorizontino,1-1,Ponte Preta
 26,26/08/22,Grêmio,0-1,Ituano
@@ -258,29 +258,29 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 26,27/08/22,Guarani,2-1,Tombense
 26,27/08/22,CRB,0-0,Criciúma
 26,27/08/22,Operário-PR,0-0,CSA
-26,28/08/22,Bahia,2-1,Vasco da Gama
+26,28/08/22,Bahia,2-1,Vasco
 27,29/08/22,Chapecoense,1-2,Vila Nova
 27,30/08/22,Sampaio Corrêa,1-1,Cruzeiro
 27,30/08/22,Londrina,1-0,CRB
-27,30/08/22,Sport Recife,1-0,Novorizontino
+27,30/08/22,Sport,1-0,Novorizontino
 27,30/08/22,Ituano,0-0,Operário-PR
 27,30/08/22,CSA,2-0,Náutico
 27,30/08/22,Tombense,1-0,Brusque
 27,30/08/22,Criciúma,2-0,Grêmio
-27,31/08/22,Vasco da Gama,2-1,Guarani
+27,31/08/22,Vasco,2-1,Guarani
 27,31/08/22,Ponte Preta,2-0,Bahia
 28,02/09/22,Náutico,2-0,Ituano
 28,02/09/22,Grêmio,2-1,Vila Nova
 28,03/09/22,Novorizontino,1-1,CSA
-28,03/09/22,Brusque,1-0,Vasco da Gama
+28,03/09/22,Brusque,1-0,Vasco
 28,03/09/22,Guarani,3-0,Sampaio Corrêa
-28,03/09/22,CRB,2-0,Sport Recife
+28,03/09/22,CRB,2-0,Sport
 28,03/09/22,Bahia,3-1,Tombense
 28,03/09/22,Chapecoense,3-0,Ponte Preta
 28,03/09/22,Operário-PR,1-0,Londrina
 28,04/09/22,Cruzeiro,1-1,Criciúma
 29,06/09/22,Vila Nova,2-1,Guarani
-29,07/09/22,Ponte Preta,1-0,Sport Recife
+29,07/09/22,Ponte Preta,1-0,Sport
 29,07/09/22,Sampaio Corrêa,2-1,Novorizontino
 29,08/09/22,Criciúma,0-0,Bahia
 29,08/09/22,Cruzeiro,1-0,Operário-PR
@@ -288,20 +288,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 29,10/09/22,Ituano,3-0,Tombense
 29,10/09/22,CSA,1-1,CRB
 29,10/09/22,Londrina,2-1,Chapecoense
-29,11/09/22,Grêmio,2-1,Vasco da Gama
-30,12/09/22,Sport Recife,1-0,Bahia
+29,11/09/22,Grêmio,2-1,Vasco
+30,12/09/22,Sport,1-0,Bahia
 30,13/09/22,Operário-PR,0-1,Guarani
 30,13/09/22,Ponte Preta,1-1,Ituano
-30,16/09/22,Vasco da Gama,4-1,Náutico
+30,16/09/22,Vasco,4-1,Náutico
 30,16/09/22,Tombense,1-1,Londrina
 30,16/09/22,Novorizontino,2-0,Grêmio
 30,17/09/22,Chapecoense,1-0,CSA
 30,17/09/22,Brusque,0-1,Vila Nova
 30,17/09/22,Sampaio Corrêa,1-1,Criciúma
 30,17/09/22,CRB,0-2,Cruzeiro
-31,20/09/22,Grêmio,3-0,Sport Recife
+31,20/09/22,Grêmio,3-0,Sport
 31,20/09/22,Guarani,2-0,Novorizontino
-31,21/09/22,Cruzeiro,3-0,Vasco da Gama
+31,21/09/22,Cruzeiro,3-0,Vasco
 31,22/09/22,Vila Nova,1-0,CRB
 31,23/09/22,Náutico,1-3,Sampaio Corrêa
 31,23/09/22,Londrina,0-2,Ponte Preta
@@ -310,9 +310,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 31,25/09/22,Criciúma,2-0,Chapecoense
 31,26/09/22,CSA,2-0,Tombense
 32,28/09/22,Ponte Preta,1-4,Cruzeiro
-32,28/09/22,Sport Recife,2-1,Náutico
+32,28/09/22,Sport,2-1,Náutico
 32,29/09/22,Tombense,2-0,Novorizontino
-32,29/09/22,Vasco da Gama,1-1,Londrina
+32,29/09/22,Vasco,1-1,Londrina
 32,30/09/22,CSA,1-2,Guarani
 32,30/09/22,Operário-PR,1-1,Vila Nova
 32,30/09/22,Sampaio Corrêa,2-1,Grêmio
@@ -323,8 +323,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 33,03/10/22,Sampaio Corrêa,2-1,Ponte Preta
 33,04/10/22,Grêmio,2-0,CSA
 33,04/10/22,Vila Nova,1-0,Criciúma
-33,04/10/22,Operário-PR,2-3,Vasco da Gama
-33,04/10/22,Brusque,0-1,Sport Recife
+33,04/10/22,Operário-PR,2-3,Vasco
+33,04/10/22,Brusque,0-1,Sport
 33,04/10/22,CRB,2-1,Chapecoense
 33,04/10/22,Náutico,4-3,Tombense
 33,04/10/22,Novorizontino,1-1,Bahia
@@ -336,9 +336,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 34,08/10/22,Londrina,1-1,Grêmio
 34,08/10/22,Tombense,1-2,CRB
 34,08/10/22,Ituano,2-1,Guarani
-34,08/10/22,Vasco da Gama,3-0,Novorizontino
+34,08/10/22,Vasco,3-0,Novorizontino
 34,08/10/22,Ponte Preta,1-1,Vila Nova
-34,09/10/22,Sport Recife,3-1,Cruzeiro
+34,09/10/22,Sport,3-1,Cruzeiro
 35,11/10/22,Guarani,1-0,CRB
 35,11/10/22,Sampaio Corrêa,2-1,Chapecoense
 35,13/10/22,Operário-PR,0-0,Brusque
@@ -347,7 +347,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 35,14/10/22,Novorizontino,6-0,Náutico
 35,15/10/22,Tombense,0-0,Ponte Preta
 35,15/10/22,Criciúma,3-0,Ituano
-35,16/10/22,Sport Recife,1-1,Vasco da Gama
+35,16/10/22,Sport,1-1,Vasco
 35,16/10/22,Grêmio,1-1,Bahia
 36,18/10/22,Brusque,2-2,Novorizontino
 36,18/10/22,Cruzeiro,0-1,Guarani
@@ -356,17 +356,17 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 36,21/10/22,CRB,2-1,Operário-PR
 36,22/10/22,Bahia,1-1,Vila Nova
 36,22/10/22,Ituano,1-0,Sampaio Corrêa
-36,22/10/22,Londrina,2-1,Sport Recife
-36,22/10/22,Vasco da Gama,2-1,Criciúma
+36,22/10/22,Londrina,2-1,Sport
+36,22/10/22,Vasco,2-1,Criciúma
 36,23/10/22,Náutico,0-3,Grêmio
 37,25/10/22,Brusque,0-0,CRB
 37,25/10/22,CSA,1-0,Vila Nova
 37,27/10/22,Novorizontino,1-4,Cruzeiro
-37,27/10/22,Vasco da Gama,2-3,Sampaio Corrêa
+37,27/10/22,Vasco,2-3,Sampaio Corrêa
 37,28/10/22,Bahia,1-1,Guarani
 37,28/10/22,Londrina,0-2,Ituano
 37,28/10/22,Tombense,2-2,Grêmio
-37,28/10/22,Sport Recife,5-1,Operário-PR
+37,28/10/22,Sport,5-1,Operário-PR
 37,28/10/22,Ponte Preta,1-1,Criciúma
 37,29/10/22,Chapecoense,1-0,Náutico
 38,03/11/22,Grêmio,3-0,Brusque
@@ -375,7 +375,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 38,05/11/22,Sampaio Corrêa,2-1,Londrina
 38,06/11/22,Guarani,1-0,Chapecoense
 38,06/11/22,Operário-PR,0-3,Novorizontino
-38,06/11/22,Ituano,0-1,Vasco da Gama
+38,06/11/22,Ituano,0-1,Vasco
 38,06/11/22,CRB,1-2,Bahia
-38,06/11/22,Vila Nova,0-0,Sport Recife
+38,06/11/22,Vila Nova,0-0,Sport
 38,06/11/22,Cruzeiro,3-2,CSA

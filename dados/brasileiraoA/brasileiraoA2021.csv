@@ -1,59 +1,59 @@
-﻿Rodada,Data,Time da Casa,Placar,Time Visitante
-1,26/01/21,Palmeiras,1-1,Vasco da Gama
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,26/01/21,Palmeiras,1-1,Vasco
 1,29/05/21,Cuiaba,2-2,Juventude
 1,29/05/21,Bahia,3-0,Santos
 1,29/05/21,São Paulo,0-0,Fluminense
 1,30/05/21,Atlético-MG,1-2,Fortaleza
 1,30/05/21,Flamengo,1-0,Palmeiras
-1,30/05/21,Ceará SC,3-2,Grêmio
-1,30/05/21,Corinthians,0-1,Atletico-GO
+1,30/05/21,Ceará,3-2,Grêmio
+1,30/05/21,Corinthians,0-1,Atlético-GO
 1,30/05/21,Chapecoense,0-3,Bragantino
 1,30/05/21,Athletico-PR,1-0,América-MG
-1,30/05/21,Internacional,2-2,Sport Recife
-2,05/06/21,Atletico-GO,2-0,São Paulo
-2,05/06/21,Santos,3-1,Ceará SC
+1,30/05/21,Internacional,2-2,Sport
+2,05/06/21,Atlético-GO,2-0,São Paulo
+2,05/06/21,Santos,3-1,Ceará
 2,05/06/21,Bragantino,3-3,Bahia
 2,06/06/21,Fluminense,1-0,Cuiaba
 2,06/06/21,América-MG,0-1,Corinthians
 2,06/06/21,Fortaleza,5-1,Internacional
 2,06/06/21,Juventude,0-3,Athletico-PR
 2,06/06/21,Palmeiras,3-1,Chapecoense
-2,06/06/21,Sport Recife,0-1,Atlético-MG
+2,06/06/21,Sport,0-1,Atlético-MG
 3,12/06/21,Santos,0-0,Juventude
 3,12/06/21,Palmeiras,1-1,Corinthians
 3,13/06/21,Atlético-MG,1-0,São Paulo
 3,13/06/21,Grêmio,0-1,Athletico-PR
 3,13/06/21,Flamengo,2-0,América-MG
 3,13/06/21,Bahia,0-1,Internacional
-3,13/06/21,Fortaleza,1-0,Sport Recife
+3,13/06/21,Fortaleza,1-0,Sport
 3,13/06/21,Bragantino,2-2,Fluminense
-3,13/06/21,Chapecoense,0-0,Ceará SC
+3,13/06/21,Chapecoense,0-0,Ceará
 4,16/06/21,Internacional,0-1,Atlético-MG
 4,16/06/21,São Paulo,1-1,Chapecoense
 4,16/06/21,Corinthians,1-2,Bragantino
 4,16/06/21,Juventude,0-3,Palmeiras
 4,17/06/21,América-MG,0-0,Cuiaba
-4,17/06/21,Ceará SC,1-2,Bahia
-4,17/06/21,Sport Recife,1-0,Grêmio
-4,17/06/21,Atletico-GO,0-0,Fortaleza
+4,17/06/21,Ceará,1-2,Bahia
+4,17/06/21,Sport,1-0,Grêmio
+4,17/06/21,Atlético-GO,0-0,Fortaleza
 4,17/06/21,Fluminense,1-0,Santos
 5,19/06/21,Flamengo,2-3,Bragantino
 5,20/06/21,Palmeiras,2-1,América-MG
 5,20/06/21,Bahia,0-0,Corinthians
-5,20/06/21,Internacional,1-1,Ceará SC
+5,20/06/21,Internacional,1-1,Ceará
 5,20/06/21,Fortaleza,1-1,Fluminense
-5,20/06/21,Athletico-PR,2-1,Atletico-GO
+5,20/06/21,Athletico-PR,2-1,Atlético-GO
 5,20/06/21,Santos,2-0,São Paulo
-5,20/06/21,Juventude,1-0,Sport Recife
+5,20/06/21,Juventude,1-0,Sport
 5,21/06/21,Atlético-MG,1-1,Chapecoense
-6,23/06/21,Atletico-GO,1-0,Fluminense
+6,23/06/21,Atlético-GO,1-0,Fluminense
 6,23/06/21,São Paulo,2-2,Cuiaba
 6,23/06/21,Flamengo,2-1,Fortaleza
 6,23/06/21,Bragantino,3-1,Palmeiras
 6,24/06/21,América-MG,1-1,Juventude
 6,24/06/21,Chapecoense,1-2,Internacional
-6,24/06/21,Corinthians,2-1,Sport Recife
-6,24/06/21,Ceará SC,2-1,Atlético-MG
+6,24/06/21,Corinthians,2-1,Sport
+6,24/06/21,Ceará,2-1,Atlético-MG
 6,24/06/21,Bahia,2-1,Athletico-PR
 6,24/06/21,Grêmio,2-2,Santos
 7,27/06/21,Juventude,1-0,Flamengo
@@ -63,68 +63,68 @@
 7,27/06/21,Grêmio,0-0,Fortaleza
 7,27/06/21,Santos,2-0,Atlético-MG
 7,27/06/21,América-MG,1-1,Internacional
-7,27/06/21,Sport Recife,0-0,Cuiaba
-7,27/06/21,Ceará SC,1-1,São Paulo
-7,28/06/21,Atletico-GO,0-1,Bragantino
+7,27/06/21,Sport,0-0,Cuiaba
+7,27/06/21,Ceará,1-1,São Paulo
+7,28/06/21,Atlético-GO,0-1,Bragantino
 8,30/06/21,Fluminense,1-4,Athletico-PR
 8,30/06/21,Fortaleza,3-2,Chapecoense
 8,30/06/21,Internacional,1-2,Palmeiras
 8,30/06/21,Bahia,3-4,América-MG
-8,30/06/21,Santos,0-0,Sport Recife
+8,30/06/21,Santos,0-0,Sport
 8,30/06/21,Corinthians,0-0,São Paulo
 8,30/06/21,Juventude,2-0,Grêmio
-8,01/07/21,Bragantino,0-0,Ceará SC
-8,01/07/21,Atlético-MG,4-1,Atletico-GO
+8,01/07/21,Bragantino,0-0,Ceará
+8,01/07/21,Atlético-MG,4-1,Atlético-GO
 8,01/07/21,Cuiaba,0-2,Flamengo
 9,03/07/21,Athletico-PR,2-1,Fortaleza
 9,03/07/21,América-MG,2-0,Santos
 9,03/07/21,Corinthians,1-1,Internacional
 9,04/07/21,Chapecoense,0-2,Bahia
 9,04/07/21,Flamengo,0-1,Fluminense
-9,04/07/21,Sport Recife,0-1,Palmeiras
-9,04/07/21,Ceará SC,2-0,Juventude
+9,04/07/21,Sport,0-1,Palmeiras
+9,04/07/21,Ceará,2-0,Juventude
 9,04/07/21,São Paulo,1-2,Bragantino
 9,04/07/21,Cuiaba,0-1,Atlético-MG
-9,04/07/21,Grêmio,0-1,Atletico-GO
+9,04/07/21,Grêmio,0-1,Atlético-GO
 10,06/07/21,Santos,2-1,Athletico-PR
 10,07/07/21,Bahia,1-0,Juventude
 10,07/07/21,Bragantino,1-1,Cuiaba
 10,07/07/21,Fortaleza,4-0,América-MG
 10,07/07/21,Palmeiras,2-0,Grêmio
 10,07/07/21,Atlético-MG,2-1,Flamengo
-10,07/07/21,Atletico-GO,1-1,Sport Recife
+10,07/07/21,Atlético-GO,1-1,Sport
 10,07/07/21,Internacional,0-2,São Paulo
-10,07/07/21,Fluminense,0-0,Ceará SC
+10,07/07/21,Fluminense,0-0,Ceará
 10,08/07/21,Chapecoense,0-1,Corinthians
 11,10/07/21,Palmeiras,3-2,Santos
 11,10/07/21,Grêmio,0-0,Internacional
 11,10/07/21,Athletico-PR,2-2,Bragantino
-11,10/07/21,Sport Recife,1-2,Fluminense
+11,10/07/21,Sport,1-2,Fluminense
 11,10/07/21,São Paulo,1-0,Bahia
 11,10/07/21,América-MG,0-1,Atlético-MG
-11,11/07/21,Juventude,1-1,Atletico-GO
-11,11/07/21,Cuiaba,2-2,Ceará SC
+11,11/07/21,Juventude,1-1,Atlético-GO
+11,11/07/21,Cuiaba,2-2,Ceará
 11,11/07/21,Flamengo,2-1,Chapecoense
 11,11/07/21,Fortaleza,1-0,Corinthians
-12,17/07/21,Ceará SC,1-0,Athletico-PR
+12,17/07/21,Ceará,1-0,Athletico-PR
 12,17/07/21,São Paulo,0-1,Fortaleza
 12,17/07/21,Corinthians,1-2,Atlético-MG
 12,17/07/21,Fluminense,0-1,Grêmio
 12,18/07/21,Chapecoense,2-3,Cuiaba
-12,18/07/21,Atletico-GO,0-3,Palmeiras
+12,18/07/21,Atlético-GO,0-3,Palmeiras
 12,18/07/21,Bahia,0-5,Flamengo
 12,18/07/21,Internacional,1-0,Juventude
 12,18/07/21,Bragantino,2-2,Santos
-12,19/07/21,América-MG,0-1,Sport Recife
-3,21/07/21,Cuiaba,2-1,Atletico-GO
+12,19/07/21,América-MG,0-1,Sport
+3,21/07/21,Cuiaba,2-1,Atlético-GO
 13,24/07/21,Grêmio,1-1,América-MG
 13,24/07/21,Palmeiras,1-0,Fluminense
 13,25/07/21,Atlético-MG,3-0,Bahia
 13,25/07/21,Fortaleza,1-0,Bragantino
 13,25/07/21,Flamengo,5-1,São Paulo
-13,25/07/21,Santos,0-1,Atletico-GO
+13,25/07/21,Santos,0-1,Atlético-GO
 13,25/07/21,Athletico-PR,2-1,Internacional
-13,25/07/21,Sport Recife,0-0,Ceará SC
+13,25/07/21,Sport,0-0,Ceará
 13,26/07/21,Juventude,1-0,Chapecoense
 13,26/07/21,Cuiaba,1-2,Corinthians
 14,31/07/21,São Paulo,0-0,Palmeiras
@@ -133,108 +133,108 @@
 14,01/08/21,Corinthians,1-3,Flamengo
 14,01/08/21,Atlético-MG,2-0,Athletico-PR
 14,01/08/21,Chapecoense,0-1,Santos
-14,01/08/21,Bahia,0-1,Sport Recife
-14,01/08/21,Atletico-GO,1-1,América-MG
-14,01/08/21,Ceará SC,3-1,Fortaleza
-15,06/08/21,Sport Recife,0-0,Bragantino
+14,01/08/21,Bahia,0-1,Sport
+14,01/08/21,Atlético-GO,1-1,América-MG
+14,01/08/21,Ceará,3-1,Fortaleza
+15,06/08/21,Sport,0-0,Bragantino
 15,07/08/21,Athletico-PR,1-2,São Paulo
 15,07/08/21,Palmeiras,2-3,Fortaleza
 15,07/08/21,Cuiaba,1-1,Bahia
 15,08/08/21,Juventude,1-2,Atlético-MG
 15,08/08/21,América-MG,1-0,Fluminense
 15,08/08/21,Santos,0-0,Corinthians
-15,08/08/21,Ceará SC,0-0,Atletico-GO
+15,08/08/21,Ceará,0-0,Atlético-GO
 15,08/08/21,Flamengo,0-4,Internacional
 15,09/08/21,Grêmio,2-1,Chapecoense
 16,14/08/21,Bragantino,1-2,Juventude
 16,14/08/21,Atlético-MG,2-0,Palmeiras
 16,14/08/21,São Paulo,2-1,Grêmio
-16,15/08/21,Flamengo,2-0,Sport Recife
-16,15/08/21,Corinthians,3-1,Ceará SC
-16,15/08/21,Bahia,1-2,Atletico-GO
+16,15/08/21,Flamengo,2-0,Sport
+16,15/08/21,Corinthians,3-1,Ceará
+16,15/08/21,Bahia,1-2,Atlético-GO
 16,15/08/21,Cuiaba,1-0,Athletico-PR
 16,15/08/21,Fortaleza,1-1,Santos
 16,15/08/21,Internacional,4-2,Fluminense
 16,16/08/21,Chapecoense,1-1,América-MG
 5,18/08/21,Cuiaba,0-1,Grêmio
-17,21/08/21,Atletico-GO,1-1,Chapecoense
+17,21/08/21,Atlético-GO,1-1,Chapecoense
 17,21/08/21,Grêmio,2-0,Bahia
 17,21/08/21,Juventude,1-1,Fortaleza
 17,22/08/21,Palmeiras,0-2,Cuiaba
-17,22/08/21,Ceará SC,1-1,Flamengo
+17,22/08/21,Ceará,1-1,Flamengo
 17,22/08/21,Athletico-PR,0-1,Corinthians
 17,22/08/21,Santos,2-2,Internacional
-17,22/08/21,Sport Recife,0-1,São Paulo
+17,22/08/21,Sport,0-1,São Paulo
 17,23/08/21,América-MG,0-2,Bragantino
 17,23/08/21,Fluminense,1-1,Atlético-MG
-18,28/08/21,Sport Recife,0-0,Chapecoense
+18,28/08/21,Sport,0-0,Chapecoense
 18,28/08/21,Santos,0-4,Flamengo
 18,28/08/21,Grêmio,0-1,Corinthians
 18,28/08/21,Palmeiras,2-1,Athletico-PR
-18,29/08/21,América-MG,2-0,Ceará SC
+18,29/08/21,América-MG,2-0,Ceará
 18,29/08/21,Juventude,1-1,São Paulo
-18,29/08/21,Atletico-GO,0-0,Internacional
+18,29/08/21,Atlético-GO,0-0,Internacional
 18,29/08/21,Bragantino,1-1,Atlético-MG
 18,30/08/21,Fluminense,2-0,Bahia
 18,30/08/21,Fortaleza,0-0,Cuiaba
 14,02/09/21,Fluminense,1-1,Juventude
 19,04/09/21,Bahia,4-2,Fortaleza
 19,04/09/21,Cuiaba,2-1,Santos
-19,05/09/21,Athletico-PR,0-0,Sport Recife
+19,05/09/21,Athletico-PR,0-0,Sport
 19,07/09/21,Corinthians,1-1,Juventude
 19,07/09/21,Chapecoense,1-2,Fluminense
 20,11/09/21,América-MG,2-0,Athletico-PR
 20,11/09/21,Juventude,1-2,Cuiaba
 20,11/09/21,Bragantino,1-2,Chapecoense
 20,11/09/21,Santos,0-0,Bahia
-20,12/09/21,Grêmio,2-0,Ceará SC
+20,12/09/21,Grêmio,2-0,Ceará
 20,12/09/21,Fortaleza,0-2,Atlético-MG
 20,12/09/21,Palmeiras,1-3,Flamengo
-20,12/09/21,Atletico-GO,1-1,Corinthians
+20,12/09/21,Atlético-GO,1-1,Corinthians
 20,12/09/21,Fluminense,2-1,São Paulo
-20,13/09/21,Sport Recife,0-1,Internacional
+20,13/09/21,Sport,0-1,Internacional
 21,18/09/21,Chapecoense,0-2,Palmeiras
 21,18/09/21,Athletico-PR,2-1,Juventude
-21,18/09/21,Atlético-MG,3-0,Sport Recife
+21,18/09/21,Atlético-MG,3-0,Sport
 21,18/09/21,Bahia,1-1,Bragantino
-21,18/09/21,Ceará SC,0-0,Santos
+21,18/09/21,Ceará,0-0,Santos
 21,19/09/21,Internacional,1-0,Fortaleza
-21,19/09/21,São Paulo,2-1,Atletico-GO
+21,19/09/21,São Paulo,2-1,Atlético-GO
 21,19/09/21,Corinthians,1-1,América-MG
 21,19/09/21,Flamengo,0-1,Grêmio
 21,20/09/21,Cuiaba,2-2,Fluminense
 19,22/09/21,São Paulo,0-0,América-MG
-22,25/09/21,Ceará SC,1-0,Chapecoense
+22,25/09/21,Ceará,1-0,Chapecoense
 22,25/09/21,Corinthians,2-1,Palmeiras
 22,25/09/21,São Paulo,0-0,Atlético-MG
 22,26/09/21,América-MG,1-1,Flamengo
 22,26/09/21,Internacional,2-0,Bahia
 22,26/09/21,Fluminense,2-1,Bragantino
 22,26/09/21,Juventude,3-0,Santos
-22,26/09/21,Sport Recife,0-1,Fortaleza
+22,26/09/21,Sport,0-1,Fortaleza
 22,26/09/21,Athletico-PR,4-2,Grêmio
-22,26/09/21,Atletico-GO,0-0,Cuiaba
+22,26/09/21,Atlético-GO,0-0,Cuiaba
 23,02/10/21,Cuiaba,0-2,América-MG
-23,02/10/21,Fortaleza,0-3,Atletico-GO
+23,02/10/21,Fortaleza,0-3,Atlético-GO
 23,02/10/21,Bragantino,2-2,Corinthians
 23,02/10/21,Atlético-MG,1-0,Internacional
 23,03/10/21,Flamengo,3-0,Athletico-PR
 23,03/10/21,Chapecoense,1-1,São Paulo
 23,03/10/21,Palmeiras,1-1,Juventude
-23,03/10/21,Grêmio,1-2,Sport Recife
+23,03/10/21,Grêmio,1-2,Sport
 24,05/10/21,Corinthians,3-1,Bahia
 24,06/10/21,Chapecoense,2-2,Atlético-MG
-24,06/10/21,Atletico-GO,0-2,Athletico-PR
-24,06/10/21,Sport Recife,3-1,Juventude
-24,06/10/21,Ceará SC,0-0,Internacional
+24,06/10/21,Atlético-GO,0-2,Athletico-PR
+24,06/10/21,Sport,3-1,Juventude
+24,06/10/21,Ceará,0-0,Internacional
 24,06/10/21,Bragantino,1-1,Flamengo
 24,06/10/21,Fluminense,0-2,Fortaleza
 24,06/10/21,América-MG,2-1,Palmeiras
 24,06/10/21,Grêmio,2-2,Cuiaba
 24,07/10/21,São Paulo,1-1,Santos
-25,09/10/21,Fluminense,0-0,Atletico-GO
-25,09/10/21,Atlético-MG,3-1,Ceará SC
-25,09/10/21,Sport Recife,1-0,Corinthians
+25,09/10/21,Fluminense,0-0,Atlético-GO
+25,09/10/21,Atlético-MG,3-1,Ceará
+25,09/10/21,Sport,1-0,Corinthians
 25,09/10/21,Fortaleza,0-3,Flamengo
 25,09/10/21,Athletico-PR,0-2,Bahia
 25,09/10/21,Palmeiras,2-4,Bragantino
@@ -242,7 +242,7 @@
 25,10/10/21,Internacional,5-2,Chapecoense
 25,10/10/21,Santos,1-0,Grêmio
 25,11/10/21,Cuiaba,0-0,São Paulo
-26,12/10/21,Bragantino,1-0,Atletico-GO
+26,12/10/21,Bragantino,1-0,Atlético-GO
 26,12/10/21,Bahia,0-0,Palmeiras
 26,13/10/21,Atlético-MG,3-1,Santos
 26,13/10/21,Chapecoense,1-1,Athletico-PR
@@ -250,133 +250,133 @@
 26,13/10/21,Fortaleza,1-0,Grêmio
 26,13/10/21,Corinthians,1-0,Fluminense
 26,13/10/21,Internacional,3-1,América-MG
-26,14/10/21,São Paulo,1-1,Ceará SC
-26,14/10/21,Cuiaba,1-0,Sport Recife
+26,14/10/21,São Paulo,1-1,Ceará
+26,14/10/21,Cuiaba,1-0,Sport
 27,16/10/21,Chapecoense,1-2,Fortaleza
 27,16/10/21,América-MG,0-0,Bahia
 27,17/10/21,Athletico-PR,0-1,Fluminense
 27,17/10/21,Palmeiras,1-0,Internacional
-27,17/10/21,Ceará SC,2-2,Bragantino
+27,17/10/21,Ceará,2-2,Bragantino
 27,17/10/21,Grêmio,3-2,Juventude
-27,17/10/21,Atletico-GO,2-1,Atlético-MG
-27,17/10/21,Sport Recife,0-0,Santos
+27,17/10/21,Atlético-GO,2-1,Atlético-MG
+27,17/10/21,Sport,0-0,Santos
 27,17/10/21,Flamengo,0-0,Cuiaba
 27,18/10/21,São Paulo,1-0,Corinthians
-19,20/10/21,Ceará SC,1-2,Palmeiras
+19,20/10/21,Ceará,1-2,Palmeiras
 19,21/10/21,Internacional,1-1,Bragantino
 28,23/10/21,Santos,0-2,América-MG
-28,23/10/21,Juventude,0-0,Ceará SC
+28,23/10/21,Juventude,0-0,Ceará
 28,23/10/21,Fluminense,3-1,Flamengo
 28,23/10/21,Fortaleza,3-0,Athletico-PR
 28,24/10/21,Internacional,2-2,Corinthians
 28,24/10/21,Atlético-MG,2-1,Cuiaba
 28,24/10/21,Bragantino,1-0,São Paulo
 28,24/10/21,Bahia,3-0,Chapecoense
-28,25/10/21,Atletico-GO,2-0,Grêmio
-28,25/10/21,Palmeiras,2-1,Sport Recife
+28,25/10/21,Atlético-GO,2-0,Grêmio
+28,25/10/21,Palmeiras,2-1,Sport
 23,27/10/21,Santos,2-0,Fluminense
-23,27/10/21,Bahia,1-1,Ceará SC
-34,28/10/21,Bragantino,3-0,Sport Recife
+23,27/10/21,Bahia,1-1,Ceará
+34,28/10/21,Bragantino,3-0,Sport
 29,30/10/21,Athletico-PR,0-1,Santos
 29,30/10/21,Flamengo,1-0,Atlético-MG
 29,30/10/21,Juventude,0-0,Bahia
 29,30/10/21,América-MG,2-1,Fortaleza
 29,31/10/21,Grêmio,1-3,Palmeiras
-29,31/10/21,Ceará SC,1-0,Fluminense
+29,31/10/21,Ceará,1-0,Fluminense
 29,31/10/21,São Paulo,1-0,Internacional
-29,31/10/21,Sport Recife,2-0,Atletico-GO
+29,31/10/21,Sport,2-0,Atlético-GO
 29,01/11/21,Cuiaba,1-0,Bragantino
 29,01/11/21,Corinthians,1-0,Chapecoense
 4,02/11/21,Athletico-PR,2-2,Flamengo
 19,03/11/21,Atlético-MG,2-1,Grêmio
 31,04/11/21,Cuiaba,0-0,Chapecoense
-19,05/11/21,Flamengo,2-0,Atletico-GO
+19,05/11/21,Flamengo,2-0,Atlético-GO
 30,06/11/21,Corinthians,1-0,Fortaleza
 30,06/11/21,Internacional,1-0,Grêmio
-30,06/11/21,Fluminense,1-0,Sport Recife
+30,06/11/21,Fluminense,1-0,Sport
 30,07/11/21,Bragantino,0-2,Athletico-PR
 30,07/11/21,Atlético-MG,1-0,América-MG
 30,07/11/21,Santos,0-2,Palmeiras
 30,07/11/21,Bahia,1-0,São Paulo
-30,07/11/21,Ceará SC,1-0,Cuiaba
+30,07/11/21,Ceará,1-0,Cuiaba
 30,08/11/21,Chapecoense,2-2,Flamengo
 31,09/11/21,Grêmio,1-0,Fluminense
-31,10/11/21,Athletico-PR,2-1,Ceará SC
+31,10/11/21,Athletico-PR,2-1,Ceará
 31,10/11/21,Atlético-MG,3-0,Corinthians
 31,10/11/21,Santos,2-0,Bragantino
-31,10/11/21,Palmeiras,4-0,Atletico-GO
+31,10/11/21,Palmeiras,4-0,Atlético-GO
 31,10/11/21,Fortaleza,1-1,São Paulo
-31,10/11/21,Sport Recife,2-3,América-MG
+31,10/11/21,Sport,2-3,América-MG
 31,10/11/21,Juventude,2-1,Internacional
 31,11/11/21,Flamengo,3-0,Bahia
-32,13/11/21,Atletico-GO,0-0,Santos
+32,13/11/21,Atlético-GO,0-0,Santos
 32,13/11/21,América-MG,3-1,Grêmio
 32,13/11/21,Bragantino,3-0,Fortaleza
 32,13/11/21,Internacional,2-1,Athletico-PR
 32,13/11/21,Corinthians,3-2,Cuiaba
 32,14/11/21,São Paulo,0-4,Flamengo
 32,14/11/21,Fluminense,2-1,Palmeiras
-32,14/11/21,Ceará SC,2-1,Sport Recife
+32,14/11/21,Ceará,2-1,Sport
 32,14/11/21,Chapecoense,0-2,Juventude
 33,16/11/21,Athletico-PR,0-1,Atlético-MG
 33,16/11/21,Grêmio,3-0,Bragantino
-33,17/11/21,América-MG,0-0,Atletico-GO
+33,17/11/21,América-MG,0-0,Atlético-GO
 33,17/11/21,Santos,2-0,Chapecoense
 33,17/11/21,Cuiaba,1-0,Internacional
-33,17/11/21,Fortaleza,0-4,Ceará SC
+33,17/11/21,Fortaleza,0-4,Ceará
 33,17/11/21,Palmeiras,0-2,São Paulo
 33,17/11/21,Juventude,1-0,Fluminense
 33,17/11/21,Flamengo,1-0,Corinthians
-33,18/11/21,Sport Recife,1-0,Bahia
+33,18/11/21,Sport,1-0,Bahia
 34,20/11/21,Atlético-MG,2-0,Juventude
 34,20/11/21,Fortaleza,1-0,Palmeiras
 34,20/11/21,Chapecoense,1-3,Grêmio
-34,20/11/21,Atletico-GO,1-1,Ceará SC
+34,20/11/21,Atlético-GO,1-1,Ceará
 34,20/11/21,Internacional,1-2,Flamengo
 34,21/11/21,Corinthians,2-0,Santos
 34,21/11/21,Fluminense,2-0,América-MG
 34,21/11/21,Bahia,0-0,Cuiaba
 2,23/11/21,Grêmio,2-2,Flamengo
-30,23/11/21,Atletico-GO,1-1,Juventude
+30,23/11/21,Atlético-GO,1-1,Juventude
 35,23/11/21,Palmeiras,2-2,Atlético-MG
 34,24/11/21,São Paulo,0-0,Athletico-PR
 35,24/11/21,Fluminense,1-0,Internacional
 35,25/11/21,Santos,2-0,Fortaleza
-35,25/11/21,Ceará SC,2-1,Corinthians
+35,25/11/21,Ceará,2-1,Corinthians
 36,26/11/21,Bahia,3-1,Grêmio
 36,27/11/21,Bragantino,1-1,América-MG
-36,27/11/21,São Paulo,2-0,Sport Recife
+36,27/11/21,São Paulo,2-0,Sport
 36,28/11/21,Corinthians,1-0,Athletico-PR
 36,28/11/21,Atlético-MG,2-1,Fluminense
 36,28/11/21,Internacional,1-1,Santos
-35,29/11/21,Atletico-GO,2-1,Bahia
+35,29/11/21,Atlético-GO,2-1,Bahia
 35,30/11/21,Juventude,1-0,Bragantino
 35,30/11/21,América-MG,3-0,Chapecoense
-36,30/11/21,Flamengo,2-1,Ceará SC
+36,30/11/21,Flamengo,2-1,Ceará
 36,30/11/21,Cuiaba,1-3,Palmeiras
 32,02/12/21,Bahia,2-3,Atlético-MG
 35,02/12/21,Grêmio,3-0,São Paulo
 35,03/12/21,Athletico-PR,1-0,Cuiaba
-35,03/12/21,Sport Recife,1-1,Flamengo
-36,03/12/21,Chapecoense,0-1,Atletico-GO
+35,03/12/21,Sport,1-1,Flamengo
+36,03/12/21,Chapecoense,0-1,Atlético-GO
 36,03/12/21,Fortaleza,1-0,Juventude
 37,05/12/21,Bahia,2-0,Fluminense
 37,05/12/21,Corinthians,1-1,Grêmio
 37,05/12/21,Atlético-MG,4-3,Bragantino
-37,05/12/21,Ceará SC,0-0,América-MG
+37,05/12/21,Ceará,0-0,América-MG
 37,06/12/21,São Paulo,3-1,Juventude
 37,06/12/21,Athletico-PR,0-0,Palmeiras
 37,06/12/21,Cuiaba,1-0,Fortaleza
-37,06/12/21,Internacional,1-2,Atletico-GO
+37,06/12/21,Internacional,1-2,Atlético-GO
 37,06/12/21,Flamengo,0-1,Santos
-37,06/12/21,Chapecoense,0-1,Sport Recife
+37,06/12/21,Chapecoense,0-1,Sport
 38,09/12/21,Fortaleza,2-1,Bahia
-38,09/12/21,Atletico-GO,2-0,Flamengo
-38,09/12/21,Palmeiras,1-0,Ceará SC
+38,09/12/21,Atlético-GO,2-0,Flamengo
+38,09/12/21,Palmeiras,1-0,Ceará
 38,09/12/21,Fluminense,3-0,Chapecoense
 38,09/12/21,América-MG,2-0,São Paulo
 38,09/12/21,Bragantino,1-0,Internacional
-38,09/12/21,Sport Recife,1-1,Athletico-PR
+38,09/12/21,Sport,1-1,Athletico-PR
 38,09/12/21,Juventude,1-0,Corinthians
 38,09/12/21,Grêmio,4-3,Atlético-MG
 38,09/12/21,Santos,1-1,Cuiaba

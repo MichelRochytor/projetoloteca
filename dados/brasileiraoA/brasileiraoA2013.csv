@@ -1,6 +1,6 @@
-﻿Rodada,Data,Time da Casa,Placar,Time Visitante
+Rodada,Data,Time da Casa,Placar,Time Visitante
 1,25/05/13,EC Vitória,2-2,Internacional
-1,25/05/13,Vasco da Gama,1-0,Portuguesa
+1,25/05/13,Vasco,1-0,Portuguesa
 1,25/05/13,Corinthians,1-1,Botafogo
 1,26/05/13,Grêmio,2-0,Nautico
 1,26/05/13,Criciúma,3-1,Bahia
@@ -11,7 +11,7 @@
 1,26/05/13,Fluminense,2-1,Athletico-PR
 2,29/05/13,Athletico-PR,2-2,Cruzeiro
 2,29/05/13,Botafogo,2-1,Santos
-2,29/05/13,São Paulo,5-1,Vasco da Gama
+2,29/05/13,São Paulo,5-1,Vasco
 2,29/05/13,Flamengo,0-2,Ponte Preta
 2,29/05/13,Bahia,0-0,Coritiba
 2,29/05/13,Nautico,0-3,EC Vitória
@@ -20,7 +20,7 @@
 3,01/06/13,Athletico-PR,2-2,Flamengo
 3,01/06/13,Santos,1-1,Grêmio
 3,01/06/13,Botafogo,2-1,Cruzeiro
-3,01/06/13,EC Vitória,2-0,Vasco da Gama
+3,01/06/13,EC Vitória,2-0,Vasco
 3,01/06/13,Goiás,1-1,Coritiba
 3,01/06/13,Corinthians,1-0,Ponte Preta
 3,02/06/13,Atlético-MG,0-0,São Paulo
@@ -30,7 +30,7 @@
 4,05/06/13,São Paulo,0-1,Goiás
 4,05/06/13,Portuguesa,1-1,Internacional
 4,05/06/13,Criciúma,3-1,Santos
-4,05/06/13,Vasco da Gama,2-0,Atlético-MG
+4,05/06/13,Vasco,2-0,Atlético-MG
 4,05/06/13,Grêmio,1-0,EC Vitória
 4,05/06/13,Ponte Preta,3-4,Athletico-PR
 4,05/06/13,Flamengo,0-1,Nautico
@@ -40,7 +40,7 @@
 5,08/06/13,Cruzeiro,2-2,Internacional
 5,08/06/13,Criciúma,0-3,Flamengo
 5,08/06/13,Corinthians,0-0,Portuguesa
-5,08/06/13,Vasco da Gama,1-1,Bahia
+5,08/06/13,Vasco,1-1,Bahia
 5,08/06/13,Ponte Preta,0-2,Botafogo
 2,09/06/13,Atlético-MG,2-0,Grêmio
 5,09/06/13,EC Vitória,3-2,Athletico-PR
@@ -55,7 +55,7 @@
 6,06/07/13,Portuguesa,1-1,Cruzeiro
 6,07/07/13,Bahia,0-2,Corinthians
 6,07/07/13,Goiás,1-0,EC Vitória
-6,07/07/13,Internacional,5-3,Vasco da Gama
+6,07/07/13,Internacional,5-3,Vasco
 6,07/07/13,São Paulo,0-2,Santos
 6,07/07/13,Atlético-MG,3-2,Criciúma
 6,07/07/13,Botafogo,1-0,Fluminense
@@ -69,7 +69,7 @@
 7,14/07/13,EC Vitória,3-2,São Paulo
 7,14/07/13,Cruzeiro,3-0,Nautico
 7,14/07/13,Criciúma,0-0,Goiás
-7,14/07/13,Vasco da Gama,0-1,Flamengo
+7,14/07/13,Vasco,0-1,Flamengo
 8,20/07/13,Botafogo,2-0,Nautico
 8,20/07/13,Criciúma,2-1,Grêmio
 8,20/07/13,São Paulo,0-3,Cruzeiro
@@ -78,9 +78,9 @@
 8,21/07/13,Internacional,1-0,Flamengo
 8,21/07/13,EC Vitória,0-0,Bahia
 8,21/07/13,Goiás,2-1,Portuguesa
-8,21/07/13,Fluminense,1-3,Vasco da Gama
+8,21/07/13,Fluminense,1-3,Vasco
 12,24/07/13,São Paulo,0-1,Internacional
-9,27/07/13,Vasco da Gama,3-2,Criciúma
+9,27/07/13,Vasco,3-2,Criciúma
 9,27/07/13,Portuguesa,2-3,Athletico-PR
 9,27/07/13,Ponte Preta,1-0,Santos
 9,28/07/13,Grêmio,2-0,Fluminense
@@ -97,14 +97,14 @@
 10,31/07/13,Bahia,3-0,Flamengo
 10,31/07/13,Corinthians,2-0,Grêmio
 10,01/08/13,Botafogo,2-0,EC Vitória
-10,01/08/13,Goiás,1-1,Vasco da Gama
+10,01/08/13,Goiás,1-1,Vasco
 11,03/08/13,Cruzeiro,1-0,Coritiba
 11,04/08/13,Flamengo,3-0,Atlético-MG
 11,04/08/13,Grêmio,1-1,Internacional
 11,04/08/13,Ponte Preta,1-1,Fluminense
 11,04/08/13,Athletico-PR,2-0,Goiás
 11,04/08/13,Criciúma,0-2,Corinthians
-11,04/08/13,Vasco da Gama,2-3,Botafogo
+11,04/08/13,Vasco,2-3,Botafogo
 11,04/08/13,EC Vitória,2-1,Portuguesa
 12,07/08/13,EC Vitória,1-1,Fluminense
 12,07/08/13,Criciúma,1-2,Cruzeiro
@@ -113,13 +113,13 @@
 12,07/08/13,Atlético-MG,2-2,Botafogo
 12,07/08/13,Goiás,2-1,Nautico
 12,07/08/13,Santos,1-1,Corinthians
-12,08/08/13,Vasco da Gama,1-1,Ponte Preta
+12,08/08/13,Vasco,1-1,Ponte Preta
 12,08/08/13,Grêmio,0-1,Coritiba
 13,10/08/13,Nautico,0-0,Atlético-MG
 13,10/08/13,Botafogo,1-1,Goiás
 13,11/08/13,Fluminense,2-3,Flamengo
 13,11/08/13,Corinthians,2-0,EC Vitória
-13,11/08/13,Coritiba,0-1,Vasco da Gama
+13,11/08/13,Coritiba,0-1,Vasco
 13,11/08/13,Cruzeiro,0-0,Santos
 13,11/08/13,Internacional,2-2,Athletico-PR
 13,11/08/13,Ponte Preta,3-1,Criciúma
@@ -127,7 +127,7 @@
 13,11/08/13,Bahia,0-3,Grêmio
 14,14/08/13,Atlético-MG,2-0,Bahia
 14,14/08/13,Criciúma,3-0,Nautico
-14,14/08/13,Santos,1-1,Vasco da Gama
+14,14/08/13,Santos,1-1,Vasco
 14,14/08/13,EC Vitória,3-1,Ponte Preta
 14,14/08/13,Coritiba,1-1,Portuguesa
 14,14/08/13,Grêmio,3-1,Cruzeiro
@@ -137,7 +137,7 @@
 14,15/08/13,Botafogo,3-3,Internacional
 15,17/08/13,Nautico,0-1,Fluminense
 15,17/08/13,Cruzeiro,5-1,EC Vitória
-15,17/08/13,Vasco da Gama,2-3,Grêmio
+15,17/08/13,Vasco,2-3,Grêmio
 15,18/08/13,Portuguesa,1-3,Botafogo
 15,18/08/13,Ponte Preta,0-1,Goiás
 15,18/08/13,Flamengo,0-0,São Paulo
@@ -149,7 +149,7 @@
 16,24/08/13,Flamengo,0-1,Grêmio
 16,24/08/13,Ponte Preta,0-2,Cruzeiro
 16,24/08/13,Criciúma,2-1,Coritiba
-16,25/08/13,Vasco da Gama,1-1,Corinthians
+16,25/08/13,Vasco,1-1,Corinthians
 16,25/08/13,Atlético-MG,2-1,Portuguesa
 16,25/08/13,Bahia,2-0,Nautico
 16,25/08/13,São Paulo,2-1,Fluminense
@@ -164,7 +164,7 @@
 17,01/09/13,Botafogo,0-0,São Paulo
 17,01/09/13,Corinthians,4-0,Flamengo
 17,01/09/13,Coritiba,0-0,Internacional
-17,01/09/13,Cruzeiro,5-3,Vasco da Gama
+17,01/09/13,Cruzeiro,5-3,Vasco
 10,03/09/13,Nautico,0-1,São Paulo
 18,03/09/13,Goiás,2-0,Grêmio
 18,04/09/13,Flamengo,2-1,EC Vitória
@@ -174,7 +174,7 @@
 18,04/09/13,Atlético-MG,2-2,Fluminense
 18,04/09/13,Bahia,1-3,Cruzeiro
 18,05/09/13,Botafogo,3-1,Coritiba
-18,05/09/13,Nautico,0-3,Vasco da Gama
+18,05/09/13,Nautico,0-3,Vasco
 18,05/09/13,São Paulo,1-2,Criciúma
 19,07/09/13,EC Vitória,1-1,Atlético-MG
 19,07/09/13,Ponte Preta,1-3,Internacional
@@ -185,14 +185,14 @@
 19,08/09/13,Corinthians,0-0,Nautico
 19,08/09/13,Coritiba,2-0,São Paulo
 19,08/09/13,Criciúma,1-2,Botafogo
-19,08/09/13,Vasco da Gama,0-0,Athletico-PR
+19,08/09/13,Vasco,0-0,Athletico-PR
 10,10/09/13,Internacional,1-2,Santos
 20,11/09/13,Athletico-PR,1-1,Fluminense
 20,11/09/13,Goiás,1-2,Cruzeiro
 20,11/09/13,Bahia,2-2,Criciúma
 20,11/09/13,Nautico,0-2,Grêmio
 20,11/09/13,Botafogo,1-0,Corinthians
-20,11/09/13,Portuguesa,2-0,Vasco da Gama
+20,11/09/13,Portuguesa,2-0,Vasco
 20,12/09/13,Internacional,2-2,EC Vitória
 20,12/09/13,São Paulo,1-0,Ponte Preta
 20,12/09/13,Flamengo,2-1,Santos
@@ -201,13 +201,13 @@
 21,14/09/13,Fluminense,2-1,Portuguesa
 21,15/09/13,Criciúma,0-1,Internacional
 21,15/09/13,Ponte Preta,1-1,Flamengo
-21,15/09/13,Vasco da Gama,0-2,São Paulo
+21,15/09/13,Vasco,0-2,São Paulo
 21,15/09/13,Corinthians,1-2,Goiás
 21,15/09/13,Coritiba,2-2,Bahia
 21,15/09/13,EC Vitória,2-1,Nautico
 21,15/09/13,Santos,1-2,Botafogo
 21,15/09/13,Grêmio,0-1,Atlético-MG
-22,18/09/13,Vasco da Gama,1-2,EC Vitória
+22,18/09/13,Vasco,1-2,EC Vitória
 22,18/09/13,Grêmio,1-1,Santos
 22,18/09/13,Coritiba,2-2,Goiás
 22,18/09/13,Criciúma,1-2,Fluminense
@@ -226,13 +226,13 @@
 23,22/09/13,Corinthians,0-0,Cruzeiro
 23,22/09/13,Santos,2-1,Criciúma
 23,22/09/13,Athletico-PR,1-0,Ponte Preta
-23,22/09/13,Atlético-MG,2-1,Vasco da Gama
+23,22/09/13,Atlético-MG,2-1,Vasco
 11,25/09/13,Santos,1-1,Nautico
 25,25/09/13,Criciúma,1-1,Atlético-MG
 24,28/09/13,Goiás,1-2,Fluminense
 24,28/09/13,Nautico,3-0,Coritiba
 24,28/09/13,Botafogo,0-1,Ponte Preta
-24,29/09/13,Bahia,0-0,Vasco da Gama
+24,29/09/13,Bahia,0-0,Vasco
 24,29/09/13,Flamengo,4-1,Criciúma
 24,29/09/13,Portuguesa,4-0,Corinthians
 24,29/09/13,São Paulo,0-1,Grêmio
@@ -248,12 +248,12 @@
 25,02/10/13,Corinthians,2-0,Bahia
 25,02/10/13,Santos,3-0,São Paulo
 8,03/10/13,Atlético-MG,4-0,Ponte Preta
-25,03/10/13,Vasco da Gama,3-1,Internacional
+25,03/10/13,Vasco,3-1,Internacional
 26,05/10/13,Botafogo,0-1,Grêmio
 26,05/10/13,São Paulo,3-2,EC Vitória
 26,06/10/13,Atlético-MG,0-0,Corinthians
 26,06/10/13,Athletico-PR,2-1,Coritiba
-26,06/10/13,Flamengo,1-1,Vasco da Gama
+26,06/10/13,Flamengo,1-1,Vasco
 26,06/10/13,Internacional,1-0,Fluminense
 26,06/10/13,Nautico,1-4,Cruzeiro
 26,06/10/13,Bahia,1-1,Ponte Preta
@@ -266,14 +266,14 @@
 27,09/10/13,Corinthians,0-0,Athletico-PR
 27,09/10/13,Cruzeiro,0-2,São Paulo
 27,09/10/13,Nautico,1-3,Botafogo
-27,09/10/13,Vasco da Gama,1-0,Fluminense
+27,09/10/13,Vasco,1-0,Fluminense
 27,10/10/13,Portuguesa,1-2,Goiás
 27,10/10/13,Flamengo,2-1,Internacional
 28,12/10/13,Fluminense,1-1,Grêmio
 28,12/10/13,EC Vitória,2-1,Coritiba
 28,12/10/13,Santos,2-1,Ponte Preta
 28,13/10/13,Atlético-MG,1-0,Cruzeiro
-28,13/10/13,Criciúma,3-2,Vasco da Gama
+28,13/10/13,Criciúma,3-2,Vasco
 28,13/10/13,Internacional,4-1,Nautico
 28,13/10/13,São Paulo,0-0,Corinthians
 28,13/10/13,Athletico-PR,1-0,Portuguesa
@@ -287,7 +287,7 @@
 29,16/10/13,Flamengo,2-1,Bahia
 29,16/10/13,Athletico-PR,1-0,Atlético-MG
 29,16/10/13,Grêmio,1-0,Corinthians
-29,17/10/13,Vasco da Gama,0-2,Goiás
+29,17/10/13,Vasco,0-2,Goiás
 29,17/10/13,EC Vitória,1-0,Botafogo
 30,19/10/13,Fluminense,1-1,Ponte Preta
 30,19/10/13,Nautico,1-5,Santos
@@ -296,7 +296,7 @@
 30,20/10/13,Bahia,0-1,São Paulo
 30,20/10/13,Goiás,3-0,Athletico-PR
 30,20/10/13,Internacional,2-2,Grêmio
-30,20/10/13,Botafogo,2-2,Vasco da Gama
+30,20/10/13,Botafogo,2-2,Vasco
 30,20/10/13,Coritiba,2-1,Cruzeiro
 30,20/10/13,Portuguesa,1-1,EC Vitória
 31,26/10/13,Botafogo,1-0,Atlético-MG
@@ -304,13 +304,13 @@
 31,27/10/13,Bahia,1-1,Athletico-PR
 31,27/10/13,Corinthians,1-1,Santos
 31,27/10/13,Internacional,2-3,São Paulo
-31,27/10/13,Ponte Preta,2-1,Vasco da Gama
+31,27/10/13,Ponte Preta,2-1,Vasco
 31,27/10/13,Portuguesa,0-0,Flamengo
 31,27/10/13,Coritiba,4-0,Grêmio
 31,27/10/13,Fluminense,2-3,EC Vitória
 31,27/10/13,Nautico,0-2,Goiás
 32,02/11/13,São Paulo,2-1,Portuguesa
-32,02/11/13,Vasco da Gama,2-1,Coritiba
+32,02/11/13,Vasco,2-1,Coritiba
 32,02/11/13,Atlético-MG,5-0,Nautico
 32,03/11/13,Goiás,1-0,Botafogo
 32,03/11/13,Grêmio,0-0,Bahia
@@ -328,9 +328,9 @@
 33,10/11/13,Ponte Preta,0-3,EC Vitória
 33,10/11/13,Corinthians,1-0,Fluminense
 33,10/11/13,Nautico,0-1,Criciúma
-33,10/11/13,Vasco da Gama,2-2,Santos
+33,10/11/13,Vasco,2-2,Santos
 34,13/11/13,Goiás,2-0,Ponte Preta
-34,13/11/13,Grêmio,1-0,Vasco da Gama
+34,13/11/13,Grêmio,1-0,Vasco
 34,13/11/13,Botafogo,0-0,Portuguesa
 34,13/11/13,Criciúma,2-1,Athletico-PR
 34,13/11/13,Coritiba,0-1,Corinthians
@@ -341,7 +341,7 @@
 34,14/11/13,Fluminense,2-0,Nautico
 35,16/11/13,Botafogo,4-0,Athletico-PR
 35,16/11/13,Coritiba,1-2,Criciúma
-35,17/11/13,Corinthians,0-0,Vasco da Gama
+35,17/11/13,Corinthians,0-0,Vasco
 35,17/11/13,Cruzeiro,2-2,Ponte Preta
 35,17/11/13,Fluminense,2-1,São Paulo
 35,17/11/13,EC Vitória,2-0,Santos
@@ -350,7 +350,7 @@
 35,17/11/13,Nautico,0-1,Bahia
 35,17/11/13,Portuguesa,2-0,Atlético-MG
 36,23/11/13,Criciúma,1-1,EC Vitória
-36,23/11/13,Vasco da Gama,2-1,Cruzeiro
+36,23/11/13,Vasco,2-1,Cruzeiro
 36,23/11/13,Atlético-MG,4-1,Goiás
 36,24/11/13,Athletico-PR,6-1,Nautico
 36,24/11/13,Flamengo,1-0,Corinthians
@@ -365,14 +365,14 @@
 37,01/12/13,Criciúma,1-0,São Paulo
 37,01/12/13,Cruzeiro,1-2,Bahia
 37,01/12/13,Ponte Preta,0-2,Portuguesa
-37,01/12/13,Vasco da Gama,2-0,Nautico
+37,01/12/13,Vasco,2-0,Nautico
 37,01/12/13,EC Vitória,4-2,Flamengo
 37,01/12/13,Grêmio,1-0,Goiás
 37,01/12/13,Santos,2-1,Athletico-PR
 38,07/12/13,Flamengo,1-1,Cruzeiro
 38,07/12/13,Nautico,1-0,Corinthians
 38,08/12/13,Atlético-MG,2-2,EC Vitória
-38,08/12/13,Athletico-PR,5-1,Vasco da Gama
+38,08/12/13,Athletico-PR,5-1,Vasco
 38,08/12/13,Bahia,1-2,Fluminense
 38,08/12/13,Botafogo,3-0,Criciúma
 38,08/12/13,Goiás,0-3,Santos

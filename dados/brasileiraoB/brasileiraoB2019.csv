@@ -2,7 +2,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,26/04/19,Brasil-RS,0-1,Bragantino
 1,26/04/19,Operário-PR,1-0,América-MG
 1,26/04/19,São Bento,1-3,Atlético-GO
-1,26/04/19,Sport Recife,1-1,Oeste
+1,26/04/19,Sport,1-1,Oeste
 1,27/04/19,Botafogo-SP,3-1,Vitória
 1,27/04/19,Guarani,0-0,Figueirense
 1,27/04/19,Criciúma,0-1,Cuiabá
@@ -18,13 +18,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 2,04/05/19,Vitória,2-1,Vila Nova
 2,04/05/19,Cuiabá,2-1,Operário-PR
 2,04/05/19,Paraná,1-0,CRB
-2,06/05/19,Bragantino,1-1,Sport Recife
+2,06/05/19,Bragantino,1-1,Sport
 3,09/05/19,São Bento,0-1,Botafogo-SP
 3,09/05/19,Coritiba,0-0,Londrina
 3,10/05/19,Bragantino,3-0,Atlético-GO
 3,10/05/19,Vila Nova,0-0,Ponte Preta
 3,11/05/19,Criciúma,0-0,América-MG
-3,11/05/19,Sport Recife,0-0,Figueirense
+3,11/05/19,Sport,0-0,Figueirense
 3,11/05/19,Cuiabá,1-1,Paraná
 3,11/05/19,Brasil-RS,0-2,CRB
 3,11/05/19,Operário-PR,0-0,Oeste
@@ -37,19 +37,19 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 4,18/05/19,Paraná,0-0,Guarani
 4,18/05/19,Vitória,1-3,São Bento
 4,18/05/19,Botafogo-SP,0-1,Vila Nova
-4,19/05/19,América-MG,1-2,Sport Recife
+4,19/05/19,América-MG,1-2,Sport
 4,20/05/19,CRB,1-0,Coritiba
 5,21/05/19,Criciúma,1-0,Guarani
 5,21/05/19,Bragantino,2-0,Figueirense
 5,24/05/19,CRB,1-1,Vila Nova
-5,24/05/19,Sport Recife,3-2,Londrina
+5,24/05/19,Sport,3-2,Londrina
 5,25/05/19,Coritiba,2-1,Cuiabá
 5,25/05/19,Ponte Preta,4-2,Paraná
 5,25/05/19,São Bento,1-0,Oeste
 5,25/05/19,Operário-PR,0-2,Botafogo-SP
 5,25/05/19,Brasil-RS,2-1,América-MG
 5,26/05/19,Atlético-GO,1-1,Vitória
-6,28/05/19,Operário-PR,2-1,Sport Recife
+6,28/05/19,Operário-PR,2-1,Sport
 6,28/05/19,Guarani,1-2,Brasil-RS
 6,31/05/19,Figueirense,1-0,Atlético-GO
 6,31/05/19,Vitória,0-2,Bragantino
@@ -67,7 +67,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,08/06/19,Brasil-RS,1-0,Operário-PR
 7,08/06/19,Criciúma,1-1,Vila Nova
 7,08/06/19,Coritiba,2-3,Paraná
-7,08/06/19,Sport Recife,3-1,Vitória
+7,08/06/19,Sport,3-1,Vitória
 7,08/06/19,CRB,1-3,América-MG
 8,10/06/19,Londrina,1-3,Ponte Preta
 8,11/06/19,Vila Nova,1-0,São Bento
@@ -77,9 +77,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 8,11/06/19,Bragantino,2-0,América-MG
 8,11/06/19,Oeste,3-0,Vitória
 8,11/06/19,Paraná,1-0,Operário-PR
-8,11/06/19,Sport Recife,1-0,CRB
+8,11/06/19,Sport,1-0,CRB
 8,11/06/19,Guarani,0-1,Coritiba
-9,08/07/19,São Bento,2-2,Sport Recife
+9,08/07/19,São Bento,2-2,Sport
 9,09/07/19,Vitória,0-1,Cuiabá
 9,09/07/19,Criciúma,2-1,Coritiba
 9,12/07/19,CRB,2-1,Guarani
@@ -89,7 +89,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,13/07/19,Botafogo-SP,2-3,Brasil-RS
 9,13/07/19,Paraná,2-1,Bragantino
 9,13/07/19,Operário-PR,2-0,Londrina
-10,15/07/19,Cuiabá,1-1,Sport Recife
+10,15/07/19,Cuiabá,1-1,Sport
 10,16/07/19,Coritiba,2-1,São Bento
 10,16/07/19,Ponte Preta,0-0,Atlético-GO
 10,18/07/19,Brasil-RS,0-1,Paraná
@@ -99,7 +99,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 10,20/07/19,Vila Nova,1-1,América-MG
 10,20/07/19,Botafogo-SP,0-0,Guarani
 10,20/07/19,Operário-PR,2-1,CRB
-11,22/07/19,Sport Recife,0-0,Brasil-RS
+11,22/07/19,Sport,0-0,Brasil-RS
 11,23/07/19,São Bento,1-1,Operário-PR
 11,23/07/19,Guarani,0-1,Cuiabá
 11,23/07/19,Coritiba,2-0,Vila Nova
@@ -111,7 +111,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 11,23/07/19,América-MG,0-0,Oeste
 12,26/07/19,América-MG,0-1,Atlético-GO
 12,26/07/19,Operário-PR,1-1,Coritiba
-12,26/07/19,Paraná,0-1,Sport Recife
+12,26/07/19,Paraná,0-1,Sport
 12,26/07/19,Botafogo-SP,0-2,CRB
 12,26/07/19,Guarani,2-1,São Bento
 12,27/07/19,Criciúma,1-1,Figueirense
@@ -119,7 +119,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,27/07/19,Oeste,1-0,Londrina
 12,27/07/19,Cuiabá,1-1,Brasil-RS
 12,27/07/19,Vila Nova,0-1,Bragantino
-13,29/07/19,Sport Recife,1-1,Guarani
+13,29/07/19,Sport,1-1,Guarani
 13,29/07/19,Coritiba,3-2,Botafogo-SP
 13,30/07/19,Figueirense,1-1,Vitória
 13,30/07/19,Brasil-RS,0-2,Vila Nova
@@ -129,7 +129,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,30/07/19,Atlético-GO,4-2,Operário-PR
 13,30/07/19,CRB,2-2,Oeste
 13,30/07/19,Bragantino,2-2,Cuiabá
-14,01/08/19,Sport Recife,1-1,Coritiba
+14,01/08/19,Sport,1-1,Coritiba
 14,02/08/19,Londrina,1-1,Atlético-GO
 14,02/08/19,Botafogo-SP,3-2,Oeste
 14,02/08/19,Guarani,1-0,Bragantino
@@ -148,7 +148,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 15,10/08/19,Cuiabá,3-2,São Bento
 15,10/08/19,Vitória,2-0,Paraná
 15,11/08/19,Ponte Preta,1-0,Guarani
-15,11/08/19,Criciúma,1-0,Sport Recife
+15,11/08/19,Criciúma,1-0,Sport
 16,12/08/19,Bragantino,4-0,Operário-PR
 16,13/08/19,Atlético-GO,2-0,Oeste
 16,13/08/19,Coritiba,2-0,Brasil-RS
@@ -156,7 +156,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,16/08/19,Londrina,1-1,Criciúma
 16,16/08/19,Guarani,0-2,Vila Nova
 16,17/08/19,São Bento,2-1,Paraná
-16,17/08/19,Sport Recife,3-0,Botafogo-SP
+16,17/08/19,Sport,3-0,Botafogo-SP
 16,17/08/19,América-MG,2-1,Cuiabá
 16,18/08/19,CRB,0-1,Vitória
 17,19/08/19,Criciúma,0-2,Bragantino
@@ -166,7 +166,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 17,20/08/19,Botafogo-SP,2-1,Londrina
 17,20/08/19,Paraná,0-0,Atlético-GO
 17,20/08/19,Cuiabá,3-0,Figueirense
-17,20/08/19,Vila Nova,0-2,Sport Recife
+17,20/08/19,Vila Nova,0-2,Sport
 17,21/08/19,Vitória,0-0,América-MG
 17,21/08/19,Ponte Preta,0-1,CRB
 18,22/08/19,Bragantino,1-1,Coritiba
@@ -177,7 +177,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 18,24/08/19,Vitória,0-0,Operário-PR
 18,24/08/19,Londrina,2-4,São Bento
 18,24/08/19,Figueirense,2-2,CRB
-18,24/08/19,Ponte Preta,2-2,Sport Recife
+18,24/08/19,Ponte Preta,2-2,Sport
 18,25/08/19,América-MG,3-2,Guarani
 19,27/08/19,CRB,0-3,Bragantino
 19,27/08/19,Vila Nova,0-0,Cuiabá
@@ -186,11 +186,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 19,27/08/19,Botafogo-SP,0-1,Paraná
 19,27/08/19,Operário-PR,1-0,Figueirense
 19,27/08/19,Criciúma,3-1,Oeste
-19,27/08/19,Sport Recife,1-1,Atlético-GO
+19,27/08/19,Sport,1-1,Atlético-GO
 19,28/08/19,São Bento,0-2,América-MG
 19,28/08/19,Guarani,1-0,Londrina
 20,30/08/19,Paraná,1-1,Vila Nova
-20,31/08/19,Oeste,0-0,Sport Recife
+20,31/08/19,Oeste,0-0,Sport
 20,31/08/19,Figueirense,0-1,Guarani
 20,31/08/19,Londrina,0-1,CRB
 20,31/08/19,Atlético-GO,1-0,São Bento
@@ -207,7 +207,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 21,07/09/19,Botafogo-SP,0-0,América-MG
 21,07/09/19,Operário-PR,2-1,Cuiabá
 21,07/09/19,Guarani,2-3,Oeste
-21,07/09/19,Sport Recife,2-1,Bragantino
+21,07/09/19,Sport,2-1,Bragantino
 21,08/09/19,Coritiba,1-2,Atlético-GO
 22,10/09/19,CRB,3-1,Brasil-RS
 22,10/09/19,América-MG,2-1,Criciúma
@@ -218,7 +218,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,14/09/19,Vitória,0-1,Guarani
 22,14/09/19,Paraná,0-0,Cuiabá
 22,13/09/19,Atlético-GO,1-1,Bragantino
-22,15/09/19,Figueirense,1-2,Sport Recife
+22,15/09/19,Figueirense,1-2,Sport
 23,16/09/19,Operário-PR,2-1,Ponte Preta
 23,17/09/19,Vila Nova,0-2,Botafogo-SP
 23,17/09/19,São Bento,2-0,Vitória
@@ -228,8 +228,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 23,21/09/19,Bragantino,4-1,Londrina
 23,21/09/19,Cuiabá,2-0,Oeste
 23,21/09/19,Coritiba,0-2,CRB
-23,20/09/19,Sport Recife,0-2,América-MG
-24,24/09/19,Londrina,1-2,Sport Recife
+23,20/09/19,Sport,0-2,América-MG
+24,24/09/19,Londrina,1-2,Sport
 24,24/09/19,Guarani,1-0,Criciúma
 24,24/09/19,Botafogo-SP,1-1,Operário-PR
 24,24/09/19,Vila Nova,2-2,CRB
@@ -244,7 +244,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 25,28/09/19,Criciúma,2-0,Botafogo-SP
 25,28/09/19,Ponte Preta,3-0,Cuiabá
 25,28/09/19,Coritiba,2-1,América-MG
-25,28/09/19,Sport Recife,3-1,Operário-PR
+25,28/09/19,Sport,3-1,Operário-PR
 25,28/09/19,Oeste,1-1,Paraná
 25,27/09/19,Atlético-GO,2-0,Figueirense
 25,29/09/19,Bragantino,2-0,Vitória
@@ -253,13 +253,13 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 26,01/10/19,Vila Nova,1-1,Criciúma
 26,03/10/19,América-MG,1-0,CRB
 26,04/10/19,Figueirense,1-2,Oeste
-26,03/10/19,Vitória,2-2,Sport Recife
+26,03/10/19,Vitória,2-2,Sport
 26,05/10/19,Botafogo-SP,4-1,Ponte Preta
 26,05/10/19,Paraná,2-0,Coritiba
 26,05/10/19,Cuiabá,0-1,Londrina
 26,05/10/19,Operário-PR,1-2,Brasil-RS
 26,04/10/19,São Bento,0-3,Bragantino
-27,07/10/19,CRB,1-1,Sport Recife
+27,07/10/19,CRB,1-1,Sport
 27,07/10/19,São Bento,3-1,Vila Nova
 27,08/10/19,Coritiba,1-0,Guarani
 27,08/10/19,Botafogo-SP,0-0,Figueirense
@@ -271,7 +271,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 27,08/10/19,América-MG,2-0,Bragantino
 28,11/10/19,Brasil-RS,1-0,Botafogo-SP
 28,11/10/19,Vila Nova,1-1,Atlético-GO
-28,11/10/19,Sport Recife,2-0,São Bento
+28,11/10/19,Sport,2-0,São Bento
 28,12/10/19,Bragantino,2-0,Paraná
 28,12/10/19,Coritiba,1-0,Criciúma
 28,12/10/19,Londrina,1-2,Operário-PR
@@ -280,7 +280,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 28,11/10/19,Guarani,1-0,CRB
 28,11/10/19,Oeste,1-1,Ponte Preta
 29,14/10/19,Atlético-GO,0-0,Ponte Preta
-29,14/10/19,Sport Recife,2-0,Cuiabá
+29,14/10/19,Sport,2-0,Cuiabá
 29,14/10/19,Guarani,0-2,Botafogo-SP
 29,15/10/19,Paraná,1-0,Brasil-RS
 29,15/10/19,Londrina,0-0,Figueirense
@@ -298,8 +298,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 30,19/10/19,Operário-PR,2-1,São Bento
 30,19/10/19,Paraná,0-1,Figueirense
 30,18/10/19,Vitória,0-1,Londrina
-30,20/10/19,Brasil-RS,0-0,Sport Recife
-31,23/10/19,Sport Recife,2-1,Paraná
+30,20/10/19,Brasil-RS,0-0,Sport
+31,23/10/19,Sport,2-1,Paraná
 31,24/10/19,CRB,1-0,Botafogo-SP
 31,25/10/19,Atlético-GO,2-2,América-MG
 31,25/10/19,Londrina,0-2,Oeste
@@ -311,7 +311,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 31,27/10/19,Ponte Preta,1-2,Vitória
 32,28/10/19,Paraná,1-0,Londrina
 32,29/10/19,Vila Nova,0-2,Brasil-RS
-32,31/10/19,Guarani,1-0,Sport Recife
+32,31/10/19,Guarani,1-0,Sport
 32,01/11/19,Botafogo-SP,0-1,Coritiba
 32,01/11/19,Operário-PR,1-1,Atlético-GO
 32,02/11/19,Vitória,2-2,Figueirense
@@ -319,7 +319,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 32,02/11/19,América-MG,0-0,Ponte Preta
 32,02/11/19,Criciúma,1-1,São Bento
 32,01/11/19,Cuiabá,2-0,Bragantino
-33,04/11/19,Coritiba,0-0,Sport Recife
+33,04/11/19,Coritiba,0-0,Sport
 33,05/11/19,Atlético-GO,2-1,Londrina
 33,05/11/19,Oeste,0-2,Botafogo-SP
 33,05/11/19,Vitória,3-0,Brasil-RS
@@ -333,7 +333,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 34,08/11/19,Paraná,0-0,Vitória
 34,08/11/19,Vila Nova,0-0,Operário-PR
 34,08/11/19,Londrina,0-1,América-MG
-34,09/11/19,Sport Recife,1-0,Criciúma
+34,09/11/19,Sport,1-0,Criciúma
 34,09/11/19,Guarani,0-0,Ponte Preta
 34,09/11/19,CRB,2-1,Atlético-GO
 34,09/11/19,Brasil-RS,2-2,Oeste
@@ -348,7 +348,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 35,13/11/19,Vila Nova,1-1,Guarani
 35,12/11/19,Operário-PR,0-2,Bragantino
 35,12/11/19,Paraná,2-1,São Bento
-35,13/11/19,Botafogo-SP,0-2,Sport Recife
+35,13/11/19,Botafogo-SP,0-2,Sport
 36,15/11/19,América-MG,2-1,Vitória
 36,15/11/19,Bragantino,1-1,Criciúma
 36,16/11/19,Guarani,1-0,Operário-PR
@@ -356,14 +356,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 36,16/11/19,Coritiba,1-0,Oeste
 36,16/11/19,Londrina,1-1,Botafogo-SP
 36,15/11/19,Atlético-GO,1-0,Paraná
-36,17/11/19,Sport Recife,0-0,Vila Nova
+36,17/11/19,Sport,0-0,Vila Nova
 36,17/11/19,São Bento,3-1,Brasil-RS
 36,17/11/19,Figueirense,0-0,Cuiabá
 37,19/11/19,Criciúma,1-1,Paraná
 37,20/11/19,Vila Nova,1-1,Oeste
 37,19/11/19,Operário-PR,1-2,Vitória
 37,21/11/19,São Bento,4-1,Londrina
-37,20/11/19,Sport Recife,2-1,Ponte Preta
+37,20/11/19,Sport,2-1,Ponte Preta
 37,22/11/19,CRB,0-0,Figueirense
 37,21/11/19,Brasil-RS,2-2,Atlético-GO
 37,23/11/19,Botafogo-SP,0-0,Cuiabá
@@ -372,7 +372,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 38,26/11/19,Ponte Preta,4-0,Brasil-RS
 38,29/11/19,Paraná,3-3,Botafogo-SP
 38,30/11/19,Cuiabá,1-2,Vila Nova
-38,30/11/19,Atlético-GO,0-0,Sport Recife
+38,30/11/19,Atlético-GO,0-0,Sport
 38,30/11/19,Bragantino,2-0,CRB
 38,30/11/19,Vitória,1-2,Coritiba
 38,30/11/19,Londrina,2-0,Guarani

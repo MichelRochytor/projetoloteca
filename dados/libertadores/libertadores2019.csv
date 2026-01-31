@@ -34,7 +34,7 @@ FG,1,05/03/19,San José,0-1,Flamengo
 FG,1,05/03/19,Godoy Cruz,0-0,Olimpia
 FG,1,05/03/19,Libertad,4-1,Universidad Católica
 FG,1,05/03/19,Jorge Wilstermann,0-0,Boca Juniors
-FG,1,05/03/19,Tolima,1-0,Athletico Paranaense
+FG,1,05/03/19,Tolima,1-0,Athletico-PR
 FG,1,06/03/19,Univ. Concepción,5-4,Sporting Cristal
 FG,1,06/03/19,Palestino,0-1,Internacional
 FG,1,06/03/19,Atlético Mineiro,0-1,Cerro Porteño
@@ -58,14 +58,14 @@ FG,2,13/03/19,Universidad Católica,2-1,Rosario Central
 FG,2,13/03/19,Flamengo,3-1,LDU Quito
 FG,2,13/03/19,River Plate,0-0,Palestino
 FG,2,14/03/19,Peñarol,4-0,San José
-FG,2,14/03/19,Athletico Paranaense,4-0,Jorge Wilstermann
+FG,2,14/03/19,Athletico-PR,4-0,Jorge Wilstermann
 FG,2,14/03/19,Emelec,0-0,Huracán
 FG,2,27/03/19,Cruzeiro,2-0,Deportivo Lara
 FG,3,02/04/19,San José,3-3,LDU Quito
 FG,3,02/04/19,Cerro Porteño,1-0,Nacional
 FG,3,02/04/19,San Lorenzo,1-0,Palmeiras
 FG,3,02/04/19,Palestino,3-0,Alianza Lima
-FG,3,02/04/19,Athletico Paranaense,3-0,Boca Juniors
+FG,3,02/04/19,Athletico-PR,3-0,Boca Juniors
 FG,3,02/04/19,FBC Melgar,1-0,Junior Barranquilla
 FG,3,03/04/19,Atlético Mineiro,3-2,Zamora FC
 FG,3,03/04/19,Univ. Concepción,0-0,Godoy Cruz
@@ -78,7 +78,7 @@ FG,3,04/04/19,Universidad Católica,1-0,Grêmio
 FG,3,04/04/19,Libertad,2-0,Rosario Central
 FG,3,04/04/19,Sporting Cristal,0-3,Olimpia
 FG,4,09/04/19,Olimpia,2-1,Godoy Cruz
-FG,4,09/04/19,Athletico Paranaense,1-0,Tolima
+FG,4,09/04/19,Athletico-PR,1-0,Tolima
 FG,4,09/04/19,Peñarol,1-0,LDU Quito
 FG,4,09/04/19,San Lorenzo,2-0,FBC Melgar
 FG,4,09/04/19,Internacional,3-2,Palestino
@@ -99,7 +99,7 @@ FG,5,23/04/19,Huracán,1-2,Emelec
 FG,5,23/04/19,Univ. Concepción,3-3,Olimpia
 FG,5,23/04/19,Atlético Mineiro,0-1,Nacional
 FG,5,23/04/19,Godoy Cruz,2-0,Sporting Cristal
-FG,5,24/04/19,Jorge Wilstermann,3-2,Athletico Paranaense
+FG,5,24/04/19,Jorge Wilstermann,3-2,Athletico-PR
 FG,5,24/04/19,Palestino,0-2,River Plate
 FG,5,24/04/19,Rosario Central,1-1,Universidad Católica
 FG,5,24/04/19,Alianza Lima,0-1,Internacional
@@ -123,7 +123,7 @@ FG,6,08/05/19,Junior Barranquilla,0-1,FBC Melgar
 FG,6,08/05/19,Palmeiras,1-0,San Lorenzo
 FG,6,09/05/19,Olimpia,0-1,Sporting Cristal
 FG,6,09/05/19,Godoy Cruz,1-0,Univ. Concepción
-FG,6,09/05/19,Boca Juniors,2-1,Athletico Paranaense
+FG,6,09/05/19,Boca Juniors,2-1,Athletico-PR
 FG,6,09/05/19,Jorge Wilstermann,0-2,Tolima
 O,1,23/07/19,River Plate,0-0,Cruzeiro
 O,1,23/07/19,LDU Quito,3-1,Olimpia
@@ -131,7 +131,7 @@ O,1,23/07/19,Godoy Cruz,2-2,Palmeiras
 O,1,24/07/19,San Lorenzo,0-0,Cerro Porteño
 O,1,24/07/19,Nacional,0-1,Internacional
 O,1,24/07/19,Emelec,2-0,Flamengo
-O,1,24/07/19,Athletico Paranaense,0-1,Boca Juniors
+O,1,24/07/19,Athletico-PR,0-1,Boca Juniors
 O,1,25/07/19,Grêmio,2-0,Libertad
 O,2,30/07/19,Cruzeiro,0-0,River Plate
 O,2,30/07/19,Palmeiras,4-0,Godoy Cruz
@@ -139,7 +139,7 @@ O,2,30/07/19,Olimpia,1-1,LDU Quito
 O,2,31/07/19,Internacional,2-0,Nacional
 O,2,31/07/19,Cerro Porteño,2-1,San Lorenzo
 O,2,31/07/19,Flamengo,2-0,Emelec
-O,2,31/07/19,Boca Juniors,2-0,Athletico Paranaense
+O,2,31/07/19,Boca Juniors,2-0,Athletico-PR
 O,2,01/08/19,Libertad,0-3,Grêmio
 Q,1,20/08/19,Grêmio,0-1,Palmeiras
 Q,1,21/08/19,LDU Quito,0-3,Boca Juniors

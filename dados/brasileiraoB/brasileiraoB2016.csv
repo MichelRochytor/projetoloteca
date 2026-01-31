@@ -2,10 +2,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,13/05/16,Vila Nova,3-1,Bragantino
 1,13/05/16,Oeste,0-1,Atlético-GO
 1,13/05/16,Tupi,0-1,Goiás
-1,14/05/16,Sampaio Corrêa,0-4,Vasco da Gama
+1,14/05/16,Sampaio Corrêa,0-4,Vasco
 1,14/05/16,Brasil de Pelotas,2-0,Paraná
 1,14/05/16,Londrina,0-1,CRB
-1,14/05/16,Ceará SC,2-2,Paysandu
+1,14/05/16,Ceará,2-2,Paysandu
 1,14/05/16,Criciúma,1-0,Náutico
 1,14/05/16,Luverdense,1-1,Joinville
 1,14/05/16,Bahia,2-1,Avaí
@@ -16,17 +16,17 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 2,20/05/16,Joinville,0-0,Criciúma
 2,21/05/16,Paysandu,1-1,Oeste
 2,21/05/16,Avaí,2-0,Sampaio Corrêa
-2,21/05/16,Vasco da Gama,1-0,Tupi
-2,21/05/16,CRB,0-3,Ceará SC
+2,21/05/16,Vasco,1-0,Tupi
+2,21/05/16,CRB,0-3,Ceará
 2,21/05/16,Paraná,0-0,Bahia
 3,24/05/16,Oeste,2-1,CRB
 3,24/05/16,Londrina,1-0,Náutico
 3,24/05/16,Sampaio Corrêa,1-2,Paraná
 3,24/05/16,Brasil de Pelotas,2-0,Bragantino
-3,24/05/16,Ceará SC,0-1,Atlético-GO
+3,24/05/16,Ceará,0-1,Atlético-GO
 3,24/05/16,Luverdense,1-1,Avaí
 3,24/05/16,Criciúma,3-1,Goiás
-3,24/05/16,Vila Nova,0-2,Vasco da Gama
+3,24/05/16,Vila Nova,0-2,Vasco
 3,24/05/16,Tupi,5-1,Paysandu
 3,25/05/16,Bahia,1-0,Joinville
 4,27/05/16,CRB,2-1,Criciúma
@@ -34,29 +34,29 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 4,27/05/16,Goiás,1-1,Brasil de Pelotas
 4,27/05/16,Náutico,5-0,Sampaio Corrêa
 4,28/05/16,Joinville,1-1,Londrina
-4,28/05/16,Avaí,4-2,Ceará SC
+4,28/05/16,Avaí,4-2,Ceará
 4,28/05/16,Atlético-GO,2-1,Vila Nova
-4,28/05/16,Vasco da Gama,4-3,Bahia
+4,28/05/16,Vasco,4-3,Bahia
 4,28/05/16,Paysandu,2-1,Luverdense
 4,28/05/16,Bragantino,2-1,Tupi
 5,31/05/16,Brasil de Pelotas,1-0,Paysandu
 5,31/05/16,Sampaio Corrêa,0-0,Bragantino
 5,31/05/16,Bahia,0-0,Náutico
-5,31/05/16,Ceará SC,2-1,Goiás
+5,31/05/16,Ceará,2-1,Goiás
 5,31/05/16,Londrina,1-1,Paraná
 5,31/05/16,Criciúma,1-0,Avaí
 5,31/05/16,Vila Nova,1-2,CRB
 5,31/05/16,Luverdense,3-2,Atlético-GO
 5,31/05/16,Tupi,1-2,Joinville
-5,31/05/16,Oeste,1-1,Vasco da Gama
+5,31/05/16,Oeste,1-1,Vasco
 6,03/06/16,Bahia,3-0,Paysandu
 6,03/06/16,Vila Nova,0-0,Paraná
 6,03/06/16,Brasil de Pelotas,1-1,Luverdense
 6,03/06/16,Náutico,2-0,Joinville
 6,04/06/16,Londrina,1-0,Tupi
-6,04/06/16,Sampaio Corrêa,2-3,Ceará SC
+6,04/06/16,Sampaio Corrêa,2-3,Ceará
 6,04/06/16,Oeste,1-0,Criciúma
-6,04/06/16,Vasco da Gama,1-0,Goiás
+6,04/06/16,Vasco,1-0,Goiás
 6,04/06/16,Atlético-GO,1-0,Bragantino
 6,04/06/16,Avaí,2-1,CRB
 7,07/06/16,Paraná,0-0,Atlético-GO
@@ -66,8 +66,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,07/06/16,Bragantino,1-0,Avaí
 7,07/06/16,Tupi,0-1,Oeste
 7,07/06/16,Luverdense,0-2,Vila Nova
-7,07/06/16,Joinville,0-2,Vasco da Gama
-7,07/06/16,Ceará SC,1-0,Londrina
+7,07/06/16,Joinville,0-2,Vasco
+7,07/06/16,Ceará,1-0,Londrina
 7,07/06/16,Goiás,0-2,Bahia
 8,10/06/16,Bahia,3-0,CRB
 8,10/06/16,Sampaio Corrêa,1-0,Criciúma
@@ -76,10 +76,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 8,11/06/16,Brasil de Pelotas,1-0,Tupi
 8,11/06/16,Náutico,5-1,Paraná
 8,11/06/16,Avaí,0-1,Joinville
-8,11/06/16,Atlético-GO,2-1,Vasco da Gama
-8,11/06/16,Luverdense,2-0,Ceará SC
+8,11/06/16,Atlético-GO,2-1,Vasco
+8,11/06/16,Luverdense,2-0,Ceará
 8,11/06/16,Bragantino,0-0,Paysandu
-9,14/06/16,Vasco da Gama,3-2,Náutico
+9,14/06/16,Vasco,3-2,Náutico
 9,14/06/16,Criciúma,3-2,Bahia
 9,14/06/16,Vila Nova,1-0,Sampaio Corrêa
 9,14/06/16,Tupi,0-0,Luverdense
@@ -88,8 +88,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,14/06/16,Paraná,2-0,Goiás
 9,14/06/16,CRB,2-1,Bragantino
 9,14/06/16,Paysandu,1-0,Avaí
-9,14/06/16,Ceará SC,3-0,Brasil de Pelotas
-10,17/06/16,Joinville,1-1,Ceará SC
+9,14/06/16,Ceará,3-0,Brasil de Pelotas
+10,17/06/16,Joinville,1-1,Ceará
 10,17/06/16,Sampaio Corrêa,1-1,Brasil de Pelotas
 10,17/06/16,Paraná,1-2,Luverdense
 10,17/06/16,Goiás,2-0,Avaí
@@ -97,14 +97,14 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 10,18/06/16,Náutico,1-1,Bragantino
 10,18/06/16,Criciúma,2-2,Tupi
 10,18/06/16,Bahia,1-2,Londrina
-10,18/06/16,Vasco da Gama,0-2,Paysandu
+10,18/06/16,Vasco,0-2,Paysandu
 10,18/06/16,Oeste,1-3,Vila Nova
 11,21/06/16,Tupi,2-1,Bahia
 11,21/06/16,CRB,1-1,Paraná
 11,21/06/16,Paysandu,1-0,Joinville
-11,21/06/16,Ceará SC,1-0,Oeste
+11,21/06/16,Ceará,1-0,Oeste
 11,21/06/16,Avaí,1-1,Atlético-GO
-11,21/06/16,Londrina,0-1,Vasco da Gama
+11,21/06/16,Londrina,0-1,Vasco
 11,21/06/16,Luverdense,0-0,Sampaio Corrêa
 11,21/06/16,Bragantino,0-1,Goiás
 11,21/06/16,Brasil de Pelotas,0-0,Náutico
@@ -115,8 +115,8 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,24/06/16,Brasil de Pelotas,2-1,Bahia
 12,25/06/16,Paraná,1-0,Joinville
 12,25/06/16,Vila Nova,1-1,Goiás
-12,25/06/16,CRB,1-2,Vasco da Gama
-12,25/06/16,Ceará SC,2-1,Náutico
+12,25/06/16,CRB,1-2,Vasco
+12,25/06/16,Ceará,2-1,Náutico
 12,25/06/16,Tupi,1-1,Avaí
 12,25/06/16,Oeste,1-0,Sampaio Corrêa
 13,27/06/16,Atlético-GO,1-0,Criciúma
@@ -125,9 +125,9 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,28/06/16,Avaí,3-1,Vila Nova
 13,28/06/16,Joinville,1-3,CRB
 13,28/06/16,Sampaio Corrêa,3-1,Tupi
-13,28/06/16,Vasco da Gama,1-2,Paraná
+13,28/06/16,Vasco,1-2,Paraná
 13,28/06/16,Náutico,1-0,Luverdense
-13,28/06/16,Bragantino,1-1,Ceará SC
+13,28/06/16,Bragantino,1-1,Ceará
 13,28/06/16,Goiás,0-0,Paysandu
 14,01/07/16,Sampaio Corrêa,0-0,Paysandu
 14,01/07/16,Vila Nova,1-0,Tupi
@@ -136,18 +136,18 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 14,02/07/16,Bragantino,0-1,Paraná
 14,02/07/16,Brasil de Pelotas,2-0,Joinville
 14,02/07/16,Atlético-GO,3-0,Náutico
-14,02/07/16,Avaí,2-1,Vasco da Gama
-14,02/07/16,Ceará SC,1-0,Bahia
+14,02/07/16,Avaí,2-1,Vasco
+14,02/07/16,Ceará,1-0,Bahia
 14,02/07/16,CRB,2-1,Goiás
 15,05/07/16,Paraná,0-0,Avaí
 15,05/07/16,Bahia,0-1,Vila Nova
 15,08/07/16,Criciúma,2-2,Luverdense
-15,08/07/16,Tupi,2-1,Ceará SC
+15,08/07/16,Tupi,2-1,Ceará
 15,09/07/16,Joinville,2-0,Sampaio Corrêa
 15,09/07/16,Náutico,1-3,CRB
 15,09/07/16,Goiás,2-2,Atlético-GO
 15,09/07/16,Oeste,1-3,Bragantino
-15,09/07/16,Vasco da Gama,2-0,Brasil de Pelotas
+15,09/07/16,Vasco,2-0,Brasil de Pelotas
 15,09/07/16,Paysandu,0-0,Londrina
 16,12/07/16,Atlético-GO,1-2,Londrina
 16,12/07/16,Paraná,0-0,Paysandu
@@ -155,17 +155,17 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,15/07/16,Avaí,1-1,Oeste
 16,15/07/16,Sampaio Corrêa,0-0,Bahia
 16,16/07/16,Brasil de Pelotas,2-2,Vila Nova
-16,16/07/16,Ceará SC,1-0,Criciúma
+16,16/07/16,Ceará,1-0,Criciúma
 16,16/07/16,Goiás,4-2,Náutico
-16,16/07/16,Luverdense,1-1,Vasco da Gama
+16,16/07/16,Luverdense,1-1,Vasco
 16,16/07/16,Bragantino,2-0,Joinville
 17,19/07/16,Oeste,1-1,Brasil de Pelotas
 17,19/07/16,Joinville,2-1,Goiás
 17,22/07/16,Criciúma,3-2,Paraná
 17,22/07/16,Náutico,3-1,Avaí
 17,23/07/16,Tupi,1-0,Atlético-GO
-17,23/07/16,Vila Nova,3-4,Ceará SC
-17,23/07/16,Vasco da Gama,2-1,Bragantino
+17,23/07/16,Vila Nova,3-4,Ceará
+17,23/07/16,Vasco,2-1,Bragantino
 17,23/07/16,Bahia,1-0,Luverdense
 17,23/07/16,Paysandu,2-2,CRB
 17,23/07/16,Londrina,1-1,Sampaio Corrêa
@@ -176,15 +176,15 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 18,30/07/16,Joinville,0-1,Oeste
 18,30/07/16,Bragantino,1-0,Bahia
 18,30/07/16,Paysandu,2-2,Vila Nova
-18,30/07/16,Paraná,1-1,Ceará SC
-18,30/07/16,Vasco da Gama,2-1,Criciúma
+18,30/07/16,Paraná,1-1,Ceará
+18,30/07/16,Vasco,2-1,Criciúma
 18,31/07/16,Atlético-GO,4-1,Sampaio Corrêa
 19,02/08/16,Vila Nova,2-1,Joinville
 19,02/08/16,Londrina,2-0,Bragantino
 19,02/08/16,Brasil de Pelotas,3-0,Avaí
 19,02/08/16,Criciúma,0-3,Paysandu
 19,02/08/16,Luverdense,0-0,CRB
-19,02/08/16,Ceará SC,0-0,Vasco da Gama
+19,02/08/16,Ceará,0-0,Vasco
 19,02/08/16,Tupi,2-0,Paraná
 19,02/08/16,Oeste,0-0,Náutico
 19,16/08/16,Sampaio Corrêa,0-0,Goiás
@@ -195,28 +195,28 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 20,19/08/16,Joinville,1-1,Luverdense
 20,20/08/16,Náutico,0-1,Criciúma
 20,20/08/16,CRB,0-1,Londrina
-20,20/08/16,Vasco da Gama,1-1,Sampaio Corrêa
+20,20/08/16,Vasco,1-1,Sampaio Corrêa
 20,20/08/16,Avaí,0-3,Bahia
 20,20/08/16,Goiás,2-1,Tupi
-20,20/08/16,Paysandu,2-0,Ceará SC
+20,20/08/16,Paysandu,2-0,Ceará
 21,23/08/16,Sampaio Corrêa,1-2,Avaí
 21,23/08/16,Brasil de Pelotas,0-1,Atlético-GO
 21,23/08/16,Londrina,0-1,Goiás
 21,26/08/16,Criciúma,0-1,Joinville
-21,26/08/16,Ceará SC,1-1,CRB
+21,26/08/16,Ceará,1-1,CRB
 21,27/08/16,Oeste,1-0,Paysandu
 21,27/08/16,Vila Nova,0-2,Náutico
-21,27/08/16,Tupi,2-2,Vasco da Gama
+21,27/08/16,Tupi,2-2,Vasco
 21,27/08/16,Bahia,3-0,Paraná
 21,27/08/16,Luverdense,4-0,Bragantino
-22,29/08/16,Atlético-GO,2-2,Ceará SC
+22,29/08/16,Atlético-GO,2-2,Ceará
 22,30/08/16,Avaí,2-1,Luverdense
 22,30/08/16,Paraná,1-0,Sampaio Corrêa
 22,30/08/16,Joinville,1-1,Bahia
 22,30/08/16,Paysandu,0-3,Tupi
 22,30/08/16,CRB,3-1,Oeste
 22,30/08/16,Náutico,0-2,Londrina
-22,30/08/16,Vasco da Gama,1-2,Vila Nova
+22,30/08/16,Vasco,1-2,Vila Nova
 22,30/08/16,Bragantino,0-2,Brasil de Pelotas
 22,30/08/16,Goiás,1-1,Criciúma
 23,02/09/16,Brasil de Pelotas,2-1,Goiás
@@ -224,20 +224,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 23,03/09/16,Oeste,3-3,Paraná
 23,03/09/16,Vila Nova,0-0,Atlético-GO
 23,03/09/16,Tupi,0-1,Bragantino
-23,03/09/16,Bahia,1-0,Vasco da Gama
+23,03/09/16,Bahia,1-0,Vasco
 23,03/09/16,Londrina,1-0,Joinville
 23,03/09/16,Criciúma,1-1,CRB
 23,03/09/16,Sampaio Corrêa,4-3,Náutico
-23,04/09/16,Ceará SC,0-0,Avaí
+23,04/09/16,Ceará,0-0,Avaí
 24,06/09/16,Bragantino,2-1,Sampaio Corrêa
 24,06/09/16,Atlético-GO,2-0,Luverdense
 24,09/09/16,Joinville,1-1,Tupi
 24,09/09/16,Paysandu,1-1,Brasil de Pelotas
 24,10/09/16,Avaí,3-0,Criciúma
 24,10/09/16,Paraná,2-1,Londrina
-24,10/09/16,Vasco da Gama,3-2,Oeste
+24,10/09/16,Vasco,3-2,Oeste
 24,10/09/16,Náutico,0-0,Bahia
-24,10/09/16,Goiás,2-0,Ceará SC
+24,10/09/16,Goiás,2-0,Ceará
 24,10/09/16,CRB,1-2,Vila Nova
 25,13/09/16,Tupi,1-1,Londrina
 25,13/09/16,CRB,1-2,Avaí
@@ -247,56 +247,56 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 25,13/09/16,Criciúma,4-0,Oeste
 25,13/09/16,Bragantino,1-2,Atlético-GO
 25,13/09/16,Luverdense,1-0,Brasil de Pelotas
-25,13/09/16,Goiás,1-1,Vasco da Gama
-25,13/09/16,Ceará SC,0-1,Sampaio Corrêa
+25,13/09/16,Goiás,1-1,Vasco
+25,13/09/16,Ceará,0-1,Sampaio Corrêa
 26,16/09/16,Brasil de Pelotas,1-2,Criciúma
 26,16/09/16,Vila Nova,0-0,Luverdense
-26,16/09/16,Vasco da Gama,2-0,Joinville
+26,16/09/16,Vasco,2-0,Joinville
 26,17/09/16,Atlético-GO,2-0,Paraná
 26,17/09/16,Avaí,2-0,Bragantino
 26,17/09/16,Sampaio Corrêa,1-1,CRB
-26,17/09/16,Londrina,1-1,Ceará SC
+26,17/09/16,Londrina,1-1,Ceará
 26,17/09/16,Náutico,3-1,Paysandu
 26,17/09/16,Bahia,4-2,Goiás
 26,17/09/16,Oeste,0-0,Tupi
-27,20/09/16,Ceará SC,0-0,Luverdense
+27,20/09/16,Ceará,0-0,Luverdense
 27,23/09/16,Criciúma,1-0,Sampaio Corrêa
 27,23/09/16,Joinville,0-1,Avaí
 27,23/09/16,Oeste,1-2,Goiás
 27,24/09/16,Paraná,1-2,Náutico
 27,24/09/16,CRB,2-2,Bahia
-27,24/09/16,Vasco da Gama,2-0,Atlético-GO
+27,24/09/16,Vasco,2-0,Atlético-GO
 27,24/09/16,Vila Nova,1-2,Londrina
 27,24/09/16,Tupi,1-1,Brasil de Pelotas
 27,26/09/16,Paysandu,3-0,Bragantino
 28,27/09/16,Atlético-GO,1-1,Joinville
-28,27/09/16,Brasil de Pelotas,2-1,Ceará SC
+28,27/09/16,Brasil de Pelotas,2-1,Ceará
 28,27/09/16,Sampaio Corrêa,0-3,Vila Nova
 28,29/09/16,Goiás,4-0,Paraná
 28,30/09/16,Bahia,2-0,Criciúma
 28,30/09/16,Luverdense,2-1,Tupi
 28,30/09/16,Avaí,2-0,Paysandu
 28,01/10/16,Bragantino,1-2,CRB
-28,01/10/16,Náutico,3-1,Vasco da Gama
+28,01/10/16,Náutico,3-1,Vasco
 28,01/10/16,Londrina,3-0,Oeste
 29,04/10/16,Tupi,0-2,Criciúma
 29,04/10/16,Bragantino,0-1,Náutico
 29,04/10/16,Londrina,1-0,Bahia
 29,04/10/16,Vila Nova,1-0,Oeste
-29,04/10/16,Ceará SC,2-1,Joinville
+29,04/10/16,Ceará,2-1,Joinville
 29,04/10/16,CRB,1-2,Atlético-GO
 29,04/10/16,Luverdense,3-2,Paraná
 29,04/10/16,Avaí,2-0,Goiás
 29,04/10/16,Brasil de Pelotas,1-1,Sampaio Corrêa
-29,04/10/16,Paysandu,3-1,Vasco da Gama
+29,04/10/16,Paysandu,3-1,Vasco
 30,07/10/16,Criciúma,1-0,Vila Nova
 30,07/10/16,Goiás,2-1,Bragantino
 30,07/10/16,Náutico,2-0,Brasil de Pelotas
 30,08/10/16,Sampaio Corrêa,2-0,Luverdense
 30,08/10/16,Joinville,0-0,Paysandu
 30,08/10/16,Atlético-GO,3-0,Avaí
-30,08/10/16,Oeste,1-1,Ceará SC
-30,08/10/16,Vasco da Gama,1-0,Londrina
+30,08/10/16,Oeste,1-1,Ceará
+30,08/10/16,Vasco,1-0,Londrina
 30,08/10/16,Paraná,5-3,CRB
 30,09/10/16,Bahia,4-0,Tupi
 31,10/10/16,Bragantino,2-0,Criciúma
@@ -306,55 +306,55 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 31,15/10/16,Goiás,1-2,Vila Nova
 31,15/10/16,Avaí,1-0,Tupi
 31,15/10/16,Joinville,1-0,Paraná
-31,15/10/16,Vasco da Gama,1-2,CRB
+31,15/10/16,Vasco,1-2,CRB
 31,15/10/16,Londrina,1-1,Luverdense
-31,15/10/16,Náutico,1-0,Ceará SC
+31,15/10/16,Náutico,1-0,Ceará
 32,18/10/16,Vila Nova,1-2,Avaí
 32,18/10/16,Brasil de Pelotas,0-1,Londrina
-32,21/10/16,Ceará SC,2-0,Bragantino
+32,21/10/16,Ceará,2-0,Bragantino
 32,21/10/16,Luverdense,2-1,Náutico
 32,22/10/16,Paysandu,1-1,Goiás
 32,22/10/16,Oeste,1-1,Bahia
-32,22/10/16,Paraná,0-1,Vasco da Gama
+32,22/10/16,Paraná,0-1,Vasco
 32,22/10/16,Tupi,1-1,Sampaio Corrêa
 32,22/10/16,Criciúma,1-2,Atlético-GO
 32,22/10/16,CRB,2-1,Joinville
 33,25/10/16,Oeste,1-1,Luverdense
 33,25/10/16,Sampaio Corrêa,0-3,Vila Nova
 33,25/10/16,Goiás,3-0,CRB
-33,26/10/16,Vasco da Gama,0-0,Avaí
+33,26/10/16,Vasco,0-0,Avaí
 33,28/10/16,Criciúma,1-1,Londrina
 33,28/10/16,Náutico,2-1,Atlético-GO
 33,28/10/16,Paraná,4-1,Bragantino
 33,28/10/16,Joinville,1-1,Brasil de Pelotas
-33,29/10/16,Bahia,3-1,Ceará SC
+33,29/10/16,Bahia,3-1,Ceará
 33,29/10/16,Paysandu,2-1,Sampaio Corrêa
 33,29/10/16,Tupi,1-0,Vila Nova
 34,01/11/16,Londrina,0-0,Paysandu
 34,01/11/16,Luverdense,2-1,Criciúma
 34,04/11/16,Vila Nova,0-1,Bahia
-34,05/11/16,Ceará SC,2-1,Tupi
+34,05/11/16,Ceará,2-1,Tupi
 34,05/11/16,Sampaio Corrêa,1-2,Joinville
 34,05/11/16,CRB,1-0,Náutico
-34,05/11/16,Brasil de Pelotas,2-1,Vasco da Gama
+34,05/11/16,Brasil de Pelotas,2-1,Vasco
 34,05/11/16,Atlético-GO,4-2,Goiás
 34,05/11/16,Avaí,1-0,Paraná
 34,05/11/16,Bragantino,0-0,Oeste
 35,08/11/16,Tupi,3-4,CRB
-35,08/11/16,Criciúma,2-3,Ceará SC
+35,08/11/16,Criciúma,2-3,Ceará
 35,08/11/16,Oeste,0-0,Avaí
 35,08/11/16,Vila Nova,3-1,Brasil de Pelotas
 35,08/11/16,Náutico,1-0,Goiás
 35,08/11/16,Paysandu,1-1,Paraná
 35,08/11/16,Bahia,1-0,Sampaio Corrêa
-35,08/11/16,Vasco da Gama,1-1,Luverdense
+35,08/11/16,Vasco,1-1,Luverdense
 35,08/11/16,Londrina,2-3,Atlético-GO
 35,08/11/16,Joinville,1-1,Bragantino
 36,11/11/16,CRB,0-1,Paysandu
 36,11/11/16,Goiás,3-2,Joinville
-36,12/11/16,Bragantino,1-2,Vasco da Gama
+36,12/11/16,Bragantino,1-2,Vasco
 36,12/11/16,Sampaio Corrêa,1-3,Londrina
-36,12/11/16,Ceará SC,2-3,Vila Nova
+36,12/11/16,Ceará,2-3,Vila Nova
 36,12/11/16,Avaí,3-0,Náutico
 36,12/11/16,Paraná,1-2,Criciúma
 36,12/11/16,Brasil de Pelotas,1-1,Oeste
@@ -365,17 +365,17 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 37,19/11/16,Sampaio Corrêa,0-1,Atlético-GO
 37,19/11/16,Tupi,1-4,Náutico
 37,19/11/16,Bahia,3-2,Bragantino
-37,19/11/16,Criciúma,1-0,Vasco da Gama
+37,19/11/16,Criciúma,1-0,Vasco
 37,19/11/16,Londrina,0-1,Avaí
 37,19/11/16,Vila Nova,2-2,Paysandu
-37,19/11/16,Ceará SC,1-1,Paraná
+37,19/11/16,Ceará,1-1,Paraná
 37,19/11/16,Brasil de Pelotas,1-0,CRB
 38,22/11/16,Goiás,2-1,Sampaio Corrêa
 38,25/11/16,Paraná,0-2,Tupi
 38,25/11/16,Paysandu,1-2,Criciúma
 38,26/11/16,Náutico,0-2,Oeste
 38,26/11/16,CRB,3-0,Luverdense
-38,26/11/16,Vasco da Gama,2-1,Ceará SC
+38,26/11/16,Vasco,2-1,Ceará
 38,26/11/16,Joinville,4-2,Vila Nova
 38,26/11/16,Avaí,1-1,Brasil de Pelotas
 38,26/11/16,Bragantino,0-1,Londrina

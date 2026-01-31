@@ -5,11 +5,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 1,07/05/10,Portuguesa,4-1,Vila Nova
 1,08/05/10,Paraná,3-0,Ipatinga
 1,08/05/10,Icasa,1-2,Santo André
-1,08/05/10,Brasiliense,2-1,Sport Recife
+1,08/05/10,Brasiliense,2-1,Sport
 1,08/05/10,São Caetano,0-1,Figueirense
 1,08/05/10,Náutico,3-1,Coritiba
 1,08/05/10,Americana,3-1,Duque de Caxias
-2,11/05/10,Sport Recife,1-1,Americana
+2,11/05/10,Sport,1-1,Americana
 2,11/05/10,Santo André,1-1,Brasiliense
 2,14/05/10,Vila Nova,1-0,Icasa
 2,14/05/10,Coritiba,1-1,América-MG
@@ -25,7 +25,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 3,21/05/10,Bahia,1-1,Ponte Preta
 3,21/05/10,Náutico,1-1,Bragantino
 3,22/05/10,Icasa,2-2,América-RN
-3,22/05/10,ASA,4-1,Sport Recife
+3,22/05/10,ASA,4-1,Sport
 3,22/05/10,América-MG,1-0,Figueirense
 3,22/05/10,São Caetano,2-1,Ipatinga
 3,22/10/10,Brasiliense,2-0,Duque de Caxias
@@ -37,7 +37,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 4,25/05/10,Coritiba,2-1,Brasiliense
 4,25/05/10,Santo André,3-4,Portuguesa
 4,25/05/10,América-RN,0-2,América-MG
-4,25/05/10,Sport Recife,1-2,Icasa
+4,25/05/10,Sport,1-2,Icasa
 4,25/05/10,Vila Nova,0-4,Bahia
 5,28/05/10,Paraná,1-0,Vila Nova
 5,28/05/10,ASA,1-2,Coritiba
@@ -45,7 +45,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 5,28/05/10,Náutico,2-2,América-RN
 5,29/05/10,Icasa,3-1,Duque de Caxias
 5,29/05/10,Americana,3-1,Santo André
-5,29/05/10,Bahia,2-0,Sport Recife
+5,29/05/10,Bahia,2-0,Sport
 5,29/05/10,São Caetano,3-1,Ponte Preta
 5,29/05/10,Brasiliense,1-1,Figueirense
 5,29/05/10,América-MG,4-0,Ipatinga
@@ -54,7 +54,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 6,01/06/10,Portuguesa,1-0,América-MG
 6,01/06/10,São Caetano,5-0,Náutico
 6,01/06/10,Coritiba,2-1,Ponte Preta
-6,01/06/10,Sport Recife,1-0,Paraná
+6,01/06/10,Sport,1-0,Paraná
 6,01/06/10,Ipatinga,3-0,Americana
 6,01/06/10,Duque de Caxias,0-1,América-RN
 6,01/06/10,Bragantino,2-2,Brasiliense
@@ -67,10 +67,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 7,05/06/10,América-MG,2-0,Vila Nova
 7,05/06/10,Santo André,1-3,Coritiba
 7,05/06/10,Ponte Preta,1-2,Figueirense
-7,05/06/10,América-RN,0-5,Sport Recife
+7,05/06/10,América-RN,0-5,Sport
 7,05/06/10,ASA,3-0,Icasa
 8,13/07/10,Brasiliense,1-1,América-MG
-8,13/07/10,Ipatinga,1-3,Sport Recife
+8,13/07/10,Ipatinga,1-3,Sport
 8,13/07/10,Figueirense,2-0,Vila Nova
 8,13/07/10,Duque de Caxias,3-2,Portuguesa
 8,13/07/10,Icasa,3-0,Paraná
@@ -87,20 +87,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 9,17/07/10,América-MG,1-2,Náutico
 9,17/07/10,Vila Nova,2-2,Ipatinga
 9,17/07/10,Portuguesa,3-1,Icasa
-9,17/07/10,Sport Recife,1-1,Ponte Preta
+9,17/07/10,Sport,1-1,Ponte Preta
 9,17/07/10,Bragantino,0-2,Figueirense
 10,20/07/10,Brasiliense,3-0,Paraná
 10,20/07/10,Figueirense,2-2,Santo André
 10,23/07/10,América-RN,0-0,Bragantino
 10,23/07/10,América-MG,2-0,Icasa
 10,23/07/10,Ponte Preta,1-1,Ipatinga
-10,24/07/10,Coritiba,2-1,Sport Recife
+10,24/07/10,Coritiba,2-1,Sport
 10,24/07/10,São Caetano,2-0,ASA
 10,24/07/10,Americana,1-1,Portuguesa
 10,24/07/10,Náutico,3-2,Bahia
-10/24/07/10,Duque de Caxias,1-0,Vila Nova
+10/24/07/10,Duque de Caxias,1-0,Vila Nova,nan
 11,27/07/10,Santo André,1-1,América-RN
-11,27/07/10,Sport Recife,1-2,Duque de Caxias
+11,27/07/10,Sport,1-2,Duque de Caxias
 11,30/07/10,Vila Nova,0-1,Coritiba
 11,30/07/10,Icasa,0-0,Americana
 11,30/07/10,Portuguesa,3-1,São Caetano
@@ -115,7 +115,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 12,06/08/10,Bragantino,2-0,Ipatinga
 12,07/08/10,ASA,0-1,Bahia
 12,07/08/10,Brasiliense,3-0,Vila Nova
-12,07/08/10,Náutico,1-1,Sport Recife
+12,07/08/10,Náutico,1-1,Sport
 12,07/08/10,Paraná,0-1,Coritiba
 12,07/08/10,Figueirense,5-1,Icasa
 12,07/10/10,São Caetano,3-1,Americana
@@ -124,7 +124,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 13,10/08/10,Santo André,3-0,América-MG
 13,10/08/10,Americana,1-0,Náutico
 13,10/08/10,Coritiba,1-2,São Caetano
-13,10/08/10,Sport Recife,2-1,Figueirense
+13,10/08/10,Sport,2-1,Figueirense
 13,10/08/10,Duque de Caxias,2-1,Bragantino
 13,10/08/10,Bahia,2-1,Paraná
 13,10/08/10,Vila Nova,1-2,Ponte Preta
@@ -135,12 +135,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 14,14/08/10,América-RN,1-2,Vila Nova
 14,14/08/10,Brasiliense,2-2,Americana
 14,14/08/10,Náutico,1-0,Portuguesa
-14,14/08/10,Bragantino,0-0,Sport Recife
+14,14/08/10,Bragantino,0-0,Sport
 14,14/08/10,Coritiba,2-0,Bahia
 14,14/08/10,Ponte Preta,1-0,Duque de Caxias
 14,14/08/10,América-MG,1-0,Paraná
 15,17/08/10,Paraná,0-1,América-RN
-15,17/08/10,Sport Recife,4-1,São Caetano
+15,17/08/10,Sport,4-1,São Caetano
 15,20/08/10,Vila Nova,2-3,ASA
 15,20/08/10,Duque de Caxias,2-2,Figueirense
 15,20/08/10,Portuguesa,0-1,Ponte Preta
@@ -154,7 +154,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 16,24/08/10,São Caetano,2-2,Paraná
 16,24/08/10,Bragantino,0-0,Icasa
 16,24/08/10,Ponte Preta,2-0,Náutico
-16,24/08/10,Sport Recife,0-0,Vila Nova
+16,24/08/10,Sport,0-0,Vila Nova
 16,24/08/10,América-RN,1-3,Figueirense
 16,24/08/10,Coritiba,0-2,Duque de Caxias
 16,24/08/10,Brasiliense,1-1,Portuguesa
@@ -165,7 +165,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 17,27/08/10,Icasa,2-0,Ponte Preta
 17,28/08/10,Figueirense,2-0,Coritiba
 17,28/08/10,Portuguesa,2-4,Bahia
-17,28/08/10,Santo André,2-2,Sport Recife
+17,28/08/10,Santo André,2-2,Sport
 17,28/08/10,Americana,1-1,América-RN
 17,28/08/10,Vila Nova,3-1,Bragantino
 17,28/08/10,Paraná,2-1,ASA
@@ -174,7 +174,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 18,31/08/10,Coritiba,3-0,Icasa
 18,31/08/10,Vila Nova,2-1,Náutico
 18,31/08/10,Duque de Caxias,1-0,São Caetano
-18,31/08/10,Sport Recife,1-0,América-MG
+18,31/08/10,Sport,1-0,América-MG
 18,31/08/10,Bragantino,1-0,Paraná
 18,31/08/10,Ipatinga,0-0,Portuguesa
 18,31/08/10,Figueirense,2-2,Americana
@@ -185,11 +185,11 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 19,03/09/10,São Caetano,1-2,Vila Nova
 19,04/09/10,Paraná,1-1,Figueirense
 19,04/09/10,Americana,1-0,Coritiba
-19,04/09/10,Portuguesa,1-2,Sport Recife
+19,04/09/10,Portuguesa,1-2,Sport
 19,04/09/10,ASA,0-2,Duque de Caxias
 19,04/09/10,Brasiliense,1-0,América-RN
 19,04/09/10,Icasa,2-0,Ipatinga
-20,07/09/10,Sport Recife,3-0,Brasiliense
+20,07/09/10,Sport,3-0,Brasiliense
 20,07/09/10,Vila Nova,2-1,Portuguesa
 20,07/09/10,Ponte Preta,0-0,ASA
 20,07/09/10,Santo André,1-1,Icasa
@@ -204,7 +204,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 21,10/09/10,Náutico,0-2,Duque de Caxias
 21,11/09/10,América-MG,1-1,Coritiba
 21,11/09/10,Portuguesa,1-0,Figueirense
-21,11/09/10,Americana,0-1,Sport Recife
+21,11/09/10,Americana,0-1,Sport
 21,11/09/10,São Caetano,1-0,América-RN
 21,11/09/10,Brasiliense,1-0,Santo André
 21,11/09/10,Bahia,3-1,Ipatinga
@@ -217,7 +217,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 22,18/09/10,Ponte Preta,1-2,Bahia
 22,18/09/10,Bragantino,3-0,Náutico
 22,18/09/10,Coritiba,2-0,Portuguesa
-22,18/09/10,Sport Recife,2-0,ASA
+22,18/09/10,Sport,2-0,ASA
 22,18/09/10,América-RN,2-0,Icasa
 23,21/09/10,Bahia,1-1,Vila Nova
 23,21/09/10,Portuguesa,3-2,Santo André
@@ -225,20 +225,20 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 23,21/09/10,Náutico,1-0,Figueirense
 23,21/09/10,Brasiliense,0-1,Coritiba
 23,21/09/10,São Caetano,0-0,Bragantino
-23,21/09/10,Icasa,0-0,Sport Recife
+23,21/09/10,Icasa,0-0,Sport
 23,21/09/10,ASA,2-1,Ipatinga
 23,21/09/10,América-MG,4-1,América-RN
 23,21/09/10,Paraná,1-0,Duque de Caxias
 24,24/09/10,Vila Nova,2-2,Paraná
 24,24/09/10,Ponte Preta,1-2,São Caetano
 24,24/09/10,Bragantino,2-0,Portuguesa
-24/25/09/10,Sport Recife,1-2,Bahia
-24/25/09/10,América-RN,2-1,Náutico
-24/25/09/10,Figueirense,1-0,Brasiliense
-24/25/09/10,Coritiba,2-0,ASA
-24/25/09/10,Duque de Caxias,1-0,Icasa
-24/25/09/10,Ipatinga,1-1,América-MG
-24/25/09/10,Santo André,1-1,Americana
+24/25/09/10,Sport Recife,1-2,Bahia,nan
+24/25/09/10,América-RN,2-1,Náutico,nan
+24/25/09/10,Figueirense,1-0,Brasiliense,nan
+24/25/09/10,Coritiba,2-0,ASA,nan
+24/25/09/10,Duque de Caxias,1-0,Icasa,nan
+24/25/09/10,Ipatinga,1-1,América-MG,nan
+24/25/09/10,Santo André,1-1,Americana,nan
 25,28/09/10,Náutico,1-2,São Caetano
 25,28/09/10,Ponte Preta,2-2,Coritiba
 25,28/09/10,Brasiliense,0-4,Bragantino
@@ -248,10 +248,10 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 25,28/09/10,América-MG,2-3,Portuguesa
 25,28/09/10,América-RN,2-1,Duque de Caxias
 25,28/09/10,Americana,2-1,Ipatinga
-25,28/09/10,Paraná,0-2,Sport Recife
+25,28/09/10,Paraná,0-2,Sport
 26,01/10/10,Figueirense,4-2,Ponte Preta
 26,01/10/10,Vila Nova,2-4,América-MG
-26,01/10/10,Sport Recife,3-0,América-RN
+26,01/10/10,Sport,3-0,América-RN
 26,01/10/10,São Caetano,1-1,Brasiliense
 26,01/10/10,Portuguesa,6-1,Paraná
 26,02/10/10,Coritiba,3-2,Santo André
@@ -266,7 +266,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 27,09/10/10,Bragantino,2-3,Coritiba
 27,09/10/10,Bahia,2-1,Americana
 27,09/10/10,Vila Nova,3-1,Figueirense
-27,09/10/10,Sport Recife,0-1,Ipatinga
+27,09/10/10,Sport,0-1,Ipatinga
 27,09/10/10,Paraná,0-0,Icasa
 27,09/10/10,América-MG,2-1,Brasiliense
 28,12/10/10,Ipatinga,2-0,Vila Nova
@@ -276,12 +276,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 28,12/10/10,Americana,0-2,Paraná
 28,12/10/10,Brasiliense,2-3,ASA
 28,12/10/10,Náutico,2-1,América-MG
-28,12/10/10,Ponte Preta,3-1,Sport Recife
+28,12/10/10,Ponte Preta,3-1,Sport
 28,12/10/10,São Caetano,1-1,Bahia
 28,12/10/10,Figueirense,0-0,Bragantino
 29,15/10/10,Ipatinga,2-1,Ponte Preta
 29,15/10/10,ASA,3-1,São Caetano
-29,16/10/10,Sport Recife,3-2,Coritiba
+29,16/10/10,Sport,3-2,Coritiba
 29,16/10/10,Santo André,0-2,Figueirense
 29,16/10/10,Bahia,3-0,Náutico
 29,16/10/10,Paraná,2-0,Brasiliense
@@ -295,7 +295,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 30,19/10/10,Ponte Preta,0-1,Bragantino
 30,19/10/10,Coritiba,5-1,Vila Nova
 30,19/10/10,Figueirense,1-0,Bahia
-30,19/10/10,Duque de Caxias,1-3,Sport Recife
+30,19/10/10,Duque de Caxias,1-3,Sport
 30,19/10/10,América-RN,2-0,Santo André
 30,19/10/10,Náutico,1-4,Paraná
 30,19/10/10,América-MG,1-3,ASA
@@ -306,7 +306,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 31,23/10/10,Portuguesa,1-2,América-RN
 31,23/10/10,Bahia,5-1,ASA
 31,23/10/10,Icasa,3-1,Figueirense
-31,23/10/10,Sport Recife,1-1,Náutico
+31,23/10/10,Sport,1-1,Náutico
 31,23/10/10,Vila Nova,4-0,Brasiliense
 31,23/10/10,Ipatinga,2-1,Bragantino
 32,26/10/10,América-MG,4-1,Santo André
@@ -314,12 +314,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 32,29/10/10,Paraná,0-1,Bahia
 32,29/10/10,Náutico,0-1,Americana
 32,29/10/10,Brasiliense,2-0,Icasa
-32,30/10/10,Figueirense,0-0,Sport Recife
+32,30/10/10,Figueirense,0-0,Sport
 32,30/10/10,ASA,1-1,Portuguesa
 32,30/10/10,São Caetano,3-1,Coritiba
 32,30/10/10,Bragantino,4-1,Duque de Caxias
 32,30/10/10,América-RN,0-1,Ipatinga
-33,02/11/10,Sport Recife,2-0,Bragantino
+33,02/11/10,Sport,2-0,Bragantino
 33,02/11/10,Vila Nova,2-1,América-RN
 33,02/11/10,Santo André,3-0,ASA
 33,02/11/10,Icasa,1-1,São Caetano
@@ -335,12 +335,12 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 34,06/11/10,Náutico,1-0,Icasa
 34,06/11/10,Brasiliense,3-2,Bahia
 34,06/11/10,Ponte Preta,0-2,Portuguesa
-34,06/11/10,São Caetano,2-1,Sport Recife
+34,06/11/10,São Caetano,2-1,Sport
 34,06/11/10,ASA,2-1,Vila Nova
 34,06/11/10,Bragantino,3-1,Santo André
 34,06/11/10,Figueirense,0-0,Duque de Caxias
 35,09/11/10,Figueirense,4-0,América-RN
-35,09/11/10,Vila Nova,1-1,Sport Recife
+35,09/11/10,Vila Nova,1-1,Sport
 35,09/11/10,Portuguesa,3-1,Brasiliense
 35,09/11/10,Santo André,2-2,Ipatinga
 35,09/11/10,Duque de Caxias,2-3,Coritiba
@@ -350,7 +350,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 35,09/11/10,Náutico,1-1,Ponte Preta
 35,09/11/10,Americana,0-2,ASA
 36,12/11/10,São Caetano,0-0,América-MG
-36,12/11/10,Sport Recife,1-1,Santo André
+36,12/11/10,Sport,1-1,Santo André
 36,12/11/10,Ipatinga,2-0,Duque de Caxias
 36,12/11/10,Bragantino,5-1,Vila Nova
 36,13/11/10,Coritiba,2-1,Figueirense
@@ -360,7 +360,7 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 36,13/11/10,ASA,0-1,Paraná
 36,13/11/10,Bahia,3-0,Portuguesa
 37,20/11/10,Paraná,0-0,Bragantino
-37,20/11/10,América-MG,2-1,Sport Recife
+37,20/11/10,América-MG,2-1,Sport
 37,20/11/10,Icasa,2-2,Coritiba
 37,20/11/10,Náutico,4-1,Vila Nova
 37,20/11/10,ASA,1-2,América-RN
@@ -378,4 +378,4 @@ Rodada,Data,Time da Casa,Placar,Time Visitante
 38,27/11/10,Ponte Preta,0-0,América-MG
 38,27/11/10,Figueirense,4-2,Paraná
 38,27/11/10,Bragantino,2-0,Bahia
-38,27/11/10,Sport Recife,1-2,Portuguesa
+38,27/11/10,Sport,1-2,Portuguesa

@@ -30,9 +30,9 @@ R1,1,17/03/21,Salgueiro,0-3,Corinthians
 R1,1,18/03/21,Marília,0-0,Criciúma
 R1,1,18/03/21,Caldense,1-1,Vasco
 R1,1,18/03/21,União Rondonópolis,0-1,Coritiba
-R1,1,18/03/21,Treze,0-1,América Mineiro
+R1,1,18/03/21,Treze,0-1,América-MG
 R1,1,18/03/21,FC Cascavel,2-1,Figueirense
-R1,1,18/03/21,Mirassol,2-3,Red Bull Bragantino
+R1,1,18/03/21,Mirassol,2-3,Bragantino
 R1,1,18/03/21,Penarol-AM,1-1,Ypiranga-RS
 R1,1,25/03/21,Palmas,0-1,Avaí
 R1,1,25/03/21,Porto Velho EC,0-1,Ferroviário
@@ -40,7 +40,7 @@ R1,1,26/03/21,Jaraguá,1-4,Manaus FC
 R1,1,26/03/21,Ypiranga-AP,0-4,Santa Cruz
 R1,1,27/03/21,Goianésia,2-3,CRB
 R2,1,26/03/21,Corinthians,1-1,Retrô FC
-R2,1,01/04/21,Luverdense,1-2,Red Bull Bragantino
+R2,1,01/04/21,Luverdense,1-2,Bragantino
 R2,1,06/04/21,Coritiba,3-2,Operário Ferroviário
 R2,1,06/04/21,Fortaleza,1-0,Ypiranga-RS
 R2,1,07/04/21,Juazeirense,3-3,Volta Redonda
@@ -53,7 +53,7 @@ R2,1,08/04/21,Vila Nova,1-1,Juventude
 R2,1,13/04/21,Paysandu,1-2,CRB
 R2,1,13/04/21,Cianorte,1-0,Santa Cruz
 R2,1,13/04/21,CSA,1-1,Remo
-R2,1,14/04/21,América Mineiro,1-1,Ferroviário
+R2,1,14/04/21,América-MG,1-1,Ferroviário
 R2,1,14/04/21,ABC,1-1,Botafogo
 R2,1,14/04/21,América-RN,0-1,Cruzeiro
 R2,1,15/04/21,4 de Julho,0-0,Cuiabá
@@ -70,20 +70,20 @@ R3,1,02/06/21,Grêmio,2-0,Brasiliense
 R3,1,02/06/21,Remo,0-2,Atlético Mineiro
 R3,1,02/06/21,Fortaleza,1-1,Ceará
 R3,1,02/06/21,Corinthians,0-2,Atlético Goianiense
-R3,1,02/06/21,Fluminense,2-0,Red Bull Bragantino
-R3,1,02/06/21,América Mineiro,0-0,Criciúma
+R3,1,02/06/21,Fluminense,2-0,Bragantino
+R3,1,02/06/21,América-MG,0-0,Criciúma
 R3,1,03/06/21,Cruzeiro,1-0,Juazeirense
-R3,1,03/06/21,Avaí,1-1,Athletico Paranaense
+R3,1,03/06/21,Avaí,1-1,Athletico-PR
 R3,1,03/06/21,Vitória,0-1,Internacional
 R3,1,03/06/21,CRB,0-1,Palmeiras
 R3,2,09/06/21,ABC,3-0,Chapecoense
 R3,2,09/06/21,Vasco,1-1,Boavista-RJ
 R3,2,09/06/21,Bahia,1-0,Vila Nova
-R3,2,09/06/21,Athletico Paranaense,1-0,Avaí
+R3,2,09/06/21,Athletico-PR,1-0,Avaí
 R3,2,09/06/21,Juazeirense,1-0,Cruzeiro
 R3,2,09/06/21,Palmeiras,0-1,CRB
-R3,2,09/06/21,Red Bull Bragantino,2-1,Fluminense
-R3,2,09/06/21,Criciúma,2-2,América Mineiro
+R3,2,09/06/21,Bragantino,2-1,Fluminense
+R3,2,09/06/21,Criciúma,2-2,América-MG
 R3,2,09/06/21,Atlético Goianiense,0-0,Corinthians
 R3,1,10/06/21,Coritiba,0-1,Flamengo
 R3,2,10/06/21,Brasiliense,0-0,Grêmio
@@ -93,7 +93,7 @@ R3,2,10/06/21,Ceará,0-3,Fortaleza
 R3,2,16/06/21,Flamengo,2-0,Coritiba
 O,1,27/07/21,Criciúma,2-1,Fluminense
 O,1,27/07/21,Vitória,0-3,Grêmio
-O,1,28/07/21,Athletico Paranaense,2-1,Atlético Goianiense
+O,1,28/07/21,Athletico-PR,2-1,Atlético Goianiense
 O,1,28/07/21,Santos,4-0,Juazeirense
 O,1,28/07/21,Atlético Mineiro,2-0,Bahia
 O,1,28/07/21,São Paulo,2-0,Vasco
@@ -102,22 +102,22 @@ O,1,29/07/21,Flamengo,6-0,ABC
 O,2,31/07/21,Fluminense,3-0,Criciúma
 O,2,03/08/21,Grêmio,1-0,Vitória
 O,2,04/08/21,CRB,0-1,Fortaleza
-O,2,04/08/21,Atlético Goianiense,2-2,Athletico Paranaense
+O,2,04/08/21,Atlético Goianiense,2-2,Athletico-PR
 O,2,04/08/21,Bahia,2-1,Atlético Mineiro
 O,2,04/08/21,Vasco,1-2,São Paulo
 O,2,05/08/21,Juazeirense,2-0,Santos
 O,2,05/08/21,ABC,0-1,Flamengo
-Q,1,25/08/21,Athletico Paranaense,1-0,Santos
+Q,1,25/08/21,Athletico-PR,1-0,Santos
 Q,1,25/08/21,São Paulo,2-2,Fortaleza
 Q,1,25/08/21,Grêmio,0-4,Flamengo
 Q,1,26/08/21,Fluminense,1-2,Atlético Mineiro
-Q,2,14/09/21,Santos,0-1,Athletico Paranaense
+Q,2,14/09/21,Santos,0-1,Athletico-PR
 Q,2,15/09/21,Atlético Mineiro,1-0,Fluminense
 Q,2,15/09/21,Flamengo,2-0,Grêmio
 Q,2,15/09/21,Fortaleza,3-1,São Paulo
 S,1,20/10/21,Atlético Mineiro,4-0,Fortaleza
-S,1,20/10/21,Athletico Paranaense,2-2,Flamengo
+S,1,20/10/21,Athletico-PR,2-2,Flamengo
 S,2,27/10/21,Fortaleza,1-2,Atlético Mineiro
-S,2,27/10/21,Flamengo,0-3,Athletico Paranaense
-F,1,12/12/21,Atlético Mineiro,4-0,Athletico Paranaense
-F,2,15/12/21,Athletico Paranaense,1-2,Atlético Mineiro
+S,2,27/10/21,Flamengo,0-3,Athletico-PR
+F,1,12/12/21,Atlético Mineiro,4-0,Athletico-PR
+F,2,15/12/21,Athletico-PR,1-2,Atlético Mineiro

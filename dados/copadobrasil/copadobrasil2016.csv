@@ -21,7 +21,7 @@ R1,2,07/04/16,Atlético-GO,0-2,Ypiranga-RS
 R1,2,07/04/16,Náutico,1-1,Vitória da Conquista
 R1,1,12/04/16,Operário-PR,2-1,Criciúma
 R1,1,13/04/16,Guarany de Sobral,0-3,Coritiba
-R1,1,13/04/16,Remo,0-1,Vasco da Gama
+R1,1,13/04/16,Remo,0-1,Vasco
 R1,2,13/04/16,Salgueiro,1-1,Ferroviária
 R1,1,14/04/16,Lajeadense,0-2,Figueirense
 R1,2,14/04/16,Ponte Preta,1-1,Caldense
@@ -41,7 +41,7 @@ R1,2,26/04/16,Portuguesa,1-0,Parnahyba
 R1,1,27/04/16,Independente-PA,1-2,Paysandu
 R1,2,27/04/16,Vitória,3-1,Náutico-RR
 R1,2,27/04/16,Goiás,2-1,River-PI
-R1,2,27/04/16,Vasco da Gama,2-1,Remo
+R1,2,27/04/16,Vasco,2-1,Remo
 R1,2,28/04/16,Avaí,2-0,Operário VG
 R1,2,28/04/16,América-MG,3-2,RB Brasil
 R1,2,28/04/16,Criciúma,1-1,Operário-PR
@@ -67,7 +67,7 @@ R2,1,11/05/16,Joinville,0-1,Ceará
 R2,1,11/05/16,River-PI,0-1,Botafogo-PB
 R2,1,11/05/16,Dom Bosco,2-2,Athletico-PR
 R2,1,11/05/16,América-MG,0-0,Bahia
-R2,1,11/05/16,CRB,0-1,Vasco da Gama
+R2,1,11/05/16,CRB,0-1,Vasco
 R2,1,11/05/16,Vitória da Conquista,0-2,Santa Cruz
 R2,1,12/05/16,Juazeirense,1-2,Botafogo
 R2,2,12/05/16,Ponte Preta,3-0,Genus
@@ -75,7 +75,7 @@ R2,2,12/05/16,Fluminense,3-0,Ferroviária
 R1,2,14/05/16,Gama,1-0,América-RN
 R2,2,17/05/16,Ceará,1-0,Joinville
 R2,2,18/05/16,Chapecoense,2-0,Paraná
-R2,2,18/05/16,Vasco da Gama,1-1,CRB
+R2,2,18/05/16,Vasco,1-1,CRB
 R2,2,18/05/16,Athletico-PR,5-0,Dom Bosco
 R2,2,18/05/16,Botafogo-PB,1-0,River-PI
 R2,2,18/05/16,Flamengo,1-2,Fortaleza
@@ -92,11 +92,11 @@ R3,1,07/07/16,América-MG,1-0,Fortaleza
 R3,1,13/07/16,Figueirense,0-0,Ponte Preta
 R3,1,13/07/16,Bragantino,2-2,Botafogo
 R3,1,13/07/16,Botafogo-PB,3-0,Ceará
-R3,1,13/07/16,Vasco da Gama,1-1,Santa Cruz
+R3,1,13/07/16,Vasco,1-1,Santa Cruz
 R3,2,20/07/16,Ceará,0-0,Botafogo-PB
 R3,2,20/07/16,Cruzeiro,2-1,Vitória
 R3,1,20/07/16,Gama,0-0,Santos
-R3,2,21/07/16,Santa Cruz,2-3,Vasco da Gama
+R3,2,21/07/16,Santa Cruz,2-3,Vasco
 R3,2,27/07/16,Chapecoense,1-1,Athletico-PR
 R3,2,27/07/16,Paysandu,1-2,Juventude
 R3,2,27/07/16,Ponte Preta,5-0,Figueirense
@@ -104,7 +104,7 @@ R3,2,27/07/16,Botafogo,1-0,Bragantino
 R3,2,27/07/16,Santos,3-0,Gama
 R3,2,27/07/16,Ypiranga-RS,0-2,Fluminense
 R3,2,28/07/16,Fortaleza,4-1,América-MG
-O,1,24/08/16,Santos,3-1,Vasco da Gama
+O,1,24/08/16,Santos,3-1,Vasco
 O,1,24/08/16,Athletico-PR,0-1,Grêmio
 O,1,24/08/16,São Paulo,1-2,Juventude
 O,1,24/08/16,Atlético-MG,1-1,Ponte Preta
@@ -113,7 +113,7 @@ O,1,31/08/16,Fluminense,1-1,Corinthians
 O,1,31/08/16,Internacional,3-0,Fortaleza
 O,1,01/09/16,Botafogo,2-5,Cruzeiro
 O,2,21/09/16,Ponte Preta,2-2,Atlético-MG
-O,2,21/09/16,Vasco da Gama,2-2,Santos
+O,2,21/09/16,Vasco,2-2,Santos
 O,2,21/09/16,Corinthians,1-0,Fluminense
 O,2,21/09/16,Cruzeiro,1-0,Botafogo
 O,2,22/09/16,Fortaleza,1-0,Internacional

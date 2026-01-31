@@ -26,7 +26,7 @@ R1,1,18/03/15,Interporto,2-5,Chapecoense
 R1,1,18/03/15,Princesa,2-2,Figueirense
 R1,1,18/03/15,Águia Negra,2-2,Paysandu
 R1,1,31/03/15,Piauí,1-5,Salgueiro
-R1,1,01/04/15,Rio Branco,1-2,Vasco da Gama
+R1,1,01/04/15,Rio Branco,1-2,Vasco
 R1,1,01/04/15,Ituano,3-0,Joinville
 R1,1,01/04/15,Anapolina,1-2,Vitória
 R1,1,01/04/15,Ríver,0-1,Fortaleza
@@ -34,7 +34,7 @@ R1,1,01/04/15,Globo,1-5,América-RN
 R1,1,01/04/15,Jacuipense,0-1,Paraná
 R1,1,01/04/15,Coruripe,1-1,Atlético-GO
 R1,1,01/04/15,Operário,0-0,Avaí
-R1,1,01/04/15,CENE,1-2,Sport Recife
+R1,1,01/04/15,CENE,1-2,Sport
 R1,1,01/04/15,Botafogo-PB,2-2,Botafogo
 R1,1,01/04/15,Confiança,0-0,Ceará
 R1,1,01/04/15,Campinense,1-2,Grêmio
@@ -61,14 +61,14 @@ R1,2,15/04/15,Joinville,1-0,Ituano
 R1,2,15/04/15,Santos,1-0,Londrina
 R1,2,15/04/15,Athletico-PR,1-1,Remo
 R1,2,15/04/15,Boa Esporte,1-1,Moto Club
-R1,2,15/04/15,Vasco da Gama,3-2,Rio Branco
+R1,2,15/04/15,Vasco,3-2,Rio Branco
 R1,2,15/04/15,Ceará,1-0,Confiança
 R1,2,15/04/15,Grêmio,2-0,Campinense
 R1,2,15/04/15,Náutico,2-0,Brasília
 R1,2,16/04/15,Bragantino,1-0,Lajeadense
 R1,2,16/04/15,Bahia,3-2,Nacional
 R1,2,16/04/15,Fortaleza,2-1,Ríver
-R1,2,16/04/15,Sport Recife,4-1,CENE
+R1,2,16/04/15,Sport,4-1,CENE
 R1,2,23/04/15,Paraná,0-1,Jacuipense
 R1,2,30/04/15,Atlético-GO,2-0,Coruripe
 R2,1,22/04/15,Salgueiro,0-2,Flamengo
@@ -79,7 +79,7 @@ R2,1,29/04/15,Sampaio Corrêa,1-1,Palmeiras
 R2,1,29/04/15,Capivariano,1-2,Botafogo
 R2,1,30/04/15,Jacuipense,0-2,Náutico
 R2,1,06/05/15,Fortaleza,2-1,Coritiba
-R2,1,06/05/15,Chapecoense,2-0,Sport Recife
+R2,1,06/05/15,Chapecoense,2-0,Sport
 R2,1,06/05/15,Avaí,1-0,Figueirense
 R2,1,06/05/15,Maringá,2-2,Santos
 R2,1,07/05/15,Moto Club,1-2,Ponte Preta
@@ -90,7 +90,7 @@ R2,1,12/05/15,América-RN,4-2,Atlético-GO
 R2,1,12/05/15,Luverdense,0-0,Bahia
 R2,1,13/05/15,CRB,1-3,Grêmio
 R2,1,13/05/15,ASA,1-1,Vitória
-R2,1,13/05/15,Cuiabá,1-1,Vasco da Gama
+R2,1,13/05/15,Cuiabá,1-1,Vasco
 R2,2,28/04/15,Portuguesa,1-2,Ituano
 R2,2,06/05/15,Athletico-PR,2-1,Tupi
 R2,2,06/05/15,Botafogo,3-0,Capivariano
@@ -98,24 +98,24 @@ R2,2,12/05/15,Palmeiras,5-1,Sampaio Corrêa
 R2,2,13/05/15,Ponte Preta,4-1,Moto Club
 R2,2,13/05/15,Goiás,3-0,Independente PA
 R2,2,13/05/15,Santos,1-0,Maringá
-R2,2,13/05/15,Sport Recife,2-0,Chapecoense
+R2,2,13/05/15,Sport,2-0,Chapecoense
 R2,2,13/05/15,Figueirense,2-0,Avaí
 R2,2,13/05/15,Coritiba,2-1,Fortaleza
 R2,2,19/05/15,ABC,1-2,Paysandu
 R2,2,19/05/15,Vitória,2-2,ASA
 R2,2,20/05/15,Atlético-GO,1-0,América-RN
-R2,2,20/05/15,Vasco da Gama,0-0,Cuiabá
+R2,2,20/05/15,Vasco,0-0,Cuiabá
 R2,2,20/05/15,Bahia,3-1,Luverdense
 R2,2,20/05/15,Ceará,3-0,América-MG
 R3,1,20/05/15,Ituano,2-0,Goiás
 R3,1,20/05/15,Figueirense,2-2,Botafogo
-R3,1,20/05/15,Sport Recife,2-1,Santos
+R3,1,20/05/15,Sport,2-1,Santos
 R3,1,27/05/15,Coritiba,2-1,Ponte Preta
 R3,1,27/05/15,Flamengo,1-1,Náutico
 R3,1,27/05/15,Palmeiras,0-0,ASA
 R3,1,14/07/15,Grêmio,0-1,Criciúma
 R3,1,15/07/15,Ceará,0-0,Tupi
-R3,1,15/07/15,Vasco da Gama,3-1,América-RN
+R3,1,15/07/15,Vasco,3-1,América-RN
 R3,1,15/07/15,Paysandu,3-0,Bahia
 R3,2,27/05/15,Goiás,3-1,Ituano
 R3,2,14/07/15,Botafogo,0-1,Figueirense
@@ -124,21 +124,21 @@ R3,2,15/07/15,Náutico,0-2,Flamengo
 R3,2,21/07/15,Criciúma,0-1,Grêmio
 R3,2,22/07/15,Tupi,1-2,Ceará
 R3,2,22/07/15,Bahia,2-0,Paysandu
-R3,2,22/07/15,Santos,3-1,Sport Recife
+R3,2,22/07/15,Santos,3-1,Sport
 R3,2,22/07/15,Ponte Preta,2-1,Coritiba
-R3,2,22/07/15,América-RN,2-3,Vasco da Gama
+R3,2,22/07/15,América-RN,2-3,Vasco
 O,1,19/08/15,Coritiba,0-1,Grêmio
 O,1,19/08/15,Atlético-MG,1-1,Figueirense
 O,1,19/08/15,Palmeiras,2-1,Cruzeiro
 O,1,19/08/15,Santos,2-0,Corinthians
-O,1,19/08/15,Flamengo,0-1,Vasco da Gama
+O,1,19/08/15,Flamengo,0-1,Vasco
 O,1,20/08/15,Internacional,2-0,Ituano
 O,1,20/08/15,Fluminense,2-1,Paysandu
 O,1,20/08/15,São Paulo,1-2,Ceará
 O,2,26/08/15,Ceará,0-3,São Paulo
 O,2,26/08/15,Figueirense,2-1,Atlético-MG
 O,2,26/08/15,Paysandu,1-2,Fluminense
-O,2,26/08/15,Vasco da Gama,1-1,Flamengo
+O,2,26/08/15,Vasco,1-1,Flamengo
 O,2,26/08/15,Cruzeiro,2-3,Palmeiras
 O,2,26/08/15,Corinthians,1-2,Santos
 O,2,27/08/15,Ituano,1-2,Internacional
@@ -146,10 +146,10 @@ O,2,27/08/15,Grêmio,3-1,Coritiba
 Q,1,23/09/15,Internacional,1-1,Palmeiras
 Q,1,23/09/15,Figueirense,0-1,Santos
 Q,1,23/09/15,Fluminense,0-0,Grêmio
-Q,1,23/09/15,São Paulo,3-0,Vasco da Gama
+Q,1,23/09/15,São Paulo,3-0,Vasco
 Q,2,30/09/15,Grêmio,1-1,Fluminense
 Q,2,30/09/15,Palmeiras,3-2,Internacional
-Q,2,30/09/15,Vasco da Gama,1-1,São Paulo
+Q,2,30/09/15,Vasco,1-1,São Paulo
 Q,2,01/10/15,Santos,3-2,Figueirense
 S,1,21/10/15,Fluminense,2-1,Palmeiras
 S,1,21/10/15,São Paulo,1-3,Santos
