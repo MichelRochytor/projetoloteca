@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/04/24,Internacional,2-1,Bahia
+1,13/04/24,Criciúma,1-1,Juventude
+1,13/04/24,Fluminense,2-2,Bragantino
+1,13/04/24,São Paulo,1-2,Fortaleza
+1,14/04/24,Vasco,2-1,Grêmio
+1,14/04/24,Athletico-PR,4-0,Cuiabá
+1,14/04/24,Atlético-GO,1-2,Flamengo
+1,14/04/24,Corinthians,0-0,Atlético-MG
+1,14/04/24,Cruzeiro,3-2,Botafogo
+1,14/04/24,Vitória,0-1,Palmeiras
+2,16/04/24,Bahia,2-1,Fluminense
+2,17/04/24,Bragantino,2-1,Vasco
+2,17/04/24,Grêmio,2-0,Athletico-PR
+2,17/04/24,Fortaleza,1-1,Cruzeiro
+2,17/04/24,Palmeiras,0-1,Internacional
+2,17/04/24,Atlético-MG,1-1,Criciúma
+2,17/04/24,Juventude,2-0,Corinthians
+2,17/04/24,Flamengo,2-1,São Paulo
+2,18/04/24,Botafogo,1-0,Atlético-GO
+2,05/06/24,Cuiabá,0-0,Vitória
+3,20/04/24,Fluminense,2-1,Vasco
+3,20/04/24,Bragantino,1-0,Corinthians
+3,20/04/24,Grêmio,1-0,Cuiabá
+3,20/04/24,Atlético-MG,3-0,Cruzeiro
+3,21/04/24,Vitória,2-2,Bahia
+3,21/04/24,Athletico-PR,1-0,Internacional
+3,21/04/24,Palmeiras,0-0,Flamengo
+3,21/04/24,Botafogo,5-1,Juventude
+3,21/04/24,Atlético-GO,0-3,São Paulo
+3,24/07/24,Criciúma,1-1,Fortaleza
+4,27/04/24,Vasco,0-4,Criciúma
+4,27/04/24,Cuiabá,0-3,Atlético-MG
+4,27/04/24,Bahia,1-0,Grêmio
+4,28/04/24,Flamengo,0-2,Botafogo
+4,28/04/24,Cruzeiro,3-1,Vitória
+4,28/04/24,Corinthians,3-0,Fluminense
+4,28/04/24,Fortaleza,1-1,Bragantino
+4,28/04/24,Juventude,1-1,Athletico-PR
+4,28/04/24,Internacional,1-1,Atlético-GO
+4,29/04/24,São Paulo,0-0,Palmeiras
+5,04/05/24,Fluminense,2-2,Atlético-MG
+5,04/05/24,Bragantino,1-1,Flamengo
+5,04/05/24,Corinthians,0-0,Fortaleza
+5,05/05/24,Athletico-PR,1-0,Vasco
+5,05/05/24,Vitória,1-3,São Paulo
+5,05/05/24,Botafogo,1-2,Bahia
+5,05/05/24,Cuiabá,0-2,Palmeiras
+5,05/06/24,Juventude,1-0,Atlético-GO
+5,28/08/24,Cruzeiro,0-0,Internacional
+5,25/09/24,Grêmio,1-2,Criciúma
+6,11/05/24,Flamengo,2-0,Corinthians
+6,12/05/24,Palmeiras,0-2,Athletico-PR
+6,12/05/24,Atlético-GO,0-1,Cruzeiro
+6,12/05/24,Fortaleza,1-1,Botafogo
+6,12/05/24,Vasco,2-1,Vitória
+6,12/05/24,Bahia,1-0,Bragantino
+6,13/05/24,São Paulo,2-1,Fluminense
+6,09/06/24,Criciúma,2-5,Cuiabá
+6,14/08/24,Internacional,2-1,Juventude
+6,09/10/24,Atlético-MG,2-1,Grêmio
+7,01/06/24,Grêmio,0-2,Bragantino
+7,01/06/24,Vitória,0-2,Atlético-GO
+7,01/06/24,Fluminense,1-1,Juventude
+7,01/06/24,Cuiabá,0-1,Internacional
+7,01/06/24,Corinthians,0-1,Botafogo
+7,02/06/24,Vasco,1-6,Flamengo
+7,02/06/24,Atlético-MG,1-1,Bahia
+7,02/06/24,Criciúma,1-2,Palmeiras
+7,02/06/24,São Paulo,2-0,Cruzeiro
+7,02/06/24,Fortaleza,1-0,Athletico-PR
+8,11/06/24,Atlético-GO,2-2,Corinthians
+8,11/06/24,Juventude,1-1,Vitória
+8,11/06/24,Botafogo,1-0,Fluminense
+8,11/06/24,Bragantino,1-2,Atlético-MG
+8,13/06/24,Cruzeiro,2-1,Cuiabá
+8,13/06/24,Athletico-PR,3-1,Criciúma
+8,13/06/24,Internacional,0-0,São Paulo
+8,13/06/24,Flamengo,2-1,Grêmio
+8,13/06/24,Bahia,1-0,Fortaleza
+8,13/06/24,Palmeiras,2-0,Vasco
+9,15/06/24,Bragantino,2-1,Juventude
+9,15/06/24,Fluminense,1-2,Atlético-GO
+9,16/06/24,Corinthians,2-2,São Paulo
+9,16/06/24,Vitória,2-1,Internacional
+9,16/06/24,Athletico-PR,1-1,Flamengo
+9,16/06/24,Vasco,0-0,Cruzeiro
+9,16/06/24,Criciúma,2-2,Bahia
+9,16/06/24,Grêmio,1-2,Botafogo
+9,16/06/24,Cuiabá,5-0,Fortaleza
+9,17/06/24,Atlético-MG,0-4,Palmeiras
+10,19/06/24,Botafogo,1-1,Athletico-PR
+10,19/06/24,Atlético-GO,1-2,Criciúma
+10,19/06/24,São Paulo,0-1,Cuiabá
+10,19/06/24,Juventude,2-0,Vasco
+10,19/06/24,Fortaleza,1-0,Grêmio
+10,19/06/24,Cruzeiro,2-0,Fluminense
+10,19/06/24,Internacional,1-0,Corinthians
+10,20/06/24,Vitória,4-2,Atlético-MG
+10,20/06/24,Flamengo,2-1,Bahia
+10,20/06/24,Palmeiras,2-1,Bragantino
+11,22/06/24,Criciúma,2-1,Botafogo
+11,22/06/24,Grêmio,0-1,Internacional
+11,22/06/24,Cuiabá,0-0,Atlético-GO
+11,22/06/24,Vasco,4-1,São Paulo
+11,23/06/24,Athletico-PR,1-1,Corinthians
+11,23/06/24,Fluminense,0-1,Flamengo
+11,23/06/24,Bahia,4-1,Cruzeiro
+11,23/06/24,Bragantino,2-1,Vitória
+11,23/06/24,Atlético-MG,1-1,Fortaleza
+11,23/06/24,Palmeiras,3-1,Juventude
+12,26/06/24,Botafogo,2-1,Bragantino
+12,26/06/24,Cruzeiro,2-0,Athletico-PR
+12,26/06/24,Juventude,2-1,Flamengo
+12,26/06/24,Atlético-GO,1-1,Grêmio
+12,26/06/24,Corinthians,1-1,Cuiabá
+12,26/06/24,Bahia,2-1,Vasco
+12,26/06/24,Internacional,1-2,Atlético-MG
+12,26/06/24,Fortaleza,3-0,Palmeiras
+12,27/06/24,Fluminense,0-1,Vitória
+12,27/06/24,São Paulo,2-1,Criciúma
+13,29/06/24,Vasco,1-1,Botafogo
+13,29/06/24,Cuiabá,1-1,Bragantino
+13,30/06/24,Atlético-MG,1-1,Atlético-GO
+13,30/06/24,Grêmio,1-0,Fluminense
+13,30/06/24,São Paulo,3-1,Bahia
+13,30/06/24,Fortaleza,2-1,Juventude
+13,30/06/24,Criciúma,1-1,Internacional
+13,30/06/24,Vitória,0-1,Athletico-PR
+13,30/06/24,Flamengo,2-1,Cruzeiro
+13,01/07/24,Palmeiras,2-0,Corinthians
+14,03/07/24,Cuiabá,1-2,Botafogo
+14,03/07/24,Criciúma,1-0,Cruzeiro
+14,03/07/24,Vasco,2-0,Fortaleza
+14,03/07/24,Athletico-PR,1-2,São Paulo
+14,03/07/24,Atlético-MG,2-4,Flamengo
+14,03/07/24,Bragantino,3-1,Atlético-GO
+14,04/07/24,Grêmio,2-2,Palmeiras
+14,04/07/24,Bahia,2-0,Juventude
+14,04/07/24,Fluminense,1-1,Internacional
+14,04/07/24,Corinthians,3-2,Vitória
+15,06/07/24,São Paulo,2-0,Bragantino
+15,06/07/24,Flamengo,1-1,Cuiabá
+15,07/07/24,Fortaleza,1-0,Fluminense
+15,07/07/24,Juventude,3-0,Grêmio
+15,07/07/24,Cruzeiro,3-0,Corinthians
+15,07/07/24,Internacional,1-2,Vasco
+15,07/07/24,Vitória,2-1,Criciúma
+15,07/07/24,Atlético-GO,1-2,Athletico-PR
+15,07/07/24,Palmeiras,2-0,Bahia
+15,07/07/24,Botafogo,3-0,Atlético-MG
+16,10/07/24,Grêmio,0-2,Cruzeiro
+16,10/07/24,Vasco,2-0,Corinthians
+16,10/07/24,Athletico-PR,1-3,Bahia
+16,11/07/24,Palmeiras,3-1,Atlético-GO
+16,11/07/24,Criciúma,1-1,Fluminense
+16,11/07/24,Flamengo,1-2,Fortaleza
+16,11/07/24,Atlético-MG,2-1,São Paulo
+16,11/07/24,Vitória,0-1,Botafogo
+16,05/09/24,Cuiabá,0-0,Juventude
+16,25/09/24,Bragantino,2-2,Internacional
+17,13/07/24,Bahia,1-2,Cuiabá
+17,13/07/24,Cruzeiro,2-1,Bragantino
+17,16/07/24,Juventude,1-1,Atlético-MG
+17,16/07/24,Corinthians,2-1,Criciúma
+17,17/07/24,Atlético-GO,0-1,Vasco
+17,17/07/24,São Paulo,1-0,Grêmio
+17,17/07/24,Botafogo,1-0,Palmeiras
+17,17/07/24,Fortaleza,3-1,Vitória
+17,22/10/24,Fluminense,1-0,Athletico-PR
+17,30/10/24,Internacional,1-1,Flamengo
+18,20/07/24,Flamengo,2-1,Criciúma
+18,20/07/24,Botafogo,1-0,Internacional
+18,20/07/24,Palmeiras,2-0,Cruzeiro
+18,21/07/24,Grêmio,2-0,Vitória
+18,21/07/24,Atlético-MG,2-0,Vasco
+18,21/07/24,Bahia,0-1,Corinthians
+18,21/07/24,Bragantino,1-0,Athletico-PR
+18,21/07/24,Juventude,0-0,São Paulo
+18,21/07/24,Fortaleza,3-1,Atlético-GO
+18,21/07/24,Cuiabá,0-1,Fluminense
+19,24/07/24,Cruzeiro,2-0,Juventude
+19,24/07/24,São Paulo,2-2,Botafogo
+19,24/07/24,Vitória,1-2,Flamengo
+19,24/07/24,Atlético-GO,1-1,Bahia
+19,24/07/24,Fluminense,1-0,Palmeiras
+19,25/07/24,Corinthians,2-2,Grêmio
+19,28/08/24,Criciúma,1-0,Bragantino
+19,11/09/24,Internacional,2-1,Fortaleza
+19,24/10/24,Vasco,1-0,Cuiabá
+19,16/11/24,Athletico-PR,1-0,Atlético-MG
+20,27/07/24,Palmeiras,0-2,Vitória
+20,27/07/24,Juventude,1-2,Criciúma
+20,27/07/24,Bahia,1-1,Internacional
+20,27/07/24,Fortaleza,1-0,São Paulo
+20,27/07/24,Botafogo,0-3,Cruzeiro
+20,28/07/24,Bragantino,0-1,Fluminense
+20,28/07/24,Flamengo,2-0,Atlético-GO
+20,28/07/24,Atlético-MG,2-1,Corinthians
+20,28/07/24,Cuiabá,1-2,Athletico-PR
+20,28/07/24,Grêmio,1-0,Vasco
+21,03/08/24,Vitória,1-0,Cuiabá
+21,03/08/24,Vasco,2-2,Bragantino
+21,03/08/24,Criciúma,2-1,Atlético-MG
+21,03/08/24,Atlético-GO,1-4,Botafogo
+21,03/08/24,São Paulo,1-0,Flamengo
+21,04/08/24,Corinthians,1-1,Juventude
+21,04/08/24,Fluminense,1-0,Bahia
+21,04/08/24,Athletico-PR,0-2,Grêmio
+21,04/08/24,Internacional,1-1,Palmeiras
+21,05/08/24,Cruzeiro,1-2,Fortaleza
+22,10/08/24,Fortaleza,1-0,Criciúma
+22,10/08/24,Cuiabá,1-3,Grêmio
+22,10/08/24,Cruzeiro,0-0,Atlético-MG
+22,10/08/24,Corinthians,1-1,Bragantino
+22,10/08/24,Vasco,2-0,Fluminense
+22,11/08/24,Juventude,3-2,Botafogo
+22,11/08/24,Bahia,2-0,Vitória
+22,11/08/24,São Paulo,1-0,Atlético-GO
+22,11/08/24,Flamengo,1-1,Palmeiras
+22,11/08/24,Internacional,2-2,Athletico-PR
+23,17/08/24,Grêmio,0-2,Bahia
+23,17/08/24,Atlético-MG,1-1,Cuiabá
+23,17/08/24,Bragantino,1-2,Fortaleza
+23,17/08/24,Fluminense,0-0,Corinthians
+23,18/08/24,Atlético-GO,1-0,Internacional
+23,18/08/24,Criciúma,2-2,Vasco
+23,18/08/24,Palmeiras,2-1,São Paulo
+23,18/08/24,Athletico-PR,1-2,Juventude
+23,18/08/24,Botafogo,4-1,Flamengo
+23,19/08/24,Vitória,2-2,Cruzeiro
+24,24/08/24,Atlético-GO,2-1,Juventude
+24,24/08/24,Palmeiras,5-0,Cuiabá
+24,24/08/24,Atlético-MG,0-2,Fluminense
+25,25/08/24,Bahia,0-0,Botafogo
+25,25/08/24,Criciúma,0-1,Grêmio
+25,25/08/24,Fortaleza,1-0,Corinthians
+25,25/08/24,São Paulo,2-1,Vitória
+25,25/08/24,Internacional,1-0,Cruzeiro
+25,25/08/24,Flamengo,2-1,Bragantino
+26,26/08/24,Vasco,2-1,Athletico-PR
+25,31/08/24,Cuiabá,2-1,Criciúma
+25,31/08/24,Botafogo,2-0,Fortaleza
+25,01/09/24,Grêmio,2-3,Atlético-MG
+25,01/09/24,Cruzeiro,3-1,Atlético-GO
+25,01/09/24,Corinthians,2-1,Flamengo
+25,01/09/24,Bragantino,2-1,Bahia
+25,01/09/24,Fluminense,2-0,São Paulo
+25,01/09/24,Athletico-PR,0-2,Palmeiras
+25,01/09/24,Juventude,1-3,Internacional
+25,01/09/24,Vitória,0-1,Vasco
+26,14/09/24,Atlético-GO,0-2,Vitória
+26,14/09/24,Athletico-PR,1-1,Fortaleza
+26,14/09/24,Botafogo,2-1,Corinthians
+26,15/09/24,Bragantino,2-2,Grêmio
+26,15/09/24,Palmeiras,5-0,Criciúma
+26,15/09/24,Juventude,2-1,Fluminense
+26,15/09/24,Bahia,3-0,Atlético-MG
+26,15/09/24,Flamengo,1-1,Vasco
+26,15/09/24,Cruzeiro,0-1,São Paulo
+26,16/09/24,Internacional,3-0,Cuiabá
+27,21/09/24,Corinthians,3-0,Atlético-GO
+27,21/09/24,Vitória,1-0,Juventude
+27,21/09/24,Fluminense,0-1,Botafogo
+27,21/09/24,Fortaleza,4-1,Bahia
+27,22/09/24,Atlético-MG,3-0,Bragantino
+27,22/09/24,Vasco,0-1,Palmeiras
+27,22/09/24,Grêmio,3-2,Flamengo
+27,22/09/24,Cuiabá,0-0,Cruzeiro
+27,22/09/24,São Paulo,1-3,Internacional
+27,22/09/24,Criciúma,0-0,Athletico-PR
+28,28/09/24,Palmeiras,2-1,Atlético-MG
+28,28/09/24,Botafogo,0-0,Grêmio
+28,29/09/24,Juventude,1-1,Bragantino
+28,29/09/24,São Paulo,3-1,Corinthians
+28,29/09/24,Fortaleza,1-0,Cuiabá
+28,29/09/24,Atlético-GO,1-0,Fluminense
+28,29/09/24,Cruzeiro,1-1,Vasco
+28,29/09/24,Internacional,3-1,Vitória
+28,29/09/24,Bahia,1-0,Criciúma
+28,29/09/24,Flamengo,1-0,Athletico-PR
+29,03/10/24,Criciúma,2-0,Atlético-GO
+29,03/10/24,Fluminense,1-0,Cruzeiro
+29,04/10/24,Grêmio,3-1,Fortaleza
+29,05/10/24,Athletico-PR,0-1,Botafogo
+29,05/10/24,Atlético-MG,2-2,Vitória
+29,05/10/24,Bragantino,0-0,Palmeiras
+29,05/10/24,Bahia,0-2,Flamengo
+29,05/10/24,Cuiabá,2-0,São Paulo
+29,05/10/24,Corinthians,2-2,Internacional
+29,05/10/24,Vasco,1-1,Juventude
+30,16/10/24,São Paulo,3-0,Vasco
+30,16/10/24,Fortaleza,1-1,Atlético-MG
+30,17/10/24,Corinthians,5-2,Athletico-PR
+30,17/10/24,Flamengo,0-2,Fluminense
+30,18/10/24,Atlético-GO,0-0,Cuiabá
+30,18/10/24,Botafogo,1-1,Criciúma
+30,18/10/24,Cruzeiro,1-1,Bahia
+30,19/10/24,Internacional,1-0,Grêmio
+30,19/10/24,Vitória,1-0,Bragantino
+30,20/10/24,Juventude,3-5,Palmeiras
+31,26/10/24,Palmeiras,2-2,Fortaleza
+31,26/10/24,Flamengo,4-2,Juventude
+31,26/10/24,Grêmio,3-1,Atlético-GO
+31,26/10/24,Vitória,2-1,Fluminense
+31,26/10/24,Athletico-PR,3-0,Cruzeiro
+31,26/10/24,Bragantino,0-1,Botafogo
+31,26/10/24,Atlético-MG,1-3,Internacional
+31,26/10/24,Criciúma,1-1,São Paulo
+31,28/10/24,Cuiabá,0-1,Corinthians
+31,28/10/24,Vasco,3-2,Bahia
+32,01/11/24,Fluminense,2-2,Grêmio
+32,02/11/24,Bragantino,0-0,Cuiabá
+32,02/11/24,Juventude,0-3,Fortaleza
+32,02/11/24,Athletico-PR,1-2,Vitória
+32,04/11/24,Corinthians,2-0,Palmeiras
+32,05/11/24,Bahia,0-3,São Paulo
+32,05/11/24,Internacional,2-0,Criciúma
+32,05/11/24,Botafogo,3-0,Vasco
+32,06/11/24,Cruzeiro,0-1,Flamengo
+32,06/11/24,Atlético-GO,1-0,Atlético-MG
+33,08/11/24,Internacional,2-0,Fluminense
+33,08/11/24,Palmeiras,1-0,Grêmio
+33,09/11/24,Vitória,1-2,Corinthians
+33,09/11/24,Botafogo,0-0,Cuiabá
+33,09/11/24,Cruzeiro,2-1,Criciúma
+33,09/11/24,Juventude,2-1,Bahia
+33,09/11/24,Fortaleza,3-0,Vasco
+33,09/11/24,Atlético-GO,0-0,Bragantino
+33,09/11/24,São Paulo,2-1,Athletico-PR
+33,13/11/24,Flamengo,0-0,Atlético-MG
+34,20/11/24,Corinthians,2-1,Cruzeiro
+34,20/11/24,Bragantino,1-1,São Paulo
+34,20/11/24,Athletico-PR,2-0,Atlético-GO
+34,20/11/24,Criciúma,0-1,Vitória
+34,20/11/24,Bahia,1-2,Palmeiras
+34,20/11/24,Grêmio,2-2,Juventude
+34,20/11/24,Cuiabá,1-2,Flamengo
+34,20/11/24,Atlético-MG,0-0,Botafogo
+34,21/11/24,Vasco,0-1,Internacional
+34,22/11/24,Fluminense,2-2,Fortaleza
+35,23/11/24,Juventude,1-1,Cuiabá
+35,23/11/24,Botafogo,1-1,Vitória
+35,23/11/24,Atlético-GO,0-1,Palmeiras
+35,23/11/24,São Paulo,2-2,Atlético-MG
+35,24/11/24,Corinthians,3-1,Vasco
+35,24/11/24,Internacional,4-1,Bragantino
+35,24/11/24,Bahia,1-1,Athletico-PR
+35,26/11/24,Fluminense,0-0,Criciúma
+35,26/11/24,Fortaleza,0-0,Flamengo
+35,27/11/24,Cruzeiro,1-1,Grêmio
+36,26/11/24,Palmeiras,1-3,Botafogo
+36,26/11/24,Atlético-MG,2-3,Juventude
+36,30/11/24,Criciúma,2-4,Corinthians
+36,30/11/24,Cuiabá,1-2,Bahia
+36,30/11/24,Vasco,2-2,Atlético-GO
+37,01/12/24,Grêmio,2-1,São Paulo
+37,01/12/24,Flamengo,3-2,Internacional
+37,01/12/24,Bragantino,1-1,Cruzeiro
+37,01/12/24,Athletico-PR,1-1,Fluminense
+37,01/12/24,Vitória,2-0,Fortaleza
+37,03/12/24,Corinthians,3-0,Bahia
+37,04/12/24,Vasco,2-0,Atlético-MG
+37,04/12/24,Vitória,1-1,Grêmio
+37,04/12/24,Criciúma,0-3,Flamengo
+37,04/12/24,São Paulo,1-2,Juventude
+37,04/12/24,Atlético-GO,3-1,Fortaleza
+37,04/12/24,Internacional,0-1,Botafogo
+37,04/12/24,Cruzeiro,1-2,Palmeiras
+37,05/12/24,Fluminense,1-0,Cuiabá
+37,05/12/24,Athletico-PR,1-2,Bragantino
+38,08/12/24,Fortaleza,3-0,Internacional
+38,08/12/24,Juventude,0-1,Cruzeiro
+38,08/12/24,Bahia,2-0,Atlético-GO
+38,08/12/24,Flamengo,2-2,Vitória
+38,08/12/24,Bragantino,5-1,Criciúma
+38,08/12/24,Atlético-MG,1-0,Athletico-PR
+38,08/12/24,Botafogo,2-1,São Paulo
+38,08/12/24,Cuiabá,1-2,Vasco
+38,08/12/24,Palmeiras,0-1,Fluminense
+38,08/12/24,Grêmio,0-3,Corinthians

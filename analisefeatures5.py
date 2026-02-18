@@ -5,12 +5,12 @@ from collections import deque
 from datetime import datetime, timedelta
 
 # --- ETAPA 1: CARREGAMENTO DOS ARQUIVOS ---
-caminho_serie_a = 'dados/brasileiraoA/brasileiraoA2020.csv'
-caminho_serie_b = 'dados/brasileiraoB/brasileiraoB2020.csv'
-caminho_times = 'dados/times/times2020.csv'
-caminho_copa_brasil = 'dados/copadobrasil/copadobrasil2020.csv'
-caminho_libertadores = 'dados/libertadores/libertadores2020.csv'
-caminho_sudamericana = 'dados/sudamericana/sudamericana2020.csv'
+caminho_serie_a = 'dados/brasileiraoA/brasileiraoA2013.csv'
+caminho_serie_b = 'dados/brasileiraoB/brasileiraoB2013.csv'
+caminho_times = 'dados/times/times2013.csv'
+caminho_copa_brasil = 'dados/copadobrasil/copadobrasil2013.csv'
+caminho_libertadores = 'dados/libertadores/libertadores2013.csv'
+caminho_sudamericana = 'dados/sudamericana/sudamericana2013.csv'
 # Carrega os arquivos principais
 
 try:
@@ -153,9 +153,11 @@ print(f"Times totais com jogos de copa: {len(todos_jogos_copa)}")
 
 # --- ETAPA 2: FUNÇÃO PRINCIPAL DE ENGENHARIA DE FEATURES ---
 def gerar_features_completas(df_jogos, df_times):
-    print("\n--- Iniciando a criação completa de features para a Série A ---")
+    print(f"\n--- Iniciando a criação completa de features para o dataframe com {len(df_jogos)} jogos ---")
     COLUNA_MANDANTE = 'Time da Casa'
     COLUNA_VISITANTE = 'Time Visitante'
+    
+    # Ordena por rodada
     df_jogos = df_jogos.sort_values(by='Rodada').reset_index(drop=True)
     
     def extrair_gols(placar):
@@ -199,28 +201,35 @@ def gerar_features_completas(df_jogos, df_times):
         'ultimos_5_resultados': deque(maxlen=5)  # Resultados dos últimos 5 jogos (V/E/D)
     } for time in unique_teams}
     
+    # Inicializa as listas com valores None
+    total_jogos = len(df_jogos)
     listas_features = {
-        'Posicao_Mandante': [], 
-        'Posicao_Visitante': [],
-        'Media_GM_Casa': [], 
-        'Media_GS_Casa': [],
-        'Media_GM_Fora': [], 
-        'Media_GS_Fora': [],
-        'Saldo_GM_Casa': [],
-        'Saldo_GS_Casa': [],
-        'Saldo_GM_Fora': [],
-        'Saldo_GS_Fora': [],
-        'Saldo_Gols_Casa_Mandante': [],  # Saldo completo de gols em casa do mandante
-        'Saldo_Gols_Fora_Visitante': [],  # Saldo completo de gols fora do visitante
-        'Saldo_Ultimos_5_Casa_Mandante': [],
-        'Saldo_Ultimos_5_Fora_Visitante': [],
-        'Sequencia_5_Mandante': [],
-        'Sequencia_5_Visitante': [],
-        'Proxima_Copa_Mandante': [],  # Próximo jogo de copa do mandante
-        'Proxima_Copa_Visitante': []   # Próximo jogo de copa do visitante
+        'Posicao_Mandante': [None] * total_jogos, 
+        'Posicao_Visitante': [None] * total_jogos,
+        'Media_GM_Casa': [None] * total_jogos, 
+        'Media_GS_Casa': [None] * total_jogos,
+        'Media_GM_Fora': [None] * total_jogos, 
+        'Media_GS_Fora': [None] * total_jogos,
+        'Saldo_GM_Casa': [None] * total_jogos,
+        'Saldo_GS_Casa': [None] * total_jogos,
+        'Saldo_GM_Fora': [None] * total_jogos,
+        'Saldo_GS_Fora': [None] * total_jogos,
+        'Saldo_Gols_Casa_Mandante': [None] * total_jogos,  # Saldo completo de gols em casa do mandante
+        'Saldo_Gols_Fora_Visitante': [None] * total_jogos,  # Saldo completo de gols fora do visitante
+        'Saldo_Ultimos_5_Casa_Mandante': [None] * total_jogos,
+        'Saldo_Ultimos_5_Fora_Visitante': [None] * total_jogos,
+        'Sequencia_5_Mandante': [None] * total_jogos,
+        'Sequencia_5_Visitante': [None] * total_jogos,
+        'Proxima_Copa_Mandante': [None] * total_jogos,  # Próximo jogo de copa do mandante
+        'Proxima_Copa_Visitante': [None] * total_jogos   # Próximo jogo de copa do visitante
     }
     
-    for rodada in range(1, 39):
+    # Processa rodada por rodada
+    rodadas = sorted(df_jogos['Rodada'].unique())
+    indice_atual = 0
+    
+    for rodada_num in rodadas:
+        # Calcula classificação antes desta rodada
         df_classificacao = pd.DataFrame.from_dict(stats_times, orient='index')
         # Classificação por pontos, vitórias e saldo total (casa + fora)
         df_classificacao['sg_total'] = df_classificacao['sg_casa'] + df_classificacao['sg_fora']
@@ -228,60 +237,62 @@ def gerar_features_completas(df_jogos, df_times):
         df_classificacao['posicao'] = range(1, len(df_classificacao) + 1)
         mapa_posicao = df_classificacao['posicao'].to_dict()
         
-        jogos_da_rodada = df_jogos[df_jogos['Rodada'] == rodada]
+        # Pega todos os jogos desta rodada
+        jogos_da_rodada = df_jogos[df_jogos['Rodada'] == rodada_num]
         
-        for index, jogo in jogos_da_rodada.iterrows():
+        for _, jogo in jogos_da_rodada.iterrows():
             mandante = jogo[COLUNA_MANDANTE]
             visitante = jogo[COLUNA_VISITANTE]
             data_jogo = jogo['Data_Datetime']
             
             if pd.isna(data_jogo):
+                indice_atual += 1
                 continue
             
             # Adiciona as features baseadas nas estatísticas até a rodada anterior
             stats_m = stats_times[mandante]
             stats_v = stats_times[visitante]
             
-            listas_features['Posicao_Mandante'].append(mapa_posicao.get(mandante, 21))
-            listas_features['Posicao_Visitante'].append(mapa_posicao.get(visitante, 21))
+            listas_features['Posicao_Mandante'][indice_atual] = mapa_posicao.get(mandante, 21)
+            listas_features['Posicao_Visitante'][indice_atual] = mapa_posicao.get(visitante, 21)
             
             # Médias por mando de campo
-            listas_features['Media_GM_Casa'].append(
+            listas_features['Media_GM_Casa'][indice_atual] = (
                 stats_m['gols_marcados_casa'] / stats_m['jogos_casa'] if stats_m['jogos_casa'] > 0 else 0
             )
-            listas_features['Media_GS_Casa'].append(
+            listas_features['Media_GS_Casa'][indice_atual] = (
                 stats_m['gols_sofridos_casa'] / stats_m['jogos_casa'] if stats_m['jogos_casa'] > 0 else 0
             )
-            listas_features['Media_GM_Fora'].append(
+            listas_features['Media_GM_Fora'][indice_atual] = (
                 stats_v['gols_marcados_fora'] / stats_v['jogos_fora'] if stats_v['jogos_fora'] > 0 else 0
             )
-            listas_features['Media_GS_Fora'].append(
+            listas_features['Media_GS_Fora'][indice_atual] = (
                 stats_v['gols_sofridos_fora'] / stats_v['jogos_fora'] if stats_v['jogos_fora'] > 0 else 0
             )
             
             # Somas (saldos) em vez de médias
-            listas_features['Saldo_GM_Casa'].append(stats_m['gols_marcados_casa'])
-            listas_features['Saldo_GS_Casa'].append(stats_m['gols_sofridos_casa'])
-            listas_features['Saldo_GM_Fora'].append(stats_v['gols_marcados_fora'])
-            listas_features['Saldo_GS_Fora'].append(stats_v['gols_sofridos_fora'])
+            listas_features['Saldo_GM_Casa'][indice_atual] = stats_m['gols_marcados_casa']
+            listas_features['Saldo_GS_Casa'][indice_atual] = stats_m['gols_sofridos_casa']
+            listas_features['Saldo_GM_Fora'][indice_atual] = stats_v['gols_marcados_fora']
+            listas_features['Saldo_GS_Fora'][indice_atual] = stats_v['gols_sofridos_fora']
             
             # Saldo completo de gols por mando
-            listas_features['Saldo_Gols_Casa_Mandante'].append(stats_m['sg_casa'])
-            listas_features['Saldo_Gols_Fora_Visitante'].append(stats_v['sg_fora'])
+            listas_features['Saldo_Gols_Casa_Mandante'][indice_atual] = stats_m['sg_casa']
+            listas_features['Saldo_Gols_Fora_Visitante'][indice_atual] = stats_v['sg_fora']
             
             # Saldo dos últimos 5 jogos em casa do mandante
             saldo_ultimos_5_casa_m = sum(stats_m['ultimos_5_saldos_casa'])
-            listas_features['Saldo_Ultimos_5_Casa_Mandante'].append(saldo_ultimos_5_casa_m)
+            listas_features['Saldo_Ultimos_5_Casa_Mandante'][indice_atual] = saldo_ultimos_5_casa_m
             
             # Saldo dos últimos 5 jogos fora do visitante
             saldo_ultimos_5_fora_v = sum(stats_v['ultimos_5_saldos_fora'])
-            listas_features['Saldo_Ultimos_5_Fora_Visitante'].append(saldo_ultimos_5_fora_v)
+            listas_features['Saldo_Ultimos_5_Fora_Visitante'][indice_atual] = saldo_ultimos_5_fora_v
             
             # Sequência dos últimos 5 resultados
             sequencia_5_m = ''.join(stats_m['ultimos_5_resultados'])
             sequencia_5_v = ''.join(stats_v['ultimos_5_resultados'])
-            listas_features['Sequencia_5_Mandante'].append(sequencia_5_m if sequencia_5_m else '-')
-            listas_features['Sequencia_5_Visitante'].append(sequencia_5_v if sequencia_5_v else '-')
+            listas_features['Sequencia_5_Mandante'][indice_atual] = sequencia_5_m if sequencia_5_m else '-'
+            listas_features['Sequencia_5_Visitante'][indice_atual] = sequencia_5_v if sequencia_5_v else '-'
             
             # Informações sobre jogos de copa
             def get_proxima_copa(time, data_atual):
@@ -297,8 +308,8 @@ def gerar_features_completas(df_jogos, df_times):
                             return f"{competicao_char}{fase_char}"
                 return '-'
             
-            listas_features['Proxima_Copa_Mandante'].append(get_proxima_copa(mandante, data_jogo))
-            listas_features['Proxima_Copa_Visitante'].append(get_proxima_copa(visitante, data_jogo))
+            listas_features['Proxima_Copa_Mandante'][indice_atual] = get_proxima_copa(mandante, data_jogo)
+            listas_features['Proxima_Copa_Visitante'][indice_atual] = get_proxima_copa(visitante, data_jogo)
             
             # Atualiza as estatísticas com o resultado do jogo atual
             g_m, g_v = jogo['Gols_Mandante'], jogo['Gols_Visitante']
@@ -347,6 +358,8 @@ def gerar_features_completas(df_jogos, df_times):
             else:
                 stats_m['pontos'] += 1
                 stats_v['pontos'] += 1
+            
+            indice_atual += 1
     
     # Adiciona todas as features ao DataFrame
     for nome_feature, lista_valores in listas_features.items():
@@ -355,7 +368,7 @@ def gerar_features_completas(df_jogos, df_times):
     df_jogos['Diferenca_Posicao'] = df_jogos['Posicao_Mandante'] - df_jogos['Posicao_Visitante']
     df_jogos['Jogo_de_6_Pontos'] = (abs(df_jogos['Diferenca_Posicao']) <= 4).astype(int)
     
-    print("✅ Todas as features foram calculadas e adicionadas.")
+    print(f"✅ Todas as features foram calculadas e adicionadas para {len(df_jogos)} jogos.")
     return df_jogos
 
 # --- ETAPA 3: FUNÇÃO PARA EXIBIR JOGOS POR RODADA ---

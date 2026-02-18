@@ -94,8 +94,13 @@ def main():
     while True:
         try:
             # Lê o arquivo CSV (ajuste o caminho conforme necessário)
+            serie = input("Digite a Série (A ou B): ").upper()
+            if serie not in ['A', 'B']:
+                print("Série inválida. Por favor, digite 'A' ou 'B'.")
+                continue
+            
             ano = input("Digite o Ano: ")
-            df = pd.read_csv(f'brasileiraoB/brasileiraoB{ano}.csv')
+            df = pd.read_csv(f'dados/brasileirao{serie}/brasileirao{serie}{ano}.csv')
             
             # Verifica se as colunas necessárias existem
             colunas_necessarias = ['Rodada', 'Time da Casa', 'Placar', 'Time Visitante']

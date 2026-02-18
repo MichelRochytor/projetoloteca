@@ -1,0 +1,381 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/04/23,Palmeiras,2-1,Cuiabá
+1,15/04/23,América-MG,0-3,Fluminense
+1,15/04/23,Botafogo,2-1,São Paulo
+1,15/04/23,Bragantino,2-1,Bahia
+1,15/04/23,Athletico-PR,2-0,Goiás
+1,15/04/23,Fortaleza,1-1,Internacional
+1,15/04/23,Atlético-MG,1-2,Vasco
+1,16/04/23,Corinthians,2-1,Cruzeiro
+1,16/04/23,Flamengo,3-0,Coritiba
+1,16/04/23,Grêmio,1-0,Santos
+2,22/04/23,Fluminense,2-0,Athletico-PR
+2,22/04/23,São Paulo,3-0,América-MG
+2,22/04/23,Cuiabá,1-1,Bragantino
+2,22/04/23,Cruzeiro,1-0,Grêmio
+2,23/04/23,Internacional,2-1,Flamengo
+2,23/04/23,Santos,0-0,Atlético-MG
+2,23/04/23,Vasco,2-2,Palmeiras
+2,23/04/23,Coritiba,0-3,Fortaleza
+2,23/04/23,Goiás,3-1,Corinthians
+2,24/04/23,Bahia,1-2,Botafogo
+3,29/04/23,Fortaleza,4-2,Fluminense
+3,29/04/23,Coritiba,1-1,São Paulo
+3,29/04/23,Palmeiras,2-1,Corinthians
+3,29/04/23,Santos,3-2,América-MG
+3,29/04/23,Bragantino,0-3,Cruzeiro
+3,29/04/23,Atlético-MG,2-1,Athletico-PR
+3,30/04/23,Flamengo,2-3,Botafogo
+3,30/04/23,Cuiabá,1-2,Grêmio
+3,30/04/23,Internacional,1-0,Goiás
+3,01/05/23,Vasco,0-1,Bahia
+4,06/05/23,Cruzeiro,2-1,Santos
+4,06/05/23,Fluminense,1-1,Vasco
+4,07/05/23,América-MG,1-2,Cuiabá
+4,07/05/23,Bahia,3-1,Coritiba
+4,07/05/23,São Paulo,2-0,Internacional
+4,07/05/23,Athletico-PR,2-1,Flamengo
+4,07/05/23,Grêmio,3-3,Bragantino
+4,07/05/23,Botafogo,2-0,Atlético-MG
+4,07/05/23,Goiás,0-5,Palmeiras
+4,08/05/23,Corinthians,1-1,Fortaleza
+5,10/05/23,Internacional,0-2,Athletico-PR
+5,10/05/23,Santos,3-0,Bahia
+5,10/05/23,Bragantino,2-2,América-MG
+5,10/05/23,Cuiabá,0-4,Atlético-MG
+5,10/05/23,Flamengo,2-0,Goiás
+5,10/05/23,Cruzeiro,0-2,Fluminense
+5,10/05/23,Palmeiras,4-1,Grêmio
+5,11/05/23,Coritiba,1-1,Vasco
+5,11/05/23,Botafogo,3-0,Corinthians
+5,11/05/23,Fortaleza,0-0,São Paulo
+6,13/05/23,Bahia,2-3,Flamengo
+6,13/05/23,Fluminense,2-0,Cuiabá
+6,13/05/23,Palmeiras,1-1,Bragantino
+6,13/05/23,Atlético-MG,2-0,Internacional
+6,14/05/23,Grêmio,0-0,Fortaleza
+6,14/05/23,Vasco,0-1,Santos
+6,14/05/23,Corinthians,1-1,São Paulo
+6,14/05/23,Athletico-PR,3-2,Coritiba
+6,14/05/23,Goiás,2-1,Botafogo
+6,14/05/23,América-MG,0-4,Cruzeiro
+7,20/05/23,Bahia,1-1,Goiás
+7,20/05/23,Bragantino,2-0,Athletico-PR
+7,20/05/23,São Paulo,4-2,Vasco
+7,20/05/23,Coritiba,1-2,Atlético-MG
+7,20/05/23,América-MG,2-1,Fortaleza
+7,20/05/23,Botafogo,1-0,Fluminense
+7,20/05/23,Santos,0-0,Palmeiras
+7,21/05/23,Flamengo,1-0,Corinthians
+7,21/05/23,Grêmio,3-1,Internacional
+7,22/05/23,Cruzeiro,0-1,Cuiabá
+8,27/05/23,Athletico-PR,1-2,Grêmio
+8,27/05/23,Fortaleza,2-0,Vasco
+8,27/05/23,Flamengo,1-1,Cruzeiro
+8,27/05/23,Cuiabá,1-1,Coritiba
+8,27/05/23,São Paulo,2-1,Goiás
+8,28/05/23,Corinthians,2-0,Fluminense
+8,28/05/23,Internacional,2-0,Bahia
+8,28/05/23,Atlético-MG,1-1,Palmeiras
+8,28/05/23,Bragantino,2-0,Santos
+8,28/05/23,Botafogo,2-0,América-MG
+9,03/06/23,Fortaleza,0-0,Bahia
+9,03/06/23,Athletico-PR,1-0,Botafogo
+9,03/06/23,Cruzeiro,0-1,Atlético-MG
+9,03/06/23,América-MG,2-0,Corinthians
+9,03/06/23,Santos,1-1,Internacional
+9,04/06/23,Fluminense,2-1,Bragantino
+9,04/06/23,Grêmio,2-1,São Paulo
+9,04/06/23,Goiás,0-1,Cuiabá
+9,04/06/23,Palmeiras,3-1,Coritiba
+9,05/06/23,Vasco,1-4,Flamengo
+10,10/06/23,Coritiba,0-0,Santos
+10,10/06/23,Bahia,2-2,Cruzeiro
+10,10/06/23,Corinthians,1-1,Cuiabá
+10,10/06/23,Atlético-MG,1-1,Bragantino
+10,10/06/23,Botafogo,2-0,Fortaleza
+10,11/06/23,América-MG,2-2,Athletico-PR
+10,11/06/23,São Paulo,0-2,Palmeiras
+10,11/06/23,Internacional,2-1,Vasco
+10,11/06/23,Flamengo,3-0,Grêmio
+10,11/06/23,Goiás,2-2,Fluminense
+11,21/06/23,Cruzeiro,0-1,Fortaleza
+11,21/06/23,São Paulo,2-1,Athletico-PR
+11,21/06/23,Santos,0-2,Corinthians
+11,21/06/23,Fluminense,1-1,Atlético-MG
+11,21/06/23,Bahia,1-0,Palmeiras
+11,22/06/23,Grêmio,3-1,América-MG
+11,22/06/23,Cuiabá,0-1,Botafogo
+11,22/06/23,Vasco,0-1,Goiás
+11,22/06/23,Coritiba,0-1,Internacional
+11,22/06/23,Bragantino,4-0,Flamengo
+12,24/06/23,Athletico-PR,1-0,Corinthians
+12,24/06/23,Fluminense,2-1,Bahia
+12,24/06/23,Fortaleza,2-1,Atlético-MG
+12,24/06/23,Cruzeiro,1-0,São Paulo
+12,25/06/23,Palmeiras,0-1,Botafogo
+12,25/06/23,Grêmio,5-1,Coritiba
+12,25/06/23,América-MG,1-2,Internacional
+12,25/06/23,Santos,2-3,Flamengo
+12,25/06/23,Bragantino,2-0,Goiás
+12,26/06/23,Vasco,1-0,Cuiabá
+13,01/07/23,São Paulo,1-0,Fluminense
+13,01/07/23,Flamengo,2-0,Fortaleza
+13,01/07/23,Bahia,1-2,Grêmio
+13,01/07/23,Internacional,0-0,Cruzeiro
+13,02/07/23,Corinthians,0-1,Bragantino
+13,02/07/23,Botafogo,2-0,Vasco
+13,02/07/23,Atlético-MG,2-2,América-MG
+13,02/07/23,Athletico-PR,2-2,Palmeiras
+13,02/07/23,Cuiabá,3-0,Santos
+13,03/07/23,Goiás,1-2,Coritiba
+14,08/07/23,Cuiabá,1-1,Bahia
+14,08/07/23,Vasco,0-1,Cruzeiro
+14,08/07/23,Atlético-MG,0-1,Corinthians
+14,08/07/23,Coritiba,3-1,América-MG
+14,08/07/23,Palmeiras,1-1,Flamengo
+14,09/07/23,Santos,4-3,Goiás
+14,09/07/23,Fluminense,2-0,Internacional
+14,09/07/23,Bragantino,0-0,São Paulo
+14,09/07/23,Fortaleza,1-0,Athletico-PR
+14,09/07/23,Grêmio,0-2,Botafogo
+15,15/07/23,Botafogo,2-0,Bragantino
+15,16/07/23,Cruzeiro,0-0,Coritiba
+15,16/07/23,São Paulo,4-1,Santos
+15,16/07/23,Fortaleza,0-1,Cuiabá
+15,16/07/23,Fluminense,0-0,Flamengo
+15,16/07/23,Athletico-PR,2-0,Bahia
+15,16/07/23,Internacional,0-0,Palmeiras
+15,17/07/23,Goiás,0-0,Atlético-MG
+15,18/09/23,Corinthians,4-4,Grêmio
+15,25/09/23,América-MG,0-1,Vasco
+16,22/07/23,Flamengo,1-1,América-MG
+16,22/07/23,Palmeiras,3-1,Fortaleza
+16,22/07/23,Cuiabá,2-1,São Paulo
+16,22/07/23,Bahia,0-0,Corinthians
+16,22/07/23,Grêmio,1-0,Atlético-MG
+16,23/07/23,Bragantino,0-0,Internacional
+16,23/07/23,Santos,2-2,Botafogo
+16,23/07/23,Cruzeiro,0-1,Goiás
+16,23/07/23,Vasco,0-2,Athletico-PR
+16,24/07/23,Coritiba,2-0,Fluminense
+17,29/07/23,Fluminense,1-0,Santos
+17,29/07/23,Athletico-PR,3-3,Cruzeiro
+17,29/07/23,Internacional,1-2,Cuiabá
+17,29/07/23,Corinthians,3-1,Vasco
+17,29/07/23,Fortaleza,0-3,Bragantino
+17,29/07/23,Atlético-MG,1-2,Flamengo
+17,30/07/23,São Paulo,0-0,Bahia
+17,30/07/23,América-MG,1-4,Palmeiras
+17,30/07/23,Botafogo,4-1,Coritiba
+17,30/07/23,Goiás,1-1,Grêmio
+18,05/08/23,Santos,1-1,Athletico-PR
+18,05/08/23,Goiás,1-0,Fortaleza
+18,05/08/23,Internacional,2-2,Corinthians
+18,05/08/23,Fluminense,2-1,Palmeiras
+18,06/08/23,Vasco,1-0,Grêmio
+18,06/08/23,São Paulo,0-2,Atlético-MG
+18,06/08/23,Coritiba,0-1,Bragantino
+18,06/08/23,Bahia,3-1,América-MG
+18,06/08/23,Cruzeiro,0-0,Botafogo
+18,06/08/23,Cuiabá,3-0,Flamengo
+19,12/08/23,Botafogo,3-1,Internacional
+19,13/08/23,Atlético-MG,1-0,Bahia
+19,13/08/23,Corinthians,3-1,Coritiba
+19,13/08/23,Grêmio,2-1,Fluminense
+19,13/08/23,América-MG,0-1,Goiás
+19,13/08/23,Flamengo,1-1,São Paulo
+19,13/08/23,Fortaleza,4-0,Santos
+19,14/08/23,Palmeiras,1-0,Cruzeiro
+19,14/08/23,Bragantino,1-1,Vasco
+19,15/08/23,Athletico-PR,2-0,Cuiabá
+20,19/08/23,São Paulo,0-0,Botafogo
+20,19/08/23,Internacional,0-1,Fortaleza
+20,19/08/23,Cuiabá,0-2,Palmeiras
+20,19/08/23,Fluminense,3-1,América-MG
+20,19/08/23,Cruzeiro,1-1,Corinthians
+20,20/08/23,Vasco,1-0,Atlético-MG
+20,20/08/23,Coritiba,2-3,Flamengo
+20,20/08/23,Bahia,4-0,Bragantino
+20,20/08/23,Santos,2-1,Grêmio
+20,21/08/23,Goiás,1-1,Athletico-PR
+21,26/08/23,Flamengo,0-0,Internacional
+21,26/08/23,Corinthians,1-1,Goiás
+21,27/08/23,Bragantino,2-0,Cuiabá
+21,27/08/23,Botafogo,3-0,Bahia
+21,27/08/23,Atlético-MG,2-0,Santos
+21,27/08/23,América-MG,2-1,São Paulo
+21,27/08/23,Palmeiras,1-0,Vasco
+21,27/08/23,Fortaleza,3-1,Coritiba
+21,27/08/23,Athletico-PR,2-2,Fluminense
+21,27/08/23,Grêmio,3-0,Cruzeiro
+22,02/09/23,Goiás,0-0,Internacional
+22,02/09/23,Athletico-PR,1-1,Atlético-MG
+22,02/09/23,Botafogo,1-2,Flamengo
+22,03/09/23,Grêmio,2-0,Cuiabá
+22,03/09/23,Corinthians,0-0,Palmeiras
+22,03/09/23,Fluminense,1-0,Fortaleza
+22,03/09/23,Bahia,1-1,Vasco
+22,03/09/23,Cruzeiro,0-0,Bragantino
+22,03/09/23,América-MG,2-0,Santos
+22,27/09/23,São Paulo,2-1,Coritiba
+23,13/09/23,Flamengo,0-3,Athletico-PR
+23,13/09/23,Internacional,2-1,São Paulo
+23,14/09/23,Santos,0-3,Cruzeiro
+23,14/09/23,Fortaleza,2-1,Corinthians
+23,14/09/23,Coritiba,2-4,Bahia
+23,14/09/23,Bragantino,2-0,Grêmio
+23,15/09/23,Cuiabá,2-2,América-MG
+23,15/09/23,Palmeiras,1-0,Goiás
+23,16/09/23,Vasco,4-2,Fluminense
+23,16/09/23,Atlético-MG,1-0,Botafogo
+24,18/09/23,Bahia,1-2,Santos
+24,19/09/23,América-MG,0-2,Bragantino
+24,20/09/23,Goiás,0-0,Flamengo
+24,20/09/23,Fluminense,1-0,Cruzeiro
+24,20/09/23,São Paulo,1-2,Fortaleza
+24,21/09/23,Vasco,5-1,Coritiba
+24,21/09/23,Athletico-PR,2-1,Internacional
+24,21/09/23,Grêmio,1-0,Palmeiras
+24,22/09/23,Corinthians,1-0,Botafogo
+24,23/09/23,Atlético-MG,1-0,Cuiabá
+25,30/09/23,Flamengo,1-0,Bahia
+25,30/09/23,Fortaleza,1-1,Grêmio
+25,30/09/23,São Paulo,2-1,Corinthians
+25,30/09/23,Cuiabá,3-0,Fluminense
+25,30/09/23,Internacional,0-2,Atlético-MG
+25,01/10/23,Cruzeiro,1-1,América-MG
+25,01/10/23,Coritiba,2-0,Athletico-PR
+25,01/10/23,Santos,4-1,Vasco
+25,01/10/23,Bragantino,2-1,Palmeiras
+25,02/10/23,Botafogo,1-1,Goiás
+26,07/10/23,Goiás,4-6,Bahia
+26,07/10/23,Vasco,0-0,São Paulo
+26,07/10/23,Corinthians,1-1,Flamengo
+26,08/10/23,Internacional,3-2,Grêmio
+26,08/10/23,Palmeiras,1-2,Santos
+26,08/10/23,Fluminense,0-2,Botafogo
+26,08/10/23,Athletico-PR,1-1,Bragantino
+26,08/10/23,Atlético-MG,1-2,Coritiba
+26,08/10/23,Fortaleza,3-2,América-MG
+26,14/10/23,Cuiabá,0-0,Cruzeiro
+27,18/10/23,Grêmio,1-2,Athletico-PR
+27,18/10/23,América-MG,1-2,Botafogo
+27,18/10/23,Coritiba,0-3,Cuiabá
+27,18/10/23,Goiás,2-0,São Paulo
+27,18/10/23,Bahia,1-0,Internacional
+27,18/10/23,Vasco,1-0,Fortaleza
+27,19/10/23,Palmeiras,0-2,Atlético-MG
+27,19/10/23,Cruzeiro,0-2,Flamengo
+27,19/10/23,Santos,1-3,Bragantino
+27,19/10/23,Fluminense,3-3,Corinthians
+28,21/10/23,Cuiabá,1-1,Goiás
+28,21/10/23,São Paulo,3-0,Grêmio
+28,21/10/23,Bahia,2-0,Fortaleza
+28,21/10/23,Botafogo,1-1,Athletico-PR
+28,22/10/23,Atlético-MG,0-1,Cruzeiro
+28,22/10/23,Flamengo,1-0,Vasco
+28,22/10/23,Internacional,7-1,Santos
+28,22/10/23,Bragantino,1-0,Fluminense
+28,22/10/23,Coritiba,0-2,Palmeiras
+28,22/10/23,Corinthians,1-1,América-MG
+29,25/10/23,Bragantino,1-2,Atlético-MG
+29,25/10/23,Athletico-PR,3-2,América-MG
+29,25/10/23,Fluminense,5-3,Goiás
+29,25/10/23,Cruzeiro,3-0,Bahia
+29,25/10/23,Palmeiras,5-0,São Paulo
+29,25/10/23,Grêmio,3-2,Flamengo
+29,25/10/23,Cuiabá,0-1,Corinthians
+29,26/10/23,Vasco,1-2,Internacional
+29,26/10/23,Santos,2-1,Coritiba
+29,23/11/23,Fortaleza,2-2,Botafogo
+30,28/10/23,Palmeiras,1-0,Bahia
+30,28/10/23,América-MG,3-4,Grêmio
+30,28/10/23,Atlético-MG,2-0,Fluminense
+30,29/10/23,Athletico-PR,1-1,São Paulo
+30,29/10/23,Goiás,1-1,Vasco
+30,29/10/23,Internacional,3-4,Coritiba
+30,29/10/23,Corinthians,1-1,Santos
+30,29/10/23,Botafogo,0-1,Cuiabá
+30,18/11/23,Fortaleza,0-1,Cruzeiro
+30,23/11/23,Flamengo,1-0,Bragantino
+31,31/10/23,Bahia,1-0,Fluminense
+31,01/11/23,Internacional,1-1,América-MG
+31,01/11/23,Corinthians,1-0,Athletico-PR
+31,01/11/23,Flamengo,1-2,Santos
+31,01/11/23,Coritiba,1-2,Grêmio
+31,01/11/23,Atlético-MG,3-1,Fortaleza
+31,01/11/23,Botafogo,3-4,Palmeiras
+31,02/11/23,Cuiabá,0-2,Vasco
+31,02/11/23,Goiás,0-2,Bragantino
+31,02/11/23,São Paulo,1-0,Cruzeiro
+32,04/11/23,Grêmio,1-0,Bahia
+32,04/11/23,América-MG,1-1,Atlético-MG
+32,04/11/23,Palmeiras,1-0,Athletico-PR
+32,05/11/23,Cruzeiro,1-2,Internacional
+32,05/11/23,Bragantino,1-0,Corinthians
+32,05/11/23,Fortaleza,0-2,Flamengo
+32,05/11/23,Coritiba,0-1,Goiás
+32,06/11/23,Vasco,1-0,Botafogo
+32,06/11/23,Santos,0-0,Cuiabá
+32,22/11/23,Fluminense,1-0,São Paulo
+33,08/11/23,Internacional,0-0,Fluminense
+33,08/11/23,América-MG,0-3,Coritiba
+33,08/11/23,Athletico-PR,1-1,Fortaleza
+33,08/11/23,São Paulo,1-0,Bragantino
+33,08/11/23,Flamengo,3-0,Palmeiras
+33,09/11/23,Goiás,0-1,Santos
+33,09/11/23,Corinthians,1-1,Atlético-MG
+33,09/11/23,Bahia,0-3,Cuiabá
+33,09/11/23,Botafogo,3-4,Grêmio
+33,22/11/23,Cruzeiro,2-2,Vasco
+34,11/11/23,Coritiba,1-0,Cruzeiro
+34,11/11/23,Flamengo,1-1,Fluminense
+34,11/11/23,Palmeiras,3-0,Internacional
+34,12/11/23,Bragantino,2-2,Botafogo
+34,12/11/23,Grêmio,0-1,Corinthians
+34,12/11/23,Santos,0-0,São Paulo
+34,12/11/23,Vasco,2-1,América-MG
+34,12/11/23,Atlético-MG,2-1,Goiás
+34,12/11/23,Bahia,1-1,Athletico-PR
+34,12/11/23,Cuiabá,2-1,Fortaleza
+35,24/11/23,Corinthians,1-5,Bahia
+35,25/11/23,Athletico-PR,0-0,Vasco
+35,25/11/23,Fluminense,2-1,Coritiba
+35,26/11/23,Atlético-MG,3-0,Grêmio
+35,26/11/23,Botafogo,1-1,Santos
+35,26/11/23,América-MG,0-3,Flamengo
+35,26/11/23,São Paulo,0-0,Cuiabá
+35,26/11/23,Internacional,1-0,Bragantino
+35,26/11/23,Fortaleza,2-2,Palmeiras
+35,27/11/23,Goiás,0-1,Cruzeiro
+36,28/11/23,Vasco,2-4,Corinthians
+36,29/11/23,Santos,0-3,Fluminense
+36,29/11/23,Flamengo,0-3,Atlético-MG
+36,29/11/23,Bahia,0-1,São Paulo
+36,29/11/23,Cuiabá,0-2,Internacional
+36,29/11/23,Coritiba,1-1,Botafogo
+36,29/11/23,Palmeiras,4-0,América-MG
+36,30/11/23,Grêmio,2-1,Goiás
+36,30/11/23,Cruzeiro,1-1,Athletico-PR
+36,30/11/23,Bragantino,1-2,Fortaleza
+37,02/12/23,Corinthians,1-2,Internacional
+37,02/12/23,Atlético-MG,2-1,São Paulo
+37,03/12/23,Flamengo,2-1,Cuiabá
+37,03/12/23,Palmeiras,1-0,Fluminense
+37,03/12/23,Botafogo,0-0,Cruzeiro
+37,03/12/23,América-MG,3-2,Bahia
+37,03/12/23,Fortaleza,1-0,Goiás
+37,03/12/23,Bragantino,1-0,Coritiba
+37,03/12/23,Grêmio,1-0,Vasco
+37,03/12/23,Athletico-PR,3-0,Santos
+38,06/12/23,Goiás,1-0,América-MG
+38,06/12/23,Internacional,3-1,Botafogo
+38,06/12/23,Coritiba,0-2,Corinthians
+38,06/12/23,Fluminense,2-3,Grêmio
+38,06/12/23,Cruzeiro,1-1,Palmeiras
+38,06/12/23,Bahia,4-1,Atlético-MG
+38,06/12/23,Cuiabá,3-0,Athletico-PR
+38,06/12/23,Santos,1-2,Fortaleza
+38,06/12/23,São Paulo,1-0,Flamengo
+38,06/12/23,Vasco,2-1,Bragantino
