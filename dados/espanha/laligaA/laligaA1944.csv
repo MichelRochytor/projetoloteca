@@ -1,0 +1,183 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,24/09/44,Atlético Aviación,1-1,Barcelona
+1,24/09/44,Real Oviedo,4-0,Real Madrid
+1,24/09/44,Valencia,1-1,CE Sabadell
+1,24/09/44,Athletic Bilbao,1-3,Castellón
+1,24/09/44,Espanyol,0-0,Sporting Gijón
+1,24/09/44,Sevilla,4-1,Granada
+1,24/09/44,Deportivo,3-1,Real Murcia
+2,01/10/44,Barcelona,0-1,Real Oviedo
+2,01/10/44,Real Madrid,3-0,Espanyol
+2,01/10/44,Sporting Gijón,3-3,Deportivo
+2,01/10/44,Castellón,2-2,Sevilla
+2,01/10/44,Real Murcia,2-1,Valencia
+2,01/10/44,Granada,2-1,Atlético Aviación
+2,01/10/44,CE Sabadell,1-2,Athletic Bilbao
+3,08/10/44,Barcelona,4-2,Granada
+3,08/10/44,Atlético Aviación,4-0,Castellón
+3,08/10/44,Real Oviedo,1-0,Espanyol
+3,08/10/44,Valencia,4-1,Sporting Gijón
+3,08/10/44,Athletic Bilbao,5-1,Real Murcia
+3,08/10/44,Sevilla,4-0,CE Sabadell
+3,08/10/44,Deportivo,2-2,Real Madrid
+4,15/10/44,Real Madrid,1-1,Valencia
+4,15/10/44,Sporting Gijón,0-2,Athletic Bilbao
+4,15/10/44,Castellón,0-1,Barcelona
+4,15/10/44,Espanyol,7-1,Deportivo
+4,15/10/44,Real Murcia,3-1,Sevilla
+4,15/10/44,Granada,5-1,Real Oviedo
+4,15/10/44,CE Sabadell,0-1,Atlético Aviación
+5,22/10/44,Barcelona,2-1,CE Sabadell
+5,22/10/44,Atlético Aviación,4-3,Real Murcia
+5,22/10/44,Real Oviedo,2-2,Deportivo
+5,22/10/44,Valencia,2-0,Espanyol
+5,22/10/44,Athletic Bilbao,2-1,Real Madrid
+5,22/10/44,Sevilla,6-0,Sporting Gijón
+5,22/10/44,Granada,0-2,Castellón
+6,29/10/44,Real Madrid,5-0,Sevilla
+6,29/10/44,Sporting Gijón,2-0,Atlético Aviación
+6,29/10/44,Castellón,5-3,Real Oviedo
+6,29/10/44,Espanyol,2-3,Athletic Bilbao
+6,29/10/44,Real Murcia,1-1,Barcelona
+6,29/10/44,CE Sabadell,3-2,Granada
+6,29/10/44,Deportivo,2-3,Valencia
+7,05/11/44,Barcelona,2-0,Sporting Gijón
+7,05/11/44,Atlético Aviación,0-1,Real Madrid
+7,05/11/44,Real Oviedo,2-0,Valencia
+7,05/11/44,Athletic Bilbao,5-2,Deportivo
+7,05/11/44,Castellón,8-0,CE Sabadell
+7,05/11/44,Sevilla,1-1,Espanyol
+7,05/11/44,Granada,1-1,Real Murcia
+8,12/11/44,Real Madrid,1-0,Barcelona
+8,12/11/44,Valencia,3-0,Athletic Bilbao
+8,12/11/44,Sporting Gijón,3-1,Granada
+8,12/11/44,Espanyol,0-3,Atlético Aviación
+8,12/11/44,Real Murcia,2-0,Castellón
+8,12/11/44,CE Sabadell,0-0,Real Oviedo
+8,12/11/44,Deportivo,1-0,Sevilla
+9,19/11/44,Barcelona,1-0,Espanyol
+9,19/11/44,Atlético Aviación,1-1,Deportivo
+9,19/11/44,Real Oviedo,2-0,Athletic Bilbao
+9,19/11/44,Castellón,3-0,Sporting Gijón
+9,19/11/44,Sevilla,3-2,Valencia
+9,19/11/44,Granada,0-1,Real Madrid
+9,19/11/44,CE Sabadell,4-0,Real Murcia
+10,26/11/44,Real Madrid,2-1,Castellón
+10,26/11/44,Valencia,5-0,Atlético Aviación
+10,26/11/44,Athletic Bilbao,4-0,Sevilla
+10,26/11/44,Sporting Gijón,1-0,CE Sabadell
+10,26/11/44,Espanyol,7-2,Granada
+10,26/11/44,Real Murcia,5-1,Real Oviedo
+10,26/11/44,Deportivo,1-2,Barcelona
+11,03/12/44,Barcelona,1-0,Valencia
+11,03/12/44,Atlético Aviación,1-0,Athletic Bilbao
+11,03/12/44,Real Oviedo,2-0,Sevilla
+11,03/12/44,Castellón,2-0,Espanyol
+11,03/12/44,Real Murcia,2-2,Sporting Gijón
+11,03/12/44,Granada,3-0,Deportivo
+11,03/12/44,CE Sabadell,3-2,Real Madrid
+12,10/12/44,Real Madrid,2-1,Real Murcia
+12,10/12/44,Real Oviedo,2-1,Sporting Gijón
+12,10/12/44,Valencia,4-0,Granada
+12,10/12/44,Athletic Bilbao,4-1,Barcelona
+12,10/12/44,Espanyol,1-3,CE Sabadell
+12,10/12/44,Sevilla,4-1,Atlético Aviación
+12,10/12/44,Deportivo,1-1,Castellón
+13,17/12/44,Barcelona,3-1,Sevilla
+13,17/12/44,Atlético Aviación,4-3,Real Oviedo
+13,17/12/44,Sporting Gijón,0-1,Real Madrid
+13,17/12/44,Castellón,0-0,Valencia
+13,17/12/44,Real Murcia,1-2,Espanyol
+13,17/12/44,Granada,2-3,Athletic Bilbao
+13,17/12/44,CE Sabadell,2-1,Deportivo
+14,07/01/45,Barcelona,2-2,Atlético Aviación
+14,07/01/45,Real Madrid,4-1,Real Oviedo
+14,07/01/45,Sporting Gijón,0-1,Espanyol
+14,07/01/45,Castellón,1-0,Athletic Bilbao
+14,07/01/45,Real Murcia,1-0,Deportivo
+14,07/01/45,Granada,3-1,Sevilla
+14,07/01/45,CE Sabadell,1-1,Valencia
+15,14/01/45,Real Oviedo,6-0,Barcelona
+15,14/01/45,Valencia,9-3,Real Murcia
+15,14/01/45,Athletic Bilbao,4-1,CE Sabadell
+15,14/01/45,Espanyol,2-0,Real Madrid
+15,14/01/45,Sevilla,8-1,Castellón
+15,14/01/45,Deportivo,2-2,Sporting Gijón
+15,16/01/45,Atlético Aviación,1-1,Granada
+16,28/01/45,Real Madrid,6-0,Deportivo
+16,28/01/45,Sporting Gijón,4-2,Valencia
+16,28/01/45,Castellón,2-3,Atlético Aviación
+16,28/01/45,Espanyol,3-0,Real Oviedo
+16,28/01/45,Real Murcia,2-2,Athletic Bilbao
+16,28/01/45,Granada,1-2,Barcelona
+16,28/01/45,CE Sabadell,2-3,Sevilla
+17,04/02/45,Barcelona,3-1,Castellón
+17,04/02/45,Atlético Aviación,2-1,CE Sabadell
+17,04/02/45,Real Oviedo,1-1,Granada
+17,04/02/45,Valencia,4-1,Real Madrid
+17,04/02/45,Athletic Bilbao,0-1,Sporting Gijón
+17,04/02/45,Sevilla,4-0,Real Murcia
+17,04/02/45,Deportivo,3-2,Espanyol
+18,18/02/45,Real Madrid,4-1,Athletic Bilbao
+18,18/02/45,Sporting Gijón,3-1,Sevilla
+18,18/02/45,Castellón,2-0,Granada
+18,18/02/45,Espanyol,0-2,Valencia
+18,18/02/45,Real Murcia,0-0,Atlético Aviación
+18,18/02/45,CE Sabadell,0-1,Barcelona
+18,18/02/45,Deportivo,4-1,Real Oviedo
+19,25/02/45,Barcelona,1-0,Real Murcia
+19,25/02/45,Atlético Aviación,2-0,Sporting Gijón
+19,25/02/45,Real Oviedo,2-0,Castellón
+19,25/02/45,Valencia,2-0,Deportivo
+19,25/02/45,Athletic Bilbao,3-0,Espanyol
+19,25/02/45,Sevilla,1-2,Real Madrid
+19,25/02/45,Granada,5-0,CE Sabadell
+20,18/03/45,Real Madrid,3-1,Atlético Aviación
+20,18/03/45,Valencia,1-1,Real Oviedo
+20,18/03/45,Sporting Gijón,2-5,Barcelona
+20,18/03/45,Espanyol,2-1,Sevilla
+20,18/03/45,Real Murcia,2-0,Granada
+20,18/03/45,CE Sabadell,1-1,Castellón
+20,18/03/45,Deportivo,1-2,Athletic Bilbao
+21,25/03/45,Barcelona,5-0,Real Madrid
+21,25/03/45,Atlético Aviación,3-1,Espanyol
+21,25/03/45,Real Oviedo,6-2,CE Sabadell
+21,25/03/45,Athletic Bilbao,2-2,Valencia
+21,25/03/45,Castellón,2-1,Real Murcia
+21,25/03/45,Sevilla,3-0,Deportivo
+21,25/03/45,Granada,0-0,Sporting Gijón
+22,08/04/45,Real Madrid,6-2,Granada
+22,08/04/45,Valencia,4-0,Sevilla
+22,08/04/45,Athletic Bilbao,0-1,Real Oviedo
+22,08/04/45,Sporting Gijón,4-0,Castellón
+22,08/04/45,Espanyol,1-1,Barcelona
+22,08/04/45,Real Murcia,2-0,CE Sabadell
+22,08/04/45,Deportivo,4-1,Atlético Aviación
+23,15/04/45,Barcelona,3-0,Deportivo
+23,15/04/45,Atlético Aviación,4-1,Valencia
+23,15/04/45,Real Oviedo,3-2,Real Murcia
+23,15/04/45,Castellón,0-3,Real Madrid
+23,15/04/45,Sevilla,2-3,Athletic Bilbao
+23,15/04/45,Granada,2-0,Espanyol
+23,15/04/45,CE Sabadell,2-2,Sporting Gijón
+24,22/04/45,Real Madrid,8-0,CE Sabadell
+24,22/04/45,Valencia,2-3,Barcelona
+24,22/04/45,Athletic Bilbao,0-1,Atlético Aviación
+24,22/04/45,Sporting Gijón,4-1,Real Murcia
+24,22/04/45,Espanyol,5-1,Castellón
+24,22/04/45,Sevilla,1-1,Real Oviedo
+24,22/04/45,Deportivo,1-1,Granada
+25,13/05/45,Barcelona,5-2,Athletic Bilbao
+25,13/05/45,Atlético Aviación,3-1,Sevilla
+25,13/05/45,Sporting Gijón,6-0,Real Oviedo
+25,13/05/45,Castellón,4-0,Deportivo
+25,13/05/45,Real Murcia,3-5,Real Madrid
+25,13/05/45,Granada,2-1,Valencia
+25,13/05/45,CE Sabadell,0-6,Espanyol
+26,20/05/45,Real Madrid,4-1,Sporting Gijón
+26,20/05/45,Real Oviedo,3-2,Atlético Aviación
+26,20/05/45,Valencia,4-1,Castellón
+26,20/05/45,Athletic Bilbao,4-1,Granada
+26,20/05/45,Espanyol,1-0,Real Murcia
+26,20/05/45,Sevilla,0-0,Barcelona
+26,20/05/45,Deportivo,1-2,CE Sabadell

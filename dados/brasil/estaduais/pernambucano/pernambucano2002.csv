@@ -1,0 +1,93 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,03/04/02,AGA,1-0,Porto-PE
+1T,14/04/02,Central,1-4,Manchete
+1T,17/04/02,Santa Cruz,1-0,Petrolina
+1T,17/04/02,Náutico,4-3,Intercontinental
+1T,17/04/02,Sport,4-1,Ferroviário Serra Talhada
+1T,21/04/02,Ferroviário Serra Talhada,3-2,Intercontinental
+1T,21/04/02,Central,3-1,AGA
+1T,24/04/02,Petrolina,0-1,Náutico
+1T,24/04/02,Manchete,0-3,Santa Cruz
+1T,24/04/02,Porto-PE,0-2,Sport
+1T,28/04/02,Petrolina,1-0,Manchete
+1T,28/04/02,Intercontinental,1-1,Porto-PE
+1T,30/04/02,Sport,1-1,Central
+1T,01/05/02,Náutico,4-0,Ferroviário Serra Talhada
+1T,01/05/02,Santa Cruz,2-0,AGA
+1T,05/05/02,Santa Cruz,3-2,Sport
+1T,05/05/02,Manchete,1-3,Náutico
+1T,05/05/02,AGA,1-0,Petrolina
+1T,05/05/02,Porto-PE,3-1,Ferroviário Serra Talhada
+1T,05/05/02,Central,1-1,Intercontinental
+1T,08/05/02,Náutico,1-0,Porto-PE
+1T,08/05/02,Ferroviário Serra Talhada,1-2,Central
+1T,08/05/02,AGA,0-0,Manchete
+1T,08/05/02,Petrolina,0-3,Sport
+1T,08/05/02,Intercontinental,2-1,Santa Cruz
+1T,11/05/02,Ferroviário Serra Talhada,1-3,Santa Cruz
+1T,12/05/02,Sport,3-1,Manchete
+1T,12/05/02,Intercontinental,1-1,Petrolina
+1T,12/05/02,Porto-PE,0-0,Central
+1T,12/05/02,Náutico,1-0,AGA
+1T,15/05/02,Santa Cruz,4-0,Porto-PE
+1T,15/05/02,Petrolina,2-1,Ferroviário Serra Talhada
+1T,15/05/02,Manchete,1-2,Intercontinental
+1T,15/05/02,Central,1-2,Náutico
+1T,15/05/02,AGA,0-1,Sport
+1T,18/05/02,Santa Cruz,2-0,Central
+1T,19/05/02,Sport,0-0,Náutico
+1T,19/05/02,Porto-PE,0-0,Petrolina
+1T,19/05/02,Intercontinental,1-2,AGA
+1T,19/05/02,Ferroviário Serra Talhada,2-1,Manchete
+1T,22/05/02,Central,2-1,Petrolina
+1T,22/05/02,AGA,1-1,Ferroviário Serra Talhada
+1T,22/05/02,Manchete,2-1,Porto-PE
+1T,22/05/02,Sport,1-1,Intercontinental
+1T,22/05/02,Náutico,0-0,Santa Cruz
+2T,26/05/02,Porto-PE,0-3,AGA
+2T,26/05/02,Manchete,2-2,Central
+2T,26/05/02,Petrolina,2-2,Santa Cruz
+2T,26/05/02,Intercontinental,1-1,Náutico
+2T,26/05/02,Ferroviário Serra Talhada,2-2,Sport
+2T,29/05/02,Náutico,2-1,Petrolina
+2T,29/05/02,Intercontinental,4-1,Ferroviário Serra Talhada
+2T,29/05/02,AGA,1-1,Central
+2T,29/05/02,Sport,2-0,Porto-PE
+2T,02/06/02,Central,2-1,Sport
+2T,02/06/02,Manchete,1-0,Petrolina
+2T,02/06/02,Porto-PE,3-0,Intercontinental
+2T,02/06/02,AGA,1-2,Santa Cruz
+2T,02/06/02,Ferroviário Serra Talhada,0-2,Náutico
+2T,05/06/02,Petrolina,1-1,AGA
+2T,05/06/02,Ferroviário Serra Talhada,1-0,Porto-PE
+2T,05/06/02,Intercontinental,1-1,Central
+2T,05/06/02,Sport,1-2,Santa Cruz
+2T,06/06/02,Náutico,2-0,Manchete
+2T,09/06/02,Santa Cruz,2-1,Manchete
+2T,09/06/02,Central,7-0,Ferroviário Serra Talhada
+2T,09/06/02,Manchete,1-1,AGA
+2T,09/06/02,Sport,3-1,Petrolina
+2T,09/06/02,Santa Cruz,3-0,Intercontinental
+2T,10/06/02,Porto-PE,0-1,Náutico
+2T,12/06/02,AGA,2-2,Náutico
+2T,13/06/02,Manchete,1-2,Sport
+2T,13/06/02,Petrolina,4-1,Intercontinental
+2T,13/06/02,Central,0-0,Porto-PE
+2T,13/06/02,Santa Cruz,7-0,Ferroviário Serra Talhada
+2T,16/06/02,Sport,3-1,AGA
+2T,16/06/02,Ferroviário Serra Talhada,1-1,Petrolina
+2T,16/06/02,Intercontinental,1-0,Manchete
+2T,16/06/02,Náutico,1-0,Central
+2T,17/06/02,Porto-PE,1-2,Santa Cruz
+2T,19/06/02,Central,0-1,Santa Cruz
+2T,19/06/02,Náutico,1-0,Sport
+2T,20/06/02,Petrolina,1-6,Porto-PE
+2T,20/06/02,AGA,0-0,Intercontinental
+2T,20/06/02,Manchete,4-5,Ferroviário Serra Talhada
+2T,23/06/02,Intercontinental,4-2,Sport
+2T,23/06/02,Petrolina,2-0,Central
+2T,23/06/02,Ferroviário Serra Talhada,0-4,AGA
+2T,23/06/02,Porto-PE,0-2,Manchete
+2T,23/06/02,Santa Cruz,1-0,Náutico
+F,27/06/02,Náutico,3-0,Santa Cruz
+F,30/06/02,Santa Cruz,2-1,Náutico

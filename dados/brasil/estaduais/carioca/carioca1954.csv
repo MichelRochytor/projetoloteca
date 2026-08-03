@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,11/07/48,Bonsucesso,1-2,Vasco
+C,11/07/48,Fluminense,6-3,Canto do Rio
+C,11/07/48,Botafogo,0-4,São Cristóvão
+C,11/07/48,Flamengo,5-0,Olaria
+C,11/07/48,America-RJ,4-0,Bangu
+C,18/07/48,Madureira,1-1,Fluminense
+C,18/07/48,São Cristóvão,5-2,Bonsucesso
+C,18/07/48,Canto do Rio,2-4,Botafogo
+C,18/07/48,Vasco,3-2,Bangu
+C,18/07/48,Olaria,2-4,America-RJ
+C,25/07/48,Botafogo,6-0,Madureira
+C,25/07/48,Olaria,2-3,Vasco
+C,25/07/48,America-RJ,2-4,Flamengo
+C,25/07/48,Bonsucesso,4-1,Canto do Rio
+C,25/07/48,Bangu,3-0,São Cristóvão
+C,31/07/48,São Cristóvão,4-2,Olaria
+C,01/08/48,Madureira,2-1,Bonsucesso
+C,01/08/48,Canto do Rio,0-5,Bangu
+C,01/08/48,Fluminense,2-5,Botafogo
+C,01/08/48,Vasco,3-1,Flamengo
+C,04/08/48,Vasco,2-0,America-RJ
+C,07/08/48,São Cristóvão,2-5,Flamengo
+C,07/08/48,Bangu,1-1,Madureira
+C,07/08/48,Olaria,7-1,Canto do Rio
+C,07/08/48,Bonsucesso,1-5,Fluminense
+C,15/08/48,Madureira,4-2,Olaria
+C,15/08/48,Botafogo,3-0,Bonsucesso
+C,15/08/48,Flamengo,7-0,Canto do Rio
+C,15/08/48,America-RJ,2-3,São Cristóvão
+C,15/08/48,Fluminense,5-2,Bangu
+C,18/08/48,Vasco,3-1,São Cristóvão
+C,22/08/48,Canto do Rio,2-1,America-RJ
+C,22/08/48,Olaria,2-8,Fluminense
+C,22/08/48,Flamengo,5-4,Madureira
+C,22/08/48,Bangu,0-0,Botafogo
+C,29/08/48,Botafogo,6-1,Olaria
+C,29/08/48,Canto do Rio,2-3,Vasco
+C,29/08/48,America-RJ,3-1,Madureira
+C,29/08/48,Fluminense,1-1,Flamengo
+C,29/08/48,Bonsucesso,2-0,Bangu
+C,05/09/48,Flamengo,1-2,Botafogo
+C,05/09/48,Madureira,1-6,Vasco
+C,05/09/48,America-RJ,0-4,Fluminense
+C,05/09/48,São Cristóvão,1-2,Canto do Rio
+C,05/09/48,Olaria,4-2,Bonsucesso
+C,18/09/48,Bonsucesso,1-3,Flamengo
+C,18/09/48,Madureira,2-3,São Cristóvão
+C,19/09/48,Botafogo,1-0,America-RJ
+C,19/09/48,Vasco,0-2,Fluminense
+C,19/09/48,Bangu,5-1,Olaria
+C,25/09/48,Fluminense,5-2,São Cristóvão
+C,25/09/48,Bonsucesso,5-1,America-RJ
+C,26/09/48,Flamengo,3-2,Bangu
+C,26/09/48,Canto do Rio,2-1,Madureira
+C,26/09/48,Vasco,1-2,Botafogo
+C,03/10/48,Vasco,7-1,Bonsucesso
+C,03/10/48,São Cristóvão,1-3,Botafogo
+C,03/10/48,Bangu,2-0,America-RJ
+C,03/10/48,Olaria,4-2,Flamengo
+C,03/10/48,Canto do Rio,0-0,Fluminense
+C,10/10/48,America-RJ,2-1,Olaria
+C,10/10/48,Fluminense,1-0,Madureira
+C,10/10/48,Botafogo,4-1,Canto do Rio
+C,10/10/48,Bonsucesso,2-3,São Cristóvão
+C,10/10/48,Bangu,1-6,Vasco
+C,17/10/48,Flamengo,1-0,America-RJ
+C,17/10/48,Canto do Rio,1-2,Bonsucesso
+C,17/10/48,Vasco,5-1,Olaria
+C,17/10/48,Madureira,0-2,Botafogo
+C,17/10/48,São Cristóvão,2-2,Bangu
+C,24/10/48,Bonsucesso,3-2,Madureira
+C,24/10/48,Flamengo,2-3,Vasco
+C,24/10/48,Olaria,3-2,São Cristóvão
+C,24/10/48,Bangu,3-2,Canto do Rio
+C,25/10/48,Botafogo,2-2,Fluminense
+C,31/10/48,Flamengo,3-0,São Cristóvão
+C,31/10/48,Canto do Rio,6-2,Olaria
+C,31/10/48,America-RJ,1-3,Vasco
+C,31/10/48,Madureira,1-2,Bangu
+C,01/11/48,Fluminense,3-2,Bonsucesso
+C,07/11/48,Canto do Rio,3-3,Flamengo
+C,07/11/48,Olaria,3-3,Madureira
+C,07/11/48,São Cristóvão,3-3,America-RJ
+C,07/11/48,Bonsucesso,1-2,Botafogo
+C,07/11/48,Bangu,1-2,Fluminense
+C,13/11/48,America-RJ,3-1,Canto do Rio
+C,14/11/48,São Cristóvão,1-2,Vasco
+C,14/11/48,Madureira,0-1,Flamengo
+C,14/11/48,Botafogo,3-0,Bangu
+C,15/11/48,Fluminense,7-2,Olaria
+C,21/11/48,Olaria,3-4,Botafogo
+C,21/11/48,Madureira,0-1,America-RJ
+C,21/11/48,Flamengo,2-1,Fluminense
+C,21/11/48,Vasco,3-1,Canto do Rio
+C,21/11/48,Bangu,8-3,Bonsucesso
+C,27/11/48,Fluminense,2-3,America-RJ
+C,28/11/48,Vasco,4-1,Madureira
+C,28/11/48,Canto do Rio,1-0,São Cristóvão
+C,28/11/48,Botafogo,5-3,Flamengo
+C,28/11/48,Bonsucesso,1-3,Olaria
+C,04/12/48,Flamengo,3-1,Bonsucesso
+C,05/12/48,America-RJ,1-2,Botafogo
+C,05/12/48,São Cristóvão,3-2,Madureira
+C,05/12/48,Fluminense,0-2,Vasco
+C,05/12/48,Olaria,1-2,Bangu
+C,11/12/48,America-RJ,0-0,Bonsucesso
+C,12/12/48,São Cristóvão,1-5,Fluminense
+C,12/12/48,Madureira,3-1,Canto do Rio
+C,12/12/48,Botafogo,3-1,Vasco
+C,12/12/48,Bangu,2-4,Flamengo

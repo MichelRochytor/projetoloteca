@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/01/12,Rio Verde-GO,2-4,Atlético Goianiense
+1,22/01/12,Anapolina,2-1,Morrinhos
+1,22/01/12,CRAC,2-1,Vila Nova
+1,22/01/12,Goianésia,0-2,Itumbiara
+1,22/01/12,Goiás,5-0,Aparecidense
+2,24/01/12,Atlético Goianiense,2-1,Anapolina
+2,25/01/12,Itumbiara,3-1,CRAC
+2,25/01/12,Morrinhos,2-4,Goiás
+2,25/01/12,Vila Nova,3-0,Rio Verde-GO
+2,26/01/12,Aparecidense,3-1,Goianésia
+3,28/01/12,Goiás,3-1,Vila Nova
+3,29/01/12,Anapolina,1-1,Aparecidense
+3,29/01/12,CRAC,1-1,Morrinhos
+3,29/01/12,Goianésia,2-1,Atlético Goianiense
+3,29/01/12,Rio Verde-GO,1-2,Itumbiara
+4,01/02/12,Aparecidense,1-1,Rio Verde-GO
+4,01/02/12,CRAC,2-4,Atlético Goianiense
+4,01/02/12,Morrinhos,0-0,Goianésia
+4,01/02/12,Vila Nova,4-0,Anapolina
+4,01/02/12,Itumbiara,0-2,Goiás
+5,05/02/12,Atlético Goianiense,0-1,Goiás
+5,05/02/12,Goianésia,0-2,CRAC
+5,05/02/12,Morrinhos,3-2,Itumbiara
+5,05/02/12,Rio Verde-GO,1-1,Anapolina
+5,05/02/12,Vila Nova,1-3,Aparecidense
+6,08/02/12,Anapolina,1-2,Goianésia
+6,08/02/12,Aparecidense,1-6,Atlético Goianiense
+6,08/02/12,Itumbiara,0-0,Vila Nova
+6,08/02/12,Rio Verde-GO,1-2,Morrinhos
+6,08/02/12,Goiás,2-1,CRAC
+7,11/02/12,Vila Nova,0-1,Atlético Goianiense
+7,12/02/12,CRAC,3-1,Rio Verde-GO
+7,12/02/12,Goianésia,2-1,Goiás
+7,12/02/12,Itumbiara,2-2,Anapolina
+7,12/02/12,Morrinhos,2-1,Aparecidense
+8,22/02/12,Anapolina,1-2,CRAC
+8,22/02/12,Aparecidense,3-3,Itumbiara
+8,22/02/12,Atlético Goianiense,2-0,Morrinhos
+8,22/02/12,Goiás,2-0,Rio Verde-GO
+8,22/02/12,Vila Nova,1-1,Goianésia
+9,26/02/12,Anapolina,0-0,Goiás
+9,26/02/12,Atlético Goianiense,1-1,Itumbiara
+9,26/02/12,CRAC,0-1,Aparecidense
+9,26/02/12,Rio Verde-GO,4-2,Goianésia
+9,27/02/12,Morrinhos,0-4,Vila Nova
+10,29/02/12,Goiás,1-1,Anapolina
+10,29/02/12,Itumbiara,0-1,Atlético Goianiense
+10,29/02/12,Rio Verde-GO,0-1,CRAC
+10,01/03/12,Aparecidense,1-1,Morrinhos
+10,01/03/12,Goianésia,1-0,Vila Nova
+11,04/03/12,Atlético Goianiense,2-0,Aparecidense
+11,04/03/12,CRAC,1-1,Goiás
+11,04/03/12,Goianésia,0-2,Anapolina
+11,04/03/12,Morrinhos,1-4,Rio Verde-GO
+11,04/03/12,Vila Nova,3-2,Itumbiara
+12,11/03/12,Anapolina,1-2,Rio Verde-GO
+12,11/03/12,Aparecidense,5-4,CRAC
+12,11/03/12,Atlético Goianiense,2-2,Vila Nova
+12,11/03/12,Itumbiara,1-1,Morrinhos
+12,12/03/12,Goiás,2-1,Goianésia
+13,18/03/12,Anapolina,2-3,Itumbiara
+13,18/03/12,Aparecidense,0-2,Vila Nova
+13,18/03/12,CRAC,2-1,Goianésia
+13,19/03/12,Rio Verde-GO,3-4,Goiás
+13,19/03/12,Morrinhos,1-2,Atlético Goianiense
+14,25/03/12,CRAC,2-1,Anapolina
+14,25/03/12,Goianésia,0-0,Rio Verde-GO
+14,25/03/12,Goiás,2-0,Atlético Goianiense
+14,25/03/12,Itumbiara,1-1,Aparecidense
+14,25/03/12,Vila Nova,3-1,Morrinhos
+15,28/03/12,Anapolina,1-1,Vila Nova
+15,28/03/12,Goianésia,1-0,Morrinhos
+15,28/03/12,Rio Verde-GO,3-1,Aparecidense
+15,28/03/12,Atlético Goianiense,4-1,CRAC
+15,29/03/12,Goiás,4-2,Itumbiara
+16,31/03/12,Atlético Goianiense,3-0,Goianésia
+16,01/04/12,Aparecidense,2-1,Anapolina
+16,01/04/12,Itumbiara,1-2,Rio Verde-GO
+16,01/04/12,Morrinhos,3-2,CRAC
+16,01/04/12,Vila Nova,3-2,Goiás
+17,07/04/12,Goianésia,1-2,Aparecidense
+17,08/04/12,Anapolina,0-2,Atlético Goianiense
+17,08/04/12,CRAC,1-3,Itumbiara
+17,08/04/12,Goiás,2-1,Morrinhos
+17,08/04/12,Rio Verde-GO,1-1,Vila Nova
+18,15/04/12,Aparecidense,2-4,Goiás
+18,15/04/12,Atlético Goianiense,3-0,Rio Verde-GO
+18,15/04/12,Itumbiara,2-1,Goianésia
+18,15/04/12,Morrinhos,2-2,Anapolina
+18,15/04/12,Vila Nova,0-1,CRAC
+SF,22/04/12,Vila Nova,0-1,Goiás
+SF,22/04/12,CRAC,1-4,Atlético Goianiense
+SF,28/04/12,Atlético Goianiense,8-0,CRAC
+SF,29/04/12,Goiás,3-0,Vila Nova
+F,06/05/12,Atlético Goianiense,2-2,Goiás
+F,13/05/12,Goiás,1-1,Atlético Goianiense

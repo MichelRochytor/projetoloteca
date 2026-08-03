@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/09/12,Dinamo Zagreb,0-2,FC Porto
+A,18/09/12,PSG,4-1,Dynamo Kyiv
+B,18/09/12,Olympiacos,1-2,Schalke 04
+B,18/09/12,Montpellier,1-2,Arsenal
+C,18/09/12,Milan,0-0,Anderlecht
+C,18/09/12,Málaga,3-0,Zenit
+D,18/09/12,Real Madrid,3-2,Manchester City
+D,18/09/12,Borussia Dortmund,1-0,Ajax
+E,19/09/12,Chelsea,2-2,Juventus
+E,19/09/12,Shakhtar Donetsk,2-0,Nordsjaelland
+F,19/09/12,Bayern München,2-1,Valencia
+F,19/09/12,Lille,1-3,BATE Borisov
+G,19/09/12,Barcelona,3-2,Spartak Moskva
+G,19/09/12,Celtic,0-0,Benfica
+H,19/09/12,Manchester United,1-0,Galatasaray
+H,19/09/12,SC Braga,0-2,CFR Cluj
+G,02/10/12,Spartak Moskva,2-3,Celtic
+E,02/10/12,Juventus,1-1,Shakhtar Donetsk
+E,02/10/12,Nordsjaelland,0-4,Chelsea
+F,02/10/12,Valencia,2-0,Lille
+F,02/10/12,BATE Borisov,3-1,Bayern München
+G,02/10/12,Benfica,0-2,Barcelona
+H,02/10/12,Galatasaray,0-2,SC Braga
+H,02/10/12,CFR Cluj,1-2,Manchester United
+A,02/10/12,FC Porto,1-0,PSG
+C,03/10/12,Zenit,2-3,Milan
+A,03/10/12,Dynamo Kyiv,2-0,Dinamo Zagreb
+B,03/10/12,Arsenal,3-1,Olympiacos
+B,03/10/12,Schalke 04,2-2,Montpellier
+C,03/10/12,Anderlecht,0-3,Málaga
+D,03/10/12,Ajax,1-4,Real Madrid
+D,03/10/12,Manchester City,1-1,Borussia Dortmund
+G,23/10/12,Spartak Moskva,2-1,Benfica
+E,23/10/12,Shakhtar Donetsk,2-1,Chelsea
+E,23/10/12,Nordsjaelland,1-1,Juventus
+F,23/10/12,Lille,0-1,Bayern München
+F,23/10/12,BATE Borisov,0-3,Valencia
+G,23/10/12,Barcelona,2-1,Celtic
+H,23/10/12,Manchester United,3-2,SC Braga
+H,23/10/12,Galatasaray,1-1,CFR Cluj
+A,23/10/12,FC Porto,3-2,Dynamo Kyiv
+C,24/10/12,Zenit,1-0,Anderlecht
+A,24/10/12,Dinamo Zagreb,0-2,PSG
+B,24/10/12,Arsenal,0-2,Schalke 04
+B,24/10/12,Montpellier,1-2,Olympiacos
+C,24/10/12,Málaga,1-0,Milan
+D,24/10/12,Ajax,3-1,Manchester City
+D,24/10/12,Borussia Dortmund,2-1,Real Madrid
+A,05/11/12,Dynamo Kyiv,0-0,FC Porto
+A,06/11/12,PSG,4-0,Dinamo Zagreb
+B,06/11/12,Schalke 04,2-2,Arsenal
+B,06/11/12,Olympiacos,3-1,Montpellier
+C,06/11/12,Anderlecht,1-0,Zenit
+C,06/11/12,Milan,1-1,Málaga
+D,06/11/12,Manchester City,2-2,Ajax
+D,06/11/12,Real Madrid,2-2,Borussia Dortmund
+E,07/11/12,Chelsea,3-2,Shakhtar Donetsk
+E,07/11/12,Juventus,4-0,Nordsjaelland
+F,07/11/12,Bayern München,6-1,Lille
+F,07/11/12,Valencia,4-2,BATE Borisov
+G,07/11/12,Benfica,2-0,Spartak Moskva
+G,07/11/12,Celtic,2-1,Barcelona
+H,07/11/12,CFR Cluj,1-3,Galatasaray
+H,07/11/12,SC Braga,1-3,Manchester United
+F,20/11/12,BATE Borisov,0-2,Lille
+G,20/11/12,Spartak Moskva,0-3,Barcelona
+E,20/11/12,Juventus,3-0,Chelsea
+E,20/11/12,Nordsjaelland,2-5,Shakhtar Donetsk
+F,20/11/12,Valencia,1-1,Bayern München
+G,20/11/12,Benfica,2-1,Celtic
+H,20/11/12,Galatasaray,1-0,Manchester United
+H,20/11/12,CFR Cluj,3-1,SC Braga
+A,20/11/12,FC Porto,3-0,Dinamo Zagreb
+C,21/11/12,Zenit,2-2,Málaga
+A,21/11/12,Dynamo Kyiv,0-2,PSG
+B,21/11/12,Schalke 04,1-0,Olympiacos
+B,21/11/12,Arsenal,2-0,Montpellier
+C,21/11/12,Anderlecht,1-3,Milan
+D,21/11/12,Manchester City,1-1,Real Madrid
+D,21/11/12,Ajax,1-4,Borussia Dortmund
+A,03/12/12,PSG,2-1,FC Porto
+A,04/12/12,Dinamo Zagreb,1-1,Dynamo Kyiv
+B,04/12/12,Olympiacos,2-1,Arsenal
+B,04/12/12,Montpellier,1-1,Schalke 04
+C,04/12/12,Milan,0-1,Zenit
+C,04/12/12,Málaga,2-2,Anderlecht
+D,04/12/12,Real Madrid,4-1,Ajax
+D,04/12/12,Borussia Dortmund,1-0,Manchester City
+E,05/12/12,Shakhtar Donetsk,0-1,Juventus
+E,05/12/12,Chelsea,6-1,Nordsjaelland
+F,05/12/12,Lille,0-1,Valencia
+F,05/12/12,Bayern München,4-1,BATE Borisov
+G,05/12/12,Barcelona,0-0,Benfica
+G,05/12/12,Celtic,2-1,Spartak Moskva
+H,05/12/12,SC Braga,1-2,Galatasaray
+H,05/12/12,Manchester United,0-1,CFR Cluj
+1/8,12/02/13,Celtic,0-3,Juventus
+1/8,12/02/13,Valencia,1-2,PSG
+1/8,13/02/13,Shakhtar Donetsk,2-2,Borussia Dortmund
+1/8,13/02/13,Real Madrid,1-1,Manchester United
+1/8,18/02/13,FC Porto,1-0,Málaga
+1/8,19/02/13,Arsenal,1-3,Bayern München
+1/8,20/02/13,Galatasaray,1-1,Schalke 04
+1/8,20/02/13,Milan,2-0,Barcelona
+1/8,05/03/13,Borussia Dortmund,3-0,Shakhtar Donetsk
+1/8,05/03/13,Manchester United,1-2,Real Madrid
+1/8,06/03/13,Juventus,2-0,Celtic
+1/8,06/03/13,PSG,1-1,Valencia
+1/8,12/03/13,Schalke 04,2-3,Galatasaray
+1/8,12/03/13,Barcelona,4-0,Milan
+1/8,13/03/13,Bayern München,0-2,Arsenal
+1/8,13/03/13,Málaga,2-0,FC Porto
+QF,02/04/13,PSG,2-2,Barcelona
+QF,02/04/13,Bayern München,2-0,Juventus
+QF,03/04/13,Málaga,0-0,Borussia Dortmund
+QF,03/04/13,Real Madrid,3-0,Galatasaray
+QF,09/04/13,Borussia Dortmund,3-2,Málaga
+QF,09/04/13,Galatasaray,3-2,Real Madrid
+QF,10/04/13,Barcelona,1-1,PSG
+QF,10/04/13,Juventus,0-2,Bayern München
+SF,23/04/13,Bayern München,4-0,Barcelona
+SF,24/04/13,Borussia Dortmund,4-1,Real Madrid
+SF,30/04/13,Real Madrid,2-0,Borussia Dortmund
+SF,01/05/13,Barcelona,0-3,Bayern München
+F,25/05/13,Borussia Dortmund,1-2,Bayern München

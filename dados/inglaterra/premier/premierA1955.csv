@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,20/08/55,Birmingham City,2-2,Manchester United
+1,20/08/55,Tottenham,0-1,Burnley
+1,20/08/55,Newcastle,4-2,Sheffield United
+1,20/08/55,Manchester City,2-2,Aston Villa
+1,20/08/55,Huddersfield Town,1-0,Portsmouth
+1,20/08/55,Everton,0-4,Preston North End
+1,20/08/55,Chelsea,0-2,Bolton Wanderers
+1,20/08/55,Charlton Athletic,2-2,Luton Town
+1,20/08/55,Cardiff City,3-1,Sunderland
+1,20/08/55,Blackpool,3-1,Arsenal
+1,20/08/55,West Bromwich,1-1,Wolverhampton
+2,22/08/55,Burnley,0-2,Blackpool
+2,22/08/55,Sheffield United,0-0,Charlton Athletic
+2,23/08/55,Arsenal,3-1,Cardiff City
+2,24/08/55,West Bromwich,2-0,Everton
+2,24/08/55,Sunderland,5-1,Aston Villa
+2,24/08/55,Preston North End,2-1,Luton Town
+2,24/08/55,Portsmouth,2-1,Wolverhampton
+2,24/08/55,Newcastle,2-2,Birmingham City
+2,24/08/55,Manchester United,2-2,Tottenham
+2,24/08/55,Huddersfield Town,1-3,Chelsea
+2,27/08/55,Wolverhampton,7-2,Manchester City
+3,27/08/55,Arsenal,1-1,Chelsea
+3,27/08/55,Sunderland,4-1,Huddersfield Town
+3,27/08/55,Sheffield United,0-3,Birmingham City
+3,27/08/55,Preston North End,4-3,Newcastle
+3,27/08/55,Portsmouth,3-3,Blackpool
+3,27/08/55,Manchester United,3-1,West Bromwich
+3,27/08/55,Luton Town,2-1,Tottenham
+3,27/08/55,Burnley,0-1,Everton
+3,27/08/55,Bolton Wanderers,1-3,Charlton Athletic
+3,27/08/55,Aston Villa,2-0,Cardiff City
+4,29/08/55,Aston Villa,1-4,Sunderland
+4,29/08/55,Blackpool,1-1,Burnley
+4,29/08/55,Chelsea,0-0,Huddersfield Town
+3,31/08/55,Manchester City,2-2,Arsenal
+4,31/08/55,Wolverhampton,3-1,Portsmouth
+4,31/08/55,Tottenham,1-2,Manchester United
+4,31/08/55,Luton Town,2-1,Preston North End
+4,31/08/55,Everton,2-0,West Bromwich
+4,31/08/55,Cardiff City,1-0,Bolton Wanderers
+4,31/08/55,Birmingham City,3-1,Newcastle
+4,01/09/55,Charlton Athletic,3-2,Sheffield United
+4,03/09/55,Manchester City,1-0,Manchester United
+5,03/09/55,Birmingham City,0-3,Preston North End
+5,03/09/55,West Bromwich,2-1,Sheffield United
+5,03/09/55,Tottenham,2-3,Charlton Athletic
+5,03/09/55,Newcastle,3-1,Burnley
+5,03/09/55,Huddersfield Town,1-1,Aston Villa
+5,03/09/55,Everton,0-1,Luton Town
+5,03/09/55,Chelsea,1-5,Portsmouth
+5,03/09/55,Cardiff City,1-9,Wolverhampton
+5,03/09/55,Bolton Wanderers,4-1,Arsenal
+5,03/09/55,Blackpool,7-3,Sunderland
+6,05/09/55,Aston Villa,0-0,Birmingham City
+6,05/09/55,Blackpool,2-1,Chelsea
+6,05/09/55,Burnley,3-1,Luton Town
+6,05/09/55,Sheffield United,2-0,Tottenham
+5,06/09/55,Arsenal,0-0,Manchester City
+6,07/09/55,West Bromwich,1-1,Newcastle
+6,07/09/55,Preston North End,2-2,Charlton Athletic
+6,07/09/55,Manchester United,2-1,Everton
+6,07/09/55,Bolton Wanderers,4-0,Cardiff City
+6,10/09/55,Portsmouth,3-3,Bolton Wanderers
+6,10/09/55,Wolverhampton,4-0,Huddersfield Town
+7,10/09/55,Aston Villa,1-1,Blackpool
+7,10/09/55,Tottenham,3-1,Arsenal
+7,10/09/55,Sunderland,4-3,Chelsea
+7,10/09/55,Sheffield United,1-0,Manchester United
+7,10/09/55,Preston North End,0-1,West Bromwich
+7,10/09/55,Manchester City,3-1,Cardiff City
+7,10/09/55,Luton Town,4-2,Newcastle
+7,10/09/55,Charlton Athletic,0-2,Everton
+7,10/09/55,Burnley,3-2,Birmingham City
+8,14/09/55,Everton,4-2,Manchester United
+8,15/09/55,Charlton Athletic,2-1,Preston North End
+7,17/09/55,Bolton Wanderers,0-3,Sunderland
+7,17/09/55,Huddersfield Town,3-3,Manchester City
+8,17/09/55,Arsenal,1-3,Portsmouth
+8,17/09/55,Birmingham City,0-0,Luton Town
+8,17/09/55,Blackpool,2-1,Wolverhampton
+8,17/09/55,Cardiff City,3-2,Sheffield United
+8,17/09/55,Chelsea,0-0,Aston Villa
+8,17/09/55,West Bromwich,1-0,Burnley
+9,17/09/55,Everton,2-1,Tottenham
+9,17/09/55,Manchester United,3-2,Preston North End
+9,17/09/55,Newcastle,4-1,Charlton Athletic
+9,21/09/55,Birmingham City,2-2,Aston Villa
+9,24/09/55,Wolverhampton,2-1,Chelsea
+9,24/09/55,Tottenham,3-1,Newcastle
+9,24/09/55,Sunderland,3-1,Arsenal
+9,24/09/55,Preston North End,0-2,Sheffield United
+9,24/09/55,Manchester City,2-0,Blackpool
+9,24/09/55,Luton Town,0-2,West Bromwich
+9,24/09/55,Cardiff City,1-2,Huddersfield Town
+9,24/09/55,Burnley,0-0,Manchester United
+10,24/09/55,Aston Villa,0-2,Bolton Wanderers
+10,24/09/55,Charlton Athletic,2-0,Birmingham City
+10,24/09/55,Portsmouth,1-0,Everton
+9,01/10/55,Bolton Wanderers,2-1,Wolverhampton
+9,01/10/55,Huddersfield Town,2-2,Preston North End
+9,01/10/55,Portsmouth,2-1,Sunderland
+10,01/10/55,Arsenal,1-0,Aston Villa
+10,01/10/55,Blackpool,2-1,Cardiff City
+10,01/10/55,Chelsea,2-1,Manchester City
+10,01/10/55,Sheffield United,1-2,Burnley
+11,01/10/55,Birmingham City,3-0,Tottenham
+11,01/10/55,Manchester United,3-1,Luton Town
+11,01/10/55,Newcastle,1-2,Everton
+11,01/10/55,West Bromwich,3-3,Charlton Athletic
+10,08/10/55,Burnley,2-0,Huddersfield Town
+10,08/10/55,Sheffield United,1-1,Manchester City
+11,08/10/55,West Bromwich,1-0,Aston Villa
+11,08/10/55,Tottenham,0-3,Bolton Wanderers
+11,08/10/55,Preston North End,1-2,Cardiff City
+11,08/10/55,Newcastle,2-1,Portsmouth
+11,08/10/55,Luton Town,3-1,Blackpool
+12,08/10/55,Birmingham City,1-2,Sunderland
+12,08/10/55,Charlton Athletic,1-2,Chelsea
+12,08/10/55,Everton,1-1,Arsenal
+12,08/10/55,Manchester United,4-3,Wolverhampton
+11,15/10/55,Huddersfield Town,0-2,Luton Town
+11,15/10/55,Manchester City,0-2,Preston North End
+12,15/10/55,Wolverhampton,3-2,Sheffield United
+12,15/10/55,Sunderland,2-1,West Bromwich
+12,15/10/55,Chelsea,2-0,Tottenham
+12,15/10/55,Cardiff City,2-2,Burnley
+12,15/10/55,Blackpool,5-0,Charlton Athletic
+12,15/10/55,Arsenal,1-0,Newcastle
+13,15/10/55,Aston Villa,4-4,Manchester United
+13,15/10/55,Bolton Wanderers,1-1,Everton
+13,15/10/55,Portsmouth,0-5,Birmingham City
+12,22/10/55,Manchester United,3-0,Huddersfield Town
+13,22/10/55,West Bromwich,2-1,Cardiff City
+13,22/10/55,Tottenham,2-3,Sunderland
+13,22/10/55,Sheffield United,2-1,Blackpool
+13,22/10/55,Preston North End,2-3,Chelsea
+13,22/10/55,Newcastle,3-1,Wolverhampton
+13,22/10/55,Luton Town,0-0,Arsenal
+13,22/10/55,Burnley,2-0,Bolton Wanderers
+14,22/10/55,Birmingham City,4-3,Manchester City
+14,22/10/55,Charlton Athletic,6-1,Portsmouth
+14,22/10/55,Everton,2-1,Aston Villa
+13,29/10/55,Bolton Wanderers,4-0,Luton Town
+13,29/10/55,Huddersfield Town,1-2,Sheffield United
+13,29/10/55,Manchester City,2-0,West Bromwich
+14,29/10/55,Aston Villa,3-0,Newcastle
+14,29/10/55,Blackpool,2-6,Preston North End
+14,29/10/55,Cardiff City,0-1,Manchester United
+14,29/10/55,Chelsea,0-0,Burnley
+14,29/10/55,Portsmouth,4-1,Tottenham
+15,29/10/55,Arsenal,2-4,Charlton Athletic
+15,29/10/55,Sunderland,0-0,Everton
+15,29/10/55,Wolverhampton,1-0,Birmingham City
+15,05/11/55,West Bromwich,2-0,Bolton Wanderers
+15,05/11/55,Tottenham,1-1,Cardiff City
+15,05/11/55,Sheffield United,1-3,Portsmouth
+15,05/11/55,Newcastle,1-2,Blackpool
+15,05/11/55,Manchester United,1-1,Arsenal
+15,05/11/55,Luton Town,5-1,Wolverhampton
+15,05/11/55,Burnley,2-0,Aston Villa
+16,05/11/55,Birmingham City,3-0,Chelsea
+16,05/11/55,Charlton Athletic,5-2,Manchester City
+16,05/11/55,Everton,5-2,Huddersfield Town
+16,05/11/55,Preston North End,2-2,Sunderland
+15,12/11/55,Huddersfield Town,2-6,Newcastle
+15,12/11/55,Manchester City,1-2,Tottenham
+15,12/11/55,Portsmouth,0-2,Preston North End
+16,12/11/55,Arsenal,2-1,Sheffield United
+16,12/11/55,Cardiff City,3-1,Everton
+16,12/11/55,Chelsea,2-0,West Bromwich
+16,12/11/55,Sunderland,4-4,Burnley
+17,12/11/55,Aston Villa,1-0,Luton Town
+17,12/11/55,Blackpool,2-0,Birmingham City
+17,12/11/55,Bolton Wanderers,3-1,Manchester United
+17,12/11/55,Wolverhampton,2-0,Charlton Athletic
+16,19/11/55,Luton Town,8-2,Sunderland
+17,19/11/55,West Bromwich,1-2,Blackpool
+17,19/11/55,Tottenham,2-1,Wolverhampton
+17,19/11/55,Sheffield United,1-3,Bolton Wanderers
+17,19/11/55,Preston North End,0-1,Arsenal
+17,19/11/55,Newcastle,4-0,Cardiff City
+17,19/11/55,Manchester United,3-0,Chelsea
+17,19/11/55,Burnley,3-0,Portsmouth
+18,19/11/55,Birmingham City,5-0,Huddersfield Town
+18,19/11/55,Charlton Athletic,3-1,Aston Villa
+18,19/11/55,Everton,1-1,Manchester City
+17,26/11/55,Huddersfield Town,1-0,West Bromwich
+17,26/11/55,Manchester City,1-2,Newcastle
+17,26/11/55,Portsmouth,0-0,Luton Town
+18,26/11/55,Arsenal,0-1,Burnley
+18,26/11/55,Aston Villa,0-2,Tottenham
+18,26/11/55,Blackpool,0-0,Manchester United
+18,26/11/55,Chelsea,1-0,Sheffield United
+19,26/11/55,Bolton Wanderers,0-0,Preston North End
+19,26/11/55,Cardiff City,2-1,Birmingham City
+19,26/11/55,Sunderland,3-2,Charlton Athletic
+19,26/11/55,Wolverhampton,1-0,Everton
+18,03/12/55,Burnley,2-2,Manchester City
+19,03/12/55,West Bromwich,4-0,Portsmouth
+19,03/12/55,Tottenham,1-1,Blackpool
+19,03/12/55,Sheffield United,2-2,Aston Villa
+19,03/12/55,Newcastle,3-0,Bolton Wanderers
+19,03/12/55,Luton Town,3-0,Cardiff City
+19,03/12/55,Everton,3-3,Chelsea
+20,03/12/55,Birmingham City,4-0,Arsenal
+20,03/12/55,Charlton Athletic,4-1,Huddersfield Town
+20,03/12/55,Manchester United,2-1,Sunderland
+20,03/12/55,Preston North End,2-0,Wolverhampton
+19,10/12/55,Huddersfield Town,1-0,Tottenham
+19,10/12/55,Manchester City,3-2,Luton Town
+20,10/12/55,Wolverhampton,3-1,Burnley
+20,10/12/55,Sunderland,3-2,Sheffield United
+20,10/12/55,Chelsea,2-1,Newcastle
+20,10/12/55,Cardiff City,3-1,Charlton Athletic
+20,10/12/55,Blackpool,4-0,Everton
+20,10/12/55,Arsenal,2-0,West Bromwich
+21,10/12/55,Aston Villa,3-2,Preston North End
+21,10/12/55,Bolton Wanderers,6-0,Birmingham City
+21,10/12/55,Portsmouth,3-2,Manchester United
+20,17/12/55,Aston Villa,0-3,Manchester City
+20,17/12/55,Portsmouth,5-2,Huddersfield Town
+21,17/12/55,Wolverhampton,3-2,West Bromwich
+21,17/12/55,Sunderland,1-1,Cardiff City
+21,17/12/55,Sheffield United,2-1,Newcastle
+21,17/12/55,Burnley,2-0,Tottenham
+21,17/12/55,Bolton Wanderers,4-0,Chelsea
+21,17/12/55,Arsenal,4-1,Blackpool
+22,17/12/55,Luton Town,2-1,Charlton Athletic
+22,17/12/55,Manchester United,2-1,Birmingham City
+22,17/12/55,Preston North End,0-1,Everton
+21,24/12/55,Huddersfield Town,4-0,Sunderland
+21,24/12/55,Manchester City,2-2,Wolverhampton
+22,24/12/55,West Bromwich,1-4,Manchester United
+22,24/12/55,Tottenham,2-1,Luton Town
+22,24/12/55,Newcastle,5-0,Preston North End
+22,24/12/55,Chelsea,2-0,Arsenal
+22,24/12/55,Cardiff City,1-0,Aston Villa
+22,24/12/55,Blackpool,2-3,Portsmouth
+23,24/12/55,Birmingham City,0-2,Sheffield United
+23,24/12/55,Charlton Athletic,3-1,Bolton Wanderers
+23,24/12/55,Everton,1-1,Burnley
+22,26/12/55,Aston Villa,1-3,Portsmouth
+22,26/12/55,Bolton Wanderers,1-3,Manchester City
+23,26/12/55,Wolverhampton,3-3,Arsenal
+23,26/12/55,Tottenham,4-1,West Bromwich
+23,26/12/55,Sunderland,1-6,Newcastle
+23,26/12/55,Sheffield United,0-4,Luton Town
+23,26/12/55,Cardiff City,1-1,Chelsea
+23,26/12/55,Burnley,1-2,Preston North End
+23,26/12/55,Blackpool,4-2,Huddersfield Town
+24,26/12/55,Birmingham City,6-2,Everton
+24,26/12/55,Manchester United,5-1,Charlton Athletic
+23,27/12/55,Manchester City,2-0,Bolton Wanderers
+23,27/12/55,Portsmouth,2-2,Aston Villa
+24,27/12/55,West Bromwich,1-0,Tottenham
+24,27/12/55,Preston North End,4-2,Burnley
+24,27/12/55,Newcastle,3-1,Sunderland
+24,27/12/55,Luton Town,2-1,Sheffield United
+24,27/12/55,Huddersfield Town,3-1,Blackpool
+24,27/12/55,Chelsea,2-1,Cardiff City
+24,27/12/55,Arsenal,2-2,Wolverhampton
+25,27/12/55,Charlton Athletic,3-0,Manchester United
+25,27/12/55,Everton,5-1,Birmingham City
+24,31/12/55,Aston Villa,3-0,Huddersfield Town
+24,31/12/55,Manchester United,2-1,Manchester City
+25,31/12/55,Wolverhampton,0-2,Cardiff City
+25,31/12/55,Sunderland,0-0,Blackpool
+25,31/12/55,Sheffield United,2-2,West Bromwich
+25,31/12/55,Portsmouth,4-4,Chelsea
+25,31/12/55,Burnley,3-1,Newcastle
+25,31/12/55,Arsenal,3-1,Bolton Wanderers
+26,31/12/55,Charlton Athletic,1-2,Tottenham
+26,31/12/55,Luton Town,2-2,Everton
+26,31/12/55,Preston North End,1-1,Birmingham City
+25,02/01/56,Bolton Wanderers,2-2,Huddersfield Town
+25,02/01/56,Manchester City,4-1,Portsmouth
+25,02/01/56,Sunderland,1-1,Wolverhampton
+26,02/01/56,Newcastle,0-3,West Bromwich
+26,14/01/56,Huddersfield Town,1-3,Wolverhampton
+26,14/01/56,Chelsea,2-3,Sunderland
+26,14/01/56,Cardiff City,4-1,Manchester City
+26,14/01/56,Bolton Wanderers,4-0,Portsmouth
+26,14/01/56,Blackpool,6-0,Aston Villa
+26,14/01/56,Arsenal,0-1,Tottenham
+26,14/01/56,Manchester United,3-1,Sheffield United
+27,14/01/56,Birmingham City,1-2,Burnley
+27,14/01/56,Everton,3-2,Charlton Athletic
+27,14/01/56,Newcastle,4-0,Luton Town
+27,14/01/56,West Bromwich,3-2,Preston North End
+27,21/01/56,Sunderland,0-0,Bolton Wanderers
+27,21/01/56,Sheffield United,2-1,Cardiff City
+27,21/01/56,Portsmouth,5-2,Arsenal
+27,21/01/56,Manchester City,1-0,Huddersfield Town
+27,21/01/56,Aston Villa,1-4,Chelsea
+27,21/01/56,Wolverhampton,2-3,Blackpool
+28,21/01/56,Burnley,1-2,West Bromwich
+28,21/01/56,Charlton Athletic,0-2,Newcastle
+28,21/01/56,Luton Town,0-1,Birmingham City
+28,21/01/56,Preston North End,3-1,Manchester United

@@ -1,0 +1,143 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,23/01/00,Inter SM,1-0,Rio Grande
+A,23/01/00,Pelotas,1-2,Esportivo
+A,23/01/00,Caxias,2-2,Veranópolis
+B,23/01/00,Avenida,0-1,15 de Novembro
+B,23/01/00,São Luiz,1-0,Santa Cruz-RS
+B,25/01/00,Guarani V. Aires,5-1,Passo Fundo
+A,30/01/00,Rio Grande,1-1,Pelotas
+A,30/01/00,Esportivo,1-1,São José-RS
+A,30/01/00,Veranópolis,2-2,Inter SM
+B,30/01/00,15 de Novembro,4-0,São Luiz
+B,30/01/00,Passo Fundo,2-1,Santo Ângelo
+B,30/01/00,Santa Cruz-RS,2-1,Guarani V. Aires
+A,02/02/00,Pelotas,0-1,Veranópolis
+A,02/02/00,Rio Grande,0-0,Esportivo
+B,02/02/00,Santo Ângelo,1-0,Avenida
+B,02/02/00,Santa Cruz-RS,1-1,Passo Fundo
+B,02/02/00,Guarani V. Aires,1-1,15 de Novembro
+A,03/02/00,São José-RS,1-1,Caxias
+A,06/02/00,Esportivo,0-0,Caxias
+A,06/02/00,Inter SM,0-0,Pelotas
+A,06/02/00,Veranópolis,0-0,São José-RS
+B,06/02/00,São Luiz,2-3,Guarani V. Aires
+B,06/02/00,15 de Novembro,1-0,Santo Ângelo
+B,07/02/00,Passo Fundo,1-0,Avenida
+A,13/02/00,Caxias,1-0,Rio Grande
+A,13/02/00,Esportivo,1-1,Veranópolis
+A,13/02/00,São José-RS,2-2,Inter SM
+B,13/02/00,Avenida,1-2,Santa Cruz-RS
+B,13/02/00,Passo Fundo,3-1,15 de Novembro
+B,13/02/00,Santo Ângelo,4-1,São Luiz
+A,16/02/00,Inter SM,1-1,Esportivo
+A,16/02/00,Rio Grande,1-3,São José-RS
+B,16/02/00,São Luiz,0-0,Passo Fundo
+B,16/02/00,Guarani V. Aires,4-2,Avenida
+B,16/02/00,Santa Cruz-RS,1-1,Santo Ângelo
+A,17/02/00,Pelotas,0-3,Caxias
+A,20/02/00,Veranópolis,2-5,Rio Grande
+A,20/02/00,São José-RS,0-1,Pelotas
+A,20/02/00,Caxias,3-0,Inter SM
+B,20/02/00,Santo Ângelo,2-4,Guarani V. Aires
+B,20/02/00,Avenida,4-1,São Luiz
+B,22/02/00,15 de Novembro,1-3,Santa Cruz-RS
+A,27/02/00,Rio Grande,4-2,Veranópolis
+A,27/02/00,Pelotas,1-1,São José-RS
+A,27/02/00,Inter SM,0-1,Caxias
+B,27/02/00,Santa Cruz-RS,5-1,15 de Novembro
+B,27/02/00,Guarani V. Aires,2-2,Santo Ângelo
+B,27/02/00,São Luiz,5-1,Avenida
+A,01/03/00,Esportivo,2-0,Inter SM
+A,01/03/00,Caxias,3-1,Pelotas
+A,01/03/00,São José-RS,3-1,Rio Grande
+B,01/03/00,Passo Fundo,2-2,São Luiz
+B,01/03/00,Avenida,0-2,Guarani V. Aires
+B,01/03/00,Santo Ângelo,2-0,Santa Cruz-RS
+A,04/03/00,Rio Grande,2-1,Caxias
+A,04/03/00,Veranópolis,1-3,Esportivo
+A,04/03/00,Inter SM,0-2,São José-RS
+B,04/03/00,Santa Cruz-RS,2-2,Avenida
+B,04/03/00,15 de Novembro,4-1,Passo Fundo
+B,04/03/00,São Luiz,2-2,Santo Ângelo
+A,11/03/00,Caxias,1-3,Esportivo
+A,12/03/00,Pelotas,0-0,Inter SM
+A,12/03/00,São José-RS,0-0,Veranópolis
+B,12/03/00,Avenida,2-2,Passo Fundo
+B,12/03/00,Guarani V. Aires,4-0,São Luiz
+B,12/03/00,Santo Ângelo,4-2,15 de Novembro
+A,15/03/00,Veranópolis,3-2,Pelotas
+A,15/03/00,Esportivo,2-1,Rio Grande
+B,15/03/00,15 de Novembro,3-0,Guarani V. Aires
+B,15/03/00,Avenida,1-2,Santo Ângelo
+B,15/03/00,Passo Fundo,3-2,Santa Cruz-RS
+A,16/03/00,Caxias,1-2,São José-RS
+B,18/03/00,Guarani V. Aires,0-1,Santa Cruz-RS
+A,19/03/00,São José-RS,0-2,Esportivo
+A,19/03/00,Pelotas,3-0,Rio Grande
+A,19/03/00,Inter SM,0-1,Veranópolis
+B,19/03/00,Santo Ângelo,2-3,Passo Fundo
+B,19/03/00,São Luiz,1-3,15 de Novembro
+B,25/03/00,Passo Fundo,2-1,Guarani V. Aires
+B,25/03/00,Santa Cruz-RS,3-1,São Luiz
+B,25/03/00,15 de Novembro,2-1,Avenida
+A,26/03/00,Esportivo,1-0,Pelotas
+A,26/03/00,Rio Grande,0-0,Inter SM
+A,26/03/00,Veranópolis,4-2,Caxias
+OCT,30/03/00,Santa Cruz-RS,0-0,Juventude
+OCT,01/04/00,Esportivo,0-1,Grêmio
+OCT,02/04/00,Internacional,2-0,15 de Novembro
+OCT,02/04/00,Caxias,4-0,Passo Fundo
+OCT,08/04/00,Passo Fundo,3-3,Internacional
+OCT,09/04/00,Grêmio,2-1,Santa Cruz-RS
+OCT,09/04/00,15 de Novembro,0-0,Esportivo
+OCT,09/04/00,Juventude,0-1,Caxias
+OCT,12/04/00,15 de Novembro,2-2,Grêmio
+OCT,12/04/00,Internacional,2-0,Santa Cruz-RS
+OCT,15/04/00,Caxias,2-0,Internacional
+OCT,16/04/00,Grêmio,3-0,Passo Fundo
+OCT,16/04/00,Esportivo,2-3,Juventude
+OCT,16/04/00,Santa Cruz-RS,0-1,15 de Novembro
+OCT,22/04/00,15 de Novembro,2-0,Caxias
+OCT,22/04/00,Internacional,4-2,Esportivo
+OCT,23/04/00,Juventude,0-0,Grêmio
+OCT,23/04/00,Passo Fundo,2-4,Santa Cruz-RS
+OCT,25/04/00,Esportivo,0-0,Caxias
+OCT,26/04/00,Juventude,4-0,Passo Fundo
+OCT,29/04/00,15 de Novembro,3-4,Juventude
+OCT,29/04/00,Esportivo,2-0,Passo Fundo
+OCT,30/04/00,Internacional,1-1,Grêmio
+OCT,30/04/00,Caxias,4-3,Santa Cruz-RS
+OCT,04/05/00,Santa Cruz-RS,1-0,Esportivo
+OCT,06/05/00,Juventude,2-2,Internacional
+OCT,06/05/00,Passo Fundo,0-0,15 de Novembro
+OCT,07/05/00,Grêmio,1-2,Caxias
+OCT,10/05/00,Grêmio,4-4,Esportivo
+OCT,10/05/00,15 de Novembro,0-3,Internacional
+OCT,10/05/00,Juventude,5-1,Santa Cruz-RS
+OCT,10/05/00,Passo Fundo,1-0,Caxias
+OCT,13/05/00,Santa Cruz-RS,1-3,Grêmio
+OCT,14/05/00,Internacional,2-0,Passo Fundo
+OCT,14/05/00,Esportivo,0-0,15 de Novembro
+OCT,14/05/00,Caxias,3-0,Juventude
+OCT,17/05/00,Santa Cruz-RS,1-2,Internacional
+OCT,17/05/00,Grêmio,2-0,15 de Novembro
+OCT,17/05/00,Caxias,2-0,Esportivo
+OCT,17/05/00,Passo Fundo,1-2,Juventude
+OCT,20/05/00,Passo Fundo,1-2,Grêmio
+OCT,21/05/00,Internacional,4-1,Caxias
+OCT,21/05/00,15 de Novembro,3-2,Santa Cruz-RS
+OCT,21/05/00,Juventude,4-1,Esportivo
+OCT,25/05/00,Caxias,0-0,15 de Novembro
+OCT,26/05/00,Santa Cruz-RS,1-1,Passo Fundo
+OCT,27/05/00,Esportivo,1-2,Internacional
+OCT,28/05/00,Grêmio,2-0,Juventude
+OCT,03/06/00,Juventude,0-0,15 de Novembro
+OCT,03/06/00,Santa Cruz-RS,1-1,Caxias
+OCT,03/06/00,Passo Fundo,3-1,Esportivo
+OCT,06/06/00,Esportivo,1-0,Santa Cruz-RS
+OCT,07/06/00,Grêmio,1-0,Internacional
+OCT,10/06/00,Caxias,0-1,Grêmio
+OCT,11/06/00,Internacional,3-1,Juventude
+OCT,11/06/00,15 de Novembro,4-1,Passo Fundo
+F,14/06/00,Caxias,3-0,Grêmio
+F,18/06/00,Grêmio,0-0,Caxias

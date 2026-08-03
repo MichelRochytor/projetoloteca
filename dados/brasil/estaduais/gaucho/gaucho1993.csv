@@ -1,0 +1,336 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,27/02/93,São Luiz,2-0,Grêmio Santanense
+1F,28/02/93,Guarany,0-1,Caxias
+1F,28/02/93,Juventude,2-0,São Paulo-RS
+1F,28/02/93,Brasil de Farroupilha,0-1,Aimoré
+1F,28/02/93,Lajeadense,2-1,Esportivo
+1F,28/02/93,Glória,1-1,GA Guarany
+1F,28/02/93,Guarani V. Aires,3-2,Pelotas
+1F,28/02/93,Ypiranga-RS,4-0,Taguá
+1F,28/02/93,GE Brasil,3-0,Passo Fundo
+1F,28/02/93,Santa Cruz-RS,1-0,Inter SM
+1F,03/03/93,Pelotas,3-0,Brasil de Farroupilha
+1F,03/03/93,Aimoré,1-0,Glória
+1F,03/03/93,Esportivo,0-1,Juventude
+1F,03/03/93,São Paulo-RS,1-0,Novo Hamburgo
+1F,03/03/93,Inter SM,0-1,GE Brasil
+1F,03/03/93,Taguá,0-1,Santa Cruz-RS
+1F,03/03/93,Grêmio Santanense,1-0,Ypiranga-RS
+1F,03/03/93,Dínamo de Santa Rosa,2-3,Guarany
+1F,03/03/93,GA Guarany,1-1,Lajeadense
+1F,04/03/93,Caxias,2-1,São Luiz
+1F,10/03/93,Ypiranga-RS,1-1,Caxias
+1F,10/03/93,Pelotas,1-1,Glória
+1F,10/03/93,Lajeadense,5-2,Aimoré
+1F,10/03/93,Juventude,2-2,GA Guarany
+1F,10/03/93,Brasil de Farroupilha,1-0,Guarani V. Aires
+1F,10/03/93,Santa Cruz-RS,0-1,Grêmio Santanense
+1F,10/03/93,São Luiz,0-0,Dínamo de Santa Rosa
+1F,10/03/93,Passo Fundo,2-1,Inter SM
+1F,11/03/93,Novo Hamburgo,2-3,Esportivo
+1F,11/03/93,Taguá,2-1,GE Brasil
+1F,13/03/93,Ypiranga-RS,5-2,Inter SM
+1F,14/03/93,Novo Hamburgo,3-1,Juventude
+1F,14/03/93,Caxias,2-0,Dínamo de Santa Rosa
+1F,14/03/93,Guarani V. Aires,2-0,Aimoré
+1F,14/03/93,Brasil de Farroupilha,2-1,GA Guarany
+1F,14/03/93,Esportivo,1-1,Glória
+1F,14/03/93,São Paulo-RS,1-0,Lajeadense
+1F,14/03/93,Santa Cruz-RS,0-0,Passo Fundo
+1F,14/03/93,Taguá,1-1,São Luiz
+1F,14/03/93,Grêmio Santanense,2-0,Guarany
+1F,17/03/93,Juventude,0-1,Pelotas
+1F,17/03/93,São Paulo-RS,1-1,GA Guarany
+1F,17/03/93,Guarani V. Aires,0-2,Lajeadense
+1F,17/03/93,Glória,1-4,Brasil de Farroupilha
+1F,17/03/93,GE Brasil,0-1,Caxias
+1F,17/03/93,Dínamo de Santa Rosa,0-0,Santa Cruz-RS
+1F,17/03/93,Grêmio Santanense,0-0,Passo Fundo
+1F,17/03/93,Inter SM,1-0,Taguá
+1F,18/03/93,Aimoré,2-0,Novo Hamburgo
+1F,18/03/93,Ypiranga-RS,3-1,Guarany
+1F,20/03/93,São Luiz,0-1,Ypiranga-RS
+1F,21/03/93,Juventude,1-0,Guarani V. Aires
+1F,21/03/93,Aimoré,1-0,São Paulo-RS
+1F,21/03/93,Lajeadense,2-0,Brasil de Farroupilha
+1F,21/03/93,GA Guarany,0-1,Esportivo
+1F,21/03/93,Guarany,3-1,Santa Cruz-RS
+1F,21/03/93,Pelotas,3-1,Novo Hamburgo
+1F,21/03/93,Passo Fundo,2-2,Caxias
+1F,21/03/93,Dínamo de Santa Rosa,4-1,GE Brasil
+1F,21/03/93,Inter SM,1-0,Grêmio Santanense
+1F,24/03/93,São Paulo-RS,2-1,Pelotas
+1F,24/03/93,Esportivo,0-1,Aimoré
+1F,24/03/93,Brasil de Farroupilha,1-2,Juventude
+1F,24/03/93,Glória,4-1,Lajeadense
+1F,24/03/93,Novo Hamburgo,0-1,Guarani V. Aires
+1F,24/03/93,GE Brasil,5-0,Guarany
+1F,24/03/93,Santa Cruz-RS,1-0,São Luiz
+1F,24/03/93,Caxias,1-0,Inter SM
+1F,24/03/93,Grêmio Santanense,6-2,Taguá
+1F,24/03/93,Passo Fundo,2-2,Dínamo de Santa Rosa
+1F,26/03/93,Lajeadense,0-0,Pelotas
+1F,26/03/93,GA Guarany,1-0,Novo Hamburgo
+1F,26/03/93,Esportivo,1-1,São Paulo-RS
+1F,26/03/93,Glória,1-0,Guarani V. Aires
+1F,26/03/93,GE Brasil,3-1,Grêmio Santanense
+1F,26/03/93,Guarany,1-1,São Luiz
+1F,26/03/93,Dínamo de Santa Rosa,0-1,Ypiranga-RS
+1F,26/03/93,Caxias,0-1,Santa Cruz-RS
+1F,26/03/93,Aimoré,1-1,Juventude
+1F,26/03/93,Passo Fundo,3-0,Taguá
+1F,28/03/93,GA Guarany,3-0,Aimoré
+1F,28/03/93,Guarani V. Aires,3-0,São Paulo-RS
+1F,28/03/93,Novo Hamburgo,3-1,Brasil de Farroupilha
+1F,28/03/93,Pelotas,0-1,Esportivo
+1F,28/03/93,Santa Cruz-RS,1-1,Ypiranga-RS
+1F,28/03/93,Juventude,0-0,Glória
+1F,28/03/93,Guarany,3-0,Passo Fundo
+1F,28/03/93,Inter SM,3-2,Dínamo de Santa Rosa
+1F,28/03/93,Taguá,0-4,Caxias
+1F,28/03/93,São Luiz,2-2,GE Brasil
+1F,31/03/93,Brasil de Farroupilha,2-0,São Paulo-RS
+1F,31/03/93,Guarani V. Aires,0-0,Esportivo
+1F,31/03/93,São Luiz,2-1,Passo Fundo
+1F,31/03/93,Glória,1-1,Novo Hamburgo
+1F,31/03/93,Pelotas,2-1,GA Guarany
+1F,31/03/93,Caxias,1-0,Grêmio Santanense
+1F,31/03/93,Guarany,2-1,Inter SM
+1F,31/03/93,Dínamo de Santa Rosa,2-0,Taguá
+1F,31/03/93,Ypiranga-RS,2-0,GE Brasil
+1F,31/03/93,Lajeadense,2-1,Juventude
+1F,04/04/93,Aimoré,0-0,Pelotas
+1F,04/04/93,GA Guarany,2-1,Guarani V. Aires
+1F,04/04/93,Esportivo,1-0,Brasil de Farroupilha
+1F,04/04/93,São Paulo-RS,0-1,Glória
+1F,04/04/93,Novo Hamburgo,1-1,Lajeadense
+1F,04/04/93,GE Brasil,3-2,Santa Cruz-RS
+1F,04/04/93,Passo Fundo,3-2,Ypiranga-RS
+1F,04/04/93,Inter SM,0-1,São Luiz
+1F,04/04/93,Taguá,0-4,Guarany
+1F,04/04/93,Grêmio Santanense,1-0,Dínamo de Santa Rosa
+1F,07/04/93,Pelotas,1-1,GE Brasil
+1F,07/04/93,Guarani V. Aires,2-1,Santa Cruz-RS
+1F,07/04/93,Brasil de Farroupilha,1-1,Ypiranga-RS
+1F,07/04/93,Glória,1-0,São Luiz
+1F,07/04/93,Lajeadense,1-0,Guarany
+1F,07/04/93,São Paulo-RS,1-1,Grêmio Santanense
+1F,07/04/93,Esportivo,1-0,Taguá
+1F,07/04/93,GA Guarany,0-1,Inter SM
+1F,07/04/93,Aimoré,0-1,Passo Fundo
+1F,07/04/93,Juventude,2-0,Dínamo de Santa Rosa
+1F,07/04/93,Novo Hamburgo,0-1,Caxias
+1F,10/04/93,GE Brasil,1-1,Aimoré
+1F,10/04/93,Santa Cruz-RS,4-3,Pelotas
+1F,10/04/93,São Luiz,1-0,Brasil de Farroupilha
+1F,11/04/93,Caxias,1-1,Juventude
+1F,11/04/93,Ypiranga-RS,1-0,Guarani V. Aires
+1F,11/04/93,Guarany,0-0,Glória
+1F,11/04/93,Dínamo de Santa Rosa,3-2,Lajeadense
+1F,11/04/93,Grêmio Santanense,0-0,Novo Hamburgo
+1F,11/04/93,Taguá,0-0,São Paulo-RS
+1F,11/04/93,Inter SM,0-0,Esportivo
+1F,11/04/93,Passo Fundo,3-2,GA Guarany
+1F,14/04/93,Santa Cruz-RS,5-2,Novo Hamburgo
+1F,14/04/93,Ypiranga-RS,2-0,São Paulo-RS
+1F,14/04/93,São Luiz,2-0,Esportivo
+1F,14/04/93,Guarany,4-0,GA Guarany
+1F,14/04/93,Dínamo de Santa Rosa,2-0,Aimoré
+1F,14/04/93,Grêmio Santanense,0-0,Guarani V. Aires
+1F,14/04/93,Taguá,3-1,Brasil de Farroupilha
+1F,14/04/93,Inter SM,3-1,Glória
+1F,14/04/93,Passo Fundo,0-0,Lajeadense
+1F,14/04/93,Caxias,1-1,Pelotas
+1F,14/04/93,GE Brasil,0-0,Juventude
+1F,18/04/93,GA Guarany,1-0,GE Brasil
+1F,18/04/93,Aimoré,1-0,Santa Cruz-RS
+1F,18/04/93,Pelotas,2-1,Ypiranga-RS
+1F,18/04/93,Guarani V. Aires,0-0,São Luiz
+1F,18/04/93,Glória,1-0,Dínamo de Santa Rosa
+1F,18/04/93,Novo Hamburgo,4-1,Taguá
+1F,18/04/93,São Paulo-RS,0-0,Inter SM
+1F,18/04/93,Esportivo,2-1,Passo Fundo
+1F,18/04/93,Juventude,4-1,Grêmio Santanense
+1F,18/04/93,Lajeadense,1-0,Caxias
+1F,19/04/93,Brasil de Farroupilha,1-1,Guarany
+1F,22/04/93,Esportivo,1-0,GE Brasil
+1F,22/04/93,Aimoré,0-0,Ypiranga-RS
+1F,22/04/93,Pelotas,1-0,São Luiz
+1F,22/04/93,Guarani V. Aires,4-1,Guarany
+1F,22/04/93,Brasil de Farroupilha,3-2,Dínamo de Santa Rosa
+1F,22/04/93,Glória,1-1,Caxias
+1F,22/04/93,Lajeadense,3-1,Grêmio Santanense
+1F,22/04/93,Juventude,4-0,Taguá
+1F,22/04/93,Novo Hamburgo,1-1,Inter SM
+1F,22/04/93,São Paulo-RS,0-0,Passo Fundo
+1F,23/04/93,GA Guarany,1-0,Santa Cruz-RS
+1F,25/04/93,GE Brasil,0-0,São Paulo-RS
+1F,25/04/93,Santa Cruz-RS,1-0,Esportivo
+1F,25/04/93,Ypiranga-RS,0-1,GA Guarany
+1F,25/04/93,São Luiz,1-1,Aimoré
+1F,25/04/93,Caxias,2-2,Brasil de Farroupilha
+1F,25/04/93,Inter SM,1-1,Juventude
+1F,25/04/93,Guarany,0-0,Pelotas
+1F,25/04/93,Dínamo de Santa Rosa,0-0,Guarani V. Aires
+1F,25/04/93,Grêmio Santanense,1-1,Glória
+1F,25/04/93,Taguá,0-1,Lajeadense
+1F,25/04/93,Passo Fundo,1-2,Novo Hamburgo
+1F,28/04/93,Novo Hamburgo,1-1,GE Brasil
+1F,28/04/93,São Paulo-RS,0-0,Santa Cruz-RS
+1F,28/04/93,Esportivo,1-2,Ypiranga-RS
+1F,28/04/93,GA Guarany,2-0,São Luiz
+1F,28/04/93,Glória,3-0,Taguá
+1F,28/04/93,Lajeadense,2-2,Inter SM
+1F,28/04/93,Pelotas,1-0,Dínamo de Santa Rosa
+1F,28/04/93,Juventude,1-2,Passo Fundo
+1F,28/04/93,Guarani V. Aires,1-1,Caxias
+1F,28/04/93,Brasil de Farroupilha,1-0,Grêmio Santanense
+1F,29/04/93,Aimoré,2-0,Guarany
+1F,01/05/93,Novo Hamburgo,2-0,Guarany
+1F,01/05/93,GA Guarany,3-2,Grêmio Santanense
+1F,02/05/93,Brasil de Farroupilha,1-0,GE Brasil
+1F,02/05/93,Glória,0-0,Santa Cruz-RS
+1F,02/05/93,Lajeadense,3-1,Ypiranga-RS
+1F,02/05/93,São Paulo-RS,3-1,Dínamo de Santa Rosa
+1F,02/05/93,Aimoré,0-0,Taguá
+1F,02/05/93,Pelotas,2-2,Inter SM
+1F,02/05/93,Guarani V. Aires,1-1,Passo Fundo
+1F,02/05/93,Juventude,4-3,São Luiz
+1F,02/05/93,Esportivo,0-0,Caxias
+1F,05/05/93,GE Brasil,2-1,Guarani V. Aires
+1F,05/05/93,Ypiranga-RS,1-1,Glória
+1F,05/05/93,São Luiz,0-0,Lajeadense
+1F,05/05/93,Dínamo de Santa Rosa,3-0,Novo Hamburgo
+1F,05/05/93,Grêmio Santanense,2-0,Esportivo
+1F,05/05/93,Taguá,1-2,GA Guarany
+1F,05/05/93,Inter SM,1-0,Aimoré
+1F,05/05/93,Passo Fundo,3-1,Pelotas
+1F,05/05/93,Santa Cruz-RS,2-1,Brasil de Farroupilha
+1F,05/05/93,Caxias,3-0,São Paulo-RS
+1F,05/05/93,Guarany,1-0,Juventude
+1F,08/05/93,Pelotas,1-0,Taguá
+1F,09/05/93,Glória,1-0,GE Brasil
+1F,09/05/93,Lajeadense,0-1,Santa Cruz-RS
+1F,09/05/93,Juventude,0-0,Ypiranga-RS
+1F,09/05/93,Novo Hamburgo,0-0,São Luiz
+1F,09/05/93,São Paulo-RS,0-0,Guarany
+1F,09/05/93,Esportivo,2-1,Dínamo de Santa Rosa
+1F,09/05/93,GA Guarany,0-1,Caxias
+1F,09/05/93,Aimoré,0-1,Grêmio Santanense
+1F,09/05/93,Guarani V. Aires,1-2,Inter SM
+1F,09/05/93,Brasil de Farroupilha,5-1,Passo Fundo
+1F,12/05/93,Caxias,1-3,Aimoré
+1F,12/05/93,GE Brasil,3-1,Lajeadense
+1F,12/05/93,Santa Cruz-RS,1-2,Juventude
+1F,12/05/93,Ypiranga-RS,2-0,Novo Hamburgo
+1F,12/05/93,São Luiz,0-0,São Paulo-RS
+1F,12/05/93,Guarany,1-0,Esportivo
+1F,12/05/93,Dínamo de Santa Rosa,0-1,GA Guarany
+1F,12/05/93,Grêmio Santanense,2-1,Pelotas
+1F,12/05/93,Taguá,1-4,Guarani V. Aires
+1F,12/05/93,Inter SM,2-2,Brasil de Farroupilha
+1F,12/05/93,Passo Fundo,0-1,Glória
+A,16/05/93,Caxias,4-0,Aimoré
+A,16/05/93,Guarany,0-0,Pelotas
+B,16/05/93,GA Guarany,1-1,Juventude
+C,16/05/93,Passo Fundo,1-1,Ypiranga-RS
+C,16/05/93,Inter SM,1-0,Lajeadense
+D,16/05/93,Santa Cruz-RS,0-3,Internacional
+D,16/05/93,Glória,3-3,Grêmio Santanense
+B,18/05/93,Grêmio,7-0,Esportivo
+A,19/05/93,Pelotas,1-0,Caxias
+A,19/05/93,Aimoré,4-0,Guarany
+B,19/05/93,Esportivo,1-1,GA Guarany
+C,19/05/93,Lajeadense,1-0,Passo Fundo
+C,19/05/93,Ypiranga-RS,2-1,Inter SM
+D,19/05/93,Grêmio Santanense,1-0,Santa Cruz-RS
+D,19/05/93,Internacional,2-0,Glória
+A,23/05/93,Caxias,0-0,Guarany
+A,23/05/93,Pelotas,1-0,Aimoré
+B,23/05/93,GA Guarany,2-2,Grêmio
+C,23/05/93,Ypiranga-RS,1-0,Lajeadense
+C,23/05/93,Inter SM,2-1,Passo Fundo
+D,23/05/93,Internacional,8-1,Grêmio Santanense
+B,24/05/93,Esportivo,0-0,Juventude
+D,25/05/93,Glória,1-0,Santa Cruz-RS
+B,27/05/93,Juventude,2-2,Esportivo
+A,30/05/93,Aimoré,2-2,Pelotas
+D,30/05/93,Santa Cruz-RS,3-1,Glória
+D,30/05/93,Grêmio Santanense,0-1,Internacional
+A,01/06/93,Guarany,2-0,Caxias
+B,01/06/93,Grêmio,1-2,Juventude
+C,02/06/93,Lajeadense,1-0,Ypiranga-RS
+C,02/06/93,Passo Fundo,1-1,Inter SM
+D,02/06/93,Santa Cruz-RS,0-0,Grêmio Santanense
+D,02/06/93,Glória,3-1,Internacional
+A,03/06/93,Guarany,2-0,Aimoré
+B,06/06/93,GA Guarany,0-0,Esportivo
+B,06/06/93,Juventude,1-2,Grêmio
+C,06/06/93,Passo Fundo,1-1,Lajeadense
+C,06/06/93,Inter SM,2-0,Ypiranga-RS
+D,06/06/93,Internacional,2-0,Santa Cruz-RS
+D,07/06/93,Grêmio Santanense,3-1,Glória
+A,08/06/93,Caxias,2-0,Pelotas
+B,08/06/93,Grêmio,2-1,GA Guarany
+A,10/06/93,Aimoré,2-2,Caxias
+A,10/06/93,Pelotas,0-0,Guarany
+B,10/06/93,Esportivo,1-0,Grêmio
+B,10/06/93,Juventude,1-0,GA Guarany
+C,10/06/93,Ypiranga-RS,2-1,Passo Fundo
+C,10/06/93,Lajeadense,2-0,Inter SM
+OCT,11/06/93,Grêmio,3-1,Grêmio Santanense
+OCT,13/06/93,Internacional,3-0,Juventude
+OCT,13/06/93,Guarany,1-1,Grêmio
+OCT,13/06/93,Grêmio Santanense,2-0,Pelotas
+OCT,13/06/93,Inter SM,0-0,Lajeadense
+OCT,16/06/93,Grêmio,1-0,Inter SM
+OCT,16/06/93,Pelotas,1-1,Internacional
+OCT,16/06/93,Lajeadense,3-1,Grêmio Santanense
+OCT,16/06/93,Juventude,1-0,Guarany
+OCT,20/06/93,Internacional,1-1,Guarany
+OCT,20/06/93,Juventude,0-0,Grêmio
+OCT,20/06/93,Inter SM,2-0,Grêmio Santanense
+OCT,20/06/93,Lajeadense,0-0,Pelotas
+OCT,22/06/93,Internacional,1-0,Lajeadense
+OCT,22/06/93,Grêmio Santanense,1-2,Grêmio
+OCT,22/06/93,Pelotas,1-1,Juventude
+OCT,22/06/93,Guarany,0-0,Inter SM
+OCT,22/06/93,Grêmio,0-0,Pelotas
+OCT,24/06/93,Grêmio Santanense,2-1,Guarany
+OCT,24/06/93,Lajeadense,1-1,Juventude
+OCT,27/06/93,Internacional,0-1,Grêmio
+OCT,27/06/93,Pelotas,0-0,Inter SM
+OCT,27/06/93,Juventude,1-0,Grêmio Santanense
+OCT,27/06/93,Lajeadense,2-0,Guarany
+OCT,29/06/93,Inter SM,0-0,Internacional
+OCT,30/06/93,Grêmio,3-1,Lajeadense
+OCT,30/06/93,Guarany,0-0,Pelotas
+OCT,01/07/93,Grêmio Santanense,2-2,Internacional
+OCT,01/07/93,Inter SM,0-0,Juventude
+OCT,04/07/93,Grêmio,2-0,Guarany
+OCT,04/07/93,Juventude,0-0,Internacional
+OCT,04/07/93,Pelotas,1-0,Grêmio Santanense
+OCT,04/07/93,Lajeadense,3-1,Inter SM
+OCT,06/07/93,Internacional,3-1,Pelotas
+OCT,06/07/93,Inter SM,0-1,Grêmio
+OCT,06/07/93,Grêmio Santanense,3-1,Lajeadense
+OCT,06/07/93,Guarany,2-2,Juventude
+OCT,08/07/93,Grêmio,1-0,Juventude
+OCT,08/07/93,Guarany,0-1,Internacional
+OCT,08/07/93,Pelotas,1-0,Lajeadense
+OCT,08/07/93,Grêmio Santanense,0-0,Inter SM
+OCT,11/07/93,Lajeadense,2-1,Internacional
+OCT,11/07/93,Juventude,1-1,Pelotas
+OCT,11/07/93,Inter SM,0-0,Guarany
+OCT,14/07/93,Internacional,3-0,Inter SM
+OCT,14/07/93,Pelotas,1-1,Grêmio
+OCT,14/07/93,Guarany,1-0,Grêmio Santanense
+OCT,14/07/93,Juventude,1-0,Lajeadense
+OCT,18/07/93,Grêmio,0-0,Internacional
+OCT,18/07/93,Inter SM,0-0,Pelotas
+OCT,18/07/93,Grêmio Santanense,0-1,Juventude
+OCT,18/07/93,Guarany,0-0,Lajeadense
+OCT,21/07/93,Internacional,3-1,Grêmio Santanense
+OCT,21/07/93,Lajeadense,0-1,Grêmio
+OCT,21/07/93,Pelotas,2-0,Guarany
+OCT,21/07/93,Juventude,0-0,Inter SM

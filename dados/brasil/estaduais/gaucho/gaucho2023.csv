@@ -1,0 +1,73 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,21/01/23,Caxias,1-2,Grêmio
+1T,21/01/23,São Luiz,1-1,Ypiranga-RS
+1T,21/01/23,Internacional,2-2,Juventude
+1T,22/01/23,Novo Hamburgo,0-0,Avenida
+1T,22/01/23,GE Brasil,1-0,Aimoré
+1T,22/01/23,Esportivo,1-2,São José-RS
+1T,24/01/23,Juventude,1-1,São Luiz
+1T,25/01/23,Avenida,1-1,Internacional
+1T,25/01/23,Grêmio,1-0,GE Brasil
+1T,26/01/23,Ypiranga-RS,3-1,Novo Hamburgo
+1T,26/01/23,São José-RS,1-1,Caxias
+1T,26/01/23,Aimoré,0-0,Esportivo
+1T,28/01/23,Internacional,4-0,São Luiz
+1T,29/01/23,Avenida,1-0,Ypiranga-RS
+1T,29/01/23,Esportivo,0-1,GE Brasil
+1T,29/01/23,Caxias,2-1,Aimoré
+1T,29/01/23,São José-RS,0-1,Grêmio
+1T,30/01/23,Novo Hamburgo,0-0,Juventude
+1T,01/02/23,Aimoré,0-1,São José-RS
+1T,01/02/23,Esportivo,0-2,Grêmio
+1T,01/02/23,GE Brasil,0-0,Caxias
+1T,02/02/23,Internacional,3-0,Ypiranga-RS
+1T,02/02/23,São Luiz,1-0,Novo Hamburgo
+1T,02/02/23,Juventude,1-0,Avenida
+1T,04/02/23,Grêmio,3-0,Aimoré
+1T,05/02/23,Caxias,3-1,Esportivo
+1T,05/02/23,Ypiranga-RS,3-2,Juventude
+1T,05/02/23,Avenida,1-0,São Luiz
+1T,05/02/23,São José-RS,0-0,GE Brasil
+1T,05/02/23,Novo Hamburgo,0-0,Internacional
+1T,08/02/23,Novo Hamburgo,2-0,GE Brasil
+1T,08/02/23,São Luiz,0-0,Esportivo
+1T,08/02/23,Internacional,2-2,Caxias
+1T,09/02/23,Ypiranga-RS,3-1,São José-RS
+1T,09/02/23,Avenida,0-1,Aimoré
+1T,09/02/23,Juventude,2-3,Grêmio
+1T,11/02/23,Esportivo,0-0,Novo Hamburgo
+1T,11/02/23,GE Brasil,0-1,Internacional
+1T,12/02/23,Grêmio,2-0,Avenida
+1T,12/02/23,Caxias,3-1,São Luiz
+1T,12/02/23,Aimoré,1-2,Ypiranga-RS
+1T,13/02/23,São José-RS,1-1,Juventude
+1T,16/02/23,Novo Hamburgo,1-1,Caxias
+1T,16/02/23,Internacional,2-0,São José-RS
+1T,16/02/23,Juventude,2-1,Aimoré
+1T,18/02/23,São Luiz,0-0,Grêmio
+1T,18/02/23,Ypiranga-RS,2-2,GE Brasil
+1T,18/02/23,Avenida,1-2,Esportivo
+1T,24/02/23,Grêmio,6-1,Novo Hamburgo
+1T,24/02/23,GE Brasil,1-1,Avenida
+1T,25/02/23,Aimoré,0-2,Internacional
+1T,27/02/23,São José-RS,1-0,São Luiz
+1T,27/02/23,Caxias,2-2,Juventude
+1T,28/02/23,Esportivo,0-3,Ypiranga-RS
+1T,04/03/23,Caxias,3-0,Ypiranga-RS
+1T,04/03/23,São José-RS,2-2,Avenida
+1T,04/03/23,Esportivo,1-3,Juventude
+1T,04/03/23,GE Brasil,1-0,São Luiz
+1T,05/03/23,Aimoré,0-1,Novo Hamburgo
+1T,05/03/23,Grêmio,2-1,Internacional
+1T,11/03/23,Ypiranga-RS,0-0,Grêmio
+1T,11/03/23,Internacional,4-1,Esportivo
+1T,11/03/23,São Luiz,2-1,Aimoré
+1T,11/03/23,Novo Hamburgo,1-2,São José-RS
+1T,11/03/23,Juventude,1-0,GE Brasil
+1T,11/03/23,Avenida,0-1,Caxias
+SF,18/03/23,Caxias,1-1,Internacional
+SF,19/03/23,Ypiranga-RS,2-1,Grêmio
+SF,25/03/23,Grêmio,2-1(5-4 Pen.),Ypiranga-RS
+SF,26/03/23,Internacional,1-1(4-5 Pen.),Caxias
+F,01/04/23,Caxias,1-1,Grêmio
+F,08/04/23,Grêmio,1-0,Caxias

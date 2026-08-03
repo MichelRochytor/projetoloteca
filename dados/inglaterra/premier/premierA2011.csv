@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/08/11,Blackburn Rovers,1-2,Wolverhampton
+1,13/08/11,Fulham,0-0,Aston Villa
+1,13/08/11,Liverpool,1-1,Sunderland
+1,13/08/11,QPR,0-4,Bolton
+1,13/08/11,Wigan Athletic,1-1,Norwich City
+1,13/08/11,Newcastle,0-0,Arsenal
+1,14/08/11,Stoke City,0-0,Chelsea
+1,14/08/11,West Bromwich,1-2,Manchester United
+1,15/08/11,Manchester City,4-0,Swansea City
+2,20/08/11,Sunderland,0-1,Newcastle
+2,20/08/11,Arsenal,0-2,Liverpool
+2,20/08/11,Aston Villa,3-1,Blackburn Rovers
+2,20/08/11,Everton,0-1,QPR
+2,20/08/11,Swansea City,0-0,Wigan Athletic
+2,20/08/11,Chelsea,2-1,West Bromwich
+2,21/08/11,Norwich City,1-1,Stoke City
+2,21/08/11,Wolverhampton,2-0,Fulham
+2,21/08/11,Bolton,2-3,Manchester City
+2,22/08/11,Manchester United,3-0,Tottenham
+3,27/08/11,Aston Villa,0-0,Wolverhampton
+3,27/08/11,Wigan Athletic,2-0,QPR
+3,27/08/11,Blackburn Rovers,0-1,Everton
+3,27/08/11,Chelsea,3-1,Norwich City
+3,27/08/11,Swansea City,0-0,Sunderland
+3,27/08/11,Liverpool,3-1,Bolton
+3,28/08/11,Newcastle,2-1,Fulham
+3,28/08/11,Tottenham,1-5,Manchester City
+3,28/08/11,West Bromwich,0-1,Stoke City
+3,28/08/11,Manchester United,8-2,Arsenal
+4,10/09/11,Arsenal,1-0,Swansea City
+4,10/09/11,Everton,2-2,Aston Villa
+4,10/09/11,Manchester City,3-0,Wigan Athletic
+4,10/09/11,Stoke City,1-0,Liverpool
+4,10/09/11,Sunderland,1-2,Chelsea
+4,10/09/11,Wolverhampton,0-2,Tottenham
+4,10/09/11,Bolton,0-5,Manchester United
+4,11/09/11,Norwich City,0-1,West Bromwich
+4,11/09/11,Fulham,1-1,Blackburn Rovers
+4,12/09/11,QPR,0-0,Newcastle
+5,17/09/11,Blackburn Rovers,4-3,Arsenal
+5,17/09/11,Aston Villa,1-1,Newcastle
+5,17/09/11,Bolton,1-2,Norwich City
+5,17/09/11,Everton,3-1,Wigan Athletic
+5,17/09/11,Swansea City,3-0,West Bromwich
+5,17/09/11,Wolverhampton,0-3,QPR
+5,18/09/11,Tottenham,4-0,Liverpool
+5,18/09/11,Fulham,2-2,Manchester City
+5,18/09/11,Sunderland,4-0,Stoke City
+5,18/09/11,Manchester United,3-1,Chelsea
+6,24/09/11,Manchester City,2-0,Everton
+6,24/09/11,Arsenal,3-0,Bolton
+6,24/09/11,Chelsea,4-1,Swansea City
+6,24/09/11,Liverpool,2-1,Wolverhampton
+6,24/09/11,Newcastle,3-1,Blackburn Rovers
+6,24/09/11,West Bromwich,0-0,Fulham
+6,24/09/11,Wigan Athletic,1-2,Tottenham
+6,24/09/11,Stoke City,1-1,Manchester United
+6,25/09/11,QPR,1-1,Aston Villa
+6,26/09/11,Norwich City,2-1,Sunderland
+7,01/10/11,Everton,0-2,Liverpool
+7,01/10/11,Aston Villa,2-0,Wigan Athletic
+7,01/10/11,Blackburn Rovers,0-4,Manchester City
+7,01/10/11,Manchester United,2-0,Norwich City
+7,01/10/11,Sunderland,2-2,West Bromwich
+7,01/10/11,Wolverhampton,1-2,Newcastle
+7,02/10/11,Bolton,1-5,Chelsea
+7,02/10/11,Fulham,6-0,QPR
+7,02/10/11,Swansea City,2-0,Stoke City
+7,02/10/11,Tottenham,2-1,Arsenal
+8,15/10/11,Liverpool,1-1,Manchester United
+8,15/10/11,Manchester City,4-1,Aston Villa
+8,15/10/11,Norwich City,3-1,Swansea City
+8,15/10/11,QPR,1-1,Blackburn Rovers
+8,15/10/11,Stoke City,2-0,Fulham
+8,15/10/11,Wigan Athletic,1-3,Bolton
+8,15/10/11,Chelsea,3-1,Everton
+8,16/10/11,West Bromwich,2-0,Wolverhampton
+8,16/10/11,Arsenal,2-1,Sunderland
+8,16/10/11,Newcastle,2-2,Tottenham
+9,22/10/11,Wolverhampton,2-2,Swansea City
+9,22/10/11,Aston Villa,1-2,West Bromwich
+9,22/10/11,Bolton,0-2,Sunderland
+9,22/10/11,Newcastle,1-0,Wigan Athletic
+9,22/10/11,Liverpool,1-1,Norwich City
+9,23/10/11,Arsenal,3-1,Stoke City
+9,23/10/11,Fulham,1-3,Everton
+9,23/10/11,Manchester United,1-6,Manchester City
+9,23/10/11,Blackburn Rovers,1-2,Tottenham
+9,23/10/11,QPR,1-0,Chelsea
+10,29/10/11,Everton,0-1,Manchester United
+10,29/10/11,Chelsea,3-5,Arsenal
+10,29/10/11,Manchester City,3-1,Wolverhampton
+10,29/10/11,Norwich City,3-3,Blackburn Rovers
+10,29/10/11,Sunderland,2-2,Aston Villa
+10,29/10/11,Swansea City,3-1,Bolton
+10,29/10/11,Wigan Athletic,0-2,Fulham
+10,29/10/11,West Bromwich,0-2,Liverpool
+10,30/10/11,Tottenham,3-1,QPR
+10,31/10/11,Stoke City,1-3,Newcastle
+11,05/11/11,Newcastle,2-1,Everton
+11,05/11/11,Arsenal,3-0,West Bromwich
+11,05/11/11,Aston Villa,3-2,Norwich City
+11,05/11/11,Blackburn Rovers,0-1,Chelsea
+11,05/11/11,Liverpool,0-0,Swansea City
+11,05/11/11,Manchester United,1-0,Sunderland
+11,05/11/11,QPR,2-3,Manchester City
+11,06/11/11,Wolverhampton,3-1,Wigan Athletic
+11,06/11/11,Bolton,5-0,Stoke City
+11,06/11/11,Fulham,1-3,Tottenham
+12,19/11/11,Norwich City,1-2,Arsenal
+12,19/11/11,Everton,2-1,Wolverhampton
+12,19/11/11,Manchester City,3-1,Newcastle
+12,19/11/11,Stoke City,2-3,QPR
+12,19/11/11,Sunderland,0-0,Fulham
+12,19/11/11,West Bromwich,2-1,Bolton
+12,19/11/11,Wigan Athletic,3-3,Blackburn Rovers
+12,19/11/11,Swansea City,0-1,Manchester United
+12,20/11/11,Chelsea,1-2,Liverpool
+12,21/11/11,Tottenham,2-0,Aston Villa
+13,26/11/11,Stoke City,3-1,Blackburn Rovers
+13,26/11/11,Bolton,0-2,Everton
+13,26/11/11,Chelsea,3-0,Wolverhampton
+13,26/11/11,Manchester United,1-1,Newcastle
+13,26/11/11,Norwich City,2-1,QPR
+13,26/11/11,Sunderland,1-2,Wigan Athletic
+13,26/11/11,West Bromwich,1-3,Tottenham
+13,26/11/11,Arsenal,1-1,Fulham
+13,27/11/11,Swansea City,0-0,Aston Villa
+13,27/11/11,Liverpool,1-1,Manchester City
+14,03/12/11,Newcastle,0-3,Chelsea
+14,03/12/11,Blackburn Rovers,4-2,Swansea City
+14,03/12/11,Manchester City,5-1,Norwich City
+14,03/12/11,QPR,1-1,West Bromwich
+14,03/12/11,Tottenham,3-0,Bolton
+14,03/12/11,Wigan Athletic,0-4,Arsenal
+14,03/12/11,Aston Villa,0-1,Manchester United
+14,04/12/11,Everton,0-1,Stoke City
+14,04/12/11,Wolverhampton,2-1,Sunderland
+14,05/12/11,Fulham,1-0,Liverpool
+15,10/12/11,Arsenal,1-0,Everton
+15,10/12/11,Bolton,1-2,Aston Villa
+15,10/12/11,Liverpool,1-0,QPR
+15,10/12/11,Manchester United,4-1,Wolverhampton
+15,10/12/11,Norwich City,4-2,Newcastle
+15,10/12/11,Swansea City,2-0,Fulham
+15,10/12/11,West Bromwich,1-2,Wigan Athletic
+15,11/12/11,Sunderland,2-1,Blackburn Rovers
+15,11/12/11,Stoke City,2-1,Tottenham
+15,12/12/11,Chelsea,2-1,Manchester City
+16,17/12/11,Blackburn Rovers,1-2,West Bromwich
+16,17/12/11,Everton,1-1,Norwich City
+16,17/12/11,Fulham,2-0,Bolton
+16,17/12/11,Newcastle,0-0,Swansea City
+16,17/12/11,Wolverhampton,1-2,Stoke City
+16,17/12/11,Wigan Athletic,1-1,Chelsea
+16,18/12/11,QPR,0-2,Manchester United
+16,18/12/11,Aston Villa,0-2,Liverpool
+16,18/12/11,Tottenham,1-0,Sunderland
+16,18/12/11,Manchester City,1-0,Arsenal
+17,20/12/11,Wolverhampton,2-2,Norwich City
+17,20/12/11,Blackburn Rovers,1-2,Bolton
+17,21/12/11,Aston Villa,1-2,Arsenal
+17,21/12/11,Manchester City,3-0,Stoke City
+17,21/12/11,Newcastle,2-3,West Bromwich
+17,21/12/11,QPR,2-3,Sunderland
+17,21/12/11,Wigan Athletic,0-0,Liverpool
+17,21/12/11,Everton,1-0,Swansea City
+17,21/12/11,Fulham,0-5,Manchester United
+17,22/12/11,Tottenham,1-1,Chelsea
+18,26/12/11,Chelsea,1-1,Fulham
+18,26/12/11,Bolton,0-2,Newcastle
+18,26/12/11,Liverpool,1-1,Blackburn Rovers
+18,26/12/11,Manchester United,5-0,Wigan Athletic
+18,26/12/11,Sunderland,1-1,Everton
+18,26/12/11,West Bromwich,0-0,Manchester City
+18,26/12/11,Stoke City,0-0,Aston Villa
+18,27/12/11,Arsenal,1-1,Wolverhampton
+18,27/12/11,Swansea City,1-1,QPR
+18,27/12/11,Norwich City,0-2,Tottenham
+19,30/12/11,Liverpool,3-1,Newcastle
+19,31/12/11,Manchester United,2-3,Blackburn Rovers
+19,31/12/11,Arsenal,1-0,QPR
+19,31/12/11,Bolton,1-1,Wolverhampton
+19,31/12/11,Chelsea,1-3,Aston Villa
+19,31/12/11,Norwich City,1-1,Fulham
+19,31/12/11,Stoke City,2-2,Wigan Athletic
+19,31/12/11,Swansea City,1-1,Tottenham
+19,01/01/12,West Bromwich,0-1,Everton
+19,01/01/12,Sunderland,1-0,Manchester City
+20,02/01/12,Blackburn Rovers,1-2,Stoke City
+20,02/01/12,Aston Villa,0-2,Swansea City
+20,02/01/12,QPR,1-2,Norwich City
+20,02/01/12,Wolverhampton,1-2,Chelsea
+20,02/01/12,Fulham,2-1,Arsenal
+20,03/01/12,Tottenham,1-0,West Bromwich
+20,03/01/12,Wigan Athletic,1-4,Sunderland
+20,03/01/12,Manchester City,3-0,Liverpool
+20,04/01/12,Everton,1-2,Bolton
+20,04/01/12,Newcastle,3-0,Manchester United
+1,11/01/12,Tottenham,2-0,Everton
+21,14/01/12,Aston Villa,1-1,Everton
+21,14/01/12,Blackburn Rovers,3-1,Fulham
+21,14/01/12,Chelsea,1-0,Sunderland
+21,14/01/12,Liverpool,0-0,Stoke City
+21,14/01/12,Manchester United,3-0,Bolton
+21,14/01/12,Tottenham,1-1,Wolverhampton
+21,14/01/12,West Bromwich,1-2,Norwich City
+21,15/01/12,Newcastle,1-0,QPR
+21,15/01/12,Swansea City,3-2,Arsenal
+21,16/01/12,Wigan Athletic,0-1,Manchester City
+22,21/01/12,Norwich City,0-0,Chelsea
+22,21/01/12,Everton,1-1,Blackburn Rovers
+22,21/01/12,Fulham,5-2,Newcastle
+22,21/01/12,QPR,3-1,Wigan Athletic
+22,21/01/12,Stoke City,1-2,West Bromwich
+22,21/01/12,Sunderland,2-0,Swansea City
+22,21/01/12,Wolverhampton,2-3,Aston Villa
+22,21/01/12,Bolton,3-1,Liverpool
+22,22/01/12,Manchester City,3-2,Tottenham
+22,22/01/12,Arsenal,1-2,Manchester United
+23,31/01/12,Swansea City,1-1,Chelsea
+23,31/01/12,Tottenham,3-1,Wigan Athletic
+23,31/01/12,Wolverhampton,0-3,Liverpool
+23,31/01/12,Manchester United,2-0,Stoke City
+23,31/01/12,Everton,1-0,Manchester City
+23,01/02/12,Aston Villa,2-2,QPR
+23,01/02/12,Bolton,0-0,Arsenal
+23,01/02/12,Sunderland,3-0,Norwich City
+23,01/02/12,Fulham,1-1,West Bromwich
+23,01/02/12,Blackburn Rovers,0-2,Newcastle
+24,04/02/12,Arsenal,7-1,Blackburn Rovers
+24,04/02/12,Norwich City,2-0,Bolton
+24,04/02/12,QPR,1-2,Wolverhampton
+24,04/02/12,Stoke City,0-1,Sunderland
+24,04/02/12,West Bromwich,1-2,Swansea City
+24,04/02/12,Wigan Athletic,1-1,Everton
+24,04/02/12,Manchester City,3-0,Fulham
+24,05/02/12,Newcastle,2-1,Aston Villa
+24,05/02/12,Chelsea,3-3,Manchester United
+24,06/02/12,Liverpool,0-0,Tottenham
+25,11/02/12,Manchester United,2-1,Liverpool
+25,11/02/12,Blackburn Rovers,3-2,QPR
+25,11/02/12,Bolton,1-2,Wigan Athletic
+25,11/02/12,Everton,2-0,Chelsea
+25,11/02/12,Fulham,2-1,Stoke City
+25,11/02/12,Sunderland,1-2,Arsenal
+25,11/02/12,Swansea City,2-3,Norwich City
+25,11/02/12,Tottenham,5-0,Newcastle
+25,12/02/12,Wolverhampton,1-5,West Bromwich
+25,12/02/12,Aston Villa,0-1,Manchester City
+26,25/02/12,Chelsea,3-0,Bolton
+26,25/02/12,Newcastle,2-2,Wolverhampton
+26,25/02/12,QPR,0-1,Fulham
+26,25/02/12,West Bromwich,4-0,Sunderland
+26,25/02/12,Wigan Athletic,0-0,Aston Villa
+26,25/02/12,Manchester City,3-0,Blackburn Rovers
+26,26/02/12,Arsenal,5-2,Tottenham
+26,26/02/12,Norwich City,1-2,Manchester United
+26,26/02/12,Stoke City,2-0,Swansea City
+27,03/03/12,Liverpool,1-2,Arsenal
+27,03/03/12,Blackburn Rovers,1-1,Aston Villa
+27,03/03/12,Manchester City,2-0,Bolton
+27,03/03/12,QPR,1-1,Everton
+27,03/03/12,Stoke City,1-0,Norwich City
+27,03/03/12,West Bromwich,1-0,Chelsea
+27,03/03/12,Wigan Athletic,0-2,Swansea City
+27,04/03/12,Newcastle,1-1,Sunderland
+27,04/03/12,Fulham,5-0,Wolverhampton
+27,04/03/12,Tottenham,1-3,Manchester United
+28,10/03/12,Bolton,2-1,QPR
+28,10/03/12,Aston Villa,1-0,Fulham
+28,10/03/12,Chelsea,1-0,Stoke City
+28,10/03/12,Sunderland,1-0,Liverpool
+28,10/03/12,Wolverhampton,0-2,Blackburn Rovers
+28,10/03/12,Everton,1-0,Tottenham
+28,11/03/12,Manchester United,2-0,West Bromwich
+28,11/03/12,Swansea City,1-0,Manchester City
+28,11/03/12,Norwich City,1-1,Wigan Athletic
+28,12/03/12,Arsenal,2-1,Newcastle
+26,13/03/12,Liverpool,3-0,Everton
+29,17/03/12,Fulham,0-3,Swansea City
+29,17/03/12,Wigan Athletic,1-1,West Bromwich
+29,18/03/12,Wolverhampton,0-5,Manchester United
+29,18/03/12,Newcastle,1-0,Norwich City
+29,20/03/12,Blackburn Rovers,2-0,Sunderland
+29,21/03/12,Manchester City,2-1,Chelsea
+29,21/03/12,Tottenham,1-1,Stoke City
+29,21/03/12,Everton,0-1,Arsenal
+29,21/03/12,QPR,3-2,Liverpool
+30,24/03/12,Chelsea,0-0,Tottenham
+30,24/03/12,Arsenal,3-0,Aston Villa
+30,24/03/12,Bolton,2-1,Blackburn Rovers
+30,24/03/12,Liverpool,1-2,Wigan Athletic
+30,24/03/12,Norwich City,2-1,Wolverhampton
+30,24/03/12,Sunderland,3-1,QPR
+30,24/03/12,Swansea City,0-2,Everton
+30,24/03/12,Stoke City,1-1,Manchester City
+30,25/03/12,West Bromwich,1-3,Newcastle
+30,26/03/12,Manchester United,1-0,Fulham
+31,31/03/12,Aston Villa,2-4,Chelsea

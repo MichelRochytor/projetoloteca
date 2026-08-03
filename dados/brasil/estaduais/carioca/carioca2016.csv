@@ -1,0 +1,129 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,24/01/09,Madureira,1-1,Resende
+B,24/01/09,Macaé,2-0,Volta Redonda
+B,24/01/09,Mesquita,3-1,Bangu
+B,24/01/09,Boavista-RJ,1-2,Botafogo
+A,24/01/09,Vasco,0-2,Americano
+A,24/01/09,Duque de Caxias,1-1,Tigres do Brasil
+B,25/01/09,Flamengo,1-0,Friburguense
+A,25/01/09,Cabofriense,3-1,Fluminense
+A,27/01/09,Americano,3-0,Duque de Caxias
+A,28/01/09,Resende,3-1,Cabofriense
+B,28/01/09,Volta Redonda,1-1,Boavista-RJ
+A,28/01/09,Tigres do Brasil,0-4,Vasco
+A,28/01/09,Fluminense,0-0,Madureira
+B,29/01/09,Bangu,1-2,Flamengo
+B,29/01/09,Friburguense,0-0,Mesquita
+B,29/01/09,Botafogo,1-0,Macaé
+A,31/01/09,Vasco,3-1,Duque de Caxias
+A,31/01/09,Madureira,2-1,Cabofriense
+A,31/01/09,Fluminense,3-0,Resende
+A,31/01/09,Americano,0-0,Tigres do Brasil
+B,01/02/09,Macaé,1-0,Bangu
+B,01/02/09,Friburguense,1-3,Boavista-RJ
+B,01/02/09,Volta Redonda,0-1,Flamengo
+B,01/02/09,Mesquita,0-2,Botafogo
+A,03/02/09,Cabofriense,1-1,Americano
+A,04/02/09,Tigres do Brasil,2-0,Madureira
+B,04/02/09,Boavista-RJ,1-1,Macaé
+B,04/02/09,Flamengo,4-1,Mesquita
+A,04/02/09,Resende,1-3,Vasco
+B,05/02/09,Bangu,3-3,Friburguense
+A,05/02/09,Duque de Caxias,3-2,Fluminense
+B,05/02/09,Botafogo,1-2,Volta Redonda
+A,07/02/09,Madureira,1-1,Americano
+B,07/02/09,Macaé,1-2,Flamengo
+A,07/02/09,Cabofriense,4-1,Tigres do Brasil
+A,08/02/09,Resende,1-2,Duque de Caxias
+B,08/02/09,Botafogo,4-1,Bangu
+B,08/02/09,Boavista-RJ,1-1,Mesquita
+A,08/02/09,Fluminense,0-0,Vasco
+B,08/02/09,Volta Redonda,2-3,Friburguense
+B,11/02/09,Mesquita,4-2,Macaé
+B,11/02/09,Bangu,2-0,Volta Redonda
+A,11/02/09,Vasco,0-0,Cabofriense
+B,11/02/09,Flamengo,2-2,Boavista-RJ
+A,12/02/09,Duque de Caxias,1-1,Madureira
+A,12/02/09,Tigres do Brasil,1-3,Resende
+A,12/02/09,Americano,1-2,Fluminense
+B,12/02/09,Friburguense,1-5,Botafogo
+A,15/02/09,Madureira,0-3,Vasco
+A,15/02/09,Fluminense,4-0,Tigres do Brasil
+A,15/02/09,Resende,3-1,Americano
+A,15/02/09,Cabofriense,2-2,Duque de Caxias
+B,15/02/09,Botafogo,1-1,Flamengo
+B,15/02/09,Macaé,4-0,Friburguense
+B,15/02/09,Volta Redonda,2-1,Mesquita
+B,15/02/09,Boavista-RJ,0-2,Bangu
+SF,21/02/09,Flamengo,1-3,Resende
+SF,25/02/09,Fluminense,0-1,Botafogo
+F,01/03/09,Botafogo,3-0,Resende
+1,07/03/09,Boavista-RJ,3-0,Duque de Caxias
+1,07/03/09,Madureira,1-2,Bangu
+1,07/03/09,Flamengo,3-1,Cabofriense
+1,08/03/09,Vasco,3-0,Friburguense
+1,08/03/09,Resende,0-2,Macaé
+1,08/03/09,Volta Redonda,3-0,Americano
+1,08/03/09,Mesquita,0-1,Fluminense
+1,08/03/09,Tigres do Brasil,2-3,Botafogo
+2,11/03/09,Macaé,1-2,Madureira
+2,11/03/09,Fluminense,2-1,Volta Redonda
+2,11/03/09,Friburguense,2-1,Tigres do Brasil
+2,11/03/09,Duque de Caxias,2-4,Flamengo
+2,12/03/09,Bangu,1-1,Resende
+2,12/03/09,Botafogo,1-4,Vasco
+2,12/03/09,Americano,5-1,Mesquita
+2,12/03/09,Cabofriense,0-2,Boavista-RJ
+3,14/03/09,Flamengo,1-1,Tigres do Brasil
+3,14/03/09,Duque de Caxias,0-1,Friburguense
+3,14/03/09,Volta Redonda,0-1,Madureira
+3,15/03/09,Boavista-RJ,0-1,Vasco
+3,15/03/09,Fluminense,3-1,Macaé
+3,15/03/09,Mesquita,0-1,Resende
+3,15/03/09,Cabofriense,0-4,Botafogo
+3,15/03/09,Americano,1-3,Bangu
+4,21/03/09,Madureira,2-1,Mesquita
+4,21/03/09,Macaé,1-1,Americano
+4,21/03/09,Bangu,1-3,Fluminense
+4,21/03/09,Tigres do Brasil,5-0,Boavista-RJ
+4,22/03/09,Friburguense,2-1,Cabofriense
+4,22/03/09,Resende,0-3,Volta Redonda
+4,22/03/09,Botafogo,4-0,Duque de Caxias
+4,22/03/09,Vasco,2-0,Flamengo
+5,24/03/09,Friburguense,1-3,Fluminense
+5,25/03/09,Bangu,1-0,Cabofriense
+5,25/03/09,Madureira,2-4,Flamengo
+5,25/03/09,Resende,3-1,Boavista-RJ
+5,25/03/09,Macaé,3-1,Duque de Caxias
+5,25/03/09,Botafogo,2-2,Americano
+5,25/03/09,Tigres do Brasil,2-2,Volta Redonda
+5,25/03/09,Vasco,2-1,Mesquita
+6,28/03/09,Mesquita,1-2,Tigres do Brasil
+6,28/03/09,Boavista-RJ,3-1,Madureira
+6,28/03/09,Duque de Caxias,3-1,Bangu
+6,28/03/09,Flamengo,4-0,Resende
+6,28/03/09,Volta Redonda,3-5,Vasco
+6,28/03/09,Americano,1-0,Friburguense
+6,28/03/09,Cabofriense,1-3,Macaé
+6,28/03/09,Fluminense,2-1,Botafogo
+7,31/03/09,Duque de Caxias,4-2,Mesquita
+7,31/03/09,Bangu,2-1,Tigres do Brasil
+7,31/03/09,Cabofriense,2-1,Volta Redonda
+7,31/03/09,Americano,0-1,Flamengo
+7,31/03/09,Macaé,0-1,Vasco
+7,02/04/09,Fluminense,2-2,Boavista-RJ
+7,02/04/09,Friburguense,1-0,Resende
+7,02/04/09,Botafogo,3-2,Madureira
+8,05/04/09,Vasco,4-0,Bangu
+8,05/04/09,Madureira,0-2,Friburguense
+8,05/04/09,Resende,0-4,Botafogo
+8,05/04/09,Tigres do Brasil,3-2,Macaé
+8,05/04/09,Flamengo,1-1,Fluminense
+8,05/04/09,Volta Redonda,1-1,Duque de Caxias
+8,05/04/09,Boavista-RJ,4-1,Americano
+8,05/04/09,Mesquita,1-2,Cabofriense
+SF,11/04/09,Vasco,0-4,Botafogo
+SF,12/04/09,Flamengo,1-0,Fluminense
+F,19/04/09,Botafogo,0-1,Flamengo
+F,26/04/09,Botafogo,2-2,Flamengo
+F,03/05/09,Flamengo,2-2(4-2 Pen.),Botafogo

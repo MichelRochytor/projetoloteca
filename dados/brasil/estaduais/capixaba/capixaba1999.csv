@@ -1,0 +1,52 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,14/01/06,Cachoeiro,4-6,Rio Branco-ES
+B,14/01/06,São Mateus,0-1,Linhares FC
+A,15/01/06,Vilavelhense,1-2,Estrela do Norte
+B,15/01/06,Jaguaré,2-1,CTE Colatina
+A,18/01/06,Rio Branco-ES,3-1,Vilavelhense
+A,18/01/06,Estrela do Norte,0-0,Vitória-ES
+B,18/01/06,Serra,1-0,Jaguaré
+B,18/01/06,CTE Colatina,4-1,São Mateus
+B,21/01/06,São Mateus,0-3,Serra
+A,22/01/06,Vilavelhense,0-1,Vitória-ES
+B,22/01/06,Linhares FC,1-0,CTE Colatina
+A,23/01/06,Estrela do Norte,1-0,Cachoeiro
+B,27/01/06,Serra,1-0,Linhares FC
+A,28/01/06,Rio Branco-ES,0-1,Estrela do Norte
+A,29/01/06,Vitória-ES,1-0,Cachoeiro
+B,29/01/06,Jaguaré,3-2,São Mateus
+B,04/02/06,Linhares FC,4-0,Jaguaré
+B,04/02/06,CTE Colatina,2-1,Serra
+A,05/02/06,Vitória-ES,1-2,Rio Branco-ES
+A,05/02/06,Cachoeiro,2-3,Vilavelhense
+F,09/02/06,Linhares FC,1-2,Estrela do Norte
+F,11/02/06,Estrela do Norte,2-1,Linhares FC
+B,17/02/06,Serra,0-3,Estrela do Norte
+B,18/02/06,CTE Colatina,0-3,Cachoeiro
+B,18/02/06,São Mateus,2-6,Vitória-ES
+B,19/02/06,Linhares FC,1-0,Vilavelhense
+B,19/02/06,Jaguaré,1-1,Rio Branco-ES
+B,24/02/06,Estrela do Norte,1-2,CTE Colatina
+B,24/02/06,Cachoeiro,3-2,São Mateus
+B,25/02/06,Vitória-ES,2-1,Serra
+B,25/02/06,Rio Branco-ES,2-2,Linhares FC
+B,25/02/06,Vilavelhense,2-1,Jaguaré
+B,03/03/06,Serra,6-2,Cachoeiro
+B,04/03/06,São Mateus,1-1,Vilavelhense
+B,04/03/06,CTE Colatina,0-2,Rio Branco-ES
+B,05/03/06,Linhares FC,1-5,Vitória-ES
+B,05/03/06,Jaguaré,1-1,Estrela do Norte
+B,11/03/06,Cachoeiro,0-2,Jaguaré
+B,11/03/06,Rio Branco-ES,2-0,São Mateus
+B,12/03/06,Vilavelhense,3-2,Serra
+B,12/03/06,Vitória-ES,3-2,CTE Colatina
+B,13/03/06,Estrela do Norte,1-1,Linhares FC
+B,18/03/06,Jaguaré,1-0,Vitória-ES
+B,18/03/06,Rio Branco-ES,1-0,Serra
+B,18/03/06,Linhares FC,6-2,Cachoeiro
+B,18/03/06,Estrela do Norte,5-0,São Mateus
+B,18/03/06,Vilavelhense,0-2,CTE Colatina
+F,23/03/06,Jaguaré,2-2,Vitória-ES
+F,26/03/06,Vitória-ES,0-0,Jaguaré
+F,02/04/06,Estrela do Norte,1-1,Vitória-ES
+F,09/04/06,Vitória-ES,3-1,Estrela do Norte

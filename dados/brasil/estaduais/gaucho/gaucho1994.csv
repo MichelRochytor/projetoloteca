@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,05/03/94,São Luiz,3-0,Inter SM
+C,06/03/94,Passo Fundo,1-0,Esportivo
+C,06/03/94,Santa Cruz-RS,1-2,Aimoré
+C,06/03/94,Guarani V. Aires,2-2,Ypiranga-RS
+C,06/03/94,Juventude,3-0,Guarany
+C,06/03/94,Glória,2-0,Grêmio Santanense
+C,06/03/94,Veranópolis,0-1,GE Brasil
+C,06/03/94,Bagé,0-0,Caxias
+C,10/03/94,Caxias,1-1,Brasil de Farroupilha
+C,13/03/94,Passo Fundo,1-1,Santa Cruz-RS
+C,13/03/94,Lajeadense,1-0,Guarani V. Aires
+C,13/03/94,Guarany,1-2,Pelotas
+C,13/03/94,São Paulo-RS,0-0,Glória
+C,13/03/94,Grêmio Santanense,0-0,São Luiz
+C,13/03/94,Inter SM,2-1,Veranópolis
+C,13/03/94,GE Brasil,0-0,Bagé
+C,16/03/94,Lajeadense,1-1,Grêmio
+C,19/03/94,São Luiz,1-0,Lajeadense
+C,19/03/94,Brasil de Farroupilha,0-0,Internacional
+C,20/03/94,São Paulo-RS,0-0,Esportivo
+C,20/03/94,Aimoré,1-2,Guarany
+C,20/03/94,Pelotas,2-0,Guarani V. Aires
+C,20/03/94,Bagé,4-2,Juventude
+C,20/03/94,Ypiranga-RS,4-1,Grêmio Santanense
+C,20/03/94,Veranópolis,1-1,Santa Cruz-RS
+C,20/03/94,GA Guarany,0-0,GE Brasil
+C,20/03/94,Glória,2-0,Passo Fundo
+C,21/03/94,Grêmio,2-0,Inter SM
+C,26/03/94,Aimoré,0-4,Grêmio
+C,27/03/94,Ypiranga-RS,1-3,Juventude
+C,27/03/94,Esportivo,3-2,Guarany
+C,27/03/94,Passo Fundo,3-1,Grêmio Santanense
+C,27/03/94,Brasil de Farroupilha,0-0,GA Guarany
+C,27/03/94,Santa Cruz-RS,2-3,Glória
+C,27/03/94,Inter SM,1-0,Caxias
+C,27/03/94,Lajeadense,0-0,São Paulo-RS
+C,27/03/94,GE Brasil,0-0,São Luiz
+C,27/03/94,Internacional,1-0,Bagé
+C,30/03/94,Internacional,4-0,GA Guarany
+C,30/03/94,Grêmio,0-0,Brasil de Farroupilha
+C,31/03/94,GE Brasil,1-0,Lajeadense
+C,03/04/94,Grêmio Santanense,1-1,Esportivo
+C,03/04/94,Ypiranga-RS,2-1,Passo Fundo
+C,03/04/94,Santa Cruz-RS,1-1,Bagé
+C,03/04/94,GA Guarany,1-1,Pelotas
+C,03/04/94,Glória,2-1,Veranópolis
+C,03/04/94,São Paulo-RS,2-1,Inter SM
+C,03/04/94,Guarani V. Aires,3-1,Aimoré
+C,03/04/94,Juventude,0-0,Internacional
+C,03/04/94,Guarany,1-2,Caxias
+C,06/04/94,Pelotas,1-3,Internacional
+C,10/04/94,Esportivo,0-4,Grêmio
+C,10/04/94,Veranópolis,2-1,São Luiz
+C,10/04/94,Bagé,0-0,Ypiranga-RS
+C,10/04/94,Lajeadense,1-1,Santa Cruz-RS
+C,10/04/94,Guarany,0-0,Glória
+C,10/04/94,Caxias,4-1,Passo Fundo
+C,10/04/94,Internacional,1-0,São Paulo-RS
+C,10/04/94,Aimoré,1-1,GE Brasil
+C,10/04/94,Grêmio Santanense,1-1,Juventude
+C,13/04/94,Internacional,1-0,Guarany
+C,14/04/94,Inter SM,1-1,GA Guarany
+C,16/04/94,São Luiz,1-0,Brasil de Farroupilha
+C,17/04/94,Passo Fundo,2-2,Pelotas
+C,17/04/94,Caxias,2-0,Veranópolis
+C,17/04/94,Inter SM,2-2,Esportivo
+C,17/04/94,Guarani V. Aires,0-1,Juventude
+C,17/04/94,GE Brasil,2-0,São Paulo-RS
+C,17/04/94,Aimoré,0-4,Internacional
+C,17/04/94,Ypiranga-RS,1-0,Guarany
+C,17/04/94,Santa Cruz-RS,3-0,GA Guarany
+C,20/04/94,GA Guarany,2-0,São Paulo-RS
+C,21/04/94,Glória,3-0,Bagé
+C,21/04/94,Guarany,0-0,Lajeadense
+C,21/04/94,Brasil de Farroupilha,2-0,Grêmio Santanense
+C,21/04/94,Esportivo,1-2,Guarani V. Aires
+C,21/04/94,Pelotas,0-2,Ypiranga-RS
+C,24/04/94,Juventude,3-0,Caxias
+C,24/04/94,GE Brasil,0-0,Pelotas
+C,24/04/94,Passo Fundo,1-0,São Luiz
+C,24/04/94,Guarani V. Aires,2-2,Brasil de Farroupilha
+C,24/04/94,GA Guarany,2-0,Bagé
+C,24/04/94,Grêmio Santanense,1-0,Santa Cruz-RS
+C,24/04/94,São Paulo-RS,2-0,Ypiranga-RS
+C,27/04/94,Grêmio,5-0,Glória
+C,28/04/94,Internacional,2-1,Grêmio Santanense
+C,30/04/94,São Luiz,0-0,Guarany
+C,01/05/94,Guarani V. Aires,1-0,São Paulo-RS
+C,01/05/94,Aimoré,0-0,Inter SM
+C,01/05/94,Pelotas,3-2,Lajeadense
+C,01/05/94,Grêmio,1-1,Juventude
+C,01/05/94,Bagé,1-0,Veranópolis
+C,01/05/94,Grêmio Santanense,2-0,GE Brasil
+C,01/05/94,Santa Cruz-RS,0-0,Internacional
+C,01/05/94,Passo Fundo,3-1,GA Guarany
+C,01/05/94,Ypiranga-RS,1-0,Brasil de Farroupilha
+C,01/05/94,Caxias,1-0,Esportivo
+C,05/05/94,São Paulo-RS,0-1,Grêmio
+C,06/05/94,GE Brasil,1-0,Passo Fundo
+C,08/05/94,Brasil de Farroupilha,0-1,Esportivo
+C,08/05/94,Ypiranga-RS,1-0,Aimoré
+C,08/05/94,São Paulo-RS,2-2,Pelotas
+C,08/05/94,Caxias,1-0,Santa Cruz-RS
+C,08/05/94,Inter SM,1-0,Guarani V. Aires
+C,08/05/94,Lajeadense,2-1,Bagé
+C,08/05/94,Veranópolis,3-1,Juventude
+C,08/05/94,Guarany,0-1,Grêmio Santanense
+C,08/05/94,Grêmio,2-1,São Luiz
+C,11/05/94,São Luiz,1-1,Ypiranga-RS
+C,11/05/94,Aimoré,1-0,Veranópolis
+C,11/05/94,Grêmio Santanense,1-0,GA Guarany
+C,15/05/94,Veranópolis,1-0,Grêmio
+C,15/05/94,Esportivo,2-4,Ypiranga-RS
+C,15/05/94,Juventude,4-1,GE Brasil
+C,15/05/94,Glória,1-1,Guarani V. Aires
+C,15/05/94,Passo Fundo,1-1,Inter SM
+C,15/05/94,GA Guarany,0-0,Caxias
+C,15/05/94,Santa Cruz-RS,1-0,São Paulo-RS
+C,15/05/94,Aimoré,1-2,Grêmio Santanense
+C,15/05/94,Bagé,1-1,Pelotas
+C,15/05/94,Guarany,0-3,Brasil de Farroupilha
+C,18/05/94,Grêmio,2-0,Guarany
+C,20/05/94,Lajeadense,1-1,Internacional
+C,21/05/94,Pelotas,2-0,Inter SM
+C,22/05/94,GE Brasil,0-1,Esportivo
+C,22/05/94,Bagé,1-2,Aimoré
+C,22/05/94,São Paulo-RS,1-1,Veranópolis
+C,22/05/94,Ypiranga-RS,2-1,Caxias
+C,22/05/94,Guarany,2-2,GA Guarany
+C,22/05/94,Lajeadense,0-0,Juventude
+C,22/05/94,Glória,1-0,São Luiz
+C,22/05/94,Santa Cruz-RS,0-0,Brasil de Farroupilha
+C,22/05/94,Grêmio Santanense,0-1,Grêmio
+C,25/05/94,Guarani V. Aires,1-0,Guarany
+C,28/05/94,São Luiz,3-1,Bagé
+C,29/05/94,Esportivo,0-0,Juventude
+C,29/05/94,Inter SM,2-1,GE Brasil
+C,29/05/94,Internacional,3-1,Guarani V. Aires
+C,29/05/94,Passo Fundo,3-0,Guarany
+C,29/05/94,Caxias,3-1,Glória
+C,29/05/94,Brasil de Farroupilha,3-1,São Paulo-RS
+C,29/05/94,Aimoré,0-1,GA Guarany
+C,29/05/94,Pelotas,2-1,Santa Cruz-RS
+C,29/05/94,Veranópolis,2-1,Lajeadense
+C,02/06/94,GA Guarany,0-0,Esportivo
+C,02/06/94,São Paulo-RS,0-1,São Luiz
+C,02/06/94,Lajeadense,1-0,Caxias
+C,02/06/94,Veranópolis,1-2,Internacional
+C,02/06/94,Bagé,2-1,Guarani V. Aires
+C,02/06/94,Santa Cruz-RS,2-1,GE Brasil
+C,02/06/94,Brasil de Farroupilha,1-0,Passo Fundo
+C,02/06/94,Juventude,1-1,Inter SM
+C,02/06/94,Pelotas,5-1,Aimoré
+C,05/06/94,Esportivo,2-1,Veranópolis
+C,05/06/94,Juventude,0-0,Passo Fundo
+C,05/06/94,Inter SM,0-0,Brasil de Farroupilha
+C,05/06/94,Guarany,0-0,Santa Cruz-RS
+C,05/06/94,Grêmio Santanense,0-1,Caxias
+C,05/06/94,São Paulo-RS,1-0,Bagé
+C,05/06/94,Guarani V. Aires,1-1,GA Guarany
+C,06/06/94,Lajeadense,1-0,Glória
+C,09/06/94,Juventude,5-2,Aimoré
+C,10/06/94,São Luiz,1-0,Esportivo
+C,12/06/94,Internacional,1-0,Grêmio
+C,12/06/94,Ypiranga-RS,2-0,Veranópolis
+C,12/06/94,Passo Fundo,0-0,Guarani V. Aires
+C,12/06/94,Caxias,0-0,GE Brasil
+C,12/06/94,Aimoré,2-0,São Paulo-RS
+C,12/06/94,Brasil de Farroupilha,1-0,Lajeadense
+C,12/06/94,Glória,2-0,Inter SM
+C,13/06/94,Pelotas,1-3,Grêmio Santanense
+C,15/06/94,Guarani V. Aires,1-1,Grêmio
+C,15/06/94,Ypiranga-RS,0-0,Internacional
+C,17/06/94,GA Guarany,0-0,Juventude
+C,18/06/94,Caxias,1-0,São Paulo-RS
+C,19/06/94,Brasil de Farroupilha,0-1,Aimoré
+C,19/06/94,Juventude,3-0,Pelotas
+C,19/06/94,Veranópolis,2-1,Guarany
+C,19/06/94,Grêmio Santanense,1-1,Inter SM
+C,19/06/94,Lajeadense,2-2,Ypiranga-RS
+C,19/06/94,GE Brasil,1-3,Grêmio
+C,19/06/94,Internacional,6-0,São Luiz
+C,19/06/94,Bagé,1-1,Passo Fundo
+C,22/06/94,Internacional,0-0,Glória
+C,22/06/94,Santa Cruz-RS,0-0,Guarani V. Aires
+C,22/06/94,Grêmio,3-1,Caxias
+C,25/06/94,São Luiz,1-2,Juventude
+C,26/06/94,Bagé,1-0,Grêmio
+C,26/06/94,Esportivo,0-3,Internacional
+C,26/06/94,Aimoré,2-1,Passo Fundo
+C,26/06/94,Veranópolis,1-1,Pelotas
+C,26/06/94,São Paulo-RS,0-3,Grêmio Santanense
+C,26/06/94,Inter SM,2-0,Lajeadense
+C,26/06/94,Ypiranga-RS,3-2,Santa Cruz-RS
+C,26/06/94,GE Brasil,0-0,Brasil de Farroupilha
+C,26/06/94,GA Guarany,1-1,Glória
+C,29/06/94,Grêmio,4-0,Pelotas
+C,29/06/94,Internacional,0-0,GE Brasil
+C,03/07/94,Esportivo,1-1,Bagé
+C,03/07/94,Santa Cruz-RS,2-1,Grêmio
+C,03/07/94,Pelotas,1-0,São Luiz
+C,03/07/94,Guarany,3-0,São Paulo-RS
+C,03/07/94,GA Guarany,1-2,Veranópolis
+C,03/07/94,Passo Fundo,2-1,Lajeadense
+C,03/07/94,Internacional,3-0,Inter SM
+C,03/07/94,Guarani V. Aires,0-1,GE Brasil
+C,03/07/94,Caxias,1-1,Aimoré
+C,06/07/94,Grêmio,4-1,Ypiranga-RS
+C,10/07/94,São Luiz,4-0,Santa Cruz-RS
+C,10/07/94,Lajeadense,1-2,Esportivo
+C,10/07/94,Inter SM,2-0,Ypiranga-RS
+C,10/07/94,Guarany,0-3,GE Brasil
+C,10/07/94,Glória,0-0,Aimoré
+C,10/07/94,Pelotas,3-1,Brasil de Farroupilha
+C,10/07/94,Bagé,0-1,Grêmio Santanense
+C,10/07/94,São Paulo-RS,2-1,Passo Fundo
+C,12/07/94,Caxias,1-0,Internacional
+C,12/07/94,Grêmio,1-0,GA Guarany
+C,13/07/94,Juventude,4-1,Glória
+C,15/07/94,Inter SM,2-2,Guarany
+C,16/07/94,Esportivo,1-1,Santa Cruz-RS
+C,16/07/94,GA Guarany,1-0,São Luiz
+C,16/07/94,Brasil de Farroupilha,2-1,Bagé
+C,16/07/94,Grêmio Santanense,0-0,Veranópolis
+C,16/07/94,GE Brasil,1-2,Ypiranga-RS
+C,16/07/94,Juventude,2-0,São Paulo-RS
+C,16/07/94,Aimoré,2-0,Lajeadense
+C,16/07/94,Passo Fundo,1-1,Grêmio
+C,16/07/94,Glória,3-1,Pelotas
+C,16/07/94,Guarani V. Aires,0-0,Caxias
+C,20/07/94,Brasil de Farroupilha,0-0,Glória
+C,20/07/94,Veranópolis,0-0,Guarani V. Aires
+C,21/07/94,Internacional,2-0,Lajeadense
+C,24/07/94,Esportivo,2-0,Aimoré
+C,24/07/94,Caxias,1-0,Pelotas
+C,24/07/94,Guarani V. Aires,0-0,São Luiz
+C,24/07/94,Lajeadense,0-0,Grêmio Santanense
+C,24/07/94,Ypiranga-RS,2-0,GA Guarany
+C,24/07/94,GE Brasil,0-0,Glória
+C,24/07/94,Passo Fundo,0-1,Internacional
+C,24/07/94,Brasil de Farroupilha,2-0,Veranópolis
+C,24/07/94,Santa Cruz-RS,1-6,Juventude
+C,24/07/94,Bagé,1-1,Inter SM
+C,27/07/94,São Luiz,2-0,Aimoré
+C,27/07/94,Glória,1-0,Esportivo
+C,27/07/94,Internacional,0-0,Santa Cruz-RS
+C,30/07/94,São Luiz,1-0,Caxias
+C,31/07/94,Grêmio Santanense,0-3,Guarani V. Aires
+C,31/07/94,Glória,0-1,Ypiranga-RS
+C,31/07/94,Veranópolis,1-0,Passo Fundo
+C,31/07/94,Juventude,2-0,Brasil de Farroupilha
+C,31/07/94,Inter SM,1-0,Santa Cruz-RS
+C,31/07/94,Guarany,1-1,Bagé
+C,31/07/94,GA Guarany,1-3,Internacional
+C,03/08/94,Pelotas,3-0,Esportivo
+C,03/08/94,Internacional,1-1,Brasil de Farroupilha
+C,06/08/94,São Paulo-RS,0-0,GA Guarany
+C,07/08/94,Bagé,0-0,Internacional
+C,07/08/94,Esportivo,2-0,Passo Fundo
+C,07/08/94,Aimoré,1-1,Santa Cruz-RS
+C,07/08/94,Ypiranga-RS,0-0,Guarani V. Aires
+C,07/08/94,Grêmio Santanense,1-1,Glória
+C,07/08/94,GE Brasil,1-0,Veranópolis
+C,07/08/94,Lajeadense,0-2,Pelotas
+C,07/08/94,Brasil de Farroupilha,3-2,Caxias
+C,13/08/94,São Luiz,2-1,Grêmio Santanense
+C,14/08/94,Ypiranga-RS,0-0,Esportivo
+C,14/08/94,Glória,2-0,São Paulo-RS
+C,14/08/94,Pelotas,3-0,Guarany
+C,14/08/94,Santa Cruz-RS,0-0,Passo Fundo
+C,14/08/94,Guarani V. Aires,1-0,Lajeadense
+C,17/08/94,GA Guarany,1-2,Brasil de Farroupilha
+C,18/08/94,Guarany,0-0,Esportivo
+C,21/08/94,Lajeadense,3-1,São Luiz
+C,21/08/94,Esportivo,2-0,São Paulo-RS
+C,21/08/94,Guarani V. Aires,1-0,Pelotas
+C,21/08/94,Grêmio Santanense,2-0,Ypiranga-RS
+C,21/08/94,Santa Cruz-RS,1-0,Veranópolis
+C,21/08/94,GE Brasil,2-0,GA Guarany
+C,21/08/94,Inter SM,1-0,Aimoré
+C,21/08/94,Passo Fundo,0-0,Glória
+C,21/08/94,Guarany,1-1,Juventude
+C,24/08/94,Grêmio,0-1,Veranópolis
+C,27/08/94,São Luiz,2-1,GE Brasil
+C,28/08/94,São Paulo-RS,1-2,Lajeadense
+C,28/08/94,Glória,2-0,Santa Cruz-RS
+C,28/08/94,Grêmio Santanense,1-0,Passo Fundo
+C,28/08/94,Pelotas,0-0,Bagé
+C,28/08/94,Brasil de Farroupilha,0-0,Guarani V. Aires
+C,28/08/94,GA Guarany,2-0,Guarany
+C,28/08/94,Ypiranga-RS,0-0,Inter SM
+C,28/08/94,Veranópolis,3-1,Aimoré
+C,03/09/94,Internacional,2-1,Ypiranga-RS
+C,04/09/94,Brasil de Farroupilha,0-1,São Luiz
+C,04/09/94,Esportivo,0-0,Grêmio Santanense
+C,04/09/94,Bagé,1-1,Santa Cruz-RS
+C,04/09/94,Pelotas,1-0,GA Guarany
+C,04/09/94,Inter SM,1-0,São Paulo-RS
+C,04/09/94,Aimoré,3-1,Juventude
+C,04/09/94,Veranópolis,0-0,Glória

@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+E,06/09/22,Dinamo Zagreb,1-0,Chelsea
+G,06/09/22,Borussia Dortmund,3-0,FC Kobenhavn
+E,06/09/22,Red Bull Salzburg,1-1,Milan
+F,06/09/22,Celtic,0-3,Real Madrid
+F,06/09/22,RB Leipzig,1-4,Shakhtar Donetsk
+G,06/09/22,Sevilla,0-4,Manchester City
+H,06/09/22,PSG,2-1,Juventus
+H,06/09/22,Benfica,2-0,Maccabi Haifa
+A,07/09/22,Ajax,4-0,Rangers
+D,07/09/22,Eintracht Frankfurt,0-3,Sporting
+A,07/09/22,Napoli,4-1,Liverpool
+B,07/09/22,Atlético de Madrid,2-1,FC Porto
+B,07/09/22,Club Brugge,1-0,Bayer Leverkusen
+C,07/09/22,Barcelona,5-1,Viktoria Plzeň
+C,07/09/22,Internazionale,0-2,Bayern München
+D,07/09/22,Tottenham,2-0,Marseille
+C,13/09/22,Viktoria Plzeň,0-2,Internazionale
+D,13/09/22,Sporting,2-0,Tottenham
+A,13/09/22,Liverpool,2-1,Ajax
+B,13/09/22,FC Porto,0-4,Club Brugge
+B,13/09/22,Bayer Leverkusen,2-0,Atlético de Madrid
+C,13/09/22,Bayern München,2-0,Barcelona
+D,13/09/22,Marseille,0-1,Eintracht Frankfurt
+E,14/09/22,Milan,3-1,Dinamo Zagreb
+F,14/09/22,Shakhtar Donetsk,1-1,Celtic
+A,14/09/22,Rangers,0-3,Napoli
+E,14/09/22,Chelsea,1-1,Red Bull Salzburg
+F,14/09/22,Real Madrid,2-0,RB Leipzig
+G,14/09/22,Manchester City,2-1,Borussia Dortmund
+G,14/09/22,FC Kobenhavn,0-0,Sevilla
+H,14/09/22,Juventus,1-2,Benfica
+H,14/09/22,Maccabi Haifa,1-3,PSG
+C,04/10/22,Bayern München,5-0,Viktoria Plzeň
+D,04/10/22,Marseille,4-1,Sporting
+A,04/10/22,Liverpool,2-0,Rangers
+A,04/10/22,Ajax,1-6,Napoli
+B,04/10/22,FC Porto,2-0,Bayer Leverkusen
+B,04/10/22,Club Brugge,2-0,Atlético de Madrid
+C,04/10/22,Internazionale,1-0,Barcelona
+D,04/10/22,Eintracht Frankfurt,0-0,Tottenham
+E,05/10/22,Red Bull Salzburg,1-0,Dinamo Zagreb
+F,05/10/22,RB Leipzig,3-1,Celtic
+E,05/10/22,Chelsea,3-0,Milan
+F,05/10/22,Real Madrid,2-1,Shakhtar Donetsk
+G,05/10/22,Manchester City,5-0,FC Kobenhavn
+G,05/10/22,Sevilla,1-4,Borussia Dortmund
+H,05/10/22,Juventus,3-1,Maccabi Haifa
+H,05/10/22,Benfica,1-1,PSG
+G,11/10/22,FC Kobenhavn,0-0,Manchester City
+H,11/10/22,Maccabi Haifa,2-0,Juventus
+E,11/10/22,Dinamo Zagreb,1-1,Red Bull Salzburg
+E,11/10/22,Milan,0-2,Chelsea
+F,11/10/22,Shakhtar Donetsk,1-1,Real Madrid
+F,11/10/22,Celtic,0-2,RB Leipzig
+G,11/10/22,Borussia Dortmund,1-1,Sevilla
+H,11/10/22,PSG,1-1,Benfica
+A,12/10/22,Napoli,4-2,Ajax
+B,12/10/22,Atlético de Madrid,0-0,Club Brugge
+A,12/10/22,Rangers,1-7,Liverpool
+B,12/10/22,Bayer Leverkusen,0-3,FC Porto
+C,12/10/22,Barcelona,3-3,Internazionale
+C,12/10/22,Viktoria Plzeň,2-4,Bayern München
+D,12/10/22,Tottenham,3-2,Eintracht Frankfurt
+D,12/10/22,Sporting,0-2,Marseille
+E,25/10/22,Red Bull Salzburg,1-2,Chelsea
+G,25/10/22,Sevilla,3-0,FC Kobenhavn
+E,25/10/22,Dinamo Zagreb,0-4,Milan
+F,25/10/22,Celtic,1-1,Shakhtar Donetsk
+F,25/10/22,RB Leipzig,3-2,Real Madrid
+G,25/10/22,Borussia Dortmund,0-0,Manchester City
+H,25/10/22,PSG,7-2,Maccabi Haifa
+H,25/10/22,Benfica,4-3,Juventus
+B,26/10/22,Club Brugge,0-4,FC Porto
+C,26/10/22,Internazionale,4-0,Viktoria Plzeň
+A,26/10/22,Napoli,3-0,Rangers
+A,26/10/22,Ajax,0-3,Liverpool
+B,26/10/22,Atlético de Madrid,2-2,Bayer Leverkusen
+C,26/10/22,Barcelona,0-3,Bayern München
+D,26/10/22,Tottenham,1-1,Sporting
+D,26/10/22,Eintracht Frankfurt,2-1,Marseille
+B,01/11/22,FC Porto,2-1,Atlético de Madrid
+B,01/11/22,Bayer Leverkusen,0-0,Club Brugge
+A,01/11/22,Liverpool,2-0,Napoli
+A,01/11/22,Rangers,1-3,Ajax
+C,01/11/22,Bayern München,2-0,Internazionale
+C,01/11/22,Viktoria Plzeň,2-4,Barcelona
+D,01/11/22,Sporting,1-2,Eintracht Frankfurt
+D,01/11/22,Marseille,1-2,Tottenham
+F,02/11/22,Real Madrid,5-1,Celtic
+F,02/11/22,Shakhtar Donetsk,0-4,RB Leipzig
+E,02/11/22,Chelsea,2-1,Dinamo Zagreb
+E,02/11/22,Milan,4-0,Red Bull Salzburg
+G,02/11/22,Manchester City,3-1,Sevilla
+G,02/11/22,FC Kobenhavn,1-1,Borussia Dortmund
+H,02/11/22,Juventus,1-2,PSG
+H,02/11/22,Maccabi Haifa,1-6,Benfica
+1/8,14/02/23,Milan,1-0,Tottenham
+1/8,14/02/23,PSG,0-1,Bayern München
+1/8,15/02/23,Club Brugge,0-2,Benfica
+1/8,15/02/23,Borussia Dortmund,1-0,Chelsea
+1/8,21/02/23,Liverpool,2-5,Real Madrid
+1/8,21/02/23,Eintracht Frankfurt,0-2,Napoli
+1/8,22/02/23,Internazionale,1-0,FC Porto
+1/8,22/02/23,RB Leipzig,1-1,Manchester City
+1/8,07/03/23,Chelsea,2-0,Borussia Dortmund
+1/8,07/03/23,Benfica,5-1,Club Brugge
+1/8,08/03/23,Bayern München,2-0,PSG
+1/8,08/03/23,Tottenham,0-0,Milan
+1/8,14/03/23,FC Porto,0-0,Internazionale
+1/8,14/03/23,Manchester City,7-0,RB Leipzig
+1/8,15/03/23,Napoli,3-0,Eintracht Frankfurt
+1/8,15/03/23,Real Madrid,1-0,Liverpool
+QF,11/04/23,Benfica,0-2,Internazionale
+QF,11/04/23,Manchester City,3-0,Bayern München
+QF,12/04/23,Real Madrid,2-0,Chelsea
+QF,12/04/23,Milan,1-0,Napoli
+QF,18/04/23,Chelsea,0-2,Real Madrid
+QF,18/04/23,Napoli,1-1,Milan
+QF,19/04/23,Internazionale,3-3,Benfica
+QF,19/04/23,Bayern München,1-1,Manchester City
+SF,09/05/23,Real Madrid,1-1,Manchester City
+SF,10/05/23,Milan,0-2,Internazionale
+SF,16/05/23,Internazionale,1-0,Milan
+SF,17/05/23,Manchester City,4-0,Real Madrid
+F,10/06/23,Manchester City,1-0,Internazionale

@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/09/64,Atlético de Madrid,2-1,Real Betis
+1,13/09/64,Athletic Bilbao,2-1,Elche
+1,13/09/64,Las Palmas,2-1,Barcelona
+1,13/09/64,Sevilla,2-4,Córdoba
+1,13/09/64,Espanyol,1-2,Real Madrid
+1,13/09/64,Real Murcia,1-1,Valencia
+1,13/09/64,Levante,0-0,Real Oviedo
+1,13/09/64,Deportivo,0-2,Real Zaragoza
+2,19/09/64,Real Madrid,6-0,Las Palmas
+2,19/09/64,Valencia,2-0,Levante
+2,20/09/64,Real Zaragoza,5-1,Real Murcia
+2,20/09/64,Córdoba,2-1,Espanyol
+2,20/09/64,Barcelona,2-3,Atlético de Madrid
+2,20/09/64,Elche,0-1,Sevilla
+2,20/09/64,Real Betis,4-0,Deportivo
+2,20/09/64,Real Oviedo,1-0,Athletic Bilbao
+3,27/09/64,Real Madrid,6-1,Córdoba
+3,27/09/64,Athletic Bilbao,3-2,Valencia
+3,27/09/64,Las Palmas,2-3,Atlético de Madrid
+3,27/09/64,Sevilla,1-0,Real Oviedo
+3,27/09/64,Espanyol,1-0,Elche
+3,27/09/64,Real Murcia,1-1,Real Betis
+3,27/09/64,Levante,0-1,Real Zaragoza
+3,27/09/64,Deportivo,1-2,Barcelona
+4,04/10/64,Atlético de Madrid,1-0,Deportivo
+4,04/10/64,Real Zaragoza,4-1,Athletic Bilbao
+4,04/10/64,Valencia,3-1,Sevilla
+4,04/10/64,Barcelona,8-1,Real Murcia
+4,04/10/64,Elche,1-1,Real Madrid
+4,04/10/64,Las Palmas,1-0,Córdoba
+4,04/10/64,Real Betis,1-0,Levante
+4,04/10/64,Real Oviedo,3-1,Espanyol
+5,11/10/64,Real Madrid,3-0,Real Oviedo
+5,11/10/64,Córdoba,2-0,Elche
+5,11/10/64,Athletic Bilbao,1-0,Real Betis
+5,11/10/64,Sevilla,2-1,Real Zaragoza
+5,11/10/64,Espanyol,1-2,Valencia
+5,11/10/64,Real Murcia,1-5,Atlético de Madrid
+5,11/10/64,Levante,5-1,Barcelona
+5,11/10/64,Deportivo,1-0,Las Palmas
+6,18/10/64,Atlético de Madrid,3-0,Levante
+6,18/10/64,Real Zaragoza,1-0,Espanyol
+6,18/10/64,Valencia,0-0,Real Madrid
+6,18/10/64,Barcelona,4-0,Athletic Bilbao
+6,18/10/64,Elche,2-0,Las Palmas
+6,18/10/64,Real Betis,2-0,Sevilla
+6,18/10/64,Real Oviedo,1-0,Córdoba
+6,18/10/64,Deportivo,2-0,Real Murcia
+7,25/10/64,Real Madrid,1-1,Real Zaragoza
+7,25/10/64,Córdoba,1-0,Valencia
+7,25/10/64,Athletic Bilbao,2-1,Atlético de Madrid
+7,25/10/64,Elche,2-0,Real Oviedo
+7,25/10/64,Las Palmas,0-0,Real Murcia
+7,25/10/64,Sevilla,2-1,Barcelona
+7,25/10/64,Espanyol,3-0,Real Betis
+7,25/10/64,Levante,2-0,Deportivo
+8,01/11/64,Atlético de Madrid,3-1,Sevilla
+8,01/11/64,Real Zaragoza,4-0,Córdoba
+8,01/11/64,Valencia,5-0,Elche
+8,01/11/64,Barcelona,1-0,Espanyol
+8,01/11/64,Las Palmas,3-0,Real Oviedo
+8,01/11/64,Real Betis,3-1,Real Madrid
+8,01/11/64,Real Murcia,1-1,Levante
+8,01/11/64,Deportivo,1-2,Athletic Bilbao
+9,08/11/64,Real Madrid,4-1,Barcelona
+9,08/11/64,Córdoba,1-0,Real Betis
+9,08/11/64,Athletic Bilbao,1-2,Real Murcia
+9,08/11/64,Elche,3-1,Real Zaragoza
+9,08/11/64,Sevilla,2-1,Deportivo
+9,08/11/64,Espanyol,1-0,Atlético de Madrid
+9,08/11/64,Levante,2-2,Las Palmas
+9,08/11/64,Real Oviedo,0-1,Valencia
+10,22/11/64,Atlético de Madrid,0-1,Real Madrid
+10,22/11/64,Real Zaragoza,2-0,Real Oviedo
+10,22/11/64,Barcelona,4-1,Córdoba
+10,22/11/64,Las Palmas,3-2,Valencia
+10,22/11/64,Real Betis,2-2,Elche
+10,22/11/64,Real Murcia,1-1,Sevilla
+10,22/11/64,Levante,2-2,Athletic Bilbao
+10,22/11/64,Deportivo,1-4,Espanyol
+11,28/11/64,Real Madrid,2-0,Deportivo
+11,29/11/64,Valencia,3-0,Real Zaragoza
+11,29/11/64,Córdoba,0-0,Atlético de Madrid
+11,29/11/64,Elche,2-0,Barcelona
+11,29/11/64,Las Palmas,3-1,Athletic Bilbao
+11,29/11/64,Sevilla,5-2,Levante
+11,29/11/64,Espanyol,1-0,Real Murcia
+11,29/11/64,Real Oviedo,1-2,Real Betis
+12,05/12/64,Real Zaragoza,0-0,Las Palmas
+12,06/12/64,Atlético de Madrid,2-0,Elche
+12,06/12/64,Barcelona,5-0,Real Oviedo
+12,06/12/64,Athletic Bilbao,1-0,Sevilla
+12,06/12/64,Real Betis,0-1,Valencia
+12,06/12/64,Real Murcia,1-2,Real Madrid
+12,06/12/64,Levante,2-0,Espanyol
+12,06/12/64,Deportivo,2-0,Córdoba
+13,13/12/64,Real Madrid,4-1,Levante
+13,13/12/64,Real Zaragoza,2-1,Real Betis
+13,13/12/64,Valencia,2-4,Barcelona
+13,13/12/64,Córdoba,0-0,Real Murcia
+13,13/12/64,Elche,3-0,Deportivo
+13,13/12/64,Sevilla,1-2,Las Palmas
+13,13/12/64,Espanyol,3-1,Athletic Bilbao
+13,13/12/64,Real Oviedo,0-3,Atlético de Madrid
+14,20/12/64,Atlético de Madrid,2-1,Valencia
+14,20/12/64,Barcelona,2-0,Real Zaragoza
+14,20/12/64,Athletic Bilbao,1-1,Real Madrid
+14,20/12/64,Las Palmas,2-2,Real Betis
+14,20/12/64,Sevilla,1-0,Espanyol
+14,20/12/64,Real Murcia,4-0,Elche
+14,20/12/64,Levante,2-0,Córdoba
+14,20/12/64,Deportivo,1-1,Real Oviedo
+15,27/12/64,Real Madrid,4-0,Sevilla
+15,27/12/64,Real Zaragoza,3-1,Atlético de Madrid
+15,27/12/64,Valencia,1-0,Deportivo
+15,27/12/64,Córdoba,1-0,Athletic Bilbao
+15,27/12/64,Elche,4-2,Levante
+15,27/12/64,Espanyol,1-0,Las Palmas
+15,27/12/64,Real Betis,2-1,Barcelona
+15,27/12/64,Real Oviedo,1-1,Real Murcia
+16,03/01/65,Real Madrid,1-0,Espanyol
+16,03/01/65,Real Zaragoza,4-1,Deportivo
+16,03/01/65,Valencia,2-2,Real Murcia
+16,03/01/65,Córdoba,1-0,Sevilla
+16,03/01/65,Barcelona,4-0,Las Palmas
+16,03/01/65,Elche,1-0,Athletic Bilbao
+16,03/01/65,Real Betis,1-1,Atlético de Madrid
+16,03/01/65,Real Oviedo,2-0,Levante
+17,10/01/65,Atlético de Madrid,3-2,Barcelona
+17,10/01/65,Athletic Bilbao,3-0,Real Oviedo
+17,10/01/65,Las Palmas,1-1,Real Madrid
+17,10/01/65,Sevilla,1-0,Elche
+17,10/01/65,Espanyol,2-4,Córdoba
+17,10/01/65,Real Murcia,1-2,Real Zaragoza
+17,10/01/65,Levante,2-1,Valencia
+17,10/01/65,Deportivo,1-0,Real Betis
+18,17/01/65,Atlético de Madrid,2-1,Las Palmas
+18,17/01/65,Real Zaragoza,3-1,Levante
+18,17/01/65,Valencia,2-0,Athletic Bilbao
+18,17/01/65,Córdoba,1-0,Real Madrid
+18,17/01/65,Barcelona,2-0,Deportivo
+18,17/01/65,Elche,2-1,Espanyol
+18,17/01/65,Real Betis,2-2,Real Murcia
+18,17/01/65,Real Oviedo,2-3,Sevilla
+19,24/01/65,Real Madrid,3-0,Elche
+19,24/01/65,Córdoba,0-0,Las Palmas
+19,24/01/65,Athletic Bilbao,3-1,Real Zaragoza
+19,24/01/65,Sevilla,1-1,Valencia
+19,24/01/65,Espanyol,5-1,Real Oviedo
+19,24/01/65,Real Murcia,0-2,Barcelona
+19,24/01/65,Levante,3-1,Real Betis
+19,24/01/65,Deportivo,0-1,Atlético de Madrid
+20,31/01/65,Atlético de Madrid,2-0,Real Murcia
+20,31/01/65,Real Zaragoza,1-0,Sevilla
+20,31/01/65,Valencia,3-1,Espanyol
+20,31/01/65,Barcelona,4-2,Levante
+20,31/01/65,Elche,2-1,Córdoba
+20,31/01/65,Las Palmas,2-0,Deportivo
+20,31/01/65,Real Betis,1-2,Athletic Bilbao
+20,31/01/65,Real Oviedo,0-1,Real Madrid
+21,07/02/65,Real Madrid,3-0,Valencia
+21,07/02/65,Córdoba,1-0,Real Oviedo
+21,07/02/65,Athletic Bilbao,0-0,Barcelona
+21,07/02/65,Las Palmas,2-0,Elche
+21,07/02/65,Sevilla,4-2,Real Betis
+21,07/02/65,Espanyol,4-2,Real Zaragoza
+21,07/02/65,Real Murcia,2-0,Deportivo
+21,07/02/65,Levante,0-1,Atlético de Madrid
+22,14/02/65,Atlético de Madrid,4-0,Athletic Bilbao
+22,14/02/65,Real Zaragoza,1-0,Real Madrid
+22,14/02/65,Valencia,2-1,Córdoba
+22,14/02/65,Barcelona,4-3,Sevilla
+22,14/02/65,Real Betis,0-1,Espanyol
+22,14/02/65,Real Murcia,1-1,Las Palmas
+22,14/02/65,Real Oviedo,1-3,Elche
+22,14/02/65,Deportivo,1-0,Levante
+23,20/02/65,Real Madrid,6-1,Real Betis
+23,21/02/65,Córdoba,2-1,Real Zaragoza
+23,21/02/65,Athletic Bilbao,0-0,Deportivo
+23,21/02/65,Elche,1-3,Valencia
+23,21/02/65,Sevilla,0-0,Atlético de Madrid
+23,21/02/65,Espanyol,0-0,Barcelona
+23,21/02/65,Levante,1-2,Real Murcia
+23,21/02/65,Real Oviedo,2-0,Las Palmas
+24,28/02/65,Atlético de Madrid,3-0,Espanyol
+24,28/02/65,Real Zaragoza,5-1,Elche
+24,28/02/65,Valencia,8-1,Real Oviedo
+24,28/02/65,Barcelona,1-2,Real Madrid
+24,28/02/65,Las Palmas,1-0,Levante
+24,28/02/65,Real Betis,0-1,Córdoba
+24,28/02/65,Real Murcia,1-1,Athletic Bilbao
+24,28/02/65,Deportivo,4-0,Sevilla
+25,07/03/65,Real Madrid,0-1,Atlético de Madrid
+25,07/03/65,Valencia,2-1,Las Palmas
+25,07/03/65,Córdoba,1-0,Barcelona
+25,07/03/65,Athletic Bilbao,1-1,Levante
+25,07/03/65,Elche,3-0,Real Betis
+25,07/03/65,Sevilla,0-0,Real Murcia
+25,07/03/65,Espanyol,2-0,Deportivo
+25,07/03/65,Real Oviedo,2-0,Real Zaragoza
+26,21/03/65,Atlético de Madrid,3-0,Córdoba
+26,21/03/65,Real Zaragoza,4-2,Valencia
+26,21/03/65,Barcelona,1-1,Elche
+26,21/03/65,Athletic Bilbao,3-1,Las Palmas
+26,21/03/65,Real Betis,0-0,Real Oviedo
+26,21/03/65,Real Murcia,1-0,Espanyol
+26,21/03/65,Levante,3-2,Sevilla
+26,21/03/65,Deportivo,0-2,Real Madrid
+27,28/03/65,Real Madrid,4-1,Real Murcia
+27,28/03/65,Valencia,2-0,Real Betis
+27,28/03/65,Córdoba,6-0,Deportivo
+27,28/03/65,Elche,1-0,Atlético de Madrid
+27,28/03/65,Las Palmas,1-3,Real Zaragoza
+27,28/03/65,Sevilla,1-2,Athletic Bilbao
+27,28/03/65,Espanyol,2-1,Levante
+27,28/03/65,Real Oviedo,2-0,Barcelona
+28,03/04/65,Athletic Bilbao,2-1,Espanyol
+28,04/04/65,Atlético de Madrid,5-1,Real Oviedo
+28,04/04/65,Barcelona,2-0,Valencia
+28,04/04/65,Las Palmas,4-1,Sevilla
+28,04/04/65,Real Betis,2-1,Real Zaragoza
+28,04/04/65,Real Murcia,0-1,Córdoba
+28,04/04/65,Levante,0-1,Real Madrid
+28,04/04/65,Deportivo,0-1,Elche
+29,11/04/65,Real Madrid,1-0,Athletic Bilbao
+29,11/04/65,Real Zaragoza,2-0,Barcelona
+29,11/04/65,Valencia,3-1,Atlético de Madrid
+29,11/04/65,Córdoba,3-0,Levante
+29,11/04/65,Elche,2-0,Real Murcia
+29,11/04/65,Espanyol,0-2,Sevilla
+29,11/04/65,Real Betis,2-0,Las Palmas
+29,11/04/65,Real Oviedo,0-0,Deportivo
+30,18/04/65,Atlético de Madrid,2-3,Real Zaragoza
+30,18/04/65,Barcelona,0-0,Real Betis
+30,18/04/65,Athletic Bilbao,1-0,Córdoba
+30,18/04/65,Las Palmas,1-0,Espanyol
+30,18/04/65,Sevilla,0-1,Real Madrid
+30,18/04/65,Real Murcia,0-0,Real Oviedo
+30,18/04/65,Levante,2-0,Elche
+30,18/04/65,Deportivo,1-2,Valencia

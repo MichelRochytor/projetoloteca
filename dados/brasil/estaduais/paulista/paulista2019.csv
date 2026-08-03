@@ -1,0 +1,122 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+D,19/01/19,Ponte Preta,0-0,Oeste
+C,19/01/19,Santos,1-0,Ferroviária
+D,19/01/19,São Paulo,4-1,Mirassol
+C,19/01/19,Bragantino,1-0,Guarani
+D,20/01/19,Botafogo-SP,1-1,São Bento
+C,20/01/19,Corinthians,1-1,São Caetano
+B,20/01/19,Red Bull Brasil,1-1,Palmeiras
+D,21/01/19,Ituano,0-1,Grêmio Novorizontino
+C,23/01/19,Ferroviária,0-0,Ponte Preta
+C,23/01/19,Guarani,2-1,Corinthians
+D,23/01/19,Oeste,0-0,Bragantino
+D,23/01/19,Palmeiras,1-0,Botafogo-SP
+B,24/01/19,São Bento,0-4,Santos
+D,24/01/19,Grêmio Novorizontino,0-3,São Paulo
+D,24/01/19,São Caetano,0-0,Ituano
+C,25/01/19,Mirassol,1-0,Red Bull Brasil
+D,26/01/19,Guarani,1-2,Oeste
+C,26/01/19,Corinthians,1-0,Ponte Preta
+D,27/01/19,Santos,2-0,São Paulo
+B,27/01/19,São Caetano,0-2,Palmeiras
+C,27/01/19,Mirassol,0-0,Grêmio Novorizontino
+C,27/01/19,Red Bull Brasil,1-1,Bragantino
+D,28/01/19,Ituano,2-0,São Bento
+D,28/01/19,Botafogo-SP,1-2,Ferroviária
+C,30/01/19,Corinthians,0-2,Red Bull Brasil
+C,30/01/19,Ponte Preta,3-0,Mirassol
+D,30/01/19,Oeste,0-1,Palmeiras
+D,31/01/19,Grêmio Novorizontino,1-0,Botafogo-SP
+B,31/01/19,São Bento,1-1,São Caetano
+C,31/01/19,Bragantino,1-4,Santos
+D,31/01/19,São Paulo,0-1,Guarani
+D,31/01/19,Ferroviária,2-1,Ituano
+C,02/02/19,Palmeiras,0-1,Corinthians
+C,03/02/19,Mirassol,2-2,Guarani
+D,03/02/19,São Paulo,1-0,São Bento
+D,03/02/19,Ituano,5-1,Santos
+C,03/02/19,Bragantino,2-1,Ponte Preta
+D,04/02/19,Oeste,2-2,Grêmio Novorizontino
+C,04/02/19,Ferroviária,1-2,Red Bull Brasil
+D,05/02/19,Botafogo-SP,3-0,São Caetano
+D,08/02/19,Red Bull Brasil,2-1,Ituano
+C,08/02/19,São Bento,0-0,Ferroviária
+C,09/02/19,Santos,1-0,Mirassol
+D,09/02/19,Ponte Preta,1-0,São Paulo
+D,09/02/19,São Caetano,1-3,Oeste
+C,10/02/19,Grêmio Novorizontino,1-0,Corinthians
+D,10/02/19,Guarani,2-0,Botafogo-SP
+C,11/02/19,Palmeiras,2-0,Bragantino
+D,15/02/19,Ituano,2-0,Mirassol
+D,15/02/19,Red Bull Brasil,3-1,Botafogo-SP
+C,16/02/19,São Caetano,4-4,Bragantino
+B,16/02/19,Grêmio Novorizontino,0-0,Ponte Preta
+C,17/02/19,Ferroviária,0-0,Palmeiras
+D,17/02/19,Corinthians,2-1,São Paulo
+D,18/02/19,Oeste,1-0,São Bento
+B,18/02/19,Santos,3-0,Guarani
+C,22/02/19,Mirassol,2-1,São Bento
+C,22/02/19,Bragantino,1-1,Grêmio Novorizontino
+B,23/02/19,Guarani,2-1,São Caetano
+B,23/02/19,Palmeiras,0-0,Santos
+D,24/02/19,São Paulo,0-0,Red Bull Brasil
+D,24/02/19,Ponte Preta,1-1,Ituano
+D,24/02/19,Botafogo-SP,0-1,Corinthians
+D,25/02/19,Ferroviária,2-1,Oeste
+D,27/02/19,Palmeiras,3-2,Ituano
+C,01/03/19,São Caetano,2-0,Mirassol
+C,01/03/19,Guarani,1-1,Ferroviária
+C,02/03/19,São Bento,1-1,Corinthians
+B,02/03/19,Red Bull Brasil,1-0,Grêmio Novorizontino
+D,02/03/19,Santos,3-2,Oeste
+D,03/03/19,Bragantino,0-2,São Paulo
+D,04/03/19,Ponte Preta,2-1,Botafogo-SP
+D,08/03/19,Botafogo-SP,2-1,Bragantino
+D,08/03/19,Oeste,1-2,Red Bull Brasil
+D,08/03/19,Ituano,2-1,Guarani
+C,09/03/19,Mirassol,1-1,Palmeiras
+D,09/03/19,São Paulo,1-1,Ferroviária
+C,10/03/19,Corinthians,0-0,Santos
+B,10/03/19,São Bento,1-2,Ponte Preta
+B,11/03/19,Grêmio Novorizontino,2-1,São Caetano
+D,15/03/19,Bragantino,0-3,Ituano
+B,15/03/19,Red Bull Brasil,3-2,São Bento
+B,15/03/19,Santos,0-1,Grêmio Novorizontino
+C,15/03/19,Ferroviária,2-0,São Caetano
+D,16/03/19,São Paulo,0-1,Palmeiras
+B,16/03/19,Ponte Preta,3-0,Guarani
+D,17/03/19,Corinthians,1-0,Oeste
+D,17/03/19,Mirassol,1-1,Botafogo-SP
+D,20/03/19,Ituano,0-1,Corinthians
+B,20/03/19,Palmeiras,1-0,Ponte Preta
+D,20/03/19,São Caetano,1-1,São Paulo
+D,20/03/19,Botafogo-SP,4-0,Santos
+D,20/03/19,Oeste,1-1,Mirassol
+B,20/03/19,Guarani,1-2,Red Bull Brasil
+C,20/03/19,Grêmio Novorizontino,1-1,Ferroviária
+C,20/03/19,São Bento,1-0,Bragantino
+QF,23/03/19,Botafogo-SP,1-1,Oeste
+QF,23/03/19,Grêmio Novorizontino,1-1,Palmeiras
+QF,23/03/19,Santos,2-0,Red Bull Brasil
+QF,24/03/19,Bragantino,0-1,Ponte Preta
+QF,24/03/19,São Paulo,2-1,Ituano
+QF,24/03/19,Ferroviária,1-1,Corinthians
+QF,25/03/19,Mirassol,2-0,Guarani
+QF,26/03/19,Red Bull Brasil,0-0,Santos
+QF,26/03/19,Palmeiras,5-0,Grêmio Novorizontino
+QF,27/03/19,Oeste,3-3(4-3 Pen.),Botafogo-SP
+QF,27/03/19,Ituano,0-1,São Paulo
+QF,27/03/19,Ponte Preta,1-1,Bragantino
+QF,27/03/19,Corinthians,1-1(4-3 Pen.),Ferroviária
+QF,28/03/19,Guarani,2-2,Mirassol
+SF,30/03/19,Oeste,2-2,Ponte Preta
+SF,30/03/19,São Paulo,0-0,Palmeiras
+SF,31/03/19,Corinthians,2-1,Santos
+SF,01/04/19,Mirassol,0-1,Red Bull Brasil
+SF,07/04/19,Palmeiras,0-0(4-5 Pen.),São Paulo
+SF,07/04/19,Ponte Preta,2-0,Oeste
+SF,08/04/19,Santos,1-0(6-7 Pen.),Corinthians
+SF,08/04/19,Red Bull Brasil,3-1,Mirassol
+F,14/04/19,São Paulo,0-0,Corinthians
+,15/04/19,Red Bull Brasil,0-0(3-1 Pen.),Ponte Preta
+F,21/04/19,Corinthians,2-1,São Paulo

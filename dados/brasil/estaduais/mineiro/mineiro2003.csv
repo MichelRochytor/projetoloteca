@@ -1,0 +1,57 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,03/02/02,Ipatinga,0-0,Rio Branco de Andradas
+1,03/02/02,Uberlândia,1-0,Nacional Uberaba
+1,03/02/02,URT,1-1,Tupi
+1,03/02/02,Villa Nova-MG,1-1,Caldense
+2,17/02/02,Caldense,3-0,Ipatinga
+2,17/02/02,Nacional Uberaba,1-1,URT
+2,17/02/02,Rio Branco de Andradas,0-1,Villa Nova-MG
+2,17/02/02,Tupi,3-1,Uberlândia
+3,24/02/02,Ipatinga,2-0,Tupi
+3,24/02/02,Rio Branco de Andradas,1-1,URT
+3,24/02/02,Uberlândia,1-2,Caldense
+3,24/02/02,Villa Nova-MG,3-2,Nacional Uberaba
+4,03/03/02,Caldense,3-3,Rio Branco de Andradas
+4,03/03/02,Ipatinga,4-1,Villa Nova-MG
+4,03/03/02,Tupi,2-2,Nacional Uberaba
+4,03/03/02,URT,2-1,Uberlândia
+5,10/03/02,Nacional Uberaba,3-3,Rio Branco de Andradas
+5,10/03/02,Tupi,0-3,Villa Nova-MG
+5,10/03/02,Uberlândia,1-0,Ipatinga
+5,10/03/02,URT,1-0,Caldense
+6,17/03/02,Caldense,1-1,Tupi
+6,17/03/02,Ipatinga,3-1,Nacional Uberaba
+6,17/03/02,Rio Branco de Andradas,1-1,Uberlândia
+6,17/03/02,Villa Nova-MG,0-1,URT
+7,24/03/02,Nacional Uberaba,1-6,Caldense
+7,24/03/02,Tupi,2-1,Rio Branco de Andradas
+7,24/03/02,Uberlândia,0-0,Villa Nova-MG
+7,24/03/02,URT,0-0,Ipatinga
+8,31/03/02,Caldense,5-1,Villa Nova-MG
+8,31/03/02,Nacional Uberaba,2-1,Uberlândia
+8,31/03/02,Rio Branco de Andradas,3-0,Ipatinga
+8,31/03/02,Tupi,4-0,URT
+9,06/04/02,URT,0-0,Nacional Uberaba
+9,07/04/02,Ipatinga,3-1,Caldense
+9,07/04/02,Uberlândia,1-4,Tupi
+9,07/04/02,Villa Nova-MG,3-2,Rio Branco de Andradas
+10,14/04/02,Caldense,2-2,Uberlândia
+10,14/04/02,Nacional Uberaba,1-0,Villa Nova-MG
+10,14/04/02,Tupi,0-0,Ipatinga
+10,14/04/02,URT,0-0,Rio Branco de Andradas
+11,21/04/02,Nacional Uberaba,1-1,Tupi
+11,21/04/02,Rio Branco de Andradas,0-1,Caldense
+11,21/04/02,Uberlândia,2-0,URT
+11,21/04/02,Villa Nova-MG,2-3,Ipatinga
+12,28/04/02,Caldense,2-1,URT
+12,28/04/02,Ipatinga,3-0,Uberlândia
+12,28/04/02,Rio Branco de Andradas,2-0,Nacional Uberaba
+12,28/04/02,Villa Nova-MG,5-0,Tupi
+13,01/05/02,Nacional Uberaba,1-1,Ipatinga
+13,01/05/02,Tupi,2-2,Caldense
+13,01/05/02,Uberlândia,0-1,Rio Branco de Andradas
+13,01/05/02,URT,2-3,Villa Nova-MG
+14,05/05/02,Caldense,2-0,Nacional Uberaba
+14,05/05/02,Ipatinga,2-0,URT
+14,05/05/02,Rio Branco de Andradas,1-2,Tupi
+14,05/05/02,Villa Nova-MG,3-2,Uberlândia

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/08/07,Sunderland,1-0,Tottenham
+1,11/08/07,Bolton,1-3,Newcastle
+1,11/08/07,Derby County,2-2,Portsmouth
+1,11/08/07,Everton,2-1,Wigan Athletic
+1,11/08/07,Middlesbrough,1-2,Blackburn Rovers
+1,11/08/07,West Ham,0-2,Manchester City
+1,11/08/07,Aston Villa,1-2,Liverpool
+1,12/08/07,Arsenal,2-1,Fulham
+1,12/08/07,Chelsea,3-2,Birmingham City
+1,12/08/07,Manchester United,0-0,Reading
+2,14/08/07,Tottenham,1-3,Everton
+2,15/08/07,Birmingham City,2-2,Sunderland
+2,15/08/07,Portsmouth,1-1,Manchester United
+2,15/08/07,Wigan Athletic,1-0,Middlesbrough
+2,15/08/07,Fulham,2-1,Bolton
+2,15/08/07,Manchester City,1-0,Derby County
+2,15/08/07,Reading,1-2,Chelsea
+3,18/08/07,Portsmouth,3-1,Bolton
+3,18/08/07,Birmingham City,0-1,West Ham
+3,18/08/07,Fulham,1-2,Middlesbrough
+3,18/08/07,Reading,1-0,Everton
+3,18/08/07,Tottenham,4-0,Derby County
+3,18/08/07,Wigan Athletic,3-0,Sunderland
+3,18/08/07,Newcastle,0-0,Aston Villa
+3,19/08/07,Manchester City,1-0,Manchester United
+3,19/08/07,Blackburn Rovers,1-1,Arsenal
+3,19/08/07,Liverpool,1-1,Chelsea
+4,25/08/07,Sunderland,0-2,Liverpool
+4,25/08/07,Arsenal,1-0,Manchester City
+4,25/08/07,Aston Villa,2-1,Fulham
+4,25/08/07,Bolton,3-0,Reading
+4,25/08/07,Chelsea,1-0,Portsmouth
+4,25/08/07,Derby County,1-2,Birmingham City
+4,25/08/07,West Ham,1-1,Wigan Athletic
+4,25/08/07,Everton,1-1,Blackburn Rovers
+4,26/08/07,Middlesbrough,2-2,Newcastle
+4,26/08/07,Manchester United,1-0,Tottenham
+5,01/09/07,Bolton,1-2,Everton
+5,01/09/07,Fulham,3-3,Tottenham
+5,01/09/07,Liverpool,6-0,Derby County
+5,01/09/07,Middlesbrough,2-0,Birmingham City
+5,01/09/07,Newcastle,1-0,Wigan Athletic
+5,01/09/07,Reading,0-3,West Ham
+5,01/09/07,Manchester United,1-0,Sunderland
+5,02/09/07,Arsenal,3-1,Portsmouth
+5,02/09/07,Blackburn Rovers,1-0,Manchester City
+5,02/09/07,Aston Villa,2-0,Chelsea
+6,15/09/07,Everton,0-1,Manchester United
+6,15/09/07,Portsmouth,0-0,Liverpool
+6,15/09/07,Tottenham,1-3,Arsenal
+6,15/09/07,Birmingham City,1-0,Bolton
+6,15/09/07,Sunderland,2-1,Reading
+6,15/09/07,West Ham,3-0,Middlesbrough
+6,15/09/07,Wigan Athletic,1-1,Fulham
+6,15/09/07,Chelsea,0-0,Blackburn Rovers
+6,16/09/07,Manchester City,1-0,Aston Villa
+6,17/09/07,Derby County,1-0,Newcastle
+7,22/09/07,Arsenal,5-0,Derby County
+7,22/09/07,Liverpool,0-0,Birmingham City
+7,22/09/07,Middlesbrough,2-2,Sunderland
+7,22/09/07,Reading,2-1,Wigan Athletic
+7,22/09/07,Fulham,3-3,Manchester City
+7,23/09/07,Newcastle,3-1,West Ham
+7,23/09/07,Aston Villa,2-0,Everton
+7,23/09/07,Blackburn Rovers,0-1,Portsmouth
+7,23/09/07,Bolton,1-1,Tottenham
+7,23/09/07,Manchester United,2-0,Chelsea
+8,29/09/07,Manchester City,3-1,Newcastle
+8,29/09/07,Chelsea,0-0,Fulham
+8,29/09/07,Derby County,1-1,Bolton
+8,29/09/07,Portsmouth,7-4,Reading
+8,29/09/07,Sunderland,1-2,Blackburn Rovers
+8,29/09/07,West Ham,0-1,Arsenal
+8,29/09/07,Wigan Athletic,0-1,Liverpool
+8,29/09/07,Birmingham City,0-1,Manchester United
+8,30/09/07,Everton,2-0,Middlesbrough
+8,01/10/07,Tottenham,4-4,Aston Villa
+9,06/10/07,Manchester United,4-0,Wigan Athletic
+9,06/10/07,Aston Villa,1-0,West Ham
+9,07/10/07,Arsenal,3-2,Sunderland
+9,07/10/07,Reading,1-0,Derby County
+9,07/10/07,Blackburn Rovers,2-1,Birmingham City
+9,07/10/07,Bolton,0-1,Chelsea
+9,07/10/07,Liverpool,2-2,Tottenham
+9,07/10/07,Newcastle,3-2,Everton
+9,07/10/07,Manchester City,3-1,Middlesbrough
+9,07/10/07,Fulham,0-2,Portsmouth
+10,20/10/07,Everton,1-2,Liverpool
+10,20/10/07,Arsenal,2-0,Bolton
+10,20/10/07,Blackburn Rovers,4-2,Reading
+10,20/10/07,Fulham,0-0,Derby County
+10,20/10/07,Manchester City,1-0,Birmingham City
+10,20/10/07,Middlesbrough,0-2,Chelsea
+10,20/10/07,Wigan Athletic,0-2,Portsmouth
+10,20/10/07,Aston Villa,1-4,Manchester United
+10,21/10/07,West Ham,3-1,Sunderland
+10,22/10/07,Newcastle,3-1,Tottenham
+11,27/10/07,Birmingham City,3-2,Wigan Athletic
+11,27/10/07,Chelsea,6-0,Manchester City
+11,27/10/07,Manchester United,4-1,Middlesbrough
+11,27/10/07,Reading,2-1,Newcastle
+11,27/10/07,Sunderland,1-1,Fulham
+11,27/10/07,Portsmouth,0-0,West Ham
+11,28/10/07,Bolton,1-1,Aston Villa
+11,28/10/07,Derby County,0-2,Everton
+11,28/10/07,Tottenham,1-2,Blackburn Rovers
+11,28/10/07,Liverpool,1-1,Arsenal
+12,03/11/07,Arsenal,2-2,Manchester United
+12,03/11/07,Aston Villa,2-0,Derby County
+12,03/11/07,Everton,3-1,Birmingham City
+12,03/11/07,Fulham,3-1,Reading
+12,03/11/07,Middlesbrough,1-1,Tottenham
+12,03/11/07,Newcastle,1-4,Portsmouth
+12,03/11/07,Wigan Athletic,0-2,Chelsea
+12,03/11/07,Blackburn Rovers,0-0,Liverpool
+12,04/11/07,West Ham,1-1,Bolton
+12,05/11/07,Manchester City,1-0,Sunderland
+13,10/11/07,Sunderland,1-1,Newcastle
+13,10/11/07,Derby County,0-5,West Ham
+13,10/11/07,Liverpool,2-0,Fulham
+13,11/11/07,Birmingham City,1-2,Aston Villa
+13,11/11/07,Chelsea,1-1,Everton
+13,11/11/07,Bolton,0-0,Middlesbrough
+13,11/11/07,Manchester United,2-0,Blackburn Rovers
+13,11/11/07,Tottenham,4-0,Wigan Athletic
+13,11/11/07,Portsmouth,0-0,Manchester City
+13,12/11/07,Reading,1-3,Arsenal
+14,24/11/07,Newcastle,0-3,Liverpool
+14,24/11/07,Arsenal,2-0,Wigan Athletic
+14,24/11/07,Birmingham City,0-2,Portsmouth
+14,24/11/07,Bolton,1-0,Manchester United
+14,24/11/07,Everton,7-1,Sunderland
+14,24/11/07,Manchester City,2-1,Reading
+14,24/11/07,Middlesbrough,0-3,Aston Villa
+14,24/11/07,Derby County,0-2,Chelsea
+14,25/11/07,West Ham,1-1,Tottenham
+14,25/11/07,Fulham,2-2,Blackburn Rovers
+2,28/11/07,Blackburn Rovers,0-4,Aston Villa
+15,01/12/07,Chelsea,1-0,West Ham
+15,01/12/07,Blackburn Rovers,3-1,Newcastle
+15,01/12/07,Portsmouth,0-0,Everton
+15,01/12/07,Reading,1-1,Middlesbrough
+15,01/12/07,Sunderland,1-0,Derby County
+15,01/12/07,Wigan Athletic,1-1,Manchester City
+15,01/12/07,Aston Villa,1-2,Arsenal
+15,02/12/07,Liverpool,4-0,Bolton
+15,02/12/07,Tottenham,2-3,Birmingham City
+15,03/12/07,Manchester United,2-0,Fulham
+2,05/12/07,Newcastle,1-1,Arsenal
+16,08/12/07,Aston Villa,1-3,Portsmouth
+16,08/12/07,Chelsea,2-0,Sunderland
+16,08/12/07,Everton,3-0,Fulham
+16,08/12/07,Manchester United,4-1,Derby County
+16,08/12/07,Newcastle,2-1,Birmingham City
+16,08/12/07,Reading,3-1,Liverpool
+16,09/12/07,Middlesbrough,2-1,Arsenal
+16,09/12/07,Bolton,4-1,Wigan Athletic
+16,09/12/07,Tottenham,2-1,Manchester City
+16,09/12/07,Blackburn Rovers,0-1,West Ham
+17,15/12/07,Birmingham City,1-1,Reading
+17,15/12/07,Derby County,0-1,Middlesbrough
+17,15/12/07,Manchester City,4-2,Bolton
+17,15/12/07,Portsmouth,0-1,Tottenham
+17,15/12/07,Sunderland,1-1,Aston Villa
+17,15/12/07,West Ham,0-2,Everton
+17,15/12/07,Wigan Athletic,5-3,Blackburn Rovers
+17,15/12/07,Fulham,0-1,Newcastle
+17,16/12/07,Liverpool,0-1,Manchester United
+17,16/12/07,Arsenal,1-0,Chelsea
+18,22/12/07,Arsenal,2-1,Tottenham
+18,22/12/07,Aston Villa,1-1,Manchester City
+18,22/12/07,Bolton,3-0,Birmingham City
+18,22/12/07,Fulham,1-1,Wigan Athletic
+18,22/12/07,Liverpool,4-1,Portsmouth
+18,22/12/07,Middlesbrough,1-2,West Ham
+18,22/12/07,Reading,2-1,Sunderland
+18,23/12/07,Manchester United,2-1,Everton
+18,23/12/07,Newcastle,2-2,Derby County
+18,23/12/07,Blackburn Rovers,0-1,Chelsea
+19,26/12/07,Chelsea,4-4,Aston Villa
+19,26/12/07,Tottenham,5-1,Fulham
+19,26/12/07,West Ham,1-1,Reading
+19,26/12/07,Birmingham City,3-0,Middlesbrough
+19,26/12/07,Derby County,1-2,Liverpool
+19,26/12/07,Everton,2-0,Bolton
+19,26/12/07,Sunderland,0-4,Manchester United
+19,26/12/07,Wigan Athletic,1-0,Newcastle
+19,26/12/07,Portsmouth,0-0,Arsenal
+19,27/12/07,Manchester City,2-2,Blackburn Rovers
+20,29/12/07,Birmingham City,1-1,Fulham
+20,29/12/07,Chelsea,2-1,Newcastle
+20,29/12/07,Portsmouth,0-1,Middlesbrough
+20,29/12/07,Sunderland,3-1,Bolton
+20,29/12/07,Tottenham,6-4,Reading
+20,29/12/07,West Ham,2-1,Manchester United
+20,29/12/07,Wigan Athletic,1-2,Aston Villa
+20,29/12/07,Everton,1-4,Arsenal
+20,30/12/07,Derby County,1-2,Blackburn Rovers
+20,30/12/07,Manchester City,0-0,Liverpool
+21,01/01/08,Fulham,1-2,Chelsea
+21,01/01/08,Arsenal,2-0,West Ham
+21,01/01/08,Manchester United,1-0,Birmingham City
+21,01/01/08,Middlesbrough,0-2,Everton
+21,01/01/08,Reading,0-2,Portsmouth
+21,01/01/08,Aston Villa,2-1,Tottenham
+21,02/01/08,Newcastle,0-2,Manchester City
+21,02/01/08,Blackburn Rovers,1-0,Sunderland
+21,02/01/08,Bolton,1-0,Derby County
+21,02/01/08,Liverpool,1-1,Wigan Athletic
+22,12/01/08,Arsenal,1-1,Birmingham City
+22,12/01/08,Aston Villa,3-1,Reading
+22,12/01/08,Chelsea,2-0,Tottenham
+22,12/01/08,Derby County,0-1,Wigan Athletic
+22,12/01/08,Everton,1-0,Manchester City
+22,12/01/08,Middlesbrough,1-1,Liverpool
+22,12/01/08,West Ham,2-1,Fulham
+22,12/01/08,Manchester United,6-0,Newcastle
+22,13/01/08,Sunderland,2-0,Portsmouth
+22,13/01/08,Bolton,1-2,Blackburn Rovers
+23,19/01/08,Birmingham City,0-1,Chelsea
+23,19/01/08,Blackburn Rovers,1-1,Middlesbrough
+23,19/01/08,Fulham,0-3,Arsenal
+23,19/01/08,Portsmouth,3-1,Derby County
+23,19/01/08,Reading,0-2,Manchester United
+23,19/01/08,Tottenham,2-0,Sunderland
+23,19/01/08,Newcastle,0-0,Bolton
+23,20/01/08,Wigan Athletic,1-2,Everton
+23,20/01/08,Manchester City,1-1,West Ham
+23,21/01/08,Liverpool,2-2,Aston Villa
+24,26/01/08,Aston Villa,1-1,Blackburn Rovers
+24,29/01/08,Arsenal,3-0,Newcastle
+24,29/01/08,Bolton,0-0,Fulham
+24,29/01/08,Middlesbrough,1-0,Wigan Athletic
+24,29/01/08,Sunderland,2-0,Birmingham City
+24,30/01/08,Derby County,1-1,Manchester City
+24,30/01/08,West Ham,1-0,Liverpool
+24,30/01/08,Chelsea,1-0,Reading
+24,30/01/08,Everton,0-0,Tottenham
+24,30/01/08,Manchester United,2-0,Portsmouth
+25,02/02/08,Manchester City,1-3,Arsenal
+25,02/02/08,Birmingham City,1-1,Derby County
+25,02/02/08,Blackburn Rovers,0-0,Everton
+25,02/02/08,Portsmouth,1-1,Chelsea
+25,02/02/08,Reading,0-2,Bolton
+25,02/02/08,Tottenham,1-1,Manchester United
+25,02/02/08,Wigan Athletic,1-0,West Ham
+25,02/02/08,Liverpool,3-0,Sunderland
+25,03/02/08,Newcastle,1-1,Middlesbrough
+25,03/02/08,Fulham,2-1,Aston Villa
+26,09/02/08,Aston Villa,4-1,Newcastle
+26,09/02/08,Bolton,0-1,Portsmouth
+26,09/02/08,Derby County,0-3,Tottenham
+26,09/02/08,Everton,1-0,Reading
+26,09/02/08,Middlesbrough,1-0,Fulham
+26,09/02/08,Sunderland,2-0,Wigan Athletic
+26,09/02/08,West Ham,1-1,Birmingham City
+26,10/02/08,Manchester United,1-2,Manchester City
+26,10/02/08,Chelsea,0-0,Liverpool
+26,11/02/08,Arsenal,2-0,Blackburn Rovers
+27,23/02/08,Birmingham City,2-2,Arsenal
+27,23/02/08,Fulham,0-1,West Ham
+27,23/02/08,Liverpool,3-2,Middlesbrough
+27,23/02/08,Portsmouth,1-0,Sunderland
+27,23/02/08,Wigan Athletic,2-0,Derby County
+27,23/02/08,Newcastle,1-5,Manchester United
+27,24/02/08,Reading,1-2,Aston Villa
+27,24/02/08,Blackburn Rovers,4-1,Bolton
+27,25/02/08,Manchester City,0-2,Everton
+28,01/03/08,Arsenal,1-1,Aston Villa
+28,01/03/08,Birmingham City,4-1,Tottenham
+28,01/03/08,Derby County,0-0,Sunderland
+28,01/03/08,Fulham,0-3,Manchester United
+28,01/03/08,Middlesbrough,0-1,Reading
+28,01/03/08,Newcastle,0-1,Blackburn Rovers
+28,01/03/08,West Ham,0-4,Chelsea
+28,01/03/08,Manchester City,0-0,Wigan Athletic
+28,02/03/08,Bolton,1-3,Liverpool
+28,02/03/08,Everton,3-1,Portsmouth
+2,05/03/08,Liverpool,4-0,West Ham
+29,08/03/08,Blackburn Rovers,1-1,Fulham
+29,08/03/08,Liverpool,3-0,Newcastle
+29,08/03/08,Reading,2-0,Manchester City
+29,09/03/08,Sunderland,0-1,Everton
+29,09/03/08,Tottenham,4-0,West Ham
+29,09/03/08,Wigan Athletic,0-0,Arsenal
+29,12/03/08,Aston Villa,1-1,Middlesbrough
+29,12/03/08,Portsmouth,4-2,Birmingham City
+29,12/03/08,Chelsea,6-1,Derby County
+30,15/03/08,Derby County,0-1,Manchester United
+30,15/03/08,Liverpool,2-1,Reading
+30,15/03/08,Portsmouth,2-0,Aston Villa
+30,15/03/08,Sunderland,0-1,Chelsea
+30,15/03/08,West Ham,2-1,Blackburn Rovers
+30,15/03/08,Arsenal,1-1,Middlesbrough
+30,16/03/08,Fulham,1-0,Everton
+30,16/03/08,Wigan Athletic,1-0,Bolton
+30,16/03/08,Manchester City,2-1,Tottenham
+30,17/03/08,Birmingham City,1-1,Newcastle
+27,19/03/08,Tottenham,4-4,Chelsea
+29,19/03/08,Manchester United,2-0,Bolton

@@ -1,0 +1,117 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,11/01/06,Passo Fundo,1-3,Gaúcho
+A,11/01/06,15 de Novembro,1-0,Caxias
+B,11/01/06,Veranópolis,1-4,Grêmio
+B,11/01/06,Esportivo,2-0,Santa Cruz-RS
+B,11/01/06,São Luiz,1-1,Farroupilha
+C,11/01/06,Grêmio São José,2-1,Glória
+C,11/01/06,GE Brasil,0-2,São José-RS
+A,15/01/06,Gaúcho,2-2,Ulbra
+A,15/01/06,Caxias,0-2,Passo Fundo
+B,15/01/06,Santa Cruz-RS,2-3,Grêmio
+B,15/01/06,Farroupilha,1-3,Esportivo
+B,15/01/06,Veranópolis,2-0,São Luiz
+C,15/01/06,Glória,1-0,GE Brasil
+C,15/01/06,Novo Hamburgo,1-0,Grêmio São José
+A,18/01/06,Ulbra,0-1,Caxias
+A,18/01/06,Passo Fundo,2-1,15 de Novembro
+B,18/01/06,Santa Cruz-RS,1-0,Farroupilha
+B,18/01/06,Esportivo,1-2,Veranópolis
+B,18/01/06,São Luiz,1-2,Grêmio
+C,18/01/06,Novo Hamburgo,1-3,São José-RS
+C,18/01/06,GE Brasil,1-2,Grêmio São José
+C,18/01/06,Juventude,0-1,Glória
+A,19/01/06,Internacional,3-1,Gaúcho
+A,22/01/06,Caxias,2-3,Gaúcho
+A,22/01/06,Passo Fundo,3-4,Internacional
+A,22/01/06,15 de Novembro,0-3,Ulbra
+B,22/01/06,Veranópolis,2-0,Farroupilha
+B,22/01/06,Grêmio,3-1,Esportivo
+C,22/01/06,Glória,3-2,São José-RS
+C,22/01/06,GE Brasil,1-2,Novo Hamburgo
+C,22/01/06,Grêmio São José,0-2,Juventude
+B,24/01/06,São Luiz,0-1,Santa Cruz-RS
+A,25/01/06,Ulbra,1-0,Internacional
+C,25/01/06,Juventude,3-2,Novo Hamburgo
+C,27/01/06,São José-RS,1-2,Juventude
+A,28/01/06,Gaúcho,1-0,15 de Novembro
+A,28/01/06,Internacional,2-0,Caxias
+A,29/01/06,Ulbra,5-0,Passo Fundo
+B,29/01/06,Farroupilha,0-0,Grêmio
+B,29/01/06,Santa Cruz-RS,3-1,Veranópolis
+B,29/01/06,Esportivo,3-0,São Luiz
+C,29/01/06,São José-RS,1-0,Grêmio São José
+C,29/01/06,Juventude,2-1,GE Brasil
+C,30/01/06,Novo Hamburgo,2-2,Glória
+A,31/01/06,Internacional,1-0,15 de Novembro
+B,01/02/06,Grêmio,1-2,Farroupilha
+B,01/02/06,Veranópolis,2-1,Santa Cruz-RS
+C,01/02/06,GE Brasil,2-2,Juventude
+A,02/02/06,Passo Fundo,2-2,Ulbra
+A,02/02/06,Caxias,1-1,Internacional
+A,02/02/06,15 de Novembro,2-0,Gaúcho
+B,02/02/06,São Luiz,1-1,Esportivo
+C,02/02/06,Grêmio São José,1-3,São José-RS
+C,02/02/06,Glória,1-2,Novo Hamburgo
+A,05/02/06,Ulbra,1-4,15 de Novembro
+A,05/02/06,Internacional,4-0,Passo Fundo
+A,05/02/06,Gaúcho,0-1,Caxias
+B,05/02/06,Esportivo,2-2,Grêmio
+B,05/02/06,Santa Cruz-RS,1-0,São Luiz
+B,05/02/06,Farroupilha,3-0,Veranópolis
+C,05/02/06,São José-RS,1-1,Glória
+C,05/02/06,Novo Hamburgo,4-3,GE Brasil
+C,05/02/06,Juventude,1-1,Grêmio São José
+A,08/02/06,Caxias,1-0,Ulbra
+A,08/02/06,15 de Novembro,3-2,Passo Fundo
+A,08/02/06,Gaúcho,0-2,Internacional
+B,08/02/06,Veranópolis,2-1,Esportivo
+B,08/02/06,Grêmio,1-0,São Luiz
+B,08/02/06,Farroupilha,1-1,Santa Cruz-RS
+C,08/02/06,São José-RS,1-0,Novo Hamburgo
+C,08/02/06,Glória,1-3,Juventude
+C,08/02/06,Grêmio São José,3-1,GE Brasil
+A,12/02/06,15 de Novembro,0-0,Internacional
+A,12/02/06,Passo Fundo,1-2,Caxias
+A,12/02/06,Ulbra,3-0,Gaúcho
+B,12/02/06,Esportivo,1-3,Farroupilha
+B,12/02/06,Grêmio,2-1,Santa Cruz-RS
+C,12/02/06,GE Brasil,3-1,Glória
+C,12/02/06,Grêmio São José,2-1,Novo Hamburgo
+C,12/02/06,Juventude,2-2,São José-RS
+B,13/02/06,São Luiz,4-3,Veranópolis
+C,18/02/06,São José-RS,0-1,GE Brasil
+A,19/02/06,Internacional,3-1,Ulbra
+A,19/02/06,Gaúcho,2-0,Passo Fundo
+A,19/02/06,Caxias,1-0,15 de Novembro
+B,19/02/06,Farroupilha,3-1,São Luiz
+B,19/02/06,Santa Cruz-RS,3-2,Esportivo
+B,19/02/06,Grêmio,3-1,Veranópolis
+C,19/02/06,Novo Hamburgo,4-0,Juventude
+C,19/02/06,Glória,0-4,Grêmio São José
+A,25/02/06,Caxias,3-2,Novo Hamburgo
+B,25/02/06,Veranópolis,2-3,Grêmio
+B,25/02/06,Santa Cruz-RS,0-1,Juventude
+A,26/02/06,Internacional,4-1,São José-RS
+A,01/03/06,São José-RS,1-1,Caxias
+A,01/03/06,Novo Hamburgo,1-2,Internacional
+B,02/03/06,Juventude,2-0,Veranópolis
+B,02/03/06,Grêmio,3-0,Santa Cruz-RS
+A,04/03/06,Internacional,2-1,Caxias
+A,05/03/06,Novo Hamburgo,1-0,São José-RS
+B,05/03/06,Veranópolis,5-0,Santa Cruz-RS
+B,05/03/06,Juventude,1-2,Grêmio
+B,11/03/06,Santa Cruz-RS,0-0,Veranópolis
+B,11/03/06,Grêmio,2-2,Juventude
+A,12/03/06,São José-RS,1-0,Novo Hamburgo
+A,12/03/06,Caxias,0-3,Internacional
+A,18/03/06,Internacional,1-0,Novo Hamburgo
+B,18/03/06,Veranópolis,1-1,Juventude
+A,19/03/06,Caxias,3-2,São José-RS
+B,19/03/06,Santa Cruz-RS,1-1,Grêmio
+A,26/03/06,São José-RS,2-6,Internacional
+A,26/03/06,Novo Hamburgo,1-1,Caxias
+B,26/03/06,Juventude,1-1,Santa Cruz-RS
+B,26/03/06,Grêmio,2-0,Veranópolis
+F,01/04/06,Grêmio,0-0,Internacional
+F,09/04/06,Internacional,1-1,Grêmio

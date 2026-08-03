@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/09/13,Manchester United,4-2,Bayer Leverkusen
+A,17/09/13,Real Sociedad,0-2,Shakhtar Donetsk
+B,17/09/13,Galatasaray,1-6,Real Madrid
+B,17/09/13,FC Kobenhavn,1-1,Juventus
+C,17/09/13,Olympiacos,1-4,PSG
+C,17/09/13,Benfica,2-0,Anderlecht
+D,17/09/13,Bayern München,3-0,CSKA Moskva
+D,17/09/13,Viktoria Plzeň,0-3,Manchester City
+E,18/09/13,Chelsea,1-2,FC Basel
+E,18/09/13,Schalke 04,3-0,FCSB
+F,18/09/13,Marseille,1-2,Arsenal
+F,18/09/13,Napoli,2-1,Borussia Dortmund
+G,18/09/13,Atlético de Madrid,3-1,Zenit
+G,18/09/13,Austria Wien,0-1,FC Porto
+H,18/09/13,Barcelona,4-0,Ajax
+H,18/09/13,Milan,2-0,Celtic
+G,01/10/13,Zenit,0-0,Austria Wien
+E,01/10/13,FC Basel,0-1,Schalke 04
+E,01/10/13,FCSB,0-4,Chelsea
+F,01/10/13,Borussia Dortmund,3-0,Marseille
+F,01/10/13,Arsenal,2-0,Napoli
+G,01/10/13,FC Porto,1-2,Atlético de Madrid
+H,01/10/13,Ajax,1-1,Milan
+H,01/10/13,Celtic,0-1,Barcelona
+D,02/10/13,CSKA Moskva,3-2,Viktoria Plzeň
+A,02/10/13,Shakhtar Donetsk,1-1,Manchester United
+A,02/10/13,Bayer Leverkusen,2-1,Real Sociedad
+B,02/10/13,Juventus,2-2,Galatasaray
+B,02/10/13,Real Madrid,4-0,FC Kobenhavn
+C,02/10/13,PSG,3-0,Benfica
+C,02/10/13,Anderlecht,0-3,Olympiacos
+D,02/10/13,Manchester City,1-3,Bayern München
+E,22/10/13,Schalke 04,0-3,Chelsea
+E,22/10/13,FCSB,1-1,FC Basel
+F,22/10/13,Arsenal,1-2,Borussia Dortmund
+F,22/10/13,Marseille,1-2,Napoli
+G,22/10/13,FC Porto,0-1,Zenit
+G,22/10/13,Austria Wien,0-3,Atlético de Madrid
+H,22/10/13,Milan,1-1,Barcelona
+H,22/10/13,Celtic,2-1,Ajax
+D,23/10/13,CSKA Moskva,1-2,Manchester City
+A,23/10/13,Bayer Leverkusen,4-0,Shakhtar Donetsk
+A,23/10/13,Manchester United,1-0,Real Sociedad
+B,23/10/13,Real Madrid,2-1,Juventus
+B,23/10/13,Galatasaray,3-1,FC Kobenhavn
+C,23/10/13,Anderlecht,0-5,PSG
+C,23/10/13,Benfica,1-1,Olympiacos
+D,23/10/13,Bayern München,5-0,Viktoria Plzeň
+A,05/11/13,Shakhtar Donetsk,0-0,Bayer Leverkusen
+A,05/11/13,Real Sociedad,0-0,Manchester United
+B,05/11/13,Juventus,2-2,Real Madrid
+B,05/11/13,FC Kobenhavn,1-0,Galatasaray
+C,05/11/13,PSG,1-1,Anderlecht
+C,05/11/13,Olympiacos,1-0,Benfica
+D,05/11/13,Manchester City,5-2,CSKA Moskva
+D,05/11/13,Viktoria Plzeň,0-1,Bayern München
+G,06/11/13,Zenit,1-1,FC Porto
+E,06/11/13,Chelsea,3-0,Schalke 04
+E,06/11/13,FC Basel,1-1,FCSB
+F,06/11/13,Borussia Dortmund,0-1,Arsenal
+F,06/11/13,Napoli,3-2,Marseille
+G,06/11/13,Atlético de Madrid,4-0,Austria Wien
+H,06/11/13,Barcelona,3-1,Milan
+H,06/11/13,Ajax,1-0,Celtic
+G,26/11/13,Zenit,1-1,Atlético de Madrid
+E,26/11/13,FC Basel,1-0,Chelsea
+E,26/11/13,FCSB,0-0,Schalke 04
+F,26/11/13,Arsenal,2-0,Marseille
+F,26/11/13,Borussia Dortmund,3-1,Napoli
+G,26/11/13,FC Porto,1-1,Austria Wien
+H,26/11/13,Ajax,2-1,Barcelona
+H,26/11/13,Celtic,0-3,Milan
+D,27/11/13,CSKA Moskva,1-3,Bayern München
+A,27/11/13,Bayer Leverkusen,0-5,Manchester United
+A,27/11/13,Shakhtar Donetsk,4-0,Real Sociedad
+B,27/11/13,Real Madrid,4-1,Galatasaray
+B,27/11/13,Juventus,3-1,FC Kobenhavn
+C,27/11/13,PSG,2-1,Olympiacos
+C,27/11/13,Anderlecht,2-3,Benfica
+D,27/11/13,Manchester City,4-2,Viktoria Plzeň
+A,10/12/13,Manchester United,1-0,Shakhtar Donetsk
+A,10/12/13,Real Sociedad,0-1,Bayer Leverkusen
+B,10/12/13,FC Kobenhavn,0-2,Real Madrid
+C,10/12/13,Benfica,2-1,PSG
+C,10/12/13,Olympiacos,3-1,Anderlecht
+D,10/12/13,Bayern München,2-3,Manchester City
+D,10/12/13,Viktoria Plzeň,2-1,CSKA Moskva
+B,11/12/13,Galatasaray,1-0,Juventus
+E,11/12/13,Schalke 04,2-0,FC Basel
+E,11/12/13,Chelsea,1-0,FCSB
+F,11/12/13,Marseille,1-2,Borussia Dortmund
+F,11/12/13,Napoli,2-0,Arsenal
+G,11/12/13,Atlético de Madrid,2-0,FC Porto
+G,11/12/13,Austria Wien,4-1,Zenit
+H,11/12/13,Milan,0-0,Ajax
+H,11/12/13,Barcelona,6-1,Celtic
+1/8,18/02/14,Manchester City,0-2,Barcelona
+1/8,18/02/14,Bayer Leverkusen,0-4,PSG
+1/8,19/02/14,Milan,0-1,Atlético de Madrid
+1/8,19/02/14,Arsenal,0-2,Bayern München
+1/8,25/02/14,Zenit,2-4,Borussia Dortmund
+1/8,25/02/14,Olympiacos,2-0,Manchester United
+1/8,26/02/14,Galatasaray,1-1,Chelsea
+1/8,26/02/14,Schalke 04,1-6,Real Madrid
+1/8,11/03/14,Atlético de Madrid,4-1,Milan
+1/8,11/03/14,Bayern München,1-1,Arsenal
+1/8,12/03/14,Barcelona,2-1,Manchester City
+1/8,12/03/14,PSG,2-1,Bayer Leverkusen
+1/8,18/03/14,Chelsea,2-0,Galatasaray
+1/8,18/03/14,Real Madrid,3-1,Schalke 04
+1/8,19/03/14,Manchester United,3-0,Olympiacos
+1/8,19/03/14,Borussia Dortmund,1-2,Zenit
+QF,01/04/14,Barcelona,1-1,Atlético de Madrid
+QF,01/04/14,Manchester United,1-1,Bayern München
+QF,02/04/14,Real Madrid,3-0,Borussia Dortmund
+QF,02/04/14,PSG,3-1,Chelsea
+QF,08/04/14,Borussia Dortmund,2-0,Real Madrid
+QF,08/04/14,Chelsea,2-0,PSG
+QF,09/04/14,Atlético de Madrid,1-0,Barcelona
+QF,09/04/14,Bayern München,3-1,Manchester United
+SF,22/04/14,Atlético de Madrid,0-0,Chelsea
+SF,23/04/14,Real Madrid,1-0,Bayern München
+SF,29/04/14,Bayern München,0-4,Real Madrid
+SF,30/04/14,Chelsea,1-3,Atlético de Madrid
+F,24/05/14,Real Madrid,4-1(Pro.),Atlético de Madrid

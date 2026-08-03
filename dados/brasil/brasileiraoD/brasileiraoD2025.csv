@@ -1,0 +1,511 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+4,19/04/25,Lagarto-SE,2-1,União Atlético
+7,19/04/25,Cianorte,1-0,Operário-MS
+7,19/04/25,Monte Azul,0-1,Itabirito FC
+3,19/04/25,Santa Cruz de Natal,1-0,Sousa
+6,19/04/25,Porto Vitória,1-1,Nova Iguaçu
+8,19/04/25,Joinville,1-0,Guarany de Bagé
+1,19/04/25,Manauara EC,1-1,Independência-AC
+2,19/04/25,Maranhão,1-1,Altos
+2,19/04/25,Tocantinópolis,2-2,Maracanã
+5,19/04/25,Goiânia,0-1,Luverdense
+6,19/04/25,Boavista-RJ,2-2,Portuguesa
+6,19/04/25,Maricá,2-0,Rio Branco-ES
+8,19/04/25,São Luiz,1-2,Azuriz Futebol
+3,19/04/25,Horizonte,0-0,América-RN
+2,19/04/25,Iguatu,1-0,Sampaio Corrêa
+7,19/04/25,Uberlândia,1-1,FC Cascavel
+8,19/04/25,Marcílio Dias,0-0,São José-RS
+6,19/04/25,EC Água Santa,2-3,Pouso Alegre
+5,19/04/25,Capital CF,0-1,Aparecidense
+1,19/04/25,SC Humaitá,0-3,Tuna Luso
+8,19/04/25,GE Brasil,1-0,Barra-SC
+5,20/04/25,Goianésia,1-2,Ceilândia
+7,20/04/25,Goiatuba EC,1-3,Inter de Limeira
+1,20/04/25,Trem,1-1,Manaus FC
+2,20/04/25,Parnahyba,0-0,Imperatriz
+4,20/04/25,Jequié,1-0,Sergipe
+4,20/04/25,Juazeirense,0-3,ASA
+4,20/04/25,Penedense,0-0,Barcelona de Ilhéus
+3,20/04/25,Central,2-1,Ferroviário
+3,20/04/25,Treze,0-1,Santa Cruz
+1,20/04/25,Águia,1-0,GAS
+5,20/04/25,Mixto,4-3,Gazin Porto Velho EC
+4,26/04/25,Barcelona de Ilhéus,2-2,Lagarto-SE
+6,26/04/25,Rio Branco-ES,2-0,Boavista-RJ
+2,26/04/25,Sampaio Corrêa,1-0,Parnahyba
+2,26/04/25,Altos,1-1,Tocantinópolis
+2,26/04/25,Maracanã,0-0,Maranhão
+5,26/04/25,Aparecidense,0-0,Mixto
+6,26/04/25,Nova Iguaçu,1-2,EC Água Santa
+1,26/04/25,Manaus FC,4-0,SC Humaitá
+3,26/04/25,América-RN,4-0,Treze
+5,26/04/25,Luverdense,1-0,Goianésia
+5,26/04/25,Ceilândia,1-0,Goiânia
+4,26/04/25,União Atlético,1-1,Penedense
+4,26/04/25,ASA,4-2,Jequié
+3,26/04/25,Ferroviário,3-1,Santa Cruz de Natal
+5,26/04/25,Gazin Porto Velho EC,0-1,Capital CF
+6,26/04/25,Portuguesa,2-1,Maricá
+6,26/04/25,Pouso Alegre,1-1,Porto Vitória
+7,26/04/25,Inter de Limeira,1-0,Uberlândia
+7,26/04/25,FC Cascavel,1-4,Goiatuba EC
+1,26/04/25,GAS,1-2,Manauara EC
+8,26/04/25,Barra-SC,3-0,São Luiz
+8,26/04/25,Azuriz Futebol,1-0,GE Brasil
+7,26/04/25,Itabirito FC,2-2,Cianorte
+7,26/04/25,Operário-MS,1-1,Monte Azul
+2,26/04/25,Imperatriz,2-1,Iguatu
+1,27/04/25,Tuna Luso,4-2,Trem
+8,27/04/25,Guarany de Bagé,3-3,Marcílio Dias
+3,27/04/25,Sousa,0-0,Central
+1,27/04/25,Independência-AC,0-2,Águia
+4,27/04/25,Sergipe,0-0,Juazeirense
+3,27/04/25,Santa Cruz,4-0,Horizonte
+8,27/04/25,São José-RS,1-1,Joinville
+4,03/05/25,Lagarto-SE,0-3,Sergipe
+3,03/05/25,Santa Cruz de Natal,0-0,Santa Cruz
+7,03/05/25,Cianorte,3-0,FC Cascavel
+6,03/05/25,Rio Branco-ES,2-0,Porto Vitória
+1,03/05/25,Manauara EC,3-0,Tuna Luso
+2,03/05/25,Maranhão,3-0,Imperatriz
+2,03/05/25,Tocantinópolis,0-0,Sampaio Corrêa
+5,03/05/25,Goiânia,2-0,Gazin Porto Velho EC
+6,03/05/25,Boavista-RJ,1-0,Pouso Alegre
+6,03/05/25,Maricá,1-1,Nova Iguaçu
+8,03/05/25,São Luiz,1-0,Guarany de Bagé
+8,03/05/25,Joinville,1-0,Azuriz Futebol
+5,03/05/25,Ceilândia,1-0,Capital CF
+1,03/05/25,Águia,1-1,Manaus FC
+4,03/05/25,ASA,1-0,Penedense
+7,03/05/25,Uberlândia,2-3,Operário-MS
+7,03/05/25,Inter de Limeira,1-1,Monte Azul
+1,03/05/25,GAS,1-1,Trem
+5,03/05/25,Mixto,0-1,Luverdense
+8,03/05/25,Barra-SC,2-1,Marcílio Dias
+8,03/05/25,GE Brasil,1-3,São José-RS
+7,04/05/25,Goiatuba EC,0-0,Itabirito FC
+2,04/05/25,Parnahyba,0-2,Altos
+2,04/05/25,Maracanã,1-0,Iguatu
+4,04/05/25,Juazeirense,1-1,Barcelona de Ilhéus
+4,04/05/25,Jequié,1-0,União Atlético
+3,04/05/25,Treze,1-0,Sousa
+3,04/05/25,Central,1-2,América-RN
+5,04/05/25,Goianésia,0-3,Aparecidense
+3,04/05/25,Ferroviário,1-0,Horizonte
+6,04/05/25,EC Água Santa,2-1,Portuguesa
+1,04/05/25,SC Humaitá,1-3,Independência-AC
+3,09/05/25,Santa Cruz,2-1,América-RN
+3,10/05/25,Santa Cruz de Natal,0-2,Central
+7,10/05/25,Monte Azul,1-1,Cianorte
+7,10/05/25,FC Cascavel,2-0,Inter de Limeira
+2,10/05/25,Altos,1-0,Maracanã
+2,10/05/25,Maranhão,2-3,Tocantinópolis
+5,10/05/25,Goiânia,0-1,Goianésia
+6,10/05/25,Boavista-RJ,2-1,Maricá
+7,10/05/25,Operário-MS,1-1,Itabirito FC
+8,10/05/25,São Luiz,1-0,GE Brasil
+3,10/05/25,Horizonte,0-1,Treze
+2,10/05/25,Iguatu,3-0,Parnahyba
+4,10/05/25,União Atlético,3-0,Barcelona de Ilhéus
+4,10/05/25,Sergipe,1-2,ASA
+4,10/05/25,Penedense,0-1,Lagarto-SE
+5,10/05/25,Gazin Porto Velho EC,3-1,Aparecidense
+6,10/05/25,Porto Vitória,2-0,EC Água Santa
+6,10/05/25,Portuguesa,2-1,Rio Branco-ES
+6,10/05/25,Pouso Alegre,1-0,Nova Iguaçu
+7,10/05/25,Uberlândia,2-1,Goiatuba EC
+1,10/05/25,Independência-AC,4-1,GAS
+5,10/05/25,Luverdense,2-2,Ceilândia
+8,10/05/25,Azuriz Futebol,0-1,Barra-SC
+8,10/05/25,Marcílio Dias,1-0,Joinville
+2,10/05/25,Imperatriz,1-0,Sampaio Corrêa
+5,10/05/25,Capital CF,1-1,Mixto
+1,11/05/25,Tuna Luso,3-0,Manaus FC
+1,11/05/25,Manauara EC,0-0,Águia
+4,11/05/25,Jequié,2-3,Juazeirense
+8,11/05/25,Guarany de Bagé,1-0,São José-RS
+3,11/05/25,Sousa,4-0,Ferroviário
+1,14/05/25,Trem,5-1,SC Humaitá
+4,17/05/25,Lagarto-SE,0-0,ASA
+7,17/05/25,Cianorte,0-0,Inter de Limeira
+7,17/05/25,Monte Azul,0-1,FC Cascavel
+5,17/05/25,Aparecidense,3-1,Goiânia
+6,17/05/25,Maricá,1-0,Pouso Alegre
+6,17/05/25,Nova Iguaçu,2-1,Boavista-RJ
+8,17/05/25,Joinville,2-1,Barra-SC
+1,17/05/25,Manaus FC,1-1,Manauara EC
+1,17/05/25,Águia,0-0,Tuna Luso
+6,17/05/25,Porto Vitória,1-3,Portuguesa
+5,17/05/25,Mixto,1-1,Ceilândia
+2,17/05/25,Iguatu,2-3,Altos
+6,17/05/25,EC Água Santa,1-2,Rio Branco-ES
+8,18/05/25,Marcílio Dias,1-0,Azuriz Futebol
+5,18/05/25,Capital CF,2-0,Luverdense
+2,18/05/25,Parnahyba,3-2,Maracanã
+4,18/05/25,Barcelona de Ilhéus,0-0,Jequié
+4,18/05/25,Juazeirense,1-0,União Atlético
+4,18/05/25,Penedense,0-1,Sergipe
+3,18/05/25,Treze,1-0,Ferroviário
+3,18/05/25,Central,1-2,Santa Cruz
+3,18/05/25,Horizonte,2-1,Sousa
+5,18/05/25,Goianésia,1-1,Gazin Porto Velho EC
+7,18/05/25,Goiatuba EC,2-0,Operário-MS
+8,18/05/25,São José-RS,3-0,São Luiz
+8,18/05/25,GE Brasil,0-0,Guarany de Bagé
+3,18/05/25,América-RN,3-0,Santa Cruz de Natal
+7,18/05/25,Itabirito FC,1-3,Uberlândia
+1,18/05/25,SC Humaitá,2-4,GAS
+2,21/05/25,Tocantinópolis,1-2,Imperatriz
+2,21/05/25,Sampaio Corrêa,1-1,Maranhão
+1,21/05/25,Trem,1-2,Independência-AC
+3,24/05/25,Santa Cruz de Natal,1-0,Treze
+7,24/05/25,FC Cascavel,3-1,Operário-MS
+1,24/05/25,Manauara EC,5-0,SC Humaitá
+2,24/05/25,Altos,1-1,Imperatriz
+2,24/05/25,Tocantinópolis,1-1,Iguatu
+2,24/05/25,Maranhão,1-1,Parnahyba
+4,24/05/25,Juazeirense,1-0,Penedense
+5,24/05/25,Goiânia,1-3,Mixto
+6,24/05/25,Maricá,2-1,Porto Vitória
+6,24/05/25,Boavista-RJ,2-2,EC Água Santa
+7,24/05/25,Inter de Limeira,3-1,Itabirito FC
+5,24/05/25,Ceilândia,2-3,Aparecidense
+1,24/05/25,Águia,0-2,Trem
+4,24/05/25,ASA,4-0,Barcelona de Ilhéus
+6,24/05/25,Rio Branco-ES,0-1,Nova Iguaçu
+6,24/05/25,Portuguesa,2-1,Pouso Alegre
+7,24/05/25,Uberlândia,1-1,Cianorte
+7,24/05/25,Goiatuba EC,1-1,Monte Azul
+1,24/05/25,GAS,1-2,Manaus FC
+5,24/05/25,Luverdense,1-0,Gazin Porto Velho EC
+8,24/05/25,Barra-SC,1-1,São José-RS
+8,25/05/25,Azuriz Futebol,0-0,Guarany de Bagé
+2,25/05/25,Maracanã,0-2,Sampaio Corrêa
+4,25/05/25,Jequié,3-1,Lagarto-SE
+3,25/05/25,Central,1-0,Horizonte
+8,25/05/25,GE Brasil,1-2,Marcílio Dias
+3,25/05/25,Sousa,0-1,Santa Cruz
+4,25/05/25,Sergipe,0-0,União Atlético
+3,25/05/25,Ferroviário,1-0,América-RN
+5,25/05/25,Goianésia,0-1,Capital CF
+8,26/05/25,São Luiz,0-1,Joinville
+1,27/05/25,Independência-AC,0-0,Tuna Luso
+2,30/05/25,Iguatu,1-0,Maranhão
+7,31/05/25,Itabirito FC,1-1,FC Cascavel
+4,31/05/25,Lagarto-SE,3-1,Juazeirense
+6,31/05/25,Nova Iguaçu,1-1,Portuguesa
+7,31/05/25,Monte Azul,2-1,Uberlândia
+1,31/05/25,Trem,0-3,Manauara EC
+2,31/05/25,Sampaio Corrêa,2-2,Altos
+3,31/05/25,Treze,0-3,Central
+5,31/05/25,Aparecidense,4-1,Luverdense
+7,31/05/25,Operário-MS,0-1,Inter de Limeira
+1,31/05/25,Manaus FC,1-0,Independência-AC
+4,31/05/25,União Atlético,0-4,ASA
+5,31/05/25,Gazin Porto Velho EC,0-2,Ceilândia
+6,31/05/25,Pouso Alegre,1-0,Rio Branco-ES
+6,31/05/25,Porto Vitória,2-0,Boavista-RJ
+5,31/05/25,Mixto,3-2,Goianésia
+8,31/05/25,São José-RS,1-0,Azuriz Futebol
+6,31/05/25,EC Água Santa,1-1,Maricá
+7,31/05/25,Cianorte,2-3,Goiatuba EC
+2,31/05/25,Imperatriz,0-0,Maracanã
+1,01/06/25,Tuna Luso,3-0,GAS
+5,01/06/25,Capital CF,0-0,Goiânia
+2,01/06/25,Parnahyba,1-0,Tocantinópolis
+4,01/06/25,Penedense,2-4,Jequié
+4,01/06/25,Barcelona de Ilhéus,0-1,Sergipe
+3,01/06/25,Horizonte,4-2,Santa Cruz de Natal
+8,01/06/25,Guarany de Bagé,0-2,Barra-SC
+8,01/06/25,Joinville,1-0,GE Brasil
+3,01/06/25,América-RN,2-0,Sousa
+3,01/06/25,Santa Cruz,3-1,Ferroviário
+1,01/06/25,SC Humaitá,1-3,Águia
+8,02/06/25,Marcílio Dias,3-0,São Luiz
+6,04/06/25,Rio Branco-ES,3-0,Pouso Alegre
+3,07/06/25,Santa Cruz de Natal,1-0,Horizonte
+7,07/06/25,FC Cascavel,1-1,Itabirito FC
+1,07/06/25,Manauara EC,2-0,Trem
+2,07/06/25,Tocantinópolis,0-0,Parnahyba
+5,07/06/25,Ceilândia,3-0,Gazin Porto Velho EC
+5,07/06/25,Goiânia,1-1,Capital CF
+6,07/06/25,Boavista-RJ,0-1,Porto Vitória
+6,07/06/25,Maricá,0-1,EC Água Santa
+7,07/06/25,Inter de Limeira,5-1,Operário-MS
+8,07/06/25,São Luiz,3-0,Marcílio Dias
+1,07/06/25,Águia,6-0,SC Humaitá
+1,07/06/25,Independência-AC,1-0,Manaus FC
+4,07/06/25,ASA,2-2,União Atlético
+6,07/06/25,Portuguesa,1-0,Nova Iguaçu
+7,07/06/25,Goiatuba EC,3-1,Cianorte
+7,07/06/25,Uberlândia,2-0,Monte Azul
+1,07/06/25,GAS,0-0,Tuna Luso
+5,07/06/25,Luverdense,3-1,Aparecidense
+4,08/06/25,Jequié,0-0,Penedense
+8,08/06/25,Azuriz Futebol,1-3,São José-RS
+2,08/06/25,Maracanã,2-3,Imperatriz
+2,08/06/25,Maranhão,1-1,Iguatu
+3,08/06/25,Central,1-0,Treze
+5,08/06/25,Goianésia,2-2,Mixto
+8,08/06/25,GE Brasil,1-0,Joinville
+4,08/06/25,Sergipe,4-1,Barcelona de Ilhéus
+3,08/06/25,Ferroviário,3-1,Santa Cruz
+3,11/06/25,Sousa,1-0,América-RN
+2,11/06/25,Altos,1-1,Sampaio Corrêa
+4,11/06/25,Juazeirense,2-1,Lagarto-SE
+2,13/06/25,Iguatu,0-1,Tocantinópolis
+6,14/06/25,Nova Iguaçu,0-0,Rio Branco-ES
+7,14/06/25,Cianorte,3-2,Uberlândia
+1,14/06/25,Trem,2-1,Águia
+2,14/06/25,Sampaio Corrêa,2-0,Maracanã
+5,14/06/25,Aparecidense,2-0,Ceilândia
+6,14/06/25,Pouso Alegre,2-0,Portuguesa
+6,14/06/25,EC Água Santa,2-0,Boavista-RJ
+7,14/06/25,Operário-MS,0-0,FC Cascavel
+8,14/06/25,Joinville,2-1,São Luiz
+4,14/06/25,União Atlético,2-0,Sergipe
+5,14/06/25,Gazin Porto Velho EC,0-0,Luverdense
+6,14/06/25,Porto Vitória,0-0,Maricá
+5,14/06/25,Mixto,3-0,Goiânia
+8,14/06/25,São José-RS,3-3,Barra-SC
+8,14/06/25,Marcílio Dias,1-2,GE Brasil
+2,14/06/25,Imperatriz,0-1,Altos
+1,15/06/25,Tuna Luso,3-0,Independência-AC
+8,15/06/25,Guarany de Bagé,0-1,Azuriz Futebol
+5,15/06/25,Capital CF,1-1,Goianésia
+7,15/06/25,Itabirito FC,0-0,Inter de Limeira
+2,15/06/25,Parnahyba,2-2,Maranhão
+4,15/06/25,Penedense,0-0,Juazeirense
+4,15/06/25,Barcelona de Ilhéus,1-0,ASA
+3,15/06/25,Horizonte,1-1,Central
+1,15/06/25,Manaus FC,1-2,GAS
+3,15/06/25,Santa Cruz,2-0,Sousa
+1,15/06/25,SC Humaitá,2-2,Manauara EC
+4,16/06/25,Lagarto-SE,2-1,Jequié
+3,16/06/25,América-RN,3-2,Ferroviário
+3,19/06/25,Treze,1-2,Santa Cruz de Natal
+7,21/06/25,Monte Azul,3-2,Goiatuba EC
+8,21/06/25,Barra-SC,3-0,Guarany de Bagé
+7,27/06/25,Inter de Limeira,2-0,Cianorte
+5,28/06/25,Ceilândia,2-1,Mixto
+3,28/06/25,Santa Cruz de Natal,1-2,América-RN
+7,28/06/25,FC Cascavel,1-1,Monte Azul
+1,28/06/25,Manauara EC,2-2,Manaus FC
+2,28/06/25,Maranhão,2-0,Sampaio Corrêa
+4,28/06/25,Sergipe,2-0,Penedense
+6,28/06/25,Boavista-RJ,1-1,Nova Iguaçu
+7,28/06/25,Uberlândia,4-0,Itabirito FC
+7,28/06/25,Operário-MS,2-1,Goiatuba EC
+2,28/06/25,Altos,2-1,Iguatu
+4,28/06/25,União Atlético,1-0,Juazeirense
+4,28/06/25,ASA,1-0,Lagarto-SE
+5,28/06/25,Gazin Porto Velho EC,0-0,Goianésia
+6,28/06/25,Portuguesa,2-1,Porto Vitória
+6,28/06/25,Pouso Alegre,1-1,Maricá
+6,28/06/25,Rio Branco-ES,3-2,EC Água Santa
+3,28/06/25,Ferroviário,1-1,Treze
+1,28/06/25,GAS,2-1,SC Humaitá
+5,28/06/25,Luverdense,2-1,Capital CF
+2,28/06/25,Imperatriz,4-0,Tocantinópolis
+4,29/06/25,Jequié,0-0,Barcelona de Ilhéus
+1,29/06/25,Tuna Luso,2-0,Águia
+8,29/06/25,Azuriz Futebol,1-1,Marcílio Dias
+8,29/06/25,Guarany de Bagé,1-0,GE Brasil
+2,29/06/25,Maracanã,2-1,Parnahyba
+5,29/06/25,Goiânia,0-3,Aparecidense
+3,29/06/25,Santa Cruz,0-1,Central
+3,29/06/25,Sousa,3-1,Horizonte
+1,29/06/25,Independência-AC,2-2,Trem
+8,30/06/25,São Luiz,1-2,São José-RS
+8,30/06/25,Barra-SC,1-0,Joinville
+6,05/07/25,Nova Iguaçu,2-1,Pouso Alegre
+7,05/07/25,Cianorte,2-0,Monte Azul
+2,05/07/25,Sampaio Corrêa,3-0,Imperatriz
+2,05/07/25,Tocantinópolis,1-1,Maranhão
+4,05/07/25,Juazeirense,2-1,Jequié
+5,05/07/25,Ceilândia,1-0,Luverdense
+5,05/07/25,Goianésia,1-3,Goiânia
+5,05/07/25,Aparecidense,7-0,Gazin Porto Velho EC
+6,05/07/25,EC Água Santa,0-0,Porto Vitória
+6,05/07/25,Maricá,1-0,Boavista-RJ
+7,05/07/25,Inter de Limeira,1-0,FC Cascavel
+8,05/07/25,Barra-SC,1-0,Azuriz Futebol
+1,05/07/25,Águia,0-1,Manauara EC
+4,05/07/25,ASA,2-2,Sergipe
+6,05/07/25,Rio Branco-ES,0-0,Portuguesa
+7,05/07/25,Goiatuba EC,1-1,Uberlândia
+3,05/07/25,Ferroviário,0-0,Sousa
+1,05/07/25,GAS,1-2,Independência-AC
+5,05/07/25,Mixto,1-0,Capital CF
+8,05/07/25,São José-RS,0-1,Guarany de Bagé
+8,06/07/25,GE Brasil,0-1,São Luiz
+7,06/07/25,Itabirito FC,1-1,Operário-MS
+2,06/07/25,Maracanã,1-3,Altos
+2,06/07/25,Parnahyba,2-0,Iguatu
+4,06/07/25,Barcelona de Ilhéus,4-1,União Atlético
+4,06/07/25,Lagarto-SE,4-0,Penedense
+3,06/07/25,Central,1-0,Santa Cruz de Natal
+8,06/07/25,Joinville,1-1,Marcílio Dias
+3,06/07/25,América-RN,0-0,Santa Cruz
+1,06/07/25,Manaus FC,2-1,Tuna Luso
+1,06/07/25,SC Humaitá,2-4,Trem
+3,07/07/25,Treze,0-2,Horizonte
+6,12/07/25,Nova Iguaçu,1-3,Maricá
+7,12/07/25,Monte Azul,0-1,Inter de Limeira
+7,12/07/25,FC Cascavel,2-1,Cianorte
+7,12/07/25,Itabirito FC,0-1,Goiatuba EC
+1,12/07/25,Trem,1-3,GAS
+2,12/07/25,Sampaio Corrêa,2-0,Tocantinópolis
+2,12/07/25,Altos,4-2,Parnahyba
+5,12/07/25,Aparecidense,2-1,Goianésia
+6,12/07/25,Pouso Alegre,2-0,Boavista-RJ
+7,12/07/25,Operário-MS,1-1,Uberlândia
+3,12/07/25,Sousa,0-1,Treze
+2,12/07/25,Iguatu,2-1,Maracanã
+4,12/07/25,Sergipe,1-2,Lagarto-SE
+4,12/07/25,União Atlético,1-0,Jequié
+5,12/07/25,Gazin Porto Velho EC,2-2,Goiânia
+6,12/07/25,Portuguesa,2-1,EC Água Santa
+6,12/07/25,Porto Vitória,0-1,Rio Branco-ES
+5,12/07/25,Luverdense,0-0,Mixto
+1,12/07/25,Independência-AC,0-1,SC Humaitá
+2,12/07/25,Imperatriz,1-0,Maranhão
+1,13/07/25,Tuna Luso,2-1,Manauara EC
+8,13/07/25,Guarany de Bagé,2-1,São Luiz
+8,13/07/25,Azuriz Futebol,0-0,Joinville
+5,13/07/25,Capital CF,2-2,Ceilândia
+4,13/07/25,Barcelona de Ilhéus,0-1,Juazeirense
+4,13/07/25,Penedense,0-1,ASA
+3,13/07/25,Horizonte,2-0,Ferroviário
+3,13/07/25,Santa Cruz,1-1,Santa Cruz de Natal
+1,13/07/25,Manaus FC,3-3,Águia
+8,13/07/25,São José-RS,1-0,GE Brasil
+3,13/07/25,América-RN,0-0,Central
+8,14/07/25,Marcílio Dias,1-0,Barra-SC
+3,19/07/25,Santa Cruz de Natal,1-2,Ferroviário
+7,19/07/25,Cianorte,3-1,Itabirito FC
+7,19/07/25,Monte Azul,1-2,Operário-MS
+1,19/07/25,Manauara EC,3-0,GAS
+1,19/07/25,Trem,2-1,Tuna Luso
+2,19/07/25,Maranhão,3-0,Maracanã
+2,19/07/25,Iguatu,1-0,Imperatriz
+2,19/07/25,Tocantinópolis,1-0,Altos
+5,19/07/25,Goianésia,1-1,Luverdense
+6,19/07/25,Boavista-RJ,0-2,Rio Branco-ES
+6,19/07/25,EC Água Santa,2-1,Nova Iguaçu
+6,19/07/25,Maricá,0-1,Portuguesa
+8,19/07/25,São Luiz,0-2,Barra-SC
+1,19/07/25,Águia,4-1,Independência-AC
+4,19/07/25,Lagarto-SE,2-0,Barcelona de Ilhéus
+6,19/07/25,Porto Vitória,3-0,Pouso Alegre
+7,19/07/25,Uberlândia,0-3,Inter de Limeira
+7,19/07/25,Goiatuba EC,0-0,FC Cascavel
+5,19/07/25,Mixto,0-0,Aparecidense
+8,20/07/25,GE Brasil,4-0,Azuriz Futebol
+5,20/07/25,Capital CF,3-0,Gazin Porto Velho EC
+2,20/07/25,Parnahyba,2-2,Sampaio Corrêa
+4,20/07/25,Juazeirense,0-0,Sergipe
+4,20/07/25,Penedense,1-1,União Atlético
+4,20/07/25,Jequié,0-0,ASA
+3,20/07/25,Treze,1-2,América-RN
+3,20/07/25,Horizonte,2-0,Santa Cruz
+3,20/07/25,Central,1-1,Sousa
+5,20/07/25,Goiânia,2-2,Ceilândia
+8,20/07/25,Joinville,0-2,São José-RS
+8,20/07/25,Marcílio Dias,1-1,Guarany de Bagé
+1,20/07/25,SC Humaitá,1-2,Manaus FC
+2,26/07/25,Imperatriz,3-2,Parnahyba
+2,26/07/25,Altos,0-1,Maranhão
+2,26/07/25,Maracanã,1-0,Tocantinópolis
+2,26/07/25,Sampaio Corrêa,1-1,Iguatu
+6,26/07/25,Portuguesa,3-0,Boavista-RJ
+6,26/07/25,Pouso Alegre,0-2,EC Água Santa
+6,26/07/25,Rio Branco-ES,3-0,Maricá
+6,26/07/25,Nova Iguaçu,1-1,Porto Vitória
+7,26/07/25,Operário-MS,0-2,Cianorte
+7,26/07/25,Inter de Limeira,0-1,Goiatuba EC
+7,26/07/25,FC Cascavel,2-1,Uberlândia
+7,26/07/25,Itabirito FC,1-2,Monte Azul
+5,26/07/25,Ceilândia,2-0,Goianésia
+5,26/07/25,Luverdense,1-0,Goiânia
+5,26/07/25,Gazin Porto Velho EC,0-3,Mixto
+5,26/07/25,Aparecidense,2-1,Capital CF
+4,27/07/25,Barcelona de Ilhéus,0-1,Penedense
+4,27/07/25,União Atlético,1-0,Lagarto-SE
+4,27/07/25,Sergipe,1-0,Jequié
+4,27/07/25,ASA,3-0,Juazeirense
+3,27/07/25,Ferroviário,0-0,Central
+3,27/07/25,América-RN,2-0,Horizonte
+3,27/07/25,Sousa,1-2,Santa Cruz de Natal
+3,27/07/25,Santa Cruz,3-0,Treze
+8,27/07/25,Guarany de Bagé,2-1,Joinville
+8,27/07/25,Barra-SC,0-1,GE Brasil
+8,27/07/25,Azuriz Futebol,0-0,São Luiz
+8,27/07/25,São José-RS,1-1,Marcílio Dias
+1,27/07/25,Independência-AC,2-1,Manauara EC
+1,27/07/25,GAS,1-1,Águia
+1,27/07/25,Manaus FC,1-0,Trem
+1,27/07/25,Tuna Luso,2-0,SC Humaitá
+2F,02/08/25,Goiatuba EC,1-1,São José-RS
+2F,02/08/25,Maranhão,4-1,Tuna Luso
+2F,02/08/25,Maricá,1-2,Aparecidense
+2F,02/08/25,EC Água Santa,1-1,Ceilândia
+2F,02/08/25,FC Cascavel,0-1,Barra-SC
+2F,02/08/25,Ferroviário,0-1,ASA
+2F,02/08/25,Mixto,1-0,Portuguesa
+2F,02/08/25,Luverdense,0-0,Rio Branco-ES
+2F,03/08/25,Central,1-0,Lagarto-SE
+2F,03/08/25,Juazeirense,1-1,América-RN
+2F,03/08/25,Joinville,1-1,Cianorte
+2F,03/08/25,Manaus FC,0-2,Imperatriz
+2F,03/08/25,Sergipe,2-1,Santa Cruz
+2F,03/08/25,Independência-AC,1-5,Altos
+2F,03/08/25,Marcílio Dias,0-0,Inter de Limeira
+2F,04/08/25,Sampaio Corrêa,1-1,Manauara EC
+2F,09/08/25,Manauara EC,1-0,Sampaio Corrêa
+2F,09/08/25,Aparecidense,2-2,Maricá
+2F,09/08/25,Inter de Limeira,2-1,Marcílio Dias
+2F,09/08/25,Portuguesa,1-0(3-4 Pen.),Mixto
+2F,09/08/25,Ceilândia,1-0,EC Água Santa
+2F,09/08/25,Barra-SC,3-0,FC Cascavel
+2F,09/08/25,Altos,3-1,Independência-AC
+2F,09/08/25,Santa Cruz,2-1(5-4 Pen.),Sergipe
+2F,09/08/25,ASA,2-0,Ferroviário
+2F,09/08/25,Rio Branco-ES,3-0,Luverdense
+2F,09/08/25,São José-RS,1-2,Goiatuba EC
+2F,09/08/25,Imperatriz,0-2(5-3 Pen.),Manaus FC
+2F,10/08/25,Tuna Luso,2-0,Maranhão
+2F,10/08/25,Cianorte,4-0,Joinville
+2F,10/08/25,Lagarto-SE,2-2,Central
+2F,10/08/25,América-RN,2-0,Juazeirense
+1/8,16/08/25,Maranhão,2-1,Central
+1/8,16/08/25,Manauara EC,0-1,ASA
+1/8,16/08/25,Ceilândia,1-1,Barra-SC
+1/8,16/08/25,Rio Branco-ES,0-1,Inter de Limeira
+1/8,17/08/25,Imperatriz,0-1,América-RN
+1/8,17/08/25,Goiatuba EC,2-3,Aparecidense
+1/8,17/08/25,Cianorte,1-1,Mixto
+1/8,18/08/25,Santa Cruz,1-1,Altos
+1/8,23/08/25,Barra-SC,1-0,Ceilândia
+1/8,23/08/25,Aparecidense,0-2,Goiatuba EC
+1/8,23/08/25,Inter de Limeira,0-0,Rio Branco-ES
+1/8,23/08/25,ASA,0-0,Manauara EC
+1/8,23/08/25,Mixto,0-2,Cianorte
+1/8,24/08/25,América-RN,0-0,Imperatriz
+1/8,24/08/25,Central,0-0,Maranhão
+1/8,24/08/25,Altos,0-0(1-3 Pen.),Santa Cruz
+QF,30/08/25,Maranhão,1-0,ASA
+QF,30/08/25,Goiatuba EC,0-0,Inter de Limeira
+QF,30/08/25,Santa Cruz,1-0,América-RN
+QF,31/08/25,Cianorte,0-0,Barra-SC
+QF,06/09/25,Inter de Limeira,1-0,Goiatuba EC
+QF,06/09/25,Barra-SC,1-0,Cianorte
+QF,06/09/25,ASA,0-3,Maranhão
+QF,07/09/25,América-RN,1-1,Santa Cruz
+SF,13/09/25,Maranhão,0-1,Santa Cruz
+SF,13/09/25,Barra-SC,2-0,Inter de Limeira
+SF,20/09/25,Inter de Limeira,2-3,Barra-SC
+SF,20/09/25,Santa Cruz,0-0,Maranhão
+F,27/09/25,Santa Cruz,1-2,Barra-SC
+F,04/10/25,Barra-SC,0-0,Santa Cruz

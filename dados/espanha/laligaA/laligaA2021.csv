@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/08/21,Valencia,1-0,Getafe
+1,14/08/21,Mallorca,1-1,Real Betis
+1,14/08/21,Cádiz,1-1,Levante
+1,14/08/21,Alavés,1-4,Real Madrid
+1,14/08/21,Osasuna,0-0,Espanyol
+1,15/08/21,Celta de Vigo,1-2,Atlético de Madrid
+1,15/08/21,Barcelona,4-2,Real Sociedad
+1,15/08/21,Sevilla,3-0,Rayo Vallecano
+1,16/08/21,Villarreal,0-0,Granada
+1,16/08/21,Elche,0-0,Athletic Bilbao
+2,20/08/21,Real Betis,1-1,Cádiz
+2,21/08/21,Alavés,0-1,Mallorca
+2,21/08/21,Granada,1-1,Valencia
+2,21/08/21,Espanyol,0-0,Villarreal
+2,21/08/21,Athletic Bilbao,1-1,Barcelona
+2,22/08/21,Real Sociedad,1-0,Rayo Vallecano
+2,22/08/21,Atlético de Madrid,1-0,Elche
+2,22/08/21,Levante,3-3,Real Madrid
+2,23/08/21,Getafe,0-1,Sevilla
+2,23/08/21,Osasuna,0-0,Celta de Vigo
+3,27/08/21,Mallorca,1-0,Espanyol
+3,27/08/21,Valencia,3-0,Alavés
+3,28/08/21,Celta de Vigo,0-1,Athletic Bilbao
+3,28/08/21,Real Sociedad,1-0,Levante
+3,28/08/21,Elche,1-1,Sevilla
+3,28/08/21,Real Betis,0-1,Real Madrid
+3,29/08/21,Barcelona,2-1,Getafe
+3,29/08/21,Cádiz,2-3,Osasuna
+3,29/08/21,Rayo Vallecano,4-0,Granada
+3,29/08/21,Atlético de Madrid,2-2,Villarreal
+4,11/09/21,Levante,1-1,Rayo Vallecano
+4,11/09/21,Athletic Bilbao,2-0,Mallorca
+4,12/09/21,Espanyol,1-2,Atlético de Madrid
+4,12/09/21,Osasuna,1-4,Valencia
+4,12/09/21,Cádiz,0-2,Real Sociedad
+4,12/09/21,Real Madrid,5-2,Celta de Vigo
+4,13/09/21,Getafe,0-1,Elche
+4,13/09/21,Granada,1-2,Real Betis
+5,17/09/21,Celta de Vigo,1-2,Cádiz
+5,18/09/21,Rayo Vallecano,3-0,Getafe
+5,18/09/21,Atlético de Madrid,0-0,Athletic Bilbao
+5,18/09/21,Elche,1-1,Levante
+5,18/09/21,Alavés,0-2,Osasuna
+5,19/09/21,Mallorca,0-0,Villarreal
+5,19/09/21,Real Sociedad,0-0,Sevilla
+5,19/09/21,Real Betis,2-2,Espanyol
+5,19/09/21,Valencia,1-2,Real Madrid
+5,20/09/21,Barcelona,1-1,Granada
+6,21/09/21,Getafe,1-2,Atlético de Madrid
+6,21/09/21,Athletic Bilbao,1-2,Rayo Vallecano
+6,21/09/21,Levante,0-2,Celta de Vigo
+6,22/09/21,Espanyol,1-0,Alavés
+6,22/09/21,Sevilla,3-1,Valencia
+6,22/09/21,Real Madrid,6-1,Mallorca
+6,22/09/21,Villarreal,4-1,Elche
+6,23/09/21,Granada,2-3,Real Sociedad
+6,23/09/21,Osasuna,1-3,Real Betis
+6,23/09/21,Cádiz,0-0,Barcelona
+7,25/09/21,Alavés,1-0,Atlético de Madrid
+7,25/09/21,Valencia,1-1,Athletic Bilbao
+7,25/09/21,Sevilla,2-0,Espanyol
+7,25/09/21,Real Madrid,0-0,Villarreal
+7,26/09/21,Mallorca,2-3,Osasuna
+7,26/09/21,Barcelona,3-0,Levante
+7,26/09/21,Real Sociedad,1-0,Elche
+7,26/09/21,Rayo Vallecano,3-1,Cádiz
+7,26/09/21,Real Betis,2-0,Getafe
+7,27/09/21,Celta de Vigo,1-0,Granada
+8,01/10/21,Athletic Bilbao,1-0,Alavés
+8,02/10/21,Osasuna,1-0,Rayo Vallecano
+8,02/10/21,Mallorca,1-0,Levante
+8,02/10/21,Cádiz,0-0,Valencia
+8,02/10/21,Atlético de Madrid,2-0,Barcelona
+8,03/10/21,Elche,1-0,Celta de Vigo
+8,03/10/21,Espanyol,2-1,Real Madrid
+8,03/10/21,Getafe,1-1,Real Sociedad
+8,03/10/21,Villarreal,2-0,Real Betis
+8,03/10/21,Granada,1-0,Sevilla
+9,16/10/21,Levante,0-0,Getafe
+9,16/10/21,Real Sociedad,1-0,Mallorca
+9,17/10/21,Rayo Vallecano,2-1,Elche
+9,17/10/21,Celta de Vigo,0-1,Sevilla
+9,17/10/21,Villarreal,1-2,Osasuna
+9,17/10/21,Barcelona,3-1,Valencia
+9,18/10/21,Alavés,0-1,Real Betis
+9,18/10/21,Espanyol,2-0,Cádiz
+10,22/10/21,Osasuna,1-1,Granada
+10,23/10/21,Valencia,2-2,Mallorca
+10,23/10/21,Cádiz,0-2,Alavés
+10,23/10/21,Elche,2-2,Espanyol
+10,23/10/21,Athletic Bilbao,2-1,Villarreal
+10,24/10/21,Sevilla,5-3,Levante
+10,24/10/21,Barcelona,1-2,Real Madrid
+10,24/10/21,Real Betis,3-2,Rayo Vallecano
+10,24/10/21,Atlético de Madrid,2-2,Real Sociedad
+10,25/10/21,Getafe,0-3,Celta de Vigo
+11,26/10/21,Alavés,1-0,Elche
+11,26/10/21,Espanyol,1-1,Athletic Bilbao
+11,26/10/21,Villarreal,3-3,Cádiz
+11,27/10/21,Mallorca,1-1,Sevilla
+11,27/10/21,Rayo Vallecano,1-0,Barcelona
+11,27/10/21,Real Betis,4-1,Valencia
+11,27/10/21,Real Madrid,0-0,Osasuna
+11,28/10/21,Celta de Vigo,0-2,Real Sociedad
+11,28/10/21,Granada,1-1,Getafe
+11,28/10/21,Levante,2-2,Atlético de Madrid
+12,30/10/21,Elche,1-2,Real Madrid
+12,30/10/21,Sevilla,2-0,Osasuna
+12,30/10/21,Valencia,2-0,Villarreal
+12,30/10/21,Barcelona,1-1,Alavés
+12,31/10/21,Cádiz,1-1,Mallorca
+12,31/10/21,Atlético de Madrid,3-0,Real Betis
+12,31/10/21,Getafe,2-1,Espanyol
+12,31/10/21,Real Sociedad,1-1,Athletic Bilbao
+12,01/11/21,Rayo Vallecano,0-0,Celta de Vigo
+12,01/11/21,Levante,0-3,Granada
+13,05/11/21,Athletic Bilbao,0-1,Cádiz
+13,06/11/21,Espanyol,2-0,Granada
+13,06/11/21,Celta de Vigo,3-3,Barcelona
+13,06/11/21,Alavés,2-1,Levante
+13,06/11/21,Real Madrid,2-1,Rayo Vallecano
+13,07/11/21,Villarreal,1-0,Getafe
+13,07/11/21,Valencia,3-3,Atlético de Madrid
+13,07/11/21,Mallorca,2-2,Elche
+13,07/11/21,Osasuna,0-2,Real Sociedad
+13,07/11/21,Real Betis,0-2,Sevilla
+14,19/11/21,Levante,0-0,Athletic Bilbao
+14,20/11/21,Celta de Vigo,1-1,Villarreal
+14,20/11/21,Sevilla,2-2,Alavés
+14,20/11/21,Atlético de Madrid,1-0,Osasuna
+14,20/11/21,Barcelona,1-0,Espanyol
+14,21/11/21,Getafe,4-0,Cádiz
+14,21/11/21,Granada,1-4,Real Madrid
+14,21/11/21,Elche,0-3,Real Betis
+14,21/11/21,Real Sociedad,0-0,Valencia
+14,22/11/21,Rayo Vallecano,3-1,Mallorca
+15,26/11/21,Athletic Bilbao,2-2,Granada
+15,27/11/21,Alavés,1-2,Celta de Vigo
+15,27/11/21,Valencia,1-1,Rayo Vallecano
+15,27/11/21,Mallorca,0-0,Getafe
+15,27/11/21,Villarreal,1-3,Barcelona
+15,28/11/21,Real Betis,3-1,Levante
+15,28/11/21,Espanyol,1-0,Real Sociedad
+15,28/11/21,Cádiz,1-4,Atlético de Madrid
+15,28/11/21,Real Madrid,2-1,Sevilla
+15,29/11/21,Osasuna,1-1,Elche
+9,01/12/21,Real Madrid,1-0,Athletic Bilbao
+16,03/12/21,Granada,2-1,Alavés
+16,04/12/21,Sevilla,1-0,Villarreal
+16,04/12/21,Barcelona,0-1,Real Betis
+16,04/12/21,Atlético de Madrid,1-2,Mallorca
+16,04/12/21,Real Sociedad,0-2,Real Madrid
+16,05/12/21,Rayo Vallecano,1-0,Espanyol
+16,05/12/21,Elche,3-1,Cádiz
+16,05/12/21,Levante,0-0,Osasuna
+16,05/12/21,Celta de Vigo,1-2,Valencia
+16,06/12/21,Getafe,0-0,Athletic Bilbao
+17,10/12/21,Mallorca,0-0,Celta de Vigo
+17,11/12/21,Espanyol,4-3,Levante
+17,11/12/21,Alavés,1-1,Getafe
+17,11/12/21,Valencia,2-1,Elche
+17,11/12/21,Athletic Bilbao,0-1,Sevilla
+17,12/12/21,Villarreal,2-0,Rayo Vallecano
+17,12/12/21,Osasuna,2-2,Barcelona
+17,12/12/21,Real Betis,4-0,Real Sociedad
+17,12/12/21,Real Madrid,2-0,Atlético de Madrid
+17,13/12/21,Cádiz,1-1,Granada
+18,17/12/21,Celta de Vigo,3-1,Espanyol
+18,18/12/21,Rayo Vallecano,2-0,Alavés
+18,18/12/21,Real Sociedad,1-3,Villarreal
+18,18/12/21,Barcelona,3-2,Elche
+18,18/12/21,Sevilla,2-1,Atlético de Madrid
+18,19/12/21,Granada,4-1,Mallorca
+18,19/12/21,Athletic Bilbao,3-2,Real Betis
+18,19/12/21,Getafe,1-0,Osasuna
+18,19/12/21,Real Madrid,0-0,Cádiz
+18,20/12/21,Levante,3-4,Valencia
+4,21/12/21,Villarreal,5-2,Alavés
+4,21/12/21,Sevilla,1-1,Barcelona
+9,22/12/21,Granada,2-1,Atlético de Madrid
+21,22/12/21,Athletic Bilbao,1-2,Real Madrid
+19,31/12/21,Valencia,1-2,Espanyol
+19,02/01/22,Getafe,1-0,Real Madrid
+19,02/01/22,Atlético de Madrid,2-0,Rayo Vallecano
+19,02/01/22,Elche,0-0,Granada
+19,02/01/22,Alavés,1-1,Real Sociedad
+19,02/01/22,Real Betis,0-2,Celta de Vigo
+19,02/01/22,Mallorca,0-1,Barcelona
+19,03/01/22,Villarreal,5-0,Levante
+19,03/01/22,Osasuna,1-3,Athletic Bilbao
+19,03/01/22,Cádiz,0-1,Sevilla
+20,08/01/22,Levante,2-0,Mallorca
+20,08/01/22,Real Sociedad,1-0,Celta de Vigo
+20,08/01/22,Granada,1-1,Barcelona
+20,08/01/22,Real Madrid,4-1,Valencia
+20,09/01/22,Rayo Vallecano,1-1,Real Betis
+20,09/01/22,Sevilla,1-0,Getafe
+20,09/01/22,Alavés,0-0,Athletic Bilbao
+20,09/01/22,Osasuna,2-0,Cádiz
+20,09/01/22,Villarreal,2-2,Atlético de Madrid
+20,10/01/22,Espanyol,1-2,Elche
+21,16/01/22,Elche,1-0,Villarreal
+21,18/01/22,Real Betis,4-0,Alavés
+21,18/01/22,Cádiz,2-2,Espanyol
+21,19/01/22,Celta de Vigo,2-0,Osasuna
+21,19/01/22,Valencia,1-1,Sevilla
+21,20/01/22,Getafe,4-2,Granada
+22,21/01/22,Espanyol,1-4,Real Betis
+22,22/01/22,Levante,0-2,Cádiz
+22,22/01/22,Villarreal,3-0,Mallorca
+22,22/01/22,Sevilla,2-2,Celta de Vigo
+22,22/01/22,Atlético de Madrid,3-2,Valencia
+22,23/01/22,Granada,0-2,Osasuna
+22,23/01/22,Real Madrid,2-2,Elche
+22,23/01/22,Real Sociedad,0-0,Getafe
+22,23/01/22,Rayo Vallecano,0-1,Athletic Bilbao
+22,23/01/22,Alavés,0-1,Barcelona
+23,04/02/22,Getafe,3-0,Levante
+23,05/02/22,Elche,3-1,Alavés
+23,05/02/22,Mallorca,2-1,Cádiz
+23,05/02/22,Celta de Vigo,2-0,Rayo Vallecano
+23,05/02/22,Osasuna,0-0,Sevilla
+23,06/02/22,Valencia,0-0,Real Sociedad
+23,06/02/22,Barcelona,4-2,Atlético de Madrid
+23,06/02/22,Real Betis,0-2,Villarreal
+23,06/02/22,Real Madrid,1-0,Granada
+23,07/02/22,Athletic Bilbao,2-1,Espanyol
+24,11/02/22,Sevilla,2-0,Elche
+24,12/02/22,Cádiz,0-0,Celta de Vigo
+24,12/02/22,Villarreal,0-0,Real Madrid
+24,12/02/22,Rayo Vallecano,0-3,Osasuna
+24,12/02/22,Atlético de Madrid,4-3,Getafe
+24,13/02/22,Alavés,2-1,Valencia
+24,13/02/22,Levante,2-4,Real Betis
+24,13/02/22,Real Sociedad,2-0,Granada
+24,13/02/22,Espanyol,2-2,Barcelona
+24,14/02/22,Mallorca,3-2,Athletic Bilbao
+21,16/02/22,Atlético de Madrid,0-1,Levante
+25,18/02/22,Elche,2-1,Rayo Vallecano
+25,19/02/22,Granada,1-4,Villarreal
+25,19/02/22,Osasuna,0-3,Atlético de Madrid
+25,19/02/22,Cádiz,1-1,Getafe
+25,19/02/22,Real Madrid,3-0,Alavés
+25,20/02/22,Espanyol,1-1,Sevilla
+25,20/02/22,Valencia,1-4,Barcelona
+25,20/02/22,Real Betis,2-1,Mallorca
+25,20/02/22,Athletic Bilbao,4-0,Real Sociedad
+25,21/02/22,Celta de Vigo,1-1,Levante
+26,25/02/22,Levante,3-0,Elche
+26,26/02/22,Mallorca,0-1,Valencia
+26,26/02/22,Getafe,2-2,Alavés
+26,26/02/22,Rayo Vallecano,0-1,Real Madrid
+26,26/02/22,Atlético de Madrid,2-0,Celta de Vigo
+26,27/02/22,Villarreal,5-1,Espanyol
+26,27/02/22,Sevilla,2-1,Real Betis
+26,27/02/22,Real Sociedad,1-0,Osasuna
+26,27/02/22,Barcelona,4-0,Athletic Bilbao
+26,28/02/22,Granada,0-0,Cádiz
+21,02/03/22,Mallorca,0-2,Real Sociedad
+27,04/03/22,Alavés,0-0,Sevilla
+27,05/03/22,Osasuna,1-0,Villarreal
+27,05/03/22,Espanyol,2-0,Getafe
+27,05/03/22,Valencia,3-1,Granada
+27,05/03/22,Real Madrid,4-1,Real Sociedad
+27,06/03/22,Cádiz,2-0,Rayo Vallecano
+27,06/03/22,Elche,1-2,Barcelona
+27,06/03/22,Celta de Vigo,4-3,Mallorca
+27,06/03/22,Real Betis,1-3,Atlético de Madrid
+27,07/03/22,Athletic Bilbao,3-1,Levante
+28,11/03/22,Atlético de Madrid,2-1,Cádiz
+28,12/03/22,Levante,1-1,Espanyol
+28,12/03/22,Granada,0-1,Elche
+28,12/03/22,Villarreal,1-0,Celta de Vigo
+28,12/03/22,Getafe,0-0,Valencia
+28,13/03/22,Rayo Vallecano,1-1,Sevilla
+28,13/03/22,Real Betis,1-0,Athletic Bilbao
+28,13/03/22,Real Sociedad,1-0,Alavés
+28,13/03/22,Barcelona,4-0,Osasuna
+28,14/03/22,Mallorca,0-3,Real Madrid
+29,18/03/22,Athletic Bilbao,1-1,Getafe
+29,19/03/22,Alavés,2-3,Granada
+29,19/03/22,Elche,0-1,Valencia
+29,19/03/22,Osasuna,3-1,Levante
+29,19/03/22,Rayo Vallecano,0-1,Atlético de Madrid
+29,20/03/22,Espanyol,1-0,Mallorca
+29,20/03/22,Celta de Vigo,0-0,Real Betis
+29,20/03/22,Cádiz,1-0,Villarreal
+29,20/03/22,Sevilla,0-0,Real Sociedad
+29,20/03/22,Real Madrid,0-4,Barcelona
+30,02/04/22,Getafe,1-0,Mallorca
+30,02/04/22,Levante,2-0,Villarreal
+30,02/04/22,Celta de Vigo,1-2,Real Madrid
+30,02/04/22,Atlético de Madrid,4-1,Alavés
+30,03/04/22,Athletic Bilbao,2-1,Elche
+30,03/04/22,Real Betis,4-1,Osasuna
+30,03/04/22,Granada,2-2,Rayo Vallecano
+30,03/04/22,Valencia,0-0,Cádiz
+30,03/04/22,Barcelona,1-0,Sevilla
+30,04/04/22,Real Sociedad,1-0,Espanyol
+31,08/04/22,Sevilla,4-2,Granada

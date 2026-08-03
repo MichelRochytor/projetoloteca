@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/01/11,Anapolina,2-0,Aparecidense
+1,16/01/11,CRAC,5-2,Morrinhos
+1,16/01/11,Goianésia,0-1,Vila Nova
+1,16/01/11,Trindade,0-1,Goiás
+1,17/01/11,Atlético Goianiense,3-2,Santa Helena
+2,19/01/11,Morrinhos,1-0,Trindade
+2,19/01/11,Vila Nova,1-1,Anapolina
+2,19/01/11,Goiás,1-5,CRAC
+2,20/01/11,Aparecidense,2-3,Atlético Goianiense
+2,20/01/11,Santa Helena,0-2,Goianésia
+3,23/01/11,Anapolina,0-0,Santa Helena
+3,23/01/11,CRAC,0-0,Aparecidense
+3,23/01/11,Morrinhos,0-1,Atlético Goianiense
+3,23/01/11,Trindade,4-0,Goianésia
+3,23/01/11,Vila Nova,0-0,Goiás
+4,26/01/11,Anapolina,2-0,CRAC
+4,26/01/11,Goiás,1-0,Morrinhos
+4,26/01/11,Santa Helena,1-4,Vila Nova
+4,26/01/11,Atlético Goianiense,3-0,Trindade
+4,27/01/11,Goianésia,1-1,Aparecidense
+5,29/01/11,Goiás,1-0,Atlético Goianiense
+5,30/01/11,Aparecidense,3-1,Santa Helena
+5,30/01/11,CRAC,0-2,Vila Nova
+5,30/01/11,Morrinhos,4-1,Goianésia
+5,30/01/11,Trindade,2-3,Anapolina
+6,02/02/11,Anapolina,1-0,Goiás
+6,02/02/11,Aparecidense,1-0,Morrinhos
+6,02/02/11,Atlético Goianiense,3-0,Goianésia
+6,02/02/11,Santa Helena,0-1,CRAC
+6,02/02/11,Vila Nova,2-0,Trindade
+7,06/02/11,Goianésia,2-2,Anapolina
+7,06/02/11,Goiás,3-2,Aparecidense
+7,06/02/11,Santa Helena,4-2,Morrinhos
+7,06/02/11,Trindade,3-4,CRAC
+7,06/02/11,Atlético Goianiense,2-1,Vila Nova
+8,12/02/11,Goianésia,0-0,Goiás
+8,13/02/11,CRAC,2-4,Atlético Goianiense
+8,13/02/11,Morrinhos,0-3,Anapolina
+8,13/02/11,Trindade,0-1,Santa Helena
+8,13/02/11,Vila Nova,3-2,Aparecidense
+9,20/02/11,Anapolina,1-0,Atlético Goianiense
+9,20/02/11,Aparecidense,0-1,Trindade
+9,20/02/11,CRAC,2-1,Goianésia
+9,20/02/11,Santa Helena,1-6,Goiás
+9,21/02/11,Vila Nova,3-1,Morrinhos
+10,26/02/11,Goiás,2-1,Vila Nova
+10,27/02/11,Aparecidense,2-2,CRAC
+10,27/02/11,Atlético Goianiense,4-0,Morrinhos
+10,27/02/11,Goianésia,2-0,Trindade
+10,27/02/11,Santa Helena,2-3,Anapolina
+11,09/03/11,Goiás,3-1,Anapolina
+11,09/03/11,Morrinhos,1-1,Santa Helena
+11,09/03/11,Trindade,2-2,Aparecidense
+11,09/03/11,Goianésia,1-3,Atlético Goianiense
+11,09/03/11,Vila Nova,5-2,CRAC
+12,13/03/11,Anapolina,0-0,Goianésia
+12,13/03/11,Atlético Goianiense,2-0,Goiás
+12,13/03/11,CRAC,3-1,Santa Helena
+12,13/03/11,Morrinhos,0-3,Aparecidense
+12,14/03/11,Trindade,1-3,Vila Nova
+13,20/03/11,Anapolina,0-1,Morrinhos
+13,20/03/11,Atlético Goianiense,2-1,CRAC
+13,20/03/11,Goiás,3-1,Goianésia
+13,20/03/11,Santa Helena,1-2,Trindade
+13,20/03/11,Aparecidense,2-1,Vila Nova
+14,23/03/11,Aparecidense,1-6,Goiás
+14,23/03/11,CRAC,3-0,Anapolina
+14,23/03/11,Vila Nova,1-2,Santa Helena
+14,23/03/11,Goianésia,5-2,Morrinhos
+14,23/03/11,Trindade,1-3,Atlético Goianiense
+15,27/03/11,Anapolina,4-0,Trindade
+15,27/03/11,Goianésia,3-0,CRAC
+15,27/03/11,Santa Helena,2-0,Aparecidense
+15,27/03/11,Vila Nova,1-0,Atlético Goianiense
+15,28/03/11,Morrinhos,3-1,Goiás
+16,03/04/11,Aparecidense,1-0,Goianésia
+16,03/04/11,Atlético Goianiense,2-3,Anapolina
+16,03/04/11,CRAC,3-1,Trindade
+16,03/04/11,Goiás,3-0,Santa Helena
+16,03/04/11,Morrinhos,2-3,Vila Nova
+17,10/04/11,Anapolina,2-2,Vila Nova
+17,10/04/11,Atlético Goianiense,1-3,Aparecidense
+17,10/04/11,CRAC,2-2,Goiás
+17,10/04/11,Goianésia,3-2,Santa Helena
+17,10/04/11,Trindade,1-1,Morrinhos
+18,17/04/11,Aparecidense,4-2,Anapolina
+18,17/04/11,Goiás,1-0,Trindade
+18,17/04/11,Morrinhos,6-2,CRAC
+18,17/04/11,Santa Helena,2-1,Atlético Goianiense
+18,17/04/11,Vila Nova,3-1,Goianésia
+SF,24/04/11,Goiás,1-0,Vila Nova
+SF,25/04/11,Anapolina,0-1,Atlético Goianiense
+SF,30/04/11,Atlético Goianiense,4-2,Anapolina
+SF,01/05/11,Vila Nova,2-2,Goiás
+F,08/05/11,Atlético Goianiense,1-1,Goiás
+F,15/05/11,Goiás,1-1,Atlético Goianiense

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/08/05,Everton,0-2,Manchester United
+1,13/08/05,Aston Villa,2-2,Bolton
+1,13/08/05,Fulham,0-0,Birmingham City
+1,13/08/05,Manchester City,0-0,West Bromwich
+1,13/08/05,Portsmouth,0-2,Tottenham
+1,13/08/05,Sunderland,1-3,Charlton Athletic
+1,13/08/05,West Ham,3-1,Blackburn Rovers
+1,13/08/05,Middlesbrough,0-0,Liverpool
+1,14/08/05,Arsenal,2-0,Newcastle
+1,14/08/05,Wigan Athletic,0-1,Chelsea
+2,20/08/05,Manchester United,1-0,Aston Villa
+2,20/08/05,Blackburn Rovers,2-1,Fulham
+2,20/08/05,Charlton Athletic,1-0,Wigan Athletic
+2,20/08/05,Liverpool,1-0,Sunderland
+2,20/08/05,Newcastle,0-0,West Ham
+2,20/08/05,Tottenham,2-0,Middlesbrough
+2,20/08/05,West Bromwich,2-1,Portsmouth
+2,20/08/05,Birmingham City,1-2,Manchester City
+2,21/08/05,Bolton,0-1,Everton
+2,21/08/05,Chelsea,1-0,Arsenal
+3,23/08/05,Birmingham City,0-3,Middlesbrough
+3,23/08/05,Portsmouth,1-1,Aston Villa
+3,23/08/05,Sunderland,1-2,Manchester City
+3,24/08/05,Arsenal,4-1,Fulham
+3,24/08/05,Chelsea,4-0,West Bromwich
+3,24/08/05,Bolton,2-0,Newcastle
+3,24/08/05,Blackburn Rovers,0-0,Tottenham
+4,27/08/05,West Bromwich,2-3,Birmingham City
+4,27/08/05,Aston Villa,1-0,Blackburn Rovers
+4,27/08/05,Fulham,1-0,Everton
+4,27/08/05,Manchester City,2-1,Portsmouth
+4,27/08/05,Tottenham,0-2,Chelsea
+4,27/08/05,West Ham,1-2,Bolton
+4,27/08/05,Wigan Athletic,1-0,Sunderland
+4,28/08/05,Middlesbrough,0-3,Charlton Athletic
+4,28/08/05,Newcastle,0-2,Manchester United
+5,10/09/05,Birmingham City,0-1,Charlton Athletic
+5,10/09/05,Chelsea,2-0,Sunderland
+5,10/09/05,Everton,0-1,Portsmouth
+5,10/09/05,Manchester United,1-1,Manchester City
+5,10/09/05,Newcastle,1-1,Fulham
+5,10/09/05,Tottenham,0-0,Liverpool
+5,10/09/05,West Bromwich,1-2,Wigan Athletic
+5,10/09/05,Middlesbrough,2-1,Arsenal
+5,11/09/05,Bolton,0-0,Blackburn Rovers
+5,12/09/05,West Ham,4-0,Aston Villa
+6,17/09/05,Charlton Athletic,0-2,Chelsea
+6,17/09/05,Fulham,1-2,West Ham
+6,17/09/05,Portsmouth,1-1,Birmingham City
+6,17/09/05,Sunderland,1-1,West Bromwich
+6,17/09/05,Aston Villa,1-1,Tottenham
+6,18/09/05,Liverpool,0-0,Manchester United
+6,18/09/05,Blackburn Rovers,0-3,Newcastle
+6,18/09/05,Wigan Athletic,1-1,Middlesbrough
+6,18/09/05,Manchester City,0-1,Bolton
+6,19/09/05,Arsenal,2-0,Everton
+7,24/09/05,Birmingham City,2-2,Liverpool
+7,24/09/05,Chelsea,2-1,Aston Villa
+7,24/09/05,Everton,0-1,Wigan Athletic
+7,24/09/05,Manchester United,1-2,Blackburn Rovers
+7,24/09/05,Newcastle,1-0,Manchester City
+7,24/09/05,West Bromwich,1-2,Charlton Athletic
+7,24/09/05,West Ham,0-0,Arsenal
+7,24/09/05,Bolton,1-0,Portsmouth
+7,25/09/05,Middlesbrough,0-2,Sunderland
+7,26/09/05,Tottenham,1-0,Fulham
+8,01/10/05,Blackburn Rovers,2-0,West Bromwich
+8,01/10/05,Charlton Athletic,2-3,Tottenham
+8,01/10/05,Fulham,2-3,Manchester United
+8,01/10/05,Portsmouth,0-0,Newcastle
+8,01/10/05,Sunderland,1-1,West Ham
+8,02/10/05,Manchester City,2-0,Everton
+8,02/10/05,Wigan Athletic,2-1,Bolton
+8,02/10/05,Arsenal,1-0,Birmingham City
+8,02/10/05,Aston Villa,2-3,Middlesbrough
+8,02/10/05,Liverpool,1-4,Chelsea
+9,15/10/05,Wigan Athletic,1-0,Newcastle
+9,15/10/05,Chelsea,5-1,Bolton
+9,15/10/05,Liverpool,1-0,Blackburn Rovers
+9,15/10/05,Sunderland,1-3,Manchester United
+9,15/10/05,Tottenham,2-0,Everton
+9,15/10/05,West Bromwich,2-1,Arsenal
+9,15/10/05,Middlesbrough,1-1,Portsmouth
+9,16/10/05,Birmingham City,0-1,Aston Villa
+9,16/10/05,Manchester City,2-1,West Ham
+9,17/10/05,Charlton Athletic,1-1,Fulham
+10,22/10/05,Blackburn Rovers,2-0,Birmingham City
+10,22/10/05,Arsenal,1-0,Manchester City
+10,22/10/05,Aston Villa,0-2,Wigan Athletic
+10,22/10/05,Fulham,2-0,Liverpool
+10,22/10/05,Manchester United,1-1,Tottenham
+10,22/10/05,Portsmouth,1-2,Charlton Athletic
+10,23/10/05,Newcastle,3-2,Sunderland
+10,23/10/05,Bolton,2-0,West Bromwich
+10,23/10/05,West Ham,2-1,Middlesbrough
+10,23/10/05,Everton,1-1,Chelsea
+11,29/10/05,Wigan Athletic,1-0,Fulham
+11,29/10/05,Tottenham,1-1,Arsenal
+11,29/10/05,Birmingham City,0-1,Everton
+11,29/10/05,Charlton Athletic,0-1,Bolton
+11,29/10/05,Chelsea,4-2,Blackburn Rovers
+11,29/10/05,Liverpool,2-0,West Ham
+11,29/10/05,Sunderland,1-4,Portsmouth
+11,29/10/05,Middlesbrough,4-1,Manchester United
+11,30/10/05,West Bromwich,0-3,Newcastle
+11,31/10/05,Manchester City,3-1,Aston Villa
+12,05/11/05,Aston Villa,0-2,Liverpool
+12,05/11/05,Arsenal,3-1,Sunderland
+12,05/11/05,Blackburn Rovers,4-1,Charlton Athletic
+12,05/11/05,Fulham,2-1,Manchester City
+12,05/11/05,Newcastle,1-0,Birmingham City
+12,05/11/05,West Ham,1-0,West Bromwich
+12,05/11/05,Portsmouth,0-2,Wigan Athletic
+12,06/11/05,Everton,1-0,Middlesbrough
+12,06/11/05,Manchester United,1-0,Chelsea
+12,07/11/05,Bolton,1-0,Tottenham
+13,19/11/05,Wigan Athletic,2-3,Arsenal
+13,19/11/05,Charlton Athletic,1-3,Manchester United
+13,19/11/05,Chelsea,3-0,Newcastle
+13,19/11/05,Liverpool,3-0,Portsmouth
+13,19/11/05,Manchester City,0-0,Blackburn Rovers
+13,19/11/05,Sunderland,1-3,Aston Villa
+13,19/11/05,West Bromwich,4-0,Everton
+13,20/11/05,Tottenham,1-1,West Ham
+13,20/11/05,Middlesbrough,3-2,Fulham
+14,26/11/05,Arsenal,3-0,Blackburn Rovers
+14,26/11/05,Aston Villa,1-0,Charlton Athletic
+14,26/11/05,Manchester City,0-1,Liverpool
+14,26/11/05,Sunderland,0-1,Birmingham City
+14,26/11/05,Wigan Athletic,1-2,Tottenham
+14,26/11/05,Portsmouth,0-2,Chelsea
+14,27/11/05,Everton,1-0,Newcastle
+14,27/11/05,Fulham,2-1,Bolton
+14,27/11/05,Middlesbrough,2-2,West Bromwich
+14,27/11/05,West Ham,1-2,Manchester United
+17,30/11/05,Sunderland,0-2,Liverpool
+15,03/12/05,Liverpool,3-0,Wigan Athletic
+15,03/12/05,Blackburn Rovers,0-2,Everton
+15,03/12/05,Bolton,2-0,Arsenal
+15,03/12/05,Chelsea,1-0,Middlesbrough
+15,03/12/05,Newcastle,1-1,Aston Villa
+15,03/12/05,Tottenham,3-2,Sunderland
+15,03/12/05,West Bromwich,0-0,Fulham
+15,03/12/05,Manchester United,3-0,Portsmouth
+15,04/12/05,Charlton Athletic,2-5,Manchester City
+15,05/12/05,Birmingham City,1-2,West Ham
+16,10/12/05,Liverpool,2-0,Middlesbrough
+16,10/12/05,Birmingham City,1-0,Fulham
+16,10/12/05,Blackburn Rovers,3-2,West Ham
+16,10/12/05,Bolton,1-1,Aston Villa
+16,10/12/05,Charlton Athletic,2-0,Sunderland
+16,10/12/05,Chelsea,1-0,Wigan Athletic
+16,10/12/05,West Bromwich,2-0,Manchester City
+16,10/12/05,Newcastle,1-0,Arsenal
+16,11/12/05,Manchester United,1-1,Everton
+16,12/12/05,Tottenham,3-1,Portsmouth
+3,14/12/05,Everton,1-2,West Ham
+3,14/12/05,Manchester United,4-0,Wigan Athletic
+17,17/12/05,Aston Villa,0-2,Manchester United
+17,17/12/05,Everton,0-4,Bolton
+17,17/12/05,Fulham,2-1,Blackburn Rovers
+17,17/12/05,Portsmouth,1-0,West Bromwich
+17,17/12/05,West Ham,2-4,Newcastle
+17,17/12/05,Wigan Athletic,3-0,Charlton Athletic
+17,17/12/05,Manchester City,4-1,Birmingham City
+17,18/12/05,Middlesbrough,3-3,Tottenham
+17,18/12/05,Arsenal,0-2,Chelsea
+18,26/12/05,Charlton Athletic,0-1,Arsenal
+18,26/12/05,Chelsea,3-2,Fulham
+18,26/12/05,Tottenham,2-0,Birmingham City
+18,26/12/05,Liverpool,2-0,Newcastle
+18,26/12/05,Manchester United,3-0,West Bromwich
+18,26/12/05,Middlesbrough,0-2,Blackburn Rovers
+18,26/12/05,Portsmouth,1-1,West Ham
+18,26/12/05,Sunderland,0-0,Bolton
+18,26/12/05,Wigan Athletic,4-3,Manchester City
+18,26/12/05,Aston Villa,4-0,Everton
+19,28/12/05,Arsenal,4-0,Portsmouth
+19,28/12/05,Birmingham City,2-2,Manchester United
+19,28/12/05,Fulham,3-3,Aston Villa
+19,28/12/05,Manchester City,0-1,Chelsea
+19,28/12/05,West Bromwich,2-0,Tottenham
+19,28/12/05,West Ham,0-2,Wigan Athletic
+19,28/12/05,Everton,1-3,Liverpool
+20,31/12/05,Aston Villa,0-0,Arsenal
+20,31/12/05,Charlton Athletic,2-0,West Ham
+20,31/12/05,Chelsea,2-0,Birmingham City
+20,31/12/05,Tottenham,2-0,Newcastle
+20,31/12/05,Liverpool,1-0,West Bromwich
+20,31/12/05,Manchester United,4-1,Bolton
+20,31/12/05,Middlesbrough,0-0,Manchester City
+20,31/12/05,Portsmouth,1-0,Fulham
+20,31/12/05,Sunderland,0-1,Everton
+20,31/12/05,Wigan Athletic,0-3,Blackburn Rovers
+21,02/01/06,West Bromwich,1-2,Aston Villa
+21,02/01/06,West Ham,1-3,Chelsea
+21,02/01/06,Birmingham City,2-0,Wigan Athletic
+21,02/01/06,Bolton,2-2,Liverpool
+21,02/01/06,Everton,3-1,Charlton Athletic
+21,02/01/06,Fulham,2-1,Sunderland
+21,02/01/06,Newcastle,2-2,Middlesbrough
+21,02/01/06,Blackburn Rovers,2-1,Portsmouth
+21,03/01/06,Arsenal,0-0,Manchester United
+21,04/01/06,Manchester City,0-2,Tottenham
+22,14/01/06,Manchester City,3-1,Manchester United
+22,14/01/06,Arsenal,7-0,Middlesbrough
+22,14/01/06,Aston Villa,1-2,West Ham
+22,14/01/06,Charlton Athletic,2-0,Birmingham City
+22,14/01/06,Fulham,1-0,Newcastle
+22,14/01/06,Liverpool,1-0,Tottenham
+22,14/01/06,Portsmouth,0-1,Everton
+22,14/01/06,Blackburn Rovers,0-0,Bolton
+22,15/01/06,Wigan Athletic,0-1,West Bromwich
+22,15/01/06,Sunderland,1-2,Chelsea
+23,21/01/06,Everton,1-0,Arsenal
+23,21/01/06,Birmingham City,5-0,Portsmouth
+23,21/01/06,Bolton,2-0,Manchester City
+23,21/01/06,Middlesbrough,2-3,Wigan Athletic
+23,21/01/06,Newcastle,0-1,Blackburn Rovers
+23,21/01/06,Tottenham,0-0,Aston Villa
+23,21/01/06,West Bromwich,0-1,Sunderland
+23,22/01/06,Chelsea,1-1,Charlton Athletic
+23,22/01/06,Manchester United,1-0,Liverpool
+23,23/01/06,West Ham,2-1,Fulham
+24,31/01/06,Sunderland,0-3,Middlesbrough
+24,31/01/06,Wigan Athletic,1-1,Everton
+24,31/01/06,Charlton Athletic,0-0,West Bromwich
+24,31/01/06,Fulham,1-0,Tottenham
+24,01/02/06,Portsmouth,1-1,Bolton
+24,01/02/06,Aston Villa,1-1,Chelsea
+24,01/02/06,Manchester City,3-0,Newcastle
+24,01/02/06,Arsenal,2-3,West Ham
+24,01/02/06,Liverpool,1-1,Birmingham City
+24,01/02/06,Blackburn Rovers,4-3,Manchester United
+25,04/02/06,Birmingham City,0-2,Arsenal
+25,04/02/06,Bolton,1-1,Wigan Athletic
+25,04/02/06,Everton,1-0,Manchester City
+25,04/02/06,Middlesbrough,0-4,Aston Villa
+25,04/02/06,Newcastle,2-0,Portsmouth
+25,04/02/06,West Bromwich,2-0,Blackburn Rovers
+25,04/02/06,West Ham,2-0,Sunderland
+25,04/02/06,Manchester United,4-2,Fulham
+25,05/02/06,Tottenham,3-1,Charlton Athletic
+25,05/02/06,Chelsea,2-0,Liverpool
+3,08/02/06,Charlton Athletic,2-0,Liverpool
+26,11/02/06,Wigan Athletic,0-1,Liverpool
+26,11/02/06,Arsenal,1-1,Bolton
+26,11/02/06,Aston Villa,1-2,Newcastle
+26,11/02/06,Everton,1-0,Blackburn Rovers
+26,11/02/06,Fulham,6-1,West Bromwich
+26,11/02/06,Middlesbrough,3-0,Chelsea
+26,11/02/06,Portsmouth,1-3,Manchester United
+26,12/02/06,Sunderland,1-1,Tottenham
+26,12/02/06,Manchester City,3-2,Charlton Athletic
+26,13/02/06,West Ham,3-0,Birmingham City
+4,14/02/06,Liverpool,1-0,Arsenal
+19,15/02/06,Blackburn Rovers,2-0,Sunderland
+27,19/02/06,Tottenham,2-2,Wigan Athletic
+19,22/02/06,Newcastle,0-0,Charlton Athletic
+27,25/02/06,Birmingham City,1-0,Sunderland
+27,25/02/06,Blackburn Rovers,1-0,Arsenal
+27,25/02/06,Charlton Athletic,0-0,Aston Villa
+27,25/02/06,Chelsea,2-0,Portsmouth
+27,25/02/06,Newcastle,2-0,Everton
+27,26/02/06,Liverpool,1-0,Manchester City
+27,26/02/06,Bolton,2-1,Fulham
+27,26/02/06,West Bromwich,0-2,Middlesbrough
+28,04/03/06,West Bromwich,1-2,Chelsea
+28,04/03/06,Aston Villa,1-0,Portsmouth
+28,04/03/06,Fulham,0-4,Arsenal
+28,04/03/06,Middlesbrough,1-0,Birmingham City
+28,04/03/06,Newcastle,3-1,Bolton
+28,04/03/06,West Ham,2-2,Everton
+28,04/03/06,Liverpool,0-0,Charlton Athletic
+28,05/03/06,Manchester City,2-1,Sunderland
+28,05/03/06,Tottenham,3-2,Blackburn Rovers
+28,06/03/06,Wigan Athletic,1-2,Manchester United
+29,11/03/06,Birmingham City,1-1,West Bromwich
+29,11/03/06,Chelsea,2-1,Tottenham
+29,11/03/06,Bolton,4-1,West Ham
+29,11/03/06,Everton,3-1,Fulham
+29,11/03/06,Portsmouth,2-1,Manchester City
+29,11/03/06,Sunderland,0-1,Wigan Athletic
+29,11/03/06,Blackburn Rovers,2-0,Aston Villa
+29,12/03/06,Manchester United,2-0,Newcastle
+29,12/03/06,Charlton Athletic,2-1,Middlesbrough
+29,12/03/06,Arsenal,2-1,Liverpool
+35,15/03/06,Liverpool,5-1,Fulham
+30,18/03/06,Everton,4-1,Aston Villa
+30,18/03/06,Arsenal,3-0,Charlton Athletic
+30,18/03/06,Blackburn Rovers,3-2,Middlesbrough
+30,18/03/06,Bolton,2-0,Sunderland
+30,18/03/06,Manchester City,0-1,Wigan Athletic
+30,18/03/06,West Bromwich,1-2,Manchester United
+30,18/03/06,West Ham,2-4,Portsmouth
+30,18/03/06,Birmingham City,0-2,Tottenham
+30,19/03/06,Newcastle,1-3,Liverpool
+30,19/03/06,Fulham,1-0,Chelsea
+31,25/03/06,Liverpool,3-1,Everton
+31,25/03/06,Aston Villa,0-0,Fulham

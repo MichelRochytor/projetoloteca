@@ -1,0 +1,122 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+D,17/01/18,Red Bull Brasil,0-0,Ferroviária
+C,17/01/18,São Bento,2-0,São Paulo
+D,17/01/18,Linense,0-3,Santos
+B,17/01/18,Ituano,3-1,São Caetano
+D,17/01/18,Grêmio Novorizontino,3-1,Mirassol
+B,17/01/18,Corinthians,0-1,Ponte Preta
+C,18/01/18,Palmeiras,3-1,Santo André
+D,18/01/18,Bragantino,2-0,Botafogo-SP
+D,20/01/18,Mirassol,0-0,São Bento
+C,20/01/18,São Paulo,0-0,Grêmio Novorizontino
+C,20/01/18,Ferroviária,1-1,Ituano
+D,21/01/18,Botafogo-SP,0-1,Palmeiras
+B,21/01/18,São Caetano,0-4,Corinthians
+D,21/01/18,Santo André,1-1,Red Bull Brasil
+B,21/01/18,Ponte Preta,0-1,Linense
+D,22/01/18,Santos,0-1,Bragantino
+B,24/01/18,Linense,0-2,São Caetano
+C,24/01/18,Corinthians,2-1,Ferroviária
+D,24/01/18,Botafogo-SP,3-1,Grêmio Novorizontino
+D,24/01/18,Mirassol,0-2,São Paulo
+C,25/01/18,Bragantino,0-1,São Bento
+D,25/01/18,Ponte Preta,1-2,Santos
+B,25/01/18,Ituano,0-0,Santo André
+D,25/01/18,Palmeiras,2-1,Red Bull Brasil
+B,27/01/18,Corinthians,2-1,São Paulo
+C,27/01/18,Grêmio Novorizontino,1-0,São Caetano
+C,28/01/18,Bragantino,0-2,Palmeiras
+C,28/01/18,São Bento,0-1,Ponte Preta
+D,28/01/18,Santos,1-1,Ituano
+D,29/01/18,Santo André,1-1,Mirassol
+D,29/01/18,Red Bull Brasil,2-1,Linense
+D,29/01/18,Ferroviária,1-2,Botafogo-SP
+C,02/02/18,São Bento,2-2,Santo André
+B,03/02/18,Ituano,1-1,Ponte Preta
+D,03/02/18,São Paulo,2-0,Botafogo-SP
+D,03/02/18,Red Bull Brasil,1-1,Bragantino
+D,04/02/18,Palmeiras,2-1,Santos
+C,04/02/18,Grêmio Novorizontino,0-1,Corinthians
+D,04/02/18,São Caetano,0-2,Mirassol
+C,05/02/18,Linense,1-2,Ferroviária
+B,07/02/18,São Paulo,1-0,Bragantino
+B,09/02/18,Santo André,2-1,Corinthians
+C,09/02/18,São Bento,2-2,Linense
+D,10/02/18,Ferroviária,2-2,Santos
+C,10/02/18,Ponte Preta,1-1,Grêmio Novorizontino
+D,10/02/18,Botafogo-SP,1-0,Ituano
+D,10/02/18,Mirassol,0-2,Palmeiras
+D,10/02/18,São Caetano,1-1,Red Bull Brasil
+D,14/02/18,Bragantino,0-0,Mirassol
+D,14/02/18,Santos,2-0,São Caetano
+D,14/02/18,Botafogo-SP,1-1,Ponte Preta
+C,14/02/18,Ferroviária,2-1,Santo André
+C,14/02/18,Corinthians,0-1,São Bento
+D,15/02/18,Grêmio Novorizontino,0-2,Red Bull Brasil
+C,15/02/18,Palmeiras,2-2,Linense
+B,17/02/18,Santo André,1-1,Bragantino
+C,17/02/18,São Caetano,1-0,Ferroviária
+D,18/02/18,Mirassol,1-1,Ituano
+D,18/02/18,São Paulo,0-1,Santos
+C,18/02/18,Ponte Preta,0-0,Palmeiras
+D,18/02/18,São Bento,0-0,Botafogo-SP
+D,19/02/18,Red Bull Brasil,1-1,Corinthians
+C,19/02/18,Linense,2-3,Grêmio Novorizontino
+B,21/02/18,Ituano,2-1,São Paulo
+C,24/02/18,Corinthians,2-0,Palmeiras
+C,24/02/18,São Caetano,1-0,São Bento
+C,25/02/18,Bragantino,2-1,Grêmio Novorizontino
+C,25/02/18,São Paulo,0-0,Ferroviária
+D,25/02/18,Santos,2-0,Santo André
+D,25/02/18,Mirassol,1-0,Ponte Preta
+D,26/02/18,Ituano,1-0,Red Bull Brasil
+D,26/02/18,Botafogo-SP,1-1,Linense
+D,02/03/18,Ferroviária,2-2,Mirassol
+D,03/03/18,Red Bull Brasil,0-0,São Bento
+D,03/03/18,Santo André,0-1,Botafogo-SP
+C,03/03/18,Grêmio Novorizontino,3-2,Ituano
+D,04/03/18,Santos,1-1,Corinthians
+B,04/03/18,Linense,1-2,São Paulo
+B,05/03/18,Ponte Preta,0-1,Bragantino
+C,05/03/18,Palmeiras,0-1,São Caetano
+C,06/03/18,São Bento,0-1,Ituano
+B,07/03/18,Linense,1-0,Santo André
+D,07/03/18,Grêmio Novorizontino,2-1,Santos
+D,07/03/18,Corinthians,1-0,Mirassol
+C,08/03/18,Ferroviária,0-0,Bragantino
+D,08/03/18,São Caetano,0-0,Botafogo-SP
+C,08/03/18,Palmeiras,2-0,São Paulo
+D,08/03/18,Red Bull Brasil,0-0,Ponte Preta
+D,11/03/18,São Paulo,3-1,Red Bull Brasil
+C,11/03/18,Ituano,0-3,Palmeiras
+D,11/03/18,Santos,1-3,São Bento
+D,11/03/18,Botafogo-SP,0-2,Corinthians
+D,11/03/18,Mirassol,1-1,Linense
+C,11/03/18,Santo André,2-3,Grêmio Novorizontino
+C,11/03/18,Ponte Preta,0-0,Ferroviária
+B,11/03/18,Bragantino,1-1,São Caetano
+2,17/03/18,Mirassol,3-1,Red Bull Brasil
+2,17/03/18,São Bento,1-2,Ituano
+QF,17/03/18,São Caetano,1-0,São Paulo
+QF,17/03/18,Grêmio Novorizontino,0-3,Palmeiras
+2,18/03/18,Ferroviária,0-2,Ponte Preta
+QF,18/03/18,Bragantino,3-2,Corinthians
+QF,18/03/18,Botafogo-SP,0-0,Santos
+2,20/03/18,Red Bull Brasil,2-2,São Bento
+QF,20/03/18,São Paulo,2-0,São Caetano
+2,21/03/18,Ituano,2-2,Ferroviária
+2,21/03/18,Ponte Preta,2-0,Mirassol
+QF,21/03/18,Santos,0-0(3-1 Pen.),Botafogo-SP
+QF,21/03/18,Palmeiras,5-0,Grêmio Novorizontino
+QF,22/03/18,Corinthians,2-0,Bragantino
+2,24/03/18,Ituano,0-2,Mirassol
+2,24/03/18,Ferroviária,3-1,Red Bull Brasil
+2,24/03/18,São Bento,3-1,Ponte Preta
+SF,24/03/18,Santos,0-1,Palmeiras
+SF,25/03/18,São Paulo,1-0,Corinthians
+SF,27/03/18,Palmeiras,1-2(5-3 Pen.),Santos
+SF,28/03/18,Corinthians,1-0(5-4 Pen.),São Paulo
+,29/03/18,Mirassol,1-1,Ponte Preta
+F,31/03/18,Corinthians,0-1,Palmeiras
+,03/04/18,Ponte Preta,1-0,Mirassol
+F,08/04/18,Palmeiras,0-1(3-4 Pen.),Corinthians

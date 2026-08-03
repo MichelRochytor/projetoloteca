@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,09/03/03,América-PB,1-2,Botafogo-PB
+1T,09/03/03,Treze,2-1,Perilima
+1T,09/03/03,Sousa,2-1,Miramar
+1T,09/03/03,Atlético-PB,4-2,Serrano-PB
+1T,13/03/03,Auto Esporte,1-2,Campinense
+1T,15/03/03,Perilima,2-2,Serrano-PB
+1T,16/03/03,América-PB,10-0,Auto Esporte
+1T,16/03/03,Botafogo-PB,5-2,Atlético-PB
+1T,16/03/03,Miramar,0-0,Treze
+1T,16/03/03,Campinense,1-1,Sousa
+1T,22/03/03,Perilima,2-2,Botafogo-PB
+1T,23/03/03,Auto Esporte,0-2,Miramar
+1T,23/03/03,Serrano-PB,0-4,Treze
+1T,23/03/03,Sousa,3-0,América-PB
+1T,23/03/03,Atlético-PB,2-2,Campinense
+1T,29/03/03,Perilima,2-1,América-PB
+1T,30/03/03,Botafogo-PB,2-0,Serrano-PB
+1T,30/03/03,Auto Esporte,3-1,Sousa
+1T,30/03/03,Miramar,1-1,Campinense
+1T,30/03/03,Treze,2-3,Atlético-PB
+1T,05/04/03,Serrano-PB,1-3,América-PB
+1T,06/04/03,Auto Esporte,1-2,Botafogo-PB
+1T,06/04/03,Miramar,2-0,Perilima
+1T,06/04/03,Treze,2-2,Campinense
+1T,06/04/03,Sousa,2-1,Atlético-PB
+1T,12/04/03,Atlético-PB,3-2,Auto Esporte
+1T,13/04/03,América-PB,4-1,Miramar
+1T,13/04/03,Botafogo-PB,1-1,Treze
+1T,13/04/03,Campinense,2-0,Serrano-PB
+1T,13/04/03,Sousa,4-0,Perilima
+1T,19/04/03,Serrano-PB,2-2,Sousa
+1T,20/04/03,América-PB,1-1,Treze
+1T,20/04/03,Auto Esporte,1-3,Perilima
+1T,20/04/03,Miramar,0-0,Atlético-PB
+1T,20/04/03,Campinense,0-0,Botafogo-PB
+1T,26/04/03,Atlético-PB,3-1,Perilima
+1T,27/04/03,Botafogo-PB,0-1,Sousa
+1T,27/04/03,Treze,4-2,Auto Esporte
+1T,27/04/03,Campinense,2-5,América-PB
+1T,01/05/03,Miramar,2-1,Serrano-PB
+1T,04/05/03,Serrano-PB,2-2,Auto Esporte
+1T,04/05/03,Botafogo-PB,1-0,Miramar
+1T,04/05/03,Perilima,1-4,Campinense
+1T,04/05/03,Sousa,2-1,Treze
+1T,04/05/03,Atlético-PB,1-1,América-PB
+SF,07/05/03,América-PB,0-1,Sousa
+SF,07/05/03,Atlético-PB,3-0,Botafogo-PB
+SF,11/05/03,Sousa,1-2,América-PB
+SF,11/05/03,Botafogo-PB,1-0,Atlético-PB
+F,14/05/03,Atlético-PB,0-0,Sousa
+F,18/05/03,Sousa,0-2,Atlético-PB
+2T,24/05/03,Serrano-PB,3-0,Atlético-PB
+2T,25/05/03,Botafogo-PB,3-1,América-PB
+2T,25/05/03,Treze,3-0,Perilima
+2T,25/05/03,Campinense,3-1,Auto Esporte
+2T,25/05/03,Miramar,3-1,Sousa
+2T,31/05/03,Perilima,1-1,Serrano-PB
+2T,01/06/03,Auto Esporte,1-2,América-PB
+2T,01/06/03,Atlético-PB,2-1,Botafogo-PB
+2T,01/06/03,Treze,1-0,Miramar
+2T,01/06/03,Sousa,2-1,Campinense
+2T,05/06/03,Botafogo-PB,4-1,Perilima
+2T,07/06/03,Campinense,2-3,Atlético-PB
+2T,07/06/03,Treze,1-0,Serrano-PB
+2T,08/06/03,América-PB,2-1,Sousa
+2T,08/06/03,Miramar,2-2,Auto Esporte
+2T,14/06/03,Serrano-PB,0-2,Botafogo-PB
+2T,15/06/03,Sousa,2-1,Auto Esporte
+2T,15/06/03,Campinense,3-0,Miramar
+2T,15/06/03,Atlético-PB,1-1,Treze
+2T,19/06/03,América-PB,3-1,Perilima
+2T,21/06/03,Perilima,1-3,Miramar
+2T,22/06/03,América-PB,3-0,Serrano-PB
+2T,22/06/03,Auto Esporte,2-5,Botafogo-PB
+2T,22/06/03,Treze,1-2,Campinense
+2T,22/06/03,Atlético-PB,2-0,Sousa
+2T,28/06/03,Serrano-PB,2-2,Campinense
+2T,28/06/03,Perilima,2-7,Sousa
+2T,29/06/03,Miramar,3-2,América-PB
+2T,29/06/03,Treze,0-3,Botafogo-PB
+2T,29/06/03,Auto Esporte,1-3,Atlético-PB
+2T,05/07/03,Perilima,1-2,Auto Esporte
+2T,06/07/03,Sousa,5-0,Serrano-PB
+2T,06/07/03,Treze,1-2,América-PB
+2T,06/07/03,Atlético-PB,1-1,Miramar
+2T,06/07/03,Botafogo-PB,3-3,Campinense
+2T,13/07/03,América-PB,0-0,Campinense
+2T,13/07/03,Sousa,0-0,Botafogo-PB
+2T,13/07/03,Serrano-PB,0-0,Miramar
+2T,13/07/03,Auto Esporte,0-1,Treze
+2T,13/07/03,Perilima,0-7,Atlético-PB
+2T,20/07/03,Auto Esporte,4-2,Serrano-PB
+2T,20/07/03,Miramar,0-2,Botafogo-PB
+2T,20/07/03,Campinense,8-0,Perilima
+2T,20/07/03,Treze,3-0,Sousa
+2T,20/07/03,América-PB,2-1,Atlético-PB
+SF,23/07/03,Atlético-PB,3-1,América-PB
+SF,23/07/03,Treze,1-1,Botafogo-PB
+SF,27/07/03,América-PB,2-1,Atlético-PB
+SF,27/07/03,Botafogo-PB,4-0,Treze
+F,30/07/03,Atlético-PB,0-0,Botafogo-PB
+F,03/08/03,Botafogo-PB,2-0,Atlético-PB
+F,06/08/03,Atlético-PB,0-1,Botafogo-PB
+F,10/08/03,Botafogo-PB,2-1,Atlético-PB

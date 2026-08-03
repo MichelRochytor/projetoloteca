@@ -1,0 +1,217 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/04/22,Ypiranga-RS,0-2,Aparecidense
+1,09/04/22,Atlético Cearense,0-1,Campinense
+1,09/04/22,Remo,2-1,Vitória
+1,09/04/22,Botafogo-PB,2-1,São José-RS
+1,09/04/22,Volta Redonda,1-1,Figueirense
+1,10/04/22,Floresta-CE,1-0,Confiança
+1,10/04/22,Altos,1-3,Botafogo-SP
+1,10/04/22,Mirassol,2-1,Ferroviário
+1,11/04/22,GE Brasil,1-1,Manaus FC
+2,16/04/22,São José-RS,3-1,Volta Redonda
+2,16/04/22,Confiança,0-0,Ypiranga-RS
+2,16/04/22,Ferroviário,1-3,ABC
+2,16/04/22,Manaus FC,1-0,Remo
+2,16/04/22,Vitória,0-1,Floresta-CE
+2,17/04/22,Botafogo-SP,2-1,Botafogo-PB
+2,17/04/22,Aparecidense,0-1,Mirassol
+2,17/04/22,Campinense,2-0,GE Brasil
+2,17/04/22,Paysandu,5-0,Atlético Cearense
+2,18/04/22,Figueirense,4-1,Altos
+1,20/04/22,ABC,1-1,Paysandu
+3,23/04/22,GE Brasil,1-1,Botafogo-SP
+3,23/04/22,Botafogo-PB,1-0,Confiança
+3,23/04/22,Atlético Cearense,0-1,Ferroviário
+3,23/04/22,Remo,2-2,São José-RS
+3,23/04/22,ABC,1-0,Campinense
+3,24/04/22,Volta Redonda,3-1,Altos
+3,24/04/22,Floresta-CE,0-0,Figueirense
+3,24/04/22,Manaus FC,1-0,Aparecidense
+3,24/04/22,Ypiranga-RS,2-1,Vitória
+3,25/04/22,Mirassol,1-1,Paysandu
+4,30/04/22,Volta Redonda,4-0,Atlético Cearense
+4,30/04/22,Paysandu,1-1,Ypiranga-RS
+4,30/04/22,Campinense,1-1,Aparecidense
+4,30/04/22,Vitória,1-0,Manaus FC
+4,01/05/22,Figueirense,0-2,Mirassol
+4,01/05/22,Ferroviário,1-0,Botafogo-PB
+4,01/05/22,São José-RS,1-1,GE Brasil
+4,01/05/22,Confiança,1-2,Remo
+4,02/05/22,Botafogo-SP,0-1,Floresta-CE
+4,04/05/22,Altos,2-1,ABC
+5,07/05/22,Mirassol,1-0,Campinense
+5,07/05/22,Ferroviário,2-0,São José-RS
+5,07/05/22,Manaus FC,0-0,Confiança
+5,07/05/22,Botafogo-PB,2-1,Altos
+5,07/05/22,GE Brasil,1-0,Remo
+5,08/05/22,Ypiranga-RS,2-0,Floresta-CE
+5,08/05/22,Atlético Cearense,1-1,Figueirense
+5,08/05/22,ABC,1-0,Volta Redonda
+5,08/05/22,Paysandu,4-1,Botafogo-SP
+5,09/05/22,Aparecidense,0-0,Vitória
+6,14/05/22,Altos,0-1,Atlético Cearense
+6,14/05/22,Botafogo-SP,2-0,ABC
+6,14/05/22,Floresta-CE,0-1,Manaus FC
+6,15/05/22,Figueirense,2-1,Aparecidense
+6,15/05/22,Remo,3-1,Mirassol
+6,15/05/22,Volta Redonda,3-1,GE Brasil
+6,15/05/22,São José-RS,2-0,Paysandu
+6,17/05/22,Confiança,1-0,Ferroviário
+6,18/05/22,Campinense,0-0,Ypiranga-RS
+6,18/05/22,Vitória,0-1,Botafogo-PB
+7,21/05/22,Ferroviário,1-0,Botafogo-SP
+7,21/05/22,Atlético Cearense,0-1,ABC
+7,21/05/22,GE Brasil,0-1,Figueirense
+7,22/05/22,Mirassol,2-1,Altos
+7,22/05/22,Manaus FC,1-1,São José-RS
+7,22/05/22,Vitória,3-0,Confiança
+7,22/05/22,Aparecidense,3-2,Floresta-CE
+7,22/05/22,Paysandu,2-1,Volta Redonda
+7,23/05/22,Ypiranga-RS,2-1,Remo
+7,25/05/22,Botafogo-PB,1-1,Campinense
+8,28/05/22,São José-RS,1-1,Atlético Cearense
+8,28/05/22,Figueirense,1-0,Ferroviário
+8,28/05/22,Campinense,0-1,Vitória
+8,28/05/22,Confiança,1-1,Aparecidense
+8,28/05/22,ABC,3-0,GE Brasil
+8,29/05/22,Volta Redonda,0-1,Botafogo-PB
+8,29/05/22,Altos,3-0,Ypiranga-RS
+8,29/05/22,Botafogo-SP,2-2,Mirassol
+8,29/05/22,Remo,2-0,Floresta-CE
+8,30/05/22,Paysandu,2-0,Manaus FC
+9,03/06/22,Floresta-CE,2-3,Atlético Cearense
+9,04/06/22,Ypiranga-RS,3-3,Figueirense
+9,04/06/22,Botafogo-PB,0-0,ABC
+9,04/06/22,Confiança,2-1,Botafogo-SP
+9,04/06/22,Mirassol,2-0,GE Brasil
+9,05/06/22,Vitória,1-2,Volta Redonda
+9,05/06/22,Manaus FC,0-0,Altos
+9,05/06/22,Aparecidense,1-2,São José-RS
+9,05/06/22,Ferroviário,1-2,Paysandu
+9,06/06/22,Remo,4-0,Campinense
+10,11/06/22,GE Brasil,0-2,Ypiranga-RS
+10,11/06/22,São José-RS,4-0,Floresta-CE
+10,11/06/22,Campinense,1-2,Manaus FC
+10,11/06/22,Atlético Cearense,1-1,Vitória
+10,12/06/22,Altos,1-0,Ferroviário
+10,12/06/22,ABC,1-0,Mirassol
+10,12/06/22,Figueirense,0-0,Confiança
+10,12/06/22,Paysandu,2-1,Botafogo-PB
+10,13/06/22,Botafogo-SP,0-2,Aparecidense
+10,13/06/22,Volta Redonda,3-0,Remo
+11,18/06/22,GE Brasil,3-1,Ferroviário
+11,18/06/22,Confiança,2-3,Campinense
+11,18/06/22,Manaus FC,1-1,Figueirense
+11,18/06/22,Aparecidense,1-0,Paysandu
+11,19/06/22,Mirassol,2-1,São José-RS
+11,19/06/22,Botafogo-PB,2-0,Atlético Cearense
+11,19/06/22,Vitória,0-1,Botafogo-SP
+11,19/06/22,Remo,1-2,Altos
+11,20/06/22,Floresta-CE,1-1,Volta Redonda
+11,20/06/22,Ypiranga-RS,0-0,ABC
+12,25/06/22,ABC,0-0,Confiança
+12,25/06/22,Altos,0-0,Vitória
+12,26/06/22,Botafogo-SP,1-0,Manaus FC
+12,26/06/22,Atlético Cearense,0-0,Ypiranga-RS
+12,26/06/22,São José-RS,2-1,Campinense
+12,26/06/22,Ferroviário,0-2,Floresta-CE
+12,26/06/22,Volta Redonda,0-3,Aparecidense
+12,26/06/22,Paysandu,1-1,GE Brasil
+12,27/06/22,Figueirense,0-0,Remo
+13,02/07/22,Floresta-CE,2-2,Altos
+13,02/07/22,Manaus FC,4-2,Ferroviário
+13,02/07/22,Confiança,1-0,Volta Redonda
+13,02/07/22,Vitória,2-0,Figueirense
+13,03/07/22,GE Brasil,0-0,Botafogo-PB
+13,03/07/22,Mirassol,6-0,Atlético Cearense
+13,03/07/22,Remo,2-2,Paysandu
+13,03/07/22,Campinense,1-3,Botafogo-SP
+13,03/07/22,Ypiranga-RS,2-2,São José-RS
+13,04/07/22,Aparecidense,2-2,ABC
+14,09/07/22,Ferroviário,1-0,Aparecidense
+14,09/07/22,Botafogo-PB,1-1,Floresta-CE
+14,09/07/22,Figueirense,4-0,Campinense
+14,09/07/22,Paysandu,1-0,Confiança
+14,10/07/22,Botafogo-SP,1-0,Ypiranga-RS
+14,10/07/22,Altos,3-2,GE Brasil
+14,10/07/22,São José-RS,1-2,Vitória
+14,10/07/22,Volta Redonda,2-1,Mirassol
+14,10/07/22,Atlético Cearense,3-1,Remo
+14,11/07/22,ABC,0-0,Manaus FC
+15,16/07/22,Figueirense,2-1,Botafogo-SP
+15,16/07/22,Campinense,2-0,Ferroviário
+15,16/07/22,Ypiranga-RS,1-2,Botafogo-PB
+15,16/07/22,Floresta-CE,0-2,Mirassol
+15,17/07/22,GE Brasil,4-1,Atlético Cearense
+15,17/07/22,Vitória,1-0,Paysandu
+15,17/07/22,Aparecidense,2-1,Altos
+15,17/07/22,Confiança,1-0,São José-RS
+15,17/07/22,Remo,2-0,ABC
+15,18/07/22,Manaus FC,1-2,Volta Redonda
+16,23/07/22,São José-RS,2-1,Botafogo-SP
+16,23/07/22,Atlético Cearense,3-1,Manaus FC
+16,23/07/22,ABC,2-0,Floresta-CE
+16,24/07/22,Altos,1-0,Campinense
+16,24/07/22,Ferroviário,0-0,Vitória
+16,24/07/22,Botafogo-PB,0-0,Remo
+16,24/07/22,GE Brasil,1-2,Aparecidense
+16,25/07/22,Paysandu,1-1,Figueirense
+16,25/07/22,Mirassol,3-1,Confiança
+16,25/07/22,Volta Redonda,2-1,Ypiranga-RS
+17,30/07/22,Ypiranga-RS,2-1,Mirassol
+17,30/07/22,Manaus FC,0-0,Botafogo-PB
+17,30/07/22,Confiança,1-0,Altos
+17,30/07/22,Campinense,1-3,Paysandu
+17,31/07/22,Botafogo-SP,2-1,Volta Redonda
+17,31/07/22,Floresta-CE,2-1,GE Brasil
+17,31/07/22,Vitória,2-2,ABC
+17,31/07/22,Figueirense,3-2,São José-RS
+17,31/07/22,Aparecidense,1-3,Atlético Cearense
+17,01/08/22,Remo,2-1,Ferroviário
+12,03/08/22,Botafogo-PB,1-1,Mirassol
+18,06/08/22,Atlético Cearense,0-2,Botafogo-SP
+18,06/08/22,ABC,3-2,São José-RS
+18,06/08/22,Ypiranga-RS,5-0,Manaus FC
+18,06/08/22,Altos,0-3,Paysandu
+18,07/08/22,GE Brasil,1-0,Confiança
+18,07/08/22,Floresta-CE,1-1,Campinense
+18,07/08/22,Remo,0-0,Aparecidense
+18,07/08/22,Mirassol,1-2,Vitória
+18,07/08/22,Volta Redonda,2-1,Ferroviário
+18,08/08/22,Botafogo-PB,1-1,Figueirense
+19,13/08/22,São José-RS,4-1,Altos
+19,13/08/22,Campinense,0-1,Volta Redonda
+19,13/08/22,Confiança,1-0,Atlético Cearense
+19,13/08/22,Vitória,3-1,GE Brasil
+19,13/08/22,Botafogo-SP,2-1,Remo
+19,13/08/22,Manaus FC,2-1,Mirassol
+19,13/08/22,Figueirense,2-1,ABC
+19,13/08/22,Aparecidense,1-0,Botafogo-PB
+19,13/08/22,Ferroviário,1-2,Ypiranga-RS
+19,13/08/22,Paysandu,0-1,Floresta-CE
+C,20/08/22,ABC,2-1,Figueirense
+B,21/08/22,Botafogo-SP,3-1,Volta Redonda
+C,21/08/22,Vitória,1-0,Paysandu
+B,21/08/22,Aparecidense,2-2,Mirassol
+C,27/08/22,Paysandu,0-1,ABC
+B,27/08/22,Mirassol,1-0,Botafogo-SP
+C,28/08/22,Figueirense,5-1,Vitória
+B,29/08/22,Volta Redonda,1-0,Aparecidense
+C,03/09/22,Figueirense,2-1,Paysandu
+B,04/09/22,Aparecidense,1-3,Botafogo-SP
+C,04/09/22,Vitória,0-0,ABC
+B,04/09/22,Volta Redonda,1-2,Mirassol
+C,10/09/22,ABC,0-0,Vitória
+B,11/09/22,Botafogo-SP,2-3,Aparecidense
+C,11/09/22,Paysandu,1-0,Figueirense
+B,11/09/22,Mirassol,3-3,Volta Redonda
+B,17/09/22,Aparecidense,1-0,Volta Redonda
+C,17/09/22,ABC,1-0,Paysandu
+C,18/09/22,Vitória,1-0,Figueirense
+B,19/09/22,Botafogo-SP,1-1,Mirassol
+C,24/09/22,Paysandu,1-1,Vitória
+C,24/09/22,Figueirense,0-0,ABC
+B,25/09/22,Mirassol,2-1,Aparecidense
+B,25/09/22,Volta Redonda,1-2,Botafogo-SP
+F,01/10/22,ABC,0-0,Mirassol
+F,08/10/22,Mirassol,2-0,ABC

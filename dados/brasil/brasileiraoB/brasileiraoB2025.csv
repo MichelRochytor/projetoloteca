@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/04/25,Goiás,1-0,Amazonas FC
+1,04/04/25,Paysandu,1-2,Athletico Paranaense
+1,04/04/25,Criciúma,1-2,Operário Ferroviário
+1,05/04/25,Coritiba,1-0,Vila Nova
+1,05/04/25,CRB,1-0,Chapecoense
+1,05/04/25,América Mineiro,1-0,Botafogo-SP
+1,06/04/25,Ferroviária,1-1,Remo
+1,06/04/25,Volta Redonda,0-1,Cuiabá
+1,06/04/25,Avaí,1-1,Grêmio Novorizontino
+1,07/04/25,Atlético Goianiense,4-2,Athletic-MG
+2,10/04/25,Athletico Paranaense,2-1,Criciúma
+2,10/04/25,Cuiabá,2-2,Avaí
+2,12/04/25,Chapecoense,1-2,Coritiba
+2,12/04/25,Vila Nova,1-0,Paysandu
+2,12/04/25,Amazonas FC,0-0,Ferroviária
+2,12/04/25,Grêmio Novorizontino,1-0,Volta Redonda
+2,12/04/25,Operário Ferroviário,1-2,Goiás
+2,13/04/25,Remo,2-0,América Mineiro
+2,13/04/25,Athletic-MG,1-2,CRB
+2,13/04/25,Botafogo-SP,1-1,Atlético Goianiense
+3,15/04/25,Cuiabá,2-1,Athletico Paranaense
+3,16/04/25,Paysandu,0-2,Chapecoense
+3,16/04/25,Avaí,1-0,Operário Ferroviário
+3,16/04/25,Coritiba,0-0,Grêmio Novorizontino
+3,17/04/25,Goiás,2-2,Vila Nova
+3,17/04/25,Criciúma,4-0,Athletic-MG
+3,17/04/25,CRB,1-0,Volta Redonda
+3,17/04/25,Botafogo-SP,2-2,Remo
+3,17/04/25,Ferroviária,2-0,Atlético Goianiense
+3,17/04/25,América Mineiro,3-1,Amazonas FC
+4,19/04/25,Operário Ferroviário,0-0,Paysandu
+4,20/04/25,Vila Nova,2-0,Botafogo-SP
+4,20/04/25,Chapecoense,1-0,Athletic-MG
+4,20/04/25,Athletico Paranaense,2-0,CRB
+4,20/04/25,América Mineiro,1-0,Goiás
+4,21/04/25,Amazonas FC,0-2,Avaí
+4,21/04/25,Grêmio Novorizontino,1-1,Criciúma
+4,21/04/25,Remo,1-0,Coritiba
+4,22/04/25,Atlético Goianiense,1-1,Cuiabá
+4,22/04/25,Volta Redonda,0-0,Ferroviária
+5,24/04/25,Grêmio Novorizontino,2-1,Athletico Paranaense
+5,25/04/25,Criciúma,1-1,Remo
+5,25/04/25,Vila Nova,1-0,Chapecoense
+5,26/04/25,Coritiba,2-0,Operário Ferroviário
+5,26/04/25,Avaí,3-0,América Mineiro
+5,27/04/25,Athletic-MG,2-1,Volta Redonda
+5,27/04/25,Amazonas FC,1-1,Atlético Goianiense
+5,27/04/25,Paysandu,1-1,CRB
+5,27/04/25,Cuiabá,1-0,Ferroviária
+5,28/04/25,Botafogo-SP,0-1,Goiás
+6,02/05/25,Ferroviária,2-1,Coritiba
+6,03/05/25,Remo,1-0,Amazonas FC
+6,03/05/25,Volta Redonda,1-0,Paysandu
+6,04/05/25,Atlético Goianiense,1-0,Grêmio Novorizontino
+6,04/05/25,Athletico Paranaense,1-4,Botafogo-SP
+6,04/05/25,Chapecoense,2-1,Criciúma
+6,04/05/25,Operário Ferroviário,1-0,América Mineiro
+6,05/05/25,Goiás,2-1,Avaí
+6,06/05/25,CRB,1-1,Cuiabá
+6,06/05/25,Athletic-MG,0-1,Vila Nova
+7,08/05/25,Athletico Paranaense,1-1,Chapecoense
+7,10/05/25,Avaí,0-0,Atlético Goianiense
+7,10/05/25,Goiás,1-0,Coritiba
+7,11/05/25,Criciúma,0-0,Volta Redonda
+7,11/05/25,Cuiabá,2-3,Operário Ferroviário
+7,11/05/25,Grêmio Novorizontino,2-2,Ferroviária
+7,12/05/25,Botafogo-SP,0-3,Athletic-MG
+7,12/05/25,Amazonas FC,1-1,CRB
+7,14/05/25,Remo,2-0,Vila Nova
+7,14/05/25,América Mineiro,2-2,Paysandu
+8,15/05/25,Ferroviária,1-1,Avaí
+8,16/05/25,Chapecoense,2-1,Cuiabá
+8,17/05/25,Operário Ferroviário,3-0,Botafogo-SP
+8,17/05/25,Vila Nova,2-1,Athletico Paranaense
+8,17/05/25,Athletic-MG,0-2,Grêmio Novorizontino
+8,18/05/25,Atlético Goianiense,1-1,Remo
+8,18/05/25,CRB,1-0,Criciúma
+8,18/05/25,Paysandu,0-0,Goiás
+8,19/05/25,Volta Redonda,1-1,Amazonas FC
+8,19/05/25,Coritiba,1-0,América Mineiro
+9,23/05/25,Goiás,2-0,Ferroviária
+9,24/05/25,Athletico Paranaense,1-0,Athletic-MG
+9,24/05/25,Remo,1-1,Volta Redonda
+9,24/05/25,Avaí,2-1,Chapecoense
+9,25/05/25,Grêmio Novorizontino,3-1,Paysandu
+9,25/05/25,Amazonas FC,2-0,Operário Ferroviário
+9,26/05/25,Criciúma,0-1,Coritiba
+9,26/05/25,Botafogo-SP,2-1,CRB
+9,26/05/25,Cuiabá,1-0,Vila Nova
+9,27/05/25,América Mineiro,2-1,Atlético Goianiense
+10,29/05/25,Ferroviária,1-1,Botafogo-SP
+10,30/05/25,Vila Nova,0-1,Grêmio Novorizontino
+10,31/05/25,Coritiba,2-1,Avaí
+10,31/05/25,Atlético Goianiense,1-2,Goiás
+10,31/05/25,Athletic-MG,0-2,Cuiabá
+10,01/06/25,Operário Ferroviário,2-2,Athletico Paranaense
+10,01/06/25,CRB,2-0,Remo
+10,01/06/25,Volta Redonda,1-0,América Mineiro
+10,02/06/25,Chapecoense,4-0,Amazonas FC
+10,02/06/25,Paysandu,0-1,Criciúma
+11,05/06/25,Botafogo-SP,0-0,Coritiba
+11,06/06/25,Grêmio Novorizontino,1-0,Chapecoense
+11,06/06/25,Cuiabá,1-0,Paysandu
+11,07/06/25,América Mineiro,1-2,Ferroviária
+11,07/06/25,Avaí,1-0,CRB
+11,08/06/25,Goiás,2-0,Volta Redonda
+11,08/06/25,Athletico Paranaense,0-1,Atlético Goianiense
+11,08/06/25,Remo,2-1,Operário Ferroviário
+11,09/06/25,Criciúma,1-0,Vila Nova
+11,09/06/25,Amazonas FC,1-0,Athletic-MG
+12,13/06/25,Vila Nova,0-3,América Mineiro
+12,13/06/25,Paysandu,1-0,Botafogo-SP
+12,14/06/25,CRB,2-0,Goiás
+12,14/06/25,Athletico Paranaense,2-1,Remo
+12,14/06/25,Athletic-MG,2-1,Operário Ferroviário
+12,15/06/25,Atlético Goianiense,0-0,Coritiba
+12,15/06/25,Grêmio Novorizontino,3-0,Cuiabá
+12,15/06/25,Criciúma,3-2,Amazonas FC
+12,16/06/25,Chapecoense,2-1,Ferroviária
+12,17/06/25,Volta Redonda,1-1,Avaí
+13,20/06/25,Botafogo-SP,1-0,Chapecoense
+13,20/06/25,América Mineiro,1-1,Criciúma
+13,21/06/25,Avaí,1-2,Athletico Paranaense
+13,21/06/25,Remo,0-1,Paysandu
+13,21/06/25,Ferroviária,1-0,CRB
+13,22/06/25,Coritiba,2-0,Cuiabá
+13,22/06/25,Atlético Goianiense,2-0,Volta Redonda
+13,22/06/25,Amazonas FC,2-1,Vila Nova
+13,23/06/25,Operário Ferroviário,2-0,Grêmio Novorizontino
+13,23/06/25,Goiás,1-2,Athletic-MG
+14,26/06/25,CRB,1-2,América Mineiro
+14,27/06/25,Criciúma,1-2,Avaí
+14,28/06/25,Vila Nova,1-0,Atlético Goianiense
+14,28/06/25,Athletico Paranaense,0-1,Coritiba
+14,29/06/25,Athletic-MG,1-2,Remo
+14,29/06/25,Volta Redonda,1-0,Operário Ferroviário
+14,29/06/25,Chapecoense,1-2,Goiás
+14,29/06/25,Grêmio Novorizontino,1-1,Amazonas FC
+14,30/06/25,Paysandu,2-1,Ferroviária
+14,30/06/25,Cuiabá,0-1,Botafogo-SP
+15,03/07/25,Atlético Goianiense,2-1,CRB
+15,04/07/25,Coritiba,2-0,Volta Redonda
+15,05/07/25,Remo,0-0,Cuiabá
+15,05/07/25,Avaí,0-0,Paysandu
+15,05/07/25,Amazonas FC,0-1,Athletico Paranaense
+15,06/07/25,Ferroviária,1-3,Vila Nova
+15,06/07/25,Botafogo-SP,0-0,Grêmio Novorizontino
+15,07/07/25,Operário Ferroviário,1-2,Chapecoense
+15,07/07/25,América Mineiro,0-1,Athletic-MG
+15,08/07/25,Goiás,1-1,Criciúma
+16,10/07/25,CRB,0-1,Coritiba
+16,11/07/25,Vila Nova,0-0,Operário Ferroviário
+16,12/07/25,Grêmio Novorizontino,3-1,América Mineiro
+16,12/07/25,Paysandu,2-2,Atlético Goianiense
+16,12/07/25,Athletico Paranaense,0-1,Goiás
+16,13/07/25,Criciúma,2-1,Ferroviária
+16,13/07/25,Chapecoense,1-1,Remo
+16,14/07/25,Athletic-MG,4-0,Avaí
+16,14/07/25,Botafogo-SP,0-0,Volta Redonda
+16,15/07/25,Cuiabá,3-1,Amazonas FC
+17,17/07/25,Operário Ferroviário,1-1,CRB
+17,17/07/25,Remo,1-1,Grêmio Novorizontino
+17,18/07/25,Atlético Goianiense,0-1,Criciúma
+17,18/07/25,Ferroviária,1-2,Athletic-MG
+17,19/07/25,Goiás,3-1,Cuiabá
+17,19/07/25,Coritiba,2-5,Paysandu
+17,19/07/25,Avaí,1-1,Vila Nova
+17,19/07/25,Volta Redonda,3-2,Athletico Paranaense
+17,20/07/25,Amazonas FC,3-0,Botafogo-SP
+17,20/07/25,América Mineiro,0-1,Chapecoense
+18,22/07/25,Operário Ferroviário,3-0,Atlético Goianiense
+18,22/07/25,Athletico Paranaense,1-1,Ferroviária
+18,22/07/25,Athletic-MG,1-1,Coritiba
+18,22/07/25,Vila Nova,2-0,CRB
+18,23/07/25,Chapecoense,4-2,Volta Redonda
+18,23/07/25,Grêmio Novorizontino,1-0,Goiás
+18,23/07/25,Cuiabá,3-1,América Mineiro
+18,23/07/25,Amazonas FC,1-1,Paysandu
+18,24/07/25,Botafogo-SP,0-2,Criciúma
+18,24/07/25,Remo,2-1,Avaí
+19,26/07/25,Ferroviária,0-0,Operário Ferroviário
+19,26/07/25,CRB,4-0,Grêmio Novorizontino
+19,27/07/25,Coritiba,1-1,Amazonas FC
+19,27/07/25,Volta Redonda,2-1,Vila Nova
+19,27/07/25,América Mineiro,2-2,Athletico Paranaense
+19,27/07/25,Atlético Goianiense,0-0,Chapecoense
+19,28/07/25,Avaí,5-0,Botafogo-SP
+19,28/07/25,Paysandu,1-1,Athletic-MG
+19,29/07/25,Criciúma,1-0,Cuiabá
+19,29/07/25,Goiás,1-1,Remo
+20,31/07/25,Vila Nova,1-2,Coritiba
+20,01/08/25,Remo,0-2,Ferroviária
+20,01/08/25,Operário Ferroviário,1-0,Criciúma
+20,02/08/25,Botafogo-SP,2-1,América Mineiro
+20,02/08/25,Amazonas FC,2-2,Goiás
+20,03/08/25,Chapecoense,3-2,CRB
+20,03/08/25,Grêmio Novorizontino,1-1,Avaí
+20,03/08/25,Athletico Paranaense,1-1,Paysandu
+20,04/08/25,Athletic-MG,1-1,Atlético Goianiense
+20,04/08/25,Cuiabá,2-0,Volta Redonda
+21,08/08/25,Ferroviária,2-1,Amazonas FC
+21,08/08/25,Coritiba,0-0,Chapecoense
+21,09/08/25,América Mineiro,0-1,Remo
+21,09/08/25,Goiás,2-1,Operário Ferroviário
+21,09/08/25,Volta Redonda,0-0,Grêmio Novorizontino
+21,10/08/25,Avaí,2-0,Cuiabá
+21,10/08/25,Atlético Goianiense,2-0,Botafogo-SP
+21,11/08/25,Criciúma,4-2,Athletico Paranaense
+21,11/08/25,Paysandu,0-1,Vila Nova
+21,12/08/25,CRB,1-0,Athletic-MG
+22,14/08/25,Grêmio Novorizontino,1-2,Coritiba
+22,15/08/25,Amazonas FC,2-2,América Mineiro
+22,16/08/25,Remo,1-1,Botafogo-SP
+22,16/08/25,Vila Nova,2-0,Goiás
+22,16/08/25,Athletico Paranaense,1-1,Cuiabá
+22,17/08/25,Chapecoense,2-0,Paysandu
+22,17/08/25,Atlético Goianiense,1-3,Ferroviária
+22,18/08/25,Volta Redonda,0-1,CRB
+22,18/08/25,Athletic-MG,1-1,Criciúma
+22,19/08/25,Operário Ferroviário,0-0,Avaí
+23,22/08/25,Athletic-MG,0-4,Chapecoense
+23,22/08/25,Criciúma,2-0,Grêmio Novorizontino
+23,23/08/25,Coritiba,0-0,Remo
+23,23/08/25,Goiás,1-0,América Mineiro
+23,23/08/25,CRB,0-1,Athletico Paranaense
+23,24/08/25,Paysandu,1-2,Operário Ferroviário
+23,24/08/25,Ferroviária,0-0,Volta Redonda
+23,24/08/25,Cuiabá,2-2,Atlético Goianiense
+23,25/08/25,Botafogo-SP,2-0,Vila Nova
+23,25/08/25,Avaí,1-2,Amazonas FC
+24,28/08/25,Remo,0-1,Criciúma
+24,29/08/25,Operário Ferroviário,1-0,Coritiba
+24,30/08/25,CRB,2-0,Paysandu
+24,30/08/25,Goiás,2-3,Botafogo-SP
+24,30/08/25,Athletico Paranaense,2-1,Grêmio Novorizontino
+24,31/08/25,Atlético Goianiense,2-0,Amazonas FC
+24,31/08/25,Volta Redonda,0-2,Athletic-MG
+24,01/09/25,Chapecoense,2-2,Vila Nova
+24,01/09/25,Ferroviária,2-2,Cuiabá
+24,02/09/25,América Mineiro,2-0,Avaí
+25,05/09/25,Amazonas FC,1-3,Remo
+25,05/09/25,Paysandu,1-2,Volta Redonda
+25,05/09/25,Coritiba,4-0,Ferroviária
+25,06/09/25,Botafogo-SP,1-3,Athletico Paranaense
+25,07/09/25,Criciúma,2-0,Chapecoense
+25,07/09/25,América Mineiro,1-1,Operário Ferroviário
+25,07/09/25,Avaí,2-1,Goiás
+25,08/09/25,Grêmio Novorizontino,1-1,Atlético Goianiense
+25,08/09/25,Cuiabá,1-0,CRB
+25,08/09/25,Vila Nova,1-1,Athletic-MG
+26,12/09/25,Volta Redonda,0-0,Criciúma
+26,12/09/25,Coritiba,0-0,Goiás
+26,13/09/25,Paysandu,0-0,América Mineiro
+26,13/09/25,Vila Nova,1-1,Remo
+26,14/09/25,Operário Ferroviário,1-1,Cuiabá
+26,14/09/25,Athletic-MG,2-0,Botafogo-SP
+26,15/09/25,Ferroviária,1-2,Grêmio Novorizontino
+26,15/09/25,CRB,2-0,Amazonas FC
+26,16/09/25,Atlético Goianiense,2-1,Avaí
+26,16/09/25,Chapecoense,2-3,Athletico Paranaense
+27,18/09/25,Botafogo-SP,1-1,Operário Ferroviário
+27,19/09/25,Grêmio Novorizontino,1-0,Athletic-MG
+27,20/09/25,Goiás,1-0,Paysandu
+27,20/09/25,Avaí,2-2,Ferroviária
+27,20/09/25,Amazonas FC,1-0,Volta Redonda
+27,20/09/25,Remo,0-1,Atlético Goianiense
+27,21/09/25,Criciúma,1-0,CRB
+27,21/09/25,América Mineiro,1-0,Coritiba
+27,21/09/25,Athletico Paranaense,2-0,Vila Nova
+27,21/09/25,Cuiabá,1-0,Chapecoense
+28,23/09/25,Paysandu,0-1,Grêmio Novorizontino
+28,23/09/25,Ferroviária,1-1,Goiás
+28,24/09/25,Vila Nova,2-2,Cuiabá
+28,24/09/25,CRB,3-2,Botafogo-SP
+28,24/09/25,Athletic-MG,0-3,Athletico Paranaense
+28,24/09/25,Operário Ferroviário,2-1,Amazonas FC
+28,24/09/25,Volta Redonda,2-1,Remo
+28,25/09/25,Coritiba,0-2,Criciúma
+28,25/09/25,Atlético Goianiense,1-0,América Mineiro
+28,25/09/25,Chapecoense,0-1,Avaí
+29,27/09/25,Athletico Paranaense,1-0,Operário Ferroviário
+29,28/09/25,Criciúma,2-4,Paysandu
+29,28/09/25,Grêmio Novorizontino,1-1,Vila Nova
+29,28/09/25,Remo,4-2,CRB
+29,28/09/25,Botafogo-SP,1-2,Ferroviária
+29,28/09/25,Cuiabá,2-1,Athletic-MG
+29,29/09/25,Amazonas FC,1-3,Chapecoense
+29,29/09/25,América Mineiro,2-1,Volta Redonda
+29,29/09/25,Avaí,0-2,Coritiba
+29,30/09/25,Goiás,0-0,Atlético Goianiense
+30,02/10/25,Paysandu,1-1,Cuiabá
+30,02/10/25,Vila Nova,1-1,Criciúma
+30,03/10/25,Athletic-MG,2-2,Amazonas FC
+30,03/10/25,Coritiba,2-0,Botafogo-SP
+30,03/10/25,CRB,1-0,Avaí
+30,04/10/25,Chapecoense,1-0,Grêmio Novorizontino
+30,04/10/25,Volta Redonda,0-0,Goiás
+30,04/10/25,Ferroviária,1-3,América Mineiro
+30,05/10/25,Operário Ferroviário,0-1,Remo
+30,05/10/25,Atlético Goianiense,3-0,Athletico Paranaense

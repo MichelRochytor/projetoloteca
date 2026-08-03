@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/61,Arsenal,2-2,Burnley
+1,19/08/61,Birmingham City,2-1,Fulham
+1,19/08/61,Blackburn Rovers,0-0,Cardiff City
+1,19/08/61,Blackpool,1-2,Tottenham
+1,19/08/61,Bolton Wanderers,0-0,Ipswich Town
+1,19/08/61,Chelsea,2-2,Nottingham Forest
+1,19/08/61,Everton,2-0,Aston Villa
+1,19/08/61,Manchester City,3-1,Leicester City
+1,19/08/61,Sheffield United,2-1,Wolverhampton
+1,19/08/61,West Bromwich,0-2,Sheffield Wed.
+1,19/08/61,West Ham,1-1,Manchester United
+2,21/08/61,Blackpool,2-1,Blackburn Rovers
+2,22/08/61,Burnley,4-3,Ipswich Town
+2,22/08/61,Nottingham Forest,2-1,Birmingham City
+2,23/08/61,Cardiff City,1-1,Sheffield United
+2,23/08/61,Fulham,3-4,Manchester City
+2,23/08/61,Leicester City,0-1,Arsenal
+2,23/08/61,Manchester United,3-2,Chelsea
+2,23/08/61,Sheffield Wed.,4-2,Bolton Wanderers
+2,23/08/61,Tottenham,2-2,West Ham
+2,23/08/61,West Bromwich,2-0,Everton
+3,26/08/61,Aston Villa,3-1,Chelsea
+3,26/08/61,Burnley,3-1,Bolton Wanderers
+3,26/08/61,Cardiff City,3-2,Blackpool
+3,26/08/61,Fulham,2-1,Everton
+3,26/08/61,Ipswich Town,2-4,Manchester City
+3,26/08/61,Leicester City,1-0,West Bromwich
+3,26/08/61,Manchester United,6-1,Blackburn Rovers
+3,26/08/61,Nottingham Forest,2-0,Sheffield United
+3,26/08/61,Sheffield Wed.,5-1,Birmingham City
+3,26/08/61,Tottenham,4-3,Arsenal
+3,26/08/61,Wolverhampton,3-2,West Ham
+3,28/08/61,Wolverhampton,2-2,Aston Villa
+4,28/08/61,Blackburn Rovers,1-1,Blackpool
+4,28/08/61,Sheffield United,1-0,Cardiff City
+4,28/08/61,West Ham,2-1,Tottenham
+4,29/08/61,Arsenal,4-4,Leicester City
+4,29/08/61,Ipswich Town,6-2,Burnley
+4,30/08/61,Birmingham City,1-1,Nottingham Forest
+4,30/08/61,Bolton Wanderers,4-3,Sheffield Wed.
+4,30/08/61,Chelsea,2-0,Manchester United
+4,30/08/61,Everton,3-1,West Bromwich
+4,30/08/61,Manchester City,2-1,Fulham
+5,02/09/61,Birmingham City,1-5,Leicester City
+5,02/09/61,Blackburn Rovers,2-1,Wolverhampton
+5,02/09/61,Blackpool,2-3,Manchester United
+5,02/09/61,Bolton Wanderers,2-1,Arsenal
+5,02/09/61,Chelsea,0-0,Fulham
+5,02/09/61,Everton,0-4,Sheffield Wed.
+5,02/09/61,Manchester City,1-3,Burnley
+5,02/09/61,Sheffield United,0-2,Aston Villa
+5,02/09/61,Tottenham,3-2,Cardiff City
+5,02/09/61,West Bromwich,1-3,Ipswich Town
+5,02/09/61,West Ham,3-2,Nottingham Forest
+6,04/09/61,Blackpool,2-0,West Ham
+6,04/09/61,Sheffield United,1-1,Tottenham
+6,05/09/61,Burnley,2-0,Leicester City
+6,05/09/61,Ipswich Town,2-1,Blackburn Rovers
+6,06/09/61,Cardiff City,5-2,Chelsea
+6,06/09/61,Everton,0-2,Manchester City
+6,06/09/61,Fulham,2-2,Bolton Wanderers
+6,06/09/61,West Bromwich,0-0,Birmingham City
+6,09/09/61,Arsenal,3-0,Manchester City
+6,09/09/61,Manchester United,1-0,Tottenham
+7,09/09/61,Aston Villa,2-4,West Ham
+7,09/09/61,Burnley,3-1,West Bromwich
+7,09/09/61,Cardiff City,1-2,Bolton Wanderers
+7,09/09/61,Chelsea,6-1,Sheffield United
+7,09/09/61,Ipswich Town,4-1,Birmingham City
+7,09/09/61,Leicester City,2-0,Everton
+7,09/09/61,Nottingham Forest,1-2,Blackburn Rovers
+7,09/09/61,Sheffield Wed.,1-1,Fulham
+7,09/09/61,Wolverhampton,2-2,Blackpool
+7,16/09/61,West Bromwich,4-0,Arsenal
+8,16/09/61,Birmingham City,2-6,Burnley
+8,16/09/61,Blackburn Rovers,4-2,Aston Villa
+8,16/09/61,Blackpool,1-3,Nottingham Forest
+8,16/09/61,Cardiff City,1-2,Manchester United
+8,16/09/61,Everton,5-2,Ipswich Town
+8,16/09/61,Fulham,2-1,Leicester City
+8,16/09/61,Manchester City,2-1,Bolton Wanderers
+8,16/09/61,Sheffield United,1-0,Sheffield Wed.
+8,16/09/61,Tottenham,1-0,Wolverhampton
+8,16/09/61,West Ham,2-1,Chelsea
+8,18/09/61,Aston Villa,1-1,Manchester United
+9,18/09/61,Blackburn Rovers,2-2,Ipswich Town
+9,18/09/61,West Ham,2-2,Blackpool
+8,19/09/61,Nottingham Forest,3-1,Wolverhampton
+8,20/09/61,Sheffield Wed.,1-1,Arsenal
+9,20/09/61,Birmingham City,1-2,West Bromwich
+9,20/09/61,Bolton Wanderers,2-3,Fulham
+9,20/09/61,Chelsea,2-3,Cardiff City
+9,20/09/61,Leicester City,2-6,Burnley
+9,20/09/61,Manchester City,1-3,Everton
+9,23/09/61,Arsenal,1-1,Birmingham City
+9,23/09/61,Nottingham Forest,2-0,Tottenham
+9,23/09/61,Sheffield United,1-4,West Ham
+10,23/09/61,Aston Villa,5-0,Blackpool
+10,23/09/61,Bolton Wanderers,3-2,West Bromwich
+10,23/09/61,Burnley,2-1,Everton
+10,23/09/61,Chelsea,1-1,Blackburn Rovers
+10,23/09/61,Ipswich Town,2-4,Fulham
+10,23/09/61,Leicester City,1-0,Sheffield Wed.
+10,23/09/61,Manchester United,3-2,Manchester City
+10,23/09/61,Wolverhampton,1-1,Cardiff City
+10,27/09/61,Wolverhampton,2-1,Nottingham Forest
+10,30/09/61,Everton,4-1,Arsenal
+10,30/09/61,Manchester United,0-2,Wolverhampton
+10,30/09/61,Sheffield Wed.,1-4,Ipswich Town
+10,30/09/61,Tottenham,1-0,Aston Villa
+11,30/09/61,Birmingham City,2-1,Bolton Wanderers
+11,30/09/61,Blackburn Rovers,1-2,Sheffield United
+11,30/09/61,Blackpool,4-0,Chelsea
+11,30/09/61,Cardiff City,2-2,Nottingham Forest
+11,30/09/61,Fulham,3-5,Burnley
+11,30/09/61,West Bromwich,2-2,Manchester City
+11,30/09/61,West Ham,4-1,Leicester City
+10,02/10/61,Aston Villa,1-0,Wolverhampton
+11,07/10/61,Arsenal,3-0,Blackpool
+11,07/10/61,Leicester City,4-1,Sheffield United
+12,07/10/61,Birmingham City,3-6,Wolverhampton
+12,07/10/61,Everton,6-0,Nottingham Forest
+12,07/10/61,Fulham,3-1,Aston Villa
+12,07/10/61,Ipswich Town,4-2,West Ham
+12,07/10/61,Manchester City,1-2,Cardiff City
+12,07/10/61,Sheffield Wed.,5-3,Chelsea
+12,07/10/61,West Bromwich,1-1,Manchester United
+12,09/10/61,Bolton Wanderers,1-2,Tottenham
+12,14/10/61,Blackburn Rovers,0-0,Arsenal
+12,14/10/61,Sheffield United,2-1,Ipswich Town
+13,14/10/61,Blackpool,2-1,Bolton Wanderers
+13,14/10/61,Chelsea,1-3,Leicester City
+13,14/10/61,Manchester United,0-2,Birmingham City
+13,14/10/61,Nottingham Forest,1-1,Fulham
+13,14/10/61,Tottenham,2-0,Manchester City
+13,14/10/61,West Ham,2-1,Burnley
+13,14/10/61,Wolverhampton,0-3,Everton
+12,16/10/61,Aston Villa,1-0,Sheffield Wed.
+13,18/10/61,Cardiff City,2-2,West Bromwich
+13,21/10/61,Arsenal,5-1,Manchester United
+13,21/10/61,Burnley,2-1,Cardiff City
+13,21/10/61,Ipswich Town,3-2,Tottenham
+13,21/10/61,Sheffield Wed.,1-0,Blackburn Rovers
+14,21/10/61,Birmingham City,3-2,Chelsea
+14,21/10/61,Bolton Wanderers,1-0,Wolverhampton
+14,21/10/61,Everton,1-0,Sheffield United
+14,21/10/61,Fulham,2-0,West Ham
+14,21/10/61,Leicester City,0-2,Blackpool
+14,21/10/61,Manchester City,3-0,Nottingham Forest
+14,21/10/61,West Bromwich,1-1,Aston Villa
+14,28/10/61,Blackburn Rovers,2-1,Leicester City
+14,28/10/61,Cardiff City,1-1,Arsenal
+14,28/10/61,Sheffield United,2-2,Fulham
+14,28/10/61,Tottenham,4-2,Burnley
+15,28/10/61,Aston Villa,1-3,Birmingham City
+15,28/10/61,Blackpool,1-1,Ipswich Town
+15,28/10/61,Chelsea,1-1,Everton
+15,28/10/61,Manchester United,0-3,Bolton Wanderers
+15,28/10/61,Nottingham Forest,4-4,West Bromwich
+15,28/10/61,West Ham,2-3,Sheffield Wed.
+15,28/10/61,Wolverhampton,4-1,Manchester City
+15,04/11/61,Arsenal,0-3,Chelsea
+15,04/11/61,Burnley,3-0,Aston Villa
+15,04/11/61,Sheffield Wed.,3-1,Manchester United
+15,04/11/61,West Bromwich,4-0,Blackburn Rovers
+16,04/11/61,Birmingham City,1-1,Blackpool
+16,04/11/61,Bolton Wanderers,2-0,Sheffield United
+16,04/11/61,Everton,3-0,Tottenham
+16,04/11/61,Fulham,0-1,Cardiff City
+16,04/11/61,Ipswich Town,1-0,Nottingham Forest
+16,04/11/61,Leicester City,3-0,Wolverhampton
+16,04/11/61,Manchester City,3-5,West Ham
+16,11/11/61,Aston Villa,3-1,Arsenal
+16,11/11/61,Nottingham Forest,3-2,Burnley
+17,11/11/61,Blackburn Rovers,2-0,Birmingham City
+17,11/11/61,Blackpool,1-1,Everton
+17,11/11/61,Cardiff City,2-1,Sheffield Wed.
+17,11/11/61,Chelsea,1-0,Bolton Wanderers
+17,11/11/61,Manchester United,2-2,Leicester City
+17,11/11/61,Sheffield United,3-1,Manchester City
+17,11/11/61,Tottenham,4-2,Fulham
+17,11/11/61,West Ham,3-3,West Bromwich
+17,11/11/61,Wolverhampton,2-0,Ipswich Town
+17,14/11/61,Arsenal,1-0,Sheffield Wed.
+17,18/11/61,Burnley,3-3,Wolverhampton
+17,18/11/61,Everton,1-0,Blackburn Rovers
+17,18/11/61,Ipswich Town,4-1,Manchester United
+17,18/11/61,West Bromwich,3-1,Sheffield United
+18,18/11/61,Arsenal,2-1,Nottingham Forest
+18,18/11/61,Birmingham City,4-0,West Ham
+18,18/11/61,Bolton Wanderers,1-1,Aston Villa
+18,18/11/61,Fulham,0-1,Blackpool
+18,18/11/61,Leicester City,3-0,Cardiff City
+18,18/11/61,Manchester City,2-2,Chelsea
+18,18/11/61,Sheffield Wed.,0-0,Tottenham
+18,25/11/61,Blackburn Rovers,0-2,Fulham
+18,25/11/61,Manchester United,1-4,Burnley
+19,25/11/61,Aston Villa,2-1,Manchester City
+19,25/11/61,Blackpool,1-3,Sheffield Wed.
+19,25/11/61,Cardiff City,0-3,Ipswich Town
+19,25/11/61,Chelsea,4-1,West Bromwich
+19,25/11/61,Nottingham Forest,0-1,Bolton Wanderers
+19,25/11/61,Sheffield United,3-1,Birmingham City
+19,25/11/61,Tottenham,1-2,Leicester City
+19,25/11/61,West Ham,3-1,Everton
+19,25/11/61,Wolverhampton,2-3,Arsenal
+19,02/12/61,Bolton Wanderers,1-1,Blackburn Rovers
+19,02/12/61,Burnley,4-2,Sheffield United
+20,02/12/61,Arsenal,2-2,West Ham
+20,02/12/61,Birmingham City,3-0,Cardiff City
+20,02/12/61,Everton,5-1,Manchester United
+20,02/12/61,Fulham,0-1,Wolverhampton
+20,02/12/61,Ipswich Town,5-2,Chelsea
+20,02/12/61,Leicester City,0-2,Aston Villa
+20,02/12/61,Manchester City,2-4,Blackpool
+20,02/12/61,Sheffield Wed.,3-0,Nottingham Forest
+20,02/12/61,West Bromwich,2-4,Tottenham
+20,09/12/61,Aston Villa,3-0,Ipswich Town
+20,09/12/61,Blackburn Rovers,4-1,Manchester City
+21,09/12/61,Blackpool,2-2,West Bromwich
+21,09/12/61,Cardiff City,0-0,Everton
+21,09/12/61,Chelsea,1-2,Burnley
+21,09/12/61,Manchester United,3-0,Fulham
+21,09/12/61,Nottingham Forest,0-0,Leicester City
+21,09/12/61,Sheffield United,2-1,Arsenal
+21,09/12/61,Tottenham,3-1,Birmingham City
+21,09/12/61,West Ham,1-0,Bolton Wanderers
+21,09/12/61,Wolverhampton,3-0,Sheffield Wed.
+21,16/12/61,Cardiff City,1-1,Blackburn Rovers
+21,16/12/61,Wolverhampton,0-1,Sheffield United
+22,16/12/61,Aston Villa,1-1,Everton
+22,16/12/61,Burnley,0-2,Arsenal
+22,16/12/61,Fulham,0-1,Birmingham City
+22,16/12/61,Ipswich Town,2-1,Bolton Wanderers
+22,16/12/61,Leicester City,2-0,Manchester City
+22,16/12/61,Manchester United,1-2,West Ham
+22,16/12/61,Nottingham Forest,3-0,Chelsea
+22,16/12/61,Sheffield Wed.,2-1,West Bromwich
+22,16/12/61,Tottenham,5-2,Blackpool
+23,18/12/61,West Ham,4-2,Wolverhampton
+22,22/12/61,Sheffield United,2-0,Nottingham Forest
+23,23/12/61,Arsenal,2-1,Tottenham
+23,23/12/61,Birmingham City,1-1,Sheffield Wed.
+23,23/12/61,Blackpool,3-0,Cardiff City
+23,23/12/61,Chelsea,1-0,Aston Villa
+23,23/12/61,Everton,3-0,Fulham
+23,23/12/61,Manchester City,3-0,Ipswich Town
+23,23/12/61,West Bromwich,2-0,Leicester City
+22,26/12/61,Burnley,4-0,Sheffield Wed.
+22,26/12/61,West Ham,2-3,Blackburn Rovers
+23,26/12/61,Everton,1-0,Bolton Wanderers
+24,26/12/61,Arsenal,1-0,Fulham
+24,26/12/61,Birmingham City,1-1,Manchester City
+24,26/12/61,Cardiff City,1-0,Aston Villa
+24,26/12/61,Chelsea,0-2,Tottenham
+24,26/12/61,Ipswich Town,1-0,Leicester City
+24,26/12/61,Manchester United,6-3,Nottingham Forest
+24,26/12/61,Sheffield United,2-1,Blackpool
+24,26/12/61,West Bromwich,1-1,Wolverhampton
+25,30/12/61,Tottenham,5-2,Chelsea
+23,13/01/62,Wolverhampton,0-2,Blackburn Rovers
+24,13/01/62,Aston Villa,0-0,Sheffield United
+25,13/01/62,Arsenal,1-2,Bolton Wanderers
+25,13/01/62,Burnley,6-3,Manchester City
+25,13/01/62,Cardiff City,1-1,Tottenham
+25,13/01/62,Ipswich Town,3-0,West Bromwich
+25,13/01/62,Leicester City,1-2,Birmingham City
+25,13/01/62,Manchester United,0-1,Blackpool
+25,13/01/62,Nottingham Forest,3-0,West Ham
+25,13/01/62,Sheffield Wed.,3-1,Everton
+26,13/01/62,Fulham,3-4,Chelsea
+24,15/01/62,Manchester United,2-0,Aston Villa
+24,20/01/62,Blackburn Rovers,2-1,Nottingham Forest
+25,20/01/62,Bolton Wanderers,1-1,Cardiff City
+25,20/01/62,Tottenham,2-2,Manchester United
+26,20/01/62,Birmingham City,3-1,Ipswich Town
+26,20/01/62,Blackpool,7-2,Wolverhampton
+26,20/01/62,Everton,3-2,Leicester City
+26,20/01/62,Fulham,0-2,Sheffield Wed.
+26,20/01/62,Manchester City,3-2,Arsenal
+26,20/01/62,West Bromwich,1-1,Burnley
+26,20/01/62,West Ham,2-0,Aston Villa
+27,20/01/62,Sheffield United,3-1,Chelsea
+25,03/02/62,Aston Villa,1-0,Blackburn Rovers
+26,03/02/62,Bolton Wanderers,0-2,Manchester City
+26,03/02/62,Sheffield Wed.,1-2,Sheffield United
+27,03/02/62,Arsenal,0-1,West Bromwich
+27,03/02/62,Burnley,7-1,Birmingham City
+27,03/02/62,Ipswich Town,4-2,Everton
+27,03/02/62,Leicester City,4-1,Fulham
+27,03/02/62,Manchester United,3-0,Cardiff City
+27,03/02/62,Nottingham Forest,3-4,Blackpool
+27,03/02/62,Wolverhampton,3-1,Tottenham
+28,03/02/62,Chelsea,0-1,West Ham
+28,09/02/62,Cardiff City,2-3,Wolverhampton
+26,10/02/62,Blackburn Rovers,3-0,Chelsea
+27,10/02/62,West Bromwich,6-2,Bolton Wanderers
+27,10/02/62,West Ham,1-2,Sheffield United
+28,10/02/62,Birmingham City,1-0,Arsenal
+28,10/02/62,Blackpool,1-2,Aston Villa

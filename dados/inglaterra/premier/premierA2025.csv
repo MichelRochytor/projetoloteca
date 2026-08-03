@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/25,Liverpool,4-2,Bournemouth
+1,16/08/25,Aston Villa,0-0,Newcastle
+1,16/08/25,Brighton & Hove Albion,1-1,Fulham
+1,16/08/25,Sunderland,3-0,West Ham
+1,16/08/25,Tottenham,3-0,Burnley
+1,16/08/25,Wolverhampton,0-4,Manchester City
+1,17/08/25,Nottingham Forest,3-1,Brentford
+1,17/08/25,Chelsea,0-0,Crystal Palace
+1,17/08/25,Manchester United,0-1,Arsenal
+1,18/08/25,Leeds United,1-0,Everton
+2,22/08/25,West Ham,1-5,Chelsea
+2,23/08/25,Manchester City,0-2,Tottenham
+2,23/08/25,Bournemouth,1-0,Wolverhampton
+2,23/08/25,Brentford,1-0,Aston Villa
+2,23/08/25,Burnley,2-0,Sunderland
+2,23/08/25,Arsenal,5-0,Leeds United
+2,24/08/25,Crystal Palace,1-1,Nottingham Forest
+2,24/08/25,Everton,2-0,Brighton & Hove Albion
+2,24/08/25,Fulham,1-1,Manchester United
+2,25/08/25,Newcastle,2-3,Liverpool
+3,30/08/25,Chelsea,2-0,Fulham
+3,30/08/25,Manchester United,3-2,Burnley
+3,30/08/25,Sunderland,2-1,Brentford
+3,30/08/25,Tottenham,0-1,Bournemouth
+3,30/08/25,Wolverhampton,2-3,Everton
+3,30/08/25,Leeds United,0-0,Newcastle
+3,31/08/25,Brighton & Hove Albion,2-1,Manchester City
+3,31/08/25,Nottingham Forest,0-3,West Ham
+3,31/08/25,Liverpool,1-0,Arsenal
+3,31/08/25,Aston Villa,0-3,Crystal Palace
+4,13/09/25,Arsenal,3-0,Nottingham Forest
+4,13/09/25,Bournemouth,2-1,Brighton & Hove Albion
+4,13/09/25,Crystal Palace,0-0,Sunderland
+4,13/09/25,Everton,0-0,Aston Villa
+4,13/09/25,Fulham,1-0,Leeds United
+4,13/09/25,Newcastle,1-0,Wolverhampton
+4,13/09/25,West Ham,0-3,Tottenham
+4,13/09/25,Brentford,2-2,Chelsea
+4,14/09/25,Burnley,0-1,Liverpool
+4,14/09/25,Manchester City,3-0,Manchester United
+5,20/09/25,Liverpool,2-1,Everton
+5,20/09/25,Brighton & Hove Albion,2-2,Tottenham
+5,20/09/25,Burnley,1-1,Nottingham Forest
+5,20/09/25,West Ham,1-2,Crystal Palace
+5,20/09/25,Wolverhampton,1-3,Leeds United
+5,20/09/25,Manchester United,2-1,Chelsea
+5,20/09/25,Fulham,3-1,Brentford
+5,21/09/25,Bournemouth,0-0,Newcastle
+5,21/09/25,Sunderland,1-1,Aston Villa
+5,21/09/25,Arsenal,1-1,Manchester City
+6,27/09/25,Brentford,3-1,Manchester United
+6,27/09/25,Chelsea,1-3,Brighton & Hove Albion
+6,27/09/25,Crystal Palace,2-1,Liverpool
+6,27/09/25,Leeds United,2-2,Bournemouth
+6,27/09/25,Manchester City,5-1,Burnley
+6,27/09/25,Nottingham Forest,0-1,Sunderland
+6,27/09/25,Tottenham,1-1,Wolverhampton
+6,28/09/25,Aston Villa,3-1,Fulham
+6,28/09/25,Newcastle,1-2,Arsenal
+6,29/09/25,Everton,1-1,West Ham
+7,03/10/25,Bournemouth,3-1,Fulham
+7,04/10/25,Leeds United,1-2,Tottenham
+7,04/10/25,Arsenal,2-0,West Ham
+7,04/10/25,Manchester United,2-0,Sunderland
+7,04/10/25,Chelsea,2-1,Liverpool
+7,05/10/25,Aston Villa,2-1,Burnley
+7,05/10/25,Everton,2-1,Crystal Palace
+7,05/10/25,Newcastle,2-0,Nottingham Forest
+7,05/10/25,Wolverhampton,1-1,Brighton & Hove Albion
+7,05/10/25,Brentford,0-1,Manchester City
+8,18/10/25,Nottingham Forest,0-3,Chelsea
+8,18/10/25,Brighton & Hove Albion,2-1,Newcastle
+8,18/10/25,Burnley,2-0,Leeds United
+8,18/10/25,Crystal Palace,3-3,Bournemouth
+8,18/10/25,Manchester City,2-0,Everton
+8,18/10/25,Sunderland,2-0,Wolverhampton
+8,18/10/25,Fulham,0-1,Arsenal
+8,19/10/25,Tottenham,1-2,Aston Villa
+8,19/10/25,Liverpool,1-2,Manchester United
+8,20/10/25,West Ham,0-2,Brentford
+9,24/10/25,Leeds United,2-1,West Ham
+9,25/10/25,Chelsea,1-2,Sunderland
+9,25/10/25,Newcastle,2-1,Fulham
+9,25/10/25,Manchester United,4-2,Brighton & Hove Albion
+9,25/10/25,Brentford,3-2,Liverpool
+9,26/10/25,Bournemouth,2-0,Nottingham Forest
+9,26/10/25,Arsenal,1-0,Crystal Palace
+9,26/10/25,Aston Villa,1-0,Manchester City
+9,26/10/25,Wolverhampton,2-3,Burnley
+9,26/10/25,Everton,0-3,Tottenham
+10,01/11/25,Brighton & Hove Albion,3-0,Leeds United
+10,01/11/25,Burnley,0-2,Arsenal
+10,01/11/25,Crystal Palace,2-0,Brentford
+10,01/11/25,Fulham,3-0,Wolverhampton
+10,01/11/25,Nottingham Forest,2-2,Manchester United
+10,01/11/25,Tottenham,0-1,Chelsea
+10,01/11/25,Liverpool,2-0,Aston Villa
+10,02/11/25,West Ham,3-1,Newcastle
+10,02/11/25,Manchester City,3-1,Bournemouth
+10,03/11/25,Sunderland,1-1,Everton
+11,08/11/25,Tottenham,2-2,Manchester United
+11,08/11/25,Everton,2-0,Fulham
+11,08/11/25,West Ham,3-2,Burnley
+11,08/11/25,Sunderland,2-2,Arsenal
+11,08/11/25,Chelsea,3-0,Wolverhampton
+11,09/11/25,Aston Villa,4-0,Bournemouth
+11,09/11/25,Brentford,3-1,Newcastle
+11,09/11/25,Crystal Palace,0-0,Brighton & Hove Albion
+11,09/11/25,Nottingham Forest,3-1,Leeds United
+11,09/11/25,Manchester City,3-0,Liverpool
+12,22/11/25,Burnley,0-2,Chelsea
+12,22/11/25,Bournemouth,2-2,West Ham
+12,22/11/25,Brighton & Hove Albion,2-1,Brentford
+12,22/11/25,Fulham,1-0,Sunderland
+12,22/11/25,Liverpool,0-3,Nottingham Forest
+12,22/11/25,Wolverhampton,0-2,Crystal Palace
+12,22/11/25,Newcastle,2-1,Manchester City
+12,23/11/25,Leeds United,1-2,Aston Villa
+12,23/11/25,Arsenal,4-1,Tottenham
+12,24/11/25,Manchester United,0-1,Everton
+13,29/11/25,Brentford,3-1,Burnley
+13,29/11/25,Manchester City,3-2,Leeds United
+13,29/11/25,Sunderland,3-2,Bournemouth
+13,29/11/25,Everton,1-4,Newcastle
+13,29/11/25,Tottenham,1-2,Fulham
+13,30/11/25,Crystal Palace,1-2,Manchester United
+13,30/11/25,Aston Villa,1-0,Wolverhampton
+13,30/11/25,Nottingham Forest,0-2,Brighton & Hove Albion
+13,30/11/25,West Ham,0-2,Liverpool
+13,30/11/25,Chelsea,1-1,Arsenal
+14,02/12/25,Fulham,4-5,Manchester City
+14,02/12/25,Bournemouth,0-1,Everton
+14,02/12/25,Newcastle,2-2,Tottenham
+14,03/12/25,Arsenal,2-0,Brentford
+14,03/12/25,Brighton & Hove Albion,3-4,Aston Villa
+14,03/12/25,Burnley,0-1,Crystal Palace
+14,03/12/25,Wolverhampton,0-1,Nottingham Forest
+14,03/12/25,Leeds United,3-1,Chelsea
+14,03/12/25,Liverpool,1-1,Sunderland
+14,04/12/25,Manchester United,1-1,West Ham
+15,06/12/25,Aston Villa,2-1,Arsenal
+15,06/12/25,Bournemouth,0-0,Chelsea
+15,06/12/25,Everton,3-0,Nottingham Forest
+15,06/12/25,Manchester City,3-0,Sunderland
+15,06/12/25,Newcastle,2-1,Burnley
+15,06/12/25,Tottenham,2-0,Brentford
+15,06/12/25,Leeds United,3-3,Liverpool
+15,07/12/25,Brighton & Hove Albion,1-1,West Ham
+15,07/12/25,Fulham,1-2,Crystal Palace
+15,08/12/25,Wolverhampton,1-4,Manchester United
+16,13/12/25,Chelsea,2-0,Everton
+16,13/12/25,Liverpool,2-0,Brighton & Hove Albion
+16,13/12/25,Burnley,2-3,Fulham
+16,13/12/25,Arsenal,2-1,Wolverhampton
+16,14/12/25,Crystal Palace,0-3,Manchester City
+16,14/12/25,Nottingham Forest,3-0,Tottenham
+16,14/12/25,Sunderland,1-0,Newcastle
+16,14/12/25,West Ham,2-3,Aston Villa
+16,14/12/25,Brentford,1-1,Leeds United
+16,15/12/25,Manchester United,4-4,Bournemouth
+17,20/12/25,Newcastle,2-2,Chelsea
+17,20/12/25,Bournemouth,1-1,Burnley
+17,20/12/25,Brighton & Hove Albion,0-0,Sunderland
+17,20/12/25,Manchester City,3-0,West Ham
+17,20/12/25,Wolverhampton,0-2,Brentford
+17,20/12/25,Tottenham,1-2,Liverpool
+17,20/12/25,Everton,0-1,Arsenal
+17,20/12/25,Leeds United,4-1,Crystal Palace
+17,21/12/25,Aston Villa,2-1,Manchester United
+17,22/12/25,Fulham,1-0,Nottingham Forest
+18,26/12/25,Manchester United,1-0,Newcastle
+18,27/12/25,Nottingham Forest,1-2,Manchester City
+18,27/12/25,Arsenal,2-1,Brighton & Hove Albion
+18,27/12/25,Brentford,4-1,Bournemouth
+18,27/12/25,Burnley,0-0,Everton
+18,27/12/25,Liverpool,2-1,Wolverhampton
+18,27/12/25,West Ham,0-1,Fulham
+18,27/12/25,Chelsea,1-2,Aston Villa
+18,28/12/25,Sunderland,1-1,Leeds United
+18,28/12/25,Crystal Palace,0-1,Tottenham
+19,30/12/25,Burnley,1-3,Newcastle
+19,30/12/25,Chelsea,2-2,Bournemouth
+19,30/12/25,Nottingham Forest,0-2,Everton
+19,30/12/25,West Ham,2-2,Brighton & Hove Albion
+19,30/12/25,Arsenal,4-1,Aston Villa
+19,30/12/25,Manchester United,1-1,Wolverhampton
+19,01/01/26,Crystal Palace,1-1,Fulham
+19,01/01/26,Liverpool,0-0,Leeds United
+19,01/01/26,Brentford,0-0,Tottenham
+19,01/01/26,Sunderland,0-0,Manchester City
+20,03/01/26,Aston Villa,3-1,Nottingham Forest
+20,03/01/26,Brighton & Hove Albion,2-0,Burnley
+20,03/01/26,Wolverhampton,3-0,West Ham
+20,03/01/26,Bournemouth,2-3,Arsenal
+20,04/01/26,Leeds United,1-1,Manchester United
+20,04/01/26,Everton,2-4,Brentford
+20,04/01/26,Fulham,2-2,Liverpool
+20,04/01/26,Newcastle,2-0,Crystal Palace
+20,04/01/26,Tottenham,1-1,Sunderland
+20,04/01/26,Manchester City,1-1,Chelsea
+21,06/01/26,West Ham,1-2,Nottingham Forest
+21,07/01/26,Bournemouth,3-2,Tottenham
+21,07/01/26,Brentford,3-0,Sunderland
+21,07/01/26,Crystal Palace,0-0,Aston Villa
+21,07/01/26,Everton,1-1,Wolverhampton
+21,07/01/26,Fulham,2-1,Chelsea
+21,07/01/26,Manchester City,1-1,Brighton & Hove Albion
+21,07/01/26,Burnley,2-2,Manchester United
+21,07/01/26,Newcastle,4-3,Leeds United
+21,08/01/26,Arsenal,0-0,Liverpool
+22,17/01/26,Manchester United,2-0,Manchester City
+22,17/01/26,Chelsea,2-0,Brentford
+22,17/01/26,Leeds United,1-0,Fulham
+22,17/01/26,Liverpool,1-1,Burnley
+22,17/01/26,Sunderland,2-1,Crystal Palace
+22,17/01/26,Tottenham,1-2,West Ham
+22,17/01/26,Nottingham Forest,0-0,Arsenal
+22,18/01/26,Wolverhampton,0-0,Newcastle
+22,18/01/26,Aston Villa,0-1,Everton
+22,19/01/26,Brighton & Hove Albion,1-1,Bournemouth
+23,24/01/26,West Ham,3-1,Sunderland
+23,24/01/26,Burnley,2-2,Tottenham
+23,24/01/26,Fulham,2-1,Brighton & Hove Albion
+23,24/01/26,Manchester City,2-0,Wolverhampton
+23,24/01/26,Bournemouth,3-2,Liverpool
+23,25/01/26,Brentford,0-2,Nottingham Forest
+23,25/01/26,Crystal Palace,1-3,Chelsea
+23,25/01/26,Newcastle,0-2,Aston Villa
+23,25/01/26,Arsenal,2-3,Manchester United
+23,26/01/26,Everton,1-1,Leeds United
+24,31/01/26,Brighton & Hove Albion,1-1,Everton
+24,31/01/26,Leeds United,0-4,Arsenal
+24,31/01/26,Wolverhampton,0-2,Bournemouth
+24,31/01/26,Chelsea,3-2,West Ham
+24,31/01/26,Liverpool,4-1,Newcastle
+24,01/02/26,Aston Villa,0-1,Brentford
+24,01/02/26,Manchester United,3-2,Fulham
+24,01/02/26,Nottingham Forest,1-1,Crystal Palace
+24,01/02/26,Tottenham,2-2,Manchester City
+24,02/02/26,Sunderland,3-0,Burnley
+25,06/02/26,Leeds United,3-1,Nottingham Forest
+25,07/02/26,Manchester United,2-0,Tottenham
+25,07/02/26,Bournemouth,1-1,Aston Villa
+25,07/02/26,Arsenal,3-0,Sunderland
+25,07/02/26,Burnley,0-2,West Ham
+25,07/02/26,Fulham,1-2,Everton
+25,07/02/26,Wolverhampton,1-3,Chelsea
+25,07/02/26,Newcastle,2-3,Brentford
+25,08/02/26,Brighton & Hove Albion,0-1,Crystal Palace
+25,08/02/26,Liverpool,1-2,Manchester City
+26,10/02/26,Chelsea,2-2,Leeds United
+26,10/02/26,Everton,1-2,Bournemouth
+26,10/02/26,Tottenham,1-2,Newcastle
+26,10/02/26,West Ham,1-1,Manchester United
+26,11/02/26,Aston Villa,1-0,Brighton & Hove Albion
+26,11/02/26,Manchester City,3-0,Fulham
+26,11/02/26,Nottingham Forest,0-0,Wolverhampton
+26,11/02/26,Crystal Palace,2-3,Burnley
+26,11/02/26,Sunderland,0-1,Liverpool
+26,12/02/26,Brentford,1-1,Arsenal
+31,18/02/26,Wolverhampton,2-2,Arsenal
+27,21/02/26,Aston Villa,1-1,Leeds United
+27,21/02/26,Brentford,0-2,Brighton & Hove Albion
+27,21/02/26,Chelsea,1-1,Burnley
+27,21/02/26,West Ham,0-0,Bournemouth
+27,21/02/26,Manchester City,2-1,Newcastle
+27,22/02/26,Crystal Palace,1-0,Wolverhampton
+27,22/02/26,Nottingham Forest,0-1,Liverpool
+27,22/02/26,Sunderland,1-3,Fulham
+27,22/02/26,Tottenham,1-4,Arsenal
+27,23/02/26,Everton,0-1,Manchester United
+28,27/02/26,Wolverhampton,2-0,Aston Villa
+28,28/02/26,Bournemouth,1-1,Sunderland
+28,28/02/26,Burnley,3-4,Brentford
+28,28/02/26,Liverpool,5-2,West Ham
+28,28/02/26,Newcastle,2-3,Everton
+28,28/02/26,Leeds United,0-1,Manchester City
+28,01/03/26,Brighton & Hove Albion,2-1,Nottingham Forest
+28,01/03/26,Fulham,2-1,Tottenham
+28,01/03/26,Manchester United,2-1,Crystal Palace
+28,01/03/26,Arsenal,2-1,Chelsea
+29,03/03/26,Bournemouth,0-0,Brentford
+29,03/03/26,Everton,2-0,Burnley
+29,03/03/26,Leeds United,0-1,Sunderland
+29,03/03/26,Wolverhampton,2-1,Liverpool
+29,04/03/26,Aston Villa,1-4,Chelsea
+29,04/03/26,Brighton & Hove Albion,0-1,Arsenal
+29,04/03/26,Fulham,0-1,West Ham
+29,04/03/26,Manchester City,2-2,Nottingham Forest
+29,04/03/26,Newcastle,2-1,Manchester United
+29,05/03/26,Tottenham,1-3,Crystal Palace
+30,14/03/26,Burnley,0-0,Bournemouth
+30,14/03/26,Sunderland,0-1,Brighton & Hove Albion
+30,14/03/26,Arsenal,2-0,Everton
+30,14/03/26,Chelsea,0-1,Newcastle
+30,14/03/26,West Ham,1-1,Manchester City
+30,15/03/26,Crystal Palace,0-0,Leeds United
+30,15/03/26,Manchester United,3-1,Aston Villa
+30,15/03/26,Nottingham Forest,0-0,Fulham
+30,15/03/26,Liverpool,1-1,Tottenham

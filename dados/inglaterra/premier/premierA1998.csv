@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/98,Manchester United,2-2,Leicester City
+1,15/08/98,Middlesbrough,0-0,Leeds United
+1,15/08/98,Sheffield Wed.,0-1,West Ham
+1,15/08/98,Newcastle,0-0,Charlton Athletic
+1,15/08/98,Everton,0-0,Aston Villa
+1,15/08/98,Coventry City,2-1,Chelsea
+1,15/08/98,Blackburn Rovers,0-0,Derby County
+1,15/08/98,Wimbledon,3-1,Tottenham
+1,16/08/98,Southampton,1-2,Liverpool
+1,17/08/98,Arsenal,2-1,Nottingham Forest
+2,22/08/98,Chelsea,1-1,Newcastle
+2,22/08/98,West Ham,0-0,Manchester United
+2,22/08/98,Liverpool,0-0,Arsenal
+2,22/08/98,Leicester City,2-0,Everton
+2,22/08/98,Tottenham,0-3,Sheffield Wed.
+2,22/08/98,Charlton Athletic,5-0,Southampton
+2,22/08/98,Nottingham Forest,1-0,Coventry City
+2,22/08/98,Derby County,0-0,Wimbledon
+2,23/08/98,Aston Villa,3-1,Middlesbrough
+2,24/08/98,Leeds United,1-0,Blackburn Rovers
+3,29/08/98,Arsenal,0-0,Charlton Athletic
+3,29/08/98,Middlesbrough,1-1,Derby County
+3,29/08/98,Sheffield Wed.,0-1,Aston Villa
+3,29/08/98,Everton,0-1,Tottenham
+3,29/08/98,Coventry City,0-0,West Ham
+3,29/08/98,Southampton,1-2,Nottingham Forest
+3,29/08/98,Blackburn Rovers,1-0,Leicester City
+3,29/08/98,Wimbledon,1-1,Leeds United
+3,30/08/98,Newcastle,1-4,Liverpool
+4,08/09/98,Leeds United,3-0,Southampton
+4,08/09/98,Nottingham Forest,0-2,Everton
+4,09/09/98,Aston Villa,1-0,Newcastle
+4,09/09/98,Liverpool,2-0,Coventry City
+4,09/09/98,Derby County,1-0,Sheffield Wed.
+4,09/09/98,Leicester City,0-1,Middlesbrough
+4,09/09/98,Tottenham,2-1,Blackburn Rovers
+4,09/09/98,West Ham,3-4,Wimbledon
+4,09/09/98,Manchester United,4-1,Charlton Athletic
+4,09/09/98,Chelsea,0-0,Arsenal
+5,12/09/98,Manchester United,2-0,Coventry City
+5,12/09/98,Chelsea,2-1,Nottingham Forest
+5,12/09/98,West Ham,2-1,Liverpool
+5,12/09/98,Leicester City,1-1,Arsenal
+5,12/09/98,Sheffield Wed.,3-0,Blackburn Rovers
+5,12/09/98,Newcastle,4-0,Southampton
+5,12/09/98,Everton,0-0,Leeds United
+5,12/09/98,Charlton Athletic,1-2,Derby County
+5,12/09/98,Aston Villa,2-0,Wimbledon
+5,13/09/98,Tottenham,0-3,Middlesbrough
+6,19/09/98,Leeds United,0-0,Aston Villa
+6,19/09/98,Liverpool,3-3,Charlton Athletic
+6,19/09/98,Derby County,2-0,Leicester City
+6,19/09/98,Middlesbrough,2-2,Everton
+6,19/09/98,Coventry City,1-5,Newcastle
+6,19/09/98,Southampton,1-1,Tottenham
+6,19/09/98,Nottingham Forest,0-0,West Ham
+6,19/09/98,Wimbledon,2-1,Sheffield Wed.
+6,20/09/98,Arsenal,3-0,Manchester United
+6,21/09/98,Blackburn Rovers,3-4,Chelsea
+7,24/09/98,Manchester United,2-0,Liverpool
+7,26/09/98,Chelsea,2-0,Middlesbrough
+7,26/09/98,Aston Villa,1-0,Derby County
+7,26/09/98,Tottenham,3-3,Leeds United
+7,26/09/98,Sheffield Wed.,1-0,Arsenal
+7,26/09/98,Newcastle,2-0,Nottingham Forest
+7,26/09/98,Everton,0-0,Blackburn Rovers
+7,26/09/98,Charlton Athletic,1-1,Coventry City
+7,27/09/98,Leicester City,1-1,Wimbledon
+7,28/09/98,West Ham,1-0,Southampton
+8,03/10/98,Leeds United,0-1,Leicester City
+8,03/10/98,Derby County,0-1,Tottenham
+8,03/10/98,Middlesbrough,4-0,Sheffield Wed.
+8,03/10/98,Coventry City,1-2,Aston Villa
+8,03/10/98,Southampton,0-3,Manchester United
+8,03/10/98,Blackburn Rovers,3-0,West Ham
+8,03/10/98,Nottingham Forest,0-1,Charlton Athletic
+8,03/10/98,Wimbledon,1-2,Everton
+8,04/10/98,Arsenal,3-0,Newcastle
+8,04/10/98,Liverpool,1-1,Chelsea
+9,17/10/98,Arsenal,1-1,Southampton
+9,17/10/98,Chelsea,2-1,Charlton Athletic
+9,17/10/98,West Ham,0-0,Aston Villa
+9,17/10/98,Middlesbrough,2-1,Blackburn Rovers
+9,17/10/98,Newcastle,2-1,Derby County
+9,17/10/98,Everton,0-0,Liverpool
+9,17/10/98,Nottingham Forest,1-1,Leeds United
+9,17/10/98,Manchester United,5-1,Wimbledon
+9,18/10/98,Coventry City,1-0,Sheffield Wed.
+9,19/10/98,Leicester City,2-1,Tottenham
+10,24/10/98,Aston Villa,1-1,Leicester City
+10,24/10/98,Liverpool,5-1,Nottingham Forest
+10,24/10/98,Derby County,1-1,Manchester United
+10,24/10/98,Tottenham,2-0,Newcastle
+10,24/10/98,Sheffield Wed.,0-0,Everton
+10,24/10/98,Southampton,2-1,Coventry City
+10,24/10/98,Charlton Athletic,4-2,West Ham
+10,24/10/98,Wimbledon,2-2,Middlesbrough
+10,25/10/98,Leeds United,0-0,Chelsea
+10,25/10/98,Blackburn Rovers,1-2,Arsenal
+11,31/10/98,Derby County,2-2,Leeds United
+11,31/10/98,Leicester City,1-0,Liverpool
+11,31/10/98,Sheffield Wed.,0-0,Southampton
+11,31/10/98,Newcastle,0-3,West Ham
+11,31/10/98,Everton,1-4,Manchester United
+11,31/10/98,Coventry City,0-1,Arsenal
+11,31/10/98,Wimbledon,1-1,Blackburn Rovers
+11,01/11/98,Middlesbrough,1-1,Nottingham Forest
+11,02/11/98,Tottenham,2-2,Charlton Athletic
+12,07/11/98,Aston Villa,3-2,Tottenham
+12,07/11/98,Liverpool,1-2,Derby County
+12,07/11/98,Southampton,3-3,Middlesbrough
+12,07/11/98,Charlton Athletic,0-0,Leicester City
+12,07/11/98,Blackburn Rovers,1-2,Coventry City
+12,07/11/98,Nottingham Forest,0-1,Wimbledon
+12,08/11/98,Manchester United,0-0,Newcastle
+12,08/11/98,Arsenal,1-0,Everton
+12,08/11/98,West Ham,1-1,Chelsea
+12,08/11/98,Leeds United,2-1,Sheffield Wed.
+13,14/11/98,Manchester United,3-2,Blackburn Rovers
+13,14/11/98,Arsenal,0-0,Tottenham
+13,14/11/98,West Ham,3-2,Leicester City
+13,14/11/98,Liverpool,1-3,Leeds United
+13,14/11/98,Newcastle,1-1,Sheffield Wed.
+13,14/11/98,Southampton,1-4,Aston Villa
+13,14/11/98,Charlton Athletic,1-1,Middlesbrough
+13,14/11/98,Chelsea,3-0,Wimbledon
+13,15/11/98,Coventry City,3-0,Everton
+13,16/11/98,Nottingham Forest,2-2,Derby County
+14,21/11/98,Leeds United,4-1,Charlton Athletic
+14,21/11/98,Aston Villa,2-4,Liverpool
+14,21/11/98,Middlesbrough,2-0,Coventry City
+14,21/11/98,Leicester City,2-4,Chelsea
+14,21/11/98,Tottenham,2-0,Nottingham Forest
+14,21/11/98,Sheffield Wed.,3-1,Manchester United
+14,21/11/98,Blackburn Rovers,0-2,Southampton
+14,21/11/98,Wimbledon,1-0,Arsenal
+14,22/11/98,Derby County,0-2,West Ham
+14,23/11/98,Everton,1-0,Newcastle
+15,28/11/98,Chelsea,1-1,Sheffield Wed.
+15,28/11/98,West Ham,2-1,Tottenham
+15,28/11/98,Coventry City,1-1,Leicester City
+15,28/11/98,Southampton,0-1,Derby County
+15,28/11/98,Charlton Athletic,1-2,Everton
+15,28/11/98,Nottingham Forest,2-2,Aston Villa
+15,28/11/98,Newcastle,3-1,Wimbledon
+15,29/11/98,Manchester United,3-2,Leeds United
+15,29/11/98,Arsenal,1-1,Middlesbrough
+15,29/11/98,Liverpool,2-0,Blackburn Rovers
+16,05/12/98,Leeds United,4-0,West Ham
+16,05/12/98,Aston Villa,1-1,Manchester United
+16,05/12/98,Derby County,0-0,Arsenal
+16,05/12/98,Leicester City,2-0,Southampton
+16,05/12/98,Tottenham,2-1,Liverpool
+16,05/12/98,Everton,0-0,Chelsea
+16,05/12/98,Blackburn Rovers,1-0,Charlton Athletic
+16,05/12/98,Wimbledon,2-1,Coventry City
+16,06/12/98,Middlesbrough,2-2,Newcastle
+16,07/12/98,Sheffield Wed.,3-2,Nottingham Forest
+11,09/12/98,Chelsea,2-1,Aston Villa
+17,12/12/98,Derby County,2-2,Chelsea
+17,12/12/98,Middlesbrough,1-0,West Ham
+17,12/12/98,Leicester City,3-1,Nottingham Forest
+17,12/12/98,Tottenham,2-2,Manchester United
+17,12/12/98,Sheffield Wed.,3-0,Charlton Athletic
+17,12/12/98,Everton,1-0,Southampton
+17,12/12/98,Blackburn Rovers,0-0,Newcastle
+17,13/12/98,Aston Villa,3-2,Arsenal
+17,13/12/98,Wimbledon,1-0,Liverpool
+17,14/12/98,Leeds United,2-0,Coventry City
+3,16/12/98,Manchester United,1-1,Chelsea
+18,19/12/98,Manchester United,2-3,Middlesbrough
+18,19/12/98,Chelsea,2-0,Tottenham
+18,19/12/98,West Ham,2-1,Everton
+18,19/12/98,Liverpool,2-0,Sheffield Wed.
+18,19/12/98,Newcastle,1-0,Leicester City
+18,19/12/98,Coventry City,1-1,Derby County
+18,19/12/98,Nottingham Forest,2-2,Blackburn Rovers
+18,19/12/98,Southampton,3-1,Wimbledon
+18,20/12/98,Arsenal,3-1,Leeds United
+18,21/12/98,Charlton Athletic,0-1,Aston Villa
+19,26/12/98,Arsenal,1-0,West Ham
+19,26/12/98,Southampton,0-2,Chelsea
+19,26/12/98,Wimbledon,2-1,Charlton Athletic
+19,26/12/98,Manchester United,3-0,Nottingham Forest
+19,26/12/98,Middlesbrough,1-3,Liverpool
+19,26/12/98,Sheffield Wed.,0-1,Leicester City
+19,26/12/98,Newcastle,0-3,Leeds United
+19,26/12/98,Everton,0-0,Derby County
+19,26/12/98,Coventry City,1-1,Tottenham
+19,26/12/98,Blackburn Rovers,2-1,Aston Villa
+20,28/12/98,West Ham,2-0,Coventry City
+20,28/12/98,Aston Villa,2-1,Sheffield Wed.
+20,28/12/98,Liverpool,4-2,Newcastle
+20,28/12/98,Derby County,2-1,Middlesbrough
+20,28/12/98,Tottenham,4-1,Everton
+20,28/12/98,Charlton Athletic,0-1,Arsenal
+20,28/12/98,Nottingham Forest,1-1,Southampton
+20,28/12/98,Leicester City,1-1,Blackburn Rovers
+20,29/12/98,Leeds United,2-2,Wimbledon
+20,29/12/98,Chelsea,0-0,Manchester United
+21,09/01/99,Arsenal,0-0,Liverpool
+21,09/01/99,Middlesbrough,0-0,Aston Villa
+21,09/01/99,Sheffield Wed.,0-0,Tottenham
+21,09/01/99,Newcastle,0-1,Chelsea
+21,09/01/99,Everton,0-0,Leicester City
+21,09/01/99,Coventry City,4-0,Nottingham Forest
+21,09/01/99,Southampton,3-1,Charlton Athletic
+21,09/01/99,Blackburn Rovers,1-0,Leeds United
+21,09/01/99,Wimbledon,2-1,Derby County
+21,10/01/99,Manchester United,4-1,West Ham
+22,16/01/99,Chelsea,2-1,Coventry City
+22,16/01/99,Leeds United,2-0,Middlesbrough
+22,16/01/99,West Ham,0-4,Sheffield Wed.
+22,16/01/99,Liverpool,7-1,Southampton
+22,16/01/99,Derby County,1-0,Blackburn Rovers
+22,16/01/99,Leicester City,2-6,Manchester United
+22,16/01/99,Nottingham Forest,0-1,Arsenal
+22,16/01/99,Tottenham,0-0,Wimbledon
+22,17/01/99,Charlton Athletic,2-2,Newcastle
+22,18/01/99,Aston Villa,3-0,Everton
+23,30/01/99,Middlesbrough,0-0,Leicester City
+23,30/01/99,Sheffield Wed.,0-1,Derby County
+23,30/01/99,Newcastle,2-1,Aston Villa
+23,30/01/99,Everton,0-1,Nottingham Forest
+23,30/01/99,Coventry City,2-1,Liverpool
+23,30/01/99,Southampton,3-0,Leeds United
+23,30/01/99,Blackburn Rovers,1-1,Tottenham
+23,30/01/99,Wimbledon,0-0,West Ham
+23,31/01/99,Arsenal,1-0,Chelsea
+23,31/01/99,Charlton Athletic,0-1,Manchester United
+32,03/02/99,Manchester United,1-0,Derby County
+24,06/02/99,Chelsea,1-0,Southampton
+24,06/02/99,Leeds United,0-1,Newcastle
+24,06/02/99,West Ham,0-4,Arsenal
+24,06/02/99,Aston Villa,1-3,Blackburn Rovers
+24,06/02/99,Liverpool,3-1,Middlesbrough
+24,06/02/99,Leicester City,0-2,Sheffield Wed.
+24,06/02/99,Tottenham,0-0,Coventry City
+24,06/02/99,Nottingham Forest,1-8,Manchester United
+24,07/02/99,Derby County,2-1,Everton
+24,08/02/99,Charlton Athletic,2-0,Wimbledon
+25,13/02/99,West Ham,2-1,Nottingham Forest
+25,13/02/99,Charlton Athletic,1-0,Liverpool
+25,17/02/99,Chelsea,1-1,Blackburn Rovers
+25,17/02/99,Aston Villa,1-2,Leeds United
+25,17/02/99,Newcastle,4-1,Coventry City
+25,17/02/99,Manchester United,1-1,Arsenal
+25,17/02/99,Everton,5-0,Middlesbrough
+26,20/02/99,Arsenal,5-0,Leicester City
+26,20/02/99,Leeds United,1-0,Everton
+26,20/02/99,Liverpool,2-2,West Ham
+26,20/02/99,Derby County,0-2,Charlton Athletic
+26,20/02/99,Middlesbrough,0-0,Tottenham
+26,20/02/99,Coventry City,0-1,Manchester United
+26,20/02/99,Southampton,2-1,Newcastle
+26,20/02/99,Blackburn Rovers,1-4,Sheffield Wed.
+26,20/02/99,Nottingham Forest,1-3,Chelsea
+26,21/02/99,Wimbledon,0-0,Aston Villa
+27,27/02/99,Manchester United,2-1,Southampton
+27,27/02/99,Chelsea,2-1,Liverpool
+27,27/02/99,West Ham,2-0,Blackburn Rovers
+27,27/02/99,Aston Villa,1-4,Coventry City
+27,27/02/99,Tottenham,1-1,Derby County
+27,27/02/99,Sheffield Wed.,3-1,Middlesbrough
+27,27/02/99,Charlton Athletic,0-0,Nottingham Forest
+27,27/02/99,Everton,1-1,Wimbledon
+27,28/02/99,Newcastle,1-1,Arsenal
+27,01/03/99,Leicester City,1-2,Leeds United
+25,01/03/99,Tottenham,3-0,Southampton
+25,03/03/99,Sheffield Wed.,1-2,Wimbledon
+28,06/03/99,Coventry City,2-1,Charlton Athletic
+28,06/03/99,Southampton,1-0,West Ham
+28,06/03/99,Wimbledon,0-1,Leicester City
+28,09/03/99,Arsenal,3-0,Sheffield Wed.
+28,10/03/99,Leeds United,2-0,Tottenham
+28,10/03/99,Derby County,2-1,Aston Villa
+28,10/03/99,Blackburn Rovers,1-2,Everton
+28,10/03/99,Nottingham Forest,1-2,Newcastle
+29,13/03/99,Chelsea,0-1,West Ham
+29,13/03/99,Derby County,3-2,Liverpool
+29,13/03/99,Leicester City,1-1,Charlton Athletic
+29,13/03/99,Tottenham,1-0,Aston Villa
+29,13/03/99,Sheffield Wed.,0-2,Leeds United
+29,13/03/99,Newcastle,1-2,Manchester United
+29,13/03/99,Everton,0-2,Arsenal
+29,13/03/99,Coventry City,1-1,Blackburn Rovers
+29,13/03/99,Wimbledon,1-3,Nottingham Forest
+29,14/03/99,Middlesbrough,3-0,Southampton
+30,20/03/99,Arsenal,2-0,Coventry City
+30,20/03/99,Leeds United,4-1,Derby County
+30,20/03/99,West Ham,2-0,Newcastle
+30,20/03/99,Southampton,1-0,Sheffield Wed.
+30,20/03/99,Nottingham Forest,1-2,Middlesbrough
+30,20/03/99,Blackburn Rovers,3-1,Wimbledon
+30,21/03/99,Aston Villa,0-3,Chelsea
+30,21/03/99,Manchester United,3-1,Everton
+31,02/04/99,Aston Villa,0-0,West Ham
+31,03/04/99,Leeds United,3-1,Nottingham Forest
+31,03/04/99,Liverpool,3-2,Everton
+31,03/04/99,Derby County,3-4,Newcastle

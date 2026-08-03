@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/08/96,Arsenal,2-0,West Ham
+1,17/08/96,Blackburn Rovers,0-2,Tottenham
+1,17/08/96,Derby County,3-3,Leeds United
+1,17/08/96,Everton,2-0,Newcastle
+1,17/08/96,Middlesbrough,3-3,Liverpool
+1,17/08/96,Sheffield Wed.,2-1,Aston Villa
+1,17/08/96,Sunderland,0-0,Leicester City
+1,17/08/96,Wimbledon,0-3,Manchester United
+1,17/08/96,Coventry City,0-3,Nottingham Forest
+1,18/08/96,Southampton,0-0,Chelsea
+2,19/08/96,Liverpool,2-0,Arsenal
+2,20/08/96,Leeds United,0-2,Sheffield Wed.
+2,21/08/96,Newcastle,2-0,Wimbledon
+2,21/08/96,Aston Villa,1-0,Blackburn Rovers
+2,21/08/96,Chelsea,1-0,Middlesbrough
+2,21/08/96,Leicester City,2-1,Southampton
+2,21/08/96,Nottingham Forest,1-4,Sunderland
+2,21/08/96,Tottenham,1-1,Derby County
+2,21/08/96,West Ham,1-1,Coventry City
+2,21/08/96,Manchester United,2-2,Everton
+3,24/08/96,Aston Villa,2-0,Derby County
+3,24/08/96,Chelsea,2-0,Coventry City
+3,24/08/96,Leicester City,0-2,Arsenal
+3,24/08/96,Liverpool,0-0,Sunderland
+3,24/08/96,Newcastle,1-2,Sheffield Wed.
+3,24/08/96,Nottingham Forest,1-1,Middlesbrough
+3,24/08/96,Tottenham,0-0,Everton
+3,24/08/96,West Ham,2-1,Southampton
+3,25/08/96,Manchester United,2-2,Blackburn Rovers
+3,26/08/96,Leeds United,1-0,Wimbledon
+4,02/09/96,Sheffield Wed.,2-1,Leicester City
+4,04/09/96,Everton,0-1,Aston Villa
+4,04/09/96,Southampton,2-2,Nottingham Forest
+4,04/09/96,Arsenal,3-3,Chelsea
+4,04/09/96,Blackburn Rovers,0-1,Leeds United
+4,04/09/96,Sunderland,1-2,Newcastle
+4,04/09/96,Wimbledon,1-0,Tottenham
+4,04/09/96,Coventry City,0-1,Liverpool
+4,04/09/96,Derby County,1-1,Manchester United
+4,04/09/96,Middlesbrough,4-1,West Ham
+5,07/09/96,Aston Villa,2-2,Arsenal
+5,07/09/96,Leeds United,0-4,Manchester United
+5,07/09/96,Liverpool,2-1,Southampton
+5,07/09/96,Middlesbrough,4-0,Coventry City
+5,07/09/96,Nottingham Forest,0-0,Leicester City
+5,07/09/96,Sheffield Wed.,0-2,Chelsea
+5,07/09/96,Tottenham,1-2,Newcastle
+5,07/09/96,Wimbledon,4-0,Everton
+5,08/09/96,Sunderland,0-0,West Ham
+5,09/09/96,Blackburn Rovers,1-2,Derby County
+6,14/09/96,Coventry City,2-1,Leeds United
+6,14/09/96,Derby County,1-0,Sunderland
+6,14/09/96,Everton,1-2,Middlesbrough
+6,14/09/96,Manchester United,4-1,Nottingham Forest
+6,14/09/96,Newcastle,2-1,Blackburn Rovers
+6,14/09/96,Southampton,0-1,Tottenham
+6,14/09/96,West Ham,0-2,Wimbledon
+6,15/09/96,Chelsea,1-1,Aston Villa
+6,15/09/96,Leicester City,0-3,Liverpool
+6,16/09/96,Arsenal,4-1,Sheffield Wed.
+7,21/09/96,Aston Villa,0-0,Manchester United
+7,21/09/96,Blackburn Rovers,1-1,Everton
+7,21/09/96,Leeds United,0-1,Newcastle
+7,21/09/96,Liverpool,5-1,Chelsea
+7,21/09/96,Middlesbrough,0-2,Arsenal
+7,21/09/96,Nottingham Forest,0-2,West Ham
+7,21/09/96,Sheffield Wed.,0-0,Derby County
+7,21/09/96,Sunderland,1-0,Coventry City
+7,22/09/96,Tottenham,1-2,Leicester City
+7,23/09/96,Wimbledon,3-1,Southampton
+8,28/09/96,Arsenal,2-0,Sunderland
+8,28/09/96,Chelsea,1-1,Nottingham Forest
+8,28/09/96,Coventry City,0-0,Blackburn Rovers
+8,28/09/96,Derby County,0-2,Wimbledon
+8,28/09/96,Everton,2-0,Sheffield Wed.
+8,28/09/96,Leicester City,1-0,Leeds United
+8,28/09/96,Southampton,4-0,Middlesbrough
+8,29/09/96,West Ham,1-2,Liverpool
+8,29/09/96,Manchester United,2-0,Tottenham
+8,30/09/96,Newcastle,4-3,Aston Villa
+9,12/10/96,Manchester United,1-0,Liverpool
+9,12/10/96,Blackburn Rovers,0-2,Arsenal
+9,12/10/96,Derby County,0-1,Newcastle
+9,12/10/96,Everton,2-1,West Ham
+9,12/10/96,Leeds United,2-0,Nottingham Forest
+9,12/10/96,Leicester City,1-3,Chelsea
+9,12/10/96,Tottenham,1-0,Aston Villa
+9,12/10/96,Wimbledon,4-2,Sheffield Wed.
+9,13/10/96,Coventry City,1-1,Southampton
+9,14/10/96,Sunderland,2-2,Middlesbrough
+10,19/10/96,Arsenal,0-0,Coventry City
+10,19/10/96,Aston Villa,2-0,Leeds United
+10,19/10/96,Chelsea,2-4,Wimbledon
+10,19/10/96,Middlesbrough,0-3,Tottenham
+10,19/10/96,Nottingham Forest,1-1,Derby County
+10,19/10/96,Sheffield Wed.,1-1,Blackburn Rovers
+10,19/10/96,Southampton,3-0,Sunderland
+10,19/10/96,West Ham,1-0,Leicester City
+10,20/10/96,Newcastle,5-0,Manchester United
+11,26/10/96,Arsenal,3-0,Leeds United
+11,26/10/96,Chelsea,3-1,Tottenham
+11,26/10/96,Coventry City,0-0,Sheffield Wed.
+11,26/10/96,Leicester City,2-0,Newcastle
+11,26/10/96,Middlesbrough,0-0,Wimbledon
+11,26/10/96,Southampton,6-3,Manchester United
+11,26/10/96,Sunderland,1-0,Aston Villa
+11,26/10/96,West Ham,2-1,Blackburn Rovers
+11,27/10/96,Liverpool,2-1,Derby County
+11,28/10/96,Nottingham Forest,0-1,Everton
+12,02/11/96,Aston Villa,2-0,Nottingham Forest
+12,02/11/96,Derby County,2-0,Leicester City
+12,02/11/96,Leeds United,3-0,Sunderland
+12,02/11/96,Manchester United,1-2,Chelsea
+12,02/11/96,Sheffield Wed.,1-1,Southampton
+12,02/11/96,Tottenham,1-0,West Ham
+12,02/11/96,Wimbledon,2-2,Arsenal
+12,03/11/96,Blackburn Rovers,3-0,Liverpool
+12,03/11/96,Newcastle,3-1,Middlesbrough
+12,04/11/96,Everton,1-1,Coventry City
+13,16/11/96,Aston Villa,1-3,Leicester City
+13,16/11/96,Blackburn Rovers,1-1,Chelsea
+13,16/11/96,Everton,7-1,Southampton
+13,16/11/96,Leeds United,0-2,Liverpool
+13,16/11/96,Manchester United,1-0,Arsenal
+13,16/11/96,Newcastle,1-1,West Ham
+13,16/11/96,Tottenham,2-0,Sunderland
+13,16/11/96,Wimbledon,2-2,Coventry City
+13,17/11/96,Derby County,2-1,Middlesbrough
+13,18/11/96,Sheffield Wed.,2-0,Nottingham Forest
+10,20/11/96,Liverpool,1-1,Everton
+14,23/11/96,Chelsea,1-1,Newcastle
+14,23/11/96,Coventry City,1-2,Aston Villa
+14,23/11/96,Leicester City,1-2,Everton
+14,23/11/96,Liverpool,1-1,Wimbledon
+14,23/11/96,Middlesbrough,2-2,Manchester United
+14,23/11/96,Southampton,0-2,Leeds United
+14,23/11/96,Sunderland,1-1,Sheffield Wed.
+14,23/11/96,West Ham,1-1,Derby County
+14,24/11/96,Arsenal,3-1,Tottenham
+14,25/11/96,Nottingham Forest,2-2,Blackburn Rovers
+15,30/11/96,Aston Villa,1-0,Middlesbrough
+15,30/11/96,Blackburn Rovers,2-1,Southampton
+15,30/11/96,Derby County,2-1,Coventry City
+15,30/11/96,Everton,1-3,Sunderland
+15,30/11/96,Manchester United,3-1,Leicester City
+15,30/11/96,Newcastle,1-2,Arsenal
+15,30/11/96,Sheffield Wed.,0-0,West Ham
+15,30/11/96,Wimbledon,1-0,Nottingham Forest
+15,01/12/96,Leeds United,2-0,Chelsea
+15,02/12/96,Tottenham,0-2,Liverpool
+17,03/12/96,Middlesbrough,0-2,Leicester City
+17,04/12/96,Arsenal,3-1,Southampton
+17,04/12/96,West Ham,0-2,Aston Villa
+16,07/12/96,Arsenal,2-2,Derby County
+16,07/12/96,Southampton,0-1,Aston Villa
+16,07/12/96,Sunderland,1-3,Wimbledon
+16,07/12/96,Chelsea,2-2,Everton
+16,07/12/96,Middlesbrough,0-0,Leeds United
+16,07/12/96,Liverpool,0-1,Sheffield Wed.
+16,07/12/96,Leicester City,1-1,Blackburn Rovers
+16,07/12/96,Coventry City,1-2,Tottenham
+16,08/12/96,West Ham,2-2,Manchester United
+16,09/12/96,Nottingham Forest,0-0,Newcastle
+17,14/12/96,Wimbledon,1-0,Blackburn Rovers
+17,14/12/96,Leeds United,0-0,Tottenham
+20,14/12/96,Liverpool,5-1,Middlesbrough
+17,15/12/96,Sunderland,3-0,Chelsea
+17,16/12/96,Derby County,0-1,Everton
+17,17/12/96,Liverpool,4-2,Nottingham Forest
+17,17/12/96,Coventry City,2-1,Newcastle
+17,18/12/96,Sheffield Wed.,1-1,Manchester United
+18,21/12/96,Chelsea,3-1,West Ham
+18,21/12/96,Everton,0-0,Leeds United
+18,21/12/96,Leicester City,0-2,Coventry City
+18,21/12/96,Manchester United,5-0,Sunderland
+18,21/12/96,Nottingham Forest,2-1,Arsenal
+18,21/12/96,Southampton,3-1,Derby County
+18,21/12/96,Tottenham,1-1,Sheffield Wed.
+18,22/12/96,Aston Villa,5-0,Wimbledon
+18,23/12/96,Newcastle,1-1,Liverpool
+19,26/12/96,Tottenham,3-1,Southampton
+19,26/12/96,Aston Villa,0-2,Chelsea
+19,26/12/96,Blackburn Rovers,1-0,Newcastle
+19,26/12/96,Leeds United,1-3,Coventry City
+19,26/12/96,Liverpool,1-1,Leicester City
+19,26/12/96,Middlesbrough,4-2,Everton
+19,26/12/96,Nottingham Forest,0-4,Manchester United
+19,26/12/96,Sunderland,2-0,Derby County
+19,26/12/96,Sheffield Wed.,0-0,Arsenal
+21,28/12/96,Arsenal,2-2,Aston Villa
+21,28/12/96,Chelsea,2-2,Sheffield Wed.
+21,28/12/96,Coventry City,3-0,Middlesbrough
+21,28/12/96,Derby County,0-0,Blackburn Rovers
+21,28/12/96,Everton,1-3,Wimbledon
+21,28/12/96,Leicester City,2-2,Nottingham Forest
+21,28/12/96,Manchester United,1-0,Leeds United
+21,28/12/96,Newcastle,7-1,Tottenham
+21,28/12/96,West Ham,2-0,Sunderland
+21,29/12/96,Southampton,0-1,Liverpool
+22,01/01/97,Arsenal,2-0,Middlesbrough
+22,01/01/97,Chelsea,1-0,Liverpool
+22,01/01/97,Coventry City,2-2,Sunderland
+22,01/01/97,Newcastle,3-0,Leeds United
+22,01/01/97,West Ham,0-1,Nottingham Forest
+22,01/01/97,Everton,0-2,Blackburn Rovers
+22,01/01/97,Manchester United,0-0,Aston Villa
+23,11/01/97,Aston Villa,2-2,Newcastle
+23,11/01/97,Blackburn Rovers,4-0,Coventry City
+23,11/01/97,Leeds United,3-0,Leicester City
+23,11/01/97,Liverpool,0-0,West Ham
+23,11/01/97,Middlesbrough,0-1,Southampton
+23,11/01/97,Nottingham Forest,2-0,Chelsea
+23,11/01/97,Sheffield Wed.,2-1,Everton
+23,11/01/97,Sunderland,1-0,Arsenal
+23,11/01/97,Wimbledon,1-1,Derby County
+23,12/01/97,Tottenham,1-2,Manchester United
+24,18/01/97,Chelsea,3-1,Derby County
+24,18/01/97,Coventry City,0-2,Manchester United
+24,18/01/97,Leicester City,1-0,Wimbledon
+24,18/01/97,Liverpool,3-0,Aston Villa
+24,18/01/97,Middlesbrough,4-2,Sheffield Wed.
+24,18/01/97,Southampton,2-2,Newcastle
+24,18/01/97,Sunderland,0-0,Blackburn Rovers
+24,19/01/97,Nottingham Forest,2-1,Tottenham
+24,19/01/97,Arsenal,3-1,Everton
+24,20/01/97,West Ham,0-2,Leeds United
+20,29/01/97,West Ham,1-2,Arsenal
+20,29/01/97,Tottenham,2-1,Blackburn Rovers
+20,29/01/97,Nottingham Forest,0-1,Coventry City
+20,29/01/97,Leeds United,0-0,Derby County
+20,29/01/97,Newcastle,4-1,Everton
+20,29/01/97,Aston Villa,0-1,Sheffield Wed.
+20,29/01/97,Leicester City,1-1,Sunderland
+20,29/01/97,Manchester United,2-1,Wimbledon
+25,01/02/97,Aston Villa,1-0,Sunderland
+25,01/02/97,Blackburn Rovers,2-1,West Ham
+25,01/02/97,Derby County,0-1,Liverpool
+25,01/02/97,Everton,2-0,Nottingham Forest
+25,01/02/97,Leeds United,0-0,Arsenal
+25,01/02/97,Manchester United,2-1,Southampton
+25,01/02/97,Sheffield Wed.,0-0,Coventry City
+25,01/02/97,Tottenham,1-2,Chelsea
+25,01/02/97,Wimbledon,1-1,Middlesbrough
+25,02/02/97,Newcastle,4-3,Leicester City
+26,15/02/97,Derby County,1-0,West Ham
+26,15/02/97,Tottenham,0-0,Arsenal
+22,19/02/97,Derby County,2-2,Sheffield Wed.
+26,19/02/97,Aston Villa,2-1,Coventry City
+32,19/02/97,Liverpool,4-0,Leeds United
+32,19/02/97,Arsenal,1-2,Manchester United
+27,22/02/97,Chelsea,1-1,Manchester United
+27,22/02/97,Coventry City,0-0,Everton
+27,22/02/97,Leicester City,4-2,Derby County
+27,22/02/97,Liverpool,0-0,Blackburn Rovers
+27,22/02/97,Middlesbrough,0-1,Newcastle
+27,22/02/97,Nottingham Forest,0-0,Aston Villa
+27,22/02/97,Southampton,2-3,Sheffield Wed.
+27,22/02/97,Sunderland,0-1,Leeds United
+27,23/02/97,Arsenal,0-1,Wimbledon
+27,24/02/97,West Ham,4-3,Tottenham
+22,26/02/97,Southampton,0-0,Wimbledon
+28,01/03/97,Blackburn Rovers,1-0,Sunderland
+28,01/03/97,Derby County,3-2,Chelsea
+28,01/03/97,Everton,0-2,Arsenal
+28,01/03/97,Leeds United,1-0,West Ham
+28,01/03/97,Manchester United,3-1,Coventry City
+28,01/03/97,Newcastle,0-1,Southampton
+28,01/03/97,Sheffield Wed.,3-1,Middlesbrough
+28,01/03/97,Tottenham,0-1,Nottingham Forest
+28,01/03/97,Wimbledon,1-3,Leicester City
+28,02/03/97,Aston Villa,1-0,Liverpool
+32,03/03/97,Coventry City,1-1,Wimbledon
+32,04/03/97,Sunderland,0-4,Tottenham
+32,05/03/97,Leicester City,1-0,Aston Villa
+32,05/03/97,Chelsea,1-1,Blackburn Rovers
+32,05/03/97,Southampton,2-2,Everton
+32,05/03/97,Middlesbrough,6-1,Derby County
+32,05/03/97,Nottingham Forest,0-3,Sheffield Wed.
+37,08/03/97,Leeds United,1-0,Everton
+37,08/03/97,Coventry City,0-0,Leicester City
+37,08/03/97,Sunderland,2-1,Manchester United
+37,08/03/97,Arsenal,2-0,Nottingham Forest
+37,10/03/97,Liverpool,4-3,Newcastle
+26,11/03/97,Blackburn Rovers,1-1,Nottingham Forest
+26,12/03/97,Leeds United,0-0,Southampton
+26,12/03/97,Sheffield Wed.,2-1,Sunderland
+37,12/03/97,West Ham,3-2,Chelsea
+29,15/03/97,Tottenham,1-0,Leeds United
+29,15/03/97,Southampton,0-2,Arsenal
+29,15/03/97,Nottingham Forest,1-1,Liverpool
+29,15/03/97,Newcastle,4-0,Coventry City
+29,15/03/97,Manchester United,2-0,Sheffield Wed.
+29,15/03/97,Leicester City,1-3,Middlesbrough
+29,15/03/97,Everton,1-0,Derby County
+29,15/03/97,Blackburn Rovers,3-1,Wimbledon
+29,15/03/97,Aston Villa,0-0,West Ham
+29,16/03/97,Chelsea,6-2,Sunderland
+19,18/03/97,Wimbledon,1-1,West Ham
+20,19/03/97,Chelsea,1-0,Southampton
+22,19/03/97,Leicester City,1-1,Tottenham

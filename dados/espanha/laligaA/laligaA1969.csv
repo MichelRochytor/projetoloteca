@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/09/69,Las Palmas,5-1,Elche
+1,13/09/69,Pontevedra,0-1,Granada
+1,14/09/69,Athletic Bilbao,2-0,Mallorca
+1,14/09/69,Sevilla,0-1,Atlético de Madrid
+1,14/09/69,Real Madrid,3-3,Barcelona
+1,14/09/69,Real Sociedad,2-1,Celta de Vigo
+1,14/09/69,CE Sabadell,2-0,Valencia
+1,14/09/69,Deportivo,0-1,Real Zaragoza
+2,20/09/69,Valencia,0-1,Sevilla
+2,21/09/69,Atlético de Madrid,1-2,Las Palmas
+2,21/09/69,Barcelona,1-0,Deportivo
+2,21/09/69,Real Zaragoza,2-1,Pontevedra
+2,21/09/69,Celta de Vigo,1-1,CE Sabadell
+2,21/09/69,Elche,0-2,Real Madrid
+2,21/09/69,Granada,0-0,Athletic Bilbao
+2,21/09/69,Mallorca,3-2,Real Sociedad
+3,27/09/69,Athletic Bilbao,2-0,Real Zaragoza
+3,27/09/69,Las Palmas,2-4,Real Madrid
+3,28/09/69,Atlético de Madrid,2-0,Valencia
+3,28/09/69,Sevilla,3-0,Celta de Vigo
+3,28/09/69,Real Sociedad,2-1,Granada
+3,28/09/69,CE Sabadell,1-0,Mallorca
+3,28/09/69,Deportivo,1-0,Elche
+3,28/09/69,Pontevedra,0-0,Barcelona
+4,05/10/69,Barcelona,3-2,Athletic Bilbao
+4,05/10/69,Real Madrid,2-2,Deportivo
+4,05/10/69,Real Zaragoza,2-1,Real Sociedad
+4,05/10/69,Las Palmas,0-2,Valencia
+4,05/10/69,Celta de Vigo,1-1,Atlético de Madrid
+4,05/10/69,Elche,1-0,Pontevedra
+4,05/10/69,Granada,2-1,CE Sabadell
+4,05/10/69,Mallorca,1-2,Sevilla
+5,12/10/69,Atlético de Madrid,3-1,Mallorca
+5,12/10/69,Athletic Bilbao,2-0,Elche
+5,12/10/69,Sevilla,0-0,Granada
+5,12/10/69,Valencia,0-0,Celta de Vigo
+5,12/10/69,Real Sociedad,1-0,Barcelona
+5,12/10/69,CE Sabadell,1-1,Real Zaragoza
+5,12/10/69,Deportivo,0-0,Las Palmas
+5,12/10/69,Pontevedra,1-3,Real Madrid
+6,18/10/69,Barcelona,3-1,CE Sabadell
+6,19/10/69,Real Madrid,2-2,Athletic Bilbao
+6,19/10/69,Real Zaragoza,1-0,Sevilla
+6,19/10/69,Celta de Vigo,1-0,Las Palmas
+6,19/10/69,Elche,4-2,Real Sociedad
+6,19/10/69,Granada,0-0,Atlético de Madrid
+6,19/10/69,Deportivo,2-1,Pontevedra
+6,19/10/69,Mallorca,0-3,Valencia
+7,26/10/69,Atlético de Madrid,2-0,Real Zaragoza
+7,26/10/69,Athletic Bilbao,1-0,Deportivo
+7,26/10/69,Sevilla,3-0,Barcelona
+7,26/10/69,Valencia,1-0,Granada
+7,26/10/69,Real Sociedad,1-2,Real Madrid
+7,26/10/69,Las Palmas,1-1,Pontevedra
+7,26/10/69,Celta de Vigo,3-1,Mallorca
+7,26/10/69,CE Sabadell,1-2,Elche
+8,02/11/69,Barcelona,1-2,Atlético de Madrid
+8,02/11/69,Real Madrid,1-0,CE Sabadell
+8,02/11/69,Real Zaragoza,1-1,Valencia
+8,02/11/69,Las Palmas,3-1,Mallorca
+8,02/11/69,Elche,5-0,Sevilla
+8,02/11/69,Granada,1-0,Celta de Vigo
+8,02/11/69,Deportivo,0-2,Real Sociedad
+8,02/11/69,Pontevedra,0-2,Athletic Bilbao
+9,09/11/69,Atlético de Madrid,4-1,Elche
+9,09/11/69,Athletic Bilbao,3-0,Las Palmas
+9,09/11/69,Sevilla,1-0,Real Madrid
+9,09/11/69,Valencia,0-0,Barcelona
+9,09/11/69,Real Sociedad,2-1,Pontevedra
+9,09/11/69,Celta de Vigo,1-0,Real Zaragoza
+9,09/11/69,CE Sabadell,1-0,Deportivo
+9,09/11/69,Mallorca,4-6,Granada
+10,15/11/69,Real Madrid,1-1,Atlético de Madrid
+10,16/11/69,Athletic Bilbao,1-0,Real Sociedad
+10,16/11/69,Barcelona,2-1,Celta de Vigo
+10,16/11/69,Real Zaragoza,2-1,Mallorca
+10,16/11/69,Las Palmas,1-2,Granada
+10,16/11/69,Deportivo,3-0,Sevilla
+10,16/11/69,Pontevedra,2-1,CE Sabadell
+10,18/11/69,Elche,0-0,Valencia
+11,23/11/69,Atlético de Madrid,2-0,Deportivo
+11,23/11/69,Sevilla,3-1,Pontevedra
+11,23/11/69,Valencia,1-0,Real Madrid
+11,23/11/69,Las Palmas,0-1,Real Sociedad
+11,23/11/69,Celta de Vigo,4-0,Elche
+11,23/11/69,Granada,1-0,Real Zaragoza
+11,23/11/69,CE Sabadell,1-2,Athletic Bilbao
+11,23/11/69,Mallorca,3-2,Barcelona
+12,29/11/69,Real Madrid,3-1,Celta de Vigo
+12,30/11/69,Athletic Bilbao,0-1,Sevilla
+12,30/11/69,Barcelona,1-0,Granada
+12,30/11/69,Real Sociedad,2-1,CE Sabadell
+12,30/11/69,Real Zaragoza,1-2,Las Palmas
+12,30/11/69,Elche,1-1,Mallorca
+12,30/11/69,Deportivo,2-1,Valencia
+12,30/11/69,Pontevedra,1-2,Atlético de Madrid
+13,07/12/69,Atlético de Madrid,2-1,Athletic Bilbao
+13,07/12/69,Sevilla,1-1,Real Sociedad
+13,07/12/69,Valencia,2-0,Pontevedra
+13,07/12/69,Real Zaragoza,2-1,Barcelona
+13,07/12/69,Celta de Vigo,2-2,Deportivo
+13,07/12/69,Granada,0-0,Elche
+13,07/12/69,CE Sabadell,1-0,Las Palmas
+13,07/12/69,Mallorca,1-2,Real Madrid
+14,14/12/69,Athletic Bilbao,0-0,Valencia
+14,14/12/69,Real Madrid,2-0,Granada
+14,14/12/69,Real Sociedad,2-1,Atlético de Madrid
+14,14/12/69,Las Palmas,1-0,Barcelona
+14,14/12/69,Elche,1-1,Real Zaragoza
+14,14/12/69,CE Sabadell,2-1,Sevilla
+14,14/12/69,Deportivo,1-1,Mallorca
+14,14/12/69,Pontevedra,0-2,Celta de Vigo
+15,21/12/69,Atlético de Madrid,0-1,CE Sabadell
+15,21/12/69,Sevilla,1-1,Las Palmas
+15,21/12/69,Barcelona,1-1,Elche
+15,21/12/69,Valencia,3-1,Real Sociedad
+15,21/12/69,Real Zaragoza,2-0,Real Madrid
+15,21/12/69,Celta de Vigo,0-2,Athletic Bilbao
+15,21/12/69,Granada,2-0,Deportivo
+15,21/12/69,Mallorca,3-0,Pontevedra
+16,28/12/69,Atlético de Madrid,1-0,Sevilla
+16,28/12/69,Barcelona,1-0,Real Madrid
+16,28/12/69,Valencia,1-0,CE Sabadell
+16,28/12/69,Real Zaragoza,5-2,Deportivo
+16,28/12/69,Celta de Vigo,2-0,Real Sociedad
+16,28/12/69,Elche,1-2,Las Palmas
+16,28/12/69,Granada,1-0,Pontevedra
+16,28/12/69,Mallorca,2-2,Athletic Bilbao
+17,03/01/70,Athletic Bilbao,1-0,Granada
+17,03/01/70,Sevilla,4-2,Valencia
+17,03/01/70,Real Sociedad,2-0,Mallorca
+17,03/01/70,Las Palmas,2-2,Atlético de Madrid
+17,03/01/70,CE Sabadell,3-1,Celta de Vigo
+17,03/01/70,Deportivo,0-0,Barcelona
+17,03/01/70,Pontevedra,0-1,Real Zaragoza
+17,04/01/70,Real Madrid,3-1,Elche
+18,10/01/70,Barcelona,2-0,Pontevedra
+18,10/01/70,Valencia,2-3,Atlético de Madrid
+18,10/01/70,Real Madrid,5-0,Las Palmas
+18,10/01/70,Real Zaragoza,1-1,Athletic Bilbao
+18,10/01/70,Celta de Vigo,1-1,Sevilla
+18,10/01/70,Elche,1-0,Deportivo
+18,10/01/70,Granada,0-3,Real Sociedad
+18,10/01/70,Mallorca,1-0,CE Sabadell
+19,17/01/70,Atlético de Madrid,4-0,Celta de Vigo
+19,17/01/70,Athletic Bilbao,1-1,Barcelona
+19,17/01/70,Valencia,2-0,Las Palmas
+19,17/01/70,Real Sociedad,5-0,Real Zaragoza
+19,17/01/70,CE Sabadell,2-1,Granada
+19,17/01/70,Deportivo,1-1,Real Madrid
+19,17/01/70,Pontevedra,1-1,Elche
+19,18/01/70,Sevilla,3-1,Mallorca
+20,24/01/70,Barcelona,2-1,Real Sociedad
+20,24/01/70,Real Madrid,2-1,Pontevedra
+20,24/01/70,Real Zaragoza,1-0,CE Sabadell
+20,24/01/70,Las Palmas,0-1,Deportivo
+20,24/01/70,Celta de Vigo,1-0,Valencia
+20,24/01/70,Elche,0-1,Athletic Bilbao
+20,24/01/70,Granada,0-0,Sevilla
+20,24/01/70,Mallorca,1-0,Atlético de Madrid
+21,31/01/70,Atlético de Madrid,5-0,Granada
+21,31/01/70,Athletic Bilbao,5-0,Real Madrid
+21,31/01/70,Sevilla,2-0,Real Zaragoza
+21,31/01/70,Valencia,3-0,Mallorca
+21,31/01/70,Real Sociedad,3-0,Elche
+21,31/01/70,Las Palmas,3-0,Celta de Vigo
+21,31/01/70,CE Sabadell,3-2,Barcelona
+21,31/01/70,Pontevedra,0-0,Deportivo
+22,14/02/70,Barcelona,1-0,Sevilla
+22,14/02/70,Real Madrid,3-0,Real Sociedad
+22,14/02/70,Real Zaragoza,1-0,Atlético de Madrid
+22,14/02/70,Elche,1-1,CE Sabadell
+22,14/02/70,Granada,0-1,Valencia
+22,14/02/70,Deportivo,1-1,Athletic Bilbao
+22,14/02/70,Mallorca,0-0,Celta de Vigo
+22,14/02/70,Pontevedra,0-0,Las Palmas
+23,28/02/70,Atlético de Madrid,1-1,Barcelona
+23,28/02/70,Athletic Bilbao,3-1,Pontevedra
+23,28/02/70,Sevilla,2-2,Elche
+23,28/02/70,Valencia,3-1,Real Zaragoza
+23,28/02/70,Real Sociedad,2-1,Deportivo
+23,28/02/70,Celta de Vigo,2-1,Granada
+23,28/02/70,CE Sabadell,3-0,Real Madrid
+23,28/02/70,Mallorca,1-0,Las Palmas
+24,07/03/70,Barcelona,1-0,Valencia
+24,07/03/70,Real Madrid,2-3,Sevilla
+24,07/03/70,Real Zaragoza,1-0,Celta de Vigo
+24,07/03/70,Las Palmas,1-3,Athletic Bilbao
+24,07/03/70,Elche,1-1,Atlético de Madrid
+24,07/03/70,Granada,1-1,Mallorca
+24,07/03/70,Deportivo,1-1,CE Sabadell
+24,07/03/70,Pontevedra,1-0,Real Sociedad
+25,14/03/70,Atlético de Madrid,3-0,Real Madrid
+25,14/03/70,Sevilla,2-0,Deportivo
+25,14/03/70,Valencia,2-0,Elche
+25,14/03/70,Real Sociedad,2-0,Athletic Bilbao
+25,14/03/70,Celta de Vigo,1-2,Barcelona
+25,14/03/70,Granada,0-0,Las Palmas
+25,14/03/70,CE Sabadell,1-4,Pontevedra
+25,14/03/70,Mallorca,1-1,Real Zaragoza
+26,21/03/70,Athletic Bilbao,1-0,CE Sabadell
+26,21/03/70,Barcelona,5-1,Mallorca
+26,21/03/70,Real Madrid,2-1,Valencia
+26,21/03/70,Real Sociedad,5-0,Las Palmas
+26,21/03/70,Real Zaragoza,0-0,Granada
+26,21/03/70,Elche,3-1,Celta de Vigo
+26,21/03/70,Deportivo,0-1,Atlético de Madrid
+26,21/03/70,Pontevedra,3-2,Sevilla
+27,28/03/70,Atlético de Madrid,2-0,Pontevedra
+27,28/03/70,Sevilla,1-0,Athletic Bilbao
+27,28/03/70,Valencia,0-1,Deportivo
+27,28/03/70,Las Palmas,2-0,Real Zaragoza
+27,28/03/70,Celta de Vigo,2-2,Real Madrid
+27,28/03/70,Granada,0-0,Barcelona
+27,28/03/70,Mallorca,0-0,Elche
+27,29/03/70,CE Sabadell,1-1,Real Sociedad
+28,03/04/70,Pontevedra,0-1,Valencia
+28,04/04/70,Athletic Bilbao,2-0,Atlético de Madrid
+28,04/04/70,Barcelona,4-2,Real Zaragoza
+28,04/04/70,Real Madrid,1-1,Mallorca
+28,04/04/70,Real Sociedad,0-0,Sevilla
+28,04/04/70,Las Palmas,1-0,CE Sabadell
+28,04/04/70,Elche,1-0,Granada
+28,04/04/70,Deportivo,0-1,Celta de Vigo
+29,11/04/70,Atlético de Madrid,4-0,Real Sociedad
+29,11/04/70,Sevilla,2-0,CE Sabadell
+29,11/04/70,Barcelona,0-0,Las Palmas
+29,11/04/70,Valencia,1-0,Athletic Bilbao
+29,11/04/70,Real Zaragoza,3-2,Elche
+29,11/04/70,Celta de Vigo,1-0,Pontevedra
+29,11/04/70,Granada,0-0,Real Madrid
+29,11/04/70,Mallorca,0-1,Deportivo
+30,18/04/70,Athletic Bilbao,1-0,Celta de Vigo
+30,18/04/70,Real Madrid,2-2,Real Zaragoza
+30,18/04/70,Real Sociedad,1-2,Valencia
+30,18/04/70,Las Palmas,3-0,Sevilla
+30,18/04/70,Elche,1-0,Barcelona
+30,18/04/70,CE Sabadell,0-2,Atlético de Madrid
+30,18/04/70,Deportivo,3-0,Granada
+30,18/04/70,Pontevedra,0-2,Mallorca

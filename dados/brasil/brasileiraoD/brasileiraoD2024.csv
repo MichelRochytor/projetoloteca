@@ -1,0 +1,511 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+3,27/04/24,Santa Cruz de Natal,3-4,Treze
+5,27/04/24,Iporá,2-2,União Rondonópolis
+8,27/04/24,Avenida,1-2,FC Cascavel
+1,27/04/24,Manauara EC,3-1,Rio Branco-AC
+3,27/04/24,Atlético Cearense,1-2,Potiguar
+2,27/04/24,River-PI,2-1,Águia
+4,27/04/24,Sergipe,2-3,ASA
+4,27/04/24,Petrolina,0-0,Jacuipense
+4,27/04/24,Juazeirense,1-1,Itabaiana
+6,27/04/24,Democrata-SL,1-1,Nova Iguaçu
+6,27/04/24,Serra,1-0,Audax Rio
+7,27/04/24,Inter de Limeira,1-0,Pouso Alegre
+5,27/04/24,Capital Fc,2-0,Real Brasília
+7,27/04/24,CA Patrocinense,0-2,EC Água Santa
+1,27/04/24,Princesa,2-0,São Raimundo-RR
+8,27/04/24,Cianorte,0-0,Hercílio Luz
+7,27/04/24,São José,0-0,Costa Rica EC
+6,27/04/24,Portuguesa-RJ,0-0,Ipatinga
+4,27/04/24,CSE,0-0,Retrô FC
+3,28/04/24,Maracanã,1-1,América-RN
+5,28/04/24,Brasiliense,1-0,Anápolis
+1,28/04/24,Trem,0-0,Manaus FC
+2,28/04/24,Fluminense-PI,1-2,Maranhão
+2,28/04/24,Moto Club,2-2,Tocantinópolis
+2,28/04/24,Cametá,0-1,Altos
+3,28/04/24,Sousa,0-0,Iguatu
+6,28/04/24,Itabuna,0-0,Real Noroeste
+8,28/04/24,Barra-SC,1-1,Novo Hamburgo
+8,28/04/24,Concórdia,2-0,GE Brasil
+5,28/04/24,Mixto,1-1,CRAC
+7,29/04/24,Maringá,2-1,Santo André
+1,01/05/24,SC Humaitá,0-1,Gazin Porto Velho EC
+3,03/05/24,Iguatu,2-0,Santa Cruz de Natal
+4,04/05/24,Jacuipense,1-1,Sergipe
+5,04/05/24,Real Brasília,0-2,Iporá
+7,04/05/24,Santo André,0-0,CA Patrocinense
+6,04/05/24,Real Noroeste,1-1,Portuguesa-RJ
+2,04/05/24,Maranhão,1-0,River-PI
+2,04/05/24,Altos,1-2,Moto Club
+6,04/05/24,Nova Iguaçu,4-0,Serra
+2,04/05/24,Tocantinópolis,1-0,Cametá
+4,04/05/24,ASA,1-0,Petrolina
+6,04/05/24,Ipatinga,2-3,Itabuna
+7,04/05/24,Pouso Alegre,3-0,São José
+1,04/05/24,São Raimundo-RR,0-1,Manauara EC
+7,04/05/24,EC Água Santa,2-1,Maringá
+1,04/05/24,Rio Branco-AC,0-0,Princesa
+5,04/05/24,União Rondonópolis,0-0,Capital Fc
+3,05/05/24,Treze,2-0,Sousa
+3,05/05/24,Potiguar,1-2,Maracanã
+4,05/05/24,Retrô FC,1-0,Juazeirense
+4,05/05/24,Itabaiana,3-1,CSE
+5,05/05/24,Anápolis,1-1,Mixto
+8,05/05/24,FC Cascavel,1-2,Cianorte
+1,05/05/24,Gazin Porto Velho EC,2-1,Trem
+1,05/05/24,Manaus FC,1-0,SC Humaitá
+5,05/05/24,CRAC,1-0,Brasiliense
+7,05/05/24,Costa Rica EC,0-3,Inter de Limeira
+3,05/05/24,América-RN,3-0,Atlético Cearense
+2,06/05/24,Águia,1-1,Fluminense-PI
+6,07/05/24,Audax Rio,0-1,Democrata-SL
+3,11/05/24,Santa Cruz de Natal,3-2,América-RN
+4,11/05/24,Jacuipense,2-1,Juazeirense
+5,11/05/24,Iporá,1-1,CRAC
+4,11/05/24,Sergipe,1-3,Retrô FC
+4,11/05/24,Petrolina,0-2,Itabaiana
+7,11/05/24,Inter de Limeira,1-0,EC Água Santa
+3,11/05/24,Iguatu,1-0,Atlético Cearense
+5,11/05/24,Capital Fc,1-2,Anápolis
+1,11/05/24,SC Humaitá,1-2,Rio Branco-AC
+2,11/05/24,River-PI,1-1,Altos
+2,11/05/24,Águia,1-1,Cametá
+4,11/05/24,CSE,1-1,ASA
+6,11/05/24,Real Noroeste,0-0,Serra
+7,11/05/24,Pouso Alegre,4-1,CA Patrocinense
+1,11/05/24,São Raimundo-RR,1-2,Trem
+8,11/05/24,Hercílio Luz,1-1,Concórdia
+7,11/05/24,São José,0-0,Santo André
+6,11/05/24,Portuguesa-RJ,1-0,Nova Iguaçu
+5,12/05/24,Real Brasília,1-2,Brasiliense
+3,12/05/24,Maracanã,0-4,Treze
+1,12/05/24,Manauara EC,3-1,Gazin Porto Velho EC
+1,12/05/24,Princesa,3-3,Manaus FC
+2,12/05/24,Fluminense-PI,1-0,Tocantinópolis
+2,12/05/24,Moto Club,2-1,Maranhão
+3,12/05/24,Sousa,1-0,Potiguar
+6,12/05/24,Itabuna,1-0,Audax Rio
+8,12/05/24,Barra-SC,3-0,FC Cascavel
+5,12/05/24,Mixto,1-1,União Rondonópolis
+7,12/05/24,Maringá,2-0,Costa Rica EC
+6,13/05/24,Democrata-SL,1-0,Ipatinga
+3,18/05/24,Santa Cruz de Natal,2-0,Sousa
+7,18/05/24,Santo André,1-1,EC Água Santa
+5,18/05/24,Iporá,2-1,Capital Fc
+3,18/05/24,Atlético Cearense,1-0,Maracanã
+1,18/05/24,Manauara EC,3-1,Princesa
+2,18/05/24,Maranhão,4-0,Águia
+4,18/05/24,Sergipe,0-1,Petrolina
+4,18/05/24,Juazeirense,0-2,CSE
+6,18/05/24,Nova Iguaçu,2-0,Audax Rio
+7,18/05/24,CA Patrocinense,1-2,Maringá
+1,18/05/24,Gazin Porto Velho EC,2-0,Manaus FC
+4,18/05/24,ASA,1-0,Jacuipense
+6,18/05/24,Ipatinga,2-0,Real Noroeste
+7,18/05/24,São José,0-0,Inter de Limeira
+6,18/05/24,Portuguesa-RJ,1-1,Itabuna
+1,18/05/24,Rio Branco-AC,1-1,São Raimundo-RR
+5,18/05/24,União Rondonópolis,1-0,Real Brasília
+5,19/05/24,Brasiliense,1-1,Mixto
+2,19/05/24,Fluminense-PI,2-0,River-PI
+2,19/05/24,Tocantinópolis,3-1,Altos
+2,19/05/24,Cametá,4-1,Moto Club
+3,19/05/24,Treze,3-0,Iguatu
+4,19/05/24,Retrô FC,1-2,Itabaiana
+5,19/05/24,CRAC,1-2,Anápolis
+7,19/05/24,Costa Rica EC,1-0,Pouso Alegre
+8,19/05/24,Concórdia,1-0,Barra-SC
+3,19/05/24,América-RN,2-0,Potiguar
+1,20/05/24,Trem,2-1,SC Humaitá
+8,21/05/24,FC Cascavel,0-0,Hercílio Luz
+6,21/05/24,Serra,1-0,Democrata-SL
+6,25/05/24,Audax Rio,1-1,Portuguesa-RJ
+2,25/05/24,Altos,3-0,Fluminense-PI
+4,25/05/24,Petrolina,3-1,Retrô FC
+4,25/05/24,Juazeirense,1-1,ASA
+5,25/05/24,Anápolis,4-0,Iporá
+6,25/05/24,Itabuna,0-0,Nova Iguaçu
+6,25/05/24,Serra,1-0,Ipatinga
+7,25/05/24,Inter de Limeira,3-0,Santo André
+7,25/05/24,CA Patrocinense,2-2,Costa Rica EC
+3,25/05/24,Atlético Cearense,0-2,Treze
+1,25/05/24,SC Humaitá,0-1,São Raimundo-RR
+4,25/05/24,CSE,1-2,Jacuipense
+7,25/05/24,EC Água Santa,1-1,São José
+1,25/05/24,Princesa,0-1,Gazin Porto Velho EC
+5,25/05/24,Mixto,2-1,Real Brasília
+3,26/05/24,Maracanã,2-2,Iguatu
+5,26/05/24,Brasiliense,2-1,União Rondonópolis
+2,26/05/24,River-PI,5-0,Tocantinópolis
+2,26/05/24,Cametá,0-2,Maranhão
+3,26/05/24,Sousa,0-0,América-RN
+4,26/05/24,Itabaiana,0-0,Sergipe
+5,26/05/24,Capital Fc,0-1,CRAC
+8,26/05/24,Barra-SC,2-2,Hercílio Luz
+1,26/05/24,Manaus FC,0-4,Manauara EC
+3,26/05/24,Potiguar,1-2,Santa Cruz de Natal
+8,26/05/24,Concórdia,1-0,FC Cascavel
+2,26/05/24,Moto Club,1-1,Águia
+7,26/05/24,Maringá,1-0,Pouso Alegre
+1,27/05/24,Trem,3-1,Rio Branco-AC
+6,28/05/24,Democrata-SL,1-1,Real Noroeste
+3,31/05/24,Iguatu,2-0,Potiguar
+3,01/06/24,Santa Cruz de Natal,1-0,Maracanã
+4,01/06/24,Jacuipense,1-0,Itabaiana
+8,01/06/24,Avenida,1-1,Barra-SC
+1,01/06/24,Manauara EC,4-0,SC Humaitá
+3,01/06/24,Treze,1-1,América-RN
+4,01/06/24,Petrolina,0-0,Juazeirense
+7,01/06/24,Inter de Limeira,3-0,CA Patrocinense
+5,01/06/24,União Rondonópolis,0-0,CRAC
+1,01/06/24,Princesa,4-1,Trem
+2,01/06/24,River-PI,1-0,Cametá
+4,01/06/24,ASA,0-0,Retrô FC
+6,01/06/24,Ipatinga,1-1,Nova Iguaçu
+1,01/06/24,São Raimundo-RR,1-2,Manaus FC
+8,01/06/24,Hercílio Luz,1-1,GE Brasil
+7,01/06/24,São José,1-1,Maringá
+8,01/06/24,Cianorte,1-1,Concórdia
+5,01/06/24,Capital Fc,1-4,Brasiliense
+2,01/06/24,Águia,3-3,Altos
+1,01/06/24,Rio Branco-AC,2-1,Gazin Porto Velho EC
+5,02/06/24,Iporá,2-1,Mixto
+5,02/06/24,Real Brasília,0-1,Anápolis
+6,02/06/24,Real Noroeste,3-1,Audax Rio
+2,02/06/24,Maranhão,0-1,Tocantinópolis
+4,02/06/24,Sergipe,2-0,CSE
+6,02/06/24,Itabuna,3-1,Serra
+7,02/06/24,Pouso Alegre,0-0,EC Água Santa
+8,02/06/24,FC Cascavel,0-0,Novo Hamburgo
+3,02/06/24,Sousa,2-3,Atlético Cearense
+7,02/06/24,Costa Rica EC,2-5,Santo André
+2,02/06/24,Fluminense-PI,2-2,Moto Club
+6,04/06/24,Portuguesa-RJ,3-0,Democrata-SL
+8,05/06/24,GE Brasil,1-0,Barra-SC
+6,08/06/24,Nova Iguaçu,1-0,Real Noroeste
+7,08/06/24,Santo André,0-0,Pouso Alegre
+1,08/06/24,Trem,1-1,Manauara EC
+6,08/06/24,Audax Rio,0-0,Ipatinga
+2,08/06/24,Altos,1-1,Maranhão
+3,08/06/24,Atlético Cearense,2-0,Santa Cruz de Natal
+3,08/06/24,América-RN,1-0,Iguatu
+4,08/06/24,Juazeirense,1-0,Sergipe
+6,08/06/24,Serra,1-2,Portuguesa-RJ
+8,08/06/24,Novo Hamburgo,1-1,Hercílio Luz
+7,08/06/24,CA Patrocinense,2-1,São José
+8,08/06/24,Concórdia,1-2,Avenida
+1,08/06/24,Gazin Porto Velho EC,5-1,São Raimundo-RR
+1,08/06/24,SC Humaitá,0-3,Princesa
+4,08/06/24,CSE,2-0,Petrolina
+5,08/06/24,Anápolis,1-1,União Rondonópolis
+5,08/06/24,Mixto,3-0,Capital Fc
+5,08/06/24,CRAC,0-0,Real Brasília
+7,08/06/24,EC Água Santa,0-2,Costa Rica EC
+3,09/06/24,Maracanã,0-1,Sousa
+3,09/06/24,Potiguar,0-3,Treze
+5,09/06/24,Brasiliense,1-0,Iporá
+2,09/06/24,Cametá,1-0,Fluminense-PI
+2,09/06/24,Tocantinópolis,3-0,Águia
+2,09/06/24,Moto Club,1-1,River-PI
+4,09/06/24,Retrô FC,3-1,Jacuipense
+4,09/06/24,Itabaiana,3-0,ASA
+8,09/06/24,GE Brasil,1-0,FC Cascavel
+8,09/06/24,Barra-SC,0-1,Cianorte
+1,09/06/24,Manaus FC,2-0,Rio Branco-AC
+7,09/06/24,Maringá,1-0,Inter de Limeira
+6,09/06/24,Democrata-SL,0-2,Itabuna
+2,11/06/24,Maranhão,0-2,Altos
+7,11/06/24,Pouso Alegre,1-1,Santo André
+4,12/06/24,Jacuipense,1-0,Retrô FC
+5,12/06/24,Iporá,1-3,Brasiliense
+3,12/06/24,Santa Cruz de Natal,1-2,Atlético Cearense
+5,12/06/24,Real Brasília,1-1,CRAC
+1,12/06/24,Manauara EC,4-1,Trem
+5,12/06/24,União Rondonópolis,1-0,Anápolis
+2,12/06/24,River-PI,1-3,Moto Club
+3,12/06/24,Iguatu,1-0,América-RN
+4,12/06/24,Petrolina,1-1,CSE
+6,12/06/24,Real Noroeste,0-1,Nova Iguaçu
+8,12/06/24,Cianorte,1-1,Barra-SC
+8,12/06/24,Avenida,1-0,Concórdia
+6,12/06/24,Ipatinga,0-3,Audax Rio
+7,12/06/24,Inter de Limeira,2-2,Maringá
+2,12/06/24,Águia,0-0,Tocantinópolis
+3,12/06/24,Sousa,3-2,Maracanã
+4,12/06/24,Sergipe,0-1,Juazeirense
+4,12/06/24,ASA,0-2,Itabaiana
+6,12/06/24,Portuguesa-RJ,1-1,Serra
+8,12/06/24,Hercílio Luz,1-2,Novo Hamburgo
+8,12/06/24,FC Cascavel,0-0,GE Brasil
+5,12/06/24,Capital Fc,1-0,Mixto
+7,12/06/24,Costa Rica EC,2-1,EC Água Santa
+7,12/06/24,São José,6-0,CA Patrocinense
+1,12/06/24,Rio Branco-AC,2-1,Manaus FC
+1,13/06/24,Princesa,3-1,SC Humaitá
+2,13/06/24,Fluminense-PI,2-2,Cametá
+6,13/06/24,Itabuna,1-1,Democrata-SL
+3,13/06/24,Treze,2-0,Potiguar
+6,15/06/24,Audax Rio,1-2,Real Noroeste
+2,15/06/24,Altos,2-0,Águia
+4,15/06/24,Retrô FC,1-0,ASA
+7,15/06/24,CA Patrocinense,0-1,Inter de Limeira
+4,15/06/24,CSE,3-2,Sergipe
+1,15/06/24,Gazin Porto Velho EC,2-0,Rio Branco-AC
+5,15/06/24,Mixto,1-0,Iporá
+8,15/06/24,Barra-SC,1-1,Avenida
+3,16/06/24,Maracanã,2-1,Santa Cruz de Natal
+6,16/06/24,Nova Iguaçu,1-1,Ipatinga
+7,16/06/24,Santo André,1-0,Costa Rica EC
+5,16/06/24,Brasiliense,4-0,Capital Fc
+2,16/06/24,Moto Club,0-0,Fluminense-PI
+2,16/06/24,Cametá,3-2,River-PI
+3,16/06/24,Potiguar,0-0,Iguatu
+4,16/06/24,Juazeirense,2-0,Petrolina
+4,16/06/24,Itabaiana,2-0,Jacuipense
+6,16/06/24,Serra,0-2,Itabuna
+8,16/06/24,Novo Hamburgo,0-0,FC Cascavel
+8,16/06/24,GE Brasil,0-1,Hercílio Luz
+3,16/06/24,Atlético Cearense,2-0,Sousa
+5,16/06/24,Anápolis,1-0,Real Brasília
+1,16/06/24,Manaus FC,2-0,São Raimundo-RR
+5,16/06/24,CRAC,1-0,União Rondonópolis
+8,16/06/24,Concórdia,2-0,Cianorte
+3,16/06/24,América-RN,1-1,Treze
+7,16/06/24,Maringá,3-0,São José
+1,16/06/24,SC Humaitá,0-5,Manauara EC
+7,17/06/24,EC Água Santa,1-0,Pouso Alegre
+1,17/06/24,Trem,0-0,Princesa
+2,18/06/24,Tocantinópolis,1-1,Maranhão
+8,19/06/24,Hercílio Luz,2-1,Avenida
+6,19/06/24,Democrata-SL,0-0,Portuguesa-RJ
+8,19/06/24,Novo Hamburgo,2-1,Concórdia
+3,20/06/24,Treze,1-1,Atlético Cearense
+5,22/06/24,Iporá,0-2,Anápolis
+6,22/06/24,Nova Iguaçu,1-0,Itabuna
+7,22/06/24,Santo André,1-0,Inter de Limeira
+8,22/06/24,Novo Hamburgo,0-1,Cianorte
+1,22/06/24,Manauara EC,0-0,Manaus FC
+7,22/06/24,São José,0-0,EC Água Santa
+7,22/06/24,Pouso Alegre,0-1,Maringá
+5,22/06/24,União Rondonópolis,1-1,Brasiliense
+2,22/06/24,Águia,2-0,Moto Club
+6,22/06/24,Ipatinga,0-4,Serra
+1,22/06/24,São Raimundo-RR,1-0,SC Humaitá
+6,22/06/24,Portuguesa-RJ,3-0,Audax Rio
+1,22/06/24,Rio Branco-AC,1-2,Trem
+8,23/06/24,Avenida,2-0,GE Brasil
+5,23/06/24,Real Brasília,2-2,Mixto
+2,23/06/24,Tocantinópolis,0-3,River-PI
+7,23/06/24,Costa Rica EC,3-0,CA Patrocinense
+8,23/06/24,FC Cascavel,1-0,Concórdia
+8,23/06/24,Hercílio Luz,0-1,Barra-SC
+1,23/06/24,Gazin Porto Velho EC,6-1,Princesa
+5,23/06/24,CRAC,4-1,Capital Fc
+6,25/06/24,Real Noroeste,2-0,Democrata-SL
+3,26/06/24,Santa Cruz de Natal,2-2,Potiguar
+4,26/06/24,Jacuipense,1-2,CSE
+2,26/06/24,Fluminense-PI,1-0,Altos
+4,26/06/24,ASA,2-0,Juazeirense
+8,26/06/24,Avenida,2-1,Novo Hamburgo
+8,26/06/24,Cianorte,1-0,GE Brasil
+1,26/06/24,São Raimundo-RR,4-1,Gazin Porto Velho EC
+4,26/06/24,Sergipe,2-0,Itabaiana
+4,26/06/24,Retrô FC,1-0,Petrolina
+3,27/06/24,Iguatu,2-0,Maracanã
+2,27/06/24,Maranhão,1-0,Cametá
+3,27/06/24,América-RN,1-0,Sousa
+6,29/06/24,Audax Rio,0-1,Nova Iguaçu
+6,29/06/24,Real Noroeste,2-0,Ipatinga
+7,29/06/24,Inter de Limeira,1-2,São José
+7,29/06/24,Pouso Alegre,0-1,Costa Rica EC
+1,29/06/24,Princesa,0-0,Manauara EC
+2,29/06/24,River-PI,2-2,Fluminense-PI
+5,29/06/24,Anápolis,0-0,CRAC
+8,29/06/24,Cianorte,3-1,Avenida
+8,29/06/24,Hercílio Luz,0-0,FC Cascavel
+1,29/06/24,São Raimundo-RR,3-1,Rio Branco-AC
+7,29/06/24,EC Água Santa,2-0,Santo André
+5,29/06/24,Capital Fc,0-3,Iporá
+1,29/06/24,SC Humaitá,0-3,Trem
+5,30/06/24,Real Brasília,3-0,União Rondonópolis
+8,30/06/24,GE Brasil,3-1,Novo Hamburgo
+8,30/06/24,Barra-SC,0-0,Concórdia
+1,30/06/24,Manaus FC,2-1,Gazin Porto Velho EC
+2,30/06/24,Águia,0-0,Maranhão
+7,30/06/24,Maringá,4-0,CA Patrocinense
+6,01/07/24,Democrata-SL,1-2,Serra
+5,01/07/24,Mixto,2-1,Brasiliense
+3,02/07/24,Iguatu,1-0,Treze
+3,03/07/24,Maracanã,0-0,Atlético Cearense
+2,03/07/24,Altos,2-1,Tocantinópolis
+4,03/07/24,Petrolina,1-1,Sergipe
+4,03/07/24,CSE,0-1,Juazeirense
+6,03/07/24,Itabuna,0-0,Portuguesa-RJ
+8,03/07/24,Avenida,1-0,Cianorte
+8,03/07/24,Novo Hamburgo,1-2,GE Brasil
+2,03/07/24,Moto Club,1-1,Cametá
+3,03/07/24,Sousa,3-0,Santa Cruz de Natal
+3,03/07/24,Potiguar,0-0,América-RN
+4,03/07/24,Itabaiana,2-1,Retrô FC
+4,04/07/24,Jacuipense,1-0,ASA
+7,05/07/24,Santo André,4-1,São José
+6,06/07/24,Nova Iguaçu,1-0,Portuguesa-RJ
+6,06/07/24,Audax Rio,0-1,Itabuna
+6,06/07/24,Serra,2-2,Real Noroeste
+8,06/07/24,Novo Hamburgo,1-1,Avenida
+7,06/07/24,CA Patrocinense,0-2,Pouso Alegre
+1,06/07/24,Manaus FC,0-2,Princesa
+5,06/07/24,União Rondonópolis,1-2,Mixto
+6,06/07/24,Ipatinga,2-0,Democrata-SL
+7,06/07/24,EC Água Santa,1-0,Inter de Limeira
+1,06/07/24,Rio Branco-AC,2-2,SC Humaitá
+5,07/07/24,Brasiliense,3-1,Real Brasília
+7,07/07/24,Costa Rica EC,3-2,Maringá
+2,07/07/24,Tocantinópolis,1-1,Fluminense-PI
+2,07/07/24,Altos,1-2,River-PI
+2,07/07/24,Maranhão,5-1,Moto Club
+3,07/07/24,Potiguar,0-1,Sousa
+3,07/07/24,Treze,2-1,Maracanã
+4,07/07/24,Itabaiana,2-0,Petrolina
+4,07/07/24,Juazeirense,2-1,Jacuipense
+8,07/07/24,GE Brasil,1-2,Cianorte
+3,07/07/24,Atlético Cearense,0-1,Iguatu
+5,07/07/24,Anápolis,3-1,Capital Fc
+8,07/07/24,FC Cascavel,0-3,Barra-SC
+8,07/07/24,Concórdia,1-1,Hercílio Luz
+4,07/07/24,ASA,1-2,CSE
+5,07/07/24,CRAC,2-0,Iporá
+1,07/07/24,Gazin Porto Velho EC,1-1,Manauara EC
+3,07/07/24,América-RN,2-0,Santa Cruz de Natal
+1,08/07/24,Trem,1-2,São Raimundo-RR
+4,08/07/24,Retrô FC,5-0,Sergipe
+2,09/07/24,Cametá,1-1,Águia
+8,10/07/24,GE Brasil,4-0,Avenida
+8,10/07/24,Cianorte,1-2,Novo Hamburgo
+6,12/07/24,Serra,1-2,Nova Iguaçu
+3,13/07/24,Santa Cruz de Natal,2-1,Iguatu
+5,13/07/24,Iporá,3-0,Real Brasília
+1,13/07/24,Manauara EC,4-0,São Raimundo-RR
+2,13/07/24,River-PI,0-1,Maranhão
+4,13/07/24,Sergipe,0-1,Jacuipense
+4,13/07/24,Juazeirense,1-2,Retrô FC
+4,13/07/24,Petrolina,0-3,ASA
+7,13/07/24,São José,1-1,Pouso Alegre
+3,13/07/24,Atlético Cearense,1-2,América-RN
+5,13/07/24,Capital Fc,2-2,União Rondonópolis
+7,13/07/24,CA Patrocinense,0-1,Santo André
+7,13/07/24,Inter de Limeira,1-0,Costa Rica EC
+1,13/07/24,Princesa,2-0,Rio Branco-AC
+1,13/07/24,SC Humaitá,2-5,Manaus FC
+6,13/07/24,Portuguesa-RJ,3-0,Real Noroeste
+5,13/07/24,Mixto,1-1,Anápolis
+1,13/07/24,Trem,0-2,Gazin Porto Velho EC
+7,13/07/24,Maringá,2-0,EC Água Santa
+6,13/07/24,Itabuna,0-0,Ipatinga
+3,14/07/24,Maracanã,2-0,Potiguar
+8,14/07/24,Avenida,0-0,Hercílio Luz
+5,14/07/24,Brasiliense,2-0,CRAC
+2,14/07/24,Cametá,3-1,Tocantinópolis
+2,14/07/24,Moto Club,1-2,Altos
+3,14/07/24,Sousa,1-1,Treze
+4,14/07/24,CSE,2-1,Itabaiana
+6,14/07/24,Democrata-SL,2-3,Audax Rio
+8,14/07/24,Cianorte,1-1,FC Cascavel
+8,14/07/24,Barra-SC,2-2,GE Brasil
+8,14/07/24,Concórdia,1-1,Novo Hamburgo
+2,14/07/24,Fluminense-PI,1-2,Águia
+6,20/07/24,Ipatinga,0-2,Portuguesa-RJ
+6,20/07/24,Nova Iguaçu,3-0,Democrata-SL
+6,20/07/24,Real Noroeste,3-2,Itabuna
+6,20/07/24,Audax Rio,1-1,Serra
+7,20/07/24,Santo André,0-1,Maringá
+7,20/07/24,Pouso Alegre,0-0,Inter de Limeira
+7,20/07/24,EC Água Santa,1-0,CA Patrocinense
+7,20/07/24,Costa Rica EC,0-0,São José
+5,20/07/24,União Rondonópolis,3-0,Iporá
+5,20/07/24,CRAC,0-0,Mixto
+5,20/07/24,Anápolis,0-2,Brasiliense
+5,20/07/24,Real Brasília,1-0,Capital Fc
+1,20/07/24,Gazin Porto Velho EC,3-0,SC Humaitá
+1,20/07/24,Rio Branco-AC,1-2,Manauara EC
+1,20/07/24,São Raimundo-RR,1-2,Princesa
+1,20/07/24,Manaus FC,3-1,Trem
+2,21/07/24,Maranhão,3-0,Fluminense-PI
+2,21/07/24,Tocantinópolis,1-0,Moto Club
+2,21/07/24,Águia,0-0,River-PI
+2,21/07/24,Altos,2-1,Cametá
+3,21/07/24,Treze,2-0,Santa Cruz de Natal
+3,21/07/24,América-RN,2-1,Maracanã
+3,21/07/24,Iguatu,1-0,Sousa
+4,21/07/24,ASA,2-0,Sergipe
+4,21/07/24,Retrô FC,2-1,CSE
+4,21/07/24,Jacuipense,3-0,Petrolina
+4,21/07/24,Itabaiana,1-2,Juazeirense
+8,21/07/24,FC Cascavel,3-0,Avenida
+8,21/07/24,Hercílio Luz,1-0,Cianorte
+3,21/07/24,Potiguar,1-1,Atlético Cearense
+8,21/07/24,Novo Hamburgo,1-0,Barra-SC
+8,21/07/24,GE Brasil,2-1,Concórdia
+2F,27/07/24,Jacuipense,0-0,Iguatu
+2F,27/07/24,Tocantinópolis,0-0,Manauara EC
+2F,27/07/24,Real Noroeste,0-2,Brasiliense
+2F,27/07/24,Novo Hamburgo,2-4,Maringá
+2F,27/07/24,Princesa,1-1,Altos
+2F,27/07/24,Manaus FC,1-1,Maranhão
+2F,27/07/24,América-RN,1-1,Retrô FC
+2F,27/07/24,Mixto,0-0,Portuguesa-RJ
+2F,27/07/24,EC Água Santa,1-2,GE Brasil
+2F,27/07/24,Avenida,0-0,Inter de Limeira
+2F,28/07/24,Costa Rica EC,1-3,Cianorte
+2F,28/07/24,Atlético Cearense,1-0,Itabaiana
+2F,28/07/24,ASA,1-1,Treze
+2F,28/07/24,CRAC,0-1,Nova Iguaçu
+2F,28/07/24,River-PI,2-2,Gazin Porto Velho EC
+2F,28/07/24,Itabuna,1-0,Anápolis
+2F,03/08/24,Nova Iguaçu,2-2,CRAC
+2F,03/08/24,Manauara EC,5-2,Tocantinópolis
+2F,03/08/24,Iguatu,2-1,Jacuipense
+2F,03/08/24,Inter de Limeira,1-1(8-7 Pen.),Avenida
+2F,03/08/24,Gazin Porto Velho EC,0-0(5-4 Pen.),River-PI
+2F,03/08/24,Portuguesa-RJ,2-0,Mixto
+2F,04/08/24,Brasiliense,2-2,Real Noroeste
+2F,04/08/24,Altos,0-0(5-4 Pen.),Princesa
+2F,04/08/24,Maranhão,0-0(5-6 Pen.),Manaus FC
+2F,04/08/24,Retrô FC,0-0(7-6 Pen.),América-RN
+2F,04/08/24,Anápolis,3-0,Itabuna
+2F,04/08/24,Cianorte,2-1,Costa Rica EC
+2F,04/08/24,Itabaiana,3-0,Atlético Cearense
+2F,04/08/24,GE Brasil,3-0,EC Água Santa
+2F,04/08/24,Treze,3-0,ASA
+2F,04/08/24,Maringá,1-0,Novo Hamburgo
+1/8,10/08/24,Altos,0-1,Treze
+1/8,10/08/24,Inter de Limeira,0-0,Nova Iguaçu
+1/8,10/08/24,Portuguesa-RJ,1-3,Maringá
+1/8,10/08/24,Manaus FC,2-2,Iguatu
+1/8,11/08/24,Retrô FC,2-0,Manauara EC
+1/8,11/08/24,GE Brasil,1-4,Brasiliense
+1/8,11/08/24,Cianorte,1-2,Anápolis
+1/8,11/08/24,Itabaiana,2-2,Gazin Porto Velho EC
+1/8,17/08/24,Nova Iguaçu,0-1,Inter de Limeira
+1/8,17/08/24,Manauara EC,2-0(1-4 Pen.),Retrô FC
+1/8,17/08/24,Gazin Porto Velho EC,1-1(2-4 Pen.),Itabaiana
+1/8,17/08/24,Iguatu,2-1,Manaus FC
+1/8,18/08/24,Brasiliense,5-0,GE Brasil
+1/8,18/08/24,Treze,1-2(5-3 Pen.),Altos
+1/8,18/08/24,Anápolis,1-1,Cianorte
+1/8,18/08/24,Maringá,3-1,Portuguesa-RJ
+QF,24/08/24,Inter de Limeira,0-1,Maringá
+QF,25/08/24,Anápolis,1-1,Iguatu
+QF,25/08/24,Itabaiana,3-1,Treze
+QF,25/08/24,Retrô FC,1-0,Brasiliense
+QF,31/08/24,Iguatu,3-3(4-5 Pen.),Anápolis
+QF,01/09/24,Brasiliense,1-0(2-3 Pen.),Retrô FC
+QF,01/09/24,Treze,0-0,Itabaiana
+QF,01/09/24,Maringá,1-1,Inter de Limeira
+SF,08/09/24,Anápolis,1-1,Maringá
+SF,08/09/24,Retrô FC,0-1,Itabaiana
+SF,15/09/24,Itabaiana,0-1(3-4 Pen.),Retrô FC
+SF,15/09/24,Maringá,0-0(4-5 Pen.),Anápolis
+F,22/09/24,Anápolis,2-1,Retrô FC
+F,29/09/24,Retrô FC,3-1,Anápolis

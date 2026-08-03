@@ -1,0 +1,73 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,02/02/13,Boa Esporte,2-1,Nacional-MG
+1,02/02/13,Araxá,2-1,América Mineiro
+1,02/02/13,Villa Nova-MG,1-1,Tupi
+1,02/02/13,Caldense,1-1,Guarani-MG
+3,03/02/13,Cruzeiro,2-1,Atlético Mineiro
+1,06/02/13,Tombense,1-2,Atlético Mineiro
+1,06/02/13,Cruzeiro,2-0,América T.O.
+2,16/02/13,Nacional-MG,0-0,Villa Nova-MG
+2,16/02/13,América Mineiro,0-0,Boa Esporte
+2,16/02/13,Tupi,0-0,Caldense
+2,17/02/13,América T.O.,1-2,Tombense
+2,17/02/13,Atlético Mineiro,3-0,Araxá
+2,17/02/13,Guarani-MG,0-0,Cruzeiro
+3,23/02/13,Tombense,1-0,Nacional-MG
+3,23/02/13,Araxá,0-1,América T.O.
+3,24/02/13,Boa Esporte,1-2,Tupi
+3,24/02/13,América Mineiro,1-0,Caldense
+3,24/02/13,Guarani-MG,0-1,Villa Nova-MG
+4,02/03/13,Nacional-MG,4-0,América T.O.
+4,02/03/13,Cruzeiro,3-1,Tombense
+4,03/03/13,Atlético Mineiro,3-1,Guarani-MG
+4,03/03/13,Caldense,2-0,Araxá
+4,03/03/13,Villa Nova-MG,3-1,Boa Esporte
+4,03/03/13,Tupi,1-1,América Mineiro
+5,09/03/13,Tupi,2-1,Guarani-MG
+5,09/03/13,América Mineiro,1-1,Nacional-MG
+5,09/03/13,Tombense,2-1,Boa Esporte
+5,10/03/13,Araxá,2-3,Cruzeiro
+5,10/03/13,Villa Nova-MG,1-1,Caldense
+6,16/03/13,Nacional-MG,2-1,Tupi
+6,16/03/13,Araxá,0-2,Villa Nova-MG
+6,17/03/13,Guarani-MG,4-1,América T.O.
+6,17/03/13,Boa Esporte,1-4,Cruzeiro
+6,17/03/13,Atlético Mineiro,5-2,América Mineiro
+6,17/03/13,Caldense,0-0,Tombense
+5,20/03/13,América T.O.,0-2,Atlético Mineiro
+7,20/03/13,América Mineiro,4-0,Guarani-MG
+7,23/03/13,Tupi,2-1,América T.O.
+7,23/03/13,Tombense,0-1,Villa Nova-MG
+7,24/03/13,Cruzeiro,2-1,Caldense
+7,24/03/13,Boa Esporte,1-0,Araxá
+7,24/03/13,Nacional-MG,1-3,Atlético Mineiro
+8,27/03/13,América T.O.,1-3,América Mineiro
+8,30/03/13,Araxá,0-3,Tombense
+8,30/03/13,Villa Nova-MG,2-4,Cruzeiro
+8,31/03/13,Atlético Mineiro,4-1,Tupi
+8,31/03/13,Caldense,1-1,Boa Esporte
+8,31/03/13,Guarani-MG,1-0,Nacional-MG
+9,06/04/13,Tupi,2-3,Araxá
+9,06/04/13,Nacional-MG,2-3,Caldense
+9,06/04/13,Guarani-MG,3-4,Tombense
+9,07/04/13,América T.O.,2-1,Villa Nova-MG
+9,07/04/13,Atlético Mineiro,4-0,Boa Esporte
+9,07/04/13,América Mineiro,1-4,Cruzeiro
+10,14/04/13,Caldense,2-1,Atlético Mineiro
+10,14/04/13,Tombense,0-1,Tupi
+10,14/04/13,Villa Nova-MG,2-0,América Mineiro
+10,14/04/13,Boa Esporte,3-0,América T.O.
+10,14/04/13,Araxá,2-3,Guarani-MG
+10,16/04/13,Cruzeiro,5-0,Nacional-MG
+11,21/04/13,Atlético Mineiro,2-1,Villa Nova-MG
+11,21/04/13,Tupi,0-2,Cruzeiro
+11,21/04/13,América Mineiro,0-2,Tombense
+11,21/04/13,América T.O.,1-1,Caldense
+11,21/04/13,Guarani-MG,2-1,Boa Esporte
+11,21/04/13,Nacional-MG,2-1,Araxá
+SF,27/04/13,Tombense,0-2,Atlético Mineiro
+SF,28/04/13,Villa Nova-MG,0-4,Cruzeiro
+SF,05/05/13,Atlético Mineiro,5-1,Tombense
+SF,08/05/13,Cruzeiro,1-0,Villa Nova-MG
+F,12/05/13,Atlético Mineiro,3-0,Cruzeiro
+F,19/05/13,Cruzeiro,2-1,Atlético Mineiro

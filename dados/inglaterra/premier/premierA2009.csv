@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/09,Chelsea,2-1,Hull City
+1,15/08/09,Aston Villa,0-2,Wigan Athletic
+1,15/08/09,Blackburn Rovers,0-2,Manchester City
+1,15/08/09,Bolton,0-1,Sunderland
+1,15/08/09,Portsmouth,0-1,Fulham
+1,15/08/09,Stoke City,2-0,Burnley
+1,15/08/09,Wolverhampton,0-2,West Ham
+1,15/08/09,Everton,1-6,Arsenal
+1,16/08/09,Manchester United,1-0,Birmingham City
+1,16/08/09,Tottenham,2-1,Liverpool
+2,18/08/09,Sunderland,1-3,Chelsea
+2,18/08/09,Wigan Athletic,0-1,Wolverhampton
+2,19/08/09,Birmingham City,1-0,Portsmouth
+2,19/08/09,Burnley,1-0,Manchester United
+2,19/08/09,Hull City,1-5,Tottenham
+2,19/08/09,Liverpool,4-0,Stoke City
+3,22/08/09,Arsenal,4-1,Portsmouth
+3,22/08/09,Birmingham City,0-0,Stoke City
+3,22/08/09,Hull City,1-0,Bolton
+3,22/08/09,Manchester City,1-0,Wolverhampton
+3,22/08/09,Sunderland,2-1,Blackburn Rovers
+3,22/08/09,Wigan Athletic,0-5,Manchester United
+3,23/08/09,West Ham,1-2,Tottenham
+3,23/08/09,Burnley,1-0,Everton
+3,23/08/09,Fulham,0-2,Chelsea
+3,24/08/09,Liverpool,1-3,Aston Villa
+4,29/08/09,Chelsea,3-0,Burnley
+4,29/08/09,Blackburn Rovers,0-0,West Ham
+4,29/08/09,Bolton,2-3,Liverpool
+4,29/08/09,Stoke City,1-0,Sunderland
+4,29/08/09,Tottenham,2-1,Birmingham City
+4,29/08/09,Wolverhampton,1-1,Hull City
+4,29/08/09,Manchester United,2-1,Arsenal
+4,30/08/09,Portsmouth,0-1,Manchester City
+4,30/08/09,Everton,2-1,Wigan Athletic
+4,30/08/09,Aston Villa,2-0,Fulham
+5,12/09/09,Blackburn Rovers,3-1,Wolverhampton
+5,12/09/09,Liverpool,4-0,Burnley
+5,12/09/09,Manchester City,4-2,Arsenal
+5,12/09/09,Portsmouth,2-3,Bolton
+5,12/09/09,Stoke City,1-2,Chelsea
+5,12/09/09,Sunderland,4-1,Hull City
+5,12/09/09,Wigan Athletic,1-0,West Ham
+5,12/09/09,Tottenham,1-3,Manchester United
+5,13/09/09,Birmingham City,0-1,Aston Villa
+5,13/09/09,Fulham,2-1,Everton
+6,19/09/09,Burnley,3-1,Sunderland
+6,19/09/09,Arsenal,4-0,Wigan Athletic
+6,19/09/09,Aston Villa,2-0,Portsmouth
+6,19/09/09,Bolton,1-1,Stoke City
+6,19/09/09,Hull City,0-1,Birmingham City
+6,19/09/09,West Ham,2-3,Liverpool
+6,20/09/09,Manchester United,4-3,Manchester City
+6,20/09/09,Wolverhampton,2-1,Fulham
+6,20/09/09,Everton,3-0,Blackburn Rovers
+6,20/09/09,Chelsea,3-0,Tottenham
+7,26/09/09,Portsmouth,0-1,Everton
+7,26/09/09,Birmingham City,1-2,Bolton
+7,26/09/09,Blackburn Rovers,2-1,Aston Villa
+7,26/09/09,Liverpool,6-1,Hull City
+7,26/09/09,Stoke City,0-2,Manchester United
+7,26/09/09,Tottenham,5-0,Burnley
+7,26/09/09,Wigan Athletic,3-1,Chelsea
+7,26/09/09,Fulham,0-1,Arsenal
+7,27/09/09,Sunderland,5-2,Wolverhampton
+7,28/09/09,Manchester City,3-1,West Ham
+8,03/10/09,Bolton,2-2,Tottenham
+8,03/10/09,Burnley,2-1,Birmingham City
+8,03/10/09,Hull City,2-1,Wigan Athletic
+8,03/10/09,Wolverhampton,0-1,Portsmouth
+8,03/10/09,Manchester United,2-2,Sunderland
+8,04/10/09,Arsenal,6-2,Blackburn Rovers
+8,04/10/09,Everton,1-1,Stoke City
+8,04/10/09,West Ham,2-2,Fulham
+8,04/10/09,Chelsea,2-0,Liverpool
+8,05/10/09,Aston Villa,1-1,Manchester City
+9,17/10/09,Aston Villa,2-1,Chelsea
+9,17/10/09,Arsenal,3-1,Birmingham City
+9,17/10/09,Everton,1-1,Wolverhampton
+9,17/10/09,Manchester United,2-1,Bolton
+9,17/10/09,Portsmouth,1-2,Tottenham
+9,17/10/09,Stoke City,2-1,West Ham
+9,17/10/09,Sunderland,1-0,Liverpool
+9,18/10/09,Blackburn Rovers,3-2,Burnley
+9,18/10/09,Wigan Athletic,1-1,Manchester City
+9,19/10/09,Fulham,2-0,Hull City
+10,24/10/09,Wolverhampton,1-1,Aston Villa
+10,24/10/09,Birmingham City,2-1,Sunderland
+10,24/10/09,Burnley,1-3,Wigan Athletic
+10,24/10/09,Hull City,0-0,Portsmouth
+10,24/10/09,Tottenham,0-1,Stoke City
+10,24/10/09,Chelsea,5-0,Blackburn Rovers
+10,25/10/09,Bolton,3-2,Everton
+10,25/10/09,Liverpool,2-0,Manchester United
+10,25/10/09,Manchester City,2-2,Fulham
+10,25/10/09,West Ham,2-2,Arsenal
+11,31/10/09,Arsenal,3-0,Tottenham
+11,31/10/09,Bolton,0-4,Chelsea
+11,31/10/09,Burnley,2-0,Hull City
+11,31/10/09,Everton,1-1,Aston Villa
+11,31/10/09,Fulham,3-1,Liverpool
+11,31/10/09,Portsmouth,4-0,Wigan Athletic
+11,31/10/09,Stoke City,2-2,Wolverhampton
+11,31/10/09,Sunderland,2-2,West Ham
+11,31/10/09,Manchester United,2-0,Blackburn Rovers
+11,01/11/09,Birmingham City,0-0,Manchester City
+2,04/11/09,West Ham,2-1,Aston Villa
+12,07/11/09,Aston Villa,5-1,Bolton
+12,07/11/09,Blackburn Rovers,3-1,Portsmouth
+12,07/11/09,Manchester City,3-3,Burnley
+12,07/11/09,Tottenham,2-0,Sunderland
+12,07/11/09,Wolverhampton,1-4,Arsenal
+12,08/11/09,Hull City,2-1,Stoke City
+12,08/11/09,West Ham,1-2,Everton
+12,08/11/09,Wigan Athletic,1-1,Fulham
+12,08/11/09,Chelsea,1-0,Manchester United
+12,09/11/09,Liverpool,2-2,Birmingham City
+13,21/11/09,Liverpool,2-2,Manchester City
+13,21/11/09,Birmingham City,1-0,Fulham
+13,21/11/09,Burnley,1-1,Aston Villa
+13,21/11/09,Chelsea,4-0,Wolverhampton
+13,21/11/09,Hull City,3-3,West Ham
+13,21/11/09,Sunderland,1-0,Arsenal
+13,21/11/09,Manchester United,3-0,Everton
+13,22/11/09,Bolton,0-2,Blackburn Rovers
+13,22/11/09,Tottenham,9-1,Wigan Athletic
+13,22/11/09,Stoke City,1-0,Portsmouth
+17,25/11/09,Hull City,3-2,Everton
+2,25/11/09,Fulham,3-0,Blackburn Rovers
+14,28/11/09,Blackburn Rovers,0-0,Stoke City
+14,28/11/09,Fulham,1-1,Bolton
+14,28/11/09,Manchester City,1-1,Hull City
+14,28/11/09,Portsmouth,1-4,Manchester United
+14,28/11/09,West Ham,5-3,Burnley
+14,28/11/09,Wigan Athletic,1-0,Sunderland
+14,28/11/09,Aston Villa,1-1,Tottenham
+14,29/11/09,Wolverhampton,0-1,Birmingham City
+14,29/11/09,Everton,0-2,Liverpool
+14,29/11/09,Arsenal,0-3,Chelsea
+15,05/12/09,Portsmouth,2-0,Burnley
+15,05/12/09,Arsenal,2-0,Stoke City
+15,05/12/09,Aston Villa,3-0,Hull City
+15,05/12/09,Blackburn Rovers,0-0,Liverpool
+15,05/12/09,West Ham,0-4,Manchester United
+15,05/12/09,Wigan Athletic,2-3,Birmingham City
+15,05/12/09,Wolverhampton,2-1,Bolton
+15,05/12/09,Manchester City,2-1,Chelsea
+15,06/12/09,Fulham,1-0,Sunderland
+15,06/12/09,Everton,2-2,Tottenham
+16,12/12/09,Stoke City,2-2,Wigan Athletic
+16,12/12/09,Birmingham City,1-0,West Ham
+16,12/12/09,Bolton,3-3,Manchester City
+16,12/12/09,Burnley,1-1,Fulham
+16,12/12/09,Chelsea,3-3,Everton
+16,12/12/09,Hull City,0-0,Blackburn Rovers
+16,12/12/09,Sunderland,1-1,Portsmouth
+16,12/12/09,Tottenham,0-1,Wolverhampton
+16,12/12/09,Manchester United,0-1,Aston Villa
+16,13/12/09,Liverpool,1-2,Arsenal
+17,15/12/09,Sunderland,0-2,Aston Villa
+17,15/12/09,Birmingham City,2-1,Blackburn Rovers
+17,15/12/09,Bolton,3-1,West Ham
+17,15/12/09,Manchester United,3-0,Wolverhampton
+17,16/12/09,Burnley,1-1,Arsenal
+17,16/12/09,Chelsea,2-1,Portsmouth
+17,16/12/09,Tottenham,3-0,Manchester City
+17,16/12/09,Liverpool,2-1,Wigan Athletic
+18,19/12/09,Portsmouth,2-0,Liverpool
+18,19/12/09,Aston Villa,1-0,Stoke City
+18,19/12/09,Blackburn Rovers,0-2,Tottenham
+18,19/12/09,Fulham,3-0,Manchester United
+18,19/12/09,Manchester City,4-3,Sunderland
+18,19/12/09,Arsenal,3-0,Hull City
+18,20/12/09,Wolverhampton,2-0,Burnley
+18,20/12/09,Everton,1-1,Birmingham City
+18,20/12/09,West Ham,1-1,Chelsea
+19,26/12/09,Birmingham City,0-0,Chelsea
+19,26/12/09,Fulham,0-0,Tottenham
+19,26/12/09,West Ham,2-0,Portsmouth
+19,26/12/09,Burnley,1-1,Bolton
+19,26/12/09,Manchester City,2-0,Stoke City
+19,26/12/09,Sunderland,1-1,Everton
+19,26/12/09,Wigan Athletic,1-1,Blackburn Rovers
+19,26/12/09,Liverpool,2-0,Wolverhampton
+19,27/12/09,Arsenal,3-0,Aston Villa
+19,27/12/09,Hull City,1-3,Manchester United
+20,28/12/09,Tottenham,2-0,West Ham
+20,28/12/09,Blackburn Rovers,2-2,Sunderland
+20,28/12/09,Chelsea,2-1,Fulham
+20,28/12/09,Everton,2-0,Burnley
+20,28/12/09,Stoke City,0-1,Birmingham City
+20,28/12/09,Wolverhampton,0-3,Manchester City
+20,29/12/09,Aston Villa,0-1,Liverpool
+20,29/12/09,Bolton,2-2,Hull City
+20,30/12/09,Portsmouth,1-4,Arsenal
+20,30/12/09,Manchester United,5-0,Wigan Athletic
+17,05/01/10,Stoke City,3-2,Fulham
+21,09/01/10,Arsenal,2-2,Everton
+21,09/01/10,Birmingham City,1-1,Manchester United
+21,11/01/10,Manchester City,4-1,Blackburn Rovers
+22,16/01/10,Stoke City,1-1,Liverpool
+22,16/01/10,Chelsea,7-2,Sunderland
+22,16/01/10,Manchester United,3-0,Burnley
+22,16/01/10,Tottenham,0-0,Hull City
+22,16/01/10,Wolverhampton,0-2,Wigan Athletic
+22,16/01/10,Everton,2-0,Manchester City
+22,17/01/10,Aston Villa,0-0,West Ham
+22,17/01/10,Blackburn Rovers,2-0,Fulham
+22,17/01/10,Bolton,0-2,Arsenal
+2,20/01/10,Arsenal,4-2,Bolton
+21,20/01/10,Liverpool,2-0,Tottenham
+23,23/01/10,Manchester United,4-0,Hull City
+23,26/01/10,Portsmouth,1-1,West Ham
+23,26/01/10,Wolverhampton,0-0,Liverpool
+23,26/01/10,Bolton,1-0,Burnley
+23,26/01/10,Tottenham,2-0,Fulham
+23,27/01/10,Aston Villa,0-0,Arsenal
+23,27/01/10,Chelsea,3-0,Birmingham City
+23,27/01/10,Blackburn Rovers,2-1,Wigan Athletic
+23,27/01/10,Everton,2-0,Sunderland
+24,30/01/10,Birmingham City,1-1,Tottenham
+24,30/01/10,Fulham,0-2,Aston Villa
+24,30/01/10,Hull City,2-2,Wolverhampton
+24,30/01/10,Liverpool,2-0,Bolton
+24,30/01/10,West Ham,0-0,Blackburn Rovers
+24,30/01/10,Wigan Athletic,0-1,Everton
+24,30/01/10,Burnley,1-2,Chelsea
+24,31/01/10,Manchester City,2-0,Portsmouth
+24,31/01/10,Arsenal,1-3,Manchester United
+24,01/02/10,Sunderland,0-0,Stoke City
+21,02/02/10,Hull City,1-1,Chelsea
+21,03/02/10,Fulham,1-0,Portsmouth
+25,06/02/10,Liverpool,1-0,Everton
+25,06/02/10,Bolton,0-0,Fulham
+25,06/02/10,Burnley,2-1,West Ham
+25,06/02/10,Hull City,2-1,Manchester City
+25,06/02/10,Manchester United,5-0,Portsmouth
+25,06/02/10,Stoke City,3-0,Blackburn Rovers
+25,06/02/10,Sunderland,1-1,Wigan Athletic
+25,06/02/10,Tottenham,0-0,Aston Villa
+25,07/02/10,Birmingham City,2-1,Wolverhampton
+25,07/02/10,Chelsea,2-0,Arsenal
+26,09/02/10,Portsmouth,1-1,Sunderland
+26,09/02/10,Wigan Athletic,1-1,Stoke City
+26,09/02/10,Manchester City,2-0,Bolton
+26,09/02/10,Fulham,3-0,Burnley
+26,10/02/10,Arsenal,1-0,Liverpool
+26,10/02/10,West Ham,2-0,Birmingham City
+26,10/02/10,Wolverhampton,1-0,Tottenham
+26,10/02/10,Aston Villa,1-1,Manchester United
+26,10/02/10,Blackburn Rovers,1-0,Hull City
+26,10/02/10,Everton,2-1,Chelsea
+23,16/02/10,Stoke City,1-1,Manchester City
+18,17/02/10,Wigan Athletic,0-0,Bolton
+27,20/02/10,Everton,3-1,Manchester United
+27,20/02/10,Arsenal,2-0,Sunderland
+27,20/02/10,West Ham,3-0,Hull City
+27,20/02/10,Wolverhampton,0-2,Chelsea
+27,20/02/10,Portsmouth,1-2,Stoke City
+27,21/02/10,Blackburn Rovers,3-0,Bolton
+27,21/02/10,Aston Villa,5-2,Burnley
+27,21/02/10,Fulham,2-1,Birmingham City
+27,21/02/10,Manchester City,0-0,Liverpool
+27,21/02/10,Wigan Athletic,0-3,Tottenham
+28,23/02/10,Manchester United,3-0,West Ham
+28,27/02/10,Chelsea,2-4,Manchester City
+28,27/02/10,Birmingham City,1-0,Wigan Athletic
+28,27/02/10,Bolton,1-0,Wolverhampton
+28,27/02/10,Burnley,1-2,Portsmouth
+28,27/02/10,Stoke City,1-3,Arsenal
+28,28/02/10,Tottenham,2-1,Everton
+28,28/02/10,Liverpool,2-1,Blackburn Rovers
+28,28/02/10,Sunderland,0-0,Fulham
+29,06/03/10,Arsenal,3-1,Burnley
+29,06/03/10,West Ham,1-2,Bolton
+29,06/03/10,Wolverhampton,0-1,Manchester United
+29,07/03/10,Everton,5-1,Hull City
+29,08/03/10,Wigan Athletic,1-0,Liverpool
+21,09/03/10,Sunderland,4-0,Bolton
+22,09/03/10,Portsmouth,1-2,Birmingham City
+21,10/03/10,Burnley,1-1,Stoke City
+30,13/03/10,Tottenham,3-1,Blackburn Rovers
+30,13/03/10,Birmingham City,2-2,Everton
+30,13/03/10,Bolton,4-0,Wigan Athletic
+30,13/03/10,Burnley,1-2,Wolverhampton
+30,13/03/10,Chelsea,4-1,West Ham
+30,13/03/10,Stoke City,0-0,Aston Villa
+30,13/03/10,Hull City,1-2,Arsenal
+30,14/03/10,Manchester United,3-0,Fulham
+30,14/03/10,Sunderland,1-1,Manchester City
+30,15/03/10,Liverpool,4-1,Portsmouth
+21,16/03/10,Wigan Athletic,1-2,Aston Villa
+31,20/03/10,Aston Villa,2-2,Wolverhampton
+31,20/03/10,Everton,2-0,Bolton
+31,20/03/10,Portsmouth,3-2,Hull City
+31,20/03/10,Stoke City,1-2,Tottenham
+31,20/03/10,Sunderland,3-1,Birmingham City
+31,20/03/10,Wigan Athletic,1-0,Burnley
+31,20/03/10,Arsenal,2-0,West Ham
+31,21/03/10,Manchester United,2-1,Liverpool

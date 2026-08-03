@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,28/02/21,Itumbiara,1-1,CRAC
+A,28/02/21,Grêmio Anápolis,3-1,Anápolis
+B,28/02/21,Vila Nova,1-0,Jaraguá
+B,03/03/21,Jaraguá,1-0,Iporá
+A,03/03/21,Jataiense,0-1,Grêmio Anápolis
+A,03/03/21,Anápolis,1-0,Itumbiara
+B,03/03/21,Goiás,1-0,Goianésia
+A,04/03/21,CRAC,0-2,Atlético Goianiense
+B,04/03/21,Aparecidense,0-0,Vila Nova
+A,07/03/21,Jataiense,1-1,CRAC
+B,07/03/21,Iporá,0-0,Goianésia
+B,07/03/21,Jaraguá,0-4,Aparecidense
+A,07/03/21,Atlético Goianiense,2-0,Anápolis
+A,07/03/21,Itumbiara,0-1,Grêmio Anápolis
+B,07/03/21,Goiás,1-0,Vila Nova
+A,10/03/21,Atlético Goianiense,2-0,Jataiense
+B,10/03/21,Goianésia,0-0,Aparecidense
+B,13/03/21,Vila Nova,5-0,Iporá
+A,13/03/21,Atlético Goianiense,2-0,Grêmio Anápolis
+A,13/03/21,Itumbiara,2-1,Jataiense
+B,14/03/21,Aparecidense,3-0,Goiás
+B,14/03/21,Goianésia,2-2,Jaraguá
+A,15/03/21,CRAC,1-1,Anápolis
+B,31/03/21,Goiás,0-2,Jaraguá
+A,01/04/21,Itumbiara,0-3,Atlético Goianiense
+A,01/04/21,Grêmio Anápolis,3-0,CRAC
+B,01/04/21,Aparecidense,1-0,Iporá
+B,01/04/21,Goianésia,0-1,Vila Nova
+A,04/04/21,CRAC,0-0,Grêmio Anápolis
+B,04/04/21,Iporá,1-0,Aparecidense
+B,04/04/21,Jaraguá,1-2,Goiás
+A,04/04/21,Atlético Goianiense,2-0,Itumbiara
+B,04/04/21,Vila Nova,0-2,Goianésia
+A,06/04/21,Anápolis,1-0,Jataiense
+B,07/04/21,Iporá,1-1,Goiás
+B,07/04/21,Jaraguá,1-2,Goianésia
+A,07/04/21,Grêmio Anápolis,1-1,Atlético Goianiense
+A,09/04/21,Jataiense,1-1,Itumbiara
+A,09/04/21,Anápolis,2-0,CRAC
+B,10/04/21,Aparecidense,1-0,Jaraguá
+B,11/04/21,Goianésia,2-2,Iporá
+B,11/04/21,Vila Nova,2-1,Goiás
+A,12/04/21,CRAC,2-0,Jataiense
+A,12/04/21,Anápolis,0-3,Atlético Goianiense
+A,13/04/21,Grêmio Anápolis,2-0,Itumbiara
+B,14/04/21,Iporá,0-0,Vila Nova
+B,14/04/21,Goiás,1-1,Aparecidense
+A,15/04/21,Jataiense,1-0,Anápolis
+A,17/04/21,Atlético Goianiense,3-1,CRAC
+A,18/04/21,Itumbiara,0-1,Anápolis
+A,18/04/21,Grêmio Anápolis,1-2,Jataiense
+B,18/04/21,Goianésia,1-1,Goiás
+B,18/04/21,Vila Nova,2-1,Aparecidense
+B,19/04/21,Iporá,2-1,Jaraguá
+A,22/04/21,Anápolis,1-0,Grêmio Anápolis
+A,22/04/21,CRAC,2-2,Itumbiara
+A,22/04/21,Jataiense,1-2,Atlético Goianiense
+B,22/04/21,Aparecidense,1-0,Goianésia
+B,22/04/21,Goiás,0-2,Iporá
+B,22/04/21,Jaraguá,2-0,Vila Nova
+QF,25/04/21,Jataiense,0-3,Aparecidense
+QF,25/04/21,Iporá,0-0,Grêmio Anápolis
+QF,25/04/21,Goiás,0-3,Atlético Goianiense
+QF,25/04/21,Anápolis,0-3,Vila Nova
+QF,30/04/21,Vila Nova,3-1,Anápolis
+QF,01/05/21,Aparecidense,2-1,Jataiense
+QF,01/05/21,Grêmio Anápolis,2-1,Iporá
+QF,02/05/21,Atlético Goianiense,0-0,Goiás
+SF,04/05/21,Grêmio Anápolis,1-0,Atlético Goianiense
+SF,05/05/21,Vila Nova,1-1,Aparecidense
+SF,09/05/21,Aparecidense,0-1,Vila Nova
+SF,09/05/21,Atlético Goianiense,2-1(11-12 Pen.),Grêmio Anápolis
+F,16/05/21,Grêmio Anápolis,1-1,Vila Nova
+F,23/05/21,Vila Nova,1-1(4-5 Pen.),Grêmio Anápolis

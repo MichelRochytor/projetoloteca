@@ -1,0 +1,129 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,19/01/08,Fluminense,2-0,Cardoso Moreira
+A,19/01/08,Botafogo,2-0,Resende
+A,19/01/08,Cabofriense,3-0,Mesquita
+B,19/01/08,Volta Redonda,0-0,Macaé
+A,20/01/08,Friburguense,1-0,Americano
+B,20/01/08,Flamengo,2-0,Boavista-RJ
+A,20/01/08,Vasco,1-2,Madureira
+B,20/01/08,America-RJ,2-5,Duque de Caxias
+A,23/01/08,Mesquita,1-0,Resende
+B,23/01/08,Macaé,1-0,America-RJ
+B,23/01/08,Boavista-RJ,3-2,Volta Redonda
+A,23/01/08,Botafogo,4-1,Friburguense
+B,23/01/08,Fluminense,3-2,Duque de Caxias
+A,23/01/08,Vasco,1-0,Americano
+A,24/01/08,Madureira,3-4,Cabofriense
+B,24/01/08,Flamengo,4-1,Cardoso Moreira
+B,26/01/08,America-RJ,2-4,Volta Redonda
+A,26/01/08,Vasco,3-0,Mesquita
+B,26/01/08,Fluminense,2-2,Macaé
+A,27/01/08,Cabofriense,0-2,Friburguense
+A,27/01/08,Botafogo,3-0,Americano
+A,27/01/08,Resende,1-0,Madureira
+B,27/01/08,Cardoso Moreira,2-1,Boavista-RJ
+B,27/01/08,Flamengo,5-1,Duque de Caxias
+A,30/01/08,Madureira,1-0,Friburguense
+B,30/01/08,Boavista-RJ,2-0,America-RJ
+B,30/01/08,Duque de Caxias,1-2,Cardoso Moreira
+A,30/01/08,Americano,2-0,Cabofriense
+B,30/01/08,Fluminense,5-1,Volta Redonda
+B,30/01/08,Flamengo,1-0,Macaé
+A,30/01/08,Vasco,5-2,Resende
+A,31/01/08,Botafogo,6-2,Mesquita
+B,01/02/08,Fluminense,1-1,Boavista-RJ
+A,02/02/08,Friburguense,1-1,Mesquita
+A,02/02/08,Madureira,6-3,Americano
+B,02/02/08,Macaé,2-0,Duque de Caxias
+B,02/02/08,Flamengo,4-0,America-RJ
+A,02/02/08,Vasco,2-3,Botafogo
+A,02/02/08,Cabofriense,4-1,Resende
+B,03/02/08,Volta Redonda,5-1,Cardoso Moreira
+A,06/02/08,Resende,1-0,Americano
+A,06/02/08,Mesquita,1-1,Madureira
+B,06/02/08,Cardoso Moreira,0-3,Macaé
+B,06/02/08,Duque de Caxias,2-2,Boavista-RJ
+A,06/02/08,Vasco,2-0,Friburguense
+A,06/02/08,Botafogo,1-1,Cabofriense
+B,06/02/08,Fluminense,6-1,America-RJ
+B,07/02/08,Flamengo,2-1,Volta Redonda
+A,10/02/08,Vasco,5-1,Cabofriense
+A,10/02/08,Botafogo,1-2,Madureira
+A,10/02/08,Friburguense,2-0,Resende
+A,10/02/08,Americano,0-0,Mesquita
+B,10/02/08,America-RJ,3-3,Cardoso Moreira
+B,10/02/08,Boavista-RJ,2-1,Macaé
+B,10/02/08,Flamengo,1-4,Fluminense
+B,10/02/08,Volta Redonda,0-1,Duque de Caxias
+SF,16/02/08,Fluminense,0-2,Botafogo
+SF,17/02/08,Flamengo,2-1,Vasco
+F,24/02/08,Botafogo,1-2,Flamengo
+B,01/03/08,Madureira,1-0,Macaé
+B,01/03/08,Botafogo,1-0,America-RJ
+B,01/03/08,Fluminense,3-1,Cabofriense
+B,02/03/08,Duque de Caxias,1-0,Americano
+B,02/03/08,Cardoso Moreira,1-2,Friburguense
+B,02/03/08,Vasco,4-0,Boavista-RJ
+B,02/03/08,Flamengo,4-2,Resende
+B,02/03/08,Volta Redonda,3-1,Mesquita
+B,08/03/08,Vasco,2-0,Duque de Caxias
+B,08/03/08,America-RJ,0-0,Cabofriense
+B,08/03/08,Fluminense,5-2,Friburguense
+B,09/03/08,Mesquita,1-1,Boavista-RJ
+B,09/03/08,Resende,2-2,Macaé
+B,09/03/08,Cardoso Moreira,0-1,Madureira
+B,09/03/08,Flamengo,3-1,Americano
+B,09/03/08,Botafogo,3-0,Volta Redonda
+B,12/03/08,Madureira,0-2,America-RJ
+B,12/03/08,Americano,2-1,Cardoso Moreira
+B,12/03/08,Friburguense,2-0,Volta Redonda
+B,12/03/08,Flamengo,2-0,Mesquita
+B,12/03/08,Cabofriense,2-0,Boavista-RJ
+B,12/03/08,Fluminense,2-2,Resende
+B,13/03/08,Botafogo,4-1,Duque de Caxias
+B,13/03/08,Vasco,4-0,Macaé
+B,15/03/08,America-RJ,4-4,Resende
+B,15/03/08,Fluminense,2-0,Americano
+B,15/03/08,Volta Redonda,2-1,Madureira
+B,16/03/08,Duque de Caxias,2-1,Cabofriense
+B,16/03/08,Macaé,4-0,Mesquita
+B,16/03/08,Boavista-RJ,1-1,Friburguense
+B,16/03/08,Vasco,4-1,Cardoso Moreira
+B,16/03/08,Flamengo,2-3,Botafogo
+B,22/03/08,Boavista-RJ,3-2,Madureira
+B,22/03/08,Flamengo,2-0,Cabofriense
+B,22/03/08,Volta Redonda,3-3,Resende
+B,22/03/08,Americano,1-0,America-RJ
+B,23/03/08,Friburguense,1-2,Duque de Caxias
+B,23/03/08,Mesquita,2-2,Cardoso Moreira
+B,23/03/08,Botafogo,7-0,Macaé
+B,23/03/08,Fluminense,2-1,Vasco
+B,26/03/08,Madureira,2-1,Duque de Caxias
+B,26/03/08,Resende,5-4,Boavista-RJ
+B,26/03/08,Americano,3-2,Volta Redonda
+B,26/03/08,Fluminense,4-1,Mesquita
+B,26/03/08,Cabofriense,1-0,Macaé
+B,26/03/08,Flamengo,4-1,Friburguense
+B,27/03/08,Vasco,2-0,America-RJ
+B,27/03/08,Botafogo,1-0,Cardoso Moreira
+B,29/03/08,Flamengo,0-0,Madureira
+B,30/03/08,Cardoso Moreira,1-1,Cabofriense
+B,30/03/08,Boavista-RJ,3-0,Americano
+B,30/03/08,Duque de Caxias,0-1,Resende
+B,30/03/08,Macaé,3-1,Friburguense
+B,30/03/08,Vasco,1-2,Volta Redonda
+B,30/03/08,America-RJ,1-1,Mesquita
+B,30/03/08,Botafogo,3-1,Fluminense
+B,05/04/08,Botafogo,1-3,Boavista-RJ
+B,06/04/08,Mesquita,4-2,Duque de Caxias
+B,06/04/08,Resende,3-0,Cardoso Moreira
+B,06/04/08,Macaé,2-0,Americano
+B,06/04/08,Cabofriense,2-0,Volta Redonda
+B,06/04/08,Friburguense,0-2,America-RJ
+B,06/04/08,Fluminense,4-0,Madureira
+B,06/04/08,Vasco,2-2,Flamengo
+SF,12/04/08,Fluminense,1-1(5-4 Pen.),Vasco
+SF,13/04/08,Botafogo,3-0,Flamengo
+F,20/04/08,Fluminense,0-1,Botafogo
+F,27/04/08,Flamengo,1-0,Botafogo
+F,04/05/08,Botafogo,1-3,Flamengo

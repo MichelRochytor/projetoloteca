@@ -1,0 +1,73 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,29/01/11,América Mineiro,1-1,Uberaba
+1,29/01/11,Tupi,1-1,Villa Nova-MG
+1,30/01/11,Cruzeiro,3-0,Caldense
+1,30/01/11,Guarani-MG,5-0,Ipatinga
+1,30/01/11,Funorte,1-2,Atlético Mineiro
+1,31/01/11,Democrata-GV,0-0,América T.O.
+2,02/02/11,Caldense,0-2,América Mineiro
+2,05/02/11,Ipatinga,1-1,Funorte
+2,06/02/11,Atlético Mineiro,4-1,Tupi
+2,06/02/11,Uberaba,3-5,América T.O.
+2,06/02/11,Villa Nova-MG,0-1,Cruzeiro
+2,07/02/11,Democrata-GV,0-2,Guarani-MG
+3,12/02/11,Cruzeiro,3-4,Atlético Mineiro
+3,12/02/11,Tupi,4-3,Democrata-GV
+3,12/02/11,América T.O.,1-1,Caldense
+3,13/02/11,América Mineiro,4-1,Ipatinga
+3,13/02/11,Funorte,0-3,Villa Nova-MG
+3,13/02/11,Guarani-MG,1-2,Uberaba
+8,16/02/11,Democrata-GV,1-1,Caldense
+4,19/02/11,Cruzeiro,2-0,Ipatinga
+4,19/02/11,Tupi,1-1,América T.O.
+4,20/02/11,Caldense,1-1,Uberaba
+4,20/02/11,Guarani-MG,2-4,Atlético Mineiro
+4,20/02/11,América Mineiro,2-1,Funorte
+4,21/02/11,Democrata-GV,2-3,Villa Nova-MG
+5,26/02/11,América T.O.,1-2,Cruzeiro
+5,26/02/11,Funorte,1-1,Caldense
+5,27/02/11,Atlético Mineiro,1-2,América Mineiro
+5,27/02/11,Uberaba,2-4,Tupi
+5,27/02/11,Villa Nova-MG,2-2,Guarani-MG
+5,27/02/11,Ipatinga,0-0,Democrata-GV
+10,09/03/11,Tupi,0-0,Cruzeiro
+6,12/03/11,América T.O.,5-1,Funorte
+6,12/03/11,Guarani-MG,2-4,América Mineiro
+6,13/03/11,Cruzeiro,7-0,Democrata-GV
+6,13/03/11,Ipatinga,2-2,Atlético Mineiro
+6,13/03/11,Tupi,1-2,Caldense
+6,13/03/11,Uberaba,0-1,Villa Nova-MG
+7,18/03/11,América Mineiro,1-3,América T.O.
+7,19/03/11,Cruzeiro,3-0,Funorte
+7,20/03/11,Atlético Mineiro,2-1,Villa Nova-MG
+7,20/03/11,Caldense,2-0,Ipatinga
+7,20/03/11,Guarani-MG,0-2,Tupi
+7,20/03/11,Democrata-GV,2-2,Uberaba
+8,23/03/11,Atlético Mineiro,1-1,Uberaba
+9,24/03/11,Ipatinga,0-2,América T.O.
+8,26/03/11,Funorte,1-0,Tupi
+8,27/03/11,América T.O.,2-1,Guarani-MG
+8,27/03/11,Villa Nova-MG,2-2,Ipatinga
+8,27/03/11,América Mineiro,2-3,Cruzeiro
+9,02/04/11,Tupi,0-1,América Mineiro
+9,02/04/11,Uberaba,2-1,Funorte
+9,03/04/11,Cruzeiro,4-1,Guarani-MG
+9,03/04/11,Villa Nova-MG,1-0,Caldense
+9,03/04/11,Democrata-GV,1-3,Atlético Mineiro
+10,10/04/11,Caldense,0-2,Atlético Mineiro
+10,10/04/11,Guarani-MG,2-1,Funorte
+10,10/04/11,América Mineiro,4-3,Democrata-GV
+10,10/04/11,América T.O.,2-1,Villa Nova-MG
+10,10/04/11,Ipatinga,4-0,Uberaba
+11,17/04/11,Atlético Mineiro,7-1,América T.O.
+11,17/04/11,Ipatinga,0-1,Tupi
+11,17/04/11,Uberaba,0-1,Cruzeiro
+11,17/04/11,Funorte,2-5,Democrata-GV
+11,17/04/11,Villa Nova-MG,2-2,América Mineiro
+11,17/04/11,Caldense,1-0,Guarani-MG
+SF,23/04/11,América T.O.,1-8,Cruzeiro
+SF,24/04/11,América Mineiro,1-3,Atlético Mineiro
+SF,30/04/11,Atlético Mineiro,2-1,América Mineiro
+SF,01/05/11,Cruzeiro,5-1,América T.O.
+F,08/05/11,Atlético Mineiro,2-1,Cruzeiro
+F,15/05/11,Cruzeiro,2-0,Atlético Mineiro

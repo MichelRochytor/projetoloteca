@@ -1,0 +1,99 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,11/02/12,Aquidauanense,3-0,MS Saad
+B,12/02/12,7 de Setembro-MS,1-2,Ivinhema
+A,12/02/12,Maracaju,3-2,Misto
+B,12/02/12,Itaporã,0-0,Águia Negra
+A,12/02/12,Comercial-MS,2-1,CENE
+B,12/02/12,Naviraiense,1-1,Colorado-MS
+B,18/02/12,Colorado-MS,1-1,Itaporã
+A,18/02/12,CENE,2-1,Maracaju
+A,18/02/12,SERC,1-1,Comercial-MS
+B,18/02/12,URSO Mundo Novo,1-3,7 de Setembro-MS
+B,18/02/12,Ivinhema,0-1,Naviraiense
+A,18/02/12,Misto,1-1,Aquidauanense
+A,25/02/12,Aquidauanense,2-0,CENE
+A,25/02/12,MS Saad,0-4,Misto
+B,25/02/12,Naviraiense,1-0,7 de Setembro-MS
+A,26/02/12,Maracaju,2-0,SERC
+B,26/02/12,URSO Mundo Novo,2-2,Itaporã
+B,26/02/12,Águia Negra,2-2,Ivinhema
+A,29/02/12,Aquidauanense,2-0,Comercial-MS
+A,03/03/12,CENE,1-0,MS Saad
+A,03/03/12,SERC,0-0,Aquidauanense
+B,03/03/12,7 de Setembro-MS,2-2,Águia Negra
+A,04/03/12,Comercial-MS,7-0,Maracaju
+B,04/03/12,URSO Mundo Novo,2-2,Colorado-MS
+B,04/03/12,Itaporã,1-1,Naviraiense
+A,07/03/12,MS Saad,1-1,SERC
+B,07/03/12,Ivinhema,5-0,Colorado-MS
+A,07/03/12,Misto,1-2,CENE
+B,07/03/12,Itaporã,0-0,7 de Setembro-MS
+B,07/03/12,Águia Negra,1-2,URSO Mundo Novo
+A,10/03/12,CENE,0-1,SERC
+A,11/03/12,MS Saad,0-0,Maracaju
+A,11/03/12,Misto,2-1,Comercial-MS
+B,11/03/12,Colorado-MS,1-2,7 de Setembro-MS
+B,11/03/12,URSO Mundo Novo,0-2,Ivinhema
+B,11/03/12,Águia Negra,3-2,Naviraiense
+A,14/03/12,SERC,4-2,Misto
+B,14/03/12,Colorado-MS,1-2,Águia Negra
+A,14/03/12,Comercial-MS,0-1,MS Saad
+B,14/03/12,Ivinhema,4-0,Itaporã
+B,14/03/12,Naviraiense,1-1,URSO Mundo Novo
+A,17/03/12,CENE,3-3,Comercial-MS
+A,17/03/12,MS Saad,1-1,Aquidauanense
+A,17/03/12,Misto,5-0,Maracaju
+B,17/03/12,Ivinhema,2-2,7 de Setembro-MS
+B,18/03/12,Colorado-MS,1-1,Naviraiense
+B,18/03/12,Águia Negra,2-1,Itaporã
+A,21/03/12,Maracaju,0-2,CENE
+A,21/03/12,Comercial-MS,1-3,SERC
+B,21/03/12,Itaporã,2-3,Colorado-MS
+A,21/03/12,Aquidauanense,1-0,Misto
+B,21/03/12,7 de Setembro-MS,0-1,URSO Mundo Novo
+B,21/03/12,Naviraiense,3-0,Ivinhema
+A,24/03/12,CENE,0-0,Aquidauanense
+A,24/03/12,Misto,2-0,MS Saad
+B,24/03/12,7 de Setembro-MS,1-0,Naviraiense
+A,25/03/12,SERC,2-1,Maracaju
+B,25/03/12,Ivinhema,0-2,Águia Negra
+B,25/03/12,Itaporã,3-2,URSO Mundo Novo
+A,28/03/12,Maracaju,3-1,Comercial-MS
+A,28/03/12,MS Saad,1-3,CENE
+B,28/03/12,Colorado-MS,2-2,URSO Mundo Novo
+B,28/03/12,Águia Negra,2-2,7 de Setembro-MS
+A,28/03/12,Aquidauanense,0-2,SERC
+B,28/03/12,Naviraiense,1-2,Itaporã
+A,31/03/12,CENE,2-2,Misto
+A,31/03/12,Comercial-MS,1-2,Aquidauanense
+B,31/03/12,7 de Setembro-MS,5-1,Itaporã
+B,01/04/12,URSO Mundo Novo,1-3,Águia Negra
+A,01/04/12,SERC,3-0,MS Saad
+B,01/04/12,Colorado-MS,0-1,Ivinhema
+A,02/04/12,Maracaju,0-0,Aquidauanense
+A,04/04/12,SERC,1-1,CENE
+A,04/04/12,Comercial-MS,2-0,Misto
+B,04/04/12,Ivinhema,3-2,URSO Mundo Novo
+B,04/04/12,7 de Setembro-MS,5-1,Colorado-MS
+B,04/04/12,Naviraiense,2-1,Águia Negra
+A,05/04/12,Maracaju,2-0,MS Saad
+A,08/04/12,Misto,2-1,SERC
+A,08/04/12,MS Saad,2-2,Comercial-MS
+A,08/04/12,Aquidauanense,2-0,Maracaju
+B,08/04/12,URSO Mundo Novo,2-4,Naviraiense
+B,08/04/12,Águia Negra,1-0,Colorado-MS
+B,08/04/12,Itaporã,0-2,Ivinhema
+QF,11/04/12,CENE,2-2,Águia Negra
+QF,11/04/12,Misto,1-1,Ivinhema
+QF,11/04/12,Naviraiense,3-1,Aquidauanense
+QF,11/04/12,7 de Setembro-MS,0-0,SERC
+QF,14/04/12,Aquidauanense,2-2,Naviraiense
+QF,15/04/12,SERC,3-0,7 de Setembro-MS
+QF,15/04/12,Águia Negra,3-1,CENE
+QF,15/04/12,Ivinhema,1-3,Misto
+SF,21/04/12,Misto,1-2,Naviraiense
+SF,22/04/12,Águia Negra,2-1,SERC
+SF,28/04/12,Naviraiense,4-1,Misto
+SF,29/04/12,SERC,0-1,Águia Negra
+F,02/05/12,Naviraiense,1-1,Águia Negra
+F,09/05/12,Águia Negra,0-0,Naviraiense

@@ -1,0 +1,67 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,21/01/23,Athletic-MG,3-1,Tombense
+C,21/01/23,Atlético Mineiro,2-1,Caldense
+C,21/01/23,CA Patrocinense,1-2,Cruzeiro
+B,22/01/23,Pouso Alegre,0-4,América Mineiro
+C,23/01/23,Democrata-GV,1-0,Democrata-SL
+C,28/01/23,Cruzeiro,1-1,Athletic-MG
+C,28/01/23,Caldense,2-2,Democrata-GV
+B,28/01/23,Democrata-SL,0-0,Pouso Alegre
+C,29/01/23,Tombense,1-2,Atlético Mineiro
+B,29/01/23,América Mineiro,2-1,Villa Nova-MG
+C,03/02/23,Democrata-GV,1-1,Athletic-MG
+B,04/02/23,Democrata-SL,0-1,Villa Nova-MG
+C,04/02/23,América Mineiro,1-0,Cruzeiro
+B,04/02/23,Pouso Alegre,3-2,CA Patrocinense
+C,04/02/23,Ipatinga,0-1,Atlético Mineiro
+C,04/02/23,Tombense,3-0,Caldense
+B,07/02/23,Athletic-MG,1-1,América Mineiro
+C,07/02/23,Cruzeiro,0-1,Pouso Alegre
+B,08/02/23,Atlético Mineiro,3-0,Democrata-SL
+C,08/02/23,Caldense,0-1,Ipatinga
+C,08/02/23,CA Patrocinense,1-2,Tombense
+C,08/02/23,Villa Nova-MG,1-1,Democrata-GV
+C,11/02/23,Caldense,2-1,Villa Nova-MG
+C,11/02/23,América Mineiro,2-1,Democrata-GV
+B,12/02/23,CA Patrocinense,1-0,Athletic-MG
+C,12/02/23,Democrata-SL,2-2,Ipatinga
+C,12/02/23,Pouso Alegre,1-1,Tombense
+C,13/02/23,Cruzeiro,1-1,Atlético Mineiro
+C,17/02/23,Athletic-MG,3-2,Caldense
+C,17/02/23,Ipatinga,1-1,América Mineiro
+B,18/02/23,Atlético Mineiro,2-1,CA Patrocinense
+C,18/02/23,Tombense,2-2,Democrata-SL
+C,18/02/23,Villa Nova-MG,0-4,Cruzeiro
+C,20/02/23,Democrata-GV,1-0,Pouso Alegre
+C,22/02/23,Villa Nova-MG,3-2,Ipatinga
+C,23/02/23,Caldense,1-2,Cruzeiro
+B,25/02/23,Democrata-SL,1-2,Athletic-MG
+B,25/02/23,Atlético Mineiro,1-1,América Mineiro
+C,25/02/23,CA Patrocinense,1-1,Democrata-GV
+C,26/02/23,Ipatinga,1-1,Pouso Alegre
+C,27/02/23,Tombense,3-0,Villa Nova-MG
+C,01/03/23,Ipatinga,2-1,CA Patrocinense
+C,04/03/23,Democrata-GV,0-3,Atlético Mineiro
+C,04/03/23,Cruzeiro,1-1,Democrata-SL
+C,04/03/23,América Mineiro,3-1,Tombense
+B,04/03/23,Villa Nova-MG,1-0,CA Patrocinense
+C,04/03/23,Pouso Alegre,1-1,Caldense
+C,04/03/23,Athletic-MG,2-0,Ipatinga
+SF,11/03/23,Cruzeiro,0-2,América Mineiro
+SF,11/03/23,Pouso Alegre,2-2,Tombense
+,12/03/23,CA Patrocinense,2-0,Democrata-SL
+SF,12/03/23,Athletic-MG,1-0,Atlético Mineiro
+SF,13/03/23,Democrata-GV,0-2,Villa Nova-MG
+SF,18/03/23,Atlético Mineiro,1-0,Athletic-MG
+SF,18/03/23,Tombense,0-0,Pouso Alegre
+,18/03/23,Democrata-SL,1-0,Caldense
+SF,19/03/23,Villa Nova-MG,2-0,Democrata-GV
+SF,19/03/23,América Mineiro,2-1,Cruzeiro
+,22/03/23,Caldense,1-1,CA Patrocinense
+,26/03/23,CA Patrocinense,1-0,Caldense
+F,26/03/23,Villa Nova-MG,1-2,Tombense
+F,01/04/23,América Mineiro,2-3,Atlético Mineiro
+F,01/04/23,Tombense,3-2,Villa Nova-MG
+,02/04/23,Caldense,2-0,Democrata-SL
+,08/04/23,Democrata-SL,ANU,CA Patrocinense
+F,09/04/23,Atlético Mineiro,2-0,América Mineiro

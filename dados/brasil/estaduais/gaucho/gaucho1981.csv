@@ -1,0 +1,188 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,07/06/81,Grêmio,6-1,Guarany de Bagé
+,07/06/81,São Gabriel,1-2,Internacional
+,07/06/81,Inter SM,0-0,Juventude
+,07/06/81,GE Brasil,1-0,Armour
+,07/06/81,Caxias,2-1,São Paulo-RS
+,07/06/81,Novo Hamburgo,1-1,São Borja
+,10/06/81,Internacional,2-0,Novo Hamburgo
+,14/06/81,Internacional,0-1,Caxias
+,14/06/81,Armour,1-1,Grêmio
+,14/06/81,São Paulo-RS,1-1,Inter SM
+,14/06/81,GE Brasil,1-0,Guarany de Bagé
+,14/06/81,Juventude,1-0,Novo Hamburgo
+,14/06/81,São Borja,0-0,São Gabriel
+,18/06/81,Grêmio,0-0,São Borja
+,18/06/81,Inter SM,0-1,Internacional
+,21/06/81,Grêmio,4-0,Juventude
+,21/06/81,Caxias,0-0,GE Brasil
+,21/06/81,São Borja,2-3,Armour
+,21/06/81,Guarany de Bagé,1-1,Internacional
+,21/06/81,Novo Hamburgo,0-0,São Paulo-RS
+,21/06/81,São Gabriel,1-0,Inter SM
+,24/06/81,São Paulo-RS,1-1,Grêmio
+,28/06/81,Internacional,2-1,GE Brasil
+,28/06/81,Juventude,0-0,Guarany de Bagé
+,28/06/81,Inter SM,2-2,São Borja
+,28/06/81,Novo Hamburgo,0-1,Grêmio
+,28/06/81,Armour,1-3,Caxias
+,28/06/81,São Gabriel,1-1,São Paulo-RS
+,01/07/81,Grêmio,3-0,São Gabriel
+,05/07/81,Grêmio,2-1,Inter SM
+,05/07/81,Juventude,0-0,Internacional
+,05/07/81,GE Brasil,3-1,São Gabriel
+,05/07/81,São Borja,0-0,São Paulo-RS
+,05/07/81,Guarany de Bagé,1-1,Caxias
+,05/07/81,Armour,1-0,Novo Hamburgo
+,09/07/81,São Borja,0-1,Internacional
+,12/07/81,Internacional,5-1,Armour
+,12/07/81,Caxias,0-5,Grêmio
+,12/07/81,Guarany de Bagé,1-0,São Borja
+,12/07/81,SÃO PAULO,0-0,Juventude
+,12/07/81,São Gabriel,2-4,Novo Hamburgo
+,12/07/81,Inter SM,0-0,GE Brasil
+,19/07/81,Internacional,0-1,São Paulo-RS
+,19/07/81,GE Brasil,1-3,Grêmio
+,19/07/81,Caxias,1-0,São Borja
+,19/07/81,Novo Hamburgo,1-1,Inter SM
+,19/07/81,Armour,1-1,Guarany de Bagé
+,19/07/81,São Gabriel,0-0,Juventude
+,25/07/81,Inter SM,2-1,Armour
+,26/07/81,Grêmio,0-0,Internacional
+,02/08/81,Guarany de Bagé,1-0,São Paulo-RS
+,02/08/81,Juventude,0-0,GE Brasil
+,02/08/81,Armour,1-2,São Gabriel
+,02/08/81,Inter SM,0-0,Caxias
+,08/08/81,São Borja,4-1,Juventude
+,09/08/81,Caxias,3-1,São Gabriel
+,09/08/81,GE Brasil,2-0,Novo Hamburgo
+,09/08/81,São Paulo-RS,0-0,Armour
+,16/08/81,Juventude,0-0,Armour
+,16/08/81,Novo Hamburgo,1-0,Caxias
+,16/08/81,São Paulo-RS,2-1,GE Brasil
+,16/08/81,São Gabriel,1-0,Guarany de Bagé
+,23/08/81,Caxias,1-0,Juventude
+,23/08/81,GE Brasil,0-0,São Borja
+,23/08/81,Guarany de Bagé,0-1,Novo Hamburgo
+,30/08/81,Guarany de Bagé,1-1,Inter SM
+,02/09/81,Internacional,4-0,São Gabriel
+,02/09/81,Novo Hamburgo,1-0,GE Brasil
+,02/09/81,Juventude,2-3,Inter SM
+,02/09/81,São Borja,1-0,Caxias
+,02/09/81,São Paulo-RS,1-0,Guarany de Bagé
+,03/09/81,Grêmio,3-0,Armour
+,06/09/81,Internacional,2-0,São Borja
+,06/09/81,Juventude,0-2,Grêmio
+,06/09/81,São Paulo-RS,0-0,Novo Hamburgo
+,06/09/81,Inter SM,4-1,São Gabriel
+,06/09/81,GE Brasil,1-0,Caxias
+,06/09/81,Guarany de Bagé,1-1,Armour
+,09/09/81,Grêmio,1-0,Novo Hamburgo
+,09/09/81,GE Brasil,0-1,Internacional
+,09/09/81,Caxias,0-0,Inter SM
+,09/09/81,Guarany de Bagé,1-0,Juventude
+,09/09/81,Armour,0-1,São Paulo-RS
+,09/09/81,São Gabriel,0-2,São Borja
+,12/09/81,São Borja,0-0,GE Brasil
+,13/09/81,Internacional,4-0,Guarany de Bagé
+,13/09/81,Juventude,3-0,Caxias
+,13/09/81,São Paulo-RS,2-0,São Gabriel
+,13/09/81,Novo Hamburgo,1-0,Armour
+,14/09/81,Inter SM,0-0,Grêmio
+,16/09/81,Internacional,4-1,Juventude
+,16/09/81,Caxias,2-0,Guarany de Bagé
+,16/09/81,São Borja,0-0,Novo Hamburgo
+,16/09/81,Armour,1-3,GE Brasil
+,17/09/81,São Gabriel,0-2,Grêmio
+,17/09/81,Inter SM,1-0,São Paulo-RS
+,20/09/81,Grêmio,4-0,Caxias
+,20/09/81,São Paulo-RS,0-1,Internacional
+,20/09/81,GE Brasil,2-2,Inter SM
+,20/09/81,Novo Hamburgo,3-1,Juventude
+,20/09/81,Guarany de Bagé,1-1,São Gabriel
+,20/09/81,Armour,2-2,São Borja
+,23/09/81,São Paulo-RS,0-0,São Borja
+,23/09/81,Juventude,0-1,São Gabriel
+,24/09/81,Grêmio,1-0,GE Brasil
+,24/09/81,Novo Hamburgo,0-0,Internacional
+,24/09/81,Inter SM,1-0,Guarany de Bagé
+,24/09/81,Caxias,5-0,Armour
+,26/09/81,Juventude,2-0,São Paulo-RS
+,27/09/81,Internacional,1-0,Inter SM
+,27/09/81,São Borja,0-0,Grêmio
+,27/09/81,Caxias,3-0,Novo Hamburgo
+,27/09/81,Guarany de Bagé,0-0,GE Brasil
+,27/09/81,São Gabriel,2-2,Armour
+,30/09/81,Guarany de Bagé,2-4,Grêmio
+,30/09/81,Armour,1-2,Internacional
+,30/09/81,São Paulo-RS,1-1,Caxias
+,30/09/81,GE Brasil,1-0,Juventude
+,30/09/81,São Borja,0-2,Inter SM
+,30/09/81,Novo Hamburgo,1-0,São Gabriel
+,03/10/81,Juventude,1-1,São Borja
+,04/10/81,Grêmio,5-1,São Paulo-RS
+,04/10/81,Caxias,0-1,Internacional
+,04/10/81,Inter SM,1-1,Armour
+,04/10/81,Novo Hamburgo,0-0,Guarany de Bagé
+,04/10/81,São Gabriel,1-0,GE Brasil
+,07/10/81,Internacional,0-0,Grêmio
+,07/10/81,GE Brasil,1-2,São Paulo-RS
+,07/10/81,Armour,1-1,Juventude
+,07/10/81,São Gabriel,0-2,Caxias
+,07/10/81,São Borja,0-0,Guarany de Bagé
+,07/10/81,Inter SM,0-1,Novo Hamburgo
+OCT,11/10/81,Grêmio,0-0,São Borja
+OCT,11/10/81,Novo Hamburgo,1-0,GE Brasil
+OCT,11/10/81,Inter SM,2-0,Internacional
+OCT,11/10/81,São Paulo-RS,1-0,Caxias
+OCT,14/10/81,Grêmio,1-1,Inter SM
+OCT,14/10/81,GE Brasil,1-0,São Paulo-RS
+OCT,14/10/81,Caxias,0-1,Novo Hamburgo
+OCT,14/10/81,São Borja,0-2,Internacional
+OCT,18/10/81,Inter SM,0-0,GE Brasil
+OCT,18/10/81,São Paulo-RS,1-1,Grêmio
+OCT,18/10/81,Novo Hamburgo,2-1,São Borja
+OCT,18/10/81,Internacional,1-1,Caxias
+OCT,21/10/81,Internacional,3-0,São Paulo-RS
+OCT,21/10/81,São Borja,1-0,Caxias
+OCT,21/10/81,Inter SM,3-2,Novo Hamburgo
+OCT,21/10/81,GE Brasil,0-0,Grêmio
+OCT,25/10/81,GE Brasil,0-3,Internacional
+OCT,25/10/81,São Paulo-RS,2-2,São Borja
+OCT,25/10/81,Grêmio,1-0,Novo Hamburgo
+OCT,31/10/81,São Borja,2-1,GE Brasil
+OCT,01/11/81,Caxias,0-1,Grêmio
+OCT,01/11/81,Inter SM,3-0,São Paulo-RS
+OCT,01/11/81,Internacional,3-0,Novo Hamburgo
+OCT,04/11/81,Internacional,2-1,Grêmio
+OCT,04/11/81,Novo Hamburgo,1-0,São Paulo-RS
+OCT,04/11/81,São Borja,0-0,Inter SM
+OCT,04/11/81,GE Brasil,0-2,Caxias
+OCT,08/11/81,Inter SM,3-1,Grêmio
+OCT,08/11/81,São Paulo-RS,3-1,GE Brasil
+OCT,08/11/81,Novo Hamburgo,2-2,Caxias
+OCT,08/11/81,Internacional,5-0,São Borja
+OCT,11/11/81,GE Brasil,1-1,Inter SM
+OCT,11/11/81,Grêmio,2-0,São Paulo-RS
+OCT,11/11/81,São Borja,0-2,Novo Hamburgo
+OCT,11/11/81,Caxias,0-1,Internacional
+OCT,15/11/81,Novo Hamburgo,1-1,Inter SM
+OCT,15/11/81,Grêmio,2-1,GE Brasil
+OCT,15/11/81,Caxias,2-0,São Borja
+OCT,15/11/81,São Paulo-RS,2-1,Internacional
+OCT,18/11/81,Novo Hamburgo,0-2,Grêmio
+OCT,18/11/81,São Borja,1-2,São Paulo-RS
+OCT,18/11/81,Internacional,4-0,GE Brasil
+OCT,18/11/81,Inter SM,2-1,Caxias
+OCT,22/11/81,São Borja,0-3,Grêmio
+OCT,22/11/81,Internacional,1-1,Inter SM
+OCT,22/11/81,Caxias,3-1,São Paulo-RS
+OCT,22/11/81,GE Brasil,0-0,Novo Hamburgo
+OCT,25/11/81,Grêmio,1-0,Caxias
+OCT,25/11/81,São Paulo-RS,1-0,Inter SM
+OCT,25/11/81,GE Brasil,0-1,São Borja
+OCT,25/11/81,Novo Hamburgo,1-1,Internacional
+OCT,29/11/81,Grêmio,1-1,Internacional
+OCT,29/11/81,São Paulo-RS,2-2,Novo Hamburgo
+OCT,29/11/81,Inter SM,1-0,São Borja
+OCT,29/11/81,Caxias,2-0,GE Brasil

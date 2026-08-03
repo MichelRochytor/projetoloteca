@@ -1,0 +1,93 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,08/01/06,Estudantes,0-2,Sport
+1T,08/01/06,Vitória das Tabocas,1-3,Serrano-PE
+1T,08/01/06,Ypiranga-PE,4-1,Salgueiro
+1T,08/01/06,Náutico,2-1,Central
+1T,08/01/06,Santa Cruz,1-0,Porto-PE
+1T,11/01/06,Salgueiro,3-0,Náutico
+1T,11/01/06,Sport,3-0,Serrano-PE
+1T,11/01/06,Ypiranga-PE,3-2,Central
+1T,11/01/06,Vitória das Tabocas,0-2,Porto-PE
+1T,11/01/06,Estudantes,0-2,Santa Cruz
+1T,14/01/06,Porto-PE,1-2,Estudantes
+1T,15/01/06,Serrano-PE,1-0,Náutico
+1T,15/01/06,Central,3-3,Vitória das Tabocas
+1T,15/01/06,Santa Cruz,2-1,Ypiranga-PE
+1T,15/01/06,Sport,1-0,Salgueiro
+1T,18/01/06,Serrano-PE,0-3,Santa Cruz
+1T,18/01/06,Náutico,1-1,Estudantes
+1T,18/01/06,Salgueiro,1-0,Central
+1T,18/01/06,Vitória das Tabocas,1-2,Ypiranga-PE
+1T,18/01/06,Porto-PE,0-1,Sport
+1T,22/01/06,Salgueiro,1-0,Santa Cruz
+1T,22/01/06,Estudantes,5-0,Vitória das Tabocas
+1T,22/01/06,Ypiranga-PE,1-0,Porto-PE
+1T,22/01/06,Central,1-1,Serrano-PE
+1T,22/01/06,Náutico,1-1,Sport
+1T,25/01/06,Santa Cruz,3-0,Vitória das Tabocas
+1T,25/01/06,Estudantes,1-2,Salgueiro
+1T,25/01/06,Porto-PE,2-1,Serrano-PE
+1T,25/01/06,Ypiranga-PE,1-1,Náutico
+1T,25/01/06,Sport,1-4,Central
+1T,28/01/06,Porto-PE,1-1,Salgueiro
+1T,29/01/06,Vitória das Tabocas,0-4,Náutico
+1T,29/01/06,Serrano-PE,1-1,Ypiranga-PE
+1T,29/01/06,Central,1-0,Estudantes
+1T,29/01/06,Sport,1-1,Santa Cruz
+1T,01/02/06,Náutico,1-1,Porto-PE
+1T,01/02/06,Ypiranga-PE,2-1,Sport
+1T,01/02/06,Salgueiro,1-2,Vitória das Tabocas
+1T,01/02/06,Serrano-PE,2-1,Estudantes
+1T,01/02/06,Central,2-1,Santa Cruz
+1T,05/02/06,Vitória das Tabocas,1-2,Sport
+1T,05/02/06,Estudantes,0-0,Ypiranga-PE
+1T,05/02/06,Porto-PE,1-1,Central
+1T,05/02/06,Salgueiro,0-2,Serrano-PE
+1T,05/02/06,Santa Cruz,2-0,Náutico
+2T,08/02/06,Porto-PE,2-2,Santa Cruz
+2T,11/02/06,Sport,2-2,Estudantes
+2T,12/02/06,Central,1-1,Náutico
+2T,12/02/06,Serrano-PE,2-0,Vitória das Tabocas
+2T,12/02/06,Salgueiro,0-0,Ypiranga-PE
+2T,18/02/06,Náutico,1-1,Salgueiro
+2T,18/02/06,Santa Cruz,2-1,Estudantes
+2T,18/02/06,Central,0-1,Ypiranga-PE
+2T,19/02/06,Porto-PE,5-2,Vitória das Tabocas
+2T,19/02/06,Serrano-PE,1-3,Sport
+2T,01/03/06,Estudantes,0-1,Porto-PE
+2T,01/03/06,Salgueiro,0-1,Sport
+2T,01/03/06,Vitória das Tabocas,3-0,Central
+2T,01/03/06,Ypiranga-PE,2-0,Santa Cruz
+2T,02/03/06,Náutico,2-2,Serrano-PE
+2T,04/03/06,Santa Cruz,4-0,Serrano-PE
+2T,05/03/06,Ypiranga-PE,0-0,Vitória das Tabocas
+2T,05/03/06,Central,2-0,Salgueiro
+2T,05/03/06,Estudantes,2-2,Náutico
+2T,06/03/06,Sport,6-0,Porto-PE
+2T,12/03/06,Sport,1-1,Náutico
+2T,12/03/06,Serrano-PE,1-1,Central
+2T,12/03/06,Vitória das Tabocas,0-1,Estudantes
+2T,12/03/06,Santa Cruz,2-0,Salgueiro
+2T,12/03/06,Porto-PE,3-3,Ypiranga-PE
+2T,19/03/06,Serrano-PE,1-1,Porto-PE
+2T,19/03/06,Salgueiro,0-2,Estudantes
+2T,19/03/06,Vitória das Tabocas,0-4,Santa Cruz
+2T,19/03/06,Náutico,4-0,Ypiranga-PE
+2T,19/03/06,Central,1-2,Sport
+2T,26/03/06,Santa Cruz,1-1,Sport
+2T,26/03/06,Estudantes,4-0,Central
+2T,26/03/06,Ypiranga-PE,2-1,Serrano-PE
+2T,26/03/06,Salgueiro,0-1,Porto-PE
+2T,26/03/06,Náutico,6-2,Vitória das Tabocas
+2T,29/03/06,Sport,3-0,Ypiranga-PE
+2T,29/03/06,Estudantes,1-1,Serrano-PE
+2T,29/03/06,Vitória das Tabocas,2-2,Salgueiro
+2T,29/03/06,Santa Cruz,3-2,Central
+2T,29/03/06,Porto-PE,0-0,Náutico
+2T,02/04/06,Serrano-PE,0-1,Salgueiro
+2T,02/04/06,Central,1-0,Porto-PE
+2T,02/04/06,Ypiranga-PE,3-2,Estudantes
+2T,02/04/06,Sport,5-2,Vitória das Tabocas
+2T,02/04/06,Náutico,3-3,Santa Cruz
+F,05/04/06,Santa Cruz,1-2,Sport
+F,09/04/06,Sport,0-1,Santa Cruz

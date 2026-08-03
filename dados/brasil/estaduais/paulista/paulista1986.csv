@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,23/02/86,Corinthians,3-1,XV de Piracicaba
+1T,23/02/86,Palmeiras,3-1,Inter de Limeira
+1T,23/02/86,Ponte Preta,3-3,Portuguesa
+1T,23/02/86,Botafogo-SP,1-0,Ferroviária
+1T,23/02/86,Novorizontino,0-1,Guarani
+1T,23/02/86,Mogi Mirim,0-1,Juventus-SP
+1T,23/02/86,XV de Jaú,1-1,Paulista
+1T,23/02/86,São Bento,3-1,Comercial
+1T,23/02/86,Santos,4-0,Santo André
+1T,25/02/86,São Paulo,1-1,América-SP
+1T,01/03/86,Portuguesa,2-1,Novorizontino
+1T,02/03/86,São Paulo,3-0,Botafogo-SP
+1T,02/03/86,Guarani,3-0,São Bento
+1T,02/03/86,Comercial,4-0,Corinthians
+1T,02/03/86,América-SP,1-1,Mogi Mirim
+1T,02/03/86,XV de Piracicaba,1-1,Santo André
+1T,02/03/86,XV de Jaú,1-3,Juventus-SP
+1T,02/03/86,Ferroviária,0-1,Palmeiras
+1T,02/03/86,Inter de Limeira,1-1,Ponte Preta
+1T,02/03/86,Paulista,0-0,Santos
+1T,05/03/86,Portuguesa,1-0,Juventus-SP
+1T,05/03/86,Novorizontino,1-2,XV de Piracicaba
+1T,05/03/86,Ferroviária,1-2,Inter de Limeira
+1T,05/03/86,Paulista,1-0,Santo André
+1T,05/03/86,Santos,2-0,São Bento
+1T,05/03/86,Ponte Preta,1-1,São Paulo
+1T,05/03/86,Comercial,1-1,Mogi Mirim
+1T,05/03/86,América-SP,1-2,Botafogo-SP
+1T,05/03/86,Palmeiras,3-0,XV de Jaú
+1T,08/03/86,Santos,1-1,Portuguesa
+1T,09/03/86,Corinthians,4-0,Guarani
+1T,09/03/86,Ponte Preta,4-1,América-SP
+1T,09/03/86,Botafogo-SP,2-1,Paulista
+1T,09/03/86,Novorizontino,2-4,XV de Jaú
+1T,09/03/86,XV de Piracicaba,0-0,Comercial
+1T,09/03/86,Santo André,1-1,Ferroviária
+1T,09/03/86,Inter de Limeira,2-0,Juventus-SP
+1T,09/03/86,Mogi Mirim,1-1,Palmeiras
+1T,12/03/86,Palmeiras,3-0,Comercial
+1T,12/03/86,São Paulo,0-0,Ferroviária
+1T,12/03/86,América-SP,1-3,Guarani
+1T,12/03/86,XV de Piracicaba,1-1,Santos
+1T,12/03/86,XV de Jaú,1-1,Mogi Mirim
+1T,12/03/86,São Bento,2-0,Novorizontino
+1T,12/03/86,Inter de Limeira,1-1,Corinthians
+1T,12/03/86,Paulista,2-1,Ponte Preta
+1T,13/03/86,Juventus-SP,2-0,Santo André
+1T,15/03/86,Santos,1-1,Palmeiras
+1T,15/03/86,Portuguesa,2-2,Botafogo-SP
+1T,16/03/86,Corinthians,3-0,Juventus-SP
+1T,16/03/86,Guarani,2-0,Paulista
+1T,16/03/86,Comercial,2-2,Inter de Limeira
+1T,16/03/86,Novorizontino,0-2,São Paulo
+1T,16/03/86,Mogi Mirim,0-0,São Bento
+1T,16/03/86,XV de Piracicaba,2-0,América-SP
+1T,16/03/86,XV de Jaú,1-0,Ponte Preta
+1T,19/03/86,Corinthians,3-0,Paulista
+1T,19/03/86,São Paulo,0-0,XV de Piracicaba
+1T,19/03/86,Palmeiras,2-2,Santo André
+1T,19/03/86,Ponte Preta,3-2,Botafogo-SP
+1T,19/03/86,Comercial,2-0,Juventus-SP
+1T,19/03/86,América-SP,3-0,São Bento
+1T,19/03/86,Mogi Mirim,3-1,Guarani
+1T,19/03/86,Ferroviária,0-2,Portuguesa
+1T,19/03/86,Inter de Limeira,2-0,XV de Jaú
+1T,23/03/86,Palmeiras,1-1,Portuguesa
+1T,23/03/86,Ponte Preta,2-1,Juventus-SP
+1T,23/03/86,Botafogo-SP,2-0,Guarani
+1T,23/03/86,XV de Jaú,1-0,América-SP
+1T,23/03/86,São Bento,0-0,Corinthians
+1T,23/03/86,Santo André,1-1,Mogi Mirim
+1T,23/03/86,Ferroviária,3-2,Novorizontino
+1T,23/03/86,Inter de Limeira,0-0,São Paulo
+1T,23/03/86,Paulista,2-2,Comercial
+1T,29/03/86,Juventus-SP,4-2,Botafogo-SP
+1T,30/03/86,São Paulo,3-1,Santos
+1T,30/03/86,Guarani,3-3,XV de Piracicaba
+1T,30/03/86,Comercial,1-0,Ponte Preta
+1T,30/03/86,América-SP,0-1,Santo André
+1T,30/03/86,Novorizontino,1-0,Inter de Limeira
+1T,30/03/86,Mogi Mirim,0-0,Portuguesa
+1T,30/03/86,XV de Jaú,2-3,Corinthians
+1T,30/03/86,São Bento,1-1,Ferroviária
+1T,30/03/86,Paulista,3-1,Palmeiras
+1T,02/04/86,Corinthians,1-0,América-SP
+1T,02/04/86,São Paulo,1-2,Santo André
+1T,02/04/86,Portuguesa,2-0,Guarani
+1T,02/04/86,Ponte Preta,3-1,Ferroviária
+1T,02/04/86,Comercial,2-0,XV de Jaú
+1T,02/04/86,XV de Piracicaba,3-1,Palmeiras
+1T,02/04/86,Paulista,0-0,São Bento
+1T,02/04/86,Santos,2-0,Novorizontino
+1T,05/04/86,Juventus-SP,1-0,São Bento
+1T,06/04/86,São Paulo,1-1,Palmeiras
+1T,06/04/86,Ponte Preta,1-0,Corinthians
+1T,06/04/86,Botafogo-SP,2-1,XV de Piracicaba
+1T,06/04/86,América-SP,0-1,Portuguesa
+1T,06/04/86,Novorizontino,3-0,Comercial
+1T,06/04/86,Mogi Mirim,2-1,Santos
+1T,06/04/86,Santo André,0-2,XV de Jaú
+1T,06/04/86,Ferroviária,0-1,Guarani
+1T,06/04/86,Inter de Limeira,4-0,Paulista
+1T,09/04/86,Juventus-SP,1-0,Santos
+1T,09/04/86,Corinthians,4-4,Botafogo-SP
+1T,09/04/86,Palmeiras,3-1,Novorizontino
+1T,09/04/86,Mogi Mirim,0-2,Ferroviária
+1T,09/04/86,XV de Jaú,0-0,XV de Piracicaba
+1T,09/04/86,São Bento,0-1,Ponte Preta
+1T,10/04/86,Santo André,1-1,Inter de Limeira
+1T,13/04/86,Novorizontino,0-0,Juventus-SP
+1T,13/04/86,Portuguesa,1-0,Corinthians
+1T,13/04/86,Guarani,2-0,Palmeiras
+1T,13/04/86,Comercial,0-2,América-SP
+1T,13/04/86,XV de Piracicaba,1-2,Ponte Preta
+1T,13/04/86,São Bento,1-0,São Paulo
+1T,13/04/86,Ferroviária,2-2,Paulista
+1T,13/04/86,Santo André,2-0,Botafogo-SP
+1T,13/04/86,Inter de Limeira,1-0,Mogi Mirim
+1T,13/04/86,Santos,2-1,XV de Jaú
+1T,16/04/86,Corinthians,1-0,Mogi Mirim
+1T,16/04/86,Juventus-SP,4-1,São Paulo
+1T,16/04/86,Portuguesa,2-0,XV de Piracicaba
+1T,16/04/86,Guarani,1-1,Santo André
+1T,16/04/86,Botafogo-SP,0-0,São Bento
+1T,16/04/86,América-SP,1-0,Palmeiras
+1T,16/04/86,Santos,1-0,Inter de Limeira
+1T,19/04/86,Juventus-SP,1-2,Ferroviária
+1T,20/04/86,Corinthians,0-1,Santos
+1T,20/04/86,Palmeiras,1-0,São Bento
+1T,20/04/86,Ponte Preta,1-1,Guarani
+1T,20/04/86,Botafogo-SP,0-2,Novorizontino
+1T,20/04/86,Mogi Mirim,1-1,XV de Piracicaba
+1T,20/04/86,XV de Jaú,0-1,São Paulo
+1T,20/04/86,Santo André,1-0,Comercial
+1T,20/04/86,Inter de Limeira,3-1,Portuguesa
+1T,20/04/86,Paulista,1-1,América-SP
+1T,23/04/86,Novorizontino,2-0,América-SP
+1T,23/04/86,São Paulo,1-3,Mogi Mirim
+1T,23/04/86,Portuguesa,4-1,Paulista
+1T,23/04/86,Guarani,0-0,XV de Jaú
+1T,23/04/86,Botafogo-SP,1-2,Palmeiras
+1T,23/04/86,Ferroviária,4-0,Comercial
+1T,23/04/86,Santos,3-2,Ponte Preta
+1T,26/04/86,Juventus-SP,4-3,Guarani
+1T,27/04/86,Palmeiras,2-0,Corinthians
+1T,27/04/86,Portuguesa,2-0,Santo André
+1T,27/04/86,Ponte Preta,0-0,Mogi Mirim
+1T,27/04/86,Comercial,0-0,São Paulo
+1T,27/04/86,América-SP,1-0,Santos
+1T,27/04/86,São Bento,3-2,XV de Jaú
+1T,27/04/86,Ferroviária,1-1,XV de Piracicaba
+1T,27/04/86,Inter de Limeira,2-1,Botafogo-SP
+1T,27/04/86,Paulista,2-0,Novorizontino
+1T,30/04/86,Corinthians,2-0,Ferroviária
+1T,30/04/86,Palmeiras,2-0,Ponte Preta
+1T,30/04/86,Guarani,0-0,Inter de Limeira
+1T,30/04/86,Mogi Mirim,3-0,Botafogo-SP
+1T,30/04/86,XV de Piracicaba,1-1,Juventus-SP
+1T,30/04/86,São Bento,1-0,Portuguesa
+1T,30/04/86,Santo André,2-2,Novorizontino
+1T,30/04/86,Paulista,0-2,São Paulo
+1T,30/04/86,Santos,4-0,Comercial
+1T,03/05/86,Juventus-SP,1-0,Palmeiras
+1T,04/05/86,São Paulo,4-1,Portuguesa
+1T,04/05/86,Guarani,1-3,Santos
+1T,04/05/86,América-SP,1-1,Inter de Limeira
+1T,04/05/86,Novorizontino,1-1,Corinthians
+1T,04/05/86,Mogi Mirim,1-1,Paulista
+1T,04/05/86,XV de Piracicaba,0-1,São Bento
+1T,04/05/86,Santo André,0-0,Ponte Preta
+1T,04/05/86,Ferroviária,1-0,XV de Jaú
+1T,04/05/86,Botafogo-SP,2-2,Comercial
+1T,11/05/86,São Paulo,2-2,Guarani
+1T,11/05/86,Ponte Preta,1-1,Novorizontino
+1T,11/05/86,América-SP,1-1,Juventus-SP
+1T,11/05/86,Comercial,3-0,Portuguesa
+1T,11/05/86,XV de Jaú,2-0,Botafogo-SP
+1T,11/05/86,Santo André,0-0,Corinthians
+1T,11/05/86,Inter de Limeira,1-2,São Bento
+1T,11/05/86,Paulista,3-1,XV de Piracicaba
+1T,11/05/86,Santos,2-1,Ferroviária
+1T,17/05/86,Juventus-SP,3-1,Paulista
+1T,17/05/86,Corinthians,1-1,São Paulo
+1T,18/05/86,Portuguesa,2-0,XV de Jaú
+1T,18/05/86,Guarani,1-1,Comercial
+1T,18/05/86,Botafogo-SP,0-1,Santos
+1T,18/05/86,Novorizontino,1-1,Mogi Mirim
+1T,18/05/86,XV de Piracicaba,2-1,Inter de Limeira
+1T,18/05/86,São Bento,0-0,Santo André
+1T,18/05/86,Ferroviária,2-1,América-SP
+2T,24/05/86,Portuguesa,3-0,Juventus-SP
+2T,24/05/86,São Paulo,1-1,Novorizontino
+2T,24/05/86,São Bento,2-0,Botafogo-SP
+2T,24/05/86,Corinthians,1-0,Ponte Preta
+2T,25/05/86,Palmeiras,1-0,Mogi Mirim
+2T,25/05/86,Guarani,0-0,América-SP
+2T,25/05/86,Comercial,1-0,Paulista
+2T,25/05/86,XV de Jaú,0-0,Ferroviária
+2T,25/05/86,Santo André,1-0,XV de Piracicaba
+2T,25/05/86,Inter de Limeira,3-0,Santos
+2T,28/05/86,Santos,2-1,Guarani
+2T,28/05/86,Palmeiras,1-1,Paulista
+2T,28/05/86,Ferroviária,1-1,Corinthians
+2T,28/05/86,América-SP,1-1,São Paulo
+2T,28/05/86,Juventus-SP,2-1,Mogi Mirim
+2T,28/05/86,Inter de Limeira,1-0,Santo André
+2T,28/05/86,XV de Jaú,1-0,Comercial
+2T,31/05/86,Novorizontino,3-0,Botafogo-SP
+2T,31/05/86,São Paulo,0-1,XV de Jaú
+2T,31/05/86,Santo André,2-1,Santos
+2T,31/05/86,Paulista,2-2,Juventus-SP
+2T,31/05/86,Ponte Preta,1-1,Inter de Limeira
+2T,31/05/86,São Bento,1-1,Guarani
+2T,31/05/86,Mogi Mirim,0-1,América-SP
+2T,31/05/86,XV de Piracicaba,0-0,Ferroviária
+2T,31/05/86,Comercial,0-0,Palmeiras
+2T,14/06/86,Ferroviária,3-0,Santos
+2T,14/06/86,Inter de Limeira,1-0,Palmeiras
+2T,14/06/86,Portuguesa,5-0,São Bento
+2T,14/06/86,Novorizontino,0-1,Santo André
+2T,14/06/86,Paulista,3-4,Mogi Mirim
+2T,14/06/86,Guarani,1-0,Juventus-SP
+2T,14/06/86,XV de Piracicaba,2-1,XV de Jaú
+2T,14/06/86,Botafogo-SP,2-1,Ponte Preta
+2T,14/06/86,América-SP,1-0,Comercial
+2T,19/06/86,Novorizontino,1-0,Portuguesa
+2T,19/06/86,Palmeiras,0-0,XV de Piracicaba
+2T,19/06/86,Corinthians,1-1,Comercial
+2T,19/06/86,XV de Jaú,4-0,Santos
+2T,19/06/86,Botafogo-SP,0-0,Santo André
+2T,19/06/86,Ponte Preta,0-1,Paulista
+2T,19/06/86,São Bento,1-2,Mogi Mirim
+2T,19/06/86,Inter de Limeira,2-0,Ferroviária
+2T,20/06/86,São Paulo,0-0,Juventus-SP
+2T,22/06/86,Santos,2-1,Paulista
+2T,24/06/86,Juventus-SP,0-0,XV de Jaú
+2T,24/06/86,São Paulo,1-1,São Bento
+2T,24/06/86,Santos,0-1,Botafogo-SP
+2T,24/06/86,Guarani,1-1,Portuguesa
+2T,24/06/86,América-SP,0-0,Corinthians
+2T,24/06/86,Comercial,0-0,Ferroviária
+2T,24/06/86,XV de Piracicaba,1-3,Novorizontino
+2T,24/06/86,Mogi Mirim,1-0,Ponte Preta
+2T,28/06/86,Novorizontino,0-3,Palmeiras
+2T,28/06/86,Portuguesa,0-1,Santos
+2T,28/06/86,Ponte Preta,4-1,XV de Jaú
+2T,28/06/86,Botafogo-SP,0-0,Juventus-SP
+2T,28/06/86,XV de Piracicaba,0-1,Corinthians
+2T,28/06/86,Mogi Mirim,1-1,São Paulo
+2T,28/06/86,São Bento,0-2,América-SP
+2T,28/06/86,Santo André,1-0,Guarani
+2T,28/06/86,Inter de Limeira,1-0,Comercial
+2T,28/06/86,Paulista,0-1,Ferroviária
+2T,01/07/86,Santos,1-3,Juventus-SP
+2T,02/07/86,Corinthians,1-2,Novorizontino
+2T,02/07/86,Portuguesa,1-1,América-SP
+2T,02/07/86,Palmeiras,0-0,Guarani
+2T,02/07/86,XV de Piracicaba,2-1,Paulista
+2T,02/07/86,XV de Jaú,1-2,Inter de Limeira
+2T,02/07/86,Ferroviária,0-1,Ponte Preta
+2T,02/07/86,Botafogo-SP,0-0,São Paulo
+2T,03/07/86,Comercial,0-2,São Bento
+2T,03/07/86,Santos,0-0,Mogi Mirim
+2T,05/07/86,Juventus-SP,3-2,Novorizontino
+2T,06/07/86,Palmeiras,1-1,Santos
+2T,06/07/86,Santo André,0-0,São Bento
+2T,06/07/86,Paulista,2-1,Corinthians
+2T,06/07/86,Guarani,1-1,São Paulo
+2T,06/07/86,Mogi Mirim,0-0,Inter de Limeira
+2T,06/07/86,XV de Jaú,0-1,Portuguesa
+2T,06/07/86,Ferroviária,3-0,Botafogo-SP
+2T,06/07/86,Comercial,0-0,XV de Piracicaba
+2T,06/07/86,América-SP,0-0,Ponte Preta
+2T,09/07/86,Novorizontino,1-0,Ferroviária
+2T,09/07/86,São Paulo,4-5,Comercial
+2T,09/07/86,Corinthians,2-0,XV de Jaú
+2T,09/07/86,Palmeiras,2-0,Botafogo-SP
+2T,09/07/86,Santos,0-0,XV de Piracicaba
+2T,09/07/86,Guarani,0-0,Mogi Mirim
+2T,09/07/86,Paulista,2-0,Portuguesa
+2T,10/07/86,Ponte Preta,2-0,Santo André
+2T,13/07/86,Santos,1-2,São Paulo
+2T,13/07/86,Corinthians,2-0,Portuguesa
+2T,13/07/86,Santo André,1-0,América-SP
+2T,13/07/86,Paulista,1-0,Guarani
+2T,13/07/86,São Bento,1-0,XV de Piracicaba
+2T,13/07/86,Ponte Preta,0-3,Palmeiras
+2T,13/07/86,Inter de Limeira,4-1,Novorizontino
+2T,13/07/86,Mogi Mirim,2-0,Comercial
+2T,13/07/86,Ferroviária,0-0,Juventus-SP
+2T,13/07/86,Botafogo-SP,2-0,XV de Jaú
+2T,16/07/86,Corinthians,0-0,Juventus-SP
+2T,16/07/86,Palmeiras,1-1,Ferroviária
+2T,16/07/86,Portuguesa,1-2,Inter de Limeira
+2T,16/07/86,Santo André,0-0,Paulista
+2T,16/07/86,Ponte Preta,1-2,Santos
+2T,16/07/86,XV de Piracicaba,1-0,São Paulo
+2T,16/07/86,XV de Jaú,2-1,São Bento
+2T,16/07/86,Botafogo-SP,3-1,Mogi Mirim
+2T,16/07/86,Comercial,2-0,Guarani

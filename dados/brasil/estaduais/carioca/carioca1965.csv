@@ -1,0 +1,135 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/07/59,Flamengo,2-2,Vasco
+1,18/07/59,Botafogo,2-0,Portuguesa-RJ
+1,19/07/59,Canto do Rio,3-2,Madureira
+1,19/07/59,São Cristóvão,1-2,Bonsucesso
+1,19/07/59,Fluminense,1-0,America-RJ
+1,19/07/59,Bangu,0-0,Olaria
+1,25/07/59,Vasco,6-0,São Cristóvão
+1,26/07/59,Fluminense,1-0,Bonsucesso
+1,26/07/59,Olaria,3-3,Flamengo
+1,26/07/59,Canto do Rio,0-0,America-RJ
+1,26/07/59,Portuguesa-RJ,0-0,Madureira
+1,26/07/59,Botafogo,0-0,Bangu
+1,01/08/59,Madureira,0-1,America-RJ
+1,01/08/59,Botafogo,6-0,Bonsucesso
+1,02/08/59,São Cristóvão,1-3,Portuguesa-RJ
+1,02/08/59,Fluminense,4-0,Canto do Rio
+1,02/08/59,Vasco,2-0,Olaria
+1,02/08/59,Bangu,3-1,Flamengo
+1,08/08/59,Botafogo,4-0,Madureira
+1,08/08/59,Flamengo,3-0,Canto do Rio
+1,08/08/59,Bangu,2-1,Portuguesa-RJ
+1,09/08/59,America-RJ,3-1,Vasco
+1,09/08/59,Olaria,3-3,Bonsucesso
+1,12/08/59,Fluminense,1-0,São Cristóvão
+1,16/08/59,São Cristóvão,1-2,Flamengo
+1,16/08/59,Bonsucesso,1-6,Vasco
+1,16/08/59,Botafogo,3-1,America-RJ
+1,18/08/59,Madureira,2-1,Olaria
+1,18/08/59,Fluminense,2-1,Portuguesa-RJ
+1,18/08/59,Bangu,3-0,Canto do Rio
+1,22/08/59,Botafogo,5-1,Olaria
+1,23/08/59,Bonsucesso,1-3,America-RJ
+1,23/08/59,Flamengo,0-0,Fluminense
+1,23/08/59,Madureira,2-4,Vasco
+1,23/08/59,Portuguesa-RJ,1-0,Canto do Rio
+1,23/08/59,Bangu,6-3,São Cristóvão
+1,29/08/59,Botafogo,1-0,Vasco
+1,30/08/59,São Cristóvão,1-0,Canto do Rio
+1,30/08/59,Olaria,1-2,America-RJ
+1,30/08/59,Madureira,2-3,Bonsucesso
+1,30/08/59,Portuguesa-RJ,0-6,Flamengo
+1,30/08/59,Bangu,1-0,Fluminense
+1,03/09/59,São Cristóvão,0-1,America-RJ
+1,04/09/59,Flamengo,2-0,Bonsucesso
+1,05/09/59,Canto do Rio,0-2,Botafogo
+1,05/09/59,Madureira,0-4,Fluminense
+1,06/09/59,Portuguesa-RJ,2-4,Olaria
+1,06/09/59,Bangu,1-4,Vasco
+1,09/09/59,São Cristóvão,1-4,Madureira
+1,10/09/59,Olaria,1-1,Canto do Rio
+1,12/09/59,Vasco,4-0,Portuguesa-RJ
+1,12/09/59,America-RJ,4-1,Flamengo
+1,12/09/59,Bonsucesso,0-2,Bangu
+1,13/09/59,Fluminense,2-1,Botafogo
+1,25/09/59,Portuguesa-RJ,1-3,Bonsucesso
+1,26/09/59,Fluminense,1-0,Olaria
+1,26/09/59,São Cristóvão,1-2,Botafogo
+1,27/09/59,Canto do Rio,1-2,Vasco
+1,27/09/59,Madureira,1-4,Flamengo
+1,27/09/59,Bangu,3-2,America-RJ
+1,03/10/59,Botafogo,2-1,Flamengo
+1,03/10/59,Olaria,2-1,São Cristóvão
+1,03/10/59,Bangu,1-0,Madureira
+1,04/10/59,Bonsucesso,2-2,Canto do Rio
+1,04/10/59,Fluminense,2-0,Vasco
+1,04/10/59,America-RJ,1-0,Portuguesa-RJ
+1,09/10/59,Flamengo,1-0,Olaria
+1,10/10/59,Portuguesa-RJ,1-6,Botafogo
+1,10/10/59,Canto do Rio,1-2,Bangu
+1,11/10/59,Bonsucesso,1-3,São Cristóvão
+1,11/10/59,America-RJ,0-1,Madureira
+1,11/10/59,Vasco,1-3,Fluminense
+1,17/10/59,Olaria,0-4,Botafogo
+1,18/10/59,Vasco,3-2,Bonsucesso
+1,18/10/59,São Cristóvão,0-2,Fluminense
+1,18/10/59,Flamengo,1-1,America-RJ
+1,18/10/59,Canto do Rio,0-2,Portuguesa-RJ
+1,18/10/59,Madureira,1-0,Bangu
+1,24/10/59,Vasco,1-1,Bangu
+1,24/10/59,America-RJ,3-1,São Cristóvão
+1,25/10/59,Portuguesa-RJ,0-3,Fluminense
+1,25/10/59,Flamengo,6-2,Botafogo
+1,25/10/59,Canto do Rio,1-0,Olaria
+1,25/10/59,Bonsucesso,0-2,Madureira
+1,31/10/59,Madureira,0-5,Botafogo
+1,01/11/59,Flamengo,4-0,Portuguesa-RJ
+1,01/11/59,Vasco,3-1,America-RJ
+1,01/11/59,Olaria,0-4,Fluminense
+1,03/11/59,Canto do Rio,1-2,Bonsucesso
+1,04/11/59,São Cristóvão,2-0,Bangu
+1,07/11/59,Flamengo,1-1,Bangu
+1,07/11/59,Bonsucesso,0-3,Botafogo
+1,08/11/59,Canto do Rio,4-2,São Cristóvão
+1,08/11/59,Olaria,1-0,Portuguesa-RJ
+1,08/11/59,Vasco,4-1,Madureira
+1,08/11/59,America-RJ,1-1,Fluminense
+1,13/11/59,Portuguesa-RJ,0-2,São Cristóvão
+1,14/11/59,Canto do Rio,1-2,Fluminense
+1,14/11/59,America-RJ,3-1,Olaria
+1,15/11/59,Vasco,4-2,Botafogo
+1,15/11/59,Bangu,3-1,Bonsucesso
+1,15/11/59,Flamengo,1-2,Madureira
+1,20/11/59,Botafogo,3-1,Canto do Rio
+1,21/11/59,Bonsucesso,0-1,Olaria
+1,21/11/59,São Cristóvão,2-5,Vasco
+1,22/11/59,Fluminense,2-0,Flamengo
+1,22/11/59,Madureira,3-0,Portuguesa-RJ
+1,24/11/59,America-RJ,1-1,Bangu
+1,28/11/59,Portuguesa-RJ,0-3,Bangu
+1,28/11/59,Bonsucesso,0-5,Fluminense
+1,29/11/59,Olaria,0-2,Vasco
+1,29/11/59,Madureira,0-0,Canto do Rio
+1,29/11/59,Flamengo,4-0,São Cristóvão
+1,29/11/59,America-RJ,3-1,Botafogo
+1,03/12/59,Bonsucesso,0-3,Flamengo
+1,04/12/59,Olaria,0-0,Madureira
+1,05/12/59,Vasco,1-3,Canto do Rio
+1,05/12/59,Portuguesa-RJ,0-2,America-RJ
+1,05/12/59,Botafogo,3-0,São Cristóvão
+1,06/12/59,Fluminense,0-0,Bangu
+1,11/12/59,São Cristóvão,1-0,Olaria
+1,11/12/59,America-RJ,1-1,Canto do Rio
+1,12/12/59,Vasco,1-1,Flamengo
+1,12/12/59,Fluminense,2-0,Madureira
+1,13/12/59,Bonsucesso,3-0,Portuguesa-RJ
+1,13/12/59,Bangu,4-1,Botafogo
+1,18/12/59,Portuguesa-RJ,1-4,Vasco
+1,19/12/59,Olaria,0-2,Bangu
+1,20/12/59,Botafogo,3-3,Fluminense
+1,20/12/59,America-RJ,3-1,Bonsucesso
+1,20/12/59,Madureira,2-2,São Cristóvão
+1,20/12/59,Canto do Rio,0-1,Flamengo
+1,23/12/59,Botafogo,4-1,Bangu
+1,30/12/59,Botafogo,2-0,Bangu

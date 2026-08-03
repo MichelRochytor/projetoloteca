@@ -9,6 +9,7 @@ anos = list(range(2006, 2021))  # 2006 até 2012
 df_copa_brasil_list = []
 df_libertadores_list = []
 df_sudamericana_list = []
+
 # ============================================================================
 # 1. FUNÇÕES AUXILIARES E MOTOR DE CÁLCULO
 # ============================================================================

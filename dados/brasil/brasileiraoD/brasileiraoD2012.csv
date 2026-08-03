@@ -1,0 +1,191 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A2,23/06/12,Mixto,1-3,Sampaio Corrêa
+A6,24/06/12,Guarani-MG,0-1,Friburguense
+A7,24/06/12,Cianorte,6-0,Marília
+A3,24/06/12,Campinense,2-1,Petrolina
+A3,24/06/12,Ypiranga-PE,1-3,Horizonte
+A4,24/06/12,CSA,3-1,Vitória da Conquista
+A4,24/06/12,Feirense,1-1,Sousa
+A5,24/06/12,Aparecidense,0-1,Ceilândia
+A8,24/06/12,Metropolitano,2-1,Juventude
+A8,24/06/12,GE Brasil,0-0,Arapongas
+A1,24/06/12,Penarol-AM,1-3,Atlético-AC
+A2,24/06/12,Comercial-PI,1-1,Araguaína
+A7,24/06/12,Mogi Mirim,2-1,Cerâmica
+A1,24/06/12,Vilhena,4-2,Remo
+A7,30/06/12,Marília,2-3,Mogi Mirim
+A6,01/07/12,Friburguense,1-0,Volta Redonda
+A8,01/07/12,Arapongas,0-0,Mirassol
+A8,01/07/12,Juventude,1-0,GE Brasil
+A1,01/07/12,Remo,4-2,Penarol-AM
+A3,01/07/12,Horizonte,0-0,Baraúnas
+A4,01/07/12,Sousa,2-1,Itabaiana
+A4,01/07/12,Vitória da Conquista,1-3,Feirense
+A5,01/07/12,Ceilândia,3-2,CENE
+A5,01/07/12,CRAC,3-0,Aparecidense
+A2,01/07/12,Sampaio Corrêa,4-0,Comercial-PI
+A7,01/07/12,Cerâmica,3-1,Concórdia
+A3,02/07/12,Petrolina,3-3,Ypiranga-PE
+A6,02/07/12,Nacional N. Serrana,0-0,Aracruz
+A5,04/07/12,Sobradinho,0-0,CRAC
+A6,05/07/12,Volta Redonda,0-1,Nacional N. Serrana
+A6,07/07/12,Aracruz,1-1,Friburguense
+A8,08/07/12,Mirassol,0-0,Juventude
+A3,08/07/12,Ypiranga-PE,2-1,Campinense
+A4,08/07/12,Feirense,1-3,CSA
+A5,08/07/12,CENE,1-1,CRAC
+A5,08/07/12,Aparecidense,1-0,Sobradinho
+A6,08/07/12,Volta Redonda,0-0,Guarani-MG
+A7,08/07/12,Concórdia,2-2,Marília
+A8,08/07/12,GE Brasil,2-0,Metropolitano
+A1,08/07/12,Penarol-AM,1-0,Vilhena
+A3,08/07/12,Baraúnas,1-1,Petrolina
+A4,08/07/12,Itabaiana,2-2,Vitória da Conquista
+A7,08/07/12,Mogi Mirim,0-0,Cianorte
+A2,09/07/12,Comercial-PI,0-2,Mixto
+A1,10/07/12,Náutico-RR,1-2,Remo
+A2,10/07/12,Santos-AP,1-3,Sampaio Corrêa
+A5,14/07/12,Ceilândia,1-1,Sobradinho
+A6,14/07/12,Aracruz,1-0,Volta Redonda
+A8,15/07/12,Mirassol,2-2,GE Brasil
+A8,15/07/12,Arapongas,2-0,Metropolitano
+A3,15/07/12,Horizonte,0-0,Campinense
+A4,15/07/12,Sousa,0-0,CSA
+A5,15/07/12,CENE,4-1,Aparecidense
+A7,15/07/12,Concórdia,2-1,Mogi Mirim
+A1,15/07/12,Náutico-RR,3-1,Penarol-AM
+A3,15/07/12,Baraúnas,3-1,Ypiranga-PE
+A4,15/07/12,Itabaiana,2-1,Feirense
+A7,15/07/12,Cerâmica,1-2,Cianorte
+A6,16/07/12,Nacional N. Serrana,0-0,Guarani-MG
+A1,19/07/12,Atlético-AC,4-0,Náutico-RR
+A4,21/07/12,Vitória da Conquista,0-1,Sousa
+A5,21/07/12,Sobradinho,0-3,CENE
+A7,21/07/12,Marília,0-0,Cerâmica
+A6,22/07/12,Guarani-MG,1-1,Aracruz
+A6,22/07/12,Friburguense,1-1,Nacional N. Serrana
+A7,22/07/12,Cianorte,2-1,Concórdia
+A8,22/07/12,Juventude,0-0,Arapongas
+A3,22/07/12,Petrolina,2-2,Horizonte
+A3,22/07/12,Campinense,2-1,Baraúnas
+A4,22/07/12,CSA,1-0,Itabaiana
+A5,22/07/12,CRAC,2-2,Ceilândia
+A8,22/07/12,Metropolitano,2-1,Mirassol
+A2,25/07/12,Araguaína,0-0,Santos-AP
+A1,25/07/12,Remo,2-2,Atlético-AC
+A6,28/07/12,Guarani-MG,0-1,Nacional N. Serrana
+A5,28/07/12,Sobradinho,2-3,Ceilândia
+A2,28/07/12,Mixto,1-1,Araguaína
+A8,29/07/12,GE Brasil,2-1,Mirassol
+A7,29/07/12,Cianorte,2-1,Cerâmica
+A8,29/07/12,Metropolitano,2-1,Arapongas
+A3,29/07/12,Ypiranga-PE,1-2,Baraúnas
+A3,29/07/12,Campinense,1-0,Horizonte
+A4,29/07/12,CSA,2-1,Sousa
+A4,29/07/12,Feirense,2-0,Itabaiana
+A5,29/07/12,Aparecidense,1-0,CENE
+A6,29/07/12,Volta Redonda,1-0,Aracruz
+A1,29/07/12,Penarol-AM,4-0,Náutico-RR
+A7,29/07/12,Mogi Mirim,3-1,Concórdia
+A6,03/08/12,Aracruz,0-2,Guarani-MG
+A2,04/08/12,Santos-AP,2-2,Mixto
+A5,04/08/12,Ceilândia,1-0,CRAC
+A5,04/08/12,CENE,2-0,Sobradinho
+A2,04/08/12,Araguaína,0-4,Sampaio Corrêa
+A1,04/08/12,Atlético-AC,2-3,Remo
+A7,05/08/12,Cerâmica,2-0,Marília
+A8,05/08/12,Mirassol,0-0,Metropolitano
+A3,05/08/12,Horizonte,2-0,Petrolina
+A4,05/08/12,Sousa,2-1,Vitória da Conquista
+A4,05/08/12,Itabaiana,0-0,CSA
+A7,05/08/12,Concórdia,0-1,Cianorte
+A3,05/08/12,Baraúnas,2-1,Campinense
+A1,05/08/12,Náutico-RR,3-1,Vilhena
+A6,06/08/12,Nacional N. Serrana,1-1,Friburguense
+A8,06/08/12,Arapongas,2-0,Juventude
+A1,08/08/12,Vilhena,3-1,Náutico-RR
+A2,08/08/12,Araguaína,1-2,Mixto
+A2,08/08/12,Santos-AP,0-0,Comercial-PI
+A6,11/08/12,Guarani-MG,0-2,Volta Redonda
+A3,11/08/12,Campinense,1-1,Ypiranga-PE
+A4,11/08/12,Vitória da Conquista,2-0,Itabaiana
+A5,11/08/12,CRAC,4-2,CENE
+A5,11/08/12,Sobradinho,3-3,Aparecidense
+A7,11/08/12,Marília,1-0,Concórdia
+A6,12/08/12,Friburguense,2-1,Aracruz
+A7,12/08/12,Cianorte,0-0,Mogi Mirim
+A8,12/08/12,Juventude,4-0,Mirassol
+A1,12/08/12,Remo,4-0,Náutico-RR
+A2,12/08/12,Mixto,4-0,Comercial-PI
+A3,12/08/12,Petrolina,1-3,Baraúnas
+A8,12/08/12,Metropolitano,2-0,GE Brasil
+A2,12/08/12,Sampaio Corrêa,6-0,Santos-AP
+A4,12/08/12,CSA,5-0,Feirense
+A1,12/08/12,Vilhena,2-1,Penarol-AM
+A1,15/08/12,Atlético-AC,0-2,Vilhena
+A2,15/08/12,Mixto,1-1,Santos-AP
+A2,15/08/12,Sampaio Corrêa,3-0,Araguaína
+A6,16/08/12,Aracruz,1-0,Nacional N. Serrana
+A7,18/08/12,Mogi Mirim,1-1,Marília
+A8,19/08/12,Mirassol,4-1,Arapongas
+A8,19/08/12,GE Brasil,0-1,Juventude
+A2,19/08/12,Santos-AP,4-1,Araguaína
+A3,19/08/12,Ypiranga-PE,3-0,Petrolina
+A4,19/08/12,Feirense,1-0,Vitória da Conquista
+A4,19/08/12,Itabaiana,0-0,Sousa
+A5,19/08/12,CENE,3-1,Ceilândia
+A5,19/08/12,Aparecidense,1-2,CRAC
+A6,19/08/12,Volta Redonda,0-0,Friburguense
+A7,19/08/12,Concórdia,0-2,Cerâmica
+A1,19/08/12,Penarol-AM,4-1,Remo
+A3,19/08/12,Baraúnas,0-0,Horizonte
+A1,19/08/12,Náutico-RR,1-5,Atlético-AC
+A2,20/08/12,Comercial-PI,0-1,Sampaio Corrêa
+A2,22/08/12,Comercial-PI,3-1,Santos-AP
+A2,26/08/12,Araguaína,0-2,Comercial-PI
+A3,26/08/12,Petrolina,1-3,Campinense
+A3,26/08/12,Horizonte,2-1,Ypiranga-PE
+A4,26/08/12,Sousa,0-0,Feirense
+A4,26/08/12,Vitória da Conquista,0-1,CSA
+A5,26/08/12,Ceilândia,2-4,Aparecidense
+A5,26/08/12,CRAC,3-2,Sobradinho
+A6,26/08/12,Nacional N. Serrana,3-2,Volta Redonda
+A6,26/08/12,Friburguense,6-0,Guarani-MG
+A7,26/08/12,Cerâmica,0-0,Mogi Mirim
+A7,26/08/12,Marília,1-1,Cianorte
+A8,26/08/12,Juventude,0-0,Metropolitano
+A8,26/08/12,Arapongas,0-0,GE Brasil
+A2,26/08/12,Sampaio Corrêa,1-0,Mixto
+A1,26/08/12,Vilhena,4-0,Atlético-AC
+A1,29/08/12,Remo,2-1,Vilhena
+A1,29/08/12,Atlético-AC,3-2,Penarol-AM
+1/8,01/09/12,Campinense,2-1,CSA
+1/8,02/09/12,Sousa,0-1,Baraúnas
+1/8,02/09/12,Nacional N. Serrana,2-1,CRAC
+1/8,02/09/12,Ceilândia,0-0,Friburguense
+1/8,02/09/12,Juventude,3-1,Cianorte
+1/8,02/09/12,Mogi Mirim,0-1,Metropolitano
+1/8,02/09/12,Vilhena,2-2,Sampaio Corrêa
+1/8,02/09/12,Mixto,2-0,Remo
+1/8,09/09/12,Friburguense,2-1,Ceilândia
+1/8,09/09/12,Cianorte,3-0,Juventude
+1/8,09/09/12,Remo,2-1,Mixto
+1/8,09/09/12,CRAC,1-0,Nacional N. Serrana
+1/8,09/09/12,Metropolitano,1-2,Mogi Mirim
+1/8,09/09/12,Baraúnas,2-0,Sousa
+1/8,09/09/12,CSA,0-0,Campinense
+1/8,12/09/12,Sampaio Corrêa,4-1,Vilhena
+QF,15/09/12,Campinense,1-1,Baraúnas
+QF,16/09/12,CRAC,2-0,Friburguense
+QF,16/09/12,Mogi Mirim,1-2,Cianorte
+QF,16/09/12,Mixto,1-1,Sampaio Corrêa
+QF,22/09/12,Friburguense,3-1,CRAC
+QF,23/09/12,Cianorte,1-2(2-4 Pen.),Mogi Mirim
+QF,23/09/12,Baraúnas,2-0,Campinense
+QF,23/09/12,Sampaio Corrêa,0-0,Mixto
+SF,30/09/12,Baraúnas,1-1,Sampaio Corrêa
+SF,30/09/12,Mogi Mirim,1-1,CRAC
+SF,05/10/12,CRAC,2-0,Mogi Mirim
+SF,10/10/12,Sampaio Corrêa,1-0,Baraúnas
+F,14/10/12,CRAC,1-1,Sampaio Corrêa
+F,21/10/12,Sampaio Corrêa,2-0,CRAC

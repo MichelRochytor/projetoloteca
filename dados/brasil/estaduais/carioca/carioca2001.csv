@@ -1,0 +1,80 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,30/01/94,Itaperuna,0-0,Madureira
+B,30/01/94,Botafogo,6-0,America-RJ
+A,30/01/94,Vasco,2-0,Volta Redonda
+B,30/01/94,Campo Grande-RJ,0-0,Olaria
+A,31/01/94,Bangu,1-1,Flamengo
+B,02/02/94,Fluminense,0-0,Americano
+B,05/02/94,America-RJ,0-1,Fluminense
+B,06/02/94,Volta Redonda,1-0,Itaperuna
+B,06/02/94,Americano,1-1,Campo Grande-RJ
+B,06/02/94,Olaria,0-0,Botafogo
+A,06/02/94,Flamengo,1-1,Madureira
+A,07/02/94,Vasco,1-0,Bangu
+A,09/02/94,Volta Redonda,0-1,Flamengo
+B,09/02/94,Campo Grande-RJ,0-5,Fluminense
+B,09/02/94,Olaria,1-0,America-RJ
+B,09/02/94,Americano,1-0,Botafogo
+A,10/02/94,Madureira,0-1,Bangu
+B,10/02/94,Itaperuna,1-2,Vasco
+A,20/02/94,Madureira,0-0,Vasco
+B,20/02/94,Campo Grande-RJ,0-1,America-RJ
+B,20/02/94,Botafogo,2-1,Fluminense
+A,20/02/94,Bangu,2-0,Volta Redonda
+B,21/02/94,Flamengo,4-0,Itaperuna
+B,23/02/94,Botafogo,3-1,Campo Grande-RJ
+B,26/02/94,America-RJ,1-1,Americano
+A,27/02/94,Vasco,3-1,Flamengo
+B,27/02/94,Bangu,4-0,Itaperuna
+A,27/02/94,Volta Redonda,0-0,Madureira
+B,28/02/94,Fluminense,3-0,Olaria
+B,02/03/94,America-RJ,0-1,Vasco
+B,02/03/94,Americano,1-3,Flamengo
+B,02/03/94,Madureira,0-1,Botafogo
+B,03/03/94,Olaria,2-1,Itaperuna
+B,03/03/94,Bangu,1-1,Campo Grande-RJ
+B,03/03/94,Fluminense,1-1,Volta Redonda
+B,05/03/94,Volta Redonda,2-2,America-RJ
+B,06/03/94,Vasco,2-0,Botafogo
+B,06/03/94,Itaperuna,1-2,Americano
+B,06/03/94,Madureira,0-0,Fluminense
+A,06/03/94,Bangu,2-1,Olaria
+B,07/03/94,Flamengo,4-0,Campo Grande-RJ
+A,09/03/94,Vasco,2-1,Olaria
+B,09/03/94,Bangu,0-0,Botafogo
+B,09/03/94,Itaperuna,1-2,Fluminense
+B,09/03/94,Madureira,0-0,Americano
+B,10/03/94,Flamengo,3-2,America-RJ
+B,10/03/94,Campo Grande-RJ,0-2,Volta Redonda
+B,12/03/94,Campo Grande-RJ,0-2,Vasco
+B,13/03/94,Bangu,0-0,America-RJ
+B,13/03/94,Fluminense,4-2,Flamengo
+B,13/03/94,Americano,0-0,Volta Redonda
+A,13/03/94,Olaria,1-1,Madureira
+B,14/03/94,Botafogo,4-2,Itaperuna
+B,16/03/94,Fluminense,2-0,Bangu
+B,20/03/94,Madureira,3-0,Campo Grande-RJ
+A,20/03/94,Volta Redonda,2-1,Olaria
+B,20/03/94,Americano,0-0,Olaria
+B,20/03/94,Flamengo,1-1,Botafogo
+B,20/03/94,Itaperuna,2-1,America-RJ
+B,21/03/94,Vasco,0-0,Americano
+A,26/03/94,Olaria,1-2,Flamengo
+B,26/03/94,Campo Grande-RJ,1-2,Itaperuna
+B,26/03/94,Madureira,0-0,America-RJ
+B,26/03/94,Americano,0-2,Bangu
+B,27/03/94,Volta Redonda,1-3,Botafogo
+B,27/03/94,Vasco,0-0,Fluminense
+F,03/04/94,Vasco,4-1,Fluminense
+QDF,08/04/94,Flamengo,3-1,Fluminense
+QDF,10/04/94,Vasco,1-0,Botafogo
+QDF,15/04/94,Flamengo,3-1,Botafogo
+QDF,17/04/94,Vasco,1-1,Fluminense
+QDF,22/04/94,Fluminense,1-1,Botafogo
+QDF,24/04/94,Vasco,1-2,Flamengo
+QDF,29/04/94,Fluminense,7-1,Botafogo
+QDF,01/05/94,Flamengo,1-1,Vasco
+QDF,06/05/94,Vasco,3-1,Botafogo
+QDF,08/05/94,Fluminense,2-0,Flamengo
+QDF,13/05/94,Botafogo,0-1,Flamengo
+QDF,15/05/94,Vasco,2-0,Fluminense

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,25/08/23,Arsenal,1-4,Newcastle
+1,25/08/23,Birmingham City,3-0,Aston Villa
+1,25/08/23,Blackburn Rovers,3-0,Chelsea
+1,25/08/23,Cardiff City,3-2,Bolton Wanderers
+1,25/08/23,Everton,2-1,Nottingham Forest
+1,25/08/23,Huddersfield Town,1-0,Middlesbrough
+1,25/08/23,Manchester City,2-1,Sheffield United
+1,25/08/23,Notts County,2-1,Burnley
+1,25/08/23,Sunderland,0-0,West Ham
+1,25/08/23,Tottenham,2-0,Preston North End
+1,25/08/23,West Bromwich,2-0,Liverpool
+2,27/08/23,Burnley,2-2,Everton
+2,27/08/23,Cardiff City,2-1,Sunderland
+2,27/08/23,Chelsea,0-1,Tottenham
+2,27/08/23,Nottingham Forest,1-1,West Bromwich
+2,27/08/23,Preston North End,1-3,Huddersfield Town
+2,27/08/23,Sheffield United,0-0,Bolton Wanderers
+2,27/08/23,West Ham,1-0,Arsenal
+2,29/08/23,Aston Villa,2-0,Manchester City
+2,29/08/23,Liverpool,6-2,Birmingham City
+2,29/08/23,Middlesbrough,2-3,Notts County
+2,29/08/23,Newcastle,2-1,Blackburn Rovers
+3,01/09/23,Aston Villa,0-0,Birmingham City
+3,01/09/23,Bolton Wanderers,2-2,Cardiff City
+3,01/09/23,Burnley,1-1,Notts County
+3,01/09/23,Chelsea,2-0,Blackburn Rovers
+3,01/09/23,Liverpool,0-0,West Bromwich
+3,01/09/23,Middlesbrough,2-0,Huddersfield Town
+3,01/09/23,Newcastle,1-0,Arsenal
+3,01/09/23,Nottingham Forest,1-0,Everton
+3,01/09/23,Preston North End,2-2,Tottenham
+3,01/09/23,Sheffield United,3-0,Manchester City
+3,01/09/23,West Ham,0-1,Sunderland
+4,03/09/23,Bolton Wanderers,4-2,Sheffield United
+4,03/09/23,Everton,3-3,Burnley
+4,03/09/23,Tottenham,0-1,Chelsea
+4,03/09/23,West Bromwich,3-2,Nottingham Forest
+4,04/09/23,Huddersfield Town,4-0,Preston North End
+4,05/09/23,Birmingham City,2-1,Liverpool
+4,05/09/23,Manchester City,1-2,Aston Villa
+4,05/09/23,Sunderland,0-3,Cardiff City
+4,08/09/23,Everton,0-0,Blackburn Rovers
+4,08/09/23,West Bromwich,4-0,Arsenal
+5,08/09/23,Birmingham City,0-2,Sunderland
+5,08/09/23,Burnley,2-4,Nottingham Forest
+5,08/09/23,Chelsea,0-0,Aston Villa
+5,08/09/23,Manchester City,1-1,Bolton Wanderers
+5,08/09/23,Newcastle,2-2,Sheffield United
+5,08/09/23,Notts County,1-0,Huddersfield Town
+5,08/09/23,Preston North End,0-1,Liverpool
+5,08/09/23,Tottenham,2-1,Middlesbrough
+5,08/09/23,West Ham,0-0,Cardiff City
+5,10/09/23,Arsenal,4-1,West Ham
+6,10/09/23,Birmingham City,0-3,Bolton Wanderers
+5,12/09/23,Newcastle,1-0,Bolton Wanderers
+6,12/09/23,Aston Villa,1-1,Everton
+5,15/09/23,Blackburn Rovers,2-0,Everton
+6,15/09/23,Arsenal,1-0,West Bromwich
+6,15/09/23,Aston Villa,0-0,Chelsea
+6,15/09/23,Bolton Wanderers,0-0,Manchester City
+6,15/09/23,Cardiff City,1-0,West Ham
+6,15/09/23,Huddersfield Town,0-0,Notts County
+6,15/09/23,Liverpool,3-1,Preston North End
+6,15/09/23,Middlesbrough,0-1,Tottenham
+6,15/09/23,Nottingham Forest,0-0,Burnley
+6,15/09/23,Sheffield United,2-1,Newcastle
+7,15/09/23,Sunderland,1-1,Birmingham City
+6,17/09/23,Blackburn Rovers,2-1,Newcastle
+8,19/09/23,Everton,2-0,Aston Villa
+6,22/09/23,Notts County,2-1,Nottingham Forest
+7,22/09/23,Birmingham City,0-2,Arsenal
+7,22/09/23,Burnley,2-0,Liverpool
+7,22/09/23,Chelsea,1-1,Sheffield United
+7,22/09/23,Manchester City,4-1,Sunderland
+7,22/09/23,Newcastle,1-1,Cardiff City
+7,22/09/23,Preston North End,2-2,Aston Villa
+7,22/09/23,Tottenham,0-0,Bolton Wanderers
+7,22/09/23,West Bromwich,3-3,Blackburn Rovers
+7,22/09/23,West Ham,1-1,Middlesbrough
+9,22/09/23,Everton,1-1,Huddersfield Town
+7,29/09/23,Nottingham Forest,1-0,Notts County
+8,29/09/23,Arsenal,0-0,Birmingham City
+8,29/09/23,Aston Villa,5-1,Preston North End
+8,29/09/23,Blackburn Rovers,4-0,West Bromwich
+8,29/09/23,Bolton Wanderers,3-1,Tottenham
+8,29/09/23,Cardiff City,1-0,Newcastle
+8,29/09/23,Liverpool,1-0,Burnley
+8,29/09/23,Middlesbrough,0-1,West Ham
+8,29/09/23,Sheffield United,1-0,Chelsea
+8,29/09/23,Sunderland,5-2,Manchester City
+10,29/09/23,Huddersfield Town,2-0,Everton
+8,04/10/23,Notts County,1-0,Middlesbrough
+9,06/10/23,Burnley,1-2,Aston Villa
+9,06/10/23,Chelsea,1-2,Cardiff City
+9,06/10/23,Manchester City,1-0,Arsenal
+9,06/10/23,Middlesbrough,5-2,Nottingham Forest
+9,06/10/23,Notts County,0-0,Tottenham
+9,06/10/23,Preston North End,1-1,Sheffield United
+9,06/10/23,Sunderland,2-2,Bolton Wanderers
+9,06/10/23,West Bromwich,2-4,Huddersfield Town
+9,06/10/23,West Ham,1-0,Newcastle
+10,06/10/23,Birmingham City,1-1,Blackburn Rovers
+11,06/10/23,Everton,1-0,Liverpool
+10,13/10/23,Arsenal,1-2,Manchester City
+10,13/10/23,Aston Villa,1-1,Burnley
+10,13/10/23,Bolton Wanderers,1-0,Sunderland
+10,13/10/23,Cardiff City,1-1,Chelsea
+10,13/10/23,Huddersfield Town,0-0,West Bromwich
+10,13/10/23,Newcastle,0-0,West Ham
+10,13/10/23,Nottingham Forest,3-1,Middlesbrough
+10,13/10/23,Sheffield United,4-0,Preston North End
+10,13/10/23,Tottenham,1-3,Notts County
+11,13/10/23,Blackburn Rovers,4-1,Birmingham City
+12,13/10/23,Liverpool,1-2,Everton
+11,17/10/23,Sunderland,2-0,Chelsea
+11,20/10/23,Blackburn Rovers,0-1,Manchester City
+11,20/10/23,Bolton Wanderers,1-2,Arsenal
+11,20/10/23,Cardiff City,1-1,Preston North End
+11,20/10/23,Liverpool,4-2,Nottingham Forest
+11,20/10/23,Middlesbrough,1-0,Newcastle
+11,20/10/23,Sheffield United,2-1,Burnley
+11,20/10/23,West Bromwich,1-0,Aston Villa
+12,20/10/23,Birmingham City,0-1,Huddersfield Town
+12,20/10/23,Chelsea,0-0,West Ham
+12,20/10/23,Sunderland,1-0,Tottenham
+13,20/10/23,Notts County,1-1,Everton
+12,27/10/23,Arsenal,0-0,Bolton Wanderers
+12,27/10/23,Aston Villa,4-0,West Bromwich
+12,27/10/23,Burnley,2-0,Sheffield United
+12,27/10/23,Manchester City,3-1,Blackburn Rovers
+12,27/10/23,Newcastle,3-2,Middlesbrough
+12,27/10/23,Nottingham Forest,0-1,Liverpool
+12,27/10/23,Preston North End,3-1,Cardiff City
+13,27/10/23,Huddersfield Town,1-0,Birmingham City
+13,27/10/23,Tottenham,1-1,Sunderland
+13,27/10/23,West Ham,2-0,Chelsea
+14,27/10/23,Everton,3-0,Notts County
+13,03/11/23,Arsenal,2-1,Middlesbrough
+13,03/11/23,Aston Villa,0-0,Notts County
+13,03/11/23,Blackburn Rovers,1-1,Burnley
+13,03/11/23,Cardiff City,3-0,West Bromwich
+13,03/11/23,Liverpool,1-1,Huddersfield Town
+13,03/11/23,Manchester City,1-1,Newcastle
+13,03/11/23,Nottingham Forest,0-0,Tottenham
+14,03/11/23,Chelsea,0-0,Bolton Wanderers
+14,03/11/23,Sunderland,2-1,Preston North End
+14,03/11/23,West Ham,4-1,Birmingham City
+15,03/11/23,Sheffield United,4-0,Everton
+14,10/11/23,Burnley,1-2,Blackburn Rovers
+14,10/11/23,Huddersfield Town,3-1,Liverpool
+14,10/11/23,Middlesbrough,0-0,Arsenal
+14,10/11/23,Newcastle,4-1,Manchester City
+14,10/11/23,Notts County,0-1,Aston Villa
+14,10/11/23,Tottenham,3-0,Nottingham Forest
+14,10/11/23,West Bromwich,2-4,Cardiff City
+15,10/11/23,Birmingham City,2-0,West Ham
+15,10/11/23,Bolton Wanderers,4-0,Chelsea
+15,10/11/23,Preston North End,1-2,Sunderland
+16,10/11/23,Everton,2-0,Sheffield United
+15,17/11/23,Arsenal,1-1,Tottenham
+15,17/11/23,Bolton Wanderers,3-1,Huddersfield Town
+15,17/11/23,Burnley,5-1,West Ham
+15,17/11/23,Manchester City,1-1,Cardiff City
+15,17/11/23,Nottingham Forest,1-2,Sheffield United
+15,17/11/23,Preston North End,1-2,Newcastle
+15,17/11/23,Sunderland,5-1,Blackburn Rovers
+16,17/11/23,Birmingham City,0-0,Notts County
+16,17/11/23,Middlesbrough,2-0,Chelsea
+17,17/11/23,Aston Villa,0-0,Liverpool
+17,17/11/23,Everton,2-0,West Bromwich
+16,24/11/23,Blackburn Rovers,3-2,Sunderland
+16,24/11/23,Cardiff City,1-1,Manchester City
+16,24/11/23,Huddersfield Town,1-0,Bolton Wanderers
+16,24/11/23,Newcastle,3-1,Preston North End
+16,24/11/23,Sheffield United,0-0,Nottingham Forest
+16,24/11/23,Tottenham,3-0,Arsenal
+16,24/11/23,West Ham,0-0,Burnley
+17,24/11/23,Chelsea,2-0,Middlesbrough
+17,24/11/23,Notts County,1-1,Birmingham City
+18,24/11/23,Liverpool,0-1,Aston Villa
+18,24/11/23,West Bromwich,5-0,Everton
+17,01/12/23,Arsenal,2-2,Blackburn Rovers
+17,01/12/23,Bolton Wanderers,1-1,West Ham
+17,01/12/23,Burnley,3-2,Newcastle
+17,01/12/23,Manchester City,1-0,Notts County
+17,01/12/23,Nottingham Forest,0-1,Cardiff City
+17,01/12/23,Sheffield United,1-1,Liverpool
+17,01/12/23,Sunderland,2-1,Huddersfield Town
+17,01/12/23,Tottenham,0-0,West Bromwich
+18,01/12/23,Everton,2-0,Birmingham City
+18,01/12/23,Preston North End,1-1,Chelsea
+19,01/12/23,Aston Villa,0-0,Middlesbrough
+18,08/12/23,Blackburn Rovers,2-0,Arsenal
+18,08/12/23,Cardiff City,4-1,Nottingham Forest
+18,08/12/23,Huddersfield Town,3-2,Sunderland
+18,08/12/23,Liverpool,2-3,Sheffield United
+18,08/12/23,Newcastle,2-0,Burnley
+18,08/12/23,Notts County,2-0,Manchester City
+18,08/12/23,West Bromwich,4-1,Tottenham
+18,08/12/23,West Ham,0-1,Bolton Wanderers
+19,08/12/23,Birmingham City,0-1,Everton
+19,08/12/23,Chelsea,1-2,Preston North End
+20,08/12/23,Middlesbrough,0-2,Aston Villa
+19,15/12/23,Arsenal,1-3,Huddersfield Town
+19,15/12/23,Bolton Wanderers,7-1,Notts County
+19,15/12/23,Burnley,2-0,Chelsea
+19,15/12/23,Liverpool,0-2,Cardiff City
+19,15/12/23,Nottingham Forest,2-1,West Ham
+19,15/12/23,Preston North End,4-0,Middlesbrough
+19,15/12/23,Sheffield United,2-1,Aston Villa
+19,15/12/23,Tottenham,2-1,Blackburn Rovers
+20,15/12/23,Sunderland,3-2,Newcastle
+20,15/12/23,West Bromwich,0-0,Birmingham City
+21,15/12/23,Manchester City,2-1,Everton
+20,22/12/23,Aston Villa,2-2,Sheffield United
+20,22/12/23,Blackburn Rovers,0-1,Tottenham
+20,22/12/23,Cardiff City,2-0,Liverpool
+20,22/12/23,Chelsea,3-2,Burnley
+20,22/12/23,Huddersfield Town,6-1,Arsenal
+20,22/12/23,Middlesbrough,1-2,Preston North End
+20,22/12/23,Notts County,1-1,Bolton Wanderers
+20,22/12/23,West Ham,3-2,Nottingham Forest
+21,22/12/23,Birmingham City,0-0,West Bromwich
+21,22/12/23,Newcastle,0-2,Sunderland
+22,22/12/23,Everton,6-1,Manchester City
+21,25/12/23,Aston Villa,1-1,West Ham
+21,25/12/23,Blackburn Rovers,2-0,Preston North End
+21,25/12/23,Bolton Wanderers,2-0,West Bromwich
+21,25/12/23,Burnley,0-0,Middlesbrough
+21,25/12/23,Liverpool,0-1,Newcastle
+21,25/12/23,Sheffield United,1-1,Cardiff City
+21,25/12/23,Tottenham,1-0,Huddersfield Town
+22,25/12/23,Nottingham Forest,2-0,Chelsea
+21,26/12/23,Notts County,1-2,Arsenal
+22,26/12/23,Birmingham City,3-0,Manchester City
+22,26/12/23,Cardiff City,3-1,Sheffield United
+22,26/12/23,Huddersfield Town,2-1,Tottenham
+22,26/12/23,Middlesbrough,3-0,Burnley
+22,26/12/23,Newcastle,2-1,Liverpool
+22,26/12/23,Preston North End,0-1,Blackburn Rovers
+22,26/12/23,West Bromwich,0-5,Bolton Wanderers
+22,26/12/23,West Ham,1-0,Aston Villa
+23,26/12/23,Chelsea,1-1,Nottingham Forest
+23,26/12/23,Everton,2-3,Sunderland
+22,27/12/23,Arsenal,0-0,Notts County
+22,29/12/23,Manchester City,3-3,West Bromwich
+23,29/12/23,Arsenal,1-0,Chelsea
+23,29/12/23,Aston Villa,2-1,Cardiff City
+23,29/12/23,Blackburn Rovers,1-0,Huddersfield Town
+23,29/12/23,Burnley,1-0,Preston North End
+23,29/12/23,Liverpool,2-0,West Ham
+23,29/12/23,Nottingham Forest,0-0,Newcastle
+23,29/12/23,Sheffield United,0-1,Middlesbrough
+23,29/12/23,Sunderland,1-1,Notts County
+23,29/12/23,Tottenham,1-1,Birmingham City
+24,29/12/23,Bolton Wanderers,2-0,Everton
+23,01/01/24,Manchester City,1-0,Tottenham
+24,01/01/24,Blackburn Rovers,4-1,Notts County
+24,01/01/24,Bolton Wanderers,1-1,Birmingham City
+24,01/01/24,Middlesbrough,0-1,Cardiff City
+24,01/01/24,Sheffield United,0-2,West Ham
+25,01/01/24,Liverpool,3-1,Chelsea
+25,01/01/24,Sunderland,3-0,Everton
+26,01/01/24,Newcastle,4-1,Aston Villa
+24,05/01/24,Chelsea,0-0,Arsenal
+24,05/01/24,Newcastle,4-0,Nottingham Forest
+24,05/01/24,Preston North End,5-0,Burnley
+24,05/01/24,West Bromwich,2-1,Manchester City
+25,05/01/24,Birmingham City,3-2,Tottenham
+25,05/01/24,Cardiff City,0-2,Aston Villa
+25,05/01/24,Huddersfield Town,1-0,Blackburn Rovers
+25,05/01/24,Middlesbrough,0-1,Sheffield United
+25,05/01/24,Notts County,1-2,Sunderland
+25,05/01/24,West Ham,1-0,Liverpool
+26,05/01/24,Everton,2-2,Bolton Wanderers
+25,19/01/24,Arsenal,1-2,Cardiff City
+25,19/01/24,Huddersfield Town,0-1,Chelsea
+25,19/01/24,Manchester City,0-1,Liverpool
+25,19/01/24,West Bromwich,0-3,Burnley
+26,19/01/24,Birmingham City,0-2,Nottingham Forest
+26,19/01/24,Blackburn Rovers,0-0,West Ham
+26,19/01/24,Notts County,0-0,Preston North End
+26,19/01/24,Sunderland,2-2,Sheffield United
+26,19/01/24,Tottenham,2-0,Newcastle
+27,19/01/24,Everton,1-0,Middlesbrough
+28,19/01/24,Bolton Wanderers,1-0,Aston Villa
+26,26/01/24,Burnley,4-0,West Bromwich
+26,26/01/24,Cardiff City,4-0,Arsenal
+26,26/01/24,Chelsea,0-1,Huddersfield Town
+26,26/01/24,Liverpool,0-0,Manchester City
+27,26/01/24,Newcastle,2-2,Tottenham
+27,26/01/24,Nottingham Forest,1-1,Birmingham City
+27,26/01/24,Preston North End,2-1,Notts County
+27,26/01/24,Sheffield United,1-1,Sunderland
+27,26/01/24,West Ham,0-1,Blackburn Rovers
+28,26/01/24,Middlesbrough,1-1,Everton
+29,26/01/24,Aston Villa,1-0,Bolton Wanderers
+27,02/02/24,Preston North End,3-1,Nottingham Forest
+28,02/02/24,Blackburn Rovers,2-0,Middlesbrough
+29,06/02/24,Everton,1-1,Preston North End

@@ -1,0 +1,77 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,31/01/15,Goiás,2-2,Trindade
+B,01/02/15,Anapolina,0-1,Atlético Goianiense
+B,01/02/15,Aparecidense,0-0,Itumbiara
+B,01/02/15,Caldas Novas,2-3,CRAC
+B,01/02/15,Goianésia,3-1,Grêmio Anápolis
+B,04/02/15,Atlético Goianiense,0-0,Aparecidense
+B,04/02/15,Grêmio Anápolis,0-0,Caldas Novas
+B,04/02/15,Itumbiara,1-0,Goianésia
+B,04/02/15,Trindade,1-2,Anapolina
+B,04/02/15,CRAC,1-3,Goiás
+B,08/02/15,Atlético Goianiense,1-2,Goiás
+B,08/02/15,CRAC,0-1,Anapolina
+B,08/02/15,Grêmio Anápolis,1-2,Aparecidense
+B,08/02/15,Itumbiara,3-0,Caldas Novas
+B,08/02/15,Trindade,2-2,Goianésia
+B,11/02/15,Anapolina,2-0,Itumbiara
+B,11/02/15,Aparecidense,3-2,CRAC
+B,11/02/15,Caldas Novas,0-1,Trindade
+B,11/02/15,Goiás,1-0,Grêmio Anápolis
+B,12/02/15,Goianésia,3-0,Atlético Goianiense
+B,18/02/15,CRAC,1-2,Goianésia
+B,18/02/15,Grêmio Anápolis,0-1,Anapolina
+B,18/02/15,Trindade,1-1,Aparecidense
+B,18/02/15,Itumbiara,1-0,Goiás
+B,19/02/15,Atlético Goianiense,1-1,Caldas Novas
+B,22/02/15,CRAC,1-0,Caldas Novas
+B,22/02/15,Grêmio Anápolis,1-0,Goianésia
+B,22/02/15,Itumbiara,0-1,Aparecidense
+B,22/02/15,Trindade,1-1,Goiás
+B,23/02/15,Atlético Goianiense,1-1,Anapolina
+B,01/03/15,Anapolina,0-0,Trindade
+B,01/03/15,Aparecidense,0-1,Atlético Goianiense
+B,01/03/15,Caldas Novas,1-3,Grêmio Anápolis
+B,01/03/15,Goianésia,3-1,Itumbiara
+B,02/03/15,Goiás,2-2,CRAC
+B,07/03/15,Aparecidense,5-0,Grêmio Anápolis
+B,08/03/15,Anapolina,1-1,CRAC
+B,08/03/15,Caldas Novas,0-0,Itumbiara
+B,08/03/15,Goianésia,0-1,Trindade
+B,08/03/15,Goiás,1-0,Atlético Goianiense
+B,11/03/15,Atlético Goianiense,1-2,Goianésia
+B,11/03/15,Itumbiara,1-0,Anapolina
+B,11/03/15,Trindade,1-0,Caldas Novas
+B,12/03/15,CRAC,0-0,Aparecidense
+B,12/03/15,Grêmio Anápolis,1-6,Goiás
+B,14/03/15,Caldas Novas,1-2,Atlético Goianiense
+B,15/03/15,Anapolina,2-2,Grêmio Anápolis
+B,15/03/15,Aparecidense,2-0,Trindade
+B,15/03/15,Goianésia,2-0,CRAC
+B,15/03/15,Goiás,1-0,Itumbiara
+A,21/03/15,Atlético Goianiense,0-0,Itumbiara
+B,21/03/15,Aparecidense,4-0,Caldas Novas
+A,22/03/15,Trindade,1-1,Grêmio Anápolis
+B,22/03/15,Anapolina,0-2,Goiás
+A,25/03/15,Grêmio Anápolis,0-0,CRAC
+B,25/03/15,Caldas Novas,0-2,Goianésia
+B,25/03/15,Goiás,1-1,Aparecidense
+A,26/03/15,Itumbiara,1-2,Trindade
+A,28/03/15,CRAC,0-2,Atlético Goianiense
+A,29/03/15,Grêmio Anápolis,0-2,Itumbiara
+B,29/03/15,Caldas Novas,0-2,Goiás
+B,29/03/15,Goianésia,2-1,Anapolina
+A,05/04/15,Itumbiara,2-0,CRAC
+A,05/04/15,Trindade,1-0,Atlético Goianiense
+B,05/04/15,Anapolina,1-1,Caldas Novas
+B,05/04/15,Goianésia,2-3,Aparecidense
+A,08/04/15,Atlético Goianiense,3-2,Grêmio Anápolis
+A,08/04/15,CRAC,1-1,Trindade
+B,08/04/15,Aparecidense,0-0,Anapolina
+B,08/04/15,Goiás,2-0,Goianésia
+SF,11/04/15,Aparecidense,2-1,Trindade
+SF,12/04/15,Goianésia,2-2,Goiás
+SF,18/04/15,Trindade,0-1,Aparecidense
+SF,19/04/15,Goiás,1-0,Goianésia
+F,26/04/15,Aparecidense,0-2,Goiás
+F,03/05/15,Goiás,1-1,Aparecidense

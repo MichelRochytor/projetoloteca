@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/75,Aston Villa,1-2,Leeds United
+1,15/08/75,Burnley,0-0,Arsenal
+1,15/08/75,Everton,1-4,Coventry City
+1,15/08/75,Ipswich Town,0-3,Newcastle
+1,15/08/75,Leicester City,3-3,Birmingham City
+1,15/08/75,Manchester City,3-0,Norwich City
+1,15/08/75,QPR,2-0,Liverpool
+1,15/08/75,Sheffield United,1-1,Derby County
+1,15/08/75,Stoke City,1-2,West Ham
+1,15/08/75,Tottenham,1-0,Middlesbrough
+1,15/08/75,Wolverhampton,0-2,Manchester United
+2,18/08/75,Birmingham City,0-2,Manchester United
+2,18/08/75,Burnley,1-1,Everton
+2,18/08/75,Coventry City,1-1,Derby County
+2,18/08/75,Liverpool,2-2,West Ham
+2,18/08/75,QPR,1-1,Aston Villa
+2,18/08/75,Sheffield United,1-3,Arsenal
+2,19/08/75,Manchester City,1-1,Leicester City
+2,19/08/75,Newcastle,1-1,Middlesbrough
+2,19/08/75,Norwich City,1-1,Leeds United
+2,19/08/75,Stoke City,2-2,Wolverhampton
+2,19/08/75,Tottenham,1-1,Ipswich Town
+3,22/08/75,Arsenal,0-1,Stoke City
+3,22/08/75,Birmingham City,0-1,Everton
+3,22/08/75,Coventry City,2-0,Manchester City
+3,22/08/75,Derby County,1-5,QPR
+3,22/08/75,Leeds United,1-0,Ipswich Town
+3,22/08/75,Liverpool,3-2,Tottenham
+3,22/08/75,Manchester United,5-1,Sheffield United
+3,22/08/75,Middlesbrough,1-0,Wolverhampton
+3,22/08/75,Newcastle,3-0,Leicester City
+3,22/08/75,Norwich City,5-3,Aston Villa
+3,22/08/75,West Ham,3-2,Burnley
+4,24/08/75,West Ham,1-0,Tottenham
+4,25/08/75,Arsenal,2-1,Norwich City
+4,25/08/75,Everton,3-0,Sheffield United
+4,25/08/75,Ipswich Town,0-0,Burnley
+4,25/08/75,Leeds United,0-3,Liverpool
+4,25/08/75,Middlesbrough,2-0,Birmingham City
+4,25/08/75,Wolverhampton,2-2,QPR
+4,26/08/75,Aston Villa,1-0,Manchester City
+4,26/08/75,Derby County,3-2,Newcastle
+4,26/08/75,Leicester City,1-1,Stoke City
+4,26/08/75,Manchester United,1-1,Coventry City
+5,29/08/75,Aston Villa,1-0,Coventry City
+5,29/08/75,Burnley,4-1,Middlesbrough
+5,29/08/75,Everton,2-0,Derby County
+5,29/08/75,Ipswich Town,4-2,Birmingham City
+5,29/08/75,Leicester City,1-1,Liverpool
+5,29/08/75,Manchester City,4-0,Newcastle
+5,29/08/75,QPR,1-1,West Ham
+5,29/08/75,Sheffield United,0-2,Leeds United
+5,29/08/75,Stoke City,0-1,Manchester United
+5,29/08/75,Tottenham,2-2,Norwich City
+5,29/08/75,Wolverhampton,0-0,Arsenal
+6,05/09/75,Arsenal,1-1,Leicester City
+6,05/09/75,Birmingham City,1-1,QPR
+6,05/09/75,Coventry City,0-0,Ipswich Town
+6,05/09/75,Derby County,3-0,Burnley
+6,05/09/75,Leeds United,3-0,Wolverhampton
+6,05/09/75,Liverpool,1-0,Sheffield United
+6,05/09/75,Manchester United,3-2,Tottenham
+6,05/09/75,Middlesbrough,3-0,Stoke City
+6,05/09/75,Newcastle,3-0,Aston Villa
+6,05/09/75,Norwich City,4-2,Everton
+6,05/09/75,West Ham,1-0,Manchester City
+7,12/09/75,Aston Villa,2-0,Arsenal
+7,12/09/75,Burnley,4-4,Norwich City
+7,12/09/75,Everton,3-0,Newcastle
+7,12/09/75,Ipswich Town,2-0,Liverpool
+7,12/09/75,Leicester City,3-3,West Ham
+7,12/09/75,Manchester City,4-0,Middlesbrough
+7,12/09/75,QPR,1-0,Manchester United
+7,12/09/75,Sheffield United,0-1,Coventry City
+7,12/09/75,Stoke City,3-2,Leeds United
+7,12/09/75,Tottenham,2-3,Derby County
+7,12/09/75,Wolverhampton,2-0,Birmingham City
+8,19/09/75,Arsenal,2-2,Everton
+8,19/09/75,Birmingham City,4-0,Burnley
+8,19/09/75,Coventry City,0-3,Stoke City
+8,19/09/75,Derby County,1-0,Manchester City
+8,19/09/75,Leeds United,1-1,Tottenham
+8,19/09/75,Liverpool,3-0,Aston Villa
+8,19/09/75,Manchester United,1-0,Ipswich Town
+8,19/09/75,Middlesbrough,0-0,QPR
+8,19/09/75,Newcastle,5-1,Wolverhampton
+8,19/09/75,Norwich City,2-0,Leicester City
+8,19/09/75,West Ham,2-0,Sheffield United
+9,22/09/75,Birmingham City,3-2,Newcastle
+9,22/09/75,Coventry City,0-1,Middlesbrough
+9,22/09/75,Ipswich Town,2-0,Norwich City
+9,22/09/75,QPR,1-0,Leicester City
+9,22/09/75,Sheffield United,2-1,Burnley
+9,22/09/75,Wolverhampton,0-0,Aston Villa
+9,23/09/75,Derby County,2-1,Manchester United
+9,23/09/75,Manchester City,1-0,Stoke City
+9,26/09/75,Everton,0-0,Liverpool
+9,26/09/75,Tottenham,0-0,Arsenal
+10,26/09/75,Aston Villa,2-1,Birmingham City
+10,26/09/75,Burnley,0-1,Leeds United
+10,26/09/75,Ipswich Town,0-3,Middlesbrough
+10,26/09/75,Leicester City,0-3,Coventry City
+10,26/09/75,Manchester City,2-2,Manchester United
+10,26/09/75,QPR,1-0,Newcastle
+10,26/09/75,Sheffield United,0-1,Norwich City
+10,26/09/75,Stoke City,1-0,Derby County
+10,26/09/75,Wolverhampton,0-1,West Ham
+10,03/10/75,Newcastle,2-2,Tottenham
+10,03/10/75,West Ham,0-1,Everton
+11,03/10/75,Arsenal,2-3,Manchester City
+11,03/10/75,Birmingham City,2-0,Sheffield United
+11,03/10/75,Coventry City,1-2,Burnley
+11,03/10/75,Derby County,1-0,Ipswich Town
+11,03/10/75,Leeds United,2-1,QPR
+11,03/10/75,Liverpool,2-0,Wolverhampton
+11,03/10/75,Manchester United,0-0,Leicester City
+11,03/10/75,Middlesbrough,0-0,Aston Villa
+11,03/10/75,Norwich City,0-1,Stoke City
+11,10/10/75,Leeds United,1-2,Manchester United
+11,10/10/75,QPR,5-0,Everton
+12,10/10/75,Arsenal,5-0,Coventry City
+12,10/10/75,Aston Villa,1-1,Tottenham
+12,10/10/75,Leicester City,0-0,Middlesbrough
+12,10/10/75,Liverpool,3-1,Birmingham City
+12,10/10/75,Manchester City,0-0,Burnley
+12,10/10/75,Norwich City,0-0,Derby County
+12,10/10/75,Stoke City,0-1,Ipswich Town
+12,10/10/75,West Ham,2-1,Newcastle
+12,10/10/75,Wolverhampton,5-1,Sheffield United
+12,17/10/75,Manchester United,3-1,Arsenal
+13,17/10/75,Birmingham City,2-2,Leeds United
+13,17/10/75,Burnley,1-0,QPR
+13,17/10/75,Coventry City,0-0,Liverpool
+13,17/10/75,Derby County,3-2,Wolverhampton
+13,17/10/75,Everton,2-1,Aston Villa
+13,17/10/75,Ipswich Town,1-1,Leicester City
+13,17/10/75,Middlesbrough,3-0,West Ham
+13,17/10/75,Newcastle,5-2,Norwich City
+13,17/10/75,Sheffield United,0-2,Stoke City
+13,17/10/75,Tottenham,2-2,Manchester City
+13,24/10/75,Arsenal,2-1,Middlesbrough
+13,24/10/75,Liverpool,1-1,Derby County
+13,24/10/75,Wolverhampton,1-2,Everton
+14,24/10/75,Aston Villa,1-1,Burnley
+14,24/10/75,Leeds United,2-0,Coventry City
+14,24/10/75,Leicester City,2-3,Tottenham
+14,24/10/75,Manchester City,1-1,Ipswich Town
+14,24/10/75,Norwich City,1-0,Birmingham City
+14,24/10/75,QPR,1-0,Sheffield United
+14,24/10/75,Stoke City,1-1,Newcastle
+14,24/10/75,West Ham,2-1,Manchester United
+14,31/10/75,Everton,1-1,Leicester City
+14,31/10/75,Middlesbrough,0-1,Liverpool
+14,31/10/75,Tottenham,2-1,Wolverhampton
+15,31/10/75,Birmingham City,1-5,West Ham
+15,31/10/75,Burnley,0-1,Stoke City
+15,31/10/75,Coventry City,1-1,QPR
+15,31/10/75,Derby County,3-2,Leeds United
+15,31/10/75,Ipswich Town,3-0,Aston Villa
+15,31/10/75,Manchester United,1-0,Norwich City
+15,31/10/75,Newcastle,2-0,Arsenal
+15,31/10/75,Sheffield United,2-2,Manchester City
+15,07/11/75,Arsenal,0-1,Derby County
+15,07/11/75,Liverpool,3-1,Manchester United
+15,07/11/75,Stoke City,3-2,Everton
+16,07/11/75,Aston Villa,5-1,Sheffield United
+16,07/11/75,Leeds United,3-0,Newcastle
+16,07/11/75,Leicester City,3-2,Burnley
+16,07/11/75,Manchester City,2-0,Birmingham City
+16,07/11/75,Norwich City,0-1,Middlesbrough
+16,07/11/75,QPR,0-0,Tottenham
+16,07/11/75,West Ham,1-1,Coventry City
+16,07/11/75,Wolverhampton,1-0,Ipswich Town
+16,14/11/75,Everton,1-1,Manchester City
+16,14/11/75,Middlesbrough,0-0,Leeds United
+16,14/11/75,Newcastle,1-2,Liverpool
+17,14/11/75,Birmingham City,3-1,Arsenal
+17,14/11/75,Burnley,1-5,Wolverhampton
+17,14/11/75,Coventry City,1-0,Norwich City
+17,14/11/75,Derby County,2-1,West Ham
+17,14/11/75,Ipswich Town,1-1,QPR
+17,14/11/75,Manchester United,2-0,Aston Villa
+17,14/11/75,Sheffield United,1-2,Leicester City
+17,14/11/75,Tottenham,1-1,Stoke City
+17,21/11/75,Arsenal,3-1,Manchester United
+18,21/11/75,Aston Villa,3-1,Everton
+18,21/11/75,Leeds United,3-0,Birmingham City
+18,21/11/75,Leicester City,0-0,Ipswich Town
+18,21/11/75,Liverpool,1-1,Coventry City
+18,21/11/75,Manchester City,2-1,Tottenham
+18,21/11/75,Norwich City,1-2,Newcastle
+18,21/11/75,QPR,1-0,Burnley
+18,21/11/75,Stoke City,2-1,Sheffield United
+18,21/11/75,West Ham,2-1,Middlesbrough
+18,21/11/75,Wolverhampton,0-0,Derby County
+18,28/11/75,Leeds United,5-2,Everton
+18,28/11/75,Liverpool,1-3,Norwich City
+18,28/11/75,West Ham,1-0,Arsenal
+19,28/11/75,Aston Villa,1-1,Leicester City
+19,28/11/75,Coventry City,3-2,Birmingham City
+19,28/11/75,Derby County,3-2,Middlesbrough
+19,28/11/75,Ipswich Town,1-1,Sheffield United
+19,28/11/75,Manchester United,1-0,Newcastle
+19,28/11/75,QPR,3-2,Stoke City
+19,28/11/75,Tottenham,2-1,Burnley
+19,28/11/75,Wolverhampton,0-4,Manchester City
+19,01/12/75,Liverpool,2-2,Arsenal
+19,05/12/75,Everton,3-3,Ipswich Town
+20,05/12/75,Arsenal,1-2,Leeds United
+20,05/12/75,Birmingham City,2-1,Derby County
+20,05/12/75,Burnley,0-0,Liverpool
+20,05/12/75,Leicester City,2-0,Wolverhampton
+20,05/12/75,Manchester City,0-0,QPR
+20,05/12/75,Middlesbrough,0-0,Manchester United
+20,05/12/75,Newcastle,4-0,Coventry City
+20,05/12/75,Norwich City,1-0,West Ham
+20,05/12/75,Sheffield United,1-2,Tottenham
+20,05/12/75,Stoke City,1-1,Aston Villa
+20,09/12/75,Tottenham,2-2,Everton
+21,12/12/75,Aston Villa,3-2,Norwich City
+21,12/12/75,Burnley,2-0,West Ham
+21,12/12/75,Everton,5-2,Birmingham City
+21,12/12/75,Ipswich Town,2-1,Leeds United
+21,12/12/75,Leicester City,1-0,Newcastle
+21,12/12/75,Manchester City,4-2,Coventry City
+21,12/12/75,QPR,1-1,Derby County
+21,12/12/75,Sheffield United,1-4,Manchester United
+21,12/12/75,Stoke City,2-1,Arsenal
+21,12/12/75,Tottenham,0-4,Liverpool
+21,12/12/75,Wolverhampton,1-2,Middlesbrough
+22,18/12/75,Coventry City,1-2,Everton
+22,19/12/75,Arsenal,1-0,Burnley
+22,19/12/75,Birmingham City,2-1,Leicester City
+22,19/12/75,Derby County,3-2,Sheffield United
+22,19/12/75,Leeds United,1-0,Aston Villa
+22,19/12/75,Liverpool,2-0,QPR
+22,19/12/75,Manchester United,1-0,Wolverhampton
+22,19/12/75,Middlesbrough,1-0,Tottenham
+22,19/12/75,Newcastle,1-1,Ipswich Town
+22,19/12/75,Norwich City,2-2,Manchester City
+22,19/12/75,West Ham,3-1,Stoke City
+23,22/12/75,Everton,1-1,Manchester United
+23,25/12/75,Aston Villa,4-1,West Ham
+23,25/12/75,Burnley,0-1,Newcastle
+23,25/12/75,Ipswich Town,2-0,Arsenal
+23,25/12/75,Leicester City,2-1,Derby County
+23,25/12/75,Manchester City,0-1,Leeds United
+23,25/12/75,QPR,2-0,Norwich City
+23,25/12/75,Sheffield United,1-1,Middlesbrough
+23,25/12/75,Stoke City,1-1,Liverpool
+23,25/12/75,Tottenham,1-3,Birmingham City
+23,25/12/75,Wolverhampton,0-1,Coventry City
+24,26/12/75,Arsenal,2-0,QPR
+24,26/12/75,Birmingham City,1-1,Stoke City
+24,26/12/75,Coventry City,2-2,Tottenham
+24,26/12/75,Derby County,2-0,Aston Villa
+24,26/12/75,Leeds United,4-0,Leicester City
+24,26/12/75,Liverpool,1-0,Manchester City
+24,26/12/75,Manchester United,2-1,Burnley
+24,26/12/75,Middlesbrough,1-1,Everton
+24,26/12/75,Newcastle,1-1,Sheffield United
+24,26/12/75,Norwich City,1-1,Wolverhampton
+24,26/12/75,West Ham,1-2,Ipswich Town
+25,09/01/76,Arsenal,0-0,Aston Villa
+25,09/01/76,Birmingham City,0-1,Wolverhampton
+25,09/01/76,Coventry City,1-0,Sheffield United
+25,09/01/76,Derby County,2-3,Tottenham
+25,09/01/76,Leeds United,2-0,Stoke City
+25,09/01/76,Liverpool,3-3,Ipswich Town
+25,09/01/76,Manchester United,2-1,QPR
+25,09/01/76,Middlesbrough,1-0,Manchester City
+25,09/01/76,Newcastle,5-0,Everton
+25,09/01/76,Norwich City,3-1,Burnley
+25,09/01/76,West Ham,1-1,Leicester City
+26,16/01/76,Aston Villa,1-1,Newcastle
+26,16/01/76,Burnley,1-2,Derby County
+26,16/01/76,Everton,1-1,Norwich City
+26,16/01/76,Ipswich Town,1-1,Coventry City
+26,16/01/76,Leicester City,2-1,Arsenal
+26,16/01/76,Manchester City,3-0,West Ham
+26,16/01/76,QPR,2-1,Birmingham City
+26,16/01/76,Sheffield United,0-0,Liverpool
+26,16/01/76,Stoke City,1-0,Middlesbrough
+26,16/01/76,Tottenham,1-1,Manchester United
+26,16/01/76,Wolverhampton,1-1,Leeds United
+27,23/01/76,West Ham,1-0,QPR
+27,30/01/76,Arsenal,1-0,Sheffield United
+27,30/01/76,Aston Villa,0-2,QPR
+27,30/01/76,Derby County,2-0,Coventry City
+27,30/01/76,Everton,2-3,Burnley
+27,30/01/76,Ipswich Town,1-2,Tottenham
+27,30/01/76,Leeds United,0-3,Norwich City
+27,30/01/76,Leicester City,1-0,Manchester City
+27,30/01/76,Manchester United,3-1,Birmingham City
+27,30/01/76,Middlesbrough,3-3,Newcastle
+27,30/01/76,West Ham,0-4,Liverpool
+27,30/01/76,Wolverhampton,2-1,Stoke City
+28,06/02/76,Birmingham City,2-1,Middlesbrough
+28,06/02/76,Burnley,0-1,Ipswich Town
+28,06/02/76,Coventry City,1-1,Manchester United

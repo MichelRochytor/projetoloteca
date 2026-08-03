@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,17/08/52,Vasco,5-2,Madureira
+C,17/08/52,Botafogo,4-0,São Cristóvão
+C,17/08/52,Flamengo,2-1,Bonsucesso
+C,17/08/52,America-RJ,3-0,Olaria
+C,17/08/52,Bangu,6-0,Canto do Rio
+C,23/08/52,Vasco,2-1,Canto do Rio
+C,23/08/52,America-RJ,3-1,São Cristóvão
+C,24/08/52,Olaria,2-3,Botafogo
+C,24/08/52,Flamengo,2-0,Madureira
+C,24/08/52,Bonsucesso,1-6,Fluminense
+C,30/08/52,America-RJ,6-2,Canto do Rio
+C,31/08/52,Fluminense,2-1,São Cristóvão
+C,31/08/52,Vasco,5-2,Bonsucesso
+C,31/08/52,Flamengo,1-2,Olaria
+C,31/08/52,Bangu,5-0,Madureira
+C,06/09/52,America-RJ,2-4,Bonsucesso
+C,07/09/52,Botafogo,1-1,Canto do Rio
+C,07/09/52,Madureira,1-3,Fluminense
+C,07/09/52,Olaria,4-0,São Cristóvão
+C,07/09/52,Vasco,6-2,Bangu
+C,13/09/52,Flamengo,3-2,Botafogo
+C,14/09/52,Olaria,1-1,Madureira
+C,14/09/52,Bonsucesso,1-1,Canto do Rio
+C,14/09/52,Bangu,5-2,São Cristóvão
+C,19/09/52,Fluminense,2-0,America-RJ
+C,19/09/52,Flamengo,6-0,Canto do Rio
+C,20/09/52,Bangu,5-2,Botafogo
+C,21/09/52,Bonsucesso,3-3,Olaria
+C,21/09/52,Fluminense,1-0,Vasco
+C,21/09/52,Madureira,3-2,São Cristóvão
+C,27/09/52,Fluminense,3-0,Canto do Rio
+C,27/09/52,Bangu,4-2,America-RJ
+C,28/09/52,São Cristóvão,3-3,Bonsucesso
+C,28/09/52,Botafogo,3-2,Madureira
+C,28/09/52,Vasco,3-2,Flamengo
+C,04/10/52,Botafogo,4-1,America-RJ
+C,05/10/52,Flamengo,3-0,Fluminense
+C,05/10/52,Olaria,1-2,Vasco
+C,05/10/52,Madureira,2-2,Canto do Rio
+C,05/10/52,Bonsucesso,0-4,Bangu
+C,11/10/52,Vasco,1-1,Botafogo
+C,11/10/52,Olaria,2-1,Canto do Rio
+C,12/10/52,Fluminense,3-1,Bangu
+C,12/10/52,America-RJ,1-0,Madureira
+C,12/10/52,São Cristóvão,0-9,Flamengo
+C,18/10/52,Vasco,3-0,America-RJ
+C,19/10/52,Bonsucesso,0-3,Botafogo
+C,19/10/52,São Cristóvão,2-2,Canto do Rio
+C,19/10/52,Flamengo,5-3,Bangu
+C,19/10/52,Olaria,1-3,Fluminense
+C,25/10/52,Flamengo,0-0,America-RJ
+C,26/10/52,Fluminense,2-0,Botafogo
+C,26/10/52,Bonsucesso,1-6,Madureira
+C,26/10/52,Bangu,2-2,Olaria
+C,26/10/52,São Cristóvão,1-2,Vasco
+C,09/11/52,Olaria,2-5,America-RJ
+C,09/11/52,Canto do Rio,3-3,Botafogo
+C,09/11/52,Vasco,3-1,São Cristóvão
+C,09/11/52,Madureira,0-2,Flamengo
+C,09/11/52,Bangu,3-1,Bonsucesso
+C,15/11/52,São Cristóvão,2-1,Botafogo
+C,16/11/52,Canto do Rio,1-7,Bangu
+C,16/11/52,Madureira,2-1,America-RJ
+C,16/11/52,Fluminense,3-1,Bonsucesso
+C,16/11/52,Olaria,0-0,Flamengo
+C,22/11/52,São Cristóvão,2-1,America-RJ
+C,22/11/52,Botafogo,1-1,Bonsucesso
+C,23/11/52,Olaria,2-1,Bangu
+C,23/11/52,Fluminense,1-2,Madureira
+C,23/11/52,Canto do Rio,0-1,Vasco
+C,29/11/52,Flamengo,4-2,São Cristóvão
+C,30/11/52,Canto do Rio,0-3,Fluminense
+C,30/11/52,Botafogo,0-1,Vasco
+C,30/11/52,Bonsucesso,0-4,America-RJ
+C,30/11/52,Madureira,1-2,Olaria
+C,06/12/52,America-RJ,1-1,Fluminense
+C,07/12/52,Madureira,0-3,Vasco
+C,07/12/52,Canto do Rio,3-2,Olaria
+C,07/12/52,Bonsucesso,2-0,São Cristóvão
+C,07/12/52,Bangu,0-3,Flamengo
+C,13/12/52,Botafogo,1-3,Fluminense
+C,13/12/52,São Cristóvão,2-4,Bangu
+C,13/12/52,Canto do Rio,3-4,Madureira
+C,14/12/52,Olaria,9-1,Bonsucesso
+C,14/12/52,Flamengo,0-1,Vasco
+C,21/12/52,São Cristóvão,2-5,Fluminense
+C,21/12/52,Madureira,2-1,Bonsucesso
+C,21/12/52,Canto do Rio,0-2,Flamengo
+C,27/12/52,Botafogo,2-1,Bangu
+C,28/12/52,America-RJ,0-2,Vasco
+C,03/01/53,Bonsucesso,1-4,Vasco
+C,03/01/53,America-RJ,2-1,Flamengo
+C,04/01/53,Botafogo,4-1,Olaria
+C,04/01/53,Canto do Rio,2-0,São Cristóvão
+C,04/01/53,Bangu,3-2,Fluminense
+C,10/01/53,Botafogo,3-6,Flamengo
+C,10/01/53,Madureira,2-3,Bangu
+C,11/01/53,Vasco,2-2,Fluminense
+C,11/01/53,São Cristóvão,4-0,Olaria
+C,11/01/53,Canto do Rio,1-4,America-RJ
+C,12/01/53,Bonsucesso,2-5,Flamengo
+C,17/01/53,Fluminense,3-0,Olaria
+C,17/01/53,America-RJ,0-3,Botafogo
+C,17/01/53,São Cristóvão,5-2,Madureira
+C,18/01/53,Bangu,1-2,Vasco
+C,20/01/53,Vasco,1-0,Olaria
+C,20/01/53,Madureira,3-5,Botafogo
+C,20/01/53,Fluminense,1-3,Flamengo
+C,21/01/53,Canto do Rio,1-1,Bonsucesso
+C,22/01/53,America-RJ,1-2,Bangu

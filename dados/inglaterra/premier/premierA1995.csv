@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/95,Newcastle,3-0,Coventry City
+1,19/08/95,Liverpool,1-0,Sheffield Wed.
+1,19/08/95,Aston Villa,3-1,Manchester United
+1,19/08/95,Blackburn Rovers,1-0,QPR
+1,19/08/95,West Ham,1-2,Leeds United
+1,19/08/95,Chelsea,0-0,Everton
+1,19/08/95,Wimbledon,3-2,Bolton Wanderers
+1,19/08/95,Southampton,3-4,Nottingham Forest
+1,19/08/95,Manchester City,1-1,Tottenham
+1,20/08/95,Arsenal,1-1,Middlesbrough
+2,21/08/95,Leeds United,1-0,Liverpool
+2,22/08/95,Bolton Wanderers,1-3,Newcastle
+2,23/08/95,Everton,0-2,Arsenal
+2,23/08/95,Tottenham,0-1,Aston Villa
+2,23/08/95,Nottingham Forest,0-0,Chelsea
+2,23/08/95,Sheffield Wed.,2-1,Blackburn Rovers
+2,23/08/95,Coventry City,2-1,Manchester City
+2,23/08/95,QPR,0-3,Wimbledon
+2,23/08/95,Manchester United,2-1,West Ham
+3,26/08/95,Manchester United,3-1,Wimbledon
+3,26/08/95,Everton,2-0,Southampton
+3,26/08/95,Tottenham,1-3,Liverpool
+3,26/08/95,Nottingham Forest,1-1,West Ham
+3,26/08/95,Middlesbrough,2-0,Chelsea
+3,26/08/95,Leeds United,2-0,Aston Villa
+3,26/08/95,Coventry City,0-0,Arsenal
+3,26/08/95,QPR,1-0,Manchester City
+3,26/08/95,Bolton Wanderers,2-1,Blackburn Rovers
+3,27/08/95,Sheffield Wed.,0-2,Newcastle
+4,28/08/95,Blackburn Rovers,1-2,Manchester United
+4,29/08/95,Arsenal,1-1,Nottingham Forest
+4,30/08/95,Southampton,1-1,Leeds United
+4,30/08/95,Newcastle,1-0,Middlesbrough
+4,30/08/95,Liverpool,1-0,QPR
+4,30/08/95,Aston Villa,1-0,Bolton Wanderers
+4,30/08/95,West Ham,1-1,Tottenham
+4,30/08/95,Chelsea,2-2,Coventry City
+4,30/08/95,Wimbledon,2-2,Sheffield Wed.
+4,30/08/95,Manchester City,0-2,Everton
+5,09/09/95,Everton,2-3,Manchester United
+5,09/09/95,Blackburn Rovers,1-1,Aston Villa
+5,09/09/95,Tottenham,2-1,Leeds United
+5,09/09/95,Wimbledon,1-0,Liverpool
+5,09/09/95,Coventry City,1-1,Nottingham Forest
+5,09/09/95,Southampton,1-0,Newcastle
+5,09/09/95,QPR,0-3,Sheffield Wed.
+5,09/09/95,Bolton Wanderers,1-1,Middlesbrough
+5,10/09/95,Manchester City,0-1,Arsenal
+5,11/09/95,West Ham,1-3,Chelsea
+2,12/09/95,Middlesbrough,0-0,Southampton
+6,16/09/95,Manchester United,3-0,Bolton Wanderers
+6,16/09/95,Newcastle,3-1,Manchester City
+6,16/09/95,Liverpool,3-0,Blackburn Rovers
+6,16/09/95,Aston Villa,2-0,Wimbledon
+6,16/09/95,Arsenal,1-0,West Ham
+6,16/09/95,Chelsea,3-0,Southampton
+6,16/09/95,Middlesbrough,2-1,Coventry City
+6,16/09/95,Leeds United,1-3,QPR
+6,16/09/95,Sheffield Wed.,1-3,Tottenham
+6,17/09/95,Nottingham Forest,3-2,Everton
+7,23/09/95,Liverpool,5-2,Bolton Wanderers
+7,23/09/95,Aston Villa,1-1,Nottingham Forest
+7,23/09/95,Arsenal,4-2,Southampton
+7,23/09/95,Blackburn Rovers,5-1,Coventry City
+7,23/09/95,West Ham,2-1,Everton
+7,23/09/95,Wimbledon,2-4,Leeds United
+7,23/09/95,Sheffield Wed.,0-0,Manchester United
+7,23/09/95,Manchester City,0-1,Middlesbrough
+7,24/09/95,Newcastle,2-0,Chelsea
+7,25/09/95,QPR,2-3,Tottenham
+8,30/09/95,Tottenham,3-1,Wimbledon
+8,30/09/95,Nottingham Forest,3-0,Manchester City
+8,30/09/95,Chelsea,1-0,Arsenal
+8,30/09/95,Middlesbrough,2-0,Blackburn Rovers
+8,30/09/95,Leeds United,2-0,Sheffield Wed.
+8,30/09/95,Coventry City,0-3,Aston Villa
+8,30/09/95,Bolton Wanderers,0-1,QPR
+8,01/10/95,Everton,1-3,Newcastle
+8,01/10/95,Manchester United,2-2,Liverpool
+8,02/10/95,Southampton,0-0,West Ham
+9,14/10/95,Manchester United,1-0,Manchester City
+9,14/10/95,Liverpool,0-0,Coventry City
+9,14/10/95,Aston Villa,0-1,Chelsea
+9,14/10/95,Blackburn Rovers,2-1,Southampton
+9,14/10/95,Tottenham,0-1,Nottingham Forest
+9,14/10/95,Leeds United,0-3,Arsenal
+9,14/10/95,QPR,2-3,Newcastle
+9,14/10/95,Bolton Wanderers,1-1,Everton
+9,15/10/95,Sheffield Wed.,0-1,Middlesbrough
+9,16/10/95,Wimbledon,0-1,West Ham
+10,21/10/95,Newcastle,6-1,Wimbledon
+10,21/10/95,Arsenal,2-0,Aston Villa
+10,21/10/95,Nottingham Forest,3-2,Bolton Wanderers
+10,21/10/95,West Ham,1-1,Blackburn Rovers
+10,21/10/95,Chelsea,1-4,Manchester United
+10,21/10/95,Middlesbrough,1-0,QPR
+10,21/10/95,Coventry City,0-1,Sheffield Wed.
+10,21/10/95,Manchester City,0-0,Leeds United
+10,22/10/95,Everton,1-1,Tottenham
+10,22/10/95,Southampton,1-3,Liverpool
+11,28/10/95,Manchester United,2-0,Middlesbrough
+11,28/10/95,Liverpool,6-0,Manchester City
+11,28/10/95,Aston Villa,1-0,Everton
+11,28/10/95,Blackburn Rovers,3-0,Chelsea
+11,28/10/95,Leeds United,3-1,Coventry City
+11,28/10/95,Wimbledon,1-2,Southampton
+11,28/10/95,Sheffield Wed.,0-1,West Ham
+11,28/10/95,QPR,1-1,Nottingham Forest
+11,29/10/95,Tottenham,1-1,Newcastle
+11,30/10/95,Bolton Wanderers,1-0,Arsenal
+12,04/11/95,Newcastle,2-1,Liverpool
+12,04/11/95,Arsenal,1-0,Manchester United
+12,04/11/95,West Ham,1-4,Aston Villa
+12,04/11/95,Chelsea,0-0,Sheffield Wed.
+12,04/11/95,Middlesbrough,1-1,Leeds United
+12,04/11/95,Coventry City,2-3,Tottenham
+12,04/11/95,Southampton,2-0,QPR
+12,04/11/95,Manchester City,1-0,Bolton Wanderers
+12,05/11/95,Everton,1-0,Blackburn Rovers
+12,06/11/95,Nottingham Forest,4-1,Wimbledon
+14,08/11/95,Newcastle,1-0,Blackburn Rovers
+13,18/11/95,Manchester United,4-1,Southampton
+13,18/11/95,Liverpool,1-2,Everton
+13,18/11/95,Aston Villa,1-1,Newcastle
+13,18/11/95,Blackburn Rovers,7-0,Nottingham Forest
+13,18/11/95,Tottenham,2-1,Arsenal
+13,18/11/95,Leeds United,1-0,Chelsea
+13,18/11/95,Wimbledon,0-0,Middlesbrough
+13,18/11/95,Sheffield Wed.,1-1,Manchester City
+13,18/11/95,Bolton Wanderers,0-3,West Ham
+13,19/11/95,QPR,1-1,Coventry City
+14,20/11/95,Southampton,0-1,Aston Villa
+14,21/11/95,Arsenal,4-2,Sheffield Wed.
+14,21/11/95,Middlesbrough,0-1,Tottenham
+14,22/11/95,Everton,2-0,QPR
+14,22/11/95,West Ham,0-0,Liverpool
+14,22/11/95,Chelsea,3-2,Bolton Wanderers
+14,22/11/95,Coventry City,0-4,Manchester United
+14,22/11/95,Manchester City,1-0,Wimbledon
+15,25/11/95,Newcastle,2-1,Leeds United
+15,25/11/95,Everton,2-2,Sheffield Wed.
+15,25/11/95,West Ham,1-0,QPR
+15,25/11/95,Chelsea,0-0,Tottenham
+15,25/11/95,Middlesbrough,2-1,Liverpool
+15,25/11/95,Coventry City,3-3,Wimbledon
+15,25/11/95,Southampton,1-0,Bolton Wanderers
+15,25/11/95,Manchester City,1-0,Aston Villa
+15,26/11/95,Arsenal,0-0,Blackburn Rovers
+15,27/11/95,Nottingham Forest,1-1,Manchester United
+16,02/12/95,Manchester United,1-1,Chelsea
+16,02/12/95,Liverpool,1-1,Southampton
+16,02/12/95,Aston Villa,1-1,Arsenal
+16,02/12/95,Blackburn Rovers,4-2,West Ham
+16,02/12/95,Tottenham,0-0,Everton
+16,02/12/95,Leeds United,0-1,Manchester City
+16,02/12/95,QPR,1-1,Middlesbrough
+16,02/12/95,Bolton Wanderers,1-1,Nottingham Forest
+16,03/12/95,Wimbledon,3-3,Newcastle
+16,04/12/95,Sheffield Wed.,4-3,Coventry City
+17,09/12/95,Manchester United,2-2,Sheffield Wed.
+17,09/12/95,Tottenham,1-0,QPR
+17,09/12/95,Chelsea,1-0,Newcastle
+17,09/12/95,Middlesbrough,4-1,Manchester City
+17,09/12/95,Leeds United,1-1,Wimbledon
+17,09/12/95,Coventry City,5-0,Blackburn Rovers
+17,09/12/95,Southampton,0-0,Arsenal
+17,09/12/95,Bolton Wanderers,0-1,Liverpool
+17,10/12/95,Nottingham Forest,1-1,Aston Villa
+17,11/12/95,Everton,3-0,West Ham
+18,16/12/95,Newcastle,1-0,Everton
+18,16/12/95,Aston Villa,4-1,Coventry City
+18,16/12/95,Arsenal,1-1,Chelsea
+18,16/12/95,Blackburn Rovers,1-0,Middlesbrough
+18,16/12/95,West Ham,2-1,Southampton
+18,16/12/95,Wimbledon,0-1,Tottenham
+18,16/12/95,Sheffield Wed.,6-2,Leeds United
+18,16/12/95,QPR,2-1,Bolton Wanderers
+18,17/12/95,Liverpool,2-0,Manchester United
+18,18/12/95,Manchester City,1-1,Nottingham Forest
+19,23/12/95,Newcastle,3-1,Nottingham Forest
+19,23/12/95,Liverpool,3-1,Arsenal
+19,23/12/95,Tottenham,2-2,Bolton Wanderers
+19,23/12/95,Middlesbrough,4-2,West Ham
+19,23/12/95,Wimbledon,1-1,Blackburn Rovers
+19,23/12/95,Sheffield Wed.,2-2,Southampton
+19,23/12/95,Coventry City,2-1,Everton
+19,23/12/95,Manchester City,0-1,Chelsea
+19,23/12/95,QPR,1-0,Aston Villa
+19,24/12/95,Leeds United,3-1,Manchester United
+20,26/12/95,Arsenal,3-0,QPR
+20,26/12/95,Chelsea,1-2,Wimbledon
+20,26/12/95,Southampton,0-0,Tottenham
+20,26/12/95,Everton,4-0,Middlesbrough
+20,26/12/95,Nottingham Forest,1-0,Sheffield Wed.
+20,26/12/95,Blackburn Rovers,2-0,Manchester City
+20,27/12/95,Manchester United,2-0,Newcastle
+20,27/12/95,Bolton Wanderers,0-2,Leeds United
+21,30/12/95,Manchester United,2-1,QPR
+21,30/12/95,Arsenal,1-3,Wimbledon
+21,30/12/95,Everton,2-0,Leeds United
+21,30/12/95,Blackburn Rovers,2-1,Tottenham
+21,30/12/95,Nottingham Forest,1-0,Middlesbrough
+21,30/12/95,Chelsea,2-2,Liverpool
+21,30/12/95,Bolton Wanderers,1-2,Coventry City
+22,01/01/96,Liverpool,4-2,Nottingham Forest
+22,01/01/96,Leeds United,0-0,Blackburn Rovers
+22,01/01/96,Wimbledon,2-3,Everton
+22,01/01/96,Sheffield Wed.,4-2,Bolton Wanderers
+22,01/01/96,Coventry City,1-1,Southampton
+22,01/01/96,Manchester City,2-1,West Ham
+22,01/01/96,Middlesbrough,0-2,Aston Villa
+22,01/01/96,Tottenham,4-1,Manchester United
+22,02/01/96,Newcastle,2-0,Arsenal
+22,02/01/96,QPR,1-2,Chelsea
+23,13/01/96,Manchester United,0-0,Aston Villa
+23,13/01/96,Everton,1-1,Chelsea
+23,13/01/96,Tottenham,1-0,Manchester City
+23,13/01/96,Nottingham Forest,1-0,Southampton
+23,13/01/96,Middlesbrough,2-3,Arsenal
+23,13/01/96,Leeds United,2-0,West Ham
+23,13/01/96,Sheffield Wed.,1-1,Liverpool
+23,13/01/96,QPR,0-1,Blackburn Rovers
+23,13/01/96,Bolton Wanderers,1-0,Wimbledon
+23,14/01/96,Coventry City,0-1,Newcastle
+24,20/01/96,Newcastle,2-1,Bolton Wanderers
+24,20/01/96,Liverpool,5-0,Leeds United
+24,20/01/96,Arsenal,1-2,Everton
+24,20/01/96,Blackburn Rovers,3-0,Sheffield Wed.
+24,20/01/96,Chelsea,1-0,Nottingham Forest
+24,20/01/96,Wimbledon,2-1,QPR
+24,20/01/96,Southampton,2-1,Middlesbrough
+24,20/01/96,Manchester City,1-1,Coventry City
+24,21/01/96,Aston Villa,2-1,Tottenham
+24,22/01/96,West Ham,0-1,Manchester United
+21,31/01/96,Southampton,1-1,Manchester City
+14,31/01/96,Nottingham Forest,2-1,Leeds United
+20,31/01/96,Aston Villa,0-2,Liverpool
+20,31/01/96,West Ham,3-2,Coventry City
+25,03/02/96,Newcastle,2-0,Sheffield Wed.
+25,03/02/96,Liverpool,0-0,Tottenham
+25,03/02/96,Aston Villa,3-0,Leeds United
+25,03/02/96,Arsenal,1-1,Coventry City
+25,03/02/96,Blackburn Rovers,3-1,Bolton Wanderers
+25,03/02/96,West Ham,1-0,Nottingham Forest
+25,03/02/96,Wimbledon,2-4,Manchester United
+25,03/02/96,Southampton,2-2,Everton
+25,03/02/96,Manchester City,2-0,QPR
+25,04/02/96,Chelsea,5-0,Middlesbrough
+26,10/02/96,Manchester United,1-0,Blackburn Rovers
+26,10/02/96,Everton,2-0,Manchester City
+26,10/02/96,Nottingham Forest,0-1,Arsenal
+26,10/02/96,Middlesbrough,1-2,Newcastle
+26,10/02/96,Sheffield Wed.,2-1,Wimbledon
+26,10/02/96,Coventry City,1-0,Chelsea
+26,10/02/96,Bolton Wanderers,0-2,Aston Villa
+26,11/02/96,QPR,1-2,Liverpool
+26,12/02/96,Tottenham,0-1,West Ham
+27,17/02/96,Chelsea,1-2,West Ham
+27,17/02/96,Middlesbrough,1-4,Bolton Wanderers
+27,17/02/96,Sheffield Wed.,1-3,QPR
+21,21/02/96,West Ham,2-0,Newcastle
+27,21/02/96,Manchester United,2-0,Everton
+28,24/02/96,Everton,3-0,Nottingham Forest
+28,24/02/96,Blackburn Rovers,2-3,Liverpool
+28,24/02/96,Tottenham,1-0,Sheffield Wed.
+28,24/02/96,West Ham,0-1,Arsenal
+28,24/02/96,Wimbledon,3-3,Aston Villa
+28,24/02/96,Coventry City,0-0,Middlesbrough
+28,24/02/96,Southampton,2-3,Chelsea
+28,24/02/96,Manchester City,3-3,Newcastle
+28,25/02/96,Bolton Wanderers,0-6,Manchester United
+27,28/02/96,Aston Villa,2-0,Blackburn Rovers
+29,02/03/96,Tottenham,1-0,Southampton
+29,02/03/96,Middlesbrough,0-2,Everton
+29,02/03/96,Leeds United,0-1,Bolton Wanderers
+29,02/03/96,Wimbledon,1-1,Chelsea
+29,02/03/96,Sheffield Wed.,1-3,Nottingham Forest
+29,02/03/96,Coventry City,2-2,West Ham
+29,02/03/96,Manchester City,1-1,Blackburn Rovers
+29,02/03/96,QPR,1-1,Arsenal
+29,03/03/96,Liverpool,3-0,Aston Villa
+29,04/03/96,Newcastle,0-1,Manchester United
+27,05/03/96,Arsenal,3-1,Manchester City
+21,06/03/96,Aston Villa,3-2,Sheffield Wed.
+28,06/03/96,QPR,1-2,Leeds United
+30,09/03/96,Aston Villa,4-2,QPR
+30,09/03/96,Everton,2-2,Coventry City
+30,09/03/96,West Ham,2-0,Middlesbrough
+30,12/03/96,Chelsea,1-1,Manchester City
+27,13/03/96,Liverpool,2-2,Wimbledon
+32,13/03/96,Blackburn Rovers,1-0,Leeds United
+31,16/03/96,Liverpool,2-0,Chelsea
+31,16/03/96,Tottenham,2-3,Blackburn Rovers
+31,16/03/96,Middlesbrough,1-1,Nottingham Forest
+31,16/03/96,Wimbledon,0-3,Arsenal
+31,16/03/96,Sheffield Wed.,2-0,Aston Villa
+31,16/03/96,Coventry City,0-2,Bolton Wanderers
+31,16/03/96,Manchester City,2-1,Southampton
+31,16/03/96,QPR,1-1,Manchester United
+31,17/03/96,Leeds United,2-2,Everton

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,14/04/23,Guarani,4-1,Avaí
+1,14/04/23,Ituano,2-0,Ceará
+1,15/04/23,Vila Nova,2-1,Grêmio Novorizontino
+1,15/04/23,Mirassol,1-0,Chapecoense
+1,15/04/23,Sampaio Corrêa,3-3,Atlético Goianiense
+1,15/04/23,Juventude,1-2,Botafogo-SP
+1,16/04/23,Criciúma,2-0,Tombense
+1,16/04/23,Londrina,1-0,ABC
+1,16/04/23,Vitória,3-0,Ponte Preta
+2,21/04/23,Atlético Goianiense,2-1,CRB
+2,21/04/23,Botafogo-SP,1-0,Sampaio Corrêa
+2,21/04/23,Ponte Preta,1-2,Criciúma
+2,22/04/23,Tombense,3-0,Ituano
+2,22/04/23,Avaí,1-0,Mirassol
+2,22/04/23,Grêmio Novorizontino,1-0,Juventude
+2,22/04/23,Ceará,0-3,Guarani
+2,23/04/23,Chapecoense,3-0,Londrina
+2,23/04/23,ABC,0-3,Vitória
+3,28/04/23,Criciúma,1-0,Avaí
+3,28/04/23,Vitória,2-0,Londrina
+3,28/04/23,Guarani,1-0,Ituano
+3,29/04/23,Sampaio Corrêa,1-3,Mirassol
+3,29/04/23,Botafogo-SP,2-0,CRB
+3,29/04/23,Chapecoense,1-1,Ponte Preta
+3,29/04/23,Tombense,1-1,Atlético Goianiense
+3,30/04/23,Grêmio Novorizontino,0-0,Sport
+3,30/04/23,ABC,1-2,Ceará
+3,30/04/23,Vila Nova,1-0,Juventude
+4,01/05/23,Londrina,1-1,Criciúma
+4,02/05/23,Ponte Preta,2-0,Botafogo-SP
+4,02/05/23,CRB,0-0,Sampaio Corrêa
+4,02/05/23,Atlético Goianiense,2-1,Chapecoense
+4,03/05/23,Ituano,3-0,ABC
+4,03/05/23,Mirassol,0-2,Grêmio Novorizontino
+4,03/05/23,Juventude,1-0,Guarani
+4,03/05/23,Avaí,0-3,Vila Nova
+5,05/05/23,Botafogo-SP,0-3,Vitória
+5,06/05/23,Criciúma,2-1,Ituano
+5,06/05/23,Mirassol,1-1,Vila Nova
+5,06/05/23,Sampaio Corrêa,2-1,Juventude
+5,06/05/23,Tombense,0-1,Avaí
+5,06/05/23,Chapecoense,1-1,Grêmio Novorizontino
+5,06/05/23,CRB,1-1,ABC
+5,07/05/23,Ponte Preta,0-0,Ceará
+5,07/05/23,Sport,2-0,Guarani
+5,08/05/23,Atlético Goianiense,2-1,Londrina
+4,10/05/23,Ceará,0-2,Vitória
+4,10/05/23,Sport,3-2,Tombense
+6,12/05/23,Vila Nova,0-0,Criciúma
+6,12/05/23,Avaí,1-4,Chapecoense
+6,13/05/23,Juventude,0-1,Mirassol
+6,13/05/23,Guarani,2-0,Sampaio Corrêa
+6,13/05/23,Grêmio Novorizontino,0-1,CRB
+6,13/05/23,Ceará,2-0,Tombense
+6,14/05/23,Londrina,3-0,Ponte Preta
+6,14/05/23,Vitória,2-3,Atlético Goianiense
+6,14/05/23,ABC,1-2,Botafogo-SP
+6,14/05/23,Ituano,1-1,Sport
+7,19/05/23,Mirassol,2-0,Vitória
+7,19/05/23,Tombense,0-2,Londrina
+7,19/05/23,Atlético Goianiense,0-0,Avaí
+7,20/05/23,Sport,3-0,Botafogo-SP
+7,20/05/23,Ituano,0-2,Grêmio Novorizontino
+7,20/05/23,Sampaio Corrêa,1-0,ABC
+7,21/05/23,Chapecoense,0-2,Juventude
+7,21/05/23,Criciúma,1-2,Ceará
+7,21/05/23,Ponte Preta,1-1,Guarani
+7,21/05/23,CRB,0-3,Vila Nova
+8,23/05/23,Botafogo-SP,1-0,Mirassol
+8,23/05/23,Grêmio Novorizontino,2-0,Avaí
+8,23/05/23,ABC,1-0,Tombense
+8,24/05/23,Vila Nova,1-0,Ituano
+8,24/05/23,Vitória,1-0,CRB
+8,24/05/23,Juventude,3-0,Atlético Goianiense
+8,24/05/23,Londrina,1-3,Ceará
+8,24/05/23,Guarani,3-3,Chapecoense
+8,24/05/23,Criciúma,1-0,Sport
+8,24/05/23,Sampaio Corrêa,0-0,Ponte Preta
+9,27/05/23,Ituano,3-1,Londrina
+9,27/05/23,CRB,1-2,Juventude
+9,27/05/23,Avaí,1-1,Vitória
+9,27/05/23,Atlético Goianiense,1-1,Botafogo-SP
+9,28/05/23,Ponte Preta,1-0,Vila Nova
+9,28/05/23,Mirassol,1-0,Criciúma
+9,28/05/23,Ceará,0-3,Grêmio Novorizontino
+9,28/05/23,Sport,4-1,ABC
+9,28/05/23,Tombense,1-1,Guarani
+9,29/05/23,Chapecoense,0-1,Sampaio Corrêa
+10,02/06/23,Botafogo-SP,0-0,Tombense
+10,02/06/23,Ceará,2-0,Chapecoense
+10,02/06/23,Criciúma,3-0,Atlético Goianiense
+10,02/06/23,Vitória,3-0,Ituano
+10,03/06/23,Juventude,3-2,Avaí
+10,03/06/23,Mirassol,1-0,Ponte Preta
+10,03/06/23,ABC,0-1,Grêmio Novorizontino
+10,03/06/23,Vila Nova,3-0,Sampaio Corrêa
+10,04/06/23,Guarani,0-1,CRB
+10,04/06/23,Londrina,1-2,Sport
+11,06/06/23,Ponte Preta,0-0,ABC
+11,06/06/23,Chapecoense,0-1,Vila Nova
+11,06/06/23,Tombense,1-2,Vitória
+11,06/06/23,Atlético Goianiense,0-3,Ceará
+11,06/06/23,Botafogo-SP,0-2,Ituano
+11,07/06/23,Grêmio Novorizontino,1-0,Guarani
+11,07/06/23,Sport,2-1,Avaí
+11,07/06/23,Sampaio Corrêa,2-0,Londrina
+11,07/06/23,CRB,2-0,Mirassol
+11,08/06/23,Criciúma,0-1,Juventude
+12,09/06/23,ABC,1-1,Chapecoense
+12,10/06/23,Vila Nova,0-0,Guarani
+12,10/06/23,Ituano,1-1,Atlético Goianiense
+12,10/06/23,Grêmio Novorizontino,1-0,Sampaio Corrêa
+12,10/06/23,Ceará,1-3,CRB
+12,11/06/23,Ponte Preta,1-1,Sport
+12,11/06/23,Londrina,1-2,Mirassol
+12,11/06/23,Avaí,1-1,Botafogo-SP
+12,11/06/23,Vitória,0-1,Criciúma
+12,11/06/23,Juventude,1-2,Tombense
+2,18/06/23,Sport,1-0,Vila Nova
+13,21/06/23,CRB,2-2,Ituano
+13,22/06/23,Sport,3-0,Juventude
+13,23/06/23,Atlético Goianiense,1-0,Ponte Preta
+13,24/06/23,Botafogo-SP,0-3,Vila Nova
+13,24/06/23,Avaí,0-0,Londrina
+13,24/06/23,Chapecoense,1-1,Criciúma
+13,24/06/23,Tombense,1-2,Grêmio Novorizontino
+13,25/06/23,Mirassol,3-2,ABC
+13,25/06/23,Sampaio Corrêa,1-1,Ceará
+13,25/06/23,Guarani,2-0,Vitória
+14,27/06/23,Criciúma,2-1,CRB
+14,27/06/23,Chapecoense,1-1,Sport
+14,27/06/23,Vila Nova,1-0,Tombense
+14,27/06/23,Grêmio Novorizontino,0-1,Botafogo-SP
+14,28/06/23,Ceará,0-0,Avaí
+14,28/06/23,ABC,1-1,Atlético Goianiense
+14,28/06/23,Guarani,2-1,Mirassol
+14,28/06/23,Ituano,0-1,Ponte Preta
+14,28/06/23,Vitória,2-1,Sampaio Corrêa
+14,28/06/23,Londrina,1-2,Juventude
+15,30/06/23,Tombense,4-2,Chapecoense
+15,01/07/23,Atlético Goianiense,1-1,Vila Nova
+15,01/07/23,Avaí,0-2,ABC
+15,01/07/23,Sampaio Corrêa,0-2,Criciúma
+15,01/07/23,CRB,2-1,Londrina
+15,02/07/23,Juventude,1-0,Vitória
+15,02/07/23,Sport,2-0,Ceará
+15,02/07/23,Ponte Preta,1-0,Grêmio Novorizontino
+15,03/07/23,Mirassol,0-1,Ituano
+15,03/07/23,Botafogo-SP,1-0,Guarani
+1,05/07/23,CRB,2-0,Sport
+16,07/07/23,Grêmio Novorizontino,2-2,Atlético Goianiense
+16,07/07/23,Ceará,3-0,Botafogo-SP
+16,08/07/23,Guarani,2-1,Londrina
+16,08/07/23,ABC,0-1,Criciúma
+16,08/07/23,Avaí,0-1,Ponte Preta
+16,08/07/23,Ituano,1-1,Juventude
+16,08/07/23,Tombense,0-1,Sampaio Corrêa
+16,09/07/23,Chapecoense,2-1,CRB
+16,09/07/23,Sport,0-0,Mirassol
+16,10/07/23,Vila Nova,1-0,Vitória
+17,13/07/23,Criciúma,1-1,Guarani
+17,14/07/23,Atlético Goianiense,3-1,Sport
+17,14/07/23,Sampaio Corrêa,0-0,Ituano
+17,15/07/23,Juventude,1-1,ABC
+17,15/07/23,Ponte Preta,0-1,Tombense
+17,15/07/23,Londrina,1-0,Vila Nova
+17,16/07/23,Mirassol,1-1,Ceará
+17,16/07/23,Vitória,2-1,Grêmio Novorizontino
+18,17/07/23,Botafogo-SP,1-0,Criciúma
+18,18/07/23,Tombense,2-1,CRB
+18,18/07/23,Chapecoense,1-0,Ituano
+18,18/07/23,Ponte Preta,0-0,Juventude
+18,19/07/23,Atlético Goianiense,2-2,Mirassol
+18,19/07/23,Grêmio Novorizontino,3-0,Londrina
+18,19/07/23,Avaí,2-0,Sampaio Corrêa
+18,19/07/23,Sport,1-2,Vitória
+18,19/07/23,Ceará,1-0,Vila Nova
+18,19/07/23,ABC,0-1,Guarani
+19,21/07/23,CRB,1-0,Ponte Preta
+19,22/07/23,Mirassol,2-0,Tombense
+19,22/07/23,Vila Nova,1-1,ABC
+19,22/07/23,Criciúma,0-1,Grêmio Novorizontino
+19,22/07/23,Ituano,0-1,Avaí
+19,23/07/23,Guarani,1-0,Atlético Goianiense
+19,23/07/23,Juventude,1-0,Ceará
+19,23/07/23,Sampaio Corrêa,1-2,Sport
+19,24/07/23,Vitória,1-0,Chapecoense
+19,24/07/23,Londrina,1-2,Botafogo-SP
+20,28/07/23,Ceará,1-1,Ituano
+20,28/07/23,Sport,2-0,CRB
+20,29/07/23,Chapecoense,0-1,Mirassol
+20,29/07/23,Botafogo-SP,0-2,Juventude
+20,29/07/23,Avaí,1-2,Guarani
+20,29/07/23,ABC,0-0,Londrina
+20,29/07/23,Atlético Goianiense,2-2,Sampaio Corrêa
+20,30/07/23,Tombense,2-2,Criciúma
+20,30/07/23,Grêmio Novorizontino,3-1,Vila Nova
+20,30/07/23,Ponte Preta,2-2,Vitória
+21,01/08/23,Mirassol,2-2,Avaí
+21,01/08/23,Sampaio Corrêa,0-0,Botafogo-SP
+21,01/08/23,CRB,2-1,Atlético Goianiense
+21,02/08/23,Criciúma,2-1,Ponte Preta
+21,02/08/23,Ituano,1-0,Tombense
+21,02/08/23,Guarani,0-0,Ceará
+21,02/08/23,Vila Nova,0-1,Sport
+21,02/08/23,Vitória,2-0,ABC
+21,02/08/23,Juventude,1-0,Grêmio Novorizontino
+21,02/08/23,Londrina,1-1,Chapecoense
+22,04/08/23,Mirassol,0-0,Sampaio Corrêa
+22,05/08/23,Avaí,1-0,Criciúma
+22,05/08/23,Ituano,1-1,Guarani
+22,05/08/23,CRB,0-0,Botafogo-SP
+22,05/08/23,Sport,1-0,Grêmio Novorizontino
+22,06/08/23,Ponte Preta,1-0,Chapecoense
+22,06/08/23,Ceará,1-0,ABC
+22,07/08/23,Juventude,0-2,Vila Nova
+22,07/08/23,Atlético Goianiense,3-2,Tombense
+22,07/08/23,Londrina,2-0,Vitória
+23,11/08/23,Grêmio Novorizontino,2-1,Mirassol
+23,11/08/23,Tombense,0-0,Sport
+23,12/08/23,Criciúma,2-0,Londrina
+23,12/08/23,Botafogo-SP,0-0,Ponte Preta
+23,12/08/23,Sampaio Corrêa,1-1,CRB
+23,12/08/23,Vila Nova,1-1,Avaí
+23,13/08/23,Chapecoense,0-1,Atlético Goianiense
+23,13/08/23,Guarani,0-1,Juventude
+23,13/08/23,Vitória,1-0,Ceará
+23,14/08/23,ABC,1-1,Ituano
+24,17/08/23,Londrina,0-2,Atlético Goianiense
+24,17/08/23,Vila Nova,2-0,Mirassol
+24,18/08/23,Vitória,2-0,Botafogo-SP
+24,18/08/23,Guarani,3-1,Sport
+24,19/08/23,Avaí,4-2,Tombense
+24,19/08/23,Ituano,3-0,Criciúma
+24,19/08/23,ABC,1-2,CRB
+24,19/08/23,Juventude,0-0,Sampaio Corrêa
+24,20/08/23,Grêmio Novorizontino,1-2,Chapecoense
+24,20/08/23,Ceará,1-1,Ponte Preta
+25,22/08/23,Mirassol,0-1,Juventude
+25,22/08/23,Criciúma,1-0,Vila Nova
+17,23/08/23,CRB,1-1,Avaí
+17,23/08/23,Botafogo-SP,1-2,Chapecoense
+25,25/08/23,Ponte Preta,1-0,Londrina
+25,25/08/23,Sport,1-2,Ituano
+25,26/08/23,Sampaio Corrêa,1-1,Guarani
+25,26/08/23,Tombense,2-2,Ceará
+25,26/08/23,CRB,1-0,Grêmio Novorizontino
+25,27/08/23,Chapecoense,0-0,Avaí
+25,27/08/23,Atlético Goianiense,0-0,Vitória
+25,28/08/23,Botafogo-SP,0-0,ABC
+26,30/08/23,Grêmio Novorizontino,2-0,Ituano
+26,31/08/23,Juventude,0-0,Chapecoense
+26,01/09/23,Vitória,0-0,Mirassol
+26,01/09/23,Londrina,1-1,Tombense
+26,02/09/23,Avaí,0-2,Atlético Goianiense
+26,02/09/23,Ceará,1-0,Criciúma
+26,02/09/23,ABC,1-1,Sampaio Corrêa
+26,02/09/23,Guarani,1-0,Ponte Preta
+26,03/09/23,Vila Nova,0-1,CRB
+26,03/09/23,Botafogo-SP,1-1,Sport
+27,05/09/23,Chapecoense,0-1,Guarani
+27,06/09/23,Ceará,3-1,Londrina
+27,07/09/23,Tombense,3-0,ABC
+27,08/09/23,Ituano,1-2,Vila Nova
+27,09/09/23,Ponte Preta,0-0,Sampaio Corrêa
+27,09/09/23,Mirassol,1-0,Botafogo-SP
+27,09/09/23,Sport,3-3,Criciúma
+27,10/09/23,Atlético Goianiense,3-0,Juventude
+27,10/09/23,CRB,6-0,Vitória
+27,11/09/23,Avaí,1-0,Grêmio Novorizontino
+28,14/09/23,Londrina,2-2,Ituano
+28,15/09/23,Vila Nova,1-1,Ponte Preta
+28,15/09/23,ABC,0-1,Sport
+28,16/09/23,Criciúma,2-1,Mirassol
+28,16/09/23,Botafogo-SP,1-0,Atlético Goianiense
+28,16/09/23,Sampaio Corrêa,2-0,Chapecoense
+28,16/09/23,Juventude,3-1,CRB
+28,17/09/23,Guarani,3-0,Tombense
+28,17/09/23,Vitória,3-0,Avaí
+28,18/09/23,Grêmio Novorizontino,4-1,Ceará
+29,19/09/23,Sampaio Corrêa,2-1,Vila Nova
+29,22/09/23,Ponte Preta,0-3,Mirassol
+29,22/09/23,Atlético Goianiense,3-1,Criciúma
+29,22/09/23,Ituano,0-2,Vitória
+29,23/09/23,Chapecoense,1-1,Ceará
+29,23/09/23,CRB,1-0,Guarani
+29,23/09/23,Tombense,0-0,Botafogo-SP
+29,23/09/23,Sport,4-0,Londrina
+29,25/09/23,Avaí,0-2,Juventude
+29,25/09/23,Grêmio Novorizontino,2-1,ABC
+30,28/09/23,Mirassol,1-0,CRB
+30,28/09/23,Londrina,1-0,Sampaio Corrêa
+30,29/09/23,Avaí,2-2,Sport
+30,29/09/23,Vitória,1-0,Tombense
+30,30/09/23,Juventude,1-0,Criciúma
+30,30/09/23,Guarani,2-1,Grêmio Novorizontino
+30,30/09/23,Ituano,1-1,Botafogo-SP
+30,30/09/23,ABC,2-0,Ponte Preta
+30,01/10/23,Vila Nova,0-0,Chapecoense
+30,01/10/23,Ceará,0-1,Atlético Goianiense

@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,20/01/13,Ypiranga-PE,0-0,Chã Grande
+1F,20/01/13,Porto-PE,0-4,Central
+1F,20/01/13,Pesqueira,1-0,Belo Jardim
+1F,20/01/13,Serra Talhada,2-1,Petrolina
+1F,23/01/13,Chã Grande,2-2,Náutico
+1F,23/01/13,Petrolina,0-1,Porto-PE
+1F,23/01/13,Central,1-0,Pesqueira
+1F,23/01/13,Belo Jardim,2-1,Serra Talhada
+1F,26/01/13,Náutico,3-1,Ypiranga-PE
+1F,27/01/13,Porto-PE,0-0,Belo Jardim
+1F,27/01/13,Pesqueira,1-1,Petrolina
+1F,27/01/13,Serra Talhada,3-2,Central
+1F,30/01/13,Belo Jardim,1-1,Central
+1F,30/01/13,Náutico,3-1,Pesqueira
+1F,30/01/13,Ypiranga-PE,1-0,Porto-PE
+1F,30/01/13,Chã Grande,0-1,Serra Talhada
+1F,02/02/13,Porto-PE,0-3,Náutico
+1F,03/02/13,Petrolina,0-1,Belo Jardim
+1F,03/02/13,Serra Talhada,1-0,Ypiranga-PE
+1F,03/02/13,Pesqueira,2-1,Chã Grande
+1F,06/02/13,Central,1-0,Petrolina
+1F,06/02/13,Náutico,2-1,Serra Talhada
+1F,06/02/13,Ypiranga-PE,0-0,Pesqueira
+1F,06/02/13,Chã Grande,1-0,Porto-PE
+1F,13/02/13,Serra Talhada,1-4,Pesqueira
+1F,13/02/13,Belo Jardim,1-0,Ypiranga-PE
+1F,13/02/13,Central,2-1,Chã Grande
+1F,13/02/13,Petrolina,0-1,Náutico
+1F,16/02/13,Porto-PE,0-0,Serra Talhada
+1F,17/02/13,Ypiranga-PE,2-1,Petrolina
+1F,17/02/13,Chã Grande,0-1,Belo Jardim
+1F,17/02/13,Náutico,0-1,Central
+1F,20/02/13,Pesqueira,0-0,Porto-PE
+1F,20/02/13,Petrolina,0-1,Chã Grande
+1F,20/02/13,Central,2-1,Ypiranga-PE
+1F,20/02/13,Belo Jardim,2-3,Náutico
+2F,23/02/13,Santa Cruz,2-1,Pesqueira
+2F,24/02/13,Ypiranga-PE,3-3,Porto-PE
+2F,24/02/13,Serra Talhada,4-0,Chã Grande
+2F,24/02/13,Salgueiro,2-1,Sport
+2F,24/02/13,Central,1-0,Belo Jardim
+2F,24/02/13,Náutico,8-0,Petrolina
+2F,27/02/13,Sport,3-2,Serra Talhada
+2F,27/02/13,Chã Grande,1-1,Ypiranga-PE
+2F,27/02/13,Porto-PE,2-1,Salgueiro
+2F,27/02/13,Petrolina,2-1,Central
+2F,27/02/13,Pesqueira,3-2,Náutico
+2F,27/02/13,Belo Jardim,1-2,Santa Cruz
+2F,02/03/13,Náutico,5-3,Chã Grande
+2F,03/03/13,Santa Cruz,0-1,Salgueiro
+2F,03/03/13,Central,0-1,Sport
+2F,03/03/13,Belo Jardim,1-1,Porto-PE
+2F,03/03/13,Pesqueira,1-2,Serra Talhada
+2F,03/03/13,Petrolina,2-3,Ypiranga-PE
+2F,06/03/13,Porto-PE,2-1,Petrolina
+2F,06/03/13,Sport,1-1,Pesqueira
+2F,06/03/13,Ypiranga-PE,0-2,Santa Cruz
+2F,06/03/13,Chã Grande,1-1,Central
+2F,06/03/13,Serra Talhada,2-2,Belo Jardim
+2F,06/03/13,Salgueiro,0-4,Náutico
+2F,09/03/13,Náutico,3-0,Belo Jardim
+2F,10/03/13,Sport,2-0,Porto-PE
+2F,10/03/13,Petrolina,1-0,Pesqueira
+2F,10/03/13,Salgueiro,1-2,Chã Grande
+2F,10/03/13,Ypiranga-PE,2-1,Serra Talhada
+2F,11/03/13,Santa Cruz,2-0,Central
+2F,13/03/13,Pesqueira,0-1,Salgueiro
+2F,13/03/13,Náutico,3-0,Porto-PE
+2F,13/03/13,Petrolina,0-0,Sport
+2F,14/03/13,Central,2-1,Serra Talhada
+2F,14/03/13,Belo Jardim,2-1,Ypiranga-PE
+2F,14/03/13,Santa Cruz,0-1,Chã Grande
+2F,16/03/13,Salgueiro,1-1,Petrolina
+2F,17/03/13,Serra Talhada,1-1,Santa Cruz
+2F,17/03/13,Ypiranga-PE,2-1,Central
+2F,17/03/13,Chã Grande,1-2,Belo Jardim
+2F,17/03/13,Porto-PE,3-4,Pesqueira
+2F,17/03/13,Sport,2-1,Náutico
+2F,20/03/13,Central,0-4,Náutico
+2F,24/03/13,Chã Grande,1-1,Porto-PE
+2F,24/03/13,Serra Talhada,2-0,Salgueiro
+2F,24/03/13,Ypiranga-PE,2-2,Sport
+2F,24/03/13,Belo Jardim,2-2,Pesqueira
+2F,24/03/13,Santa Cruz,1-0,Petrolina
+2F,27/03/13,Sport,5-0,Chã Grande
+2F,31/03/13,Porto-PE,4-0,Serra Talhada
+2F,31/03/13,Salgueiro,0-2,Ypiranga-PE
+2F,31/03/13,Petrolina,1-1,Belo Jardim
+2F,31/03/13,Pesqueira,3-2,Central
+2F,31/03/13,Náutico,0-2,Santa Cruz
+2F,06/04/13,Sport,5-1,Belo Jardim
+2F,07/04/13,Pesqueira,2-0,Chã Grande
+2F,07/04/13,Petrolina,2-0,Serra Talhada
+2F,07/04/13,Salgueiro,0-0,Central
+2F,07/04/13,Porto-PE,1-1,Santa Cruz
+2F,07/04/13,Náutico,0-2,Ypiranga-PE
+2F,14/04/13,Ypiranga-PE,2-2,Pesqueira
+2F,14/04/13,Chã Grande,2-1,Petrolina
+2F,14/04/13,Serra Talhada,0-2,Náutico
+2F,14/04/13,Belo Jardim,3-1,Salgueiro
+2F,14/04/13,Central,3-0,Porto-PE
+2F,14/04/13,Santa Cruz,2-2,Sport
+SF,21/04/13,Ypiranga-PE,1-5,Sport
+SF,21/04/13,Santa Cruz,1-0,Náutico
+SF,28/04/13,Sport,4-2,Ypiranga-PE
+SF,28/04/13,Náutico,2-1,Santa Cruz
+3/4,04/05/13,Ypiranga-PE,1-1,Náutico
+F,05/05/13,Santa Cruz,1-0,Sport
+3/4,08/05/13,Náutico,3-0,Ypiranga-PE
+F,12/05/13,Sport,0-2,Santa Cruz

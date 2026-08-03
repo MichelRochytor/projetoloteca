@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/08/03,Birmingham City,1-0,Tottenham
+1,16/08/03,Portsmouth,2-1,Aston Villa
+1,16/08/03,Blackburn Rovers,5-1,Wolverhampton
+1,16/08/03,Fulham,3-2,Middlesbrough
+1,16/08/03,Arsenal,2-1,Everton
+1,16/08/03,Manchester United,4-0,Bolton
+1,16/08/03,Leicester City,2-2,Southampton
+1,17/08/03,Charlton Athletic,0-3,Manchester City
+1,17/08/03,Leeds United,2-2,Newcastle
+1,17/08/03,Liverpool,1-2,Chelsea
+2,22/08/03,Wolverhampton,0-4,Charlton Athletic
+2,22/08/03,Tottenham,2-1,Leeds United
+2,22/08/03,Everton,3-1,Fulham
+2,23/08/03,Newcastle,1-2,Manchester United
+2,23/08/03,Chelsea,2-1,Leicester City
+2,23/08/03,Southampton,0-0,Birmingham City
+2,23/08/03,Manchester City,1-1,Portsmouth
+2,23/08/03,Bolton,2-2,Blackburn Rovers
+2,24/08/03,Aston Villa,0-0,Liverpool
+2,24/08/03,Middlesbrough,0-4,Arsenal
+3,25/08/03,Blackburn Rovers,2-3,Manchester City
+3,26/08/03,Portsmouth,4-0,Bolton
+3,26/08/03,Leicester City,0-0,Middlesbrough
+3,26/08/03,Leeds United,0-0,Southampton
+3,26/08/03,Charlton Athletic,2-2,Everton
+3,27/08/03,Arsenal,2-0,Aston Villa
+3,27/08/03,Manchester United,1-0,Wolverhampton
+3,27/08/03,Liverpool,0-0,Tottenham
+4,29/08/03,Aston Villa,3-1,Leicester City
+4,29/08/03,Middlesbrough,2-3,Leeds United
+4,29/08/03,Newcastle,0-1,Birmingham City
+4,29/08/03,Bolton,0-0,Charlton Athletic
+4,30/08/03,Everton,0-3,Liverpool
+4,30/08/03,Wolverhampton,0-0,Portsmouth
+4,30/08/03,Tottenham,0-3,Fulham
+4,30/08/03,Chelsea,2-2,Blackburn Rovers
+4,31/08/03,Southampton,1-0,Manchester United
+4,31/08/03,Manchester City,1-2,Arsenal
+5,12/09/03,Everton,2-2,Newcastle
+5,12/09/03,Southampton,2-0,Wolverhampton
+5,12/09/03,Chelsea,4-2,Tottenham
+5,12/09/03,Blackburn Rovers,1-3,Liverpool
+5,12/09/03,Bolton,2-0,Middlesbrough
+5,13/09/03,Charlton Athletic,0-2,Manchester United
+5,13/09/03,Arsenal,1-1,Portsmouth
+5,13/09/03,Manchester City,4-1,Aston Villa
+5,14/09/03,Birmingham City,2-2,Fulham
+5,15/09/03,Leicester City,4-0,Leeds United
+6,19/09/03,Wolverhampton,0-5,Chelsea
+6,19/09/03,Fulham,2-2,Manchester City
+6,19/09/03,Leeds United,0-2,Birmingham City
+6,19/09/03,Newcastle,0-0,Bolton
+6,19/09/03,Tottenham,1-3,Southampton
+6,19/09/03,Liverpool,2-1,Leicester City
+6,19/09/03,Portsmouth,1-2,Blackburn Rovers
+6,19/09/03,Aston Villa,2-1,Charlton Athletic
+6,20/09/03,Middlesbrough,1-0,Everton
+6,21/09/03,Manchester United,0-0,Arsenal
+7,26/09/03,Arsenal,3-2,Newcastle
+7,26/09/03,Chelsea,1-0,Aston Villa
+7,26/09/03,Bolton,1-1,Wolverhampton
+7,26/09/03,Birmingham City,2-0,Portsmouth
+7,27/09/03,Southampton,0-1,Middlesbrough
+7,27/09/03,Leicester City,1-4,Manchester United
+7,27/09/03,Everton,4-0,Leeds United
+7,27/09/03,Charlton Athletic,3-2,Liverpool
+7,27/09/03,Blackburn Rovers,0-2,Fulham
+7,28/09/03,Manchester City,0-0,Tottenham
+8,04/10/03,Liverpool,1-2,Arsenal
+8,04/10/03,Leeds United,2-1,Blackburn Rovers
+8,04/10/03,Manchester United,3-0,Birmingham City
+8,04/10/03,Portsmouth,1-2,Charlton Athletic
+8,04/10/03,Wolverhampton,1-0,Manchester City
+8,04/10/03,Tottenham,3-0,Everton
+8,04/10/03,Fulham,2-0,Leicester City
+8,04/10/03,Newcastle,1-0,Southampton
+8,04/10/03,Middlesbrough,1-2,Chelsea
+8,05/10/03,Aston Villa,1-1,Bolton
+3,14/10/03,Birmingham City,0-0,Chelsea
+9,18/10/03,Leeds United,0-1,Manchester United
+9,18/10/03,Fulham,0-0,Wolverhampton
+9,18/10/03,Middlesbrough,0-1,Newcastle
+9,18/10/03,Portsmouth,1-0,Liverpool
+9,18/10/03,Manchester City,6-2,Bolton
+9,18/10/03,Arsenal,2-1,Chelsea
+9,19/10/03,Birmingham City,0-0,Aston Villa
+9,19/10/03,Leicester City,1-2,Tottenham
+9,19/10/03,Everton,0-0,Southampton
+9,20/10/03,Blackburn Rovers,0-1,Charlton Athletic
+3,21/10/03,Fulham,2-3,Newcastle
+10,25/10/03,Bolton,0-1,Birmingham City
+10,25/10/03,Liverpool,3-1,Leeds United
+10,25/10/03,Newcastle,3-0,Portsmouth
+10,25/10/03,Chelsea,1-0,Manchester City
+10,25/10/03,Aston Villa,0-0,Everton
+10,25/10/03,Southampton,2-0,Blackburn Rovers
+10,25/10/03,Wolverhampton,4-3,Leicester City
+10,25/10/03,Manchester United,1-3,Fulham
+10,26/10/03,Charlton Athletic,1-1,Arsenal
+10,26/10/03,Tottenham,0-0,Middlesbrough
+11,01/11/03,Newcastle,1-1,Aston Villa
+11,01/11/03,Everton,0-1,Chelsea
+11,01/11/03,Manchester United,3-0,Portsmouth
+11,01/11/03,Tottenham,0-1,Bolton
+11,01/11/03,Southampton,0-2,Manchester City
+11,01/11/03,Middlesbrough,2-0,Wolverhampton
+11,01/11/03,Leeds United,1-4,Arsenal
+11,02/11/03,Fulham,1-2,Liverpool
+11,02/11/03,Leicester City,2-0,Blackburn Rovers
+11,03/11/03,Birmingham City,1-2,Charlton Athletic
+12,08/11/03,Wolverhampton,1-1,Birmingham City
+12,08/11/03,Portsmouth,6-1,Leeds United
+12,08/11/03,Aston Villa,0-2,Middlesbrough
+12,08/11/03,Charlton Athletic,3-1,Fulham
+12,08/11/03,Bolton,0-0,Southampton
+12,08/11/03,Arsenal,2-1,Tottenham
+12,09/11/03,Liverpool,1-2,Manchester United
+12,09/11/03,Manchester City,0-3,Leicester City
+12,09/11/03,Chelsea,5-0,Newcastle
+12,10/11/03,Blackburn Rovers,2-1,Everton
+13,22/11/03,Birmingham City,0-3,Arsenal
+13,22/11/03,Everton,2-0,Wolverhampton
+13,22/11/03,Leeds United,0-2,Bolton
+13,22/11/03,Leicester City,1-1,Charlton Athletic
+13,22/11/03,Southampton,0-1,Chelsea
+13,22/11/03,Manchester United,2-1,Blackburn Rovers
+13,22/11/03,Middlesbrough,0-0,Liverpool
+13,22/11/03,Newcastle,3-0,Manchester City
+13,23/11/03,Tottenham,2-1,Aston Villa
+13,24/11/03,Fulham,2-0,Portsmouth
+14,29/11/03,Wolverhampton,1-1,Newcastle
+14,29/11/03,Aston Villa,1-0,Southampton
+14,29/11/03,Portsmouth,0-2,Leicester City
+14,29/11/03,Charlton Athletic,0-1,Leeds United
+14,29/11/03,Blackburn Rovers,1-0,Tottenham
+14,29/11/03,Bolton,2-0,Everton
+14,30/11/03,Arsenal,0-0,Fulham
+14,30/11/03,Manchester City,0-1,Middlesbrough
+14,30/11/03,Liverpool,3-1,Birmingham City
+14,30/11/03,Chelsea,1-0,Manchester United
+15,06/12/03,Newcastle,1-1,Liverpool
+15,06/12/03,Leeds United,1-1,Chelsea
+15,06/12/03,Fulham,2-1,Bolton
+15,06/12/03,Tottenham,5-2,Wolverhampton
+15,06/12/03,Middlesbrough,0-0,Portsmouth
+15,06/12/03,Manchester United,4-0,Aston Villa
+15,06/12/03,Leicester City,1-1,Arsenal
+15,06/12/03,Birmingham City,0-4,Blackburn Rovers
+15,07/12/03,Everton,0-0,Manchester City
+15,07/12/03,Southampton,3-2,Charlton Athletic
+16,13/12/03,Manchester United,3-1,Manchester City
+16,13/12/03,Leicester City,0-2,Birmingham City
+16,13/12/03,Portsmouth,1-2,Everton
+16,13/12/03,Newcastle,4-0,Tottenham
+16,13/12/03,Middlesbrough,0-0,Charlton Athletic
+16,13/12/03,Liverpool,1-2,Southampton
+16,13/12/03,Chelsea,1-2,Bolton
+16,14/12/03,Aston Villa,3-2,Wolverhampton
+16,14/12/03,Arsenal,1-0,Blackburn Rovers
+16,14/12/03,Leeds United,3-2,Fulham
+17,20/12/03,Fulham,0-1,Chelsea
+17,20/12/03,Blackburn Rovers,0-2,Aston Villa
+17,20/12/03,Charlton Athletic,0-0,Newcastle
+17,20/12/03,Everton,3-2,Leicester City
+17,20/12/03,Bolton,1-1,Arsenal
+17,21/12/03,Southampton,3-0,Portsmouth
+17,21/12/03,Tottenham,1-2,Manchester United
+17,22/12/03,Manchester City,1-1,Leeds United
+18,26/12/03,Fulham,2-0,Southampton
+18,26/12/03,Charlton Athletic,4-2,Chelsea
+18,26/12/03,Manchester United,3-2,Everton
+18,26/12/03,Arsenal,3-0,Wolverhampton
+18,26/12/03,Birmingham City,2-1,Manchester City
+18,26/12/03,Portsmouth,2-0,Tottenham
+18,26/12/03,Leicester City,1-1,Newcastle
+18,26/12/03,Liverpool,3-1,Bolton
+18,26/12/03,Blackburn Rovers,2-2,Middlesbrough
+18,26/12/03,Leeds United,0-0,Aston Villa
+19,28/12/03,Chelsea,3-0,Portsmouth
+19,28/12/03,Newcastle,0-1,Blackburn Rovers
+19,28/12/03,Wolverhampton,3-1,Leeds United
+19,28/12/03,Aston Villa,3-0,Fulham
+19,28/12/03,Bolton,2-2,Leicester City
+19,28/12/03,Everton,1-0,Birmingham City
+19,28/12/03,Manchester City,2-2,Liverpool
+19,28/12/03,Tottenham,0-1,Charlton Athletic
+19,28/12/03,Middlesbrough,0-1,Manchester United
+19,29/12/03,Southampton,0-1,Arsenal
+20,06/01/04,Aston Villa,2-1,Portsmouth
+20,07/01/04,Wolverhampton,2-2,Blackburn Rovers
+20,07/01/04,Tottenham,4-1,Birmingham City
+20,07/01/04,Southampton,0-0,Leicester City
+20,07/01/04,Manchester City,1-1,Charlton Athletic
+20,07/01/04,Newcastle,1-0,Leeds United
+20,07/01/04,Middlesbrough,2-1,Fulham
+20,07/01/04,Bolton,1-2,Manchester United
+20,07/01/04,Chelsea,0-1,Liverpool
+20,07/01/04,Everton,1-1,Arsenal
+21,10/01/04,Arsenal,4-1,Middlesbrough
+21,10/01/04,Charlton Athletic,2-0,Wolverhampton
+21,10/01/04,Leeds United,0-1,Tottenham
+21,10/01/04,Liverpool,1-0,Aston Villa
+21,10/01/04,Fulham,2-1,Everton
+21,10/01/04,Blackburn Rovers,3-4,Bolton
+21,10/01/04,Birmingham City,2-1,Southampton
+21,10/01/04,Portsmouth,4-2,Manchester City
+21,11/01/04,Leicester City,0-4,Chelsea
+21,11/01/04,Manchester United,0-0,Newcastle
+22,17/01/04,Wolverhampton,1-0,Manchester United
+22,17/01/04,Bolton,1-0,Portsmouth
+22,17/01/04,Manchester City,1-1,Blackburn Rovers
+22,17/01/04,Everton,0-1,Charlton Athletic
+22,17/01/04,Tottenham,2-1,Liverpool
+22,17/01/04,Southampton,2-1,Leeds United
+22,17/01/04,Middlesbrough,3-3,Leicester City
+22,18/01/04,Aston Villa,0-2,Arsenal
+22,18/01/04,Chelsea,0-0,Birmingham City
+22,19/01/04,Newcastle,3-1,Fulham
+17,21/01/04,Wolverhampton,1-1,Liverpool
+23,31/01/04,Manchester United,3-2,Southampton
+23,31/01/04,Birmingham City,1-1,Newcastle
+23,31/01/04,Charlton Athletic,1-2,Bolton
+23,31/01/04,Leeds United,0-3,Middlesbrough
+23,31/01/04,Portsmouth,0-0,Wolverhampton
+23,31/01/04,Liverpool,0-0,Everton
+23,31/01/04,Leicester City,0-5,Aston Villa
+23,31/01/04,Fulham,2-1,Tottenham
+23,01/02/04,Blackburn Rovers,2-3,Chelsea
+23,01/02/04,Arsenal,2-1,Manchester City
+24,07/02/04,Newcastle,3-1,Leicester City
+24,07/02/04,Aston Villa,2-0,Leeds United
+24,07/02/04,Bolton,2-2,Liverpool
+24,07/02/04,Everton,3-4,Manchester United
+24,07/02/04,Tottenham,4-3,Portsmouth
+24,07/02/04,Southampton,0-0,Fulham
+24,07/02/04,Middlesbrough,0-1,Blackburn Rovers
+24,07/02/04,Wolverhampton,1-3,Arsenal
+24,08/02/04,Manchester City,0-0,Birmingham City
+24,08/02/04,Chelsea,1-0,Charlton Athletic
+25,10/02/04,Leeds United,4-1,Wolverhampton
+25,10/02/04,Arsenal,2-0,Southampton
+25,10/02/04,Leicester City,1-1,Bolton
+25,11/02/04,Fulham,1-2,Aston Villa
+25,11/02/04,Birmingham City,3-0,Everton
+25,11/02/04,Manchester United,2-3,Middlesbrough
+25,11/02/04,Liverpool,2-1,Manchester City
+25,11/02/04,Blackburn Rovers,1-1,Newcastle
+25,11/02/04,Portsmouth,0-2,Chelsea
+25,11/02/04,Charlton Athletic,2-4,Tottenham
+26,21/02/04,Manchester United,1-1,Leeds United
+26,21/02/04,Chelsea,1-2,Arsenal
+26,21/02/04,Bolton,1-3,Manchester City
+26,21/02/04,Charlton Athletic,3-2,Blackburn Rovers
+26,21/02/04,Newcastle,2-1,Middlesbrough
+26,21/02/04,Wolverhampton,2-1,Fulham
+26,21/02/04,Southampton,3-3,Everton
+26,22/02/04,Aston Villa,2-2,Birmingham City
+26,22/02/04,Tottenham,4-4,Leicester City
+27,28/02/04,Everton,2-0,Aston Villa
+27,28/02/04,Arsenal,2-1,Charlton Athletic
+27,28/02/04,Manchester City,0-1,Chelsea
+27,28/02/04,Fulham,1-1,Manchester United
+27,28/02/04,Leicester City,0-0,Wolverhampton
+27,28/02/04,Blackburn Rovers,1-1,Southampton
+27,29/02/04,Leeds United,2-2,Liverpool
+27,29/02/04,Portsmouth,1-1,Newcastle
+17,03/03/04,Birmingham City,3-1,Middlesbrough
+27,06/03/04,Birmingham City,2-0,Bolton
+27,09/03/04,Middlesbrough,1-0,Tottenham
+28,13/03/04,Bolton,0-2,Chelsea
+28,13/03/04,Charlton Athletic,1-0,Middlesbrough
+28,13/03/04,Blackburn Rovers,0-2,Arsenal
+28,13/03/04,Fulham,2-0,Leeds United
+28,13/03/04,Birmingham City,0-1,Leicester City
+28,13/03/04,Everton,1-0,Portsmouth
+28,14/03/04,Wolverhampton,0-4,Aston Villa
+28,14/03/04,Manchester City,4-1,Manchester United
+28,14/03/04,Tottenham,1-0,Newcastle
+28,14/03/04,Southampton,2-0,Liverpool
+26,17/03/04,Liverpool,3-0,Portsmouth
+29,20/03/04,Leicester City,1-1,Everton
+29,20/03/04,Arsenal,2-1,Bolton
+29,20/03/04,Chelsea,2-1,Fulham
+29,20/03/04,Aston Villa,0-2,Blackburn Rovers
+29,20/03/04,Manchester United,3-0,Tottenham
+29,20/03/04,Middlesbrough,5-3,Birmingham City
+29,20/03/04,Liverpool,1-0,Wolverhampton
+29,20/03/04,Newcastle,3-1,Charlton Athletic
+29,21/03/04,Portsmouth,1-0,Southampton
+29,22/03/04,Leeds United,2-1,Manchester City
+30,27/03/04,Birmingham City,4-1,Leeds United
+30,27/03/04,Manchester City,0-0,Fulham
+30,27/03/04,Chelsea,5-2,Wolverhampton
+30,27/03/04,Southampton,1-0,Tottenham
+30,27/03/04,Everton,1-1,Middlesbrough
+30,27/03/04,Charlton Athletic,1-2,Aston Villa
+30,27/03/04,Blackburn Rovers,1-2,Portsmouth
+30,28/03/04,Bolton,1-0,Newcastle
+30,28/03/04,Leicester City,0-0,Liverpool
+30,28/03/04,Arsenal,1-1,Manchester United

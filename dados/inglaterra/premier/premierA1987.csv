@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/87,Arsenal,1-2,Liverpool
+1,15/08/87,Charlton Athletic,1-2,Nottingham Forest
+1,15/08/87,Chelsea,2-1,Sheffield Wed.
+1,15/08/87,Coventry City,2-1,Tottenham
+1,15/08/87,Derby County,1-0,Luton Town
+1,15/08/87,Everton,1-0,Norwich City
+1,15/08/87,Oxford United,4-2,Portsmouth
+1,15/08/87,Southampton,2-2,Manchester United
+1,15/08/87,Watford,1-0,Wimbledon
+1,15/08/87,West Ham,0-3,QPR
+2,18/08/87,Luton Town,0-1,Coventry City
+2,18/08/87,Portsmouth,0-3,Chelsea
+2,18/08/87,Sheffield Wed.,1-1,Oxford United
+2,18/08/87,Wimbledon,1-1,Everton
+2,19/08/87,Manchester United,0-0,Arsenal
+2,19/08/87,Norwich City,0-1,Southampton
+2,19/08/87,Nottingham Forest,1-0,Watford
+2,19/08/87,QPR,1-1,Derby County
+2,19/08/87,Tottenham,3-1,Newcastle
+2,22/08/87,Luton Town,2-2,West Ham
+3,22/08/87,Manchester United,2-0,Watford
+3,22/08/87,Norwich City,3-1,Coventry City
+3,22/08/87,Nottingham Forest,0-0,Everton
+3,22/08/87,Portsmouth,2-2,Southampton
+3,22/08/87,QPR,2-0,Arsenal
+3,22/08/87,Sheffield Wed.,0-1,Newcastle
+3,22/08/87,Tottenham,1-0,Chelsea
+3,22/08/87,Wimbledon,1-1,Oxford United
+2,29/08/87,Charlton Athletic,1-3,Manchester United
+3,29/08/87,Derby County,0-1,Wimbledon
+3,29/08/87,West Ham,2-0,Norwich City
+4,29/08/87,Arsenal,6-0,Portsmouth
+4,29/08/87,Chelsea,3-0,Luton Town
+4,29/08/87,Coventry City,1-4,Liverpool
+4,29/08/87,Everton,4-0,Sheffield Wed.
+4,29/08/87,Newcastle,0-1,Nottingham Forest
+4,29/08/87,Southampton,0-1,QPR
+4,29/08/87,Watford,1-1,Tottenham
+4,31/08/87,Portsmouth,2-1,West Ham
+5,31/08/87,Luton Town,1-1,Arsenal
+5,31/08/87,Manchester United,3-1,Chelsea
+5,31/08/87,Sheffield Wed.,0-3,Coventry City
+3,01/09/87,Wimbledon,4-1,Charlton Athletic
+4,01/09/87,Tottenham,3-0,Oxford United
+5,01/09/87,Norwich City,1-1,Newcastle
+5,02/09/87,Nottingham Forest,3-3,Southampton
+5,02/09/87,QPR,1-0,Everton
+4,05/09/87,Charlton Athletic,0-1,QPR
+4,05/09/87,Derby County,0-0,Portsmouth
+5,05/09/87,Oxford United,2-5,Luton Town
+5,05/09/87,Watford,0-1,Norwich City
+5,05/09/87,West Ham,1-1,Liverpool
+6,05/09/87,Chelsea,4-3,Nottingham Forest
+6,05/09/87,Coventry City,0-0,Manchester United
+6,05/09/87,Everton,0-0,Tottenham
+6,05/09/87,Newcastle,1-2,Wimbledon
+6,05/09/87,Southampton,1-1,Sheffield Wed.
+5,12/09/87,Norwich City,1-2,Derby County
+5,12/09/87,Portsmouth,1-1,Charlton Athletic
+6,12/09/87,Liverpool,2-0,Oxford United
+6,12/09/87,Nottingham Forest,0-1,Arsenal
+6,12/09/87,Sheffield Wed.,2-3,Watford
+6,12/09/87,Wimbledon,1-1,West Ham
+7,12/09/87,Luton Town,2-1,Everton
+7,12/09/87,Manchester United,2-2,Newcastle
+7,12/09/87,QPR,3-1,Chelsea
+7,12/09/87,Tottenham,2-1,Southampton
+6,15/09/87,Liverpool,3-2,Charlton Athletic
+6,19/09/87,Derby County,2-2,Sheffield Wed.
+7,19/09/87,Arsenal,3-0,Wimbledon
+7,19/09/87,Charlton Athletic,1-0,Luton Town
+7,19/09/87,Coventry City,0-3,Nottingham Forest
+7,19/09/87,Oxford United,2-0,QPR
+7,19/09/87,Watford,0-0,Portsmouth
+7,19/09/87,West Ham,0-1,Tottenham
+8,19/09/87,Chelsea,1-0,Norwich City
+8,19/09/87,Everton,2-1,Manchester United
+7,20/09/87,Newcastle,1-4,Liverpool
+7,26/09/87,Derby County,0-1,Oxford United
+8,26/09/87,Arsenal,1-0,West Ham
+8,26/09/87,Everton,1-2,Coventry City
+8,26/09/87,Newcastle,2-1,Southampton
+8,26/09/87,Sheffield Wed.,2-0,Charlton Athletic
+9,26/09/87,Manchester United,1-0,Tottenham
+9,26/09/87,Norwich City,0-2,Nottingham Forest
+9,26/09/87,Portsmouth,2-1,Wimbledon
+9,26/09/87,QPR,2-0,Luton Town
+9,26/09/87,Watford,0-3,Chelsea
+8,29/09/87,Liverpool,4-0,Derby County
+9,03/10/87,Charlton Athletic,0-3,Arsenal
+9,03/10/87,Coventry City,1-0,Watford
+9,03/10/87,Oxford United,3-0,Norwich City
+9,03/10/87,West Ham,1-1,Derby County
+10,03/10/87,Chelsea,2-2,Newcastle
+10,03/10/87,Liverpool,4-0,Portsmouth
+10,03/10/87,Luton Town,1-1,Manchester United
+10,03/10/87,Southampton,0-4,Everton
+10,03/10/87,Tottenham,2-0,Sheffield Wed.
+10,03/10/87,Wimbledon,1-2,QPR
+10,10/10/87,Arsenal,2-0,Oxford United
+10,10/10/87,Derby County,0-1,Nottingham Forest
+10,10/10/87,West Ham,1-1,Charlton Athletic
+11,10/10/87,Everton,4-1,Chelsea
+11,10/10/87,Norwich City,2-1,Tottenham
+11,10/10/87,Portsmouth,3-1,Luton Town
+11,10/10/87,Sheffield Wed.,2-4,Manchester United
+10,17/10/87,Southampton,1-0,Watford
+11,17/10/87,Charlton Athletic,0-1,Derby County
+11,17/10/87,Liverpool,4-0,QPR
+11,17/10/87,Oxford United,1-2,West Ham
+12,17/10/87,Chelsea,1-0,Coventry City
+12,17/10/87,Luton Town,2-0,Wimbledon
+12,17/10/87,Manchester United,2-1,Norwich City
+12,17/10/87,Newcastle,1-1,Everton
+12,17/10/87,Nottingham Forest,3-0,Sheffield Wed.
+11,18/10/87,Tottenham,1-2,Arsenal
+11,20/10/87,Coventry City,2-3,Southampton
+12,24/10/87,Arsenal,2-1,Derby County
+12,24/10/87,Coventry City,1-3,Newcastle
+12,24/10/87,Nottingham Forest,3-0,Tottenham
+12,24/10/87,Oxford United,2-1,Charlton Athletic
+12,24/10/87,QPR,2-1,Portsmouth
+13,24/10/87,Everton,2-0,Watford
+13,24/10/87,Luton Town,0-1,Liverpool
+13,24/10/87,Sheffield Wed.,1-0,Norwich City
+13,24/10/87,Southampton,3-0,Chelsea
+12,25/10/87,West Ham,1-1,Manchester United
+13,30/10/87,Charlton Athletic,1-1,Southampton
+12,31/10/87,Tottenham,0-3,Wimbledon
+12,31/10/87,Watford,1-2,West Ham
+13,31/10/87,Derby County,2-0,Coventry City
+13,31/10/87,Newcastle,0-1,Arsenal
+13,31/10/87,Portsmouth,1-2,Sheffield Wed.
+14,31/10/87,Chelsea,2-1,Oxford United
+14,31/10/87,Manchester United,2-2,Nottingham Forest
+14,31/10/87,Norwich City,1-1,QPR
+14,01/11/87,Liverpool,2-0,Everton
+14,03/11/87,Arsenal,3-1,Chelsea
+13,04/11/87,Wimbledon,1-1,Liverpool
+14,04/11/87,Portsmouth,0-0,Tottenham
+13,07/11/87,QPR,0-0,Watford
+14,07/11/87,Charlton Athletic,2-0,Norwich City
+14,07/11/87,Luton Town,4-0,Newcastle
+14,07/11/87,Oxford United,1-0,Coventry City
+14,07/11/87,West Ham,0-1,Sheffield Wed.
+14,07/11/87,Wimbledon,2-0,Southampton
+14,14/11/87,Newcastle,0-0,Derby County
+15,14/11/87,Coventry City,3-3,Wimbledon
+15,14/11/87,Everton,3-1,West Ham
+15,14/11/87,Norwich City,2-4,Arsenal
+15,14/11/87,Nottingham Forest,5-0,Portsmouth
+15,14/11/87,Sheffield Wed.,0-2,Luton Town
+15,14/11/87,Southampton,3-0,Oxford United
+15,14/11/87,Tottenham,1-1,QPR
+15,14/11/87,Watford,2-1,Charlton Athletic
+15,15/11/87,Manchester United,1-1,Liverpool
+16,21/11/87,Arsenal,0-1,Southampton
+16,21/11/87,Charlton Athletic,2-2,Coventry City
+16,21/11/87,Luton Town,2-0,Tottenham
+16,21/11/87,Oxford United,1-1,Watford
+16,21/11/87,Portsmouth,0-1,Everton
+16,21/11/87,QPR,1-1,Newcastle
+16,21/11/87,West Ham,3-2,Nottingham Forest
+16,21/11/87,Wimbledon,2-1,Manchester United
+17,21/11/87,Liverpool,0-0,Norwich City
+16,22/11/87,Derby County,2-0,Chelsea
+16,24/11/87,Liverpool,4-0,Watford
+16,28/11/87,Southampton,1-2,Derby County
+17,28/11/87,Chelsea,1-1,Wimbledon
+17,28/11/87,Coventry City,0-0,West Ham
+17,28/11/87,Everton,0-0,Oxford United
+17,28/11/87,Newcastle,2-1,Charlton Athletic
+17,28/11/87,Norwich City,0-1,Portsmouth
+17,28/11/87,Sheffield Wed.,3-1,QPR
+17,28/11/87,Watford,2-0,Arsenal
+18,28/11/87,Tottenham,0-2,Liverpool
+17,05/12/87,Derby County,1-1,Watford
+17,05/12/87,Luton Town,1-2,Norwich City
+17,05/12/87,QPR,0-2,Manchester United
+18,05/12/87,Arsenal,3-1,Sheffield Wed.
+18,05/12/87,Charlton Athletic,0-0,Everton
+18,05/12/87,Oxford United,1-3,Newcastle
+18,05/12/87,Portsmouth,0-0,Coventry City
+18,05/12/87,West Ham,2-1,Southampton
+18,05/12/87,Wimbledon,1-1,Nottingham Forest
+18,06/12/87,Liverpool,2-1,Chelsea
+18,12/12/87,Everton,3-0,Derby County
+19,12/12/87,Chelsea,1-1,West Ham
+19,12/12/87,Manchester United,3-1,Oxford United
+19,12/12/87,Newcastle,1-1,Portsmouth
+19,12/12/87,Sheffield Wed.,1-0,Wimbledon
+19,12/12/87,Southampton,2-2,Liverpool
+19,12/12/87,Watford,0-1,Luton Town
+17,13/12/87,Nottingham Forest,4-0,QPR
+19,13/12/87,Coventry City,0-0,Arsenal
+19,13/12/87,Tottenham,0-1,Charlton Athletic
+20,18/12/87,Luton Town,2-2,Southampton
+20,18/12/87,QPR,1-2,Coventry City
+20,18/12/87,Wimbledon,1-0,Norwich City
+20,19/12/87,Arsenal,1-1,Everton
+20,19/12/87,Liverpool,1-0,Sheffield Wed.
+20,19/12/87,Oxford United,0-2,Nottingham Forest
+20,19/12/87,Portsmouth,1-2,Manchester United
+20,19/12/87,West Ham,2-1,Newcastle
+19,20/12/87,Derby County,1-2,Tottenham
+20,20/12/87,Charlton Athletic,2-2,Chelsea
+20,26/12/87,Derby County,1-2,Norwich City
+20,26/12/87,Newcastle,1-0,Manchester United
+20,26/12/87,Watford,1-3,Sheffield Wed.
+21,26/12/87,Arsenal,0-2,Nottingham Forest
+21,26/12/87,Charlton Athletic,2-1,Portsmouth
+21,26/12/87,Chelsea,1-1,QPR
+21,26/12/87,Everton,2-0,Luton Town
+21,26/12/87,Oxford United,0-3,Liverpool
+21,26/12/87,Southampton,2-1,Tottenham
+21,26/12/87,West Ham,1-2,Wimbledon
+21,28/12/87,Liverpool,4-0,Newcastle
+21,28/12/87,Nottingham Forest,4-1,Coventry City
+21,28/12/87,Portsmouth,1-1,Watford
+21,28/12/87,Sheffield Wed.,2-1,Derby County
+22,28/12/87,Luton Town,1-0,Charlton Athletic
+22,28/12/87,Manchester United,2-1,Everton
+22,28/12/87,Norwich City,3-0,Chelsea
+22,28/12/87,QPR,3-2,Oxford United
+22,28/12/87,Tottenham,2-1,West Ham
+22,28/12/87,Wimbledon,3-1,Arsenal
+21,01/01/88,Nottingham Forest,0-2,Newcastle
+22,01/01/88,Liverpool,4-0,Coventry City
+22,01/01/88,QPR,3-0,Southampton
+22,01/01/88,Tottenham,2-1,Watford
+22,01/01/88,Wimbledon,2-1,Derby County
+23,01/01/88,Luton Town,3-0,Chelsea
+23,01/01/88,Manchester United,0-0,Charlton Athletic
+23,01/01/88,Norwich City,4-1,West Ham
+23,01/01/88,Portsmouth,1-1,Arsenal
+23,01/01/88,Sheffield Wed.,1-0,Everton
+23,02/01/88,Oxford United,2-5,Wimbledon
+23,02/01/88,Watford,0-1,Manchester United
+24,02/01/88,Arsenal,0-0,QPR
+24,02/01/88,Chelsea,0-0,Tottenham
+24,02/01/88,Newcastle,2-2,Sheffield Wed.
+24,02/01/88,West Ham,1-1,Luton Town
+23,03/01/88,Southampton,0-2,Portsmouth
+24,03/01/88,Everton,1-0,Nottingham Forest
+23,16/01/88,Luton Town,1-0,Derby County
+23,16/01/88,Tottenham,2-2,Coventry City
+24,16/01/88,Manchester United,0-2,Southampton
+24,16/01/88,Nottingham Forest,2-2,Charlton Athletic
+24,16/01/88,Portsmouth,2-2,Oxford United
+24,16/01/88,Wimbledon,1-2,Watford
+25,16/01/88,Liverpool,2-0,Arsenal
+25,16/01/88,Norwich City,0-3,Everton
+25,16/01/88,QPR,0-1,West Ham
+25,16/01/88,Sheffield Wed.,3-0,Chelsea
+25,23/01/88,Charlton Athletic,0-2,Liverpool
+25,23/01/88,Southampton,0-0,Norwich City
+25,23/01/88,Watford,0-0,Nottingham Forest
+26,23/01/88,Chelsea,0-0,Portsmouth
+26,23/01/88,Newcastle,2-0,Tottenham
+26,24/01/88,Arsenal,1-2,Manchester United
+24,06/02/88,Manchester United,1-0,Coventry City
+24,06/02/88,Portsmouth,2-1,Derby County
+25,06/02/88,Luton Town,7-4,Oxford United
+26,06/02/88,Liverpool,0-0,West Ham
+26,06/02/88,Norwich City,0-0,Watford
+26,06/02/88,QPR,2-0,Charlton Athletic
+26,06/02/88,Sheffield Wed.,2-1,Southampton
+26,06/02/88,Wimbledon,0-0,Newcastle
+27,06/02/88,Nottingham Forest,3-2,Chelsea
+25,10/02/88,Derby County,1-2,Manchester United
+25,13/02/88,Coventry City,3-0,Sheffield Wed.
+26,13/02/88,Everton,2-0,QPR
+26,13/02/88,Oxford United,0-0,Tottenham
+27,13/02/88,Arsenal,2-1,Luton Town
+27,13/02/88,Charlton Athletic,1-1,Wimbledon
+27,13/02/88,Newcastle,1-3,Norwich City
+27,13/02/88,Southampton,1-1,Nottingham Forest
+27,13/02/88,Watford,1-4,Liverpool
+27,13/02/88,West Ham,1-1,Portsmouth
+28,13/02/88,Chelsea,1-2,Manchester United
+26,20/02/88,Coventry City,0-0,Norwich City
+26,20/02/88,Oxford United,0-0,Derby County
+28,20/02/88,Charlton Athletic,3-1,Sheffield Wed.
+29,23/02/88,Tottenham,1-1,Manchester United
+27,26/02/88,Everton,1-0,Southampton
+27,27/02/88,Derby County,1-0,West Ham
+27,27/02/88,Watford,0-1,Coventry City
+28,27/02/88,Arsenal,4-0,Charlton Athletic
+28,27/02/88,QPR,1-0,Wimbledon
+29,27/02/88,Newcastle,3-1,Chelsea
+29,27/02/88,Portsmouth,0-2,Liverpool
+29,27/02/88,Sheffield Wed.,0-3,Tottenham
+28,01/03/88,Tottenham,0-0,Derby County
+29,01/03/88,Southampton,1-1,Newcastle
+27,05/03/88,Wimbledon,2-0,Luton Town
+28,05/03/88,Everton,1-0,Newcastle
+28,05/03/88,West Ham,1-1,Oxford United
+29,05/03/88,QPR,0-1,Liverpool
+30,05/03/88,Coventry City,3-3,Chelsea
+30,05/03/88,Derby County,1-1,Charlton Athletic

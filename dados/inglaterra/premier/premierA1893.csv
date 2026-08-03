@@ -1,0 +1,244 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,02/09/93,Aston Villa,3-2,West Bromwich
+1,02/09/93,Bolton Wanderers,4-1,Stoke City
+1,02/09/93,Darwen,2-3,Blackburn Rovers
+1,02/09/93,Everton,2-3,Sheffield United
+1,02/09/93,Manchester United,3-2,Burnley
+1,02/09/93,Nottingham Forest,7-1,Wolverhampton
+1,02/09/93,Preston North End,1-0,Derby County
+1,02/09/93,The Wednesday,2-2,Sunderland
+2,04/09/93,Burnley,5-1,Darwen
+2,04/09/93,Everton,4-0,Nottingham Forest
+2,04/09/93,Sheffield United,1-2,Derby County
+2,04/09/93,Wolverhampton,3-1,The Wednesday
+2,09/09/93,Burnley,4-1,Preston North End
+2,09/09/93,Sunderland,1-1,Aston Villa
+2,09/09/93,West Bromwich,3-1,Manchester United
+2,09/09/93,Wolverhampton,2-1,Bolton Wanderers
+3,09/09/93,Blackburn Rovers,5-1,The Wednesday
+3,09/09/93,Derby County,7-3,Everton
+3,09/09/93,Sheffield United,2-1,Darwen
+3,09/09/93,Stoke City,2-1,Nottingham Forest
+3,11/09/93,Aston Villa,5-1,Stoke City
+3,16/09/93,Bolton Wanderers,2-1,Blackburn Rovers
+3,16/09/93,Preston North End,1-2,Sunderland
+3,16/09/93,The Wednesday,0-1,Manchester United
+4,16/09/93,Darwen,3-1,Stoke City
+4,16/09/93,Derby County,2-3,West Bromwich
+4,16/09/93,Everton,4-2,Aston Villa
+4,16/09/93,Nottingham Forest,5-0,Burnley
+5,18/09/93,Wolverhampton,2-1,Darwen
+4,23/09/93,Manchester United,1-1,Nottingham Forest
+4,23/09/93,Sheffield United,4-2,Bolton Wanderers
+5,23/09/93,Aston Villa,3-1,Everton
+5,23/09/93,Blackburn Rovers,3-0,Wolverhampton
+5,23/09/93,Stoke City,3-1,Derby County
+5,23/09/93,Sunderland,1-1,The Wednesday
+5,23/09/93,West Bromwich,1-1,Burnley
+6,23/09/93,Preston North End,4-1,Darwen
+6,25/09/93,The Wednesday,2-4,West Bromwich
+5,30/09/93,Bolton Wanderers,0-3,Preston North End
+5,30/09/93,Darwen,1-0,Manchester United
+5,30/09/93,Wolverhampton,3-4,Sheffield United
+6,30/09/93,Aston Villa,1-1,Derby County
+6,30/09/93,Burnley,4-0,Stoke City
+6,30/09/93,Everton,7-1,Sunderland
+6,30/09/93,Nottingham Forest,2-3,West Bromwich
+7,30/09/93,The Wednesday,4-2,Blackburn Rovers
+7,02/10/93,Sheffield United,3-0,Aston Villa
+6,05/10/93,Nottingham Forest,1-0,Bolton Wanderers
+6,07/10/93,Blackburn Rovers,1-0,Preston North End
+6,07/10/93,Derby County,2-0,Manchester United
+7,07/10/93,Bolton Wanderers,1-0,Darwen
+7,07/10/93,Burnley,2-1,Everton
+7,07/10/93,Sheffield United,1-0,Sunderland
+7,07/10/93,West Bromwich,0-0,Wolverhampton
+8,07/10/93,Nottingham Forest,1-2,Aston Villa
+8,07/10/93,Stoke City,4-1,The Wednesday
+7,14/10/93,Manchester United,4-1,West Bromwich
+7,14/10/93,Preston North End,1-2,Burnley
+8,14/10/93,Bolton Wanderers,0-1,Sheffield United
+8,14/10/93,Everton,2-2,Blackburn Rovers
+8,14/10/93,Sunderland,4-0,Stoke City
+9,14/10/93,Darwen,1-1,Aston Villa
+9,14/10/93,The Wednesday,4-0,Derby County
+9,14/10/93,Wolverhampton,3-1,Nottingham Forest
+10,16/10/93,Sheffield United,1-1,The Wednesday
+10,16/10/93,Stoke City,3-3,Aston Villa
+8,21/10/93,Blackburn Rovers,4-3,Sunderland
+8,21/10/93,Burnley,4-1,Manchester United
+9,21/10/93,Bolton Wanderers,2-0,Wolverhampton
+10,21/10/93,Everton,8-1,Darwen
+10,21/10/93,Nottingham Forest,2-0,Stoke City
+11,21/10/93,Derby County,3-3,The Wednesday
+11,21/10/93,West Bromwich,3-6,Aston Villa
+9,28/10/93,Stoke City,3-1,Blackburn Rovers
+9,28/10/93,Wolverhampton,2-0,Manchester United
+10,28/10/93,Darwen,1-3,Bolton Wanderers
+10,28/10/93,Everton,2-3,Preston North End
+10,28/10/93,Sheffield United,0-2,West Bromwich
+10,28/10/93,Sunderland,5-0,Derby County
+11,28/10/93,Nottingham Forest,1-0,The Wednesday
+12,28/10/93,Aston Villa,4-0,Burnley
+13,30/10/93,Aston Villa,4-0,Sheffield United
+10,04/11/93,Manchester United,0-1,Darwen
+11,04/11/93,Preston North End,1-0,Bolton Wanderers
+11,04/11/93,The Wednesday,1-1,Everton
+11,04/11/93,Sunderland,6-0,Wolverhampton
+12,04/11/93,Burnley,3-1,Nottingham Forest
+12,04/11/93,Derby County,2-1,Sheffield United
+12,04/11/93,West Bromwich,4-2,Stoke City
+14,04/11/93,Blackburn Rovers,2-0,Aston Villa
+12,06/11/93,West Bromwich,5-2,Bolton Wanderers
+10,11/11/93,Preston North End,0-1,Blackburn Rovers
+11,11/11/93,Manchester United,1-0,Wolverhampton
+12,11/11/93,Everton,1-2,Derby County
+12,11/11/93,Stoke City,4-2,Burnley
+13,11/11/93,Darwen,2-1,West Bromwich
+15,11/11/93,Aston Villa,2-1,Sunderland
+11,13/11/93,Stoke City,2-1,Preston North End
+14,13/11/93,The Wednesday,1-2,Sheffield United
+13,18/11/93,Blackburn Rovers,3-2,Burnley
+13,18/11/93,Nottingham Forest,1-1,Sheffield United
+14,18/11/93,Derby County,2-1,Darwen
+16,18/11/93,Bolton Wanderers,0-1,Aston Villa
+12,20/11/93,Sheffield United,1-1,Preston North End
+12,25/11/93,Sheffield United,3-1,Manchester United
+12,25/11/93,Sunderland,2-1,West Bromwich
+13,25/11/93,Everton,4-3,Burnley
+13,25/11/93,Wolverhampton,4-2,Stoke City
+14,25/11/93,Nottingham Forest,0-0,Blackburn Rovers
+17,25/11/93,Aston Villa,2-0,Preston North End
+15,27/11/93,West Bromwich,2-2,The Wednesday
+13,02/12/93,Manchester United,0-3,Everton
+14,02/12/93,Blackburn Rovers,0-1,Bolton Wanderers
+15,02/12/93,Burnley,1-0,Sunderland
+15,02/12/93,Preston North End,0-2,Nottingham Forest
+15,02/12/93,Stoke City,3-1,Darwen
+16,02/12/93,The Wednesday,1-4,Wolverhampton
+18,02/12/93,Derby County,0-3,Aston Villa
+15,04/12/93,West Bromwich,2-0,Preston North End
+15,04/12/93,Wolverhampton,2-0,Everton
+14,06/12/93,Sunderland,4-1,Manchester United
+17,07/12/93,The Wednesday,4-1,Stoke City
+15,09/12/93,Bolton Wanderers,2-0,Manchester United
+15,09/12/93,Sunderland,2-3,Blackburn Rovers
+16,09/12/93,Burnley,3-0,West Bromwich
+16,09/12/93,Derby County,3-4,Nottingham Forest
+16,09/12/93,Sheffield United,0-3,Everton
+16,09/12/93,Wolverhampton,0-0,Preston North End
+19,09/12/93,Aston Villa,3-0,The Wednesday
+16,11/12/93,Darwen,2-1,The Wednesday
+16,16/12/93,Manchester United,1-3,Aston Villa
+16,16/12/93,The Wednesday,2-1,Bolton Wanderers
+17,16/12/93,Blackburn Rovers,4-3,Everton
+17,16/12/93,Preston North End,1-3,Wolverhampton
+17,16/12/93,Sunderland,2-2,Burnley
+17,16/12/93,West Bromwich,2-2,Darwen
+18,16/12/93,Stoke City,5-0,Sheffield United
+16,23/12/93,Derby County,5-2,Stoke City
+17,23/12/93,Preston North End,2-0,Manchester United
+17,23/12/93,West Bromwich,2-3,Sunderland
+18,23/12/93,Burnley,1-0,Blackburn Rovers
+18,23/12/93,Darwen,0-4,Nottingham Forest
+18,23/12/93,Everton,8-1,The Wednesday
+21,23/12/93,Wolverhampton,3-0,Aston Villa
+17,25/12/93,Bolton Wanderers,1-1,The Wednesday
+19,25/12/93,Blackburn Rovers,4-1,Darwen
+19,25/12/93,Burnley,4-1,Sheffield United
+19,25/12/93,Preston North End,3-3,Stoke City
+18,26/12/93,Derby County,6-1,Bolton Wanderers
+19,26/12/93,Wolverhampton,5-1,Blackburn Rovers
+20,26/12/93,West Bromwich,3-1,Sheffield United
+22,26/12/93,Aston Villa,9-0,Darwen
+23,26/12/93,The Wednesday,0-1,Burnley
+20,27/12/93,Wolverhampton,0-8,West Bromwich
+18,30/12/93,Nottingham Forest,4-2,Derby County
+19,30/12/93,Everton,7-1,West Bromwich
+19,30/12/93,Sunderland,2-1,Bolton Wanderers
+21,30/12/93,Stoke City,0-3,Wolverhampton
+19,01/01/94,Sheffield United,0-2,Nottingham Forest
+20,01/01/94,Bolton Wanderers,1-1,Derby County
+20,01/01/94,Sunderland,6-3,Preston North End
+21,01/01/94,Darwen,3-3,Everton
+18,06/01/94,Everton,2-0,Manchester United
+20,06/01/94,West Bromwich,2-1,Blackburn Rovers
+21,06/01/94,Bolton Wanderers,2-0,Burnley
+21,06/01/94,Derby County,2-1,Preston North End
+22,06/01/94,Darwen,3-3,Sheffield United
+22,06/01/94,Wolverhampton,2-1,Sunderland
+23,06/01/94,The Wednesday,2-2,Aston Villa
+19,13/01/94,Manchester United,1-2,The Wednesday
+20,13/01/94,Nottingham Forest,1-2,Sunderland
+21,13/01/94,Blackburn Rovers,3-0,West Bromwich
+22,13/01/94,Preston North End,2-4,Everton
+22,13/01/94,Stoke City,5-0,Bolton Wanderers
+23,13/01/94,Sheffield United,3-2,Wolverhampton
+23,15/01/94,The Wednesday,5-0,Darwen
+24,15/01/94,Blackburn Rovers,4-1,Sheffield United
+23,18/01/94,Nottingham Forest,3-2,Everton
+24,18/01/94,Preston North End,2-5,Aston Villa
+23,20/01/94,Stoke City,3-1,West Bromwich
+24,20/01/94,Wolverhampton,2-4,Derby County
+25,20/01/94,Sunderland,4-1,Sheffield United
+20,03/02/94,Aston Villa,5-1,Manchester United
+22,03/02/94,Blackburn Rovers,6-1,Nottingham Forest
+23,03/02/94,Burnley,2-1,Bolton Wanderers
+24,03/02/94,Darwen,2-1,Preston North End
+24,03/02/94,West Bromwich,3-1,Everton
+25,03/02/94,Derby County,4-1,Wolverhampton
+26,03/02/94,Sheffield United,3-3,Stoke City
+25,06/02/94,Darwen,0-0,Burnley
+25,06/02/94,The Wednesday,3-0,Preston North End
+25,06/02/94,Sunderland,1-0,Everton
+21,03/03/94,Manchester United,2-4,Sunderland
+24,03/03/94,Wolverhampton,1-0,Burnley
+26,03/03/94,Aston Villa,2-3,Bolton Wanderers
+26,03/03/94,Preston North End,3-1,West Bromwich
+26,03/03/94,Stoke City,3-1,Everton
+27,03/03/94,Sheffield United,3-2,Blackburn Rovers
+23,05/03/94,The Wednesday,1-0,Nottingham Forest
+23,07/03/94,Derby County,1-4,Sunderland
+22,10/03/94,Manchester United,0-2,Sheffield United
+25,10/03/94,Burnley,3-1,Derby County
+26,10/03/94,Darwen,3-1,Wolverhampton
+23,12/03/94,Manchester United,5-1,Blackburn Rovers
+27,15/03/94,Nottingham Forest,4-1,Darwen
+24,17/03/94,Manchester United,2-6,Derby County
+25,17/03/94,Sunderland,2-0,Nottingham Forest
+25,23/03/94,Bolton Wanderers,1-1,Nottingham Forest
+25,23/03/94,Manchester United,6-2,Stoke City
+26,23/03/94,Blackburn Rovers,0-2,Derby County
+29,23/03/94,Burnley,0-1,The Wednesday
+26,24/03/94,Manchester United,2-2,Bolton Wanderers
+27,24/03/94,Aston Villa,2-1,Blackburn Rovers
+27,24/03/94,Everton,3-0,Wolverhampton
+27,24/03/94,Nottingham Forest,4-2,Preston North End
+27,24/03/94,Stoke City,2-0,Sunderland
+27,24/03/94,West Bromwich,0-1,Derby County
+27,26/03/94,Blackburn Rovers,4-0,Manchester United
+27,26/03/94,Everton,3-2,Bolton Wanderers
+27,26/03/94,Sheffield United,1-0,Burnley
+28,26/03/94,Aston Villa,1-1,Wolverhampton
+28,26/03/94,Preston North End,1-0,The Wednesday
+28,26/03/94,West Bromwich,3-0,Nottingham Forest
+28,27/03/94,Sunderland,4-0,Darwen
+28,31/03/94,Stoke City,3-1,Manchester United
+29,31/03/94,Derby County,5-2,Blackburn Rovers
+28,02/04/94,Derby County,3-3,Burnley
+28,07/04/94,Bolton Wanderers,0-3,West Bromwich
+29,07/04/94,Burnley,3-6,Aston Villa
+29,07/04/94,Darwen,0-3,Sunderland
+29,07/04/94,Everton,6-2,Stoke City
+29,07/04/94,Nottingham Forest,2-0,Manchester United
+29,07/04/94,Preston North End,3-0,Sheffield United
+30,14/04/94,Aston Villa,3-1,Nottingham Forest
+30,14/04/94,Blackburn Rovers,5-0,Stoke City
+30,14/04/94,Burnley,4-2,Wolverhampton
+30,14/04/94,Darwen,2-3,Derby County
+30,14/04/94,Manchester United,1-3,Preston North End
+29,16/04/94,Bolton Wanderers,0-1,Everton
+30,23/04/94,Bolton Wanderers,2-0,Sunderland
+,28/04/94,Liverpool,2-0,Manchester United
+,28/04/94,Small Heath,3-1,Darwen
+,28/04/94,Preston North End,4-0,Notts County

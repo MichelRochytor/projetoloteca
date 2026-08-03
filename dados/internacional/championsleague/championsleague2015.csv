@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,15/09/15,PSG,2-0,Malmö
+A,15/09/15,Real Madrid,4-0,Shakhtar Donetsk
+B,15/09/15,Wolfsburg,1-0,CSKA Moskva
+B,15/09/15,PSV,2-1,Manchester United
+C,15/09/15,Galatasaray,0-2,Atlético de Madrid
+C,15/09/15,Benfica,2-0,Astana
+D,15/09/15,Manchester City,1-2,Juventus
+D,15/09/15,Sevilla,3-0,Borussia M´gladbach
+E,16/09/15,Bayer Leverkusen,4-1,BATE Borisov
+E,16/09/15,Roma,1-1,Barcelona
+F,16/09/15,Dinamo Zagreb,2-1,Arsenal
+F,16/09/15,Olympiacos,0-3,Bayern München
+G,16/09/15,Dynamo Kyiv,2-2,FC Porto
+G,16/09/15,Chelsea,4-0,Maccabi Tel Aviv
+H,16/09/15,Valencia,2-3,Zenit
+H,16/09/15,Gent,1-1,Lyon
+E,29/09/15,Barcelona,2-1,Bayer Leverkusen
+E,29/09/15,BATE Borisov,3-2,Roma
+F,29/09/15,Bayern München,5-0,Dinamo Zagreb
+F,29/09/15,Arsenal,2-3,Olympiacos
+G,29/09/15,Maccabi Tel Aviv,0-2,Dynamo Kyiv
+G,29/09/15,FC Porto,2-1,Chelsea
+H,29/09/15,Lyon,0-1,Valencia
+H,29/09/15,Zenit,2-1,Gent
+C,30/09/15,Astana,2-2,Galatasaray
+A,30/09/15,Shakhtar Donetsk,0-3,PSG
+A,30/09/15,Malmö,0-2,Real Madrid
+B,30/09/15,Manchester United,2-1,Wolfsburg
+B,30/09/15,CSKA Moskva,3-2,PSV
+C,30/09/15,Atlético de Madrid,1-2,Benfica
+D,30/09/15,Borussia M´gladbach,1-2,Manchester City
+D,30/09/15,Juventus,2-0,Sevilla
+E,20/10/15,BATE Borisov,0-2,Barcelona
+E,20/10/15,Bayer Leverkusen,4-4,Roma
+F,20/10/15,Arsenal,2-0,Bayern München
+F,20/10/15,Dinamo Zagreb,0-1,Olympiacos
+G,20/10/15,FC Porto,2-0,Maccabi Tel Aviv
+G,20/10/15,Dynamo Kyiv,0-0,Chelsea
+H,20/10/15,Zenit,3-1,Lyon
+H,20/10/15,Valencia,2-1,Gent
+A,21/10/15,Malmö,1-0,Shakhtar Donetsk
+A,21/10/15,PSG,0-0,Real Madrid
+B,21/10/15,CSKA Moskva,1-1,Manchester United
+B,21/10/15,Wolfsburg,2-0,PSV
+C,21/10/15,Atlético de Madrid,4-0,Astana
+C,21/10/15,Galatasaray,2-1,Benfica
+D,21/10/15,Juventus,0-0,Borussia M´gladbach
+D,21/10/15,Manchester City,2-1,Sevilla
+C,03/11/15,Astana,0-0,Atlético de Madrid
+A,03/11/15,Shakhtar Donetsk,4-0,Malmö
+A,03/11/15,Real Madrid,1-0,PSG
+B,03/11/15,Manchester United,1-0,CSKA Moskva
+B,03/11/15,PSV,2-0,Wolfsburg
+C,03/11/15,Benfica,2-1,Galatasaray
+D,03/11/15,Borussia M´gladbach,1-1,Juventus
+D,03/11/15,Sevilla,1-3,Manchester City
+E,04/11/15,Barcelona,3-0,BATE Borisov
+E,04/11/15,Roma,3-2,Bayer Leverkusen
+F,04/11/15,Bayern München,5-1,Arsenal
+F,04/11/15,Olympiacos,2-1,Dinamo Zagreb
+G,04/11/15,Maccabi Tel Aviv,1-3,FC Porto
+G,04/11/15,Chelsea,2-1,Dynamo Kyiv
+H,04/11/15,Lyon,0-2,Zenit
+H,04/11/15,Gent,1-0,Valencia
+E,24/11/15,BATE Borisov,1-1,Bayer Leverkusen
+H,24/11/15,Zenit,2-0,Valencia
+E,24/11/15,Barcelona,6-1,Roma
+F,24/11/15,Arsenal,3-0,Dinamo Zagreb
+F,24/11/15,Bayern München,4-0,Olympiacos
+G,24/11/15,FC Porto,0-2,Dynamo Kyiv
+G,24/11/15,Maccabi Tel Aviv,0-4,Chelsea
+H,24/11/15,Lyon,1-2,Gent
+C,25/11/15,Astana,2-2,Benfica
+B,25/11/15,CSKA Moskva,0-2,Wolfsburg
+A,25/11/15,Malmö,0-5,PSG
+A,25/11/15,Shakhtar Donetsk,3-4,Real Madrid
+B,25/11/15,Manchester United,0-0,PSV
+C,25/11/15,Atlético de Madrid,2-0,Galatasaray
+D,25/11/15,Juventus,1-0,Manchester City
+D,25/11/15,Borussia M´gladbach,4-2,Sevilla
+A,08/12/15,PSG,2-0,Shakhtar Donetsk
+A,08/12/15,Real Madrid,8-0,Malmö
+B,08/12/15,Wolfsburg,3-2,Manchester United
+B,08/12/15,PSV,2-1,CSKA Moskva
+C,08/12/15,Galatasaray,1-1,Astana
+C,08/12/15,Benfica,1-2,Atlético de Madrid
+D,08/12/15,Manchester City,4-2,Borussia M´gladbach
+D,08/12/15,Sevilla,1-0,Juventus
+E,09/12/15,Bayer Leverkusen,1-1,Barcelona
+E,09/12/15,Roma,0-0,BATE Borisov
+F,09/12/15,Dinamo Zagreb,0-2,Bayern München
+F,09/12/15,Olympiacos,0-3,Arsenal
+G,09/12/15,Dynamo Kyiv,1-0,Maccabi Tel Aviv
+G,09/12/15,Chelsea,2-0,FC Porto
+H,09/12/15,Valencia,0-2,Lyon
+H,09/12/15,Gent,2-1,Zenit
+1/8,16/02/16,PSG,2-1,Chelsea
+1/8,16/02/16,Benfica,1-0,Zenit
+1/8,17/02/16,Gent,2-3,Wolfsburg
+1/8,17/02/16,Roma,0-2,Real Madrid
+1/8,23/02/16,Arsenal,0-2,Barcelona
+1/8,23/02/16,Juventus,2-2,Bayern München
+1/8,24/02/16,PSV,0-0,Atlético de Madrid
+1/8,24/02/16,Dynamo Kyiv,1-3,Manchester City
+1/8,08/03/16,Wolfsburg,1-0,Gent
+1/8,08/03/16,Real Madrid,2-0,Roma
+1/8,09/03/16,Zenit,1-2,Benfica
+1/8,09/03/16,Chelsea,1-2,PSG
+1/8,15/03/16,Atlético de Madrid,0-0(8-7 Pen.),PSV
+1/8,15/03/16,Manchester City,0-0,Dynamo Kyiv
+1/8,16/03/16,Barcelona,3-1,Arsenal
+1/8,16/03/16,Bayern München,4-2(Pro.),Juventus
+QF,05/04/16,Bayern München,1-0,Benfica
+QF,05/04/16,Barcelona,2-1,Atlético de Madrid
+QF,06/04/16,Wolfsburg,2-0,Real Madrid
+QF,06/04/16,PSG,2-2,Manchester City
+QF,12/04/16,Real Madrid,3-0,Wolfsburg
+QF,12/04/16,Manchester City,1-0,PSG
+QF,13/04/16,Benfica,2-2,Bayern München
+QF,13/04/16,Atlético de Madrid,2-0,Barcelona
+SF,26/04/16,Manchester City,0-0,Real Madrid
+SF,27/04/16,Atlético de Madrid,1-0,Bayern München
+SF,03/05/16,Bayern München,2-1,Atlético de Madrid
+SF,04/05/16,Real Madrid,1-0,Manchester City
+F,28/05/16,Real Madrid,1-1(5-3 Pen.),Atlético de Madrid

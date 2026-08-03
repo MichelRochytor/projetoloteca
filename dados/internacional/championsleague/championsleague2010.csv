@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,14/09/10,FC Twente,2-2,Internazionale
+A,14/09/10,Werder Bremen,2-2,Tottenham
+B,14/09/10,Lyon,1-0,Schalke 04
+B,14/09/10,Benfica,2-0,Hapoel Tel Aviv
+C,14/09/10,Bursaspor,0-4,Valencia
+C,14/09/10,Manchester United,0-0,Rangers
+D,14/09/10,Barcelona,5-1,Panathinaikos
+D,14/09/10,FC Kobenhavn,1-0,Rubin Kazan
+E,15/09/10,Bayern München,2-0,Roma
+E,15/09/10,CFR Cluj,2-1,FC Basel
+F,15/09/10,MSK Zilina,1-4,Chelsea
+F,15/09/10,Marseille,0-1,Spartak Moskva
+G,15/09/10,Real Madrid,2-0,Ajax
+G,15/09/10,Milan,2-0,Auxerre
+H,15/09/10,Arsenal,6-0,SC Braga
+H,15/09/10,Shakhtar Donetsk,1-0,Partizan
+F,28/09/10,Spartak Moskva,3-0,MSK Zilina
+E,28/09/10,FC Basel,1-2,Bayern München
+E,28/09/10,Roma,2-1,CFR Cluj
+F,28/09/10,Chelsea,2-0,Marseille
+G,28/09/10,Ajax,1-1,Milan
+G,28/09/10,Auxerre,0-1,Real Madrid
+H,28/09/10,Partizan,1-3,Arsenal
+H,28/09/10,SC Braga,0-3,Shakhtar Donetsk
+D,29/09/10,Rubin Kazan,1-1,Barcelona
+A,29/09/10,Tottenham,4-1,FC Twente
+A,29/09/10,Internazionale,4-0,Werder Bremen
+B,29/09/10,Hapoel Tel Aviv,1-3,Lyon
+B,29/09/10,Schalke 04,2-0,Benfica
+C,29/09/10,Valencia,0-1,Manchester United
+C,29/09/10,Rangers,1-0,Bursaspor
+D,29/09/10,Panathinaikos,0-2,FC Kobenhavn
+F,19/10/10,Spartak Moskva,0-2,Chelsea
+E,19/10/10,Roma,1-3,FC Basel
+E,19/10/10,Bayern München,3-2,CFR Cluj
+F,19/10/10,Marseille,1-0,MSK Zilina
+G,19/10/10,Real Madrid,2-0,Milan
+G,19/10/10,Ajax,2-1,Auxerre
+H,19/10/10,Arsenal,5-1,Shakhtar Donetsk
+H,19/10/10,SC Braga,2-0,Partizan
+A,20/10/10,FC Twente,1-1,Werder Bremen
+A,20/10/10,Internazionale,4-3,Tottenham
+B,20/10/10,Lyon,2-0,Benfica
+B,20/10/10,Schalke 04,3-1,Hapoel Tel Aviv
+C,20/10/10,Rangers,1-1,Valencia
+C,20/10/10,Manchester United,1-0,Bursaspor
+D,20/10/10,Barcelona,2-0,FC Kobenhavn
+D,20/10/10,Panathinaikos,0-0,Rubin Kazan
+D,02/11/10,Rubin Kazan,0-0,Panathinaikos
+A,02/11/10,Tottenham,3-1,Internazionale
+A,02/11/10,Werder Bremen,0-2,FC Twente
+B,02/11/10,Benfica,4-3,Lyon
+B,02/11/10,Hapoel Tel Aviv,0-0,Schalke 04
+C,02/11/10,Bursaspor,0-3,Manchester United
+C,02/11/10,Valencia,3-0,Rangers
+D,02/11/10,FC Kobenhavn,1-1,Barcelona
+E,03/11/10,CFR Cluj,0-4,Bayern München
+E,03/11/10,FC Basel,2-3,Roma
+F,03/11/10,MSK Zilina,0-7,Marseille
+F,03/11/10,Chelsea,4-1,Spartak Moskva
+G,03/11/10,Milan,2-2,Real Madrid
+G,03/11/10,Auxerre,2-1,Ajax
+H,03/11/10,Shakhtar Donetsk,2-1,Arsenal
+H,03/11/10,Partizan,0-1,SC Braga
+F,23/11/10,Spartak Moskva,0-3,Marseille
+E,23/11/10,Roma,3-2,Bayern München
+E,23/11/10,FC Basel,1-0,CFR Cluj
+F,23/11/10,Chelsea,2-1,MSK Zilina
+G,23/11/10,Auxerre,0-2,Milan
+G,23/11/10,Ajax,0-4,Real Madrid
+H,23/11/10,SC Braga,2-0,Arsenal
+H,23/11/10,Partizan,0-3,Shakhtar Donetsk
+D,24/11/10,Rubin Kazan,1-0,FC Kobenhavn
+A,24/11/10,Tottenham,3-0,Werder Bremen
+A,24/11/10,Internazionale,1-0,FC Twente
+B,24/11/10,Schalke 04,3-0,Lyon
+B,24/11/10,Hapoel Tel Aviv,3-0,Benfica
+C,24/11/10,Rangers,0-1,Manchester United
+C,24/11/10,Valencia,6-1,Bursaspor
+D,24/11/10,Panathinaikos,0-3,Barcelona
+A,07/12/10,Werder Bremen,3-0,Internazionale
+A,07/12/10,FC Twente,3-3,Tottenham
+B,07/12/10,Benfica,1-2,Schalke 04
+B,07/12/10,Lyon,2-2,Hapoel Tel Aviv
+C,07/12/10,Manchester United,1-1,Valencia
+C,07/12/10,Bursaspor,1-1,Rangers
+D,07/12/10,FC Kobenhavn,3-1,Panathinaikos
+D,07/12/10,Barcelona,2-0,Rubin Kazan
+E,08/12/10,CFR Cluj,1-1,Roma
+E,08/12/10,Bayern München,3-0,FC Basel
+F,08/12/10,Marseille,1-0,Chelsea
+F,08/12/10,MSK Zilina,1-2,Spartak Moskva
+G,08/12/10,Milan,0-2,Ajax
+G,08/12/10,Real Madrid,4-0,Auxerre
+H,08/12/10,Shakhtar Donetsk,2-0,SC Braga
+H,08/12/10,Arsenal,3-1,Partizan
+1/8,15/02/11,Milan,0-1,Tottenham
+1/8,15/02/11,Valencia,1-1,Schalke 04
+1/8,16/02/11,Roma,2-3,Shakhtar Donetsk
+1/8,16/02/11,Arsenal,2-1,Barcelona
+1/8,22/02/11,Lyon,1-1,Real Madrid
+1/8,22/02/11,FC Kobenhavn,0-2,Chelsea
+1/8,23/02/11,Internazionale,0-1,Bayern München
+1/8,23/02/11,Marseille,0-0,Manchester United
+1/8,08/03/11,Shakhtar Donetsk,3-0,Roma
+1/8,08/03/11,Barcelona,3-1,Arsenal
+1/8,09/03/11,Tottenham,0-0,Milan
+1/8,09/03/11,Schalke 04,3-1,Valencia
+1/8,15/03/11,Bayern München,2-3,Internazionale
+1/8,15/03/11,Manchester United,2-1,Marseille
+1/8,16/03/11,Real Madrid,3-0,Lyon
+1/8,16/03/11,Chelsea,0-0,FC Kobenhavn
+QF,05/04/11,Real Madrid,4-0,Tottenham
+QF,05/04/11,Internazionale,2-5,Schalke 04
+QF,06/04/11,Chelsea,0-1,Manchester United
+QF,06/04/11,Barcelona,5-1,Shakhtar Donetsk
+QF,12/04/11,Manchester United,2-1,Chelsea
+QF,12/04/11,Shakhtar Donetsk,0-1,Barcelona
+QF,13/04/11,Tottenham,0-1,Real Madrid
+QF,13/04/11,Schalke 04,2-1,Internazionale
+SF,26/04/11,Schalke 04,0-2,Manchester United
+SF,27/04/11,Real Madrid,0-2,Barcelona
+SF,03/05/11,Barcelona,1-1,Real Madrid
+SF,04/05/11,Manchester United,4-1,Schalke 04
+F,28/05/11,Barcelona,3-1,Manchester United

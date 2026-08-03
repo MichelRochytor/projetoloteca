@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/08/13,Real Sociedad,2-0,Getafe
+1,17/08/13,Valladolid,1-2,Athletic Bilbao
+1,17/08/13,Valencia,1-0,Málaga
+1,18/08/13,Barcelona,7-0,Levante
+1,18/08/13,Real Madrid,2-1,Real Betis
+1,18/08/13,Osasuna,1-2,Granada
+1,18/08/13,Sevilla,1-3,Atlético de Madrid
+1,19/08/13,Rayo Vallecano,3-0,Elche
+1,19/08/13,Celta de Vigo,2-2,Espanyol
+1,19/08/13,Almería,2-3,Villarreal
+2,23/08/13,Getafe,2-2,Almería
+2,23/08/13,Athletic Bilbao,2-0,Osasuna
+2,24/08/13,Elche,1-1,Real Sociedad
+2,24/08/13,Espanyol,3-1,Valencia
+2,24/08/13,Villarreal,2-1,Valladolid
+2,25/08/13,Atlético de Madrid,5-0,Rayo Vallecano
+2,25/08/13,Levante,0-0,Sevilla
+2,25/08/13,Málaga,0-1,Barcelona
+2,25/08/13,Real Betis,1-2,Celta de Vigo
+2,26/08/13,Granada,0-1,Real Madrid
+3,30/08/13,Almería,2-2,Elche
+3,30/08/13,Rayo Vallecano,1-2,Levante
+3,31/08/13,Celta de Vigo,1-1,Granada
+3,31/08/13,Valladolid,1-0,Getafe
+3,31/08/13,Osasuna,0-3,Villarreal
+3,01/09/13,Real Madrid,3-1,Athletic Bilbao
+3,01/09/13,Espanyol,0-0,Real Betis
+3,01/09/13,Real Sociedad,1-2,Atlético de Madrid
+3,01/09/13,Sevilla,2-2,Málaga
+3,01/09/13,Valencia,2-3,Barcelona
+4,14/09/13,Atlético de Madrid,4-2,Almería
+4,14/09/13,Levante,0-0,Real Sociedad
+4,14/09/13,Barcelona,3-2,Sevilla
+4,14/09/13,Villarreal,2-2,Real Madrid
+4,15/09/13,Granada,0-1,Espanyol
+4,15/09/13,Getafe,2-1,Osasuna
+4,15/09/13,Málaga,5-0,Rayo Vallecano
+4,15/09/13,Real Betis,3-1,Valencia
+4,16/09/13,Elche,0-0,Valladolid
+4,16/09/13,Athletic Bilbao,3-2,Celta de Vigo
+5,20/09/13,Osasuna,2-1,Elche
+5,21/09/13,Real Sociedad,0-0,Málaga
+5,21/09/13,Almería,2-2,Levante
+5,21/09/13,Rayo Vallecano,0-4,Barcelona
+5,21/09/13,Valladolid,0-2,Atlético de Madrid
+5,22/09/13,Real Betis,0-0,Granada
+5,22/09/13,Celta de Vigo,0-0,Villarreal
+5,22/09/13,Real Madrid,4-1,Getafe
+5,22/09/13,Valencia,3-1,Sevilla
+5,23/09/13,Espanyol,3-2,Athletic Bilbao
+6,24/09/13,Levante,1-1,Valladolid
+6,24/09/13,Barcelona,4-1,Real Sociedad
+6,24/09/13,Atlético de Madrid,2-1,Osasuna
+6,24/09/13,Málaga,2-0,Almería
+6,25/09/13,Granada,0-1,Valencia
+6,25/09/13,Sevilla,4-1,Rayo Vallecano
+6,25/09/13,Elche,1-2,Real Madrid
+6,26/09/13,Athletic Bilbao,2-1,Real Betis
+6,26/09/13,Villarreal,2-1,Espanyol
+6,26/09/13,Getafe,2-0,Celta de Vigo
+7,27/09/13,Valladolid,2-2,Málaga
+7,28/09/13,Valencia,1-0,Rayo Vallecano
+7,28/09/13,Almería,0-2,Barcelona
+7,28/09/13,Real Sociedad,1-1,Sevilla
+7,28/09/13,Real Madrid,0-1,Atlético de Madrid
+7,29/09/13,Osasuna,0-1,Levante
+7,29/09/13,Celta de Vigo,0-1,Elche
+7,29/09/13,Espanyol,0-2,Getafe
+7,29/09/13,Real Betis,1-0,Villarreal
+7,30/09/13,Granada,2-0,Athletic Bilbao
+8,04/10/13,Villarreal,3-0,Granada
+8,04/10/13,Málaga,0-1,Osasuna
+8,05/10/13,Elche,2-1,Espanyol
+8,05/10/13,Rayo Vallecano,1-0,Real Sociedad
+8,05/10/13,Levante,2-3,Real Madrid
+8,05/10/13,Barcelona,4-1,Valladolid
+8,06/10/13,Atlético de Madrid,2-1,Celta de Vigo
+8,06/10/13,Sevilla,2-1,Almería
+8,06/10/13,Getafe,3-1,Real Betis
+8,06/10/13,Athletic Bilbao,1-1,Valencia
+9,19/10/13,Real Madrid,2-0,Málaga
+9,19/10/13,Valencia,1-2,Real Sociedad
+9,19/10/13,Osasuna,0-0,Barcelona
+9,19/10/13,Espanyol,1-0,Atlético de Madrid
+9,20/10/13,Granada,0-2,Getafe
+9,20/10/13,Almería,0-1,Rayo Vallecano
+9,20/10/13,Real Betis,1-2,Elche
+9,20/10/13,Valladolid,2-2,Sevilla
+9,21/10/13,Celta de Vigo,0-1,Levante
+9,21/10/13,Athletic Bilbao,2-0,Villarreal
+10,25/10/13,Rayo Vallecano,0-3,Valladolid
+10,26/10/13,Málaga,0-5,Celta de Vigo
+10,26/10/13,Barcelona,2-1,Real Madrid
+10,26/10/13,Elche,0-1,Granada
+10,26/10/13,Levante,3-0,Espanyol
+10,27/10/13,Sevilla,2-1,Osasuna
+10,27/10/13,Villarreal,4-1,Valencia
+10,27/10/13,Real Sociedad,3-0,Almería
+10,27/10/13,Atlético de Madrid,5-0,Real Betis
+10,28/10/13,Getafe,0-1,Athletic Bilbao
+11,29/10/13,Espanyol,0-0,Málaga
+11,29/10/13,Celta de Vigo,0-3,Barcelona
+11,30/10/13,Valladolid,2-2,Real Sociedad
+11,30/10/13,Valencia,1-2,Almería
+11,30/10/13,Real Madrid,7-3,Sevilla
+11,30/10/13,Osasuna,3-1,Rayo Vallecano
+11,31/10/13,Villarreal,0-2,Getafe
+11,31/10/13,Granada,1-2,Atlético de Madrid
+11,31/10/13,Athletic Bilbao,2-2,Elche
+11,31/10/13,Real Betis,0-0,Levante
+12,01/11/13,Barcelona,1-0,Espanyol
+12,02/11/13,Real Sociedad,5-0,Osasuna
+12,02/11/13,Almería,1-0,Valladolid
+12,02/11/13,Rayo Vallecano,2-3,Real Madrid
+12,02/11/13,Sevilla,0-1,Celta de Vigo
+12,03/11/13,Getafe,0-1,Valencia
+12,03/11/13,Atlético de Madrid,2-0,Athletic Bilbao
+12,03/11/13,Levante,0-1,Granada
+12,03/11/13,Málaga,3-2,Real Betis
+12,04/11/13,Elche,0-1,Villarreal
+13,08/11/13,Osasuna,0-1,Almería
+13,08/11/13,Granada,3-1,Málaga
+13,09/11/13,Real Madrid,5-1,Real Sociedad
+13,09/11/13,Getafe,1-1,Elche
+13,09/11/13,Athletic Bilbao,2-1,Levante
+13,09/11/13,Celta de Vigo,0-2,Rayo Vallecano
+13,10/11/13,Espanyol,1-3,Sevilla
+13,10/11/13,Valencia,2-2,Valladolid
+13,10/11/13,Villarreal,1-1,Atlético de Madrid
+13,10/11/13,Real Betis,1-4,Barcelona
+14,22/11/13,Valladolid,0-1,Osasuna
+14,23/11/13,Barcelona,4-0,Granada
+14,23/11/13,Real Sociedad,4-3,Celta de Vigo
+14,23/11/13,Almería,0-5,Real Madrid
+14,23/11/13,Atlético de Madrid,7-0,Getafe
+14,24/11/13,Levante,0-3,Villarreal
+14,24/11/13,Rayo Vallecano,1-4,Espanyol
+14,24/11/13,Elche,2-1,Valencia
+14,24/11/13,Sevilla,4-0,Real Betis
+14,25/11/13,Málaga,1-2,Athletic Bilbao
+15,29/11/13,Getafe,1-0,Levante
+15,29/11/13,Villarreal,1-1,Málaga
+15,30/11/13,Elche,0-2,Atlético de Madrid
+15,30/11/13,Celta de Vigo,3-1,Almería
+15,30/11/13,Real Madrid,4-0,Valladolid
+15,30/11/13,Espanyol,1-2,Real Sociedad
+15,01/12/13,Real Betis,2-2,Rayo Vallecano
+15,01/12/13,Granada,1-2,Sevilla
+15,01/12/13,Valencia,3-0,Osasuna
+15,01/12/13,Athletic Bilbao,1-0,Barcelona
+16,13/12/13,Levante,2-1,Elche
+16,14/12/13,Osasuna,2-2,Real Madrid
+16,14/12/13,Rayo Vallecano,0-2,Granada
+16,14/12/13,Barcelona,2-1,Villarreal
+16,14/12/13,Málaga,1-0,Getafe
+16,15/12/13,Almería,0-0,Espanyol
+16,15/12/13,Real Sociedad,5-1,Real Betis
+16,15/12/13,Sevilla,1-1,Athletic Bilbao
+16,15/12/13,Atlético de Madrid,3-0,Valencia
+16,16/12/13,Valladolid,3-0,Celta de Vigo
+17,20/12/13,Elche,0-1,Málaga
+17,21/12/13,Villarreal,1-2,Sevilla
+17,21/12/13,Real Betis,0-1,Almería
+17,21/12/13,Atlético de Madrid,3-2,Levante
+17,21/12/13,Granada,1-3,Real Sociedad
+17,22/12/13,Espanyol,4-2,Valladolid
+17,22/12/13,Getafe,2-5,Barcelona
+17,22/12/13,Athletic Bilbao,2-1,Rayo Vallecano
+17,22/12/13,Celta de Vigo,1-1,Osasuna
+17,22/12/13,Valencia,2-3,Real Madrid
+18,04/01/14,Málaga,0-1,Atlético de Madrid
+18,04/01/14,Valladolid,0-0,Real Betis
+18,04/01/14,Valencia,2-0,Levante
+18,04/01/14,Almería,3-0,Granada
+18,05/01/14,Sevilla,3-0,Getafe
+18,05/01/14,Barcelona,4-0,Elche
+18,05/01/14,Osasuna,1-0,Espanyol
+18,05/01/14,Real Sociedad,2-0,Athletic Bilbao
+18,06/01/14,Real Madrid,3-0,Celta de Vigo
+18,06/01/14,Rayo Vallecano,2-5,Villarreal
+19,10/01/14,Granada,4-0,Valladolid
+19,11/01/14,Athletic Bilbao,6-1,Almería
+19,11/01/14,Celta de Vigo,2-1,Valencia
+19,11/01/14,Atlético de Madrid,0-0,Barcelona
+19,11/01/14,Elche,1-1,Sevilla
+19,12/01/14,Getafe,0-1,Rayo Vallecano
+19,12/01/14,Real Betis,1-2,Osasuna
+19,12/01/14,Espanyol,0-1,Real Madrid
+19,12/01/14,Levante,1-0,Málaga
+19,13/01/14,Villarreal,5-1,Real Sociedad
+20,17/01/14,Málaga,0-0,Valencia
+20,18/01/14,Real Betis,0-5,Real Madrid
+20,18/01/14,Elche,2-0,Rayo Vallecano
+20,18/01/14,Granada,0-0,Osasuna
+20,18/01/14,Espanyol,1-0,Celta de Vigo
+20,19/01/14,Getafe,2-2,Real Sociedad
+20,19/01/14,Villarreal,2-0,Almería
+20,19/01/14,Levante,1-1,Barcelona
+20,19/01/14,Atlético de Madrid,1-1,Sevilla
+20,20/01/14,Athletic Bilbao,4-2,Valladolid
+21,24/01/14,Celta de Vigo,4-2,Real Betis
+21,25/01/14,Real Madrid,2-0,Granada
+21,25/01/14,Valladolid,1-0,Villarreal
+21,25/01/14,Valencia,2-2,Espanyol
+21,25/01/14,Sevilla,2-3,Levante
+21,26/01/14,Almería,1-0,Getafe
+21,26/01/14,Osasuna,1-5,Athletic Bilbao
+21,26/01/14,Rayo Vallecano,2-4,Atlético de Madrid
+21,26/01/14,Barcelona,3-0,Málaga
+21,27/01/14,Real Sociedad,4-0,Elche
+22,31/01/14,Granada,1-2,Celta de Vigo
+22,01/02/14,Barcelona,2-3,Valencia
+22,01/02/14,Levante,0-0,Rayo Vallecano
+22,01/02/14,Getafe,0-0,Valladolid
+22,01/02/14,Málaga,3-2,Sevilla
+22,02/02/14,Elche,1-0,Almería
+22,02/02/14,Real Betis,2-0,Espanyol
+22,02/02/14,Atlético de Madrid,4-0,Real Sociedad
+22,02/02/14,Athletic Bilbao,1-1,Real Madrid
+22,03/02/14,Villarreal,3-1,Osasuna
+23,07/02/14,Espanyol,1-0,Granada
+23,08/02/14,Valencia,5-0,Real Betis
+23,08/02/14,Rayo Vallecano,4-1,Málaga
+23,08/02/14,Real Madrid,4-2,Villarreal
+23,08/02/14,Almería,2-0,Atlético de Madrid
+23,09/02/14,Osasuna,2-0,Getafe
+23,09/02/14,Valladolid,2-2,Elche
+23,09/02/14,Real Sociedad,0-0,Levante
+23,09/02/14,Sevilla,1-4,Barcelona
+23,10/02/14,Celta de Vigo,0-0,Athletic Bilbao
+24,14/02/14,Elche,0-0,Osasuna
+24,15/02/14,Atlético de Madrid,3-0,Valladolid
+24,15/02/14,Levante,1-0,Almería
+24,15/02/14,Barcelona,6-0,Rayo Vallecano
+24,15/02/14,Villarreal,0-2,Celta de Vigo
+24,16/02/14,Granada,1-0,Real Betis
+24,16/02/14,Getafe,0-3,Real Madrid
+24,16/02/14,Athletic Bilbao,1-2,Espanyol
+24,16/02/14,Sevilla,0-0,Valencia
+24,17/02/14,Málaga,0-1,Real Sociedad
+25,21/02/14,Valladolid,1-1,Levante
+25,21/02/14,Celta de Vigo,1-1,Getafe
+25,21/02/14,Real Madrid,3-0,Elche
+25,22/02/14,Real Sociedad,3-1,Barcelona
+25,22/02/14,Almería,0-0,Málaga
+25,23/02/14,Rayo Vallecano,0-1,Sevilla
+25,23/02/14,Real Betis,0-2,Athletic Bilbao
+25,23/02/14,Valencia,2-1,Granada
+25,23/02/14,Osasuna,3-0,Atlético de Madrid
+25,24/02/14,Espanyol,1-2,Villarreal
+26,28/02/14,Athletic Bilbao,4-0,Granada
+26,28/02/14,Málaga,1-1,Valladolid
+26,01/03/14,Levante,2-0,Osasuna
+26,01/03/14,Getafe,0-0,Espanyol
+26,01/03/14,Elche,1-0,Celta de Vigo
+26,02/03/14,Villarreal,1-1,Real Betis
+26,02/03/14,Atlético de Madrid,2-2,Real Madrid
+26,02/03/14,Sevilla,1-0,Real Sociedad
+26,02/03/14,Barcelona,4-1,Almería
+26,02/03/14,Rayo Vallecano,1-0,Valencia
+27,08/03/14,Valladolid,1-0,Barcelona
+27,08/03/14,Real Betis,2-0,Getafe
+27,08/03/14,Celta de Vigo,0-2,Atlético de Madrid
+27,08/03/14,Granada,2-0,Villarreal
+27,09/03/14,Espanyol,3-1,Elche
+27,09/03/14,Almería,1-3,Sevilla
+27,09/03/14,Real Madrid,3-0,Levante
+27,09/03/14,Valencia,1-1,Athletic Bilbao
+27,10/03/14,Osasuna,0-2,Málaga
+27,10/03/14,Real Sociedad,2-3,Rayo Vallecano
+28,14/03/14,Getafe,3-3,Granada
+28,15/03/14,Levante,0-1,Celta de Vigo
+28,15/03/14,Rayo Vallecano,3-1,Almería
+28,15/03/14,Málaga,0-1,Real Madrid
+28,15/03/14,Atlético de Madrid,1-0,Espanyol
+28,16/03/14,Elche,0-0,Real Betis
+28,16/03/14,Barcelona,7-0,Osasuna
+28,16/03/14,Sevilla,4-1,Valladolid
+28,16/03/14,Real Sociedad,1-0,Valencia
+28,17/03/14,Villarreal,1-1,Athletic Bilbao
+29,21/03/14,Celta de Vigo,0-2,Málaga
+29,22/03/14,Granada,1-0,Elche
+29,22/03/14,Espanyol,0-0,Levante
+29,22/03/14,Valladolid,1-1,Rayo Vallecano
+29,22/03/14,Athletic Bilbao,1-0,Getafe
+29,23/03/14,Osasuna,1-2,Sevilla
+29,23/03/14,Real Betis,0-2,Atlético de Madrid
+29,23/03/14,Valencia,2-1,Villarreal
+29,23/03/14,Real Madrid,3-4,Barcelona
+29,24/03/14,Almería,4-3,Real Sociedad
+30,25/03/14,Málaga,1-2,Espanyol
+30,25/03/14,Elche,0-0,Athletic Bilbao
+30,26/03/14,Barcelona,3-0,Celta de Vigo
+30,26/03/14,Rayo Vallecano,1-0,Osasuna
+30,26/03/14,Atlético de Madrid,1-0,Granada
+30,26/03/14,Sevilla,2-1,Real Madrid
+30,27/03/14,Getafe,0-1,Villarreal
+30,27/03/14,Real Sociedad,1-0,Valladolid
+30,27/03/14,Levante,1-3,Real Betis
+30,27/03/14,Almería,2-2,Valencia

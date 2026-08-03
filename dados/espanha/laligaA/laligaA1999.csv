@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,20/08/99,Valencia,1-2,Racing Santander
+1,20/08/99,Athletic Bilbao,1-0,Real Betis
+1,21/08/99,Mallorca,1-2,Real Madrid
+1,21/08/99,Deportivo,4-1,Alavés
+1,21/08/99,Barcelona,2-0,Real Zaragoza
+1,21/08/99,Málaga,1-0,Espanyol
+1,21/08/99,Real Oviedo,1-0,Celta de Vigo
+1,21/08/99,Numancia,1-0,Valladolid
+1,21/08/99,Atlético de Madrid,0-2,Rayo Vallecano
+1,21/08/99,Sevilla,2-2,Real Sociedad
+2,27/08/99,Real Sociedad,4-1,Atlético de Madrid
+2,28/08/99,Real Zaragoza,4-0,Real Oviedo
+2,28/08/99,Alavés,2-1,Málaga
+2,28/08/99,Celta de Vigo,2-1,Sevilla
+2,28/08/99,Valladolid,1-0,Athletic Bilbao
+2,28/08/99,Rayo Vallecano,2-1,Mallorca
+2,28/08/99,Espanyol,3-2,Valencia
+2,28/08/99,Racing Santander,1-2,Barcelona
+2,28/08/99,Real Betis,0-0,Deportivo
+2,29/08/99,Real Madrid,4-1,Numancia
+3,10/09/99,Deportivo,2-0,Valladolid
+3,10/09/99,Barcelona,3-0,Espanyol
+3,10/09/99,Valencia,0-2,Alavés
+3,11/09/99,Rayo Vallecano,2-1,Real Sociedad
+3,11/09/99,Mallorca,3-0,Numancia
+3,11/09/99,Málaga,3-0,Real Betis
+3,11/09/99,Real Oviedo,1-2,Racing Santander
+3,11/09/99,Atlético de Madrid,1-2,Celta de Vigo
+3,11/09/99,Sevilla,0-0,Real Zaragoza
+3,12/09/99,Athletic Bilbao,2-2,Real Madrid
+4,17/09/99,Valladolid,4-2,Málaga
+4,17/09/99,Espanyol,2-1,Real Oviedo
+4,17/09/99,Real Betis,1-0,Valencia
+4,18/09/99,Real Madrid,1-1,Deportivo
+4,18/09/99,Alavés,2-1,Barcelona
+4,18/09/99,Real Zaragoza,1-1,Atlético de Madrid
+4,18/09/99,Celta de Vigo,0-1,Rayo Vallecano
+4,18/09/99,Real Sociedad,2-1,Mallorca
+4,18/09/99,Racing Santander,2-2,Sevilla
+4,18/09/99,Numancia,1-1,Athletic Bilbao
+5,24/09/99,Barcelona,4-1,Real Betis
+5,24/09/99,Valencia,0-0,Valladolid
+5,24/09/99,Real Sociedad,0-2,Celta de Vigo
+5,25/09/99,Málaga,1-1,Real Madrid
+5,25/09/99,Deportivo,0-2,Numancia
+5,25/09/99,Rayo Vallecano,0-1,Real Zaragoza
+5,25/09/99,Mallorca,2-1,Athletic Bilbao
+5,25/09/99,Real Oviedo,1-0,Alavés
+5,25/09/99,Atlético de Madrid,2-0,Racing Santander
+5,25/09/99,Sevilla,1-2,Espanyol
+6,01/10/99,Numancia,1-1,Málaga
+6,02/10/99,Valladolid,0-2,Barcelona
+6,02/10/99,Real Zaragoza,2-0,Real Sociedad
+6,02/10/99,Alavés,0-0,Sevilla
+6,02/10/99,Celta de Vigo,1-0,Mallorca
+6,02/10/99,Athletic Bilbao,2-3,Deportivo
+6,02/10/99,Espanyol,3-1,Atlético de Madrid
+6,02/10/99,Racing Santander,1-1,Rayo Vallecano
+6,02/10/99,Real Betis,1-0,Real Oviedo
+6,03/10/99,Real Madrid,2-3,Valencia
+7,11/10/99,Mallorca,2-2,Deportivo
+7,11/10/99,Málaga,3-4,Athletic Bilbao
+7,11/10/99,Atlético de Madrid,1-0,Alavés
+7,11/10/99,Sevilla,3-0,Real Betis
+7,12/10/99,Valencia,4-0,Numancia
+7,12/10/99,Celta de Vigo,2-1,Real Zaragoza
+7,12/10/99,Rayo Vallecano,2-1,Espanyol
+7,12/10/99,Real Sociedad,2-5,Racing Santander
+7,12/10/99,Real Oviedo,1-1,Valladolid
+7,13/10/99,Barcelona,2-2,Real Madrid
+8,15/10/99,Deportivo,4-1,Málaga
+8,15/10/99,Athletic Bilbao,1-0,Valencia
+8,15/10/99,Racing Santander,3-0,Celta de Vigo
+8,15/10/99,Numancia,3-3,Barcelona
+8,16/10/99,Real Madrid,2-2,Real Oviedo
+8,16/10/99,Real Zaragoza,3-0,Mallorca
+8,16/10/99,Alavés,0-1,Rayo Vallecano
+8,16/10/99,Valladolid,2-1,Sevilla
+8,16/10/99,Espanyol,0-0,Real Sociedad
+8,16/10/99,Real Betis,2-1,Atlético de Madrid
+9,22/10/99,Barcelona,4-0,Athletic Bilbao
+9,22/10/99,Valencia,2-0,Deportivo
+9,23/10/99,Sevilla,1-1,Real Madrid
+9,23/10/99,Real Zaragoza,4-1,Racing Santander
+9,23/10/99,Celta de Vigo,2-1,Espanyol
+9,23/10/99,Rayo Vallecano,1-3,Real Betis
+9,23/10/99,Mallorca,2-1,Málaga
+9,23/10/99,Real Sociedad,1-1,Alavés
+9,23/10/99,Real Oviedo,1-0,Numancia
+9,23/10/99,Atlético de Madrid,3-1,Valladolid
+10,29/10/99,Deportivo,2-1,Barcelona
+10,29/10/99,Málaga,1-1,Valencia
+10,30/10/99,Real Madrid,1-3,Atlético de Madrid
+10,30/10/99,Alavés,1-0,Celta de Vigo
+10,30/10/99,Valladolid,1-2,Rayo Vallecano
+10,30/10/99,Athletic Bilbao,1-1,Real Oviedo
+10,30/10/99,Espanyol,1-1,Real Zaragoza
+10,30/10/99,Racing Santander,1-1,Mallorca
+10,30/10/99,Numancia,2-0,Sevilla
+10,30/10/99,Real Betis,1-0,Real Sociedad
+11,06/11/99,Rayo Vallecano,2-3,Real Madrid
+11,06/11/99,Barcelona,1-2,Málaga
+11,06/11/99,Real Zaragoza,2-1,Alavés
+11,06/11/99,Celta de Vigo,5-1,Real Betis
+11,06/11/99,Mallorca,1-0,Valencia
+11,06/11/99,Real Sociedad,3-0,Valladolid
+11,06/11/99,Racing Santander,2-2,Espanyol
+11,06/11/99,Real Oviedo,0-1,Deportivo
+11,06/11/99,Atlético de Madrid,2-2,Numancia
+11,06/11/99,Sevilla,0-0,Athletic Bilbao
+12,19/11/99,Valencia,3-1,Barcelona
+12,19/11/99,Athletic Bilbao,4-2,Atlético de Madrid
+12,20/11/99,Deportivo,5-2,Sevilla
+12,20/11/99,Valladolid,1-3,Celta de Vigo
+12,20/11/99,Málaga,4-0,Real Oviedo
+12,20/11/99,Espanyol,1-2,Mallorca
+12,20/11/99,Numancia,3-1,Rayo Vallecano
+12,20/11/99,Real Betis,2-0,Real Zaragoza
+12,21/11/99,Real Madrid,1-1,Real Sociedad
+13,26/11/99,Sevilla,0-0,Málaga
+13,27/11/99,Real Zaragoza,1-1,Valladolid
+13,27/11/99,Rayo Vallecano,1-2,Athletic Bilbao
+13,27/11/99,Mallorca,3-2,Barcelona
+13,27/11/99,Real Sociedad,2-1,Numancia
+13,27/11/99,Espanyol,2-3,Alavés
+13,27/11/99,Racing Santander,1-1,Real Betis
+13,27/11/99,Real Oviedo,0-0,Valencia
+13,27/11/99,Atlético de Madrid,1-3,Deportivo
+13,28/11/99,Celta de Vigo,1-0,Real Madrid
+14,03/12/99,Barcelona,3-2,Real Oviedo
+14,03/12/99,Valencia,2-0,Sevilla
+14,03/12/99,Athletic Bilbao,1-1,Real Sociedad
+14,04/12/99,Real Madrid,1-5,Real Zaragoza
+14,04/12/99,Deportivo,3-2,Rayo Vallecano
+14,04/12/99,Alavés,2-2,Mallorca
+14,04/12/99,Valladolid,1-0,Racing Santander
+14,04/12/99,Málaga,2-3,Atlético de Madrid
+14,04/12/99,Numancia,3-1,Celta de Vigo
+14,04/12/99,Real Betis,2-5,Espanyol
+12,07/12/99,Alavés,2-1,Racing Santander
+15,10/12/99,Sevilla,3-2,Barcelona
+15,11/12/99,Real Zaragoza,3-3,Numancia
+15,11/12/99,Alavés,2-0,Real Betis
+15,11/12/99,Celta de Vigo,1-1,Athletic Bilbao
+15,11/12/99,Rayo Vallecano,4-1,Málaga
+15,11/12/99,Mallorca,1-1,Real Oviedo
+15,11/12/99,Real Sociedad,0-1,Deportivo
+15,11/12/99,Espanyol,1-1,Valladolid
+15,11/12/99,Atlético de Madrid,1-2,Valencia
+15,12/12/99,Racing Santander,1-1,Real Madrid
+16,17/12/99,Deportivo,1-0,Celta de Vigo
+16,17/12/99,Valladolid,1-1,Alavés
+16,18/12/99,Real Madrid,2-1,Espanyol
+16,18/12/99,Barcelona,2-1,Atlético de Madrid
+16,18/12/99,Valencia,3-1,Rayo Vallecano
+16,18/12/99,Athletic Bilbao,2-2,Real Zaragoza
+16,18/12/99,Málaga,0-0,Real Sociedad
+16,18/12/99,Real Oviedo,4-2,Sevilla
+16,18/12/99,Numancia,2-1,Racing Santander
+16,18/12/99,Real Betis,1-0,Mallorca
+17,21/12/99,Alavés,1-3,Real Madrid
+17,21/12/99,Real Zaragoza,2-1,Deportivo
+17,21/12/99,Celta de Vigo,2-4,Málaga
+17,21/12/99,Rayo Vallecano,1-1,Barcelona
+17,21/12/99,Mallorca,3-1,Sevilla
+17,21/12/99,Real Sociedad,0-0,Valencia
+17,21/12/99,Espanyol,3-1,Numancia
+17,21/12/99,Racing Santander,2-2,Athletic Bilbao
+17,21/12/99,Real Betis,0-1,Valladolid
+17,21/12/99,Atlético de Madrid,5-0,Real Oviedo
+18,03/01/00,Valencia,1-1,Celta de Vigo
+18,04/01/00,Deportivo,0-3,Racing Santander
+18,04/01/00,Barcelona,3-1,Real Sociedad
+18,04/01/00,Mallorca,0-0,Valladolid
+18,04/01/00,Athletic Bilbao,2-1,Espanyol
+18,04/01/00,Málaga,0-0,Real Zaragoza
+18,04/01/00,Real Oviedo,2-0,Rayo Vallecano
+18,04/01/00,Numancia,0-0,Alavés
+18,04/01/00,Sevilla,2-1,Atlético de Madrid
+19,07/01/00,Espanyol,0-0,Deportivo
+19,08/01/00,Real Zaragoza,4-2,Valencia
+19,08/01/00,Alavés,1-2,Athletic Bilbao
+19,08/01/00,Celta de Vigo,0-2,Barcelona
+19,08/01/00,Rayo Vallecano,2-0,Sevilla
+19,08/01/00,Real Sociedad,0-0,Real Oviedo
+19,08/01/00,Racing Santander,2-3,Málaga
+19,08/01/00,Real Betis,1-2,Numancia
+19,08/01/00,Atlético de Madrid,1-0,Mallorca
+20,14/01/00,Rayo Vallecano,1-1,Atlético de Madrid
+20,15/01/00,Real Zaragoza,0-0,Barcelona
+20,15/01/00,Alavés,2-1,Deportivo
+20,15/01/00,Celta de Vigo,5-3,Real Oviedo
+20,15/01/00,Valladolid,2-0,Numancia
+20,15/01/00,Real Sociedad,1-1,Sevilla
+20,15/01/00,Espanyol,0-2,Málaga
+20,15/01/00,Racing Santander,1-1,Valencia
+20,15/01/00,Real Betis,2-1,Athletic Bilbao
+20,17/01/00,Real Madrid,2-1,Mallorca
+21,21/01/00,Deportivo,2-0,Real Betis
+21,22/01/00,Barcelona,1-0,Racing Santander
+21,22/01/00,Valencia,1-2,Espanyol
+21,22/01/00,Mallorca,2-1,Rayo Vallecano
+21,22/01/00,Athletic Bilbao,1-0,Valladolid
+21,22/01/00,Málaga,0-1,Alavés
+21,22/01/00,Real Oviedo,1-0,Real Zaragoza
+21,22/01/00,Atlético de Madrid,1-1,Real Sociedad
+21,22/01/00,Sevilla,0-1,Celta de Vigo
+21,23/01/00,Numancia,0-0,Real Madrid
+18,26/01/00,Real Madrid,2-1,Real Betis
+22,28/01/00,Celta de Vigo,0-1,Atlético de Madrid
+22,28/01/00,Espanyol,1-1,Barcelona
+22,29/01/00,Real Zaragoza,2-1,Sevilla
+22,29/01/00,Alavés,0-1,Valencia
+22,29/01/00,Valladolid,4-1,Deportivo
+22,29/01/00,Real Sociedad,2-1,Rayo Vallecano
+22,29/01/00,Racing Santander,3-1,Real Oviedo
+22,29/01/00,Numancia,3-1,Mallorca
+22,29/01/00,Real Betis,0-0,Málaga
+22,30/01/00,Real Madrid,3-1,Athletic Bilbao
+23,04/02/00,Valencia,3-1,Real Betis
+23,05/02/00,Rayo Vallecano,1-0,Celta de Vigo
+23,05/02/00,Mallorca,2-1,Real Sociedad
+23,05/02/00,Athletic Bilbao,2-1,Numancia
+23,05/02/00,Málaga,0-0,Valladolid
+23,05/02/00,Real Oviedo,1-0,Espanyol
+23,05/02/00,Atlético de Madrid,2-2,Real Zaragoza
+23,05/02/00,Sevilla,1-0,Racing Santander
+23,06/02/00,Deportivo,5-2,Real Madrid
+23,06/02/00,Barcelona,0-1,Alavés
+24,11/02/00,Valladolid,0-0,Valencia
+24,11/02/00,Athletic Bilbao,1-1,Mallorca
+24,12/02/00,Real Madrid,1-0,Málaga
+24,12/02/00,Real Zaragoza,1-1,Rayo Vallecano
+24,12/02/00,Alavés,1-0,Real Oviedo
+24,12/02/00,Celta de Vigo,4-1,Real Sociedad
+24,12/02/00,Espanyol,2-2,Sevilla
+24,12/02/00,Racing Santander,2-1,Atlético de Madrid
+24,12/02/00,Numancia,1-0,Deportivo
+24,12/02/00,Real Betis,2-1,Barcelona
+19,15/02/00,Valladolid,0-1,Real Madrid
+25,18/02/00,Deportivo,2-0,Athletic Bilbao
+25,19/02/00,Barcelona,4-0,Valladolid
+25,19/02/00,Rayo Vallecano,1-2,Racing Santander
+25,19/02/00,Mallorca,1-0,Celta de Vigo
+25,19/02/00,Málaga,3-1,Numancia
+25,19/02/00,Real Sociedad,2-1,Real Zaragoza
+25,19/02/00,Real Oviedo,1-1,Real Betis
+25,19/02/00,Atlético de Madrid,1-1,Espanyol
+25,19/02/00,Sevilla,2-2,Alavés
+25,20/02/00,Valencia,1-1,Real Madrid
+26,25/02/00,Numancia,1-2,Valencia
+26,26/02/00,Real Madrid,3-0,Barcelona
+26,26/02/00,Deportivo,2-1,Mallorca
+26,26/02/00,Real Zaragoza,2-1,Celta de Vigo
+26,26/02/00,Alavés,2-0,Atlético de Madrid
+26,26/02/00,Valladolid,2-1,Real Oviedo
+26,26/02/00,Athletic Bilbao,2-2,Málaga
+26,26/02/00,Espanyol,5-1,Rayo Vallecano
+26,26/02/00,Racing Santander,0-0,Real Sociedad
+26,26/02/00,Real Betis,1-1,Sevilla
+27,03/03/00,Barcelona,4-0,Numancia
+27,03/03/00,Valencia,2-0,Athletic Bilbao
+27,04/03/00,Real Oviedo,1-1,Real Madrid
+27,04/03/00,Celta de Vigo,2-0,Racing Santander
+27,04/03/00,Rayo Vallecano,0-1,Alavés
+27,04/03/00,Mallorca,1-1,Real Zaragoza
+27,04/03/00,Málaga,1-0,Deportivo
+27,04/03/00,Real Sociedad,1-0,Espanyol
+27,04/03/00,Atlético de Madrid,0-0,Real Betis
+27,04/03/00,Sevilla,0-1,Valladolid
+28,10/03/00,Athletic Bilbao,0-4,Barcelona
+28,10/03/00,Real Betis,1-1,Rayo Vallecano
+28,11/03/00,Real Madrid,3-1,Sevilla
+28,11/03/00,Deportivo,2-0,Valencia
+28,11/03/00,Alavés,2-1,Real Sociedad
+28,11/03/00,Valladolid,1-0,Atlético de Madrid
+28,11/03/00,Málaga,0-0,Mallorca
+28,11/03/00,Espanyol,3-0,Celta de Vigo
+28,11/03/00,Racing Santander,1-2,Real Zaragoza
+28,11/03/00,Numancia,1-1,Real Oviedo
+29,17/03/00,Barcelona,2-1,Deportivo
+29,17/03/00,Valencia,2-2,Málaga
+29,18/03/00,Atlético de Madrid,1-1,Real Madrid
+29,18/03/00,Real Zaragoza,1-1,Espanyol
+29,18/03/00,Celta de Vigo,1-1,Alavés
+29,18/03/00,Rayo Vallecano,4-1,Valladolid
+29,18/03/00,Mallorca,1-2,Racing Santander
+29,18/03/00,Real Sociedad,1-0,Real Betis
+29,18/03/00,Real Oviedo,1-0,Athletic Bilbao
+29,18/03/00,Sevilla,4-0,Numancia
+30,24/03/00,Valencia,1-0,Mallorca
+30,24/03/00,Real Madrid,0-0,Rayo Vallecano
+30,24/03/00,Alavés,0-2,Real Zaragoza
+30,24/03/00,Valladolid,2-1,Real Sociedad
+30,24/03/00,Athletic Bilbao,1-1,Sevilla
+30,24/03/00,Málaga,1-2,Barcelona
+30,24/03/00,Espanyol,1-0,Racing Santander
+30,24/03/00,Numancia,3-0,Atlético de Madrid
+30,25/03/00,Deportivo,3-1,Real Oviedo
+30,25/03/00,Real Betis,0-0,Celta de Vigo

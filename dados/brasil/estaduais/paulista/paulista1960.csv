@@ -1,0 +1,307 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,11/06/60,São Paulo,1-1,Noroeste
+C,12/06/60,EC Corinthians,0-2,Corinthians
+C,12/06/60,Portuguesa,3-1,Taubaté
+C,12/06/60,América-SP,1-2,Guarani
+C,12/06/60,Jabaquara,2-0,XV de Piracicaba
+C,12/06/60,Botafogo-SP,4-2,Portuguesa Santista
+C,12/06/60,Ponte Preta,1-1,Comercial
+C,15/06/60,Portuguesa Santista,0-3,EC Corinthians
+C,15/06/60,São Paulo,1-2,Botafogo-SP
+C,16/06/60,Noroeste,0-0,Jabaquara
+C,19/06/60,Corinthians,2-1,Noroeste
+C,19/06/60,Taubaté,1-1,Botafogo-SP
+C,19/06/60,América-SP,1-1,Portuguesa
+C,19/06/60,XV de Piracicaba,2-1,Portuguesa Santista
+C,19/06/60,Comercial,4-1,São Paulo
+C,19/06/60,Juventus-SP,5-4,Ponte Preta
+C,19/06/60,Guarani,2-2,Jabaquara
+C,22/06/60,Portuguesa Santista,2-0,Comercial
+C,22/06/60,Taubaté,2-1,Corinthians
+C,22/06/60,Botafogo-SP,2-2,Juventus-SP
+C,25/06/60,Portuguesa Santista,2-1,Guarani
+C,26/06/60,Botafogo-SP,2-1,Noroeste
+C,26/06/60,Ponte Preta,2-2,América-SP
+C,26/06/60,EC Corinthians,5-2,Portuguesa
+C,26/06/60,São Paulo,1-1,Juventus-SP
+C,26/06/60,Jabaquara,4-0,Taubaté
+C,29/06/60,EC Corinthians,1-2,Ponte Preta
+C,29/06/60,Ferroviária,0-2,Botafogo-SP
+C,29/06/60,América-SP,1-1,XV de Piracicaba
+C,29/06/60,Jabaquara,0-0,Portuguesa
+C,03/07/60,América-SP,2-1,Comercial
+C,03/07/60,Portuguesa Santista,2-3,Ferroviária
+C,03/07/60,Botafogo-SP,4-0,Guarani
+C,03/07/60,Portuguesa,0-1,XV de Piracicaba
+C,03/07/60,Noroeste,3-1,EC Corinthians
+C,03/07/60,Taubaté,1-0,Ponte Preta
+C,06/07/60,América-SP,1-0,Portuguesa Santista
+C,06/07/60,Noroeste,3-1,Comercial
+C,06/07/60,Ferroviária,3-1,Jabaquara
+C,06/07/60,Guarani,3-2,EC Corinthians
+C,09/07/60,Botafogo-SP,1-0,América-SP
+C,10/07/60,EC Corinthians,1-2,Taubaté
+C,10/07/60,Ponte Preta,1-1,Noroeste
+C,10/07/60,Jabaquara,1-0,Portuguesa Santista
+C,10/07/60,Portuguesa,3-2,Guarani
+C,10/07/60,Comercial,1-1,XV de Piracicaba
+C,10/07/60,Juventus-SP,0-1,Ferroviária
+C,16/07/60,São Paulo,4-1,Jabaquara
+C,17/07/60,América-SP,0-1,Palmeiras
+C,17/07/60,Guarani,4-0,Taubaté
+C,17/07/60,Santos,6-3,Ponte Preta
+C,17/07/60,Botafogo-SP,5-2,Comercial
+C,17/07/60,Juventus-SP,1-3,Noroeste
+C,17/07/60,Ferroviária,5-0,EC Corinthians
+C,17/07/60,Portuguesa,3-0,Corinthians
+C,20/07/60,XV de Piracicaba,3-0,Botafogo-SP
+C,20/07/60,Corinthians,1-0,Ferroviária
+C,20/07/60,Palmeiras,1-0,Comercial
+C,21/07/60,Portuguesa,1-1,Santos
+C,23/07/60,Portuguesa,3-2,Juventus-SP
+C,24/07/60,Comercial,5-2,EC Corinthians
+C,24/07/60,São Paulo,2-2,Palmeiras
+C,24/07/60,Guarani,2-2,Santos
+C,24/07/60,Taubaté,1-2,Noroeste
+C,24/07/60,Jabaquara,4-1,América-SP
+C,24/07/60,XV de Piracicaba,3-0,Ponte Preta
+C,27/07/60,Corinthians,3-2,Juventus-SP
+C,27/07/60,Santos,8-3,Jabaquara
+C,28/07/60,São Paulo,3-0,América-SP
+C,30/07/60,Portuguesa,2-4,Botafogo-SP
+C,31/07/60,EC Corinthians,0-1,XV de Piracicaba
+C,31/07/60,Santos,1-1,Corinthians
+C,31/07/60,América-SP,2-2,Juventus-SP
+C,31/07/60,Noroeste,2-0,Palmeiras
+C,31/07/60,Taubaté,3-1,Ferroviária
+C,31/07/60,Comercial,1-2,Guarani
+C,31/07/60,Ponte Preta,2-0,Portuguesa Santista
+C,03/08/60,Santos,5-1,Botafogo-SP
+C,03/08/60,Corinthians,2-3,Jabaquara
+C,04/08/60,Palmeiras,4-1,Ponte Preta
+C,04/08/60,Portuguesa Santista,0-0,São Paulo
+C,06/08/60,Juventus-SP,2-0,Taubaté
+C,07/08/60,Guarani,1-0,Corinthians
+C,07/08/60,Palmeiras,1-0,Portuguesa
+C,07/08/60,Comercial,2-0,Santos
+C,07/08/60,Jabaquara,2-2,Ponte Preta
+C,07/08/60,XV de Piracicaba,3-3,São Paulo
+C,07/08/60,Ferroviária,3-2,América-SP
+C,07/08/60,Noroeste,3-0,Portuguesa Santista
+C,10/08/60,Portuguesa,2-1,São Paulo
+C,10/08/60,Santos,4-1,Noroeste
+C,10/08/60,Ponte Preta,0-1,Botafogo-SP
+C,11/08/60,Palmeiras,4-3,Jabaquara
+C,13/08/60,Juventus-SP,3-2,Comercial
+C,14/08/60,Ferroviária,1-2,Guarani
+C,14/08/60,XV de Piracicaba,0-1,Taubaté
+C,14/08/60,Botafogo-SP,1-1,Palmeiras
+C,14/08/60,Ponte Preta,2-3,Portuguesa
+C,14/08/60,EC Corinthians,0-1,Santos
+C,14/08/60,Portuguesa Santista,1-0,Corinthians
+C,17/08/60,Santos,5-1,Taubaté
+C,17/08/60,Corinthians,2-1,Palmeiras
+C,17/08/60,Ferroviária,3-1,Portuguesa
+C,20/08/60,Portuguesa,3-1,Portuguesa Santista
+C,20/08/60,Jabaquara,3-0,Botafogo-SP
+C,20/08/60,Juventus-SP,2-1,XV de Piracicaba
+C,21/08/60,EC Corinthians,2-6,São Paulo
+C,21/08/60,Ponte Preta,3-2,Guarani
+C,21/08/60,América-SP,1-3,Corinthians
+C,21/08/60,Noroeste,1-1,Ferroviária
+C,21/08/60,Comercial,3-0,Taubaté
+C,21/08/60,Palmeiras,1-3,Santos
+C,24/08/60,Taubaté,1-0,América-SP
+C,24/08/60,Ferroviária,3-3,Ponte Preta
+C,24/08/60,Palmeiras,2-0,EC Corinthians
+C,25/08/60,São Paulo,1-1,Guarani
+C,27/08/60,Corinthians,3-1,Ponte Preta
+C,28/08/60,Comercial,3-1,Jabaquara
+C,28/08/60,Noroeste,1-0,XV de Piracicaba
+C,28/08/60,EC Corinthians,2-0,Botafogo-SP
+C,28/08/60,Portuguesa Santista,4-1,Palmeiras
+C,28/08/60,Guarani,0-0,Juventus-SP
+C,28/08/60,São Paulo,1-3,Ferroviária
+C,31/08/60,Corinthians,1-2,Comercial
+C,31/08/60,Santos,1-1,São Paulo
+C,31/08/60,Guarani,2-0,XV de Piracicaba
+C,31/08/60,Juventus-SP,1-2,EC Corinthians
+C,01/09/60,Palmeiras,2-0,Taubaté
+C,03/09/60,Juventus-SP,3-1,Portuguesa Santista
+C,04/09/60,Ferroviária,4-0,Santos
+C,04/09/60,Portuguesa,3-2,Noroeste
+C,04/09/60,Guarani,3-3,Palmeiras
+C,04/09/60,Taubaté,0-3,São Paulo
+C,04/09/60,Jabaquara,2-0,EC Corinthians
+C,04/09/60,XV de Piracicaba,1-2,Corinthians
+C,07/09/60,Noroeste,0-0,América-SP
+C,07/09/60,XV de Piracicaba,2-0,Ferroviária
+C,08/09/60,Santos,0-0,Portuguesa Santista
+C,08/09/60,Palmeiras,1-0,Juventus-SP
+C,10/09/60,Comercial,1-2,Portuguesa
+C,11/09/60,EC Corinthians,1-0,América-SP
+C,11/09/60,Noroeste,2-0,Guarani
+C,11/09/60,XV de Piracicaba,0-0,Santos
+C,11/09/60,Ferroviária,0-0,Palmeiras
+C,11/09/60,Ponte Preta,0-0,São Paulo
+C,11/09/60,Botafogo-SP,0-0,Corinthians
+C,11/09/60,Jabaquara,0-0,Juventus-SP
+C,11/09/60,Taubaté,2-0,Portuguesa Santista
+C,14/09/60,Comercial,2-1,Ferroviária
+C,14/09/60,Palmeiras,3-0,XV de Piracicaba
+C,15/09/60,Corinthians,3-1,São Paulo
+C,15/09/60,Santos,5-2,Juventus-SP
+C,17/09/60,Portuguesa,3-0,Comercial
+C,17/09/60,América-SP,1-0,Santos
+C,18/09/60,Portuguesa Santista,1-2,Noroeste
+C,18/09/60,Botafogo-SP,3-0,São Paulo
+C,18/09/60,Taubaté,5-2,EC Corinthians
+C,18/09/60,Ponte Preta,2-1,Juventus-SP
+C,21/09/60,Corinthians,2-0,EC Corinthians
+C,21/09/60,Santos,3-2,Jabaquara
+C,21/09/60,Comercial,4-3,Ponte Preta
+C,22/09/60,Palmeiras,3-2,Portuguesa Santista
+C,22/09/60,Guarani,1-1,América-SP
+C,24/09/60,Juventus-SP,1-3,Santos
+C,24/09/60,São Paulo,3-3,Comercial
+C,25/09/60,EC Corinthians,2-2,Ferroviária
+C,25/09/60,Portuguesa Santista,1-1,Taubaté
+C,25/09/60,Guarani,3-0,Ponte Preta
+C,25/09/60,XV de Piracicaba,3-0,América-SP
+C,25/09/60,Noroeste,3-1,Botafogo-SP
+C,28/09/60,Juventus-SP,4-0,Guarani
+C,28/09/60,Taubaté,3-1,Comercial
+C,28/09/60,Ponte Preta,2-2,EC Corinthians
+C,28/09/60,América-SP,4-2,Jabaquara
+C,28/09/60,Santos,3-4,Portuguesa
+C,01/10/60,Jabaquara,1-5,Corinthians
+C,01/10/60,EC Corinthians,2-1,Noroeste
+C,01/10/60,Portuguesa,3-0,Juventus-SP
+C,01/10/60,Ferroviária,1-2,Portuguesa Santista
+C,02/10/60,Ponte Preta,2-2,XV de Piracicaba
+C,02/10/60,Santos,1-3,Guarani
+C,02/10/60,Comercial,3-3,Botafogo-SP
+C,05/10/60,Corinthians,1-1,XV de Piracicaba
+C,05/10/60,Noroeste,3-0,Juventus-SP
+C,05/10/60,Botafogo-SP,2-3,Ferroviária
+C,05/10/60,São Paulo,7-1,Taubaté
+C,06/10/60,Portuguesa Santista,2-0,América-SP
+C,06/10/60,Portuguesa,4-1,Palmeiras
+C,08/10/60,Juventus-SP,2-4,Botafogo-SP
+C,09/10/60,América-SP,4-0,Ponte Preta
+C,09/10/60,Portuguesa Santista,2-1,Portuguesa
+C,09/10/60,Ferroviária,1-1,Comercial
+C,09/10/60,Taubaté,3-3,Jabaquara
+C,09/10/60,Guarani,2-0,Noroeste
+C,09/10/60,XV de Piracicaba,2-0,EC Corinthians
+C,12/10/60,EC Corinthians,1-3,Portuguesa Santista
+C,12/10/60,Palmeiras,3-1,Noroeste
+C,13/10/60,Taubaté,4-4,Juventus-SP
+C,13/10/60,Corinthians,2-1,América-SP
+C,15/10/60,Jabaquara,3-3,Palmeiras
+C,16/10/60,Corinthians,3-1,Portuguesa
+C,16/10/60,Noroeste,5-2,São Paulo
+C,16/10/60,EC Corinthians,1-1,Guarani
+C,16/10/60,Santos,7-0,América-SP
+C,16/10/60,Botafogo-SP,1-1,XV de Piracicaba
+C,16/10/60,Ferroviária,6-0,Taubaté
+C,19/10/60,Botafogo-SP,0-0,Jabaquara
+C,19/10/60,Corinthians,1-0,Taubaté
+C,19/10/60,América-SP,2-0,Noroeste
+C,19/10/60,Palmeiras,2-0,São Paulo
+C,20/10/60,Ponte Preta,0-0,Ferroviária
+C,20/10/60,Portuguesa Santista,2-2,XV de Piracicaba
+C,22/10/60,Corinthians,3-0,Botafogo-SP
+C,23/10/60,Comercial,1-0,Noroeste
+C,23/10/60,Portuguesa Santista,2-0,Jabaquara
+C,23/10/60,Juventus-SP,2-2,Palmeiras
+C,23/10/60,São Paulo,3-0,EC Corinthians
+C,23/10/60,Ponte Preta,1-4,Santos
+C,23/10/60,Taubaté,0-1,Portuguesa
+C,26/10/60,Noroeste,5-2,Taubaté
+C,26/10/60,XV de Piracicaba,5-1,Comercial
+C,27/10/60,Botafogo-SP,1-3,Portuguesa
+C,27/10/60,América-SP,2-1,EC Corinthians
+C,29/10/60,Santos,2-1,Comercial
+C,30/10/60,Ferroviária,2-1,Corinthians
+C,30/10/60,Portuguesa,6-2,América-SP
+C,30/10/60,Guarani,2-1,Portuguesa Santista
+C,30/10/60,XV de Piracicaba,2-2,Palmeiras
+C,30/10/60,Botafogo-SP,2-0,Ponte Preta
+C,30/10/60,Jabaquara,3-1,Noroeste
+C,03/11/60,Portuguesa Santista,6-3,Ponte Preta
+C,03/11/60,Palmeiras,1-1,Corinthians
+C,06/11/60,Corinthians,2-0,Portuguesa Santista
+C,06/11/60,Guarani,0-1,Portuguesa
+C,06/11/60,América-SP,2-0,Botafogo-SP
+C,06/11/60,EC Corinthians,2-0,Jabaquara
+C,06/11/60,Santos,2-0,XV de Piracicaba
+C,06/11/60,Comercial,4-1,Juventus-SP
+C,06/11/60,Ferroviária,1-1,São Paulo
+C,06/11/60,Taubaté,2-2,Palmeiras
+C,09/11/60,Portuguesa Santista,0-1,Santos
+C,10/11/60,Juventus-SP,0-3,São Paulo
+C,10/11/60,Corinthians,2-2,Guarani
+C,10/11/60,Jabaquara,2-4,Ferroviária
+C,13/11/60,Ferroviária,6-2,Juventus-SP
+C,13/11/60,Portuguesa Santista,2-0,Botafogo-SP
+C,13/11/60,América-SP,2-2,São Paulo
+C,13/11/60,Noroeste,1-3,Santos
+C,13/11/60,Portuguesa,2-0,EC Corinthians
+C,13/11/60,Comercial,0-1,Corinthians
+C,13/11/60,Ponte Preta,0-1,Palmeiras
+C,13/11/60,XV de Piracicaba,5-3,Jabaquara
+C,16/11/60,Juventus-SP,3-0,América-SP
+C,16/11/60,Ponte Preta,0-1,Taubaté
+C,16/11/60,São Paulo,2-0,XV de Piracicaba
+C,17/11/60,Portuguesa,2-1,Ferroviária
+C,19/11/60,Comercial,2-1,Portuguesa Santista
+C,20/11/60,Botafogo-SP,2-4,Santos
+C,20/11/60,Noroeste,2-2,Corinthians
+C,20/11/60,EC Corinthians,5-0,Juventus-SP
+C,20/11/60,Portuguesa,2-1,Ponte Preta
+C,20/11/60,América-SP,2-1,Ferroviária
+C,20/11/60,Guarani,2-1,São Paulo
+C,20/11/60,Taubaté,1-0,XV de Piracicaba
+C,23/11/60,Ponte Preta,1-2,Jabaquara
+C,23/11/60,Santos,5-0,EC Corinthians
+C,23/11/60,São Paulo,4-1,Corinthians
+C,24/11/60,Palmeiras,1-1,Guarani
+C,27/11/60,Guarani,2-0,Botafogo-SP
+C,27/11/60,XV de Piracicaba,1-1,Portuguesa
+C,27/11/60,Comercial,1-5,Palmeiras
+C,27/11/60,Jabaquara,2-3,São Paulo
+C,27/11/60,Ferroviária,0-2,Noroeste
+C,27/11/60,Juventus-SP,1-2,Corinthians
+C,30/11/60,Corinthians,1-6,Santos
+C,01/12/60,Palmeiras,3-0,Botafogo-SP
+C,01/12/60,América-SP,3-0,Taubaté
+C,03/12/60,Portuguesa Santista,1-0,Juventus-SP
+C,04/12/60,Ferroviária,4-1,XV de Piracicaba
+C,04/12/60,Portuguesa,4-3,São Paulo
+C,04/12/60,Jabaquara,1-4,Guarani
+C,04/12/60,Taubaté,1-6,Santos
+C,04/12/60,EC Corinthians,2-0,Palmeiras
+C,04/12/60,Noroeste,3-2,Ponte Preta
+C,07/12/60,Palmeiras,4-0,América-SP
+C,07/12/60,Santos,5-0,Ferroviária
+C,07/12/60,Botafogo-SP,0-2,Taubaté
+C,08/12/60,XV de Piracicaba,2-2,Juventus-SP
+C,08/12/60,Guarani,0-1,Comercial
+C,10/12/60,Botafogo-SP,3-1,EC Corinthians
+C,10/12/60,Palmeiras,1-4,Ferroviária
+C,11/12/60,Comercial,2-1,América-SP
+C,11/12/60,Noroeste,5-2,Portuguesa
+C,11/12/60,Taubaté,2-2,Guarani
+C,11/12/60,EC Corinthians,1-0,Comercial
+C,11/12/60,Ponte Preta,0-1,Corinthians
+C,11/12/60,Juventus-SP,1-0,Jabaquara
+C,11/12/60,São Paulo,2-1,Santos
+C,14/12/60,Portuguesa,2-0,Jabaquara
+C,15/12/60,XV de Piracicaba,4-3,Guarani
+C,15/12/60,São Paulo,3-1,Portuguesa Santista
+C,17/12/60,Jabaquara,3-1,Comercial
+C,17/12/60,Santos,2-1,Palmeiras
+C,18/12/60,Guarani,2-4,Ferroviária
+C,18/12/60,São Paulo,5-0,Ponte Preta
+C,18/12/60,XV de Piracicaba,0-2,Noroeste

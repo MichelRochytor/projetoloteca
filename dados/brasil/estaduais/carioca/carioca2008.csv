@@ -1,0 +1,102 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,20/01/01,Flamengo,3-0,Olaria
+A,20/01/01,Botafogo,0-0,Bangu
+B,21/01/01,Fluminense,3-1,America-RJ
+B,21/01/01,Cabofriense,3-2,Friburguense
+A,21/01/01,Americano,2-0,Volta Redonda
+B,21/01/01,Vasco,1-2,Madureira
+B,26/01/01,America-RJ,2-1,Cabofriense
+B,27/01/01,Friburguense,1-2,Vasco
+A,27/01/01,Flamengo,4-0,Americano
+B,28/01/01,Madureira,2-3,Fluminense
+A,28/01/01,Bangu,1-1,Olaria
+A,28/01/01,Botafogo,1-0,Volta Redonda
+B,03/02/01,America-RJ,0-1,Vasco
+B,04/02/01,Cabofriense,0-4,Fluminense
+A,04/02/01,Olaria,3-2,Botafogo
+A,04/02/01,Volta Redonda,0-3,Flamengo
+A,04/02/01,Americano,1-0,Bangu
+B,04/02/01,Friburguense,0-0,Madureira
+A,10/02/01,Bangu,2-3,Flamengo
+A,10/02/01,Volta Redonda,2-1,Olaria
+A,11/02/01,Americano,1-0,Botafogo
+B,11/02/01,Fluminense,0-2,Vasco
+B,11/02/01,Friburguense,4-1,America-RJ
+B,11/02/01,Madureira,3-1,Cabofriense
+B,17/02/01,Vasco,3-1,Cabofriense
+B,17/02/01,Madureira,2-1,America-RJ
+B,17/02/01,Fluminense,6-1,Friburguense
+A,17/02/01,Olaria,0-0,Americano
+A,18/02/01,Flamengo,0-1,Botafogo
+A,18/02/01,Bangu,1-1,Volta Redonda
+SF,22/02/01,Flamengo,1-0,Vasco
+SF,24/02/01,Fluminense,1-0,Americano
+F,03/03/01,Flamengo,1-1,Fluminense
+2T,10/03/01,Olaria,3-2,Fluminense
+2T,10/03/01,Flamengo,2-1,Bangu
+2T,11/03/01,Americano,3-1,Madureira
+2T,11/03/01,Vasco,3-1,Cabofriense
+2T,11/03/01,Botafogo,2-2,America-RJ
+2T,11/03/01,Volta Redonda,1-1,Friburguense
+2T,17/03/01,Bangu,1-1,America-RJ
+2T,17/03/01,Botafogo,2-2,Friburguense
+2T,17/03/01,Olaria,0-1,Vasco
+2T,18/03/01,Flamengo,1-0,Volta Redonda
+2T,18/03/01,Fluminense,5-1,Madureira
+2T,18/03/01,Americano,2-0,Cabofriense
+2T,24/03/01,Fluminense,3-1,America-RJ
+2T,24/03/01,Madureira,3-3,Volta Redonda
+2T,24/03/01,Botafogo,2-1,Olaria
+2T,25/03/01,Cabofriense,1-1,Bangu
+2T,25/03/01,Americano,2-1,Flamengo
+2T,28/03/01,Friburguense,0-1,Americano
+2T,28/03/01,Olaria,1-0,Volta Redonda
+2T,28/03/01,Fluminense,5-0,Cabofriense
+2T,29/03/01,America-RJ,2-1,Flamengo
+2T,29/03/01,Bangu,1-4,Botafogo
+2T,30/03/01,Vasco,3-1,Madureira
+2T,31/03/01,Fluminense,1-0,Americano
+2T,01/04/01,Botafogo,1-1,Flamengo
+2T,01/04/01,America-RJ,2-1,Friburguense
+2T,01/04/01,Olaria,0-2,Bangu
+2T,02/04/01,Vasco,2-1,Volta Redonda
+2T,02/04/01,Madureira,4-1,Cabofriense
+2T,07/04/01,Flamengo,2-0,Friburguense
+2T,07/04/01,Madureira,2-1,America-RJ
+2T,07/04/01,Volta Redonda,3-2,Botafogo
+2T,08/04/01,Cabofriense,1-2,Olaria
+2T,08/04/01,Bangu,1-1,Fluminense
+2T,08/04/01,Americano,1-1,Vasco
+2T,14/04/01,America-RJ,2-3,Americano
+2T,14/04/01,Flamengo,4-2,Olaria
+2T,14/04/01,Bangu,1-3,Friburguense
+2T,15/04/01,Cabofriense,2-1,Volta Redonda
+2T,15/04/01,Madureira,2-3,Botafogo
+2T,15/04/01,Fluminense,3-3,Vasco
+2T,18/04/01,Friburguense,0-2,Vasco
+2T,21/04/01,Olaria,2-1,Friburguense
+2T,21/04/01,Madureira,0-3,Flamengo
+2T,22/04/01,America-RJ,2-3,Cabofriense
+2T,22/04/01,Americano,1-0,Volta Redonda
+2T,22/04/01,Fluminense,1-1,Botafogo
+2T,26/04/01,Vasco,3-2,Bangu
+2T,28/04/01,Olaria,5-0,America-RJ
+2T,28/04/01,Cabofriense,1-3,Flamengo
+2T,29/04/01,Friburguense,6-1,Madureira
+2T,29/04/01,Volta Redonda,2-1,Fluminense
+2T,29/04/01,Bangu,1-1,Americano
+2T,29/04/01,Vasco,7-0,Botafogo
+2T,05/05/01,America-RJ,0-5,Vasco
+2T,05/05/01,Madureira,2-5,Olaria
+2T,05/05/01,Botafogo,1-0,Americano
+2T,06/05/01,Volta Redonda,0-2,Bangu
+2T,06/05/01,Friburguense,1-1,Cabofriense
+2T,06/05/01,Flamengo,2-0,Fluminense
+2T,12/05/01,Cabofriense,2-2,Botafogo
+2T,12/05/01,Friburguense,5-2,Fluminense
+2T,12/05/01,Americano,2-0,Olaria
+2T,12/05/01,Bangu,3-1,Madureira
+2T,12/05/01,Volta Redonda,0-2,America-RJ
+2T,13/05/01,Flamengo,0-0,Vasco
+F,20/05/01,Flamengo,1-2,Vasco
+F,27/05/01,Vasco,1-3,Flamengo

@@ -1,0 +1,607 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,02/09/77,Las Palmas,0-0,Burgos CF
+1,02/09/77,Sevilla,3-1,Espanyol
+1,03/09/77,Barcelona,1-0,Real Sociedad
+1,03/09/77,Athletic Bilbao,0-0,Real Betis
+1,03/09/77,Atlético de Madrid,3-0,Valencia
+1,03/09/77,Salamanca,2-1,Real Madrid
+1,03/09/77,Racing Santander,2-0,Elche
+1,03/09/77,Hércules,1-0,Sporting Gijón
+1,03/09/77,Cádiz,2-1,Rayo Vallecano
+2,09/09/77,Real Madrid,3-0,Sevilla
+2,09/09/77,Valencia,3-0,Cádiz
+2,09/09/77,Sporting Gijón,0-0,Las Palmas
+2,09/09/77,Real Sociedad,4-1,Atlético de Madrid
+2,09/09/77,Real Betis,0-0,Barcelona
+2,09/09/77,Elche,2-0,Hércules
+2,10/09/77,Rayo Vallecano,1-0,Racing Santander
+2,10/09/77,Burgos CF,0-2,Salamanca
+2,10/09/77,Espanyol,2-1,Athletic Bilbao
+3,16/09/77,Sevilla,1-0,Burgos CF
+3,17/09/77,Athletic Bilbao,0-0,Barcelona
+3,17/09/77,Atlético de Madrid,1-1,Real Betis
+3,17/09/77,Las Palmas,4-1,Elche
+3,17/09/77,Salamanca,2-3,Sporting Gijón
+3,17/09/77,Racing Santander,2-2,Valencia
+3,17/09/77,Espanyol,1-4,Real Madrid
+3,17/09/77,Hércules,1-1,Rayo Vallecano
+3,17/09/77,Cádiz,2-0,Real Sociedad
+4,23/09/77,Valencia,6-1,Hércules
+4,23/09/77,Rayo Vallecano,1-1,Las Palmas
+4,23/09/77,Real Betis,3-0,Cádiz
+4,23/09/77,Elche,2-1,Salamanca
+4,24/09/77,Real Madrid,1-0,Athletic Bilbao
+4,24/09/77,Barcelona,1-0,Atlético de Madrid
+4,24/09/77,Sporting Gijón,1-0,Sevilla
+4,24/09/77,Real Sociedad,2-0,Racing Santander
+4,24/09/77,Burgos CF,3-2,Espanyol
+5,01/10/77,Real Madrid,3-0,Burgos CF
+5,01/10/77,Athletic Bilbao,1-0,Atlético de Madrid
+5,01/10/77,Las Palmas,1-0,Valencia
+5,01/10/77,Sevilla,3-3,Elche
+5,01/10/77,Salamanca,1-0,Rayo Vallecano
+5,01/10/77,Racing Santander,1-1,Real Betis
+5,01/10/77,Espanyol,2-1,Sporting Gijón
+5,01/10/77,Hércules,1-0,Real Sociedad
+5,01/10/77,Cádiz,0-2,Barcelona
+6,07/10/77,Valencia,3-1,Salamanca
+6,07/10/77,Elche,2-0,Espanyol
+6,08/10/77,Barcelona,3-0,Racing Santander
+6,08/10/77,Sporting Gijón,0-2,Real Madrid
+6,08/10/77,Atlético de Madrid,4-0,Cádiz
+6,08/10/77,Rayo Vallecano,4-1,Sevilla
+6,08/10/77,Real Sociedad,4-1,Las Palmas
+6,08/10/77,Burgos CF,2-2,Athletic Bilbao
+6,08/10/77,Real Betis,1-1,Hércules
+7,14/10/77,Athletic Bilbao,6-1,Cádiz
+7,14/10/77,Las Palmas,3-2,Real Betis
+7,15/10/77,Sevilla,1-0,Valencia
+7,15/10/77,Salamanca,0-0,Real Sociedad
+7,15/10/77,Burgos CF,0-0,Sporting Gijón
+7,15/10/77,Racing Santander,2-0,Atlético de Madrid
+7,15/10/77,Espanyol,2-1,Rayo Vallecano
+7,15/10/77,Hércules,2-1,Barcelona
+7,16/10/77,Real Madrid,5-1,Elche
+8,28/10/77,Valencia,3-0,Espanyol
+8,28/10/77,Atlético de Madrid,3-1,Hércules
+8,29/10/77,Barcelona,5-0,Las Palmas
+8,29/10/77,Sporting Gijón,2-2,Athletic Bilbao
+8,29/10/77,Rayo Vallecano,3-2,Real Madrid
+8,29/10/77,Real Sociedad,4-0,Sevilla
+8,29/10/77,Real Betis,0-1,Salamanca
+8,29/10/77,Elche,1-0,Burgos CF
+8,29/10/77,Cádiz,0-0,Racing Santander
+9,05/11/77,Real Madrid,1-0,Valencia
+9,05/11/77,Athletic Bilbao,3-0,Racing Santander
+9,05/11/77,Sporting Gijón,3-0,Elche
+9,05/11/77,Las Palmas,3-0,Atlético de Madrid
+9,05/11/77,Sevilla,1-0,Real Betis
+9,05/11/77,Salamanca,1-0,Barcelona
+9,05/11/77,Burgos CF,2-1,Rayo Vallecano
+9,05/11/77,Espanyol,2-0,Real Sociedad
+9,05/11/77,Hércules,0-0,Cádiz
+10,11/11/77,Valencia,1-0,Burgos CF
+10,11/11/77,Elche,2-1,Athletic Bilbao
+10,12/11/77,Barcelona,3-1,Sevilla
+10,12/11/77,Atlético de Madrid,4-2,Salamanca
+10,12/11/77,Rayo Vallecano,3-1,Sporting Gijón
+10,12/11/77,Real Sociedad,2-3,Real Madrid
+10,12/11/77,Racing Santander,1-0,Hércules
+10,12/11/77,Real Betis,3-1,Espanyol
+10,12/11/77,Cádiz,3-2,Las Palmas
+11,18/11/77,Las Palmas,3-0,Racing Santander
+11,19/11/77,Real Madrid,4-0,Real Betis
+11,19/11/77,Athletic Bilbao,2-1,Hércules
+11,19/11/77,Sporting Gijón,0-0,Valencia
+11,19/11/77,Sevilla,3-0,Atlético de Madrid
+11,19/11/77,Salamanca,2-1,Cádiz
+11,19/11/77,Burgos CF,3-2,Real Sociedad
+11,19/11/77,Espanyol,1-1,Barcelona
+11,19/11/77,Elche,3-0,Rayo Vallecano
+12,03/12/77,Barcelona,2-3,Real Madrid
+12,03/12/77,Valencia,4-1,Elche
+12,03/12/77,Atlético de Madrid,2-1,Espanyol
+12,03/12/77,Rayo Vallecano,3-2,Athletic Bilbao
+12,03/12/77,Real Sociedad,1-1,Sporting Gijón
+12,03/12/77,Racing Santander,0-3,Salamanca
+12,03/12/77,Hércules,1-2,Las Palmas
+12,03/12/77,Real Betis,2-1,Burgos CF
+12,03/12/77,Cádiz,0-0,Sevilla
+13,10/12/77,Real Madrid,4-2,Atlético de Madrid
+13,10/12/77,Athletic Bilbao,2-1,Las Palmas
+13,10/12/77,Sporting Gijón,4-3,Real Betis
+13,10/12/77,Sevilla,1-0,Racing Santander
+13,10/12/77,Salamanca,2-0,Hércules
+13,10/12/77,Rayo Vallecano,3-0,Valencia
+13,10/12/77,Burgos CF,1-1,Barcelona
+13,10/12/77,Espanyol,4-2,Cádiz
+13,10/12/77,Elche,1-2,Real Sociedad
+14,16/12/77,Las Palmas,0-0,Salamanca
+14,17/12/77,Barcelona,1-0,Sporting Gijón
+14,17/12/77,Valencia,3-1,Athletic Bilbao
+14,17/12/77,Atlético de Madrid,2-1,Burgos CF
+14,17/12/77,Real Sociedad,1-1,Rayo Vallecano
+14,17/12/77,Racing Santander,4-0,Espanyol
+14,17/12/77,Hércules,2-2,Sevilla
+14,17/12/77,Real Betis,4-0,Elche
+14,17/12/77,Cádiz,1-0,Real Madrid
+15,31/12/77,Real Madrid,2-0,Racing Santander
+15,31/12/77,Athletic Bilbao,3-1,Salamanca
+15,31/12/77,Valencia,0-1,Real Sociedad
+15,31/12/77,Sporting Gijón,3-2,Atlético de Madrid
+15,31/12/77,Sevilla,1-0,Las Palmas
+15,31/12/77,Rayo Vallecano,4-2,Real Betis
+15,31/12/77,Burgos CF,2-1,Cádiz
+15,31/12/77,Espanyol,2-1,Hércules
+15,31/12/77,Elche,1-3,Barcelona
+16,07/01/78,Barcelona,1-1,Rayo Vallecano
+16,07/01/78,Athletic Bilbao,1-0,Real Sociedad
+16,07/01/78,Atlético de Madrid,3-1,Elche
+16,07/01/78,Las Palmas,4-2,Espanyol
+16,07/01/78,Salamanca,1-1,Sevilla
+16,07/01/78,Racing Santander,1-1,Burgos CF
+16,07/01/78,Hércules,2-3,Real Madrid
+16,07/01/78,Real Betis,1-1,Valencia
+16,07/01/78,Cádiz,1-1,Sporting Gijón
+17,14/01/78,Real Madrid,1-1,Las Palmas
+17,14/01/78,Valencia,1-0,Barcelona
+17,14/01/78,Sporting Gijón,3-1,Racing Santander
+17,14/01/78,Sevilla,0-0,Athletic Bilbao
+17,14/01/78,Rayo Vallecano,2-0,Atlético de Madrid
+17,14/01/78,Real Sociedad,3-0,Real Betis
+17,14/01/78,Burgos CF,0-0,Hércules
+17,14/01/78,Espanyol,2-1,Salamanca
+17,14/01/78,Elche,1-1,Cádiz
+18,21/01/78,Real Madrid,0-0,Salamanca
+18,21/01/78,Valencia,1-1,Atlético de Madrid
+18,21/01/78,Sporting Gijón,2-1,Hércules
+18,21/01/78,Rayo Vallecano,6-1,Cádiz
+18,21/01/78,Real Sociedad,1-2,Barcelona
+18,21/01/78,Burgos CF,2-1,Las Palmas
+18,21/01/78,Espanyol,2-1,Sevilla
+18,21/01/78,Real Betis,2-2,Athletic Bilbao
+18,21/01/78,Elche,3-1,Racing Santander
+19,27/01/78,Las Palmas,2-2,Sporting Gijón
+19,28/01/78,Barcelona,1-0,Real Betis
+19,28/01/78,Athletic Bilbao,4-0,Espanyol
+19,28/01/78,Atlético de Madrid,2-1,Real Sociedad
+19,28/01/78,Sevilla,1-1,Real Madrid
+19,28/01/78,Salamanca,2-0,Burgos CF
+19,28/01/78,Racing Santander,2-1,Rayo Vallecano
+19,28/01/78,Hércules,0-0,Elche
+19,28/01/78,Cádiz,1-2,Valencia
+20,03/02/78,Real Sociedad,6-1,Cádiz
+20,04/02/78,Real Madrid,2-1,Espanyol
+20,04/02/78,Barcelona,3-1,Athletic Bilbao
+20,04/02/78,Valencia,0-0,Racing Santander
+20,04/02/78,Sporting Gijón,3-0,Salamanca
+20,04/02/78,Rayo Vallecano,2-1,Hércules
+20,04/02/78,Burgos CF,1-0,Sevilla
+20,04/02/78,Real Betis,4-3,Atlético de Madrid
+20,04/02/78,Elche,2-0,Las Palmas
+21,11/02/78,Athletic Bilbao,2-0,Real Madrid
+21,11/02/78,Atlético de Madrid,1-0,Barcelona
+21,11/02/78,Las Palmas,1-1,Rayo Vallecano
+21,11/02/78,Sevilla,1-2,Sporting Gijón
+21,11/02/78,Salamanca,1-0,Elche
+21,11/02/78,Racing Santander,2-2,Real Sociedad
+21,11/02/78,Espanyol,4-1,Burgos CF
+21,11/02/78,Hércules,1-0,Valencia
+21,11/02/78,Cádiz,0-5,Real Betis
+22,18/02/78,Barcelona,1-1,Cádiz
+22,18/02/78,Valencia,0-1,Las Palmas
+22,18/02/78,Sporting Gijón,1-0,Espanyol
+22,18/02/78,Atlético de Madrid,0-1,Athletic Bilbao
+22,18/02/78,Rayo Vallecano,3-3,Salamanca
+22,18/02/78,Real Sociedad,0-0,Hércules
+22,18/02/78,Burgos CF,3-2,Real Madrid
+22,18/02/78,Real Betis,3-1,Racing Santander
+22,18/02/78,Elche,1-2,Sevilla
+23,25/02/78,Real Madrid,3-2,Sporting Gijón
+23,25/02/78,Athletic Bilbao,1-1,Burgos CF
+23,25/02/78,Las Palmas,1-1,Real Sociedad
+23,25/02/78,Sevilla,2-0,Rayo Vallecano
+23,25/02/78,Salamanca,0-1,Valencia
+23,25/02/78,Racing Santander,0-0,Barcelona
+23,25/02/78,Espanyol,3-1,Elche
+23,25/02/78,Hércules,2-0,Real Betis
+23,25/02/78,Cádiz,2-1,Atlético de Madrid
+24,03/03/78,Real Sociedad,2-0,Salamanca
+24,04/03/78,Barcelona,2-1,Hércules
+24,04/03/78,Valencia,3-0,Sevilla
+24,04/03/78,Sporting Gijón,3-2,Burgos CF
+24,04/03/78,Atlético de Madrid,3-0,Racing Santander
+24,04/03/78,Rayo Vallecano,1-1,Espanyol
+24,04/03/78,Real Betis,1-2,Las Palmas
+24,04/03/78,Cádiz,2-1,Athletic Bilbao
+24,05/03/78,Elche,3-1,Real Madrid
+25,11/03/78,Real Madrid,5-2,Rayo Vallecano
+25,11/03/78,Athletic Bilbao,1-0,Sporting Gijón
+25,11/03/78,Las Palmas,0-0,Barcelona
+25,11/03/78,Sevilla,1-1,Real Sociedad
+25,11/03/78,Salamanca,1-0,Real Betis
+25,11/03/78,Burgos CF,1-0,Elche
+25,11/03/78,Racing Santander,3-0,Cádiz
+25,11/03/78,Espanyol,2-2,Valencia
+25,11/03/78,Hércules,1-0,Atlético de Madrid
+26,17/03/78,Real Sociedad,1-1,Espanyol
+26,18/03/78,Barcelona,3-1,Salamanca
+26,18/03/78,Valencia,2-0,Real Madrid
+26,18/03/78,Atlético de Madrid,2-1,Las Palmas
+26,18/03/78,Rayo Vallecano,0-0,Burgos CF
+26,18/03/78,Racing Santander,1-0,Athletic Bilbao
+26,18/03/78,Real Betis,3-2,Sevilla
+26,18/03/78,Elche,1-2,Sporting Gijón
+26,18/03/78,Cádiz,0-0,Hércules
+27,25/03/78,Real Madrid,5-0,Real Sociedad
+27,25/03/78,Athletic Bilbao,4-1,Elche
+27,25/03/78,Sporting Gijón,1-1,Rayo Vallecano
+27,25/03/78,Las Palmas,2-1,Cádiz
+27,25/03/78,Sevilla,2-1,Barcelona
+27,25/03/78,Salamanca,0-1,Atlético de Madrid
+27,25/03/78,Burgos CF,2-0,Valencia
+27,25/03/78,Espanyol,2-0,Real Betis
+27,25/03/78,Hércules,4-0,Racing Santander
+28,31/03/78,Barcelona,1-1,Espanyol
+28,31/03/78,Valencia,1-0,Sporting Gijón
+28,31/03/78,Racing Santander,1-0,Las Palmas
+28,01/04/78,Atlético de Madrid,1-0,Sevilla
+28,01/04/78,Rayo Vallecano,0-1,Elche
+28,01/04/78,Real Sociedad,3-1,Burgos CF
+28,01/04/78,Hércules,1-0,Athletic Bilbao
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+28,01/04/78,Real Betis,4-2,Real Madrid
+28,01/04/78,Cádiz,0-1,Salamanca
+29,04/04/78,Real Madrid,4-0,Barcelona
+29,04/04/78,Athletic Bilbao,6-0,Rayo Vallecano
+29,04/04/78,Sporting Gijón,6-2,Real Sociedad
+29,04/04/78,Las Palmas,0-1,Hércules
+29,04/04/78,Sevilla,1-0,Cádiz
+29,04/04/78,Salamanca,3-0,Racing Santander
+29,04/04/78,Burgos CF,1-0,Real Betis
+29,04/04/78,Espanyol,1-3,Atlético de Madrid
+29,04/04/78,Elche,0-2,Valencia
+30,07/04/78,Barcelona,3-0,Burgos CF
+30,07/04/78,Valencia,7-0,Rayo Vallecano
+30,08/04/78,Atlético de Madrid,1-3,Real Madrid
+30,08/04/78,Las Palmas,2-2,Athletic Bilbao
+30,08/04/78,Real Sociedad,3-2,Elche
+30,08/04/78,Racing Santander,1-1,Sevilla
+30,08/04/78,Hércules,2-0,Salamanca
+30,08/04/78,Real Betis,1-1,Sporting Gijón
+30,08/04/78,Cádiz,2-4,Espanyol
+31,14/04/78,Athletic Bilbao,4-1,Valencia
+31,14/04/78,Salamanca,0-0,Las Palmas
+31,15/04/78,Real Madrid,2-0,Cádiz
+31,15/04/78,Sporting Gijón,1-0,Barcelona
+31,15/04/78,Sevilla,2-1,Hércules
+31,15/04/78,Rayo Vallecano,1-0,Real Sociedad
+31,15/04/78,Burgos CF,2-2,Atlético de Madrid
+31,15/04/78,Espanyol,0-1,Racing Santander
+31,15/04/78,Elche,2-1,Real Betis
+32,22/04/78,Barcelona,5-1,Elche
+32,22/04/78,Atlético de Madrid,5-1,Sporting Gijón
+32,22/04/78,Las Palmas,2-0,Sevilla
+32,22/04/78,Salamanca,0-3,Athletic Bilbao
+32,22/04/78,Real Sociedad,1-1,Valencia
+32,22/04/78,Racing Santander,1-0,Real Madrid
+32,22/04/78,Hércules,1-1,Espanyol
+32,22/04/78,Real Betis,1-0,Rayo Vallecano
+32,22/04/78,Cádiz,4-0,Burgos CF
+33,29/04/78,Real Madrid,3-0,Hércules
+33,29/04/78,Valencia,4-2,Real Betis
+33,29/04/78,Sporting Gijón,3-0,Cádiz
+33,29/04/78,Sevilla,2-1,Salamanca
+33,29/04/78,Rayo Vallecano,2-1,Barcelona
+33,29/04/78,Real Sociedad,2-1,Athletic Bilbao
+33,29/04/78,Burgos CF,0-0,Racing Santander
+33,29/04/78,Espanyol,0-1,Las Palmas
+33,29/04/78,Elche,4-4,Atlético de Madrid
+34,05/05/78,Athletic Bilbao,2-1,Sevilla
+34,05/05/78,Las Palmas,1-2,Real Madrid
+34,06/05/78,Barcelona,1-0,Valencia
+34,06/05/78,Atlético de Madrid,4-0,Rayo Vallecano
+34,06/05/78,Salamanca,1-0,Espanyol
+34,06/05/78,Racing Santander,1-0,Sporting Gijón
+34,06/05/78,Hércules,0-0,Burgos CF
+34,06/05/78,Real Betis,1-0,Real Sociedad
+34,06/05/78,Cádiz,0-0,Elche

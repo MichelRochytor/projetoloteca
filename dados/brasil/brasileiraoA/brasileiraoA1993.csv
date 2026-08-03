@@ -1,0 +1,255 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,04/09/93,Guarani,1-1,Palmeiras
+B,04/09/93,Grêmio,3-2,Fluminense
+C,04/09/93,Náutico,2-1,Santa Cruz
+C,04/09/93,Goiás,0-3,Vitória
+D,04/09/93,Portuguesa,5-2,Criciúma
+D,04/09/93,Paraná,1-3,América Mineiro
+D,04/09/93,Atlético Paranaense,0-3,União São João
+D,04/09/93,Desportiva Ferroviária,0-1,Coritiba
+B,05/09/93,Vasco,1-0,Atlético Mineiro
+A,06/09/93,São Paulo,3-2,Internacional
+A,06/09/93,Bragantino,0-0,Botafogo
+A,07/09/93,Cruzeiro,0-2,Corinthians
+A,07/09/93,Bahia,1-1,Flamengo
+B,07/09/93,Sport,0-2,Santos
+C,07/09/93,Ceará,3-1,Fortaleza
+C,07/09/93,Remo,2-1,Paysandu
+A,11/09/93,Internacional,1-0,Botafogo
+B,11/09/93,Atlético Mineiro,1-1,Santos
+C,11/09/93,Vitória,0-0,Fortaleza
+C,11/09/93,Santa Cruz,0-1,Paysandu
+D,11/09/93,União São João,2-1,Portuguesa
+A,12/09/93,São Paulo,1-1,Corinthians
+A,12/09/93,Flamengo,1-1,Bragantino
+A,12/09/93,Bahia,1-3,Cruzeiro
+B,12/09/93,Palmeiras,3-0,Sport
+C,12/09/93,Ceará,3-1,Goiás
+C,12/09/93,Remo,2-1,Náutico
+D,12/09/93,Paraná,6-1,Desportiva Ferroviária
+D,12/09/93,América Mineiro,0-0,Atlético Paranaense
+D,12/09/93,Criciúma,1-0,Coritiba
+B,13/09/93,Guarani,2-2,Grêmio
+C,15/09/93,Goiás,1-2,Remo
+C,15/09/93,Paysandu,1-1,Náutico
+C,15/09/93,Fortaleza,1-2,Santa Cruz
+C,15/09/93,Ceará,0-3,Vitória
+D,15/09/93,Portuguesa,1-2,América Mineiro
+D,15/09/93,Coritiba,1-1,União São João
+D,15/09/93,Criciúma,2-1,Desportiva Ferroviária
+A,15/09/93,Bahia,1-0,Botafogo
+D,16/09/93,Atlético Paranaense,0-0,Paraná
+A,18/09/93,São Paulo,2-0,Bahia
+A,18/09/93,Cruzeiro,1-2,Flamengo
+B,18/09/93,Santos,0-2,Fluminense
+B,18/09/93,Grêmio,1-1,Palmeiras
+B,18/09/93,Atlético Mineiro,0-1,Sport
+C,18/09/93,Vitória,2-1,Remo
+C,18/09/93,Fortaleza,1-1,Náutico
+C,18/09/93,Ceará,0-1,Santa Cruz
+C,18/09/93,Paysandu,1-1,Goiás
+D,18/09/93,União São João,5-1,Criciúma
+D,18/09/93,América Mineiro,0-0,Coritiba
+D,18/09/93,Paraná,1-0,Portuguesa
+D,18/09/93,Desportiva Ferroviária,1-1,Atlético Paranaense
+A,20/09/93,Botafogo,0-1,Corinthians
+A,20/09/93,Internacional,1-1,Bragantino
+B,20/09/93,Vasco,0-0,Guarani
+A,22/09/93,Flamengo,2-0,São Paulo
+B,22/09/93,Guarani,2-1,Santos
+B,22/09/93,Fluminense,2-0,Atlético Mineiro
+B,22/09/93,Sport,1-0,Grêmio
+C,22/09/93,Santa Cruz,5-1,Remo
+C,22/09/93,Ceará,1-0,Náutico
+C,22/09/93,Paysandu,2-0,Vitória
+C,22/09/93,Fortaleza,1-1,Goiás
+D,22/09/93,Desportiva Ferroviária,1-0,União São João
+D,22/09/93,Portuguesa,2-0,Atlético Paranaense
+D,22/09/93,Criciúma,3-1,América Mineiro
+D,22/09/93,Coritiba,0-0,Paraná
+A,25/09/93,Bragantino,0-0,Corinthians
+B,25/09/93,Sport,1-1,Fluminense
+A,26/09/93,Botafogo,0-1,Flamengo
+A,26/09/93,São Paulo,0-0,Cruzeiro
+A,26/09/93,Internacional,1-0,Bahia
+B,26/09/93,Vasco,2-4,Grêmio
+B,26/09/93,Santos,3-1,Palmeiras
+B,26/09/93,Atlético Mineiro,1-0,Guarani
+C,26/09/93,Náutico,0-2,Vitória
+C,26/09/93,Remo,2-0,Ceará
+C,26/09/93,Fortaleza,0-2,Paysandu
+C,26/09/93,Goiás,1-0,Santa Cruz
+D,26/09/93,Paraná,2-0,Criciúma
+D,26/09/93,América Mineiro,1-3,União São João
+D,26/09/93,Atlético Paranaense,1-3,Coritiba
+D,26/09/93,Portuguesa,3-1,Desportiva Ferroviária
+A,29/09/93,Flamengo,3-0,Internacional
+A,29/09/93,Bahia,1-3,Corinthians
+B,29/09/93,Guarani,3-1,Fluminense
+B,29/09/93,Grêmio,0-1,Santos
+B,29/09/93,Vasco,0-1,Sport
+C,29/09/93,Remo,6-0,Fortaleza
+C,29/09/93,Ceará,2-0,Paysandu
+C,29/09/93,Náutico,0-0,Goiás
+D,29/09/93,União São João,0-0,Paraná
+D,29/09/93,Coritiba,2-2,Portuguesa
+D,29/09/93,Criciúma,3-0,Atlético Paranaense
+D,29/09/93,Desportiva Ferroviária,1-4,América Mineiro
+B,30/09/93,Palmeiras,1-0,Atlético Mineiro
+C,30/09/93,Vitória,2-1,Santa Cruz
+B,02/10/93,Santos,1-1,Vasco
+A,03/10/93,Corinthians,1-0,Flamengo
+A,03/10/93,Botafogo,0-4,São Paulo
+A,03/10/93,Internacional,3-0,Cruzeiro
+A,03/10/93,Bahia,1-0,Bragantino
+B,03/10/93,Fluminense,2-4,Palmeiras
+B,03/10/93,Atlético Mineiro,0-0,Grêmio
+B,04/10/93,Sport,0-0,Guarani
+B,06/10/93,Fluminense,1-3,Vasco
+A,06/10/93,Bragantino,1-0,Cruzeiro
+C,06/10/93,Santa Cruz,1-2,Náutico
+C,06/10/93,Paysandu,1-1,Remo
+C,06/10/93,Fortaleza,0-1,Ceará
+D,06/10/93,União São João,0-1,Atlético Paranaense
+D,06/10/93,Coritiba,0-0,Desportiva Ferroviária
+D,06/10/93,Criciúma,1-2,Portuguesa
+D,06/10/93,América Mineiro,2-2,Paraná
+C,07/10/93,Vitória,3-1,Goiás
+B,09/10/93,Palmeiras,2-0,Vasco
+A,09/10/93,Cruzeiro,3-0,Botafogo
+B,09/10/93,Santos,3-0,Sport
+B,09/10/93,Fluminense,0-1,Grêmio
+D,09/10/93,Portuguesa,2-1,União São João
+A,09/10/93,Flamengo,1-1,Bahia
+A,09/10/93,Corinthians,2-0,Internacional
+A,10/10/93,São Paulo,3-3,Bragantino
+B,10/10/93,Palmeiras,3-1,Guarani
+C,10/10/93,Fortaleza,3-1,Vitória
+C,10/10/93,Náutico,1-0,Remo
+C,10/10/93,Goiás,2-2,Ceará
+D,10/10/93,Coritiba,1-1,Criciúma
+D,10/10/93,Atlético Paranaense,5-1,América Mineiro
+D,10/10/93,Desportiva Ferroviária,0-0,Paraná
+C,11/10/93,Paysandu,2-1,Santa Cruz
+A,12/10/93,Corinthians,5-1,Bahia
+B,12/10/93,Atlético Mineiro,1-3,Vasco
+A,13/10/93,Bragantino,3-3,Internacional
+C,13/10/93,Fortaleza,2-1,Remo
+C,13/10/93,Goiás,3-0,Náutico
+D,13/10/93,América Mineiro,4-1,Portuguesa
+D,13/10/93,Paraná,0-4,Atlético Paranaense
+D,13/10/93,União São João,3-1,Coritiba
+D,13/10/93,Desportiva Ferroviária,1-2,Criciúma
+C,14/10/93,Paysandu,1-0,Ceará
+C,14/10/93,Santa Cruz,0-0,Vitória
+A,16/10/93,Bragantino,5-1,Flamengo
+A,16/10/93,Corinthians,1-0,São Paulo
+B,16/10/93,Sport,1-2,Palmeiras
+D,16/10/93,Portuguesa,1-0,Paraná
+D,16/10/93,Atlético Paranaense,2-2,Desportiva Ferroviária
+A,17/10/93,Bahia,0-1,Internacional
+A,17/10/93,Botafogo,0-1,Cruzeiro
+B,17/10/93,Vasco,2-0,Fluminense
+B,17/10/93,Grêmio,0-1,Guarani
+C,17/10/93,Goiás,0-0,Paysandu
+C,17/10/93,Remo,2-0,Vitória
+C,17/10/93,Santa Cruz,3-0,Ceará
+C,17/10/93,Náutico,3-1,Fortaleza
+D,17/10/93,Criciúma,1-1,União São João
+D,17/10/93,Coritiba,1-0,América Mineiro
+B,18/10/93,Santos,1-0,Atlético Mineiro
+B,20/10/93,Guarani,2-0,Vasco
+C,20/10/93,Vitória,2-1,Ceará
+C,20/10/93,Náutico,0-0,Paysandu
+C,20/10/93,Santa Cruz,1-1,Fortaleza
+D,20/10/93,União São João,2-0,Desportiva Ferroviária
+D,20/10/93,Paraná,3-0,Coritiba
+D,20/10/93,Atlético Paranaense,0-0,Portuguesa
+D,20/10/93,América Mineiro,0-0,Criciúma
+C,21/10/93,Remo,4-0,Goiás
+B,23/10/93,Vasco,0-1,Palmeiras
+B,23/10/93,Atlético Mineiro,1-2,Fluminense
+A,23/10/93,Bragantino,0-0,São Paulo
+A,24/10/93,Flamengo,2-1,Cruzeiro
+B,24/10/93,Santos,3-3,Guarani
+B,24/10/93,Grêmio,2-1,Sport
+C,24/10/93,Vitória,4-1,Náutico
+C,24/10/93,Paysandu,1-0,Fortaleza
+C,24/10/93,Ceará,2-1,Remo
+C,24/10/93,Santa Cruz,3-1,Goiás
+D,24/10/93,União São João,0-0,América Mineiro
+D,24/10/93,Desportiva Ferroviária,0-0,Portuguesa
+D,24/10/93,Criciúma,0-1,Paraná
+D,24/10/93,Coritiba,0-0,Atlético Paranaense
+A,25/10/93,Internacional,1-1,Corinthians
+C,27/10/93,Vitória,5-2,Paysandu
+C,27/10/93,Remo,3-1,Santa Cruz
+C,27/10/93,Goiás,0-0,Fortaleza
+C,27/10/93,Náutico,2-1,Ceará
+D,27/10/93,Portuguesa,3-0,Coritiba
+D,27/10/93,Paraná,1-0,União São João
+D,27/10/93,Atlético Paranaense,0-1,Criciúma
+D,27/10/93,América Mineiro,0-0,Desportiva Ferroviária
+B,28/10/93,Sport,2-1,Atlético Mineiro
+A,28/10/93,Botafogo,1-1,Bragantino
+A,30/10/93,Internacional,2-0,Flamengo
+B,30/10/93,Palmeiras,3-1,Grêmio
+A,30/10/93,Bahia,1-1,São Paulo
+A,31/10/93,Corinthians,5-1,Botafogo
+A,31/10/93,Cruzeiro,1-0,Bragantino
+B,31/10/93,Fluminense,3-4,Santos
+B,02/11/93,Sport,2-5,Vasco
+B,02/11/93,Guarani,2-0,Atlético Mineiro
+A,03/11/93,Botafogo,2-0,Internacional
+A,05/11/93,Cruzeiro,1-1,São Paulo
+A,05/11/93,Botafogo,3-0,Bahia
+B,06/11/93,Atlético Mineiro,2-3,Palmeiras
+POff,07/11/93,Paraná,1-1,Vitória
+POff,07/11/93,Remo,5-2,Portuguesa
+A,07/11/93,Corinthians,2-1,Bragantino
+A,07/11/93,São Paulo,2-0,Flamengo
+A,07/11/93,Cruzeiro,6-0,Bahia
+B,07/11/93,Santos,2-0,Grêmio
+B,08/11/93,Fluminense,1-2,Guarani
+A,10/11/93,Corinthians,2-1,Cruzeiro
+B,10/11/93,Palmeiras,0-1,Santos
+B,11/11/93,Grêmio,4-1,Vasco
+B,11/11/93,Fluminense,0-0,Sport
+A,12/11/93,Flamengo,2-0,Botafogo
+A,12/11/93,Internacional,1-1,São Paulo
+B,13/11/93,Guarani,2-0,Sport
+POff,14/11/93,Vitória,0-0,Paraná
+POff,14/11/93,Portuguesa,2-0,Remo
+A,14/11/93,Flamengo,1-1,Corinthians
+A,14/11/93,São Paulo,1-0,Botafogo
+A,14/11/93,Cruzeiro,4-1,Internacional
+A,14/11/93,Bragantino,2-2,Bahia
+B,14/11/93,Palmeiras,2-1,Fluminense
+B,14/11/93,Grêmio,2-0,Atlético Mineiro
+B,14/11/93,Vasco,1-1,Santos
+B,19/11/93,Guarani,0-1,São Paulo
+A,20/11/93,Corinthians,3-2,Santos
+A,20/11/93,Vitória,1-0,Flamengo
+B,21/11/93,Palmeiras,1-1,São Paulo
+B,22/11/93,Remo,1-1,Guarani
+A,24/11/93,Vitória,2-1,Corinthians
+B,25/11/93,Guarani,1-2,Palmeiras
+A,26/11/93,Flamengo,1-1,Santos
+B,26/11/93,São Paulo,2-0,Remo
+A,28/11/93,Santos,3-3,Vitória
+A,28/11/93,Flamengo,1-1,Corinthians
+B,28/11/93,São Paulo,3-2,Guarani
+B,28/11/93,Remo,1-2,Palmeiras
+A,01/12/93,Vitória,2-2,Santos
+A,01/12/93,Corinthians,2-2,Flamengo
+B,01/12/93,Palmeiras,3-0,Guarani
+B,01/12/93,Remo,0-1,São Paulo
+A,04/12/93,Santos,2-1,Flamengo
+B,04/12/93,São Paulo,0-2,Palmeiras
+A,05/12/93,Corinthians,2-2,Vitória
+B,05/12/93,Guarani,8-2,Remo
+A,08/12/93,Flamengo,1-1,Vitória
+A,08/12/93,Santos,1-2,Corinthians
+B,08/12/93,Palmeiras,0-0,Remo
+F,12/12/93,Vitória,0-1,Palmeiras
+F,19/12/93,Palmeiras,2-0,Vitória

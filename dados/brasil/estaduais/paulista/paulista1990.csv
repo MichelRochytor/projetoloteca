@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,27/01/90,Noroeste,1-0,Corinthians
+B,28/01/90,Palmeiras,1-0,Ferroviária
+B,28/01/90,Ituano,0-0,Novorizontino
+B,28/01/90,Catanduvense,0-0,Inter de Limeira
+B,28/01/90,Santos,0-0,São Bento
+B,28/01/90,Guarani,0-1,Santo André
+B,28/01/90,América-SP,0-0,União São João
+B,28/01/90,Portuguesa,1-1,XV de Jaú
+B,28/01/90,Ponte Preta,0-0,São Paulo
+B,28/01/90,Juventus-SP,0-0,Mogi Mirim
+B,31/01/90,São José,0-0,XV de Piracicaba
+B,31/01/90,Bragantino,1-0,Botafogo-SP
+B,03/02/90,Botafogo-SP,1-2,Palmeiras
+B,04/02/90,Mogi Mirim,1-1,América-SP
+B,04/02/90,União São João,4-0,Ituano
+B,04/02/90,Novorizontino,2-0,Catanduvense
+B,04/02/90,XV de Jaú,1-0,Bragantino
+B,04/02/90,São Bento,1-2,Portuguesa
+B,04/02/90,Santo André,0-1,Santos
+B,04/02/90,Inter de Limeira,3-1,Noroeste
+B,04/02/90,Corinthians,1-0,Ponte Preta
+B,04/02/90,São Paulo,2-1,Juventus-SP
+B,04/02/90,Ferroviária,1-1,São José
+B,04/02/90,XV de Piracicaba,1-1,Guarani
+B,07/02/90,Ituano,1-0,Mogi Mirim
+B,07/02/90,Catanduvense,1-3,União São João
+B,07/02/90,Santos,1-1,XV de Jaú
+B,07/02/90,Guarani,0-0,São Bento
+B,07/02/90,Portuguesa,1-1,Santo André
+B,07/02/90,Noroeste,2-1,Novorizontino
+B,07/02/90,Ponte Preta,1-0,Inter de Limeira
+B,07/02/90,Palmeiras,1-0,XV de Piracicaba
+B,07/02/90,Bragantino,2-1,Ferroviária
+B,07/02/90,São José,0-1,Botafogo-SP
+B,08/02/90,Juventus-SP,1-1,Corinthians
+B,08/02/90,América-SP,1-0,São Paulo
+B,11/02/90,São Paulo,1-0,Ituano
+B,11/02/90,Mogi Mirim,3-0,Catanduvense
+B,11/02/90,XV de Jaú,2-3,São José
+B,11/02/90,São Bento,1-0,Palmeiras
+B,11/02/90,Santo André,1-3,Bragantino
+B,11/02/90,União São João,2-2,Noroeste
+B,11/02/90,Novorizontino,1-0,Ponte Preta
+B,11/02/90,Inter de Limeira,2-1,Juventus-SP
+B,11/02/90,XV de Piracicaba,0-0,Portuguesa
+B,11/02/90,Ferroviária,0-0,Santos
+B,11/02/90,Botafogo-SP,0-0,Guarani
+B,11/02/90,Corinthians,3-0,América-SP
+B,14/02/90,Ituano,0-1,Corinthians
+B,17/02/90,Santos,1-1,Botafogo-SP
+B,18/02/90,Juventus-SP,1-0,Novorizontino
+B,18/02/90,América-SP,1-0,Inter de Limeira
+B,18/02/90,Catanduvense,0-1,São Paulo
+B,18/02/90,Guarani,2-1,XV de Jaú
+B,18/02/90,Palmeiras,4-0,Santo André
+B,18/02/90,Ponte Preta,0-0,União São João
+B,18/02/90,Bragantino,2-1,XV de Piracicaba
+B,18/02/90,Portuguesa,2-2,Ferroviária
+B,18/02/90,São José,1-1,São Bento
+B,18/02/90,Noroeste,1-1,Mogi Mirim
+B,21/02/90,Novorizontino,2-0,América-SP
+B,21/02/90,Inter de Limeira,2-1,Ituano
+B,21/02/90,São Bento,1-1,Bragantino
+B,21/02/90,Santo André,1-1,São José
+B,21/02/90,São Paulo,0-0,Noroeste
+B,21/02/90,Mogi Mirim,0-0,Ponte Preta
+B,21/02/90,União São João,2-3,Juventus-SP
+B,21/02/90,Corinthians,1-0,Catanduvense
+B,21/02/90,XV de Piracicaba,1-0,Santos
+B,21/02/90,Ferroviária,1-0,Guarani
+B,21/02/90,Botafogo-SP,0-0,Portuguesa
+B,22/02/90,XV de Jaú,0-4,Palmeiras
+B,25/02/90,América-SP,1-1,São José
+B,25/02/90,Catanduvense,1-0,Bragantino
+B,25/02/90,Novorizontino,1-2,XV de Jaú
+B,25/02/90,Mogi Mirim,0-0,Ferroviária
+B,03/03/90,Ferroviária,3-2,São Paulo
+B,04/03/90,Bragantino,1-0,Noroeste
+B,04/03/90,Palmeiras,2-0,Catanduvense
+B,04/03/90,XV de Piracicaba,1-1,Corinthians
+B,04/03/90,Guarani,2-0,América-SP
+B,04/03/90,São José,1-0,Ituano
+B,04/03/90,XV de Jaú,0-1,União São João
+B,04/03/90,São Bento,1-1,Novorizontino
+B,04/03/90,Santo André,0-0,Inter de Limeira
+B,04/03/90,Portuguesa,2-2,Ponte Preta
+B,04/03/90,Botafogo-SP,0-0,Mogi Mirim
+B,04/03/90,Santos,2-0,Juventus-SP
+B,06/03/90,Mogi Mirim,2-1,XV de Jaú
+B,06/03/90,União São João,1-0,São Bento
+B,07/03/90,Catanduvense,3-1,São José
+B,07/03/90,Corinthians,1-0,Ferroviária
+B,07/03/90,São Paulo,1-1,Botafogo-SP
+B,07/03/90,Juventus-SP,1-1,Portuguesa
+B,07/03/90,Ituano,1-1,Guarani
+B,07/03/90,Ponte Preta,0-3,Bragantino
+B,07/03/90,Inter de Limeira,0-0,XV de Piracicaba
+B,07/03/90,Novorizontino,1-1,Santo André
+B,07/03/90,América-SP,1-1,Santos
+B,08/03/90,Noroeste,1-0,Palmeiras
+B,10/03/90,XV de Jaú,1-0,São Paulo
+B,11/03/90,Portuguesa,2-0,América-SP
+B,11/03/90,Santos,2-0,Ituano
+B,11/03/90,Guarani,2-0,Catanduvense
+B,11/03/90,São Bento,2-1,Mogi Mirim
+B,11/03/90,Santo André,0-0,União São João
+B,11/03/90,São José,2-0,Noroeste
+B,11/03/90,Palmeiras,3-2,Ponte Preta
+B,11/03/90,Bragantino,4-0,Juventus-SP
+B,11/03/90,Ferroviária,1-1,Inter de Limeira
+B,11/03/90,Botafogo-SP,0-0,Corinthians
+B,11/03/90,XV de Piracicaba,1-0,Novorizontino
+B,14/03/90,América-SP,1-0,Bragantino
+B,14/03/90,Catanduvense,0-0,Santos
+B,14/03/90,Corinthians,1-0,XV de Jaú
+B,14/03/90,São Paulo,3-2,São Bento
+B,14/03/90,Mogi Mirim,3-1,Santo André
+B,14/03/90,Noroeste,1-1,Guarani
+B,14/03/90,Ponte Preta,1-1,São José
+B,14/03/90,Juventus-SP,0-0,Palmeiras
+B,14/03/90,União São João,1-1,XV de Piracicaba
+B,14/03/90,Novorizontino,2-0,Ferroviária
+B,14/03/90,Inter de Limeira,1-1,Botafogo-SP
+B,15/03/90,Ituano,0-0,Portuguesa
+B,17/03/90,São Bento,0-1,Corinthians
+B,18/03/90,Botafogo-SP,2-2,Novorizontino
+B,18/03/90,Palmeiras,2-0,América-SP
+B,18/03/90,Bragantino,0-1,Ituano
+B,18/03/90,Portuguesa,1-2,Catanduvense
+B,18/03/90,XV de Jaú,1-0,Inter de Limeira
+B,18/03/90,Santo André,1-0,São Paulo
+B,18/03/90,Santos,2-1,Noroeste
+B,18/03/90,Guarani,0-0,Ponte Preta
+B,18/03/90,São José,3-2,Juventus-SP
+B,18/03/90,XV de Piracicaba,2-2,Mogi Mirim
+B,18/03/90,Ferroviária,0-1,União São João
+B,21/03/90,União São João,1-1,Botafogo-SP
+B,21/03/90,Inter de Limeira,1-1,São Bento
+B,21/03/90,Ituano,1-0,Palmeiras
+B,21/03/90,Noroeste,0-2,Portuguesa
+B,21/03/90,São Paulo,0-1,XV de Piracicaba
+B,22/03/90,Juventus-SP,0-0,Guarani
+B,22/03/90,Corinthians,3-0,Santo André
+A,24/03/90,Portuguesa,1-1,Mogi Mirim
+A,24/03/90,Novorizontino,2-1,Palmeiras
+B,25/03/90,Botafogo-SP,3-1,Catanduvense
+B,25/03/90,Noroeste,1-1,América-SP
+B,25/03/90,Juventus-SP,0-1,XV de Piracicaba
+A,25/03/90,Inter de Limeira,2-1,União São João
+A,25/03/90,São José,1-1,Guarani
+A,25/03/90,Bragantino,1-1,Corinthians
+B,25/03/90,Ponte Preta,1-2,Ferroviária
+B,25/03/90,Santo André,1-2,São Bento
+B,25/03/90,Ituano,0-0,XV de Jaú
+A,25/03/90,Santos,0-1,São Paulo
+B,28/03/90,XV de Jaú,0-1,Botafogo-SP
+B,28/03/90,XV de Piracicaba,1-0,Ituano
+B,28/03/90,São Bento,3-1,Juventus-SP
+B,28/03/90,América-SP,1-0,Santo André
+B,28/03/90,Ferroviária,1-0,Noroeste
+B,30/03/90,Ponte Preta,1-0,Santos
+B,31/03/90,Juventus-SP,1-2,América-SP
+A,31/03/90,Mogi Mirim,1-0,São Paulo
+A,01/04/90,Palmeiras,0-0,Corinthians
+B,01/04/90,Botafogo-SP,3-2,Ponte Preta
+A,01/04/90,Portuguesa,0-0,União São João
+A,01/04/90,Santos,1-1,São José
+A,01/04/90,Guarani,1-1,Novorizontino
+A,01/04/90,Inter de Limeira,1-2,Bragantino
+B,01/04/90,Noroeste,0-0,Catanduvense
+B,01/04/90,Santo André,1-2,Ferroviária
+B,01/04/90,Ituano,2-0,São Bento
+B,04/04/90,Catanduvense,0-2,Ponte Preta
+B,04/04/90,XV de Jaú,2-1,XV de Piracicaba
+A,07/04/90,Guarani,1-2,Palmeiras
+B,08/04/90,América-SP,0-0,Ituano
+A,08/04/90,União São João,0-1,Mogi Mirim
+A,08/04/90,São Paulo,0-0,Corinthians
+A,08/04/90,Bragantino,0-0,Novorizontino
+A,08/04/90,São José,0-0,Inter de Limeira
+B,08/04/90,XV de Piracicaba,2-0,Botafogo-SP
+B,08/04/90,São Bento,0-1,XV de Jaú
+B,08/04/90,Ferroviária,0-0,Juventus-SP
+B,08/04/90,Catanduvense,2-1,Santo André
+B,08/04/90,Ponte Preta,4-1,Noroeste
+A,13/04/90,Santos,0-0,Portuguesa
+B,14/04/90,Santo André,0-1,Ponte Preta
+A,14/04/90,Corinthians,1-1,Mogi Mirim
+B,15/04/90,Noroeste,2-0,Botafogo-SP
+B,15/04/90,Juventus-SP,1-1,Catanduvense
+B,15/04/90,XV de Jaú,2-0,América-SP
+A,15/04/90,União São João,0-0,Santos
+A,15/04/90,Portuguesa,1-2,Bragantino
+A,15/04/90,Inter de Limeira,1-0,Guarani
+A,15/04/90,Novorizontino,2-0,São José
+B,15/04/90,Ituano,1-0,Ferroviária
+B,15/04/90,São Bento,2-0,XV de Piracicaba
+A,15/04/90,São Paulo,0-2,Palmeiras
+A,18/04/90,Novorizontino,2-0,Inter de Limeira
+A,18/04/90,São Paulo,4-0,São José
+A,18/04/90,Bragantino,2-0,Santos
+A,18/04/90,Guarani,2-0,União São João
+A,19/04/90,Mogi Mirim,0-0,Palmeiras
+B,21/04/90,América-SP,2-1,XV de Piracicaba
+A,21/04/90,Bragantino,0-0,São Paulo
+B,22/04/90,Botafogo-SP,2-1,São Bento
+A,22/04/90,União São João,3-0,Novorizontino
+A,22/04/90,Corinthians,1-0,Santos
+A,22/04/90,Palmeiras,3-0,Inter de Limeira
+A,22/04/90,Mogi Mirim,2-1,Guarani
+A,22/04/90,São José,0-2,Portuguesa
+B,22/04/90,Ferroviária,3-2,XV de Jaú
+B,22/04/90,Catanduvense,1-1,Ituano
+B,22/04/90,Ponte Preta,2-0,Juventus-SP
+B,22/04/90,Santo André,2-0,Noroeste
+A,25/04/90,Novorizontino,3-0,Mogi Mirim
+B,25/04/90,Juventus-SP,2-1,Noroeste
+B,25/04/90,Botafogo-SP,2-0,Santo André
+B,25/04/90,Ituano,2-0,Ponte Preta
+B,25/04/90,XV de Jaú,1-0,Catanduvense
+B,25/04/90,XV de Piracicaba,2-1,Ferroviária
+B,25/04/90,São Bento,1-2,América-SP
+A,25/04/90,Portuguesa,0-2,São Paulo
+A,25/04/90,Palmeiras,1-0,União São João
+A,25/04/90,Santos,3-2,Inter de Limeira
+A,25/04/90,Guarani,1-0,Bragantino
+A,26/04/90,São José,0-0,Corinthians
+A,29/04/90,Palmeiras,1-2,Santos
+A,29/04/90,União São João,0-0,São Paulo
+A,29/04/90,Corinthians,0-0,Guarani
+A,29/04/90,Bragantino,0-0,São José
+A,29/04/90,Inter de Limeira,1-1,Mogi Mirim
+A,29/04/90,Novorizontino,2-2,Portuguesa
+B,29/04/90,América-SP,1-0,Botafogo-SP
+B,29/04/90,Catanduvense,0-2,XV de Piracicaba
+B,29/04/90,Ponte Preta,1-1,XV de Jaú
+B,29/04/90,Noroeste,1-2,Ituano
+B,29/04/90,Santo André,1-0,Juventus-SP
+B,30/04/90,Ferroviária,2-0,São Bento
+B,02/05/90,Juventus-SP,1-0,Botafogo-SP
+B,02/05/90,Ituano,1-0,Santo André
+B,02/05/90,XV de Jaú,1-0,Noroeste
+B,02/05/90,XV de Piracicaba,0-0,Ponte Preta
+B,02/05/90,São Bento,3-0,Catanduvense
+B,02/05/90,Ferroviária,3-0,América-SP
+A,02/05/90,União São João,1-0,Bragantino
+A,02/05/90,Mogi Mirim,1-1,Santos
+A,02/05/90,São Paulo,1-1,Novorizontino
+A,02/05/90,Guarani,1-1,Portuguesa
+A,02/05/90,São José,0-1,Palmeiras
+A,03/05/90,Inter de Limeira,1-1,Corinthians
+A,05/05/90,Santos,1-0,Guarani
+B,06/05/90,Santo André,2-3,XV de Jaú
+A,06/05/90,Portuguesa,1-1,Palmeiras
+B,06/05/90,Juventus-SP,1-3,Ituano
+A,06/05/90,Bragantino,2-1,Mogi Mirim
+A,06/05/90,São José,2-1,União São João
+B,06/05/90,Botafogo-SP,1-1,Ferroviária
+B,06/05/90,Catanduvense,0-1,América-SP
+B,06/05/90,Ponte Preta,2-1,São Bento
+B,06/05/90,Noroeste,0-0,XV de Piracicaba
+A,06/05/90,São Paulo,4-1,Inter de Limeira
+A,06/05/90,Corinthians,1-0,Novorizontino
+A,09/05/90,Corinthians,1-1,Portuguesa
+A,12/05/90,Mogi Mirim,1-1,São José
+B,12/05/90,Ituano,1-1,Botafogo-SP
+B,12/05/90,XV de Jaú,5-1,Juventus-SP
+B,12/05/90,XV de Piracicaba,2-0,Santo André
+B,12/05/90,São Bento,1-2,Noroeste
+B,12/05/90,América-SP,1-1,Ponte Preta
+B,12/05/90,Ferroviária,2-0,Catanduvense
+A,12/05/90,União São João,0-1,Corinthians
+A,12/05/90,Palmeiras,0-0,Bragantino
+A,12/05/90,Guarani,1-0,São Paulo
+A,12/05/90,Inter de Limeira,0-1,Portuguesa
+A,12/05/90,Novorizontino,0-0,Santos
+1,20/05/90,Santo André,0-1,Inter de Limeira
+1,20/05/90,Noroeste,1-1,Botafogo-SP
+2,20/05/90,São José,1-2,Catanduvense
+2,20/05/90,União São João,2-1,São Bento
+1,20/05/90,São Paulo,2-1,Ponte Preta
+2,20/05/90,Guarani,3-1,Juventus-SP
+2,23/05/90,Juventus-SP,1-2,São José
+1,23/05/90,Ponte Preta,2-1,Noroeste
+1,23/05/90,Botafogo-SP,2-0,Santo André
+2,23/05/90,São Bento,2-1,Guarani
+2,23/05/90,Catanduvense,0-2,União São João
+1,24/05/90,Inter de Limeira,1-2,São Paulo
+1,27/05/90,Santo André,1-0,São Paulo
+2,27/05/90,União São João,2-0,Juventus-SP
+1,27/05/90,Noroeste,1-2,Inter de Limeira
+1,27/05/90,Botafogo-SP,0-0,Ponte Preta
+2,27/05/90,São José,1-0,Guarani
+2,27/05/90,São Bento,2-0,Catanduvense
+1,30/05/90,São Paulo,1-1,Botafogo-SP
+2,30/05/90,Juventus-SP,2-1,São Bento
+1,30/05/90,Santo André,2-0,Noroeste
+1,30/05/90,Inter de Limeira,0-1,Ponte Preta
+2,30/05/90,Guarani,3-0,Catanduvense
+2,30/05/90,São José,0-0,União São João

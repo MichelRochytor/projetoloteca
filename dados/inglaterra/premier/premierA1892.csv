@@ -1,0 +1,245 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,03/09/92,Blackburn Rovers,4-3,Manchester United
+1,03/09/92,Everton,2-2,Nottingham Forest
+1,03/09/92,Notts County,0-1,The Wednesday
+1,03/09/92,Preston North End,2-1,Bolton Wanderers
+1,03/09/92,Stoke City,1-3,Derby County
+1,03/09/92,Wolverhampton,1-0,Burnley
+1,03/09/92,Accrington FC,0-6,Sunderland
+2,05/09/92,Burnley,0-2,Aston Villa
+2,10/09/92,Aston Villa,4-1,Everton
+2,10/09/92,Bolton Wanderers,3-1,West Bromwich
+2,10/09/92,Derby County,1-2,Preston North End
+2,10/09/92,Manchester United,1-1,Burnley
+2,10/09/92,Nottingham Forest,3-4,Stoke City
+2,10/09/92,Sunderland,2-2,Notts County
+2,10/09/92,Wolverhampton,4-2,Blackburn Rovers
+2,10/09/92,The Wednesday,5-2,Accrington FC
+3,12/09/92,Preston North End,4-1,The Wednesday
+3,12/09/92,Stoke City,0-1,Aston Villa
+3,17/09/92,Blackburn Rovers,2-2,Everton
+3,17/09/92,Bolton Wanderers,1-0,The Wednesday
+3,17/09/92,Burnley,4-1,Manchester United
+3,17/09/92,Notts County,1-1,Derby County
+3,17/09/92,West Bromwich,2-1,Wolverhampton
+3,17/09/92,Stoke City,2-2,Accrington FC
+4,17/09/92,Aston Villa,1-6,Sunderland
+4,17/09/92,Preston North End,1-0,Nottingham Forest
+5,19/09/92,West Bromwich,3-2,Aston Villa
+4,24/09/92,Derby County,1-1,West Bromwich
+4,24/09/92,Everton,6-0,Manchester United
+4,24/09/92,Sunderland,5-0,Blackburn Rovers
+4,24/09/92,Wolverhampton,3-0,Notts County
+4,24/09/92,Accrington FC,4-2,The Wednesday
+5,24/09/92,Burnley,3-2,Stoke City
+5,24/09/92,Nottingham Forest,1-2,Preston North End
+6,24/09/92,Bolton Wanderers,5-0,Aston Villa
+5,01/10/92,Bolton Wanderers,3-1,Wolverhampton
+5,01/10/92,Derby County,2-3,Nottingham Forest
+5,01/10/92,Everton,1-0,Aston Villa
+5,01/10/92,Notts County,3-1,Preston North End
+5,01/10/92,West Bromwich,0-0,Manchester United
+5,01/10/92,Blackburn Rovers,3-3,Accrington FC
+6,01/10/92,The Wednesday,2-0,Burnley
+6,01/10/92,Sunderland,3-1,Stoke City
+6,03/10/92,The Wednesday,2-2,Nottingham Forest
+6,06/10/92,Notts County,2-2,Bolton Wanderers
+6,08/10/92,Everton,1-4,Sunderland
+6,08/10/92,Manchester United,2-4,West Bromwich
+6,08/10/92,Preston North End,2-1,Blackburn Rovers
+6,08/10/92,Wolverhampton,2-1,Aston Villa
+6,08/10/92,Accrington FC,1-1,Bolton Wanderers
+7,08/10/92,Burnley,2-1,Derby County
+7,08/10/92,Notts County,3-0,Nottingham Forest
+7,10/10/92,Aston Villa,3-2,Stoke City
+7,15/10/92,Blackburn Rovers,0-2,The Wednesday
+7,15/10/92,Manchester United,10-1,Wolverhampton
+7,15/10/92,West Bromwich,3-0,Everton
+7,15/10/92,Sunderland,4-2,Accrington FC
+8,15/10/92,Bolton Wanderers,4-4,Stoke City
+8,15/10/92,Preston North End,2-0,Burnley
+10,15/10/92,Aston Villa,1-0,Nottingham Forest
+8,19/10/92,Derby County,4-5,Notts County
+8,19/10/92,Manchester United,3-4,Everton
+9,20/10/92,Nottingham Forest,2-0,Bolton Wanderers
+8,22/10/92,Derby County,3-0,Blackburn Rovers
+8,22/10/92,Sunderland,8-1,West Bromwich
+8,22/10/92,Wolverhampton,1-2,Bolton Wanderers
+8,22/10/92,Everton,1-1,Accrington FC
+9,22/10/92,Burnley,3-0,Notts County
+9,22/10/92,Preston North End,4-1,Aston Villa
+9,22/10/92,The Wednesday,1-0,Manchester United
+9,22/10/92,Stoke City,3-0,Nottingham Forest
+9,29/10/92,Blackburn Rovers,0-0,Preston North End
+9,29/10/92,Burnley,1-3,Accrington FC
+10,29/10/92,Bolton Wanderers,4-1,Everton
+10,29/10/92,Nottingham Forest,1-1,Manchester United
+10,29/10/92,The Wednesday,3-2,Sunderland
+10,29/10/92,Stoke City,2-1,Wolverhampton
+10,29/10/92,West Bromwich,4-2,Notts County
+12,29/10/92,Aston Villa,6-1,Derby County
+10,05/11/92,Wolverhampton,2-2,Nottingham Forest
+10,05/11/92,Accrington FC,1-2,Preston North End
+11,05/11/92,Derby County,1-6,Everton
+11,05/11/92,Manchester United,4-4,Blackburn Rovers
+11,05/11/92,Notts County,0-1,Stoke City
+11,05/11/92,Sunderland,2-0,Burnley
+12,05/11/92,The Wednesday,4-2,Bolton Wanderers
+13,05/11/92,Aston Villa,5-2,West Bromwich
+13,07/11/92,West Bromwich,1-0,Bolton Wanderers
+11,12/11/92,Blackburn Rovers,3-3,Wolverhampton
+11,12/11/92,West Bromwich,4-0,Accrington FC
+12,12/11/92,Derby County,1-0,Burnley
+12,12/11/92,Everton,2-2,Stoke City
+12,12/11/92,Manchester United,1-3,Notts County
+14,12/11/92,Nottingham Forest,4-5,Aston Villa
+12,14/11/92,Stoke City,2-1,Preston North End
+12,19/11/92,The Wednesday,0-3,Blackburn Rovers
+12,19/11/92,Wolverhampton,5-3,Accrington FC
+13,19/11/92,Bolton Wanderers,2-4,Preston North End
+13,19/11/92,Manchester United,2-0,Aston Villa
+13,19/11/92,Notts County,8-1,West Bromwich
+14,19/11/92,Stoke City,4-1,Burnley
+14,19/11/92,Sunderland,1-0,Nottingham Forest
+13,26/11/92,Blackburn Rovers,3-0,Bolton Wanderers
+13,26/11/92,Derby County,2-2,Wolverhampton
+13,26/11/92,Everton,3-5,The Wednesday
+14,26/11/92,Aston Villa,3-1,Preston North End
+14,26/11/92,Burnley,1-1,Nottingham Forest
+14,26/11/92,Notts County,3-1,Sunderland
+14,26/11/92,Accrington FC,2-2,Manchester United
+15,26/11/92,West Bromwich,1-2,Stoke City
+16,01/12/92,Nottingham Forest,2-0,The Wednesday
+14,03/12/92,Burnley,0-0,Blackburn Rovers
+14,03/12/92,Preston North End,5-0,Everton
+14,03/12/92,Derby County,3-3,Accrington FC
+15,03/12/92,Bolton Wanderers,4-1,Manchester United
+16,03/12/92,Wolverhampton,1-0,Stoke City
+17,03/12/92,Nottingham Forest,0-5,Sunderland
+17,03/12/92,The Wednesday,5-3,Aston Villa
+15,08/12/92,Notts County,3-1,Burnley
+14,10/12/92,The Wednesday,3-3,Derby County
+15,10/12/92,Aston Villa,4-1,Blackburn Rovers
+15,10/12/92,Everton,3-2,Wolverhampton
+15,10/12/92,Accrington FC,4-2,Notts County
+16,10/12/92,Manchester United,1-0,Bolton Wanderers
+16,10/12/92,West Bromwich,0-1,Preston North End
+17,10/12/92,Nottingham Forest,2-2,Burnley
+16,17/12/92,Blackburn Rovers,2-0,Burnley
+16,17/12/92,Notts County,1-2,Everton
+16,17/12/92,Accrington FC,5-4,West Bromwich
+17,17/12/92,Stoke City,2-0,The Wednesday
+17,17/12/92,Sunderland,2-0,Preston North End
+17,17/12/92,Wolverhampton,2-0,Manchester United
+19,17/12/92,Derby County,2-1,Aston Villa
+15,24/12/92,West Bromwich,1-3,Sunderland
+17,24/12/92,Blackburn Rovers,1-0,Notts County
+17,24/12/92,Everton,0-1,Burnley
+17,24/12/92,Nottingham Forest,3-1,Wolverhampton
+18,24/12/92,Derby County,1-0,Stoke City
+18,24/12/92,Manchester United,1-5,The Wednesday
+20,24/12/92,Aston Villa,1-1,Bolton Wanderers
+17,26/12/92,Accrington FC,5-2,Stoke City
+18,26/12/92,West Bromwich,1-2,Blackburn Rovers
+18,26/12/92,Wolverhampton,2-0,Sunderland
+19,26/12/92,Derby County,1-1,Bolton Wanderers
+19,26/12/92,Preston North End,2-1,Manchester United
+19,27/12/92,Wolverhampton,1-1,West Bromwich
+18,31/12/92,Accrington FC,4-0,Wolverhampton
+19,31/12/92,Blackburn Rovers,0-1,Nottingham Forest
+19,31/12/92,Notts County,1-4,Aston Villa
+19,31/12/92,Preston North End,2-1,Stoke City
+20,31/12/92,Burnley,5-0,West Bromwich
+20,31/12/92,Manchester United,7-1,Derby County
+19,02/01/93,The Wednesday,6-0,West Bromwich
+19,02/01/93,Accrington FC,1-1,Blackburn Rovers
+20,02/01/93,Bolton Wanderers,0-3,Derby County
+21,02/01/93,Sunderland,5-2,Wolverhampton
+18,03/01/93,Sunderland,4-3,Everton
+19,07/01/93,Everton,6-0,Notts County
+20,07/01/93,Preston North End,1-2,Sunderland
+20,07/01/93,Nottingham Forest,3-0,Accrington FC
+21,07/01/93,Blackburn Rovers,2-2,Derby County
+21,07/01/93,Stoke City,7-1,Manchester United
+21,07/01/93,West Bromwich,7-1,Burnley
+22,07/01/93,Aston Villa,5-1,The Wednesday
+20,12/01/93,Nottingham Forest,2-1,Everton
+21,14/01/93,Everton,1-0,West Bromwich
+21,14/01/93,The Wednesday,0-5,Preston North End
+21,14/01/93,Accrington FC,0-4,Burnley
+22,14/01/93,Manchester United,1-3,Nottingham Forest
+22,14/01/93,Notts County,0-0,Blackburn Rovers
+22,14/01/93,Stoke City,6-0,Bolton Wanderers
+23,14/01/93,Sunderland,6-0,Aston Villa
+23,26/01/93,Notts County,4-0,Manchester United
+21,28/01/93,Nottingham Forest,1-0,Derby County
+22,28/01/93,Stoke City,0-1,Everton
+22,28/01/93,Sunderland,4-2,The Wednesday
+23,28/01/93,Blackburn Rovers,2-1,West Bromwich
+22,11/02/93,Wolverhampton,2-0,The Wednesday
+22,11/02/93,Notts County,2-0,Accrington FC
+23,11/02/93,Burnley,3-0,Bolton Wanderers
+23,11/02/93,Everton,6-0,Preston North End
+24,11/02/93,Blackburn Rovers,2-2,Aston Villa
+24,11/02/93,Derby County,5-1,Manchester United
+24,11/02/93,Stoke City,1-2,West Bromwich
+24,13/02/93,The Wednesday,0-2,Everton
+23,14/02/93,Sunderland,3-3,Bolton Wanderers
+23,25/02/93,Wolverhampton,2-1,Derby County
+23,25/02/93,Accrington FC,0-3,Everton
+24,25/02/93,Bolton Wanderers,1-0,Burnley
+24,25/02/93,Nottingham Forest,3-1,Notts County
+25,25/02/93,Blackburn Rovers,3-3,Stoke City
+26,02/03/93,Nottingham Forest,3-4,West Bromwich
+24,04/03/93,Bolton Wanderers,5-2,Accrington FC
+25,04/03/93,Manchester United,0-5,Sunderland
+26,06/03/93,Aston Villa,2-0,Manchester United
+24,11/03/93,The Wednesday,0-1,Wolverhampton
+24,11/03/93,Sunderland,3-1,Derby County
+25,11/03/93,Stoke City,1-0,Notts County
+26,11/03/93,Nottingham Forest,0-1,Blackburn Rovers
+23,18/03/93,Burnley,4-2,Preston North End
+25,18/03/93,Accrington FC,1-1,Nottingham Forest
+26,18/03/93,Aston Villa,3-1,Notts County
+26,18/03/93,West Bromwich,3-0,The Wednesday
+26,18/03/93,Wolverhampton,2-4,Everton
+27,18/03/93,Bolton Wanderers,2-1,Blackburn Rovers
+27,18/03/93,Stoke City,0-1,Sunderland
+25,25/03/93,Derby County,2-2,The Wednesday
+26,25/03/93,Aston Villa,6-4,Accrington FC
+27,25/03/93,Bolton Wanderers,4-1,Notts County
+26,31/03/93,Burnley,4-0,The Wednesday
+27,31/03/93,Manchester United,1-0,Stoke City
+27,31/03/93,Accrington FC,0-3,Derby County
+28,31/03/93,Blackburn Rovers,2-2,Sunderland
+28,31/03/93,Bolton Wanderers,3-1,Nottingham Forest
+28,31/03/93,Preston North End,4-0,Notts County
+26,01/04/93,Burnley,2-0,Wolverhampton
+27,01/04/93,West Bromwich,3-1,Derby County
+28,01/04/93,Manchester United,2-1,Preston North End
+29,01/04/93,Bolton Wanderers,2-1,Sunderland
+29,01/04/93,Everton,4-0,Blackburn Rovers
+29,01/04/93,The Wednesday,0-1,Stoke City
+27,03/04/93,Aston Villa,5-0,Wolverhampton
+28,03/04/93,Everton,3-0,Bolton Wanderers
+28,03/04/93,Preston North End,0-0,Accrington FC
+29,03/04/93,The Wednesday,3-2,Notts County
+30,03/04/93,Stoke City,2-2,Blackburn Rovers
+30,03/04/93,West Bromwich,2-2,Nottingham Forest
+28,04/04/93,Aston Villa,1-3,Burnley
+29,04/04/93,Sunderland,6-0,Manchester United
+28,08/04/93,Derby County,1-1,Sunderland
+29,08/04/93,Burnley,3-0,Everton
+30,08/04/93,Notts County,3-0,Wolverhampton
+30,08/04/93,Manchester United,3-3,Accrington FC
+27,10/04/93,Preston North End,4-0,Wolverhampton
+28,13/04/93,Preston North End,1-1,West Bromwich
+29,15/04/93,Wolverhampton,2-1,Preston North End
+30,15/04/93,Burnley,2-3,Sunderland
+30,15/04/93,Everton,5-0,Derby County
+30,15/04/93,Accrington FC,1-1,Aston Villa
+30,17/04/93,Preston North End,0-1,Derby County
+,22/04/93,Small Heath,1-1,Manchester United
+,22/04/93,Darwen,3-2,Notts County
+,22/04/93,Sheffield United,1-0,Accrington FC
+,27/04/93,Manchester United,5-2,Small Heath

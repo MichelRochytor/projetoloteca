@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,13/09/16,Benfica,1-1,Besiktas
+B,13/09/16,Dynamo Kyiv,1-2,Napoli
+A,13/09/16,FC Basel,1-1,Ludogorets Razgrad
+A,13/09/16,PSG,1-1,Arsenal
+C,13/09/16,Barcelona,7-0,Celtic
+D,13/09/16,Bayern München,5-0,FK Rostov
+D,13/09/16,PSV,0-1,Atlético de Madrid
+F,14/09/16,Real Madrid,2-1,Sporting
+F,14/09/16,Legia Warszawa,0-6,Borussia Dortmund
+G,14/09/16,FC Porto,1-1,FC Kobenhavn
+G,14/09/16,Club Brugge,0-3,Leicester City
+C,14/09/16,Manchester City,4-0,Borussia M´gladbach
+E,14/09/16,Bayer Leverkusen,2-2,CSKA Moskva
+E,14/09/16,Tottenham,1-2,Monaco
+H,14/09/16,Juventus,0-0,Sevilla
+H,14/09/16,Lyon,3-0,Dinamo Zagreb
+F,27/09/16,Sporting,2-0,Legia Warszawa
+F,27/09/16,Borussia Dortmund,2-2,Real Madrid
+G,27/09/16,Leicester City,1-0,FC Porto
+G,27/09/16,FC Kobenhavn,4-0,Club Brugge
+E,27/09/16,Monaco,1-1,Bayer Leverkusen
+E,27/09/16,CSKA Moskva,0-1,Tottenham
+H,27/09/16,Dinamo Zagreb,0-4,Juventus
+H,27/09/16,Sevilla,1-0,Lyon
+B,28/09/16,Napoli,4-2,Benfica
+B,28/09/16,Besiktas,1-1,Dynamo Kyiv
+A,28/09/16,Arsenal,2-0,FC Basel
+A,28/09/16,Ludogorets Razgrad,1-3,PSG
+C,28/09/16,Borussia M´gladbach,1-2,Barcelona
+C,28/09/16,Celtic,3-3,Manchester City
+D,28/09/16,Atlético de Madrid,1-0,Bayern München
+D,28/09/16,FK Rostov,2-2,PSV
+F,18/10/16,Sporting,1-2,Borussia Dortmund
+G,18/10/16,Club Brugge,1-2,FC Porto
+G,18/10/16,Leicester City,1-0,FC Kobenhavn
+E,18/10/16,Bayer Leverkusen,0-0,Tottenham
+E,18/10/16,CSKA Moskva,1-1,Monaco
+H,18/10/16,Dinamo Zagreb,0-1,Sevilla
+H,18/10/16,Lyon,0-1,Juventus
+F,18/10/16,Real Madrid,5-1,Legia Warszawa
+B,19/10/16,Dynamo Kyiv,0-2,Benfica
+B,19/10/16,Napoli,2-3,Besiktas
+A,19/10/16,Arsenal,6-0,Ludogorets Razgrad
+A,19/10/16,PSG,3-0,FC Basel
+C,19/10/16,Celtic,0-2,Borussia M´gladbach
+C,19/10/16,Barcelona,4-0,Manchester City
+D,19/10/16,Bayern München,4-1,PSV
+D,19/10/16,FK Rostov,0-1,Atlético de Madrid
+B,01/11/16,Besiktas,1-1,Napoli
+B,01/11/16,Benfica,1-0,Dynamo Kyiv
+A,01/11/16,FC Basel,1-2,PSG
+A,01/11/16,Ludogorets Razgrad,2-3,Arsenal
+C,01/11/16,Borussia M´gladbach,1-1,Celtic
+C,01/11/16,Manchester City,3-1,Barcelona
+D,01/11/16,Atlético de Madrid,2-1,FK Rostov
+D,01/11/16,PSV,1-2,Bayern München
+F,02/11/16,Borussia Dortmund,1-0,Sporting
+F,02/11/16,Legia Warszawa,3-3,Real Madrid
+G,02/11/16,FC Porto,1-0,Club Brugge
+G,02/11/16,FC Kobenhavn,0-0,Leicester City
+E,02/11/16,Monaco,3-0,CSKA Moskva
+E,02/11/16,Tottenham,0-1,Bayer Leverkusen
+H,02/11/16,Juventus,1-1,Lyon
+H,02/11/16,Sevilla,4-0,Dinamo Zagreb
+E,22/11/16,CSKA Moskva,1-1,Bayer Leverkusen
+F,22/11/16,Borussia Dortmund,8-4,Legia Warszawa
+G,22/11/16,FC Kobenhavn,0-0,FC Porto
+G,22/11/16,Leicester City,2-1,Club Brugge
+E,22/11/16,Monaco,2-1,Tottenham
+H,22/11/16,Dinamo Zagreb,0-1,Lyon
+H,22/11/16,Sevilla,1-3,Juventus
+F,22/11/16,Sporting,1-2,Real Madrid
+D,23/11/16,FK Rostov,3-2,Bayern München
+B,23/11/16,Besiktas,3-3,Benfica
+B,23/11/16,Napoli,0-0,Dynamo Kyiv
+A,23/11/16,Arsenal,2-2,PSG
+A,23/11/16,Ludogorets Razgrad,0-0,FC Basel
+C,23/11/16,Borussia M´gladbach,1-1,Manchester City
+C,23/11/16,Celtic,0-2,Barcelona
+D,23/11/16,Atlético de Madrid,2-0,PSV
+B,06/12/16,Benfica,1-2,Napoli
+B,06/12/16,Dynamo Kyiv,6-0,Besiktas
+A,06/12/16,FC Basel,1-4,Arsenal
+A,06/12/16,PSG,2-2,Ludogorets Razgrad
+C,06/12/16,Barcelona,4-0,Borussia M´gladbach
+C,06/12/16,Manchester City,1-1,Celtic
+D,06/12/16,Bayern München,1-0,Atlético de Madrid
+D,06/12/16,PSV,0-0,FK Rostov
+F,07/12/16,Legia Warszawa,1-0,Sporting
+F,07/12/16,Real Madrid,2-2,Borussia Dortmund
+G,07/12/16,FC Porto,5-0,Leicester City
+G,07/12/16,Club Brugge,0-2,FC Kobenhavn
+E,07/12/16,Bayer Leverkusen,3-0,Monaco
+E,07/12/16,Tottenham,3-1,CSKA Moskva
+H,07/12/16,Juventus,2-0,Dinamo Zagreb
+H,07/12/16,Lyon,0-0,Sevilla
+1/8,14/02/17,Benfica,1-0,Borussia Dortmund
+1/8,14/02/17,PSG,4-0,Barcelona
+1/8,15/02/17,Real Madrid,3-1,Napoli
+1/8,15/02/17,Bayern München,5-1,Arsenal
+1/8,21/02/17,Manchester City,5-3,Monaco
+1/8,21/02/17,Bayer Leverkusen,2-4,Atlético de Madrid
+1/8,22/02/17,FC Porto,0-2,Juventus
+1/8,22/02/17,Sevilla,2-1,Leicester City
+1/8,07/03/17,Napoli,1-3,Real Madrid
+1/8,07/03/17,Arsenal,1-5,Bayern München
+1/8,08/03/17,Borussia Dortmund,4-0,Benfica
+1/8,08/03/17,Barcelona,6-1,PSG
+1/8,14/03/17,Juventus,1-0,FC Porto
+1/8,14/03/17,Leicester City,2-0,Sevilla
+1/8,15/03/17,Monaco,3-1,Manchester City
+1/8,15/03/17,Atlético de Madrid,0-0,Bayer Leverkusen
+QF,11/04/17,Juventus,3-0,Barcelona
+QF,12/04/17,Borussia Dortmund,2-3,Monaco
+QF,12/04/17,Atlético de Madrid,1-0,Leicester City
+QF,12/04/17,Bayern München,1-2,Real Madrid
+QF,18/04/17,Real Madrid,4-2(Pro.),Bayern München
+QF,18/04/17,Leicester City,1-1,Atlético de Madrid
+QF,19/04/17,Barcelona,0-0,Juventus
+QF,19/04/17,Monaco,3-1,Borussia Dortmund
+SF,02/05/17,Real Madrid,3-0,Atlético de Madrid
+SF,03/05/17,Monaco,0-2,Juventus
+SF,09/05/17,Juventus,2-1,Monaco
+SF,10/05/17,Atlético de Madrid,2-1,Real Madrid
+F,03/06/17,Juventus,1-4,Real Madrid

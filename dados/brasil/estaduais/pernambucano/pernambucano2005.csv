@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,16/01/05,Itacuruba,1-1,Santa Cruz
+1T,16/01/05,Sport,3-1,Petrolina
+1T,16/01/05,Serrano-PE,1-0,Náutico
+1T,16/01/05,Vitória das Tabocas,1-1,Ypiranga-PE
+1T,16/01/05,Porto-PE,4-2,Manchete
+1T,19/01/05,Itacuruba,2-1,Náutico
+1T,19/01/05,Serrano-PE,2-1,Santa Cruz
+1T,19/01/05,Sport,1-2,Porto-PE
+1T,19/01/05,Petrolina,0-2,Vitória das Tabocas
+1T,19/01/05,Manchete,1-2,Ypiranga-PE
+1T,23/01/05,Santa Cruz,2-1,Porto-PE
+1T,23/01/05,Náutico,4-0,Manchete
+1T,23/01/05,Vitória das Tabocas,2-0,Itacuruba
+1T,23/01/05,Petrolina,0-0,Serrano-PE
+1T,23/01/05,Ypiranga-PE,1-2,Sport
+1T,26/01/05,Sport,0-0,Serrano-PE
+1T,26/01/05,Náutico,5-3,Vitória das Tabocas
+1T,26/01/05,Manchete,0-6,Santa Cruz
+1T,26/01/05,Itacuruba,3-1,Petrolina
+1T,26/01/05,Porto-PE,1-3,Ypiranga-PE
+1T,30/01/05,Petrolina,3-4,Náutico
+1T,30/01/05,Serrano-PE,0-0,Porto-PE
+1T,30/01/05,Ypiranga-PE,3-2,Itacuruba
+1T,30/01/05,Vitória das Tabocas,2-0,Manchete
+1T,31/01/05,Santa Cruz,0-0,Sport
+1T,03/02/05,Náutico,4-0,Ypiranga-PE
+1T,03/02/05,Sport,0-0,Itacuruba
+1T,03/02/05,Manchete,0-0,Serrano-PE
+1T,03/02/05,Porto-PE,0-0,Petrolina
+1T,03/02/05,Vitória das Tabocas,1-2,Santa Cruz
+1T,09/02/05,Santa Cruz,1-0,Ypiranga-PE
+1T,09/02/05,Petrolina,1-0,Manchete
+1T,09/02/05,Serrano-PE,1-1,Vitória das Tabocas
+1T,09/02/05,Itacuruba,1-0,Porto-PE
+1T,10/02/05,Sport,1-0,Náutico
+1T,12/02/05,Santa Cruz,4-0,Petrolina
+1T,13/02/05,Vitória das Tabocas,0-0,Sport
+1T,13/02/05,Náutico,1-1,Porto-PE
+1T,13/02/05,Itacuruba,3-1,Manchete
+1T,13/02/05,Ypiranga-PE,1-3,Serrano-PE
+1T,20/02/05,Náutico,2-3,Santa Cruz
+1T,20/02/05,Manchete,1-4,Sport
+1T,20/02/05,Porto-PE,2-3,Vitória das Tabocas
+1T,20/02/05,Ypiranga-PE,1-0,Petrolina
+1T,20/02/05,Itacuruba,2-3,Serrano-PE
+2T,23/02/05,Santa Cruz,2-1,Itacuruba
+2T,23/02/05,Náutico,2-0,Serrano-PE
+2T,23/02/05,Ypiranga-PE,4-1,Vitória das Tabocas
+2T,23/02/05,Petrolina,0-4,Sport
+2T,23/02/05,Manchete,4-5,Porto-PE
+2T,27/02/05,Santa Cruz,3-0,Serrano-PE
+2T,27/02/05,Náutico,2-2,Itacuruba
+2T,27/02/05,Vitória das Tabocas,4-1,Petrolina
+2T,27/02/05,Porto-PE,2-4,Sport
+2T,27/02/05,Ypiranga-PE,2-1,Manchete
+2T,06/03/05,Sport,3-0,Ypiranga-PE
+2T,06/03/05,Serrano-PE,1-2,Petrolina
+2T,06/03/05,Manchete,0-1,Náutico
+2T,06/03/05,Itacuruba,4-4,Vitória das Tabocas
+2T,06/03/05,Porto-PE,2-4,Santa Cruz
+2T,13/03/05,Petrolina,0-1,Itacuruba
+2T,13/03/05,Serrano-PE,0-2,Sport
+2T,13/03/05,Ypiranga-PE,1-1,Porto-PE
+2T,13/03/05,Vitória das Tabocas,1-2,Náutico
+2T,13/03/05,Santa Cruz,4-2,Manchete
+2T,19/03/05,Náutico,3-0,Petrolina
+2T,20/03/05,Sport,0-1,Santa Cruz
+2T,20/03/05,Manchete,4-1,Vitória das Tabocas
+2T,20/03/05,Porto-PE,1-2,Serrano-PE
+2T,20/03/05,Itacuruba,3-0,Ypiranga-PE
+2T,23/03/05,Santa Cruz,3-1,Vitória das Tabocas
+2T,23/03/05,Petrolina,4-2,Porto-PE
+2T,23/03/05,Serrano-PE,0-0,Manchete
+2T,23/03/05,Itacuruba,2-0,Sport
+2T,23/03/05,Ypiranga-PE,1-2,Náutico
+2T,28/03/05,Náutico,4-2,Sport
+2T,28/03/05,Vitória das Tabocas,0-0,Serrano-PE
+2T,28/03/05,Porto-PE,2-0,Itacuruba
+2T,28/03/05,Manchete,3-3,Petrolina
+2T,28/03/05,Ypiranga-PE,0-2,Santa Cruz
+2T,30/03/05,Sport,2-0,Vitória das Tabocas
+2T,30/03/05,Itacuruba,0-0,Manchete
+2T,30/03/05,Serrano-PE,2-0,Ypiranga-PE
+2T,30/03/05,Porto-PE,2-2,Náutico
+2T,30/03/05,Petrolina,1-2,Santa Cruz
+2T,03/04/05,Santa Cruz,2-1,Náutico
+2T,03/04/05,Sport,0-0,Manchete
+2T,03/04/05,Vitória das Tabocas,2-0,Porto-PE
+2T,03/04/05,Petrolina,1-1,Ypiranga-PE
+2T,03/04/05,Serrano-PE,3-2,Itacuruba

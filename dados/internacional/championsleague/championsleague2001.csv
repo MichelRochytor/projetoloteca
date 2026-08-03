@@ -1,0 +1,158 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,11/09/01,Lokomotiv,1-1,Anderlecht
+B,11/09/01,Dynamo Kyiv,2-2,Borussia Dortmund
+B,11/09/01,Liverpool,1-1,Boavista FC
+C,11/09/01,Mallorca,1-0,Arsenal
+C,11/09/01,Schalke 04,0-2,Panathinaikos
+D,11/09/01,Galatasaray,1-0,Lazio
+D,11/09/01,Nantes,4-1,PSV
+A,11/09/01,Roma,1-2,Real Madrid
+E,18/09/01,Juventus,3-2,Celtic
+E,18/09/01,Rosenborg,1-2,FC Porto
+F,18/09/01,Fenerbahçe,0-3,Barcelona
+F,18/09/01,Lyon,0-1,Bayer Leverkusen
+G,18/09/01,Deportivo,2-2,Olympiacos
+G,18/09/01,Manchester United,1-0,Lille
+H,18/09/01,Bayern München,0-0,Sparta Praha
+H,18/09/01,Spartak Moskva,2-2,Feyenoord
+C,18/09/01,Panathinaikos,2-0,Mallorca
+A,19/09/01,Anderlecht,0-0,Roma
+A,19/09/01,Real Madrid,4-0,Lokomotiv
+B,19/09/01,Boavista FC,3-1,Dynamo Kyiv
+B,19/09/01,Borussia Dortmund,0-0,Liverpool
+C,19/09/01,Arsenal,3-2,Schalke 04
+D,19/09/01,Lazio,1-3,Nantes
+D,19/09/01,PSV,3-1,Galatasaray
+H,24/09/01,Sparta Praha,4-0,Feyenoord
+H,24/09/01,Spartak Moskva,1-3,Bayern München
+E,25/09/01,Celtic,1-0,FC Porto
+E,25/09/01,Rosenborg,1-1,Juventus
+F,25/09/01,Bayer Leverkusen,2-1,Barcelona
+F,25/09/01,Fenerbahçe,0-1,Lyon
+G,25/09/01,Deportivo,2-1,Manchester United
+G,25/09/01,Lille,3-1,Olympiacos
+A,26/09/01,Real Madrid,4-1,Anderlecht
+A,26/09/01,Roma,2-1,Lokomotiv
+B,26/09/01,Boavista FC,2-1,Borussia Dortmund
+B,26/09/01,Liverpool,1-0,Dynamo Kyiv
+C,26/09/01,Panathinaikos,1-0,Arsenal
+C,26/09/01,Schalke 04,0-1,Mallorca
+D,26/09/01,Nantes,0-1,Galatasaray
+D,26/09/01,PSV,1-0,Lazio
+H,09/10/01,Feyenoord,2-2,Bayern München
+H,09/10/01,Sparta Praha,2-0,Spartak Moskva
+E,10/10/01,Celtic,1-0,Rosenborg
+E,10/10/01,FC Porto,0-0,Juventus
+F,10/10/01,Barcelona,2-0,Lyon
+F,10/10/01,Bayer Leverkusen,2-1,Fenerbahçe
+G,10/10/01,Lille,1-1,Deportivo
+G,10/10/01,Olympiacos,0-2,Manchester United
+A,15/10/01,Lokomotiv,0-1,Roma
+C,15/10/01,Arsenal,2-1,Panathinaikos
+A,16/10/01,Anderlecht,0-2,Real Madrid
+B,16/10/01,Borussia Dortmund,2-1,Boavista FC
+B,16/10/01,Dynamo Kyiv,1-2,Liverpool
+C,16/10/01,Mallorca,0-4,Schalke 04
+D,16/10/01,Galatasaray,0-0,Nantes
+D,16/10/01,Lazio,2-1,PSV
+H,16/10/01,Bayern München,5-1,Spartak Moskva
+H,16/10/01,Feyenoord,0-2,Sparta Praha
+E,17/10/01,Juventus,1-0,Rosenborg
+E,17/10/01,FC Porto,3-0,Celtic
+F,17/10/01,Barcelona,2-1,Bayer Leverkusen
+F,17/10/01,Lyon,3-1,Fenerbahçe
+G,17/10/01,Manchester United,2-3,Deportivo
+G,17/10/01,Olympiacos,2-1,Lille
+H,22/10/01,Bayern München,3-1,Feyenoord
+H,22/10/01,Spartak Moskva,2-2,Sparta Praha
+E,23/10/01,Juventus,3-1,FC Porto
+E,23/10/01,Rosenborg,2-0,Celtic
+F,23/10/01,Fenerbahçe,1-2,Bayer Leverkusen
+F,23/10/01,Lyon,2-3,Barcelona
+G,23/10/01,Deportivo,1-1,Lille
+G,23/10/01,Manchester United,3-0,Olympiacos
+B,23/10/01,Borussia Dortmund,1-0,Dynamo Kyiv
+A,24/10/01,Anderlecht,1-5,Lokomotiv
+A,24/10/01,Real Madrid,1-1,Roma
+B,24/10/01,Boavista FC,1-1,Liverpool
+C,24/10/01,Arsenal,3-1,Mallorca
+C,24/10/01,Panathinaikos,2-0,Schalke 04
+D,24/10/01,Lazio,1-0,Galatasaray
+D,24/10/01,PSV,0-0,Nantes
+B,29/10/01,Liverpool,2-0,Borussia Dortmund
+A,30/10/01,Lokomotiv,2-0,Real Madrid
+A,30/10/01,Roma,1-1,Anderlecht
+B,30/10/01,Dynamo Kyiv,1-0,Boavista FC
+C,30/10/01,Mallorca,1-0,Panathinaikos
+C,30/10/01,Schalke 04,3-1,Arsenal
+D,30/10/01,Galatasaray,2-0,PSV
+D,30/10/01,Nantes,1-0,Lazio
+H,30/10/01,Feyenoord,2-1,Spartak Moskva
+H,30/10/01,Sparta Praha,0-1,Bayern München
+E,31/10/01,Celtic,4-3,Juventus
+E,31/10/01,FC Porto,1-0,Rosenborg
+F,31/10/01,Barcelona,1-0,Fenerbahçe
+F,31/10/01,Bayer Leverkusen,2-4,Lyon
+G,31/10/01,Lille,1-1,Manchester United
+G,31/10/01,Olympiacos,1-1,Deportivo
+A,19/11/01,Bayern München,1-1,Manchester United
+B,19/11/01,Galatasaray,1-1,Roma
+B,19/11/01,Liverpool,1-3,Barcelona
+A,20/11/01,Boavista FC,1-0,Nantes
+C,20/11/01,Sparta Praha,2-3,Real Madrid
+D,20/11/01,Deportivo,2-0,Arsenal
+C,21/11/01,Panathinaikos,0-0,FC Porto
+D,28/11/01,Juventus,4-0,Bayer Leverkusen
+C,03/12/01,Real Madrid,3-0,Panathinaikos
+D,03/12/01,Arsenal,3-1,Juventus
+D,03/12/01,Bayer Leverkusen,3-0,Deportivo
+C,04/12/01,FC Porto,0-1,Sparta Praha
+A,04/12/01,Manchester United,3-0,Boavista FC
+A,04/12/01,Nantes,0-1,Bayern München
+B,04/12/01,Roma,0-0,Liverpool
+B,05/12/01,Barcelona,2-2,Galatasaray
+C,18/02/02,Sparta Praha,0-2,Panathinaikos
+D,18/02/02,Bayer Leverkusen,1-1,Arsenal
+D,18/02/02,Juventus,0-0,Deportivo
+C,19/02/02,Real Madrid,1-0,FC Porto
+A,19/02/02,Nantes,1-1,Manchester United
+B,19/02/02,Barcelona,1-1,Roma
+B,19/02/02,Liverpool,0-0,Galatasaray
+A,20/02/02,Boavista FC,0-0,Bayern München
+A,25/02/02,Manchester United,5-1,Nantes
+B,25/02/02,Galatasaray,1-1,Liverpool
+B,25/02/02,Roma,3-0,Barcelona
+A,26/02/02,Bayern München,1-0,Boavista FC
+C,26/02/02,Panathinaikos,2-1,Sparta Praha
+D,26/02/02,Arsenal,4-1,Bayer Leverkusen
+D,26/02/02,Deportivo,2-0,Juventus
+C,27/02/02,FC Porto,1-2,Real Madrid
+C,11/03/02,Real Madrid,3-0,Sparta Praha
+D,11/03/02,Arsenal,0-2,Deportivo
+D,11/03/02,Bayer Leverkusen,3-1,Juventus
+C,12/03/02,FC Porto,2-1,Panathinaikos
+A,12/03/02,Manchester United,0-0,Bayern München
+B,12/03/02,Barcelona,0-0,Liverpool
+A,13/03/02,Nantes,1-1,Boavista FC
+B,13/03/02,Roma,1-1,Galatasaray
+A,18/03/02,Bayern München,2-1,Nantes
+B,18/03/02,Galatasaray,0-1,Barcelona
+B,18/03/02,Liverpool,2-0,Roma
+A,19/03/02,Boavista FC,0-3,Manchester United
+C,19/03/02,Panathinaikos,2-2,Real Madrid
+D,19/03/02,Deportivo,1-3,Bayer Leverkusen
+D,19/03/02,Juventus,1-0,Arsenal
+C,20/03/02,Sparta Praha,2-0,FC Porto
+QF,02/04/02,Bayern München,2-1,Real Madrid
+QF,02/04/02,Deportivo,0-2,Manchester United
+QF,03/04/02,Panathinaikos,1-0,Barcelona
+QF,03/04/02,Liverpool,1-0,Bayer Leverkusen
+QF,09/04/02,Barcelona,3-1,Panathinaikos
+QF,09/04/02,Bayer Leverkusen,4-2,Liverpool
+QF,10/04/02,Real Madrid,2-0,Bayern München
+QF,10/04/02,Manchester United,3-2,Deportivo
+SF,23/04/02,Barcelona,0-2,Real Madrid
+SF,24/04/02,Manchester United,2-2,Bayer Leverkusen
+SF,30/04/02,Bayer Leverkusen,1-1,Manchester United
+SF,01/05/02,Real Madrid,1-1,Barcelona
+F,15/05/02,Bayer Leverkusen,1-2,Real Madrid

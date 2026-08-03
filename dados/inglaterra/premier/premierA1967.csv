@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/67,Arsenal,2-0,Stoke City
+1,19/08/67,Burnley,2-1,Coventry City
+1,19/08/67,Everton,3-1,Manchester United
+1,19/08/67,Fulham,1-2,Wolverhampton
+1,19/08/67,Leeds United,1-1,Sunderland
+1,19/08/67,Leicester City,2-3,Tottenham
+1,19/08/67,Manchester City,0-0,Liverpool
+1,19/08/67,Newcastle,3-0,Southampton
+1,19/08/67,Sheffield United,1-3,Nottingham Forest
+1,19/08/67,West Bromwich,0-1,Chelsea
+1,19/08/67,West Ham,2-3,Sheffield Wed.
+2,21/08/67,West Ham,4-2,Burnley
+2,22/08/67,Liverpool,2-0,Arsenal
+2,22/08/67,Nottingham Forest,3-3,Coventry City
+2,23/08/67,Chelsea,1-1,Newcastle
+2,23/08/67,Manchester United,1-0,Leeds United
+2,23/08/67,Sheffield Wed.,2-1,Leicester City
+2,23/08/67,Southampton,3-2,Manchester City
+2,23/08/67,Stoke City,1-1,Sheffield United
+2,23/08/67,Sunderland,3-0,Fulham
+2,23/08/67,Tottenham,1-1,Everton
+2,23/08/67,Wolverhampton,3-3,West Bromwich
+3,26/08/67,Chelsea,1-1,Fulham
+3,26/08/67,Coventry City,2-2,Sheffield United
+3,26/08/67,Liverpool,6-0,Newcastle
+3,26/08/67,Manchester United,1-1,Leicester City
+3,26/08/67,Nottingham Forest,2-0,Arsenal
+3,26/08/67,Sheffield Wed.,2-1,Burnley
+3,26/08/67,Southampton,4-0,West Bromwich
+3,26/08/67,Stoke City,3-0,Manchester City
+3,26/08/67,Sunderland,1-0,Everton
+3,26/08/67,Tottenham,5-1,West Ham
+3,26/08/67,Wolverhampton,2-0,Leeds United
+4,28/08/67,Arsenal,2-0,Liverpool
+4,28/08/67,Fulham,3-2,Sunderland
+4,29/08/67,Burnley,3-3,West Ham
+4,29/08/67,Coventry City,1-3,Nottingham Forest
+4,29/08/67,Everton,0-1,Tottenham
+4,29/08/67,Sheffield United,1-0,Stoke City
+4,30/08/67,Leicester City,3-0,Sheffield Wed.
+4,30/08/67,Manchester City,4-2,Southampton
+4,30/08/67,Newcastle,5-1,Chelsea
+4,30/08/67,West Bromwich,4-1,Wolverhampton
+5,02/09/67,Arsenal,1-1,Coventry City
+5,02/09/67,Burnley,5-1,Tottenham
+5,02/09/67,Chelsea,2-6,Southampton
+5,02/09/67,Everton,4-2,Wolverhampton
+5,02/09/67,Leeds United,2-0,Fulham
+5,02/09/67,Leicester City,0-2,Sunderland
+5,02/09/67,Manchester City,2-0,Nottingham Forest
+5,02/09/67,Newcastle,1-1,Stoke City
+5,02/09/67,Sheffield United,0-1,Sheffield Wed.
+5,02/09/67,West Bromwich,0-2,Liverpool
+5,02/09/67,West Ham,1-3,Manchester United
+6,05/09/67,Coventry City,2-1,Southampton
+6,05/09/67,Everton,2-0,West Ham
+6,05/09/67,Nottingham Forest,0-1,Liverpool
+5,06/09/67,Sunderland,1-1,Manchester United
+6,06/09/67,Chelsea,4-2,Sheffield United
+6,06/09/67,Manchester City,2-0,Newcastle
+6,06/09/67,Sheffield Wed.,4-2,Fulham
+6,06/09/67,Stoke City,3-2,Leicester City
+6,06/09/67,Tottenham,2-1,Wolverhampton
+6,06/09/67,West Bromwich,1-3,Arsenal
+5,09/09/67,Southampton,1-1,Leeds United
+6,09/09/67,Manchester United,2-2,Burnley
+7,09/09/67,Coventry City,0-3,Manchester City
+7,09/09/67,Fulham,2-1,Everton
+7,09/09/67,Liverpool,3-1,Chelsea
+7,09/09/67,Nottingham Forest,4-0,Newcastle
+7,09/09/67,Sheffield United,2-4,Arsenal
+7,09/09/67,Stoke City,0-0,West Bromwich
+7,09/09/67,Sunderland,1-5,West Ham
+7,09/09/67,Tottenham,2-1,Sheffield Wed.
+7,09/09/67,Wolverhampton,1-3,Leicester City
+7,16/09/67,Burnley,3-0,Sunderland
+7,16/09/67,Sheffield Wed.,1-1,Manchester United
+8,16/09/67,Arsenal,4-0,Tottenham
+8,16/09/67,Chelsea,2-2,Stoke City
+8,16/09/67,Everton,0-1,Leeds United
+8,16/09/67,Leicester City,1-2,Fulham
+8,16/09/67,Manchester City,5-2,Sheffield United
+8,16/09/67,Newcastle,3-2,Coventry City
+8,16/09/67,Southampton,1-0,Liverpool
+8,16/09/67,West Bromwich,2-1,Nottingham Forest
+8,16/09/67,West Ham,1-2,Wolverhampton
+8,20/09/67,Leeds United,2-1,Burnley
+8,23/09/67,Leeds United,3-2,Leicester City
+8,23/09/67,Manchester United,3-1,Tottenham
+9,23/09/67,Arsenal,1-0,Manchester City
+9,23/09/67,Coventry City,4-2,West Bromwich
+9,23/09/67,Fulham,0-3,West Ham
+9,23/09/67,Liverpool,1-0,Everton
+9,23/09/67,Nottingham Forest,3-0,Chelsea
+9,23/09/67,Sheffield United,2-1,Newcastle
+9,23/09/67,Stoke City,3-2,Southampton
+9,23/09/67,Sunderland,0-2,Sheffield Wed.
+9,23/09/67,Wolverhampton,3-2,Burnley
+9,30/09/67,West Ham,0-0,Leeds United
+10,30/09/67,Burnley,2-0,Fulham
+10,30/09/67,Chelsea,1-1,Coventry City
+10,30/09/67,Leicester City,0-2,Everton
+10,30/09/67,Liverpool,2-1,Stoke City
+10,30/09/67,Manchester City,1-2,Manchester United
+10,30/09/67,Newcastle,2-1,Arsenal
+10,30/09/67,Sheffield Wed.,2-2,Wolverhampton
+10,30/09/67,Southampton,2-1,Nottingham Forest
+10,30/09/67,Tottenham,3-0,Sunderland
+10,30/09/67,West Bromwich,4-1,Sheffield United
+10,07/10/67,Leeds United,7-0,Chelsea
+11,07/10/67,Burnley,1-1,Nottingham Forest
+11,07/10/67,Everton,4-2,Southampton
+11,07/10/67,Fulham,1-2,West Bromwich
+11,07/10/67,Leicester City,2-1,Liverpool
+11,07/10/67,Manchester United,1-0,Arsenal
+11,07/10/67,Sheffield Wed.,4-0,Coventry City
+11,07/10/67,Sunderland,1-0,Manchester City
+11,07/10/67,Tottenham,1-1,Sheffield United
+11,07/10/67,West Ham,3-4,Stoke City
+11,07/10/67,Wolverhampton,2-2,Newcastle
+11,14/10/67,West Bromwich,2-0,Leeds United
+12,14/10/67,Arsenal,2-1,Sunderland
+12,14/10/67,Chelsea,1-1,Everton
+12,14/10/67,Coventry City,2-3,Tottenham
+12,14/10/67,Liverpool,3-1,West Ham
+12,14/10/67,Manchester City,2-0,Wolverhampton
+12,14/10/67,Newcastle,2-1,Fulham
+12,14/10/67,Nottingham Forest,0-0,Sheffield Wed.
+12,14/10/67,Sheffield United,0-3,Manchester United
+12,14/10/67,Southampton,1-5,Leicester City
+12,14/10/67,Stoke City,0-2,Burnley
+13,21/10/67,Fulham,2-4,Manchester City
+13,23/10/67,Sheffield Wed.,1-1,Stoke City
+13,23/10/67,West Ham,0-1,Southampton
+13,23/10/67,Wolverhampton,3-2,Arsenal
+13,24/10/67,Burnley,1-1,Liverpool
+13,24/10/67,Everton,2-1,West Bromwich
+12,25/10/67,Leeds United,2-0,Newcastle
+12,25/10/67,Manchester United,4-0,Coventry City
+13,25/10/67,Leicester City,2-2,Chelsea
+13,25/10/67,Sunderland,2-1,Sheffield United
+13,25/10/67,Tottenham,1-1,Nottingham Forest
+13,28/10/67,Manchester City,1-0,Leeds United
+14,28/10/67,Arsenal,5-3,Fulham
+14,28/10/67,Chelsea,1-3,West Ham
+14,28/10/67,Coventry City,2-2,Sunderland
+14,28/10/67,Liverpool,1-0,Sheffield Wed.
+14,28/10/67,Newcastle,1-0,Everton
+14,28/10/67,Nottingham Forest,3-1,Manchester United
+14,28/10/67,Sheffield United,1-1,Wolverhampton
+14,28/10/67,Southampton,2-2,Burnley
+14,28/10/67,Stoke City,2-1,Tottenham
+14,28/10/67,West Bromwich,0-0,Leicester City
+14,04/11/67,Manchester United,1-0,Stoke City
+15,04/11/67,Burnley,1-1,Chelsea
+15,04/11/67,Everton,1-1,Manchester City
+15,04/11/67,Leeds United,3-1,Arsenal
+15,04/11/67,Leicester City,2-2,Newcastle
+15,04/11/67,Sheffield Wed.,2-0,Southampton
+15,04/11/67,Sunderland,1-0,Nottingham Forest
+15,04/11/67,Tottenham,1-1,Liverpool
+15,04/11/67,Wolverhampton,2-0,Coventry City
+15,08/11/67,Leeds United,1-0,Manchester United
+15,11/11/67,Coventry City,0-3,Fulham
+16,11/11/67,Arsenal,2-2,Everton
+16,11/11/67,Chelsea,3-0,Sheffield Wed.
+16,11/11/67,Liverpool,1-2,Manchester United
+16,11/11/67,Manchester City,6-0,Leicester City
+16,11/11/67,Newcastle,1-0,West Ham
+16,11/11/67,Nottingham Forest,3-1,Wolverhampton
+16,11/11/67,Sheffield United,1-0,Leeds United
+16,11/11/67,Southampton,1-2,Tottenham
+16,11/11/67,Stoke City,2-1,Sunderland
+16,11/11/67,West Bromwich,8-1,Burnley
+16,18/11/67,Fulham,2-0,Nottingham Forest
+16,18/11/67,Sheffield Wed.,2-2,West Bromwich
+17,18/11/67,Burnley,2-0,Newcastle
+17,18/11/67,Everton,1-0,Sheffield United
+17,18/11/67,Leeds United,1-1,Coventry City
+17,18/11/67,Leicester City,2-2,Arsenal
+17,18/11/67,Manchester United,3-2,Southampton
+17,18/11/67,Sunderland,1-1,Liverpool
+17,18/11/67,Tottenham,2-0,Chelsea
+17,18/11/67,West Ham,2-3,Manchester City
+17,18/11/67,Wolverhampton,3-4,Stoke City
+17,25/11/67,Stoke City,0-1,Fulham
+17,25/11/67,West Bromwich,2-0,Tottenham
+18,25/11/67,Arsenal,0-0,West Ham
+18,25/11/67,Chelsea,1-1,Manchester United
+18,25/11/67,Coventry City,0-2,Everton
+18,25/11/67,Liverpool,2-1,Wolverhampton
+18,25/11/67,Manchester City,4-2,Burnley
+18,25/11/67,Newcastle,4-0,Sheffield Wed.
+18,25/11/67,Nottingham Forest,0-2,Leeds United
+18,25/11/67,Sheffield United,0-0,Leicester City
+18,25/11/67,Southampton,3-2,Sunderland
+18,02/12/67,Fulham,1-1,Liverpool
+18,02/12/67,Manchester United,2-1,West Bromwich
+18,02/12/67,West Ham,3-0,Sheffield United
+19,02/12/67,Burnley,1-0,Arsenal
+19,02/12/67,Everton,1-0,Nottingham Forest
+19,02/12/67,Leeds United,2-0,Stoke City
+19,02/12/67,Leicester City,0-0,Coventry City
+19,02/12/67,Sheffield Wed.,1-1,Manchester City
+19,02/12/67,Sunderland,2-3,Chelsea
+19,02/12/67,Tottenham,1-1,Newcastle
+19,02/12/67,Wolverhampton,2-0,Southampton
+19,08/12/67,Coventry City,1-1,West Ham
+20,09/12/67,Liverpool,2-0,Leeds United
+20,09/12/67,Manchester City,4-1,Tottenham
+20,09/12/67,Newcastle,2-2,Manchester United
+20,09/12/67,Sheffield United,1-0,Burnley
+20,09/12/67,Stoke City,1-0,Everton
+19,11/12/67,West Ham,2-3,West Bromwich
+19,16/12/67,Wolverhampton,3-2,Fulham
+20,16/12/67,Chelsea,0-3,West Bromwich
+20,16/12/67,Nottingham Forest,1-0,Sheffield United
+20,16/12/67,Stoke City,0-1,Arsenal
+20,16/12/67,Tottenham,0-1,Leicester City
+21,16/12/67,Coventry City,5-1,Burnley
+21,16/12/67,Liverpool,1-1,Manchester City
+21,16/12/67,Manchester United,3-1,Everton
+21,16/12/67,Sheffield Wed.,4-1,West Ham
+21,16/12/67,Southampton,0-0,Newcastle
+21,16/12/67,Sunderland,2-2,Leeds United
+20,23/12/67,Fulham,2-2,Chelsea
+21,23/12/67,Arsenal,3-0,Nottingham Forest
+21,23/12/67,Leicester City,2-2,Manchester United
+21,23/12/67,Sheffield United,2-0,Coventry City
+21,23/12/67,West Bromwich,0-0,Southampton
+22,23/12/67,Burnley,2-1,Sheffield Wed.
+22,23/12/67,Everton,3-0,Sunderland
+22,23/12/67,Leeds United,2-1,Wolverhampton
+22,23/12/67,Manchester City,4-2,Stoke City
+22,23/12/67,Newcastle,1-1,Liverpool
+22,23/12/67,West Ham,2-1,Tottenham
+21,26/12/67,Tottenham,2-2,Fulham
+22,26/12/67,Chelsea,2-1,Arsenal
+22,26/12/67,Nottingham Forest,3-0,Stoke City
+22,26/12/67,Southampton,3-3,Sheffield United
+22,26/12/67,West Ham,4-2,Leicester City
+23,26/12/67,Coventry City,1-1,Liverpool
+23,26/12/67,Everton,2-0,Burnley
+23,26/12/67,Manchester United,4-0,Wolverhampton
+23,26/12/67,Newcastle,2-1,Sunderland
+23,26/12/67,Sheffield Wed.,0-1,Leeds United
+23,26/12/67,West Bromwich,3-2,Manchester City
+22,30/12/67,Fulham,1-2,Tottenham
+23,30/12/67,Arsenal,1-1,Chelsea
+23,30/12/67,Leicester City,2-4,West Ham
+23,30/12/67,Sheffield United,4-1,Southampton
+23,30/12/67,Stoke City,1-3,Nottingham Forest
+24,30/12/67,Burnley,2-1,Everton
+24,30/12/67,Leeds United,3-2,Sheffield Wed.
+24,30/12/67,Liverpool,1-0,Coventry City
+24,30/12/67,Manchester City,0-2,West Bromwich
+24,30/12/67,Sunderland,3-3,Newcastle
+24,30/12/67,Wolverhampton,2-3,Manchester United
+23,06/01/68,Fulham,0-5,Leeds United
+24,06/01/68,Coventry City,1-1,Arsenal
+24,06/01/68,Liverpool,4-1,West Bromwich
+24,06/01/68,Sheffield Wed.,1-1,Sheffield United
+24,06/01/68,Southampton,3-5,Chelsea
+24,06/01/68,Sunderland,0-2,Leicester City
+25,06/01/68,Manchester United,3-1,West Ham
+25,06/01/68,Nottingham Forest,0-3,Manchester City
+25,06/01/68,Stoke City,2-1,Newcastle
+25,06/01/68,Wolverhampton,1-3,Everton
+25,13/01/68,Arsenal,1-1,Sheffield United
+25,13/01/68,Leicester City,3-1,Wolverhampton
+26,13/01/68,Leeds United,5-0,Southampton
+26,13/01/68,Newcastle,0-0,Nottingham Forest
+25,17/01/68,Sheffield Wed.,1-2,Tottenham
+24,20/01/68,Fulham,0-1,Leicester City
+25,20/01/68,Nottingham Forest,3-2,West Bromwich
+25,20/01/68,Stoke City,0-1,Chelsea
+25,20/01/68,Sunderland,2-2,Burnley
+26,20/01/68,Leeds United,2-0,Everton
+26,20/01/68,Liverpool,2-0,Southampton
+26,20/01/68,Manchester United,4-2,Sheffield Wed.
+26,20/01/68,Sheffield United,0-3,Manchester City
+26,20/01/68,Tottenham,1-0,Arsenal
+26,20/01/68,Wolverhampton,1-2,West Ham
+27,20/01/68,Coventry City,1-4,Newcastle
+25,03/02/68,West Ham,7-2,Fulham
+26,03/02/68,Burnley,1-1,Wolverhampton
+26,03/02/68,West Bromwich,0-1,Coventry City
+27,03/02/68,Chelsea,1-0,Nottingham Forest
+27,03/02/68,Everton,1-0,Liverpool
+27,03/02/68,Manchester City,1-1,Arsenal
+27,03/02/68,Sheffield Wed.,0-1,Sunderland
+27,03/02/68,Southampton,1-2,Stoke City
+27,03/02/68,Tottenham,1-2,Manchester United
+28,03/02/68,Leicester City,2-2,Leeds United
+28,03/02/68,Newcastle,1-0,Sheffield United
+27,10/02/68,Coventry City,2-1,Chelsea
+27,10/02/68,Fulham,4-3,Burnley
+27,10/02/68,Sunderland,0-1,Tottenham
+28,10/02/68,Arsenal,0-0,Newcastle
+28,10/02/68,Nottingham Forest,2-2,Southampton

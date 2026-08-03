@@ -1,0 +1,139 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/01/12,América-PE,0-4,Serra Talhada
+1,15/01/12,Santa Cruz,2-1,Belo Jardim
+1,15/01/12,Porto-PE,0-2,Náutico
+1,15/01/12,Petrolina,3-1,Salgueiro
+1,15/01/12,Araripina,1-1,Sport
+1,15/01/12,Ypiranga-PE,1-0,Central
+2,18/01/12,Salgueiro,2-0,Santa Cruz
+2,18/01/12,Belo Jardim,0-2,Porto-PE
+2,18/01/12,Central,1-1,Araripina
+2,18/01/12,Serra Talhada,4-0,Ypiranga-PE
+2,18/01/12,Náutico,2-0,Petrolina
+2,19/01/12,Sport,0-0,América-PE
+3,21/01/12,Araripina,0-1,Náutico
+3,22/01/12,Serra Talhada,2-4,Santa Cruz
+3,22/01/12,Central,4-0,Porto-PE
+3,22/01/12,Ypiranga-PE,3-1,Belo Jardim
+3,22/01/12,América-PE,0-3,Salgueiro
+3,23/01/12,Sport,2-1,Petrolina
+4,25/01/12,Santa Cruz,2-0,Ypiranga-PE
+4,25/01/12,Porto-PE,1-1,Araripina
+4,25/01/12,Salgueiro,3-0,Central
+4,25/01/12,Náutico,2-0,América-PE
+4,26/01/12,Petrolina,2-0,Serra Talhada
+4,26/01/12,Belo Jardim,0-3,Sport
+5,28/01/12,Araripina,2-0,Santa Cruz
+5,29/01/12,Sport,4-3,Náutico
+5,29/01/12,Ypiranga-PE,1-4,Porto-PE
+5,29/01/12,América-PE,1-3,Belo Jardim
+5,29/01/12,Serra Talhada,1-2,Salgueiro
+5,29/01/12,Central,1-1,Petrolina
+6,01/02/12,Santa Cruz,0-0,Central
+6,01/02/12,Porto-PE,2-0,América-PE
+6,01/02/12,Belo Jardim,2-0,Serra Talhada
+6,01/02/12,Petrolina,1-0,Araripina
+6,01/02/12,Salgueiro,2-0,Sport
+6,01/02/12,Náutico,3-1,Ypiranga-PE
+7,04/02/12,Náutico,2-2,Santa Cruz
+7,05/02/12,Porto-PE,0-0,Petrolina
+7,05/02/12,Belo Jardim,1-0,Salgueiro
+7,05/02/12,Serra Talhada,1-2,Sport
+7,05/02/12,América-PE,1-2,Central
+7,05/02/12,Ypiranga-PE,0-0,Araripina
+8,08/02/12,Santa Cruz,3-1,Porto-PE
+8,08/02/12,Petrolina,1-0,Belo Jardim
+8,08/02/12,Central,0-1,Serra Talhada
+8,08/02/12,Araripina,4-2,América-PE
+8,08/02/12,Salgueiro,3-2,Náutico
+8,08/02/12,Sport,0-1,Ypiranga-PE
+9,11/02/12,Sport,4-2,Porto-PE
+9,12/02/12,América-PE,0-1,Santa Cruz
+9,12/02/12,Serra Talhada,0-1,Náutico
+9,12/02/12,Central,4-0,Belo Jardim
+9,12/02/12,Araripina,2-2,Salgueiro
+9,12/02/12,Ypiranga-PE,0-1,Petrolina
+10,15/02/12,Porto-PE,3-1,Serra Talhada
+10,15/02/12,Belo Jardim,1-0,Araripina
+10,15/02/12,Salgueiro,3-0,Ypiranga-PE
+10,15/02/12,Petrolina,0-0,América-PE
+10,15/02/12,Náutico,2-0,Central
+10,16/02/12,Santa Cruz,1-3,Sport
+11,22/02/12,Petrolina,2-1,Santa Cruz
+11,22/02/12,Salgueiro,2-0,Porto-PE
+11,22/02/12,Serra Talhada,2-0,Araripina
+11,22/02/12,Belo Jardim,2-0,Náutico
+11,23/02/12,Sport,2-1,Central
+11,23/02/12,América-PE,1-2,Ypiranga-PE
+12,25/02/12,Porto-PE,0-1,Salgueiro
+12,25/02/12,Santa Cruz,6-0,Petrolina
+12,26/02/12,Náutico,3-1,Belo Jardim
+12,26/02/12,Central,1-1,Sport
+12,26/02/12,Ypiranga-PE,2-0,América-PE
+12,26/02/12,Araripina,1-1,Serra Talhada
+13,29/02/12,América-PE,2-2,Náutico
+13,29/02/12,Araripina,4-1,Porto-PE
+13,29/02/12,Sport,3-2,Belo Jardim
+13,29/02/12,Central,2-0,Salgueiro
+13,29/02/12,Serra Talhada,1-0,Petrolina
+13,29/02/12,Ypiranga-PE,1-0,Santa Cruz
+14,03/03/12,Náutico,3-0,Araripina
+14,04/03/12,Santa Cruz,2-0,Serra Talhada
+14,04/03/12,Porto-PE,0-0,Central
+14,04/03/12,Belo Jardim,0-0,Ypiranga-PE
+14,04/03/12,Salgueiro,3-1,América-PE
+14,04/03/12,Petrolina,0-1,Sport
+15,07/03/12,Náutico,2-0,Porto-PE
+15,07/03/12,Salgueiro,1-0,Petrolina
+15,07/03/12,Serra Talhada,1-0,América-PE
+15,07/03/12,Central,0-0,Ypiranga-PE
+15,07/03/12,Sport,2-1,Araripina
+16,10/03/12,América-PE,2-4,Sport
+16,11/03/12,Santa Cruz,2-0,Salgueiro
+16,11/03/12,Porto-PE,2-0,Belo Jardim
+16,11/03/12,Petrolina,1-1,Náutico
+16,11/03/12,Araripina,1-1,Central
+16,11/03/12,Ypiranga-PE,1-0,Serra Talhada
+18,15/03/12,Belo Jardim,1-2,América-PE
+17,17/03/12,Sport,0-0,Salgueiro
+17,18/03/12,Central,1-2,Santa Cruz
+17,18/03/12,Ypiranga-PE,0-0,Náutico
+17,18/03/12,América-PE,1-4,Porto-PE
+17,18/03/12,Serra Talhada,1-1,Belo Jardim
+17,18/03/12,Araripina,1-3,Petrolina
+15,21/03/12,Belo Jardim,0-3,Santa Cruz
+18,24/03/12,Santa Cruz,3-2,Araripina
+18,25/03/12,Náutico,0-0,Sport
+18,25/03/12,Porto-PE,2-1,Ypiranga-PE
+18,25/03/12,Salgueiro,1-1,Serra Talhada
+18,25/03/12,Petrolina,1-1,Central
+19,28/03/12,Náutico,0-1,Salgueiro
+19,28/03/12,Belo Jardim,2-0,Petrolina
+19,28/03/12,Ypiranga-PE,1-2,Sport
+19,28/03/12,Serra Talhada,1-2,Central
+19,28/03/12,América-PE,1-1,Araripina
+19,28/03/12,Porto-PE,1-3,Santa Cruz
+20,31/03/12,Sport,5-0,Serra Talhada
+20,01/04/12,Santa Cruz,1-0,Náutico
+20,01/04/12,Petrolina,4-3,Porto-PE
+20,01/04/12,Salgueiro,2-2,Belo Jardim
+20,01/04/12,Central,2-2,América-PE
+20,01/04/12,Araripina,0-1,Ypiranga-PE
+21,07/04/12,Náutico,1-2,Serra Talhada
+21,08/04/12,Santa Cruz,5-0,América-PE
+21,08/04/12,Porto-PE,1-3,Sport
+21,08/04/12,Belo Jardim,3-1,Central
+21,08/04/12,Salgueiro,2-1,Araripina
+21,08/04/12,Petrolina,2-0,Ypiranga-PE
+22,15/04/12,Sport,2-1,Santa Cruz
+22,15/04/12,Central,1-2,Náutico
+22,15/04/12,Serra Talhada,1-2,Porto-PE
+22,15/04/12,Araripina,1-2,Belo Jardim
+22,15/04/12,Ypiranga-PE,1-1,Salgueiro
+22,15/04/12,América-PE,1-0,Petrolina
+SF,22/04/12,Náutico,1-2,Sport
+SF,22/04/12,Salgueiro,2-1,Santa Cruz
+SF,29/04/12,Sport,0-0,Náutico
+SF,30/04/12,Santa Cruz,3-1,Salgueiro
+F,06/05/12,Santa Cruz,0-0,Sport
+F,13/05/12,Sport,2-3,Santa Cruz

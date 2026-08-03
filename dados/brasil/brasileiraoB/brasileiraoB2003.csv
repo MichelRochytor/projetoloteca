@@ -1,0 +1,313 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,25/04/03,Santa Cruz,3-0,União São João
+1F,25/04/03,Caxias,1-1,Gama
+1F,25/04/03,Avaí,1-0,Ceará
+1F,25/04/03,América-RN,2-2,América Mineiro
+1F,26/04/03,Portuguesa,5-2,Remo
+1F,26/04/03,Marília,2-0,Anapolina
+1F,26/04/03,São Raimundo-AM,3-2,Londrina
+1F,26/04/03,Náutico,4-3,Joinville
+1F,26/04/03,Paulista,2-1,Mogi Mirim
+1F,26/04/03,Vila Nova,2-1,Botafogo
+1F,26/04/03,Brasiliense,1-1,Palmeiras
+1F,27/04/03,CRB,1-1,Sport
+1F,29/04/03,Joinville,3-0,Santa Cruz
+1F,29/04/03,Gama,1-1,Portuguesa
+1F,02/05/03,Ceará,1-1,Caxias
+1F,02/05/03,Londrina,2-1,CRB
+1F,03/05/03,Remo,2-0,São Raimundo-AM
+1F,03/05/03,Mogi Mirim,2-0,Brasiliense
+1F,03/05/03,União São João,0-1,Marília
+1F,03/05/03,Palmeiras,1-1,América-RN
+1F,04/05/03,América Mineiro,4-1,Vila Nova
+1F,04/05/03,Botafogo,1-1,Avaí
+1F,04/05/03,Sport,2-0,Paulista
+1F,04/05/03,Anapolina,3-1,Náutico
+1F,09/05/03,Portuguesa,3-2,Ceará
+1F,09/05/03,Santa Cruz,1-1,Mogi Mirim
+1F,09/05/03,Caxias,2-1,América Mineiro
+1F,09/05/03,Vila Nova,1-0,Londrina
+1F,10/05/03,Náutico,2-1,Palmeiras
+1F,10/05/03,CRB,0-3,Botafogo
+1F,10/05/03,Avaí,2-0,Sport
+1F,10/05/03,Brasiliense,2-0,Joinville
+1F,10/05/03,Marília,1-0,Gama
+1F,10/05/03,Paulista,1-1,Remo
+1F,10/05/03,São Raimundo-AM,3-0,Anapolina
+1F,11/05/03,América-RN,2-0,União São João
+1F,16/05/03,União São João,0-1,CRB
+1F,17/05/03,Palmeiras,4-0,São Raimundo-AM
+1F,17/05/03,Botafogo,0-0,Portuguesa
+1F,17/05/03,Ceará,2-2,Náutico
+1F,17/05/03,América Mineiro,2-3,Santa Cruz
+1F,17/05/03,Sport,2-2,Marília
+1F,17/05/03,Londrina,3-3,Brasiliense
+1F,17/05/03,Gama,0-0,Paulista
+1F,17/05/03,Mogi Mirim,1-0,Avaí
+1F,17/05/03,Joinville,2-4,América-RN
+1F,18/05/03,Remo,2-0,Caxias
+1F,18/05/03,Anapolina,2-0,Vila Nova
+1F,23/05/03,América-RN,1-2,Botafogo
+1F,23/05/03,Paulista,2-2,América Mineiro
+1F,23/05/03,Santa Cruz,5-2,Remo
+1F,24/05/03,Caxias,1-4,Palmeiras
+1F,24/05/03,Portuguesa,1-2,Anapolina
+1F,24/05/03,Náutico,2-0,Londrina
+1F,24/05/03,Brasiliense,1-0,Ceará
+1F,24/05/03,São Raimundo-AM,2-0,Gama
+1F,24/05/03,Marília,2-0,Joinville
+1F,24/05/03,CRB,3-1,Mogi Mirim
+1F,24/05/03,Avaí,2-1,União São João
+1F,24/05/03,Vila Nova,0-1,Sport
+1F,27/05/03,Mogi Mirim,3-2,Marília
+1F,27/05/03,América Mineiro,0-0,Náutico
+1F,30/05/03,Londrina,4-2,Portuguesa
+1F,30/05/03,Anapolina,1-1,Santa Cruz
+1F,30/05/03,Gama,1-0,Avaí
+1F,31/05/03,Palmeiras,1-1,CRB
+1F,31/05/03,Botafogo,4-0,Brasiliense
+1F,31/05/03,Joinville,0-1,Paulista
+1F,31/05/03,União São João,1-2,Caxias
+1F,31/05/03,Ceará,4-3,América-RN
+1F,31/05/03,Remo,0-0,Vila Nova
+1F,01/06/03,Sport,3-2,São Raimundo-AM
+1F,03/06/03,Portuguesa,1-1,Brasiliense
+1F,03/06/03,América Mineiro,1-1,Joinville
+1F,06/06/03,Paulista,2-2,Náutico
+1F,06/06/03,CRB,1-1,Caxias
+1F,06/06/03,União São João,2-3,Botafogo
+1F,07/06/03,Santa Cruz,2-2,Palmeiras
+1F,07/06/03,Vila Nova,2-2,São Raimundo-AM
+1F,07/06/03,Mogi Mirim,1-2,Ceará
+1F,07/06/03,América-RN,1-0,Avaí
+1F,07/06/03,Marília,0-1,Remo
+1F,08/06/03,Londrina,4-2,Anapolina
+1F,08/06/03,Gama,1-2,Sport
+1F,10/06/03,Avaí,2-1,Marília
+1F,10/06/03,Caxias,1-2,Paulista
+1F,13/06/03,Botafogo,0-2,Ceará
+1F,13/06/03,Náutico,3-1,CRB
+1F,13/06/03,Brasiliense,5-1,Santa Cruz
+1F,14/06/03,Sport,1-1,Londrina
+1F,14/06/03,Joinville,4-3,Gama
+1F,14/06/03,Palmeiras,5-0,Mogi Mirim
+1F,14/06/03,América-RN,1-2,Vila Nova
+1F,15/06/03,São Raimundo-AM,0-0,Portuguesa
+1F,15/06/03,Remo,3-2,União São João
+1F,15/06/03,Anapolina,3-1,América Mineiro
+1F,17/06/03,Paulista,0-1,Avaí
+1F,17/06/03,Joinville,1-1,Londrina
+1F,20/06/03,Náutico,4-1,União São João
+1F,20/06/03,Marília,2-0,Santa Cruz
+1F,20/06/03,Vila Nova,3-3,Portuguesa
+1F,21/06/03,Palmeiras,0-0,Botafogo
+1F,21/06/03,Mogi Mirim,0-0,Sport
+1F,21/06/03,Ceará,1-1,Gama
+1F,21/06/03,Remo,1-1,América-RN
+1F,21/06/03,América Mineiro,4-1,CRB
+1F,21/06/03,Caxias,1-1,São Raimundo-AM
+1F,22/06/03,Brasiliense,3-0,Anapolina
+1F,24/06/03,Portuguesa,1-1,Marília
+1F,24/06/03,Gama,4-3,Mogi Mirim
+1F,27/06/03,União São João,3-2,Sport
+1F,27/06/03,Santa Cruz,2-1,Vila Nova
+1F,28/06/03,América Mineiro,0-3,Palmeiras
+1F,28/06/03,Avaí,1-1,Náutico
+1F,28/06/03,Botafogo,3-1,Remo
+1F,28/06/03,América-RN,3-3,Brasiliense
+1F,28/06/03,São Raimundo-AM,0-1,Paulista
+1F,28/06/03,CRB,2-0,Anapolina
+1F,28/06/03,Londrina,2-1,Caxias
+1F,29/06/03,Ceará,4-0,Joinville
+1F,01/07/03,Avaí,0-1,América Mineiro
+1F,01/07/03,Brasiliense,1-1,Caxias
+1F,04/07/03,Portuguesa,3-0,Paulista
+1F,04/07/03,Sport,2-2,América-RN
+1F,05/07/03,Palmeiras,2-1,Joinville
+1F,05/07/03,Botafogo,3-0,Santa Cruz
+1F,05/07/03,Marília,1-1,CRB
+1F,05/07/03,Remo,6-0,Mogi Mirim
+1F,05/07/03,São Raimundo-AM,2-1,Ceará
+1F,05/07/03,Náutico,1-2,Vila Nova
+1F,06/07/03,Anapolina,4-2,Gama
+1F,06/07/03,Londrina,1-0,União São João
+1F,08/07/03,América-RN,2-2,Portuguesa
+1F,08/07/03,Joinville,1-1,São Raimundo-AM
+1F,11/07/03,Caxias,0-4,Náutico
+1F,11/07/03,Santa Cruz,2-0,Avaí
+1F,12/07/03,Anapolina,1-2,Palmeiras
+1F,12/07/03,Sport,1-2,Botafogo
+1F,12/07/03,Paulista,3-2,Brasiliense
+1F,12/07/03,Gama,1-3,Remo
+1F,12/07/03,América Mineiro,2-2,Londrina
+1F,13/07/03,Mogi Mirim,1-1,União São João
+1F,13/07/03,Ceará,3-0,CRB
+1F,13/07/03,Vila Nova,1-1,Marília
+1F,15/07/03,Portuguesa,4-0,Caxias
+1F,15/07/03,Gama,0-2,Brasiliense
+1F,18/07/03,Náutico,0-1,Sport
+1F,18/07/03,Joinville,3-1,Mogi Mirim
+1F,18/07/03,Avaí,1-1,Remo
+1F,19/07/03,Palmeiras,1-0,Londrina
+1F,19/07/03,São Raimundo-AM,1-0,Santa Cruz
+1F,19/07/03,Marília,2-0,América-RN
+1F,19/07/03,CRB,1-1,Paulista
+1F,19/07/03,União São João,2-1,Vila Nova
+1F,19/07/03,Botafogo,2-1,América Mineiro
+1F,20/07/03,Ceará,1-1,Anapolina
+1F,22/07/03,Marília,0-0,Paulista
+1F,22/07/03,Mogi Mirim,2-0,São Raimundo-AM
+1F,25/07/03,América-RN,2-0,Santa Cruz
+1F,25/07/03,Sport,0-0,Brasiliense
+1F,25/07/03,Portuguesa,2-1,Náutico
+1F,25/07/03,Vila Nova,2-1,Ceará
+1F,26/07/03,Remo,2-1,Palmeiras
+1F,26/07/03,Londrina,2-2,Botafogo
+1F,26/07/03,Gama,1-1,América Mineiro
+1F,26/07/03,União São João,0-0,Joinville
+1F,26/07/03,CRB,2-0,Avaí
+1F,26/07/03,Anapolina,0-0,Caxias
+1F,29/07/03,Ceará,3-1,Remo
+1F,29/07/03,Caxias,4-0,América-RN
+1F,01/08/03,Mogi Mirim,2-1,Portuguesa
+1F,02/08/03,Paulista,1-2,Palmeiras
+1F,02/08/03,Botafogo,4-0,Anapolina
+1F,02/08/03,Sport,3-0,Joinville
+1F,02/08/03,Brasiliense,0-0,Marília
+1F,02/08/03,América Mineiro,3-1,União São João
+1F,02/08/03,São Raimundo-AM,0-1,Avaí
+1F,03/08/03,Vila Nova,1-2,CRB
+1F,03/08/03,Santa Cruz,2-0,Náutico
+1F,05/08/03,América Mineiro,2-2,Ceará
+1F,05/08/03,Remo,1-0,Sport
+1F,08/08/03,Paulista,1-1,Santa Cruz
+1F,08/08/03,Náutico,1-0,São Raimundo-AM
+1F,09/08/03,Palmeiras,4-3,Portuguesa
+1F,09/08/03,União São João,0-1,Gama
+1F,09/08/03,Caxias,4-4,Vila Nova
+1F,09/08/03,Joinville,3-1,Anapolina
+1F,09/08/03,Avaí,0-0,Brasiliense
+1F,10/08/03,Botafogo,2-2,Marília
+1F,10/08/03,Londrina,4-2,Mogi Mirim
+1F,10/08/03,CRB,1-2,América-RN
+1F,12/08/03,Avaí,1-0,Caxias
+1F,12/08/03,União São João,1-0,Portuguesa
+1F,15/08/03,Marília,2-1,Náutico
+1F,15/08/03,Vila Nova,1-1,Paulista
+1F,16/08/03,Ceará,1-1,Palmeiras
+1F,16/08/03,CRB,1-0,Gama
+1F,16/08/03,Brasiliense,2-1,São Raimundo-AM
+1F,16/08/03,Mogi Mirim,3-0,América Mineiro
+1F,16/08/03,Sport,4-0,Santa Cruz
+1F,16/08/03,Joinville,3-2,Botafogo
+1F,17/08/03,Anapolina,2-1,Remo
+1F,17/08/03,América-RN,2-0,Londrina
+1F,19/08/03,América Mineiro,1-1,Brasiliense
+1F,19/08/03,Gama,2-2,Vila Nova
+1F,22/08/03,Caxias,2-1,Marília
+1F,22/08/03,Portuguesa,4-1,Avaí
+1F,23/08/03,Palmeiras,5-1,União São João
+1F,23/08/03,Náutico,1-1,América-RN
+1F,23/08/03,Mogi Mirim,1-4,Botafogo
+1F,23/08/03,Remo,2-0,Joinville
+1F,23/08/03,São Raimundo-AM,3-1,CRB
+1F,24/08/03,Londrina,0-0,Ceará
+1F,26/08/03,Santa Cruz,2-1,Gama
+1F,26/08/03,Brasiliense,1-0,Náutico
+1F,29/08/03,União São João,1-1,Ceará
+1F,29/08/03,CRB,2-0,Portuguesa
+1F,30/08/03,Palmeiras,2-2,Sport
+1F,30/08/03,Paulista,7-1,Londrina
+1F,30/08/03,Joinville,2-2,Avaí
+1F,31/08/03,Anapolina,1-1,Mogi Mirim
+1F,31/08/03,Remo,2-2,América Mineiro
+1F,02/09/03,Gama,2-2,Londrina
+1F,02/09/03,Botafogo,2-2,Caxias
+1F,02/09/03,São Raimundo-AM,1-2,Marília
+1F,05/09/03,Paulista,4-2,América-RN
+1F,05/09/03,Santa Cruz,3-1,CRB
+1F,06/09/03,Sport,2-2,Anapolina
+1F,06/09/03,Vila Nova,0-0,Brasiliense
+1F,06/09/03,Marília,1-2,Palmeiras
+1F,06/09/03,Gama,1-1,Botafogo
+1F,09/09/03,Portuguesa,1-1,Santa Cruz
+1F,09/09/03,Náutico,3-0,Mogi Mirim
+1F,09/09/03,Sport,1-1,América Mineiro
+1F,09/09/03,Ceará,2-1,Paulista
+1F,09/09/03,Anapolina,2-4,União São João
+1F,09/09/03,Caxias,1-3,Joinville
+1F,09/09/03,Avaí,5-2,Vila Nova
+1F,09/09/03,Londrina,1-3,Remo
+1F,09/09/03,América-RN,1-1,São Raimundo-AM
+1F,12/09/03,Ceará,0-2,Sport
+1F,12/09/03,América Mineiro,1-1,Marília
+1F,13/09/03,Palmeiras,2-2,Gama
+1F,13/09/03,Joinville,0-0,Portuguesa
+1F,13/09/03,Santa Cruz,3-1,Caxias
+1F,13/09/03,Brasiliense,2-1,CRB
+1F,13/09/03,União São João,0-0,São Raimundo-AM
+1F,13/09/03,Botafogo,2-1,Paulista
+1F,13/09/03,Remo,1-3,Náutico
+1F,14/09/03,Mogi Mirim,2-0,Vila Nova
+1F,14/09/03,Londrina,2-0,Avaí
+1F,14/09/03,Anapolina,2-1,América-RN
+1F,16/09/03,Santa Cruz,2-1,Ceará
+1F,16/09/03,Caxias,0-0,Sport
+1F,18/09/03,Portuguesa,2-1,América Mineiro
+1F,18/09/03,Marília,3-2,Londrina
+1F,20/09/03,Avaí,1-6,Palmeiras
+1F,20/09/03,São Raimundo-AM,2-2,Botafogo
+1F,20/09/03,Brasiliense,3-0,União São João
+1F,20/09/03,Paulista,3-0,Anapolina
+1F,21/09/03,Vila Nova,3-0,Joinville
+1F,21/09/03,CRB,2-2,Remo
+1F,21/09/03,América-RN,0-0,Mogi Mirim
+1F,21/09/03,Náutico,4-1,Gama
+1F,27/09/03,Palmeiras,2-1,Vila Nova
+1F,27/09/03,Sport,2-0,Portuguesa
+1F,27/09/03,Botafogo,0-1,Náutico
+1F,27/09/03,Londrina,3-1,Santa Cruz
+1F,27/09/03,Remo,2-0,Brasiliense
+1F,27/09/03,Gama,2-2,América-RN
+1F,27/09/03,Ceará,2-2,Marília
+1F,27/09/03,Mogi Mirim,0-1,Caxias
+1F,27/09/03,União São João,1-3,Paulista
+1F,27/09/03,Joinville,3-1,CRB
+1F,27/09/03,Anapolina,1-1,Avaí
+1F,27/09/03,América Mineiro,2-2,São Raimundo-AM
+B,03/10/03,Brasiliense,1-0,Sport
+C,03/10/03,Marília,2-0,Remo
+B,04/10/03,Santa Cruz,1-3,Palmeiras
+C,04/10/03,Náutico,2-4,Botafogo
+B,07/10/03,Sport,3-1,Santa Cruz
+B,07/10/03,Palmeiras,3-2,Brasiliense
+C,07/10/03,Remo,2-3,Náutico
+C,07/10/03,Botafogo,3-1,Marília
+B,10/10/03,Santa Cruz,3-0,Brasiliense
+C,10/10/03,Náutico,1-2,Marília
+B,11/10/03,Sport,1-2,Palmeiras
+C,11/10/03,Remo,3-2,Botafogo
+B,17/10/03,Brasiliense,2-1,Santa Cruz
+C,17/10/03,Marília,4-1,Náutico
+B,18/10/03,Palmeiras,2-3,Sport
+C,18/10/03,Botafogo,4-1,Remo
+B,21/10/03,Santa Cruz,1-1,Sport
+B,21/10/03,Brasiliense,1-2,Palmeiras
+C,21/10/03,Náutico,2-2,Remo
+C,21/10/03,Marília,2-2,Botafogo
+B,25/10/03,Sport,1-1,Brasiliense
+B,25/10/03,Palmeiras,2-0,Santa Cruz
+C,25/10/03,Remo,1-1,Marília
+C,25/10/03,Botafogo,1-2,Náutico
+F,01/11/03,Sport,0-0,Marília
+F,01/11/03,Botafogo,1-1,Palmeiras
+F,04/11/03,Marília,0-0,Botafogo
+F,05/11/03,Palmeiras,1-0,Sport
+F,08/11/03,Marília,0-2,Palmeiras
+F,08/11/03,Botafogo,3-1,Sport
+F,15/11/03,Sport,3-1,Botafogo
+F,15/11/03,Palmeiras,2-0,Marília
+F,22/11/03,Sport,1-2,Palmeiras
+F,22/11/03,Botafogo,3-1,Marília
+F,29/11/03,Palmeiras,4-1,Botafogo
+F,29/11/03,Marília,1-1,Sport

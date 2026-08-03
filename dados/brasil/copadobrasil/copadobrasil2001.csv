@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,14/03/01,Guajará,1-1,Rio Branco-AC
+1F,14/03/01,URT,2-1,Mixto
+1F,14/03/01,Desportiva Capixaba,2-3,Coritiba
+1F,14/03/01,Nacional-AM,3-0,Paysandu
+1F,14/03/01,Malutrom,1-0,Juventude-MT
+1F,14/03/01,Goiânia,1-1,América Mineiro
+1F,14/03/01,Comercial-MS,2-0,Juventude
+1F,14/03/01,Figueirense,2-3,Portuguesa
+1F,14/03/01,Caxias,0-1,Guarani
+1F,14/03/01,Rio Negro-RR,1-2,São Raimundo-AM
+1F,14/03/01,Castanhal,0-1,Ponte Preta
+1F,14/03/01,Santos-AP,0-1,Remo
+1F,14/03/01,Sergipe,2-3,Botafogo
+1F,14/03/01,Anapolina,1-2,Santos
+1F,14/03/01,Villa Nova-MG,3-2,Grêmio
+1F,14/03/01,Americano,2-6,Goiás
+1F,14/03/01,Palmas,0-0,Gama
+1F,14/03/01,Ceará,3-1,Paraná
+1F,14/03/01,América-RN,1-4,Bahia
+1F,14/03/01,River-PI,0-2,Flamengo
+1F,14/03/01,Gama,2-0,Palmas
+1F,14/03/01,Botafogo,2-1,Sergipe
+1F,14/03/01,Ponte Preta,8-1,Castanhal
+1F,14/03/01,Juventude,5-0,Comercial-MS
+1F,14/03/01,Fluminense,2-1,Cachoeiro
+1F,14/03/01,Rio Branco-AC,1-0,Guajará
+1F,14/03/01,América Mineiro,0-1,Goiânia
+1F,14/03/01,Grêmio,4-1,Villa Nova-MG
+1F,14/03/01,São Raimundo-AM,6-0,Rio Negro-RR
+1F,14/03/01,Mixto,2-0,URT
+1F,14/03/01,Paraná,2-2,Ceará
+1F,14/03/01,Moto Club,1-2,Flamengo-PI
+1F,15/03/01,Cachoeiro,0-1,Fluminense
+1F,15/03/01,Treze,2-0,Atlético Paranaense
+1F,15/03/01,Sampaio Corrêa,0-2,Fortaleza
+1F,20/03/01,Santos,5-1,Anapolina
+1F,21/03/01,Goiás,ANU,Americano
+1F,21/03/01,Bahia,ANU,América-RN
+1F,21/03/01,Flamengo,ANU,River-PI
+1F,21/03/01,ASA,1-2,Vitória
+1F,21/03/01,Operário-MS,0-6,Atlético Mineiro
+1F,21/03/01,Botafogo-PB,0-1,São Paulo
+1F,21/03/01,Joinville,1-3,Corinthians
+1F,21/03/01,Vila Nova,3-3,Internacional
+1F,21/03/01,Paysandu,1-1,Nacional-AM
+1F,21/03/01,Portuguesa,2-1,Figueirense
+1F,22/03/01,Fortaleza,ANU,Sampaio Corrêa
+1F,22/03/01,Juventude-MT,4-0,Malutrom
+1F,22/03/01,Guarani,4-1,Caxias
+1F,22/03/01,Atlético Paranaense,2-0(3-2 Pen.),Treze
+1F,22/03/01,Flamengo-PI,2-1,Moto Club
+1F,22/03/01,Remo,3-0,Santos-AP
+1F,28/03/01,Atlético Mineiro,ANU,Operário-MS
+1F,28/03/01,Corinthians,ANU,Joinville
+1F,28/03/01,São Paulo,10-0,Botafogo-PB
+1F,29/03/01,Coritiba,3-0,Desportiva Capixaba
+1F,29/03/01,Internacional,3-1,Vila Nova
+1F,29/03/01,Vitória,2-1,ASA
+1F,04/04/01,Lagartense,1-2,Santa Cruz
+1F,04/04/01,CSA,3-4,Sport
+1F,04/04/01,Náutico,2-2,ABC
+2F,04/04/01,Ponte Preta,0-0,Gama
+2F,04/04/01,São Raimundo-AM,1-0,Portuguesa
+2F,04/04/01,Goiânia,0-1,Corinthians
+2F,04/04/01,Remo,2-1,Botafogo
+2F,05/04/01,Guarani,0-2,Atlético Paranaense
+1F,11/04/01,ABC,2-0,Náutico
+1F,11/04/01,Sport,0-1,CSA
+1F,11/04/01,Santa Cruz,3-3,Lagartense
+2F,11/04/01,Juventude,3-0,Mixto
+2F,11/04/01,Nacional-AM,2-2,Coritiba
+2F,11/04/01,Goiás,3-1,Atlético Mineiro
+2F,11/04/01,Juventude-MT,4-1,Fluminense
+2F,11/04/01,Rio Branco-AC,0-0,Vitória
+2F,11/04/01,Ceará,2-4,São Paulo
+2F,11/04/01,Bahia,2-0,Santos
+2F,11/04/01,Botafogo,1-2,Remo
+2F,11/04/01,Gama,0-2,Ponte Preta
+2F,11/04/01,Portuguesa,3-1,São Raimundo-AM
+2F,12/04/01,Atlético Paranaense,ANU,Guarani
+2F,12/04/01,Corinthians,3-1,Goiânia
+2F,18/04/01,São Paulo,ANU,Ceará
+2F,18/04/01,Fortaleza,1-0,Internacional
+2F,18/04/01,Santa Cruz,1-0,Grêmio
+2F,18/04/01,Flamengo-PI,2-0,Sport
+2F,18/04/01,ABC,1-3,Flamengo
+2F,18/04/01,Santos,0-2,Bahia
+2F,18/04/01,Coritiba,2-1,Nacional-AM
+2F,18/04/01,Fluminense,3-0,Juventude-MT
+2F,18/04/01,Mixto,1-1,Juventude
+2F,18/04/01,Atlético Mineiro,2-2,Goiás
+2F,18/04/01,Vitória,3-0,Rio Branco-AC
+2F,25/04/01,Flamengo,ANU,ABC
+2F,25/04/01,Internacional,0-0,Fortaleza
+2F,26/04/01,Grêmio,3-1,Santa Cruz
+2F,26/04/01,Sport,1-0,Flamengo-PI
+1/8,26/04/01,Remo,3-2,Ponte Preta
+1/8,02/05/01,São Paulo,3-0,Vitória
+1/8,02/05/01,Goiás,1-1,Coritiba
+1/8,02/05/01,Flamengo,2-1,Juventude
+1/8,02/05/01,Flamengo-PI,1-8,Corinthians
+1/8,02/05/01,Grêmio,1-0,Fluminense
+1/8,03/05/01,Atlético Paranaense,3-1,Portuguesa
+1/8,03/05/01,Bahia,0-0,Fortaleza
+1/8,08/05/01,Portuguesa,1-1,Atlético Paranaense
+1/8,09/05/01,Ponte Preta,4-1,Remo
+1/8,09/05/01,Juventude,2-1(2-3 Pen.),Flamengo
+1/8,09/05/01,Fluminense,0-0,Grêmio
+1/8,09/05/01,Fortaleza,3-0,Bahia
+1/8,09/05/01,Corinthians,3-0,Flamengo-PI
+1/8,09/05/01,Vitória,0-2,São Paulo
+1/8,10/05/01,Coritiba,4-3,Goiás
+QF,16/05/01,Coritiba,3-2,Flamengo
+QF,16/05/01,Grêmio,2-1,São Paulo
+QF,16/05/01,Fortaleza,1-0,Ponte Preta
+QF,17/05/01,Corinthians,0-0,Atlético Paranaense
+QF,22/05/01,Atlético Paranaense,0-1,Corinthians
+QF,23/05/01,Flamengo,1-1,Coritiba
+QF,23/05/01,São Paulo,3-4,Grêmio
+QF,23/05/01,Ponte Preta,5-2,Fortaleza
+SF,30/05/01,Grêmio,3-1,Coritiba
+SF,03/06/01,Ponte Preta,0-2,Corinthians
+SF,06/06/01,Coritiba,0-1,Grêmio
+SF,06/06/01,Corinthians,3-0,Ponte Preta
+F,10/06/01,Grêmio,2-2,Corinthians
+F,17/06/01,Corinthians,1-3,Grêmio

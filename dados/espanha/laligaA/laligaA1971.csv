@@ -1,0 +1,607 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,03/09/71,Valencia,1-1,Espanyol
+1,03/09/71,Athletic Bilbao,1-2,Las Palmas
+1,04/09/71,Real Madrid,2-0,Real Betis
+1,04/09/71,Barcelona,3-0,Real Sociedad
+1,04/09/71,Granada,2-0,Málaga
+1,04/09/71,Celta de Vigo,2-1,Atlético de Madrid
+1,04/09/71,Deportivo,3-2,Córdoba
+1,04/09/71,Sevilla,2-0,Burgos CF
+1,04/09/71,CE Sabadell,0-2,Sporting Gijón
+2,10/09/71,Atlético de Madrid,5-0,CE Sabadell
+2,10/09/71,Las Palmas,1-1,Valencia
+2,10/09/71,Málaga,2-0,Deportivo
+2,10/09/71,Sporting Gijón,3-2,Athletic Bilbao
+2,11/09/71,Real Sociedad,3-1,Granada
+2,11/09/71,Espanyol,3-0,Barcelona
+2,11/09/71,Real Betis,1-1,Celta de Vigo
+2,11/09/71,Burgos CF,1-2,Real Madrid
+2,11/09/71,Córdoba,1-1,Sevilla
+3,17/09/71,Valencia,1-0,Sporting Gijón
+3,18/09/71,Real Madrid,3-0,Celta de Vigo
+3,18/09/71,Barcelona,1-2,Las Palmas
+3,18/09/71,Granada,0-0,Espanyol
+3,18/09/71,Athletic Bilbao,0-1,Atlético de Madrid
+3,18/09/71,Deportivo,1-0,Real Sociedad
+3,18/09/71,Burgos CF,1-0,Córdoba
+3,18/09/71,Sevilla,1-2,Málaga
+3,18/09/71,CE Sabadell,2-1,Real Betis
+4,24/09/71,Las Palmas,2-2,Granada
+4,25/09/71,Atlético de Madrid,0-1,Valencia
+4,25/09/71,Málaga,4-1,Burgos CF
+4,25/09/71,Real Sociedad,1-1,Sevilla
+4,25/09/71,Celta de Vigo,0-1,CE Sabadell
+4,25/09/71,Sporting Gijón,1-0,Barcelona
+4,25/09/71,Espanyol,2-0,Deportivo
+4,25/09/71,Real Betis,1-0,Athletic Bilbao
+4,25/09/71,Córdoba,2-2,Real Madrid
+5,02/10/71,Real Madrid,2-0,CE Sabadell
+5,02/10/71,Valencia,2-0,Real Betis
+5,02/10/71,Barcelona,0-0,Atlético de Madrid
+5,02/10/71,Granada,1-0,Sporting Gijón
+5,02/10/71,Athletic Bilbao,4-0,Celta de Vigo
+5,02/10/71,Deportivo,1-0,Las Palmas
+5,02/10/71,Burgos CF,3-1,Real Sociedad
+5,02/10/71,Sevilla,1-0,Espanyol
+5,02/10/71,Córdoba,0-0,Málaga
+6,08/10/71,Las Palmas,1-1,Sevilla
+6,09/10/71,Atlético de Madrid,1-0,Granada
+6,09/10/71,Málaga,1-1,Real Madrid
+6,09/10/71,Real Sociedad,2-1,Córdoba
+6,09/10/71,Celta de Vigo,1-3,Valencia
+6,09/10/71,Sporting Gijón,2-0,Deportivo
+6,09/10/71,Espanyol,1-1,Burgos CF
+6,09/10/71,Real Betis,0-0,Barcelona
+6,09/10/71,CE Sabadell,0-0,Athletic Bilbao
+7,15/10/71,Real Madrid,1-0,Athletic Bilbao
+7,15/10/71,Barcelona,1-0,Celta de Vigo
+7,16/10/71,Valencia,3-1,CE Sabadell
+7,16/10/71,Granada,0-0,Real Betis
+7,16/10/71,Málaga,1-1,Real Sociedad
+7,16/10/71,Deportivo,1-1,Atlético de Madrid
+7,16/10/71,Burgos CF,1-0,Las Palmas
+7,16/10/71,Sevilla,3-1,Sporting Gijón
+7,16/10/71,Córdoba,3-1,Espanyol
+8,30/10/71,Atlético de Madrid,0-2,Sevilla
+8,30/10/71,Las Palmas,3-0,Córdoba
+8,30/10/71,Real Sociedad,0-2,Real Madrid
+8,30/10/71,Athletic Bilbao,1-1,Valencia
+8,30/10/71,Celta de Vigo,0-0,Granada
+8,30/10/71,Sporting Gijón,0-0,Burgos CF
+8,30/10/71,Espanyol,4-1,Málaga
+8,30/10/71,Real Betis,2-0,Deportivo
+8,30/10/71,CE Sabadell,0-0,Barcelona
+9,13/11/71,Real Madrid,1-1,Valencia
+9,13/11/71,Barcelona,0-1,Athletic Bilbao
+9,13/11/71,Granada,3-1,CE Sabadell
+9,13/11/71,Málaga,0-0,Las Palmas
+9,13/11/71,Real Sociedad,4-1,Espanyol
+9,13/11/71,Deportivo,0-1,Celta de Vigo
+9,13/11/71,Burgos CF,0-0,Atlético de Madrid
+9,13/11/71,Sevilla,3-1,Real Betis
+9,13/11/71,Córdoba,0-1,Sporting Gijón
+10,19/11/71,Las Palmas,0-0,Real Sociedad
+10,20/11/71,Valencia,1-0,Barcelona
+10,20/11/71,Atlético de Madrid,2-2,Córdoba
+10,20/11/71,Athletic Bilbao,1-0,Granada
+10,20/11/71,Celta de Vigo,4-1,Sevilla
+10,20/11/71,Sporting Gijón,1-2,Málaga
+10,20/11/71,Espanyol,0-0,Real Madrid
+10,20/11/71,Real Betis,2-0,Burgos CF
+10,20/11/71,CE Sabadell,4-1,Deportivo
+11,27/11/71,Real Madrid,1-1,Barcelona
+11,27/11/71,Granada,1-0,Valencia
+11,27/11/71,Málaga,0-0,Atlético de Madrid
+11,27/11/71,Real Sociedad,3-1,Sporting Gijón
+11,27/11/71,Espanyol,4-0,Las Palmas
+11,27/11/71,Deportivo,1-0,Athletic Bilbao
+11,27/11/71,Burgos CF,3-2,Celta de Vigo
+11,27/11/71,Sevilla,1-1,CE Sabadell
+11,27/11/71,Córdoba,3-1,Real Betis
+12,03/12/71,Las Palmas,2-0,Real Madrid
+12,04/12/71,Valencia,1-1,Deportivo
+12,04/12/71,Barcelona,2-0,Granada
+12,04/12/71,Atlético de Madrid,5-0,Real Sociedad
+12,04/12/71,Athletic Bilbao,2-0,Sevilla
+12,04/12/71,Celta de Vigo,2-0,Córdoba
+12,04/12/71,Sporting Gijón,4-0,Espanyol
+12,04/12/71,Real Betis,0-0,Málaga
+12,04/12/71,CE Sabadell,2-1,Burgos CF
+13,10/12/71,Las Palmas,5-1,Sporting Gijón
+13,11/12/71,Real Madrid,4-2,Granada
+13,11/12/71,Málaga,1-1,Celta de Vigo
+13,11/12/71,Real Sociedad,6-0,Real Betis
+13,11/12/71,Espanyol,1-2,Atlético de Madrid
+13,11/12/71,Deportivo,0-2,Barcelona
+13,11/12/71,Burgos CF,1-0,Athletic Bilbao
+13,11/12/71,Sevilla,2-0,Valencia
+13,11/12/71,Córdoba,4-1,CE Sabadell
+14,18/12/71,Valencia,2-0,Burgos CF
+14,18/12/71,Barcelona,1-0,Sevilla
+14,18/12/71,Atlético de Madrid,2-0,Las Palmas
+14,18/12/71,Granada,2-2,Deportivo
+14,18/12/71,Athletic Bilbao,5-0,Córdoba
+14,18/12/71,Celta de Vigo,0-1,Real Sociedad
+14,18/12/71,Sporting Gijón,1-1,Real Madrid
+14,18/12/71,Real Betis,0-1,Espanyol
+14,18/12/71,CE Sabadell,1-1,Málaga
+15,31/12/71,Las Palmas,2-0,Real Betis
+15,01/01/72,Real Madrid,1-0,Deportivo
+15,01/01/72,Málaga,1-0,Athletic Bilbao
+15,01/01/72,Real Sociedad,2-0,CE Sabadell
+15,01/01/72,Sporting Gijón,1-2,Atlético de Madrid
+15,01/01/72,Espanyol,1-0,Celta de Vigo
+15,01/01/72,Burgos CF,2-3,Barcelona
+15,01/01/72,Sevilla,2-1,Granada
+15,01/01/72,Córdoba,0-4,Valencia
+16,05/01/72,Real Madrid,1-0,Atlético de Madrid
+16,05/01/72,Valencia,3-0,Málaga
+16,05/01/72,Barcelona,4-1,Córdoba
+16,05/01/72,Granada,2-1,Burgos CF
+16,05/01/72,Athletic Bilbao,1-2,Real Sociedad
+16,05/01/72,Celta de Vigo,2-0,Las Palmas
+16,05/01/72,Real Betis,2-1,Sporting Gijón
+16,05/01/72,Deportivo,1-0,Sevilla
+16,05/01/72,CE Sabadell,0-2,Espanyol
+17,14/01/72,Las Palmas,0-0,CE Sabadell
+17,15/01/72,Atlético de Madrid,4-1,Real Betis
+17,15/01/72,Málaga,0-0,Barcelona
+17,15/01/72,Real Sociedad,1-0,Valencia
+17,15/01/72,Sporting Gijón,2-2,Celta de Vigo
+17,15/01/72,Espanyol,1-2,Athletic Bilbao
+17,15/01/72,Burgos CF,3-1,Deportivo
+17,15/01/72,Sevilla,0-2,Real Madrid
+17,15/01/72,Córdoba,2-0,Granada
+18,21/01/72,Las Palmas,2-1,Athletic Bilbao
+18,22/01/72,Atlético de Madrid,0-0,Celta de Vigo
+18,22/01/72,Málaga,1-0,Granada
+18,22/01/72,Real Sociedad,2-2,Barcelona
+18,22/01/72,Sporting Gijón,3-0,CE Sabadell
+18,22/01/72,Espanyol,3-1,Valencia
+18,22/01/72,Real Betis,0-0,Real Madrid
+18,22/01/72,Burgos CF,1-0,Sevilla
+18,22/01/72,Córdoba,0-0,Deportivo
+19,29/01/72,Real Madrid,1-1,Burgos CF
+19,29/01/72,Valencia,4-0,Las Palmas
+19,29/01/72,Barcelona,2-0,Espanyol
+19,29/01/72,Granada,1-0,Real Sociedad
+19,29/01/72,Athletic Bilbao,3-1,Sporting Gijón
+19,29/01/72,Celta de Vigo,1-0,Real Betis
+19,29/01/72,Deportivo,0-0,Málaga
+19,29/01/72,Sevilla,1-1,Córdoba
+19,29/01/72,CE Sabadell,3-1,Atlético de Madrid
+20,05/02/72,Atlético de Madrid,1-2,Athletic Bilbao
+20,05/02/72,Las Palmas,1-2,Barcelona
+20,05/02/72,Málaga,2-2,Sevilla
+20,05/02/72,Real Sociedad,0-1,Deportivo
+20,05/02/72,Celta de Vigo,1-1,Real Madrid
+20,05/02/72,Sporting Gijón,4-0,Valencia
+20,05/02/72,Espanyol,2-3,Granada
+20,05/02/72,Real Betis,1-0,CE Sabadell
+20,05/02/72,Córdoba,0-0,Burgos CF
+21,12/02/72,Real Madrid,4-1,Córdoba
+21,12/02/72,Valencia,1-0,Atlético de Madrid
+21,12/02/72,Barcelona,1-0,Sporting Gijón
+21,12/02/72,Granada,3-0,Las Palmas
+21,12/02/72,Athletic Bilbao,3-0,Real Betis
+21,12/02/72,Deportivo,3-1,Espanyol
+21,12/02/72,Burgos CF,3-1,Málaga
+21,12/02/72,Sevilla,0-1,Real Sociedad
+21,12/02/72,CE Sabadell,1-1,Celta de Vigo
+22,19/02/72,Atlético de Madrid,1-1,Barcelona
+22,19/02/72,Las Palmas,2-0,Deportivo
+22,19/02/72,Málaga,2-2,Córdoba
+22,19/02/72,Real Sociedad,2-0,Burgos CF
+22,19/02/72,Celta de Vigo,2-0,Athletic Bilbao
+22,19/02/72,Sporting Gijón,2-0,Granada
+22,19/02/72,Espanyol,2-0,Sevilla
+22,19/02/72,Real Betis,1-0,Valencia
+22,19/02/72,CE Sabadell,1-2,Real Madrid
+23,26/02/72,Real Madrid,1-0,Málaga
+23,26/02/72,Valencia,4-0,Celta de Vigo
+23,26/02/72,Barcelona,2-2,Real Betis
+23,26/02/72,Granada,1-0,Atlético de Madrid
+23,26/02/72,Athletic Bilbao,3-1,CE Sabadell
+23,26/02/72,Deportivo,1-1,Sporting Gijón
+23,26/02/72,Burgos CF,2-1,Espanyol
+23,26/02/72,Sevilla,0-2,Las Palmas
+23,26/02/72,Córdoba,1-0,Real Sociedad
+24,03/03/72,Las Palmas,3-1,Burgos CF
+24,04/03/72,Atlético de Madrid,2-1,Deportivo
+24,04/03/72,Real Sociedad,1-0,Málaga
+24,04/03/72,Athletic Bilbao,1-0,Real Madrid
+24,04/03/72,Celta de Vigo,1-2,Barcelona
+24,04/03/72,Sporting Gijón,1-0,Sevilla
+24,04/03/72,Espanyol,1-1,Córdoba
+24,04/03/72,Real Betis,1-0,Granada
+24,04/03/72,CE Sabadell,1-1,Valencia
+25,11/03/72,Real Madrid,2-1,Real Sociedad
+25,11/03/72,Valencia,2-0,Athletic Bilbao
+25,11/03/72,Barcelona,2-0,CE Sabadell
+25,11/03/72,Granada,0-0,Celta de Vigo
+25,11/03/72,Málaga,1-0,Espanyol
+25,11/03/72,Deportivo,1-1,Real Betis
+25,11/03/72,Burgos CF,1-0,Sporting Gijón
+25,11/03/72,Sevilla,3-3,Atlético de Madrid
+25,11/03/72,Córdoba,2-2,Las Palmas
+26,17/03/72,Las Palmas,2-0,Málaga
+26,18/03/72,Valencia,1-2,Real Madrid
+26,18/03/72,Atlético de Madrid,1-0,Burgos CF
+26,18/03/72,Athletic Bilbao,0-1,Barcelona
+26,18/03/72,Celta de Vigo,3-1,Deportivo
+26,18/03/72,Sporting Gijón,0-0,Córdoba
+26,18/03/72,Espanyol,1-0,Real Sociedad
+26,18/03/72,Real Betis,1-1,Sevilla
+26,18/03/72,CE Sabadell,0-0,Granada
+27,25/03/72,Real Madrid,3-0,Espanyol
+27,25/03/72,Barcelona,1-1,Valencia
+27,25/03/72,Granada,5-1,Athletic Bilbao
+27,25/03/72,Málaga,1-1,Sporting Gijón
+27,25/03/72,Real Sociedad,1-0,Las Palmas
+27,25/03/72,Deportivo,1-0,CE Sabadell
+27,25/03/72,Burgos CF,0-1,Real Betis
+27,25/03/72,Sevilla,4-0,Celta de Vigo
+27,25/03/72,Córdoba,0-1,Atlético de Madrid
+28,01/04/72,Valencia,2-1,Granada
+28,01/04/72,Atlético de Madrid,0-0,Málaga
+28,01/04/72,Las Palmas,1-0,Espanyol
+28,01/04/72,Athletic Bilbao,1-0,Deportivo
+28,01/04/72,Celta de Vigo,2-0,Burgos CF
+28,01/04/72,Sporting Gijón,1-0,Real Sociedad
+28,01/04/72,Real Betis,0-0,Córdoba
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+28,01/04/72,CE Sabadell,0-0,Sevilla
+28,02/04/72,Barcelona,1-0,Real Madrid
+29,08/04/72,Real Madrid,2-0,Las Palmas
+29,08/04/72,Granada,2-0,Barcelona
+29,08/04/72,Málaga,0-0,Real Betis
+29,08/04/72,Real Sociedad,0-0,Atlético de Madrid
+29,08/04/72,Espanyol,0-0,Sporting Gijón
+29,08/04/72,Deportivo,3-0,Valencia
+29,08/04/72,Burgos CF,4-1,CE Sabadell
+29,08/04/72,Sevilla,0-1,Athletic Bilbao
+29,08/04/72,Córdoba,0-0,Celta de Vigo
+30,15/04/72,Valencia,2-0,Sevilla
+30,15/04/72,Barcelona,1-0,Deportivo
+30,15/04/72,Atlético de Madrid,1-1,Espanyol
+30,15/04/72,Granada,2-1,Real Madrid
+30,15/04/72,Athletic Bilbao,1-0,Burgos CF
+30,15/04/72,Celta de Vigo,1-1,Málaga
+30,15/04/72,Sporting Gijón,0-1,Las Palmas
+30,15/04/72,Real Betis,1-0,Real Sociedad
+30,15/04/72,CE Sabadell,1-0,Córdoba
+31,21/04/72,Las Palmas,1-0,Atlético de Madrid
+31,21/04/72,Sevilla,1-2,Barcelona
+31,22/04/72,Real Madrid,1-0,Sporting Gijón
+31,22/04/72,Málaga,1-0,CE Sabadell
+31,22/04/72,Real Sociedad,0-0,Celta de Vigo
+31,22/04/72,Espanyol,3-0,Real Betis
+31,22/04/72,Deportivo,2-0,Granada
+31,22/04/72,Burgos CF,0-1,Valencia
+31,22/04/72,Córdoba,0-1,Athletic Bilbao
+32,28/04/72,Valencia,4-2,Córdoba
+32,29/04/72,Barcelona,2-1,Burgos CF
+32,29/04/72,Atlético de Madrid,1-0,Sporting Gijón
+32,29/04/72,Granada,3-0,Sevilla
+32,29/04/72,Athletic Bilbao,0-0,Málaga
+32,29/04/72,Celta de Vigo,4-2,Espanyol
+32,29/04/72,Real Betis,2-1,Las Palmas
+32,29/04/72,Deportivo,1-0,Real Madrid
+32,29/04/72,CE Sabadell,3-1,Real Sociedad
+33,05/05/72,Las Palmas,1-1,Celta de Vigo
+33,05/05/72,Málaga,0-2,Valencia
+33,06/05/72,Atlético de Madrid,4-1,Real Madrid
+33,06/05/72,Real Sociedad,1-0,Athletic Bilbao
+33,06/05/72,Sporting Gijón,3-1,Real Betis
+33,06/05/72,Espanyol,2-1,CE Sabadell
+33,06/05/72,Burgos CF,1-1,Granada
+33,06/05/72,Sevilla,1-0,Deportivo
+33,06/05/72,Córdoba,1-0,Barcelona
+34,13/05/72,Real Madrid,4-1,Sevilla
+34,13/05/72,Valencia,2-1,Real Sociedad
+34,13/05/72,Barcelona,0-1,Málaga
+34,13/05/72,Granada,1-0,Córdoba
+34,13/05/72,Athletic Bilbao,1-1,Espanyol
+34,13/05/72,Celta de Vigo,2-2,Sporting Gijón
+34,13/05/72,Real Betis,1-3,Atlético de Madrid
+34,13/05/72,Deportivo,0-0,Burgos CF
+34,13/05/72,CE Sabadell,0-1,Las Palmas

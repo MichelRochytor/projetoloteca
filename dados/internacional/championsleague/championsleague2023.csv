@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+G,19/09/23,Young Boys,1-3,RB Leipzig
+F,19/09/23,Milan,0-0,Newcastle
+H,19/09/23,Barcelona,5-0,Royal Antwerp
+E,19/09/23,Feyenoord,2-0,Celtic
+E,19/09/23,Lazio,1-1,Atlético de Madrid
+G,19/09/23,Manchester City,3-1,Crvena Zvezda
+F,19/09/23,PSG,2-0,Borussia Dortmund
+H,19/09/23,Shakhtar Donetsk,1-3,FC Porto
+A,20/09/23,Galatasaray,2-2,FC Kobenhavn
+C,20/09/23,Real Madrid,1-0,1. FC Union Berlin
+B,20/09/23,Arsenal,4-0,PSV
+A,20/09/23,Bayern München,4-3,Manchester United
+D,20/09/23,Benfica,0-2,Red Bull Salzburg
+C,20/09/23,SC Braga,1-2,Napoli
+D,20/09/23,Real Sociedad,1-1,Internazionale
+B,20/09/23,Sevilla,1-1,Lens
+D,03/10/23,Red Bull Salzburg,0-2,Real Sociedad
+C,03/10/23,1. FC Union Berlin,2-3,SC Braga
+A,03/10/23,FC Kobenhavn,1-2,Bayern München
+D,03/10/23,Internazionale,1-0,Benfica
+B,03/10/23,Lens,2-1,Arsenal
+A,03/10/23,Manchester United,2-3,Galatasaray
+C,03/10/23,Napoli,2-3,Real Madrid
+B,03/10/23,PSV,2-2,Sevilla
+H,04/10/23,Royal Antwerp,2-3,Shakhtar Donetsk
+E,04/10/23,Atlético de Madrid,3-2,Feyenoord
+E,04/10/23,Celtic,1-2,Lazio
+F,04/10/23,Borussia Dortmund,0-0,Milan
+G,04/10/23,Crvena Zvezda,2-2,Young Boys
+H,04/10/23,FC Porto,0-1,Barcelona
+F,04/10/23,Newcastle,4-1,PSG
+G,04/10/23,RB Leipzig,1-3,Manchester City
+A,24/10/23,Galatasaray,1-3,Bayern München
+D,24/10/23,Internazionale,2-1,Red Bull Salzburg
+D,24/10/23,Benfica,0-1,Real Sociedad
+C,24/10/23,SC Braga,1-2,Real Madrid
+B,24/10/23,Lens,1-1,PSV
+A,24/10/23,Manchester United,1-0,FC Kobenhavn
+B,24/10/23,Sevilla,1-2,Arsenal
+C,24/10/23,1. FC Union Berlin,0-1,Napoli
+H,25/10/23,Barcelona,2-1,Shakhtar Donetsk
+E,25/10/23,Feyenoord,3-1,Lazio
+H,25/10/23,Royal Antwerp,1-4,FC Porto
+E,25/10/23,Celtic,2-2,Atlético de Madrid
+F,25/10/23,Newcastle,0-1,Borussia Dortmund
+F,25/10/23,PSG,3-0,Milan
+G,25/10/23,RB Leipzig,3-1,Crvena Zvezda
+G,25/10/23,Young Boys,1-3,Manchester City
+F,07/11/23,Borussia Dortmund,2-0,Newcastle
+H,07/11/23,Shakhtar Donetsk,1-0,Barcelona
+F,07/11/23,Milan,2-1,PSG
+E,07/11/23,Atlético de Madrid,6-0,Celtic
+G,07/11/23,Crvena Zvezda,1-2,RB Leipzig
+H,07/11/23,FC Porto,2-0,Royal Antwerp
+E,07/11/23,Lazio,1-0,Feyenoord
+G,07/11/23,Manchester City,3-0,Young Boys
+C,08/11/23,Napoli,1-1,1. FC Union Berlin
+D,08/11/23,Real Sociedad,3-1,Benfica
+B,08/11/23,Arsenal,2-0,Sevilla
+A,08/11/23,Bayern München,2-1,Galatasaray
+A,08/11/23,FC Kobenhavn,4-3,Manchester United
+B,08/11/23,PSV,1-0,Lens
+C,08/11/23,Real Madrid,3-0,SC Braga
+D,08/11/23,Red Bull Salzburg,0-1,Internazionale
+E,28/11/23,Lazio,2-0,Celtic
+H,28/11/23,Shakhtar Donetsk,1-0,Royal Antwerp
+F,28/11/23,Milan,1-3,Borussia Dortmund
+H,28/11/23,Barcelona,2-1,FC Porto
+E,28/11/23,Feyenoord,1-3,Atlético de Madrid
+G,28/11/23,Manchester City,3-2,RB Leipzig
+F,28/11/23,PSG,1-1,Newcastle
+G,28/11/23,Young Boys,2-0,Crvena Zvezda
+A,29/11/23,Galatasaray,3-3,Manchester United
+B,29/11/23,Sevilla,2-3,PSV
+B,29/11/23,Arsenal,6-0,Lens
+A,29/11/23,Bayern München,0-0,FC Kobenhavn
+D,29/11/23,Benfica,3-3,Internazionale
+C,29/11/23,SC Braga,1-1,1. FC Union Berlin
+C,29/11/23,Real Madrid,4-2,Napoli
+D,29/11/23,Real Sociedad,0-0,Red Bull Salzburg
+B,12/12/23,Lens,2-1,Sevilla
+B,12/12/23,PSV,1-1,Arsenal
+A,12/12/23,FC Kobenhavn,1-0,Galatasaray
+D,12/12/23,Internazionale,0-0,Real Sociedad
+A,12/12/23,Manchester United,0-1,Bayern München
+C,12/12/23,Napoli,2-0,SC Braga
+D,12/12/23,Red Bull Salzburg,1-3,Benfica
+C,12/12/23,1. FC Union Berlin,2-3,Real Madrid
+G,13/12/23,Crvena Zvezda,2-3,Manchester City
+G,13/12/23,RB Leipzig,2-1,Young Boys
+H,13/12/23,Royal Antwerp,3-2,Barcelona
+E,13/12/23,Atlético de Madrid,2-0,Lazio
+E,13/12/23,Celtic,2-1,Feyenoord
+F,13/12/23,Borussia Dortmund,1-1,PSG
+H,13/12/23,FC Porto,5-3,Shakhtar Donetsk
+F,13/12/23,Newcastle,1-2,Milan
+1/8,13/02/24,FC Kobenhavn,1-3,Manchester City
+1/8,13/02/24,RB Leipzig,0-1,Real Madrid
+1/8,14/02/24,PSG,2-0,Real Sociedad
+1/8,14/02/24,Lazio,1-0,Bayern München
+1/8,20/02/24,Internazionale,1-0,Atlético de Madrid
+1/8,20/02/24,PSV,1-1,Borussia Dortmund
+1/8,21/02/24,FC Porto,1-0,Arsenal
+1/8,21/02/24,Napoli,1-1,Barcelona
+1/8,05/03/24,Real Sociedad,1-2,PSG
+1/8,05/03/24,Bayern München,3-0,Lazio
+1/8,06/03/24,Manchester City,3-1,FC Kobenhavn
+1/8,06/03/24,Real Madrid,1-1,RB Leipzig
+1/8,12/03/24,Arsenal,1-0(4-2 Pen.),FC Porto
+1/8,12/03/24,Barcelona,3-1,Napoli
+1/8,13/03/24,Atlético de Madrid,2-1(3-2 Pen.),Internazionale
+1/8,13/03/24,Borussia Dortmund,2-0,PSV
+QF,09/04/24,Arsenal,2-2,Bayern München
+QF,09/04/24,Real Madrid,3-3,Manchester City
+QF,10/04/24,Atlético de Madrid,2-1,Borussia Dortmund
+QF,10/04/24,PSG,2-3,Barcelona
+QF,16/04/24,Borussia Dortmund,4-2,Atlético de Madrid
+QF,16/04/24,Barcelona,1-4,PSG
+QF,17/04/24,Bayern München,1-0,Arsenal
+QF,17/04/24,Manchester City,1-1(3-4 Pen.),Real Madrid
+SF,30/04/24,Bayern München,2-2,Real Madrid
+SF,01/05/24,Borussia Dortmund,1-0,PSG
+SF,07/05/24,PSG,0-1,Borussia Dortmund
+SF,08/05/24,Real Madrid,2-1,Bayern München
+F,01/06/24,Borussia Dortmund,0-2,Real Madrid

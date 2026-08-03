@@ -1,0 +1,307 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/01/81,Vitória,3-1,Londrina
+A,17/01/81,Vasco,3-1,Vila Nova
+D,17/01/81,Santa Cruz,3-0,Paysandu
+A,18/01/81,Bangu,0-0,Colorado
+A,18/01/81,Internacional,4-2,Ponte Preta
+A,18/01/81,Joinville,1-2,Inter de Limeira
+B,18/01/81,Brasília,2-2,Portuguesa
+B,18/01/81,Desportiva Ferroviária,0-4,Botafogo
+B,18/01/81,Operário-MS,1-1,Pinheiros-PR
+B,18/01/81,Galícia,0-2,Corinthians
+B,18/01/81,Goiás,0-0,Grêmio
+C,18/01/81,Ferroviário,2-1,Campinense
+C,18/01/81,Sport,0-0,São Paulo
+C,18/01/81,Atlético Mineiro,3-0,CSA
+C,18/01/81,Mixto,1-1,Fluminense
+C,18/01/81,América-RN,2-0,River-PI
+D,18/01/81,CRB,1-1,Fortaleza
+D,18/01/81,Sampaio Corrêa,1-0,Itabaiana
+D,18/01/81,Nacional-AM,1-0,Cruzeiro
+D,18/01/81,Flamengo,0-0,Santos
+A,21/01/81,Ponte Preta,3-0,Vitória
+A,21/01/81,Londrina,2-1,Bangu
+A,21/01/81,Joinville,0-2,Vasco
+A,21/01/81,Inter de Limeira,1-1,Colorado
+B,21/01/81,Portuguesa,2-0,Goiás
+B,21/01/81,Desportiva Ferroviária,0-1,Pinheiros-PR
+B,21/01/81,Grêmio,2-1,Galícia
+B,21/01/81,Brasília,0-1,Corinthians
+B,21/01/81,Botafogo,1-0,Operário-MS
+C,21/01/81,Atlético Mineiro,0-0,Campinense
+C,21/01/81,América-RN,1-1,São Paulo
+C,21/01/81,CSA,0-2,Fluminense
+C,21/01/81,River-PI,0-0,Mixto
+D,21/01/81,Nacional-AM,0-1,Flamengo
+D,21/01/81,Paysandu,1-3,Cruzeiro
+D,21/01/81,Fortaleza,1-0,Itabaiana
+D,21/01/81,Santos,5-2,CRB
+A,22/01/81,Vila Nova,0-2,Internacional
+C,22/01/81,Sport,2-0,Ferroviário
+D,22/01/81,Sampaio Corrêa,1-1,Santa Cruz
+C,24/01/81,Fluminense,4-2,América-RN
+C,24/01/81,São Paulo,4-0,Mixto
+D,24/01/81,Fortaleza,1-1,Nacional-AM
+A,25/01/81,Colorado,2-1,Vitória
+A,25/01/81,Vasco,4-0,Internacional
+A,25/01/81,Londrina,0-1,Inter de Limeira
+A,25/01/81,Bangu,5-1,Ponte Preta
+A,25/01/81,Vila Nova,0-0,Joinville
+B,25/01/81,Corinthians,1-3,Botafogo
+B,25/01/81,Grêmio,2-0,Desportiva Ferroviária
+B,25/01/81,Operário-MS,2-1,Portuguesa
+B,25/01/81,Pinheiros-PR,0-0,Goiás
+B,25/01/81,Galícia,1-0,Brasília
+C,25/01/81,Campinense,4-1,Sport
+C,25/01/81,CSA,2-1,River-PI
+C,25/01/81,Ferroviário,1-1,Atlético Mineiro
+D,25/01/81,Itabaiana,3-1,CRB
+D,25/01/81,Paysandu,3-0,Flamengo
+D,25/01/81,Santa Cruz,1-1,Santos
+D,25/01/81,Cruzeiro,1-1,Sampaio Corrêa
+A,28/01/81,Ponte Preta,3-0,Inter de Limeira
+A,28/01/81,Bangu,3-2,Vasco
+A,28/01/81,Internacional,1-0,Londrina
+B,28/01/81,Corinthians,2-2,Desportiva Ferroviária
+B,28/01/81,Pinheiros-PR,1-1,Grêmio
+B,28/01/81,Brasília,0-2,Botafogo
+B,28/01/81,Goiás,2-0,Operário-MS
+B,28/01/81,Portuguesa,2-1,Galícia
+C,28/01/81,Atlético Mineiro,1-1,Sport
+C,28/01/81,Ferroviário,4-1,Fluminense
+C,28/01/81,River-PI,0-2,São Paulo
+C,28/01/81,Mixto,4-2,América-RN
+D,28/01/81,CRB,3-1,Santa Cruz
+D,28/01/81,Santos,4-0,Paysandu
+D,28/01/81,Flamengo,2-0,Sampaio Corrêa
+A,29/01/81,Colorado,1-0,Joinville
+A,29/01/81,Vitória,1-0,Vila Nova
+C,29/01/81,Campinense,0-1,CSA
+D,29/01/81,Cruzeiro,1-0,Fortaleza
+D,29/01/81,Nacional-AM,1-0,Itabaiana
+B,31/01/81,Botafogo,0-1,Portuguesa
+B,31/01/81,Grêmio,1-0,Corinthians
+B,31/01/81,Galícia,3-2,Goiás
+A,01/02/81,Inter de Limeira,0-2,Vasco
+A,01/02/81,Joinville,1-0,Internacional
+A,01/02/81,Vila Nova,2-1,Colorado
+A,01/02/81,Londrina,0-1,Ponte Preta
+B,01/02/81,Desportiva Ferroviária,0-2,Operário-MS
+B,01/02/81,Brasília,3-2,Pinheiros-PR
+C,01/02/81,Mixto,1-0,Campinense
+C,01/02/81,América-RN,3-2,Ferroviário
+C,01/02/81,CSA,2-2,São Paulo
+C,01/02/81,Sport,1-1,River-PI
+C,01/02/81,Fluminense,2-1,Atlético Mineiro
+D,01/02/81,Santos,0-0,Cruzeiro
+D,01/02/81,Sampaio Corrêa,1-1,CRB
+D,01/02/81,Itabaiana,0-2,Flamengo
+D,01/02/81,Fortaleza,1-1,Paysandu
+D,01/02/81,Nacional-AM,1-1,Santa Cruz
+A,01/02/81,Vitória,2-0,Bangu
+A,04/02/81,Ponte Preta,2-0,Joinville
+A,04/02/81,Colorado,0-0,Internacional
+A,04/02/81,Inter de Limeira,1-0,Vitória
+B,04/02/81,Pinheiros-PR,2-2,Botafogo
+B,04/02/81,Desportiva Ferroviária,2-2,Brasília
+B,04/02/81,Operário-MS,1-0,Galícia
+B,04/02/81,Portuguesa,1-0,Grêmio
+C,04/02/81,São Paulo,0-0,Ferroviário
+C,04/02/81,Mixto,3-0,CSA
+C,04/02/81,América-RN,1-1,Sport
+C,04/02/81,River-PI,1-0,Atlético Mineiro
+C,04/02/81,Fluminense,4-1,Campinense
+D,04/02/81,Paysandu,0-0,Nacional-AM
+D,04/02/81,Flamengo,8-0,Fortaleza
+D,04/02/81,CRB,0-1,Cruzeiro
+D,04/02/81,Sampaio Corrêa,0-1,Santos
+D,04/02/81,Santa Cruz,2-0,Itabaiana
+A,04/02/81,Bangu,5-1,Vila Nova
+A,07/02/81,Ponte Preta,1-1,Vasco
+A,07/02/81,Vitória,1-1,Joinville
+A,07/02/81,Internacional,0-0,Bangu
+A,07/02/81,Londrina,0-2,Colorado
+B,07/02/81,Botafogo,2-3,Grêmio
+B,07/02/81,Goiás,2-0,Desportiva Ferroviária
+B,07/02/81,Portuguesa,1-0,Corinthians
+B,07/02/81,Brasília,1-3,Operário-MS
+B,07/02/81,Pinheiros-PR,0-0,Galícia
+C,07/02/81,Campinense,0-0,São Paulo
+C,07/02/81,River-PI,3-1,Fluminense
+C,07/02/81,CSA,0-0,Ferroviário
+D,07/02/81,Santa Cruz,2-1,Fortaleza
+D,07/02/81,Cruzeiro,0-0,Flamengo
+D,07/02/81,Nacional-AM,1-0,CRB
+D,07/02/81,Paysandu,4-0,Sampaio Corrêa
+D,07/02/81,Itabaiana,0-3,Santos
+B,11/02/81,Corinthians,1-1,Goiás
+A,11/02/81,Vila Nova,2-0,Inter de Limeira
+C,11/02/81,Sport,1-0,Mixto
+C,11/02/81,Atlético Mineiro,2-1,América-RN
+A,12/02/81,Vasco,6-1,Londrina
+A,14/02/81,Joinville,2-0,Londrina
+A,14/02/81,Inter de Limeira,1-1,Bangu
+A,14/02/81,Colorado,1-0,Vasco
+A,14/02/81,Vila Nova,2-3,Ponte Preta
+A,14/02/81,Vitória,0-0,Internacional
+B,14/02/81,Portuguesa,2-2,Pinheiros-PR
+B,14/02/81,Operário-MS,0-1,Corinthians
+B,14/02/81,Grêmio,1-2,Brasília
+B,14/02/81,Botafogo,0-2,Goiás
+B,14/02/81,Galícia,1-0,Desportiva Ferroviária
+C,14/02/81,CSA,3-2,América-RN
+C,14/02/81,São Paulo,2-1,Atlético Mineiro
+C,14/02/81,Fluminense,0-1,Sport
+C,14/02/81,Ferroviário,3-2,Mixto
+C,14/02/81,Campinense,4-0,River-PI
+D,14/02/81,Santos,3-0,Nacional-AM
+D,14/02/81,Fortaleza,3-0,Sampaio Corrêa
+D,14/02/81,CRB,2-3,Flamengo
+D,14/02/81,Cruzeiro,0-3,Santa Cruz
+D,14/02/81,Paysandu,3-0,Itabaiana
+A,19/02/81,Vasco,4-2,Vitória
+B,19/02/81,Corinthians,2-0,Pinheiros-PR
+A,21/02/81,Londrina,1-0,Vila Nova
+A,21/02/81,Colorado,0-0,Ponte Preta
+A,21/02/81,Internacional,1-1,Inter de Limeira
+B,21/02/81,Goiás,1-0,Brasília
+B,21/02/81,Galícia,3-1,Botafogo
+B,21/02/81,Desportiva Ferroviária,0-1,Portuguesa
+B,21/02/81,Operário-MS,2-1,Grêmio
+C,21/02/81,São Paulo,2-1,Fluminense
+D,21/02/81,Itabaiana,1-5,Cruzeiro
+D,21/02/81,Fortaleza,1-2,Santos
+D,21/02/81,Flamengo,2-2,Santa Cruz
+D,21/02/81,Sampaio Corrêa,0-2,Nacional-AM
+D,21/02/81,CRB,1-0,Paysandu
+A,21/02/81,Bangu,3-0,Joinville
+C,26/02/81,América-RN,2-0,Campinense
+C,26/02/81,Sport,2-1,CSA
+C,26/02/81,Mixto,0-4,Atlético Mineiro
+C,26/02/81,Ferroviário,2-1,River-PI
+E,07/03/81,Nacional-AM,0-1,Galícia
+E,07/03/81,CSA,1-1,Vasco
+F,07/03/81,Santa Cruz,1-1,Ponte Preta
+F,07/03/81,Bahia,3-0,Corinthians
+G,07/03/81,Vitória,1-1,Paysandu
+G,07/03/81,Portuguesa,2-2,Fluminense
+H,07/03/81,Cruzeiro,2-1,Ferroviário
+H,07/03/81,Operário-MS,2-1,Náutico
+I,07/03/81,Fortaleza,2-2,Inter de Limeira
+I,07/03/81,São Paulo,3-0,Grêmio
+J,07/03/81,Internacional,1-0,Goiás
+J,07/03/81,Palmeiras,1-0,Sport
+K,07/03/81,Mixto,1-1,Santos
+L,07/03/81,Flamengo,2-1,Atlético Mineiro
+L,07/03/81,Colorado,1-1,Uberaba
+K,08/03/81,Bangu,0-1,Botafogo
+F,11/03/81,Bahia,1-1,Ponte Preta
+G,11/03/81,Fluminense,1-2,Vitória
+G,11/03/81,Paysandu,1-1,Portuguesa
+J,11/03/81,Palmeiras,0-1,Internacional
+J,11/03/81,Sport,4-0,Goiás
+L,11/03/81,Atlético Mineiro,1-1,Colorado
+L,11/03/81,Uberaba,1-1,Flamengo
+E,12/03/81,CSA,4-0,Galícia
+E,12/03/81,Vasco,3-0,Nacional-AM
+F,12/03/81,Corinthians,1-4,Santa Cruz
+H,12/03/81,Ferroviário,1-3,Operário-MS
+H,12/03/81,Náutico,3-0,Cruzeiro
+I,12/03/81,Inter de Limeira,1-1,São Paulo
+I,12/03/81,Grêmio,2-0,Fortaleza
+K,12/03/81,Santos,2-0,Bangu
+K,12/03/81,Botafogo,0-0,Mixto
+E,15/03/81,Nacional-AM,2-1,CSA
+E,15/03/81,Galícia,0-3,Vasco
+F,15/03/81,Ponte Preta,2-1,Corinthians
+F,15/03/81,Santa Cruz,4-0,Bahia
+G,15/03/81,Portuguesa,2-1,Vitória
+G,15/03/81,Paysandu,0-4,Fluminense
+H,15/03/81,Operário-MS,5-1,Cruzeiro
+H,15/03/81,Ferroviário,0-3,Náutico
+I,15/03/81,São Paulo,1-0,Fortaleza
+I,15/03/81,Inter de Limeira,3-1,Grêmio
+J,15/03/81,Goiás,1-3,Palmeiras
+J,15/03/81,Internacional,2-2,Sport
+K,15/03/81,Bangu,2-0,Mixto
+K,15/03/81,Botafogo,2-1,Santos
+L,15/03/81,Colorado,4-0,Flamengo
+L,15/03/81,Uberaba,1-1,Atlético Mineiro
+K,18/03/81,Botafogo,5-1,Bangu
+E,19/03/81,Vasco,1-1,CSA
+H,19/03/81,Náutico,1-0,Operário-MS
+E,21/03/81,Galícia,1-4,Nacional-AM
+F,21/03/81,Ponte Preta,3-1,Santa Cruz
+F,21/03/81,Corinthians,0-1,Bahia
+G,21/03/81,Paysandu,0-1,Vitória
+G,21/03/81,Fluminense,1-1,Portuguesa
+H,21/03/81,Ferroviário,1-2,Cruzeiro
+I,21/03/81,Inter de Limeira,5-0,Fortaleza
+I,21/03/81,Grêmio,1-0,São Paulo
+J,21/03/81,Goiás,0-0,Internacional
+J,21/03/81,Sport,3-1,Palmeiras
+K,21/03/81,Santos,2-0,Mixto
+L,21/03/81,Uberaba,0-0,Colorado
+L,25/03/81,Atlético Mineiro,0-0,Flamengo
+E,26/03/81,Galícia,1-3,CSA
+E,28/03/81,Nacional-AM,1-2,Vasco
+F,28/03/81,Santa Cruz,2-0,Corinthians
+F,28/03/81,Ponte Preta,1-0,Bahia
+G,28/03/81,Portuguesa,0-0,Paysandu
+G,28/03/81,Vitória,0-0,Fluminense
+H,28/03/81,Operário-MS,3-0,Ferroviário
+H,28/03/81,Cruzeiro,3-0,Náutico
+I,28/03/81,Fortaleza,0-4,Grêmio
+J,28/03/81,Internacional,6-0,Palmeiras
+J,28/03/81,Goiás,0-0,Sport
+K,28/03/81,Bangu,1-1,Santos
+K,28/03/81,Mixto,2-2,Botafogo
+I,01/04/81,São Paulo,2-1,Inter de Limeira
+L,01/04/81,Colorado,1-3,Atlético Mineiro
+L,01/04/81,Flamengo,4-2,Uberaba
+E,02/04/81,Vasco,3-2,Galícia
+K,03/04/81,Santos,0-0,Botafogo
+E,04/04/81,CSA,3-0,Nacional-AM
+F,04/04/81,Bahia,5-0,Santa Cruz
+F,04/04/81,Corinthians,2-2,Ponte Preta
+G,04/04/81,Vitória,1-0,Portuguesa
+G,04/04/81,Fluminense,4-1,Paysandu
+H,04/04/81,Náutico,3-0,Ferroviário
+H,04/04/81,Cruzeiro,1-3,Operário-MS
+I,04/04/81,Fortaleza,0-1,São Paulo
+I,04/04/81,Grêmio,1-0,Inter de Limeira
+J,04/04/81,Sport,0-0,Internacional
+J,04/04/81,Palmeiras,2-0,Goiás
+K,04/04/81,Mixto,1-2,Bangu
+L,04/04/81,Atlético Mineiro,2-0,Uberaba
+L,04/04/81,Flamengo,2-1,Colorado
+1/8,08/04/81,Bahia,0-0,Flamengo
+1/8,08/04/81,Sport,0-0,Operário-MS
+1/8,08/04/81,Santos,0-2,São Paulo
+1/8,09/04/81,Náutico,0-0,Ponte Preta
+1/8,09/04/81,Fluminense,0-2,Vasco
+1/8,09/04/81,Vitória,2-1,Grêmio
+1/8,09/04/81,Atlético Mineiro,0-1,Internacional
+1/8,09/04/81,CSA,0-0,Botafogo
+1/8,11/04/81,Flamengo,2-0,Bahia
+1/8,11/04/81,Operário-MS,3-1,Sport
+1/8,11/04/81,São Paulo,2-1,Santos
+1/8,11/04/81,Ponte Preta,2-1,Náutico
+1/8,11/04/81,Vasco,2-3,Fluminense
+1/8,11/04/81,Grêmio,2-0,Vitória
+1/8,11/04/81,Internacional,1-1,Atlético Mineiro
+1/8,11/04/81,Botafogo,2-0,CSA
+QF,15/04/81,Vasco,0-0,Ponte Preta
+QF,15/04/81,Grêmio,2-0,Operário-MS
+QF,16/04/81,Internacional,0-1,São Paulo
+QF,16/04/81,Flamengo,0-0,Botafogo
+QF,19/04/81,Operário-MS,0-1,Grêmio
+QF,19/04/81,São Paulo,2-0,Internacional
+QF,19/04/81,Botafogo,3-1,Flamengo
+QF,20/04/81,Ponte Preta,0-0,Vasco
+SF,22/04/81,Botafogo,1-0,São Paulo
+SF,23/04/81,Ponte Preta,2-3,Grêmio
+SF,26/04/81,São Paulo,3-2,Botafogo
+SF,26/04/81,Grêmio,0-1,Ponte Preta
+F,30/04/81,Grêmio,2-1,São Paulo
+F,03/05/81,São Paulo,0-1,Grêmio

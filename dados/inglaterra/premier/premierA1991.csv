@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/08/91,Arsenal,1-1,QPR
+1,17/08/91,Chelsea,2-2,Wimbledon
+1,17/08/91,Coventry City,0-1,Manchester City
+1,17/08/91,Liverpool,2-1,Oldham Athletic
+1,17/08/91,Manchester United,2-0,Notts County
+1,17/08/91,Norwich City,2-2,Sheffield United
+1,17/08/91,Nottingham Forest,2-1,Everton
+1,17/08/91,Sheffield Wed.,2-3,Aston Villa
+1,17/08/91,Southampton,2-3,Tottenham
+1,17/08/91,West Ham,0-0,Luton Town
+2,20/08/91,Everton,3-1,Arsenal
+2,20/08/91,Leeds United,1-0,Nottingham Forest
+2,20/08/91,Notts County,1-0,Southampton
+2,20/08/91,Sheffield United,1-1,West Ham
+2,21/08/91,Aston Villa,0-1,Manchester United
+2,21/08/91,Coventry City,5-0,Luton Town
+2,21/08/91,Manchester City,2-1,Liverpool
+2,21/08/91,Oldham Athletic,3-0,Chelsea
+2,21/08/91,QPR,0-2,Norwich City
+3,23/08/91,Sheffield United,0-2,Southampton
+3,23/08/91,Manchester City,3-2,Crystal Palace
+2,24/08/91,Leeds United,1-1,Sheffield Wed.
+3,24/08/91,Aston Villa,3-1,Arsenal
+3,24/08/91,Everton,0-0,Manchester United
+3,24/08/91,Luton Town,0-0,Liverpool
+3,24/08/91,Notts County,0-4,Nottingham Forest
+3,24/08/91,Oldham Athletic,2-2,Norwich City
+3,24/08/91,QPR,1-1,Coventry City
+3,24/08/91,Tottenham,1-3,Chelsea
+3,24/08/91,Wimbledon,2-0,West Ham
+3,27/08/91,Crystal Palace,3-2,Wimbledon
+4,27/08/91,Arsenal,2-0,Luton Town
+4,27/08/91,Liverpool,1-0,QPR
+3,28/08/91,Sheffield Wed.,2-1,Everton
+4,28/08/91,Chelsea,2-2,Notts County
+4,28/08/91,Coventry City,3-1,Sheffield United
+4,28/08/91,Manchester United,1-0,Oldham Athletic
+4,28/08/91,Norwich City,0-0,Manchester City
+4,28/08/91,Nottingham Forest,1-3,Tottenham
+4,28/08/91,Southampton,0-4,Leeds United
+4,28/08/91,West Ham,3-1,Aston Villa
+4,31/08/91,Sheffield Wed.,4-1,QPR
+5,31/08/91,Arsenal,2-1,Manchester City
+5,31/08/91,Chelsea,4-1,Luton Town
+5,31/08/91,Coventry City,0-1,Wimbledon
+5,31/08/91,Crystal Palace,2-1,Sheffield United
+5,31/08/91,Liverpool,3-1,Everton
+5,31/08/91,Manchester United,1-1,Leeds United
+5,31/08/91,Norwich City,0-1,Tottenham
+5,31/08/91,Nottingham Forest,3-1,Oldham Athletic
+5,31/08/91,Southampton,1-1,Aston Villa
+5,31/08/91,West Ham,0-2,Notts County
+5,03/09/91,Notts County,2-1,Sheffield Wed.
+6,03/09/91,Everton,1-1,Norwich City
+6,03/09/91,Leeds United,2-2,Arsenal
+6,03/09/91,Oldham Athletic,2-1,Coventry City
+6,03/09/91,Sheffield United,0-1,Chelsea
+6,03/09/91,Wimbledon,1-2,Manchester United
+6,04/09/91,Aston Villa,0-1,Crystal Palace
+6,04/09/91,Luton Town,2-1,Southampton
+6,04/09/91,Manchester City,2-1,Nottingham Forest
+6,04/09/91,QPR,0-0,West Ham
+6,07/09/91,Leeds United,3-0,Manchester City
+6,07/09/91,Notts County,1-2,Liverpool
+7,07/09/91,Arsenal,1-2,Coventry City
+7,07/09/91,Aston Villa,0-0,Tottenham
+7,07/09/91,Everton,2-2,Crystal Palace
+7,07/09/91,Manchester United,3-0,Norwich City
+7,07/09/91,Oldham Athletic,2-1,Sheffield United
+7,07/09/91,QPR,2-2,Southampton
+7,07/09/91,Sheffield Wed.,2-1,Nottingham Forest
+7,07/09/91,West Ham,1-1,Chelsea
+7,07/09/91,Wimbledon,3-0,Luton Town
+7,14/09/91,Liverpool,1-1,Aston Villa
+7,14/09/91,Manchester City,0-1,Sheffield Wed.
+8,14/09/91,Chelsea,0-1,Leeds United
+8,14/09/91,Coventry City,1-0,Notts County
+8,14/09/91,Crystal Palace,1-4,Arsenal
+8,14/09/91,Luton Town,2-1,Oldham Athletic
+8,14/09/91,Norwich City,2-1,West Ham
+8,14/09/91,Nottingham Forest,4-2,Wimbledon
+8,14/09/91,Sheffield United,2-1,Everton
+8,14/09/91,Southampton,0-1,Manchester United
+8,14/09/91,Tottenham,2-0,QPR
+9,17/09/91,Crystal Palace,2-3,West Ham
+9,17/09/91,Luton Town,0-1,QPR
+9,17/09/91,Manchester City,0-1,Everton
+9,17/09/91,Sheffield United,1-3,Notts County
+9,18/09/91,Chelsea,2-0,Aston Villa
+9,18/09/91,Coventry City,0-0,Leeds United
+9,18/09/91,Norwich City,1-0,Sheffield Wed.
+9,18/09/91,Southampton,1-0,Wimbledon
+7,21/09/91,Wimbledon,3-5,Tottenham
+8,21/09/91,Leeds United,1-0,Liverpool
+9,21/09/91,Arsenal,5-2,Sheffield United
+9,21/09/91,Aston Villa,3-1,Nottingham Forest
+9,21/09/91,Manchester United,5-0,Luton Town
+9,21/09/91,Oldham Athletic,2-3,Crystal Palace
+9,21/09/91,Sheffield Wed.,2-0,Southampton
+10,21/09/91,Everton,3-0,Coventry City
+10,21/09/91,Notts County,2-2,Norwich City
+10,21/09/91,QPR,2-2,Chelsea
+10,21/09/91,West Ham,1-2,Manchester City
+9,28/09/91,Liverpool,1-1,Sheffield Wed.
+10,28/09/91,Nottingham Forest,2-2,West Ham
+10,28/09/91,Southampton,0-4,Arsenal
+10,28/09/91,Tottenham,1-2,Manchester United
+11,28/09/91,Chelsea,2-2,Everton
+11,28/09/91,Coventry City,1-0,Aston Villa
+11,28/09/91,Crystal Palace,2-2,QPR
+11,28/09/91,Luton Town,1-1,Notts County
+11,28/09/91,Manchester City,1-2,Oldham Athletic
+11,28/09/91,Norwich City,2-2,Leeds United
+11,28/09/91,Sheffield United,0-0,Wimbledon
+11,01/10/91,Crystal Palace,1-0,Leeds United
+11,02/10/91,Wimbledon,2-1,Sheffield Wed.
+11,05/10/91,Arsenal,3-2,Chelsea
+11,05/10/91,QPR,0-2,Nottingham Forest
+12,05/10/91,Aston Villa,4-0,Luton Town
+12,05/10/91,Everton,3-1,Tottenham
+12,05/10/91,Leeds United,4-3,Sheffield United
+12,05/10/91,Oldham Athletic,1-1,Southampton
+12,05/10/91,Sheffield Wed.,4-1,Crystal Palace
+12,05/10/91,West Ham,0-1,Coventry City
+12,05/10/91,Wimbledon,3-1,Norwich City
+10,06/10/91,Manchester United,0-0,Liverpool
+12,06/10/91,Notts County,1-3,Manchester City
+12,19/10/91,Manchester United,1-1,Arsenal
+12,19/10/91,Sheffield United,4-2,Nottingham Forest
+13,19/10/91,Chelsea,2-2,Liverpool
+13,19/10/91,Coventry City,1-2,Crystal Palace
+13,19/10/91,Everton,0-2,Aston Villa
+13,19/10/91,Luton Town,2-2,Sheffield Wed.
+13,19/10/91,Notts County,2-4,Leeds United
+13,19/10/91,Oldham Athletic,2-2,West Ham
+13,19/10/91,Southampton,0-0,Norwich City
+13,19/10/91,Tottenham,0-1,Manchester City
+13,19/10/91,Wimbledon,0-1,QPR
+13,26/10/91,Arsenal,2-0,Notts County
+13,26/10/91,Nottingham Forest,1-3,Southampton
+13,26/10/91,Sheffield Wed.,3-2,Manchester United
+14,26/10/91,Aston Villa,2-1,Wimbledon
+14,26/10/91,Crystal Palace,0-0,Chelsea
+14,26/10/91,Leeds United,1-0,Oldham Athletic
+14,26/10/91,Liverpool,1-0,Coventry City
+14,26/10/91,Manchester City,3-2,Sheffield United
+14,26/10/91,Norwich City,1-0,Luton Town
+14,26/10/91,QPR,3-1,Everton
+14,26/10/91,West Ham,2-1,Tottenham
+15,01/11/91,Coventry City,0-1,Chelsea
+13,02/11/91,Liverpool,1-2,Crystal Palace
+14,02/11/91,Arsenal,0-1,West Ham
+14,02/11/91,Manchester United,2-0,Sheffield United
+15,02/11/91,Luton Town,0-1,Everton
+15,02/11/91,Norwich City,0-0,Nottingham Forest
+15,02/11/91,Notts County,2-0,Oldham Athletic
+15,02/11/91,QPR,0-1,Aston Villa
+15,02/11/91,Sheffield Wed.,0-0,Tottenham
+15,02/11/91,Southampton,0-3,Manchester City
+15,02/11/91,Wimbledon,0-0,Leeds United
+15,16/11/91,Manchester City,0-0,Manchester United
+15,16/11/91,Oldham Athletic,1-1,Arsenal
+16,16/11/91,Aston Villa,1-0,Notts County
+16,16/11/91,Chelsea,0-3,Norwich City
+16,16/11/91,Crystal Palace,1-0,Southampton
+16,16/11/91,Everton,2-0,Wimbledon
+16,16/11/91,Leeds United,2-0,QPR
+16,16/11/91,Nottingham Forest,1-0,Coventry City
+16,16/11/91,Tottenham,4-1,Luton Town
+14,17/11/91,West Ham,0-0,Liverpool
+16,17/11/91,Sheffield United,2-0,Sheffield Wed.
+15,23/11/91,Wimbledon,0-0,Liverpool
+16,23/11/91,Manchester United,2-1,West Ham
+16,23/11/91,Nottingham Forest,5-1,Crystal Palace
+16,23/11/91,QPR,1-3,Oldham Athletic
+16,23/11/91,Sheffield Wed.,1-1,Arsenal
+17,23/11/91,Everton,1-0,Notts County
+17,23/11/91,Luton Town,2-2,Manchester City
+17,23/11/91,Norwich City,3-2,Coventry City
+17,23/11/91,Southampton,1-0,Chelsea
+17,23/11/91,Tottenham,0-1,Sheffield United
+17,24/11/91,Aston Villa,1-4,Leeds United
+16,30/11/91,Liverpool,2-1,Norwich City
+17,30/11/91,Crystal Palace,1-3,Manchester United
+18,30/11/91,Chelsea,1-0,Nottingham Forest
+18,30/11/91,Coventry City,2-0,Southampton
+18,30/11/91,Leeds United,1-0,Everton
+18,30/11/91,Manchester City,0-0,Wimbledon
+18,30/11/91,Notts County,0-1,QPR
+18,30/11/91,Oldham Athletic,3-2,Aston Villa
+18,30/11/91,Sheffield United,1-1,Luton Town
+18,30/11/91,West Ham,1-2,Sheffield Wed.
+17,01/12/91,Arsenal,2-0,Tottenham
+17,07/12/91,Southampton,1-1,Liverpool
+18,07/12/91,Wimbledon,2-1,Oldham Athletic
+19,07/12/91,Aston Villa,3-1,Manchester City
+19,07/12/91,Everton,4-0,West Ham
+19,07/12/91,Luton Town,0-2,Leeds United
+19,07/12/91,Manchester United,4-0,Coventry City
+19,07/12/91,Norwich City,3-3,Crystal Palace
+19,07/12/91,QPR,1-0,Sheffield United
+19,07/12/91,Sheffield Wed.,3-0,Chelsea
+19,07/12/91,Tottenham,2-1,Notts County
+18,08/12/91,Nottingham Forest,3-2,Arsenal
+18,14/12/91,Liverpool,2-0,Nottingham Forest
+20,14/12/91,Leeds United,1-1,Tottenham
+20,14/12/91,Manchester City,2-2,QPR
+20,14/12/91,Oldham Athletic,2-2,Everton
+20,14/12/91,Sheffield United,2-0,Aston Villa
+20,15/12/91,Chelsea,1-3,Manchester United
+19,18/12/91,Tottenham,1-2,Liverpool
+20,20/12/91,Luton Town,1-0,Coventry City
+20,20/12/91,Southampton,1-1,Notts County
+20,20/12/91,West Ham,1-1,Sheffield United
+21,20/12/91,Chelsea,4-2,Oldham Athletic
+19,21/12/91,Arsenal,4-2,Everton
+20,21/12/91,Liverpool,2-2,Manchester City
+20,21/12/91,Norwich City,0-1,QPR
+20,21/12/91,Sheffield Wed.,2-0,Wimbledon
+19,22/12/91,Crystal Palace,1-2,Tottenham
+20,22/12/91,Nottingham Forest,0-0,Leeds United
+21,25/12/91,Aston Villa,3-1,West Ham
+21,25/12/91,Everton,0-1,Sheffield Wed.
+21,25/12/91,Manchester City,2-1,Norwich City
+21,25/12/91,Wimbledon,1-1,Crystal Palace
+20,26/12/91,Luton Town,1-0,Arsenal
+20,26/12/91,Oldham Athletic,3-6,Manchester United
+21,26/12/91,Leeds United,3-3,Southampton
+21,26/12/91,QPR,0-0,Liverpool
+21,26/12/91,Sheffield United,0-3,Coventry City
+21,26/12/91,Tottenham,1-2,Nottingham Forest
+22,26/12/91,Notts County,2-0,Chelsea
+21,27/12/91,Manchester City,1-0,Arsenal
+23,27/12/91,Sheffield United,1-1,Crystal Palace
+22,28/12/91,Aston Villa,2-1,Southampton
+22,28/12/91,Everton,1-1,Liverpool
+22,28/12/91,Notts County,3-0,West Ham
+22,28/12/91,Oldham Athletic,2-1,Nottingham Forest
+22,28/12/91,QPR,1-1,Sheffield Wed.
+22,28/12/91,Tottenham,3-0,Norwich City
+22,28/12/91,Wimbledon,1-1,Coventry City
+23,28/12/91,Luton Town,2-0,Chelsea
+21,29/12/91,Leeds United,1-1,Manchester United
+22,31/12/91,Arsenal,1-1,Wimbledon
+23,31/12/91,Liverpool,2-1,Sheffield United
+23,31/12/91,Norwich City,2-1,Aston Villa
+24,31/12/91,Chelsea,1-1,Manchester City
+22,01/01/92,Manchester United,1-4,QPR
+23,01/01/92,Coventry City,1-2,Tottenham
+23,01/01/92,Crystal Palace,1-0,Notts County
+23,01/01/92,Nottingham Forest,1-1,Luton Town
+23,01/01/92,Sheffield Wed.,1-1,Oldham Athletic
+23,01/01/92,Southampton,1-2,Everton
+23,01/01/92,West Ham,1-3,Leeds United
+23,10/01/92,Arsenal,0-0,Aston Villa
+23,10/01/92,Manchester United,1-0,Everton
+24,10/01/92,Liverpool,2-1,Luton Town
+24,10/01/92,Norwich City,1-2,Oldham Athletic
+24,10/01/92,Nottingham Forest,1-1,Notts County
+24,10/01/92,Southampton,2-4,Sheffield United
+24,10/01/92,West Ham,1-1,Wimbledon
+25,10/01/92,Chelsea,2-0,Tottenham
+25,10/01/92,Crystal Palace,1-1,Manchester City
+24,11/01/92,Coventry City,2-2,QPR
+24,12/01/92,Sheffield Wed.,1-6,Leeds United
+24,17/01/92,Notts County,1-1,Manchester United
+24,17/01/92,QPR,0-0,Arsenal
+25,17/01/92,Aston Villa,0-1,Sheffield Wed.
+25,17/01/92,Luton Town,0-1,West Ham
+25,18/01/92,Manchester City,1-0,Coventry City
+25,18/01/92,Oldham Athletic,2-3,Liverpool
+25,18/01/92,Sheffield United,1-0,Norwich City
+25,18/01/92,Tottenham,1-2,Southampton
+26,18/01/92,Leeds United,1-1,Crystal Palace
+26,18/01/92,Wimbledon,1-2,Chelsea
+25,18/01/92,Everton,1-1,Nottingham Forest
+25,21/01/92,Manchester United,1-0,Aston Villa
+26,25/01/92,Tottenham,0-0,Oldham Athletic
+25,29/01/92,Liverpool,2-0,Arsenal
+27,31/01/92,Manchester City,1-0,Tottenham
+26,01/02/92,Arsenal,1-1,Manchester United
+26,01/02/92,Crystal Palace,0-1,Coventry City
+26,01/02/92,Norwich City,2-1,Southampton
+26,01/02/92,Nottingham Forest,2-5,Sheffield United
+26,01/02/92,Sheffield Wed.,3-2,Luton Town
+26,01/02/92,West Ham,1-0,Oldham Athletic
+27,01/02/92,Leeds United,3-0,Notts County
+27,01/02/92,Liverpool,1-2,Chelsea
+27,01/02/92,QPR,1-1,Wimbledon
+27,02/02/92,Aston Villa,0-0,Everton
+27,07/02/92,Coventry City,0-0,Liverpool
+27,07/02/92,Manchester United,1-1,Sheffield Wed.
+28,07/02/92,Everton,0-0,QPR
+28,07/02/92,Wimbledon,2-0,Aston Villa
+27,08/02/92,Luton Town,2-0,Norwich City
+27,08/02/92,Notts County,0-1,Arsenal
+28,08/02/92,Chelsea,1-1,Crystal Palace
+28,08/02/92,Oldham Athletic,2-0,Leeds United
+28,08/02/92,Sheffield United,4-2,Manchester City
+28,10/02/92,Arsenal,1-1,Norwich City

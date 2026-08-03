@@ -1,0 +1,235 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,27/02/94,Vila Branca,0-2,Botafogo-PB
+B,27/02/94,Guarabira,1-0,Auto Esporte
+B,27/02/94,Treze,2-2,Atlético-PB
+B,27/02/94,Socremo-PB,1-0,Nacional-PB
+B,27/02/94,Sociedade-PB,2-2,Campinense
+B,27/02/94,Esporte de Patos,2-2,Sousa
+B,02/03/94,Auto Esporte,1-1,Socremo-PB
+B,02/03/94,Vila Branca,1-0,Treze
+B,02/03/94,Campinense,2-1,Esporte de Patos
+B,02/03/94,Nacional-PB,3-0,Guarabira
+B,02/03/94,Sousa,1-0,Botafogo-PB
+B,03/03/94,Atlético-PB,0-0,Sociedade-PB
+B,06/03/94,Botafogo-PB,2-1,Auto Esporte
+B,06/03/94,Guarabira,1-1,Vila Branca
+B,06/03/94,Campinense,4-0,Treze
+B,06/03/94,Esporte de Patos,3-0,Nacional-PB
+B,06/03/94,Sociedade-PB,1-0,Sousa
+B,06/03/94,Socremo-PB,0-1,Atlético-PB
+B,09/03/94,Atlético-PB,1-0,Botafogo-PB
+B,09/03/94,Sousa,0-0,Socremo-PB
+B,09/03/94,Vila Branca,0-1,Esporte de Patos
+B,10/03/94,Auto Esporte,1-1,Sociedade-PB
+B,10/03/94,Campinense,1-2,Guarabira
+B,10/03/94,Nacional-PB,1-0,Treze
+B,13/03/94,Botafogo-PB,3-2,Nacional-PB
+B,13/03/94,Guarabira,0-0,Atlético-PB
+B,13/03/94,Treze,2-2,Sousa
+B,13/03/94,Esporte de Patos,2-0,Auto Esporte
+B,13/03/94,Socremo-PB,0-1,Campinense
+B,13/03/94,Sociedade-PB,3-1,Vila Branca
+B,20/03/94,Campinense,1-1,Botafogo-PB
+B,20/03/94,Auto Esporte,0-0,Treze
+B,20/03/94,Vila Branca,4-0,Socremo-PB
+B,20/03/94,Sousa,1-0,Guarabira
+B,20/03/94,Nacional-PB,2-0,Sociedade-PB
+B,20/03/94,Atlético-PB,1-1,Esporte de Patos
+B,27/03/94,Auto Esporte,1-1,Guarabira
+B,27/03/94,Botafogo-PB,2-0,Vila Branca
+B,27/03/94,Campinense,2-5,Sociedade-PB
+B,27/03/94,Nacional-PB,2-0,Socremo-PB
+B,27/03/94,Atlético-PB,1-1,Treze
+B,27/03/94,Sousa,2-1,Esporte de Patos
+B,30/03/94,Sociedade-PB,0-0,Atlético-PB
+B,30/03/94,Botafogo-PB,1-0,Sousa
+B,30/03/94,Treze,2-1,Vila Branca
+B,30/03/94,Guarabira,0-0,Nacional-PB
+B,30/03/94,Esporte de Patos,0-0,Campinense
+B,30/03/94,Socremo-PB,0-1,Auto Esporte
+B,03/04/94,Sousa,1-0,Sociedade-PB
+B,03/04/94,Treze,0-0,Campinense
+B,03/04/94,Atlético-PB,3-0,Socremo-PB
+B,03/04/94,Nacional-PB,0-0,Esporte de Patos
+B,03/04/94,Vila Branca,0-0,Guarabira
+B,06/04/94,Botafogo-PB,1-0,Atlético-PB
+B,06/04/94,Socremo-PB,3-3,Sousa
+B,06/04/94,Guarabira,1-1,Campinense
+B,06/04/94,Treze,2-3,Nacional-PB
+B,06/04/94,Sociedade-PB,2-1,Auto Esporte
+B,06/04/94,Esporte de Patos,0-0,Vila Branca
+B,10/04/94,Sousa,1-3,Treze
+B,10/04/94,Nacional-PB,1-0,Botafogo-PB
+B,10/04/94,Campinense,0-0,Socremo-PB
+B,10/04/94,Vila Branca,2-0,Sociedade-PB
+B,10/04/94,Atlético-PB,3-2,Guarabira
+B,10/04/94,Auto Esporte,1-1,Esporte de Patos
+B,13/04/94,Auto Esporte,0-0,Botafogo-PB
+B,17/04/94,Botafogo-PB,2-0,Campinense
+B,17/04/94,Treze,0-0,Auto Esporte
+B,17/04/94,Guarabira,2-0,Sousa
+B,17/04/94,Sociedade-PB,2-1,Nacional-PB
+B,17/04/94,Socremo-PB,1-0,Vila Branca
+B,17/04/94,Esporte de Patos,0-1,Atlético-PB
+SF,21/04/94,Botafogo-PB,3-2,Sociedade-PB
+SF,21/04/94,Atlético-PB,1-0,Nacional-PB
+F,24/04/94,Atlético-PB,1-1,Botafogo-PB
+F,28/04/94,Botafogo-PB,1-2,Atlético-PB
+C,01/05/94,Nacional-PB,1-0,Atlético-PB
+D,01/05/94,Sociedade-PB,0-3,Botafogo-PB
+C,01/05/94,Auto Esporte,0-1,Sousa
+D,01/05/94,Guarabira,2-0,Treze
+C,01/05/94,Campinense,3-0,Vila Branca
+D,01/05/94,Socremo-PB,2-0,Esporte de Patos
+D,03/05/94,Botafogo-PB,0-1,Socremo-PB
+C,05/05/94,Atlético-PB,1-1,Auto Esporte
+C,05/05/94,Sousa,1-1,Campinense
+D,05/05/94,Treze,1-3,Sociedade-PB
+C,05/05/94,Vila Branca,1-2,Nacional-PB
+D,05/05/94,Esporte de Patos,4-2,Guarabira
+D,08/05/94,Campinense,2-0,Treze
+D,08/05/94,Auto Esporte,0-0,Botafogo-PB
+D,08/05/94,Socremo-PB,2-1,Atlético-PB
+D,08/05/94,Sociedade-PB,1-1,Sousa
+D,08/05/94,Nacional-PB,0-0,Esporte de Patos
+D,08/05/94,Vila Branca,1-1,Guarabira
+C,11/05/94,Atlético-PB,1-0,Campinense
+D,11/05/94,Esporte de Patos,1-2,Botafogo-PB
+D,11/05/94,Guarabira,0-2,Sociedade-PB
+C,11/05/94,Sousa,1-0,Vila Branca
+D,11/05/94,Treze,1-1,Socremo-PB
+C,12/05/94,Auto Esporte,0-0,Nacional-PB
+D,15/05/94,Botafogo-PB,1-1,Treze
+C,15/05/94,Campinense,1-1,Auto Esporte
+C,15/05/94,Sousa,1-0,Nacional-PB
+C,15/05/94,Vila Branca,1-0,Atlético-PB
+D,15/05/94,Esporte de Patos,3-1,Sociedade-PB
+D,15/05/94,Socremo-PB,3-1,Guarabira
+D,18/05/94,Treze,1-0,Esporte de Patos
+D,18/05/94,Guarabira,3-4,Botafogo-PB
+C,18/05/94,Atlético-PB,1-0,Sousa
+D,18/05/94,Sociedade-PB,1-0,Socremo-PB
+C,18/05/94,Nacional-PB,0-0,Campinense
+C,18/05/94,Auto Esporte,1-1,Vila Branca
+C,22/05/94,Atlético-PB,1-0,Nacional-PB
+D,22/05/94,Botafogo-PB,4-1,Sociedade-PB
+D,22/05/94,Esporte de Patos,5-1,Socremo-PB
+C,22/05/94,Sousa,0-1,Auto Esporte
+C,22/05/94,Vila Branca,0-0,Campinense
+D,22/05/94,Treze,2-2,Guarabira
+C,25/05/94,Auto Esporte,1-0,Atlético-PB
+D,25/05/94,Guarabira,1-2,Esporte de Patos
+C,25/05/94,Campinense,3-1,Sousa
+D,25/05/94,Socremo-PB,2-2,Botafogo-PB
+C,25/05/94,Nacional-PB,3-1,Vila Branca
+D,25/05/94,Sociedade-PB,0-2,Treze
+D,29/05/94,Botafogo-PB,2-0,Esporte de Patos
+C,29/05/94,Vila Branca,2-2,Sousa
+D,29/05/94,Socremo-PB,3-1,Treze
+C,29/05/94,Nacional-PB,2-3,Auto Esporte
+D,29/05/94,Sociedade-PB,3-0,Guarabira
+C,29/05/94,Campinense,0-0,Atlético-PB
+D,04/06/94,Botafogo-PB,2-0,Auto Esporte
+D,04/06/94,Treze,0-0,Campinense
+D,04/06/94,Sousa,1-0,Sociedade-PB
+D,04/06/94,Esporte de Patos,2-0,Nacional-PB
+D,05/06/94,Atlético-PB,1-0,Socremo-PB
+D,07/06/94,Guarabira,0-2,Vila Branca
+D,11/06/94,Treze,1-0,Botafogo-PB
+C,11/06/94,Nacional-PB,1-1,Sousa
+D,11/06/94,Sociedade-PB,0-0,Esporte de Patos
+C,11/06/94,Atlético-PB,1-0,Vila Branca
+D,12/06/94,Guarabira,0-2,Socremo-PB
+C,15/06/94,Sousa,1-0,Atlético-PB
+C,15/06/94,Vila Branca,0-0,Auto Esporte
+C,15/06/94,Campinense,0-0,Nacional-PB
+D,15/06/94,Esporte de Patos,1-1,Treze
+D,15/06/94,Socremo-PB,3-2,Sociedade-PB
+D,16/06/94,Botafogo-PB,1-1,Guarabira
+C,19/06/94,Auto Esporte,0-1,Campinense
+SF,26/06/94,Campinense,1-2,Botafogo-PB
+SF,26/06/94,Socremo-PB,4-1,Sousa
+F,02/07/94,Botafogo-PB,1-0,Socremo-PB
+F,10/07/94,Socremo-PB,0-1,Botafogo-PB
+,24/07/94,Botafogo-PB,4-0,Sousa
+,24/07/94,Campinense,0-1,Esporte de Patos
+,24/07/94,Nacional-PB,2-1,Socremo-PB
+,24/07/94,Sociedade-PB,2-1,Atlético-PB
+,31/07/94,Socremo-PB,2-1,Sociedade-PB
+,31/07/94,Sousa,5-0,Campinense
+,31/07/94,Esporte de Patos,1-1,Botafogo-PB
+,31/07/94,Atlético-PB,1-0,Nacional-PB
+,31/07/94,Treze,1-1,Vila Branca
+,31/07/94,Auto Esporte,3-2,Guarabira
+,07/08/94,Botafogo-PB,2-1,Socremo-PB
+,07/08/94,Campinense,1-1,Atlético-PB
+,07/08/94,Nacional-PB,0-0,Sousa
+,07/08/94,Sociedade-PB,2-1,Esporte de Patos
+,07/08/94,Guarabira,1-0,Treze
+,07/08/94,Vila Branca,0-0,Auto Esporte
+,14/08/94,Campinense,2-0,Botafogo-PB
+,14/08/94,Sousa,0-0,Sociedade-PB
+,14/08/94,Esporte de Patos,2-0,Nacional-PB
+,14/08/94,Atlético-PB,2-0,Socremo-PB
+,14/08/94,Auto Esporte,1-1,Treze
+,14/08/94,Guarabira,1-1,Vila Branca
+,21/08/94,Socremo-PB,2-1,Sousa
+,21/08/94,Nacional-PB,1-0,Botafogo-PB
+,21/08/94,Sociedade-PB,2-1,Campinense
+,21/08/94,Vila Branca,1-0,Guarabira
+,21/08/94,Treze,0-0,Auto Esporte
+,22/08/94,Atlético-PB,0-0,Esporte de Patos
+,28/08/94,Botafogo-PB,1-0,Sociedade-PB
+,28/08/94,Campinense,1-3,Nacional-PB
+,28/08/94,Esporte de Patos,1-1,Socremo-PB
+,28/08/94,Sousa,2-1,Atlético-PB
+,28/08/94,Vila Branca,2-0,Treze
+,28/08/94,Guarabira,1-0,Auto Esporte
+,04/09/94,Nacional-PB,1-0,Sociedade-PB
+,04/09/94,Sousa,4-0,Esporte de Patos
+,04/09/94,Socremo-PB,2-0,Campinense
+,04/09/94,Atlético-PB,1-1,Botafogo-PB
+,04/09/94,Treze,2-2,Guarabira
+,04/09/94,Auto Esporte,0-0,Vila Branca
+,07/09/94,Socremo-PB,0-0,Nacional-PB
+,07/09/94,Sousa,1-0,Botafogo-PB
+,07/09/94,Esporte de Patos,0-0,Campinense
+,07/09/94,Atlético-PB,2-0,Sociedade-PB
+,11/09/94,Botafogo-PB,4-3,Esporte de Patos
+,11/09/94,Campinense,1-3,Sousa
+,11/09/94,Nacional-PB,1-0,Atlético-PB
+,11/09/94,Sociedade-PB,4-1,Socremo-PB
+,18/09/94,Sousa,2-0,Nacional-PB
+,18/09/94,Socremo-PB,1-3,Botafogo-PB
+,18/09/94,Esporte de Patos,1-2,Sociedade-PB
+,18/09/94,Atlético-PB,0-0,Campinense
+,21/09/94,Botafogo-PB,0-0,Campinense
+,25/09/94,Nacional-PB,1-0,Esporte de Patos
+,25/09/94,Sociedade-PB,0-0,Sousa
+,25/09/94,Socremo-PB,2-1,Atlético-PB
+,29/09/94,Botafogo-PB,1-0,Nacional-PB
+,29/09/94,Sousa,2-0,Socremo-PB
+,01/10/94,Campinense,0-0,Sociedade-PB
+,01/10/94,Esporte de Patos,2-1,Atlético-PB
+,06/10/94,Socremo-PB,1-0,Esporte de Patos
+,09/10/94,Nacional-PB,3-2,Campinense
+,12/10/94,Sociedade-PB,2-2,Botafogo-PB
+,12/10/94,Atlético-PB,2-1,Sousa
+,12/10/94,Campinense,1-1,Socremo-PB
+,16/10/94,Esporte de Patos,1-1,Sousa
+,16/10/94,Sociedade-PB,0-0,Nacional-PB
+,19/10/94,Botafogo-PB,3-1,Atlético-PB
+F,20/10/94,Nacional-PB,2-0,Sousa
+F,23/10/94,Sousa,2-0,Nacional-PB
+QDF,03/11/94,Atlético-PB,0-1,Sousa
+QDF,03/11/94,Nacional-PB,1-2,Botafogo-PB
+QDF,06/11/94,Sousa,3-0,Nacional-PB
+QDF,06/11/94,Botafogo-PB,0-0,Atlético-PB
+QDF,09/11/94,Botafogo-PB,2-2,Sousa
+QDF,09/11/94,Atlético-PB,3-0,Nacional-PB
+QDF,13/11/94,Sousa,2-0,Botafogo-PB
+QDF,13/11/94,Nacional-PB,3-0,Atlético-PB
+QDF,17/11/94,Nacional-PB,1-2,Sousa
+QDF,17/11/94,Atlético-PB,3-2,Botafogo-PB
+QDF,19/11/94,Sousa,1-1,Atlético-PB
+QDF,20/11/94,Botafogo-PB,1-1,Nacional-PB

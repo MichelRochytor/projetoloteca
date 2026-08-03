@@ -1,0 +1,109 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,16/01/21,America-RJ,1-1,Sampaio Corrêa-RJ
+1F,16/01/21,Nova Iguaçu,1-0,Friburguense
+1F,16/01/21,Americano,3-2,Cabofriense
+1F,20/01/21,Sampaio Corrêa-RJ,1-2,Nova Iguaçu
+1F,20/01/21,Friburguense,1-1,Americano
+1F,20/01/21,Cabofriense,0-0,America-RJ
+1F,23/01/21,Americano,1-2,Sampaio Corrêa-RJ
+1F,23/01/21,Cabofriense,2-1,Friburguense
+1F,23/01/21,America-RJ,1-1,Nova Iguaçu
+1F,27/01/21,Sampaio Corrêa-RJ,0-1,Cabofriense
+1F,27/01/21,Friburguense,1-2,America-RJ
+1F,27/01/21,Nova Iguaçu,1-0,Americano
+1F,30/01/21,Friburguense,1-2,Sampaio Corrêa-RJ
+1F,30/01/21,Cabofriense,1-0,Nova Iguaçu
+1F,30/01/21,Americano,3-0,America-RJ
+1F,03/02/21,Sampaio Corrêa-RJ,0-0,America-RJ
+1F,03/02/21,Friburguense,0-1,Nova Iguaçu
+1F,03/02/21,Cabofriense,2-1,Americano
+1F,06/02/21,Nova Iguaçu,1-0,Sampaio Corrêa-RJ
+1F,06/02/21,Americano,2-1,Friburguense
+1F,06/02/21,America-RJ,1-1,Cabofriense
+1F,10/02/21,Sampaio Corrêa-RJ,2-0,Americano
+1F,10/02/21,Friburguense,2-5,Cabofriense
+1F,10/02/21,Nova Iguaçu,1-0,America-RJ
+1F,17/02/21,Cabofriense,2-1,Sampaio Corrêa-RJ
+1F,17/02/21,America-RJ,4-4,Friburguense
+1F,17/02/21,Americano,1-3,Nova Iguaçu
+1F,20/02/21,Sampaio Corrêa-RJ,1-0,Friburguense
+1F,20/02/21,Nova Iguaçu,1-1,Cabofriense
+1F,20/02/21,America-RJ,3-1,Americano
+,02/03/21,Flamengo,1-0,Nova Iguaçu
+,03/03/21,Macaé,0-1,Bangu
+,03/03/21,Volta Redonda,2-2,Madureira
+,03/03/21,Botafogo,0-0,Boavista-RJ
+,03/03/21,Vasco,0-1,Portuguesa-RJ
+,04/03/21,Resende,2-1,Fluminense
+,06/03/21,Macaé,0-2,Flamengo
+,06/03/21,Volta Redonda,1-0,Vasco
+,07/03/21,Nova Iguaçu,0-0,Madureira
+,07/03/21,Fluminense,0-3,Portuguesa-RJ
+,07/03/21,Boavista-RJ,2-0,Bangu
+,07/03/21,Botafogo,3-0,Resende
+,13/03/21,Madureira,0-0,Resende
+,13/03/21,Nova Iguaçu,2-2,Vasco
+,13/03/21,Bangu,0-0,Botafogo
+,14/03/21,Portuguesa-RJ,0-1,Volta Redonda
+,14/03/21,Flamengo,0-1,Fluminense
+,15/03/21,Boavista-RJ,1-1,Macaé
+,19/03/21,Flamengo,4-1,Resende
+,20/03/21,Volta Redonda,1-0,Macaé
+,20/03/21,Boavista-RJ,1-2,Nova Iguaçu
+,20/03/21,Bangu,0-1,Fluminense
+,21/03/21,Madureira,1-0,Portuguesa-RJ
+,21/03/21,Vasco,1-1,Botafogo
+,23/03/21,Resende,1-0,Volta Redonda
+,23/03/21,Boavista-RJ,0-2,Fluminense
+,24/03/21,Madureira,1-0,Bangu
+,24/03/21,Vasco,3-1,Macaé
+,24/03/21,Botafogo,0-2,Flamengo
+,25/03/21,Nova Iguaçu,0-0,Portuguesa-RJ
+,26/03/21,Fluminense,2-3,Volta Redonda
+,27/03/21,Vasco,2-2,Madureira
+,27/03/21,Bangu,0-0,Resende
+,27/03/21,Boavista-RJ,1-1,Flamengo
+,28/03/21,Portuguesa-RJ,3-0,Macaé
+,28/03/21,Nova Iguaçu,1-2,Botafogo
+,30/03/21,Fluminense,1-1,Vasco
+,31/03/21,Macaé,1-3,Nova Iguaçu
+,31/03/21,Botafogo,1-1,Madureira
+,31/03/21,Flamengo,3-0,Bangu
+,01/04/21,Resende,0-1,Portuguesa-RJ
+,01/04/21,Volta Redonda,3-1,Boavista-RJ
+,03/04/21,Vasco,4-2,Bangu
+,04/04/21,Resende,1-4,Boavista-RJ
+,04/04/21,Botafogo,1-1,Portuguesa-RJ
+,04/04/21,Volta Redonda,3-2,Nova Iguaçu
+,05/04/21,Madureira,1-5,Flamengo
+,06/04/21,Macaé,0-4,Fluminense
+,10/04/21,Macaé,1-3,Resende
+,10/04/21,Portuguesa-RJ,5-1,Bangu
+,10/04/21,Volta Redonda,2-2,Botafogo
+,11/04/21,Madureira,0-0,Boavista-RJ
+,11/04/21,Fluminense,3-1,Nova Iguaçu
+,15/04/21,Flamengo,1-3,Vasco
+,17/04/21,Madureira,4-2,Macaé
+,17/04/21,Fluminense,1-0,Botafogo
+,17/04/21,Portuguesa-RJ,2-2,Flamengo
+,18/04/21,Bangu,1-1,Volta Redonda
+,18/04/21,Nova Iguaçu,4-2,Resende
+,18/04/21,Boavista-RJ,2-2,Vasco
+,24/04/21,Resende,1-3,Vasco
+,24/04/21,Flamengo,2-1,Volta Redonda
+,24/04/21,Portuguesa-RJ,4-2,Boavista-RJ
+,25/04/21,Fluminense,4-1,Madureira
+,25/04/21,Bangu,0-1,Nova Iguaçu
+,25/04/21,Botafogo,4-0,Macaé
+SF,01/05/21,Madureira,1-0,Vasco
+SF,01/05/21,Volta Redonda,0-3,Flamengo
+SF,02/05/21,Portuguesa-RJ,1-1,Fluminense
+SF,02/05/21,Botafogo,0-0,Nova Iguaçu
+SF,08/05/21,Vasco,2-1,Madureira
+SF,08/05/21,Flamengo,4-1,Volta Redonda
+SF,09/05/21,Fluminense,3-1,Portuguesa-RJ
+SF,09/05/21,Nova Iguaçu,0-1,Botafogo
+F,15/05/21,Fluminense,1-1,Flamengo
+F,16/05/21,Botafogo,0-1,Vasco
+F,22/05/21,Vasco,0-1(3-0 Pen.),Botafogo
+F,22/05/21,Flamengo,3-1,Fluminense

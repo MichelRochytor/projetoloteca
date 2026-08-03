@@ -1,0 +1,242 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,11/09/87,Palmeiras,2-0,Cruzeiro
+A,12/09/87,Botafogo,1-0,Goiás
+A,13/09/87,Atlético Mineiro,5-1,Santos
+A,13/09/87,Bahia,0-3,Vasco
+A,13/09/87,Coritiba,0-1,Grêmio
+A,13/09/87,Flamengo,0-2,São Paulo
+A,13/09/87,Corinthians,0-1,Fluminense
+A,13/09/87,Internacional,4-0,Santa Cruz
+A,13/09/87,Bangu,1-1,Joinville
+A,13/09/87,Criciúma,1-2,Ceará
+A,13/09/87,Treze,0-0,Atlético Paranaense
+A,13/09/87,CSA,0-1,Guarani
+A,16/09/87,Vitória,3-1,Joinville
+A,16/09/87,Inter de Limeira,1-0,Ceará
+A,16/09/87,Sport,1-1,Atlético Paranaense
+A,16/09/87,Treze,1-3,Guarani
+A,16/09/87,Atlético Paranaense,1-2,Bangu
+A,16/09/87,Joinville,0-0,Treze
+A,16/09/87,Atlético Goianiense,3-1,CSA
+A,16/09/87,Sport,3-0,Criciúma
+A,17/09/87,Criciúma,2-0,Náutico
+A,18/09/87,Corinthians,0-1,Goiás
+A,19/09/87,Atlético Mineiro,0-0,Internacional
+A,19/09/87,Rio Branco-ES,0-1,CSA
+A,19/09/87,Vitória,1-2,Atlético Paranaense
+A,20/09/87,Grêmio,0-0,Cruzeiro
+A,20/09/87,Santos,0-0,Palmeiras
+A,20/09/87,Fluminense,1-1,Botafogo
+A,20/09/87,Santa Cruz,0-0,Coritiba
+A,20/09/87,Flamengo,2-1,Vasco
+A,20/09/87,Bahia,1-1,São Paulo
+A,20/09/87,Inter de Limeira,2-1,Treze
+A,20/09/87,Atlético Goianiense,1-0,Ceará
+A,20/09/87,Sport,2-0,Guarani
+A,20/09/87,Criciúma,1-0,Bangu
+A,20/09/87,Joinville,2-1,Náutico
+A,23/09/87,Grêmio,1-0,Vasco
+A,23/09/87,Cruzeiro,2-1,Bahia
+A,23/09/87,Fluminense,2-0,Palmeiras
+A,23/09/87,São Paulo,3-0,Santa Cruz
+A,23/09/87,Coritiba,2-1,Corinthians
+A,24/09/87,Botafogo,0-0,Internacional
+A,24/09/87,Santos,0-0,Flamengo
+A,24/09/87,Náutico,0-1,Rio Branco-ES
+A,26/09/87,Fluminense,0-0,Grêmio
+A,26/09/87,Coritiba,2-1,Bahia
+A,26/09/87,Goiás,1-0,Santa Cruz
+A,26/09/87,Palmeiras,2-1,São Paulo
+A,27/09/87,Internacional,2-0,Flamengo
+A,27/09/87,Cruzeiro,1-1,Botafogo
+A,27/09/87,Corinthians,0-0,Santos
+A,27/09/87,Vasco,1-2,Atlético Mineiro
+A,27/09/87,Ceará,1-1,Rio Branco-ES
+A,27/09/87,Náutico,2-1,Atlético Goianiense
+A,27/09/87,Bangu,1-0,Inter de Limeira
+A,27/09/87,Guarani,0-1,Vitória
+A,27/09/87,Joinville,0-1,Sport
+A,27/09/87,Treze,2-1,Criciúma
+A,27/09/87,Atlético Paranaense,1-1,CSA
+A,30/09/87,Goiás,0-1,Atlético Mineiro
+A,30/09/87,Portuguesa,1-1,Sport
+A,30/09/87,Inter de Limeira,0-0,Vitória
+A,30/09/87,Bangu,0-0,Guarani
+A,30/09/87,CSA,1-2,Criciúma
+A,30/09/87,Treze,3-1,Atlético Goianiense
+A,01/10/87,Vasco,1-0,Botafogo
+A,01/10/87,Ceará,1-0,Joinville
+A,02/10/87,Internacional,2-0,Palmeiras
+A,03/10/87,Santos,1-0,Grêmio
+A,03/10/87,Atlético Mineiro,2-0,Coritiba
+A,03/10/87,Inter de Limeira,0-1,Náutico
+A,04/10/87,Bahia,1-0,Goiás
+A,04/10/87,São Paulo,0-0,Corinthians
+A,04/10/87,Flamengo,0-1,Fluminense
+A,04/10/87,Santa Cruz,0-0,Cruzeiro
+A,04/10/87,CSA,3-2,Joinville
+A,04/10/87,Criciúma,2-1,Vitória
+A,04/10/87,Atlético Goianiense,0-0,Sport
+A,04/10/87,Bangu,1-0,Rio Branco-ES
+A,04/10/87,Ceará,1-1,Portuguesa
+A,07/10/87,Santa Cruz,1-1,Fluminense
+A,07/10/87,Botafogo,0-0,Santos
+A,07/10/87,Palmeiras,1-0,Vasco
+A,07/10/87,Bahia,0-2,Internacional
+A,07/10/87,CSA,0-2,Inter de Limeira
+A,07/10/87,Rio Branco-ES,0-2,Sport
+A,08/10/87,Flamengo,3-1,Coritiba
+A,08/10/87,Grêmio,4-0,Goiás
+A,08/10/87,Cruzeiro,1-1,Corinthians
+A,08/10/87,São Paulo,0-1,Atlético Mineiro
+A,08/10/87,Náutico,2-1,Portuguesa
+A,10/10/87,Santa Cruz,3-1,Santos
+A,10/10/87,Atlético Goianiense,1-0,Bangu
+A,11/10/87,Atlético Mineiro,0-0,Cruzeiro
+A,11/10/87,Palmeiras,1-0,Coritiba
+A,11/10/87,Goiás,1-1,Flamengo
+A,11/10/87,Vasco,4-1,Corinthians
+A,11/10/87,Rio Branco-ES,2-1,Treze
+A,11/10/87,Sport,4-0,Inter de Limeira
+A,11/10/87,Guarani,4-2,Náutico
+A,11/10/87,Vitória,2-1,Portuguesa
+A,11/10/87,Ceará,0-1,Atlético Paranaense
+A,12/10/87,Internacional,0-1,Grêmio
+A,12/10/87,São Paulo,0-2,Botafogo
+A,12/10/87,Fluminense,0-1,Bahia
+A,13/10/87,Portuguesa,1-0,Treze
+A,14/10/87,Atlético Paranaense,2-0,Náutico
+A,14/10/87,Rio Branco-ES,0-0,Vitória
+A,15/10/87,Portuguesa,1-0,Bangu
+A,16/10/87,Goiás,2-0,Palmeiras
+A,17/10/87,Vasco,0-0,Santa Cruz
+A,17/10/87,Santos,0-1,Bahia
+A,18/10/87,Flamengo,0-0,Cruzeiro
+A,18/10/87,Coritiba,1-1,Botafogo
+A,18/10/87,Corinthians,1-0,Internacional
+A,18/10/87,Grêmio,1-0,São Paulo
+A,18/10/87,Atlético Mineiro,3-1,Fluminense
+A,18/10/87,Portuguesa,4-0,CSA
+A,18/10/87,Guarani,1-0,Ceará
+A,18/10/87,Vitória,0-0,Atlético Goianiense
+A,21/10/87,Rio Branco-ES,0-0,Atlético Goianiense
+B,21/10/87,Bangu,2-0,Ceará
+B,21/10/87,Vitória,0-0,CSA
+,21/10/87,Guarani,0-2,Atlético Paranaense
+A,23/10/87,Grêmio,0-0,Atlético Mineiro
+A,24/10/87,Atlético Goianiense,0-2,Criciúma
+A,24/10/87,Flamengo,1-0,Botafogo
+A,24/10/87,São Paulo,3-1,Santos
+A,24/10/87,Vasco,0-2,Fluminense
+A,24/10/87,Goiás,1-1,Coritiba
+A,24/10/87,Cruzeiro,3-0,Internacional
+A,25/10/87,Rio Branco-ES,0-0,Inter de Limeira
+A,25/10/87,Guarani,2-0,Portuguesa
+A,25/10/87,Joinville,1-2,Atlético Paranaense
+B,25/10/87,CSA,1-1,Náutico
+B,25/10/87,Sport,2-1,Ceará
+A,25/10/87,Corinthians,0-0,Palmeiras
+A,25/10/87,Bahia,0-0,Santa Cruz
+A,28/10/87,Atlético Paranaense,0-1,Portuguesa
+A,28/10/87,Inter de Limeira,1-0,Atlético Goianiense
+A,28/10/87,Criciúma,3-0,Rio Branco-ES
+A,28/10/87,Joinville,0-2,Guarani
+B,28/10/87,Bangu,2-0,Sport
+B,28/10/87,Ceará,0-2,Treze
+A,28/10/87,Botafogo,0-0,Atlético Mineiro
+A,28/10/87,Bahia,1-1,Corinthians
+A,28/10/87,Santa Cruz,1-2,Palmeiras
+A,28/10/87,Cruzeiro,3-0,Vasco
+A,28/10/87,Internacional,0-1,Fluminense
+A,28/10/87,São Paulo,2-0,Goiás
+A,29/10/87,Flamengo,1-1,Grêmio
+A,29/10/87,Santos,2-1,Coritiba
+A,31/10/87,Corinthians,2-1,Santa Cruz
+A,31/10/87,Coritiba,3-2,São Paulo
+A,31/10/87,Fluminense,1-1,Cruzeiro
+A,01/11/87,Joinville,0-0,Rio Branco-ES
+A,01/11/87,Guarani,2-0,Criciúma
+A,01/11/87,Portuguesa,1-0,Atlético Goianiense
+A,01/11/87,Inter de Limeira,1-1,Atlético Paranaense
+B,01/11/87,Treze,1-1,Vitória
+B,01/11/87,CSA,0-0,Bangu
+B,01/11/87,Náutico,0-1,Sport
+A,01/11/87,Palmeiras,0-1,Bahia
+A,01/11/87,Atlético Mineiro,1-0,Flamengo
+A,01/11/87,Vasco,1-0,Internacional
+A,01/11/87,Goiás,0-0,Santos
+A,02/11/87,Grêmio,0-2,Botafogo
+A,04/11/87,Atlético Paranaense,3-0,Atlético Goianiense
+A,04/11/87,Criciúma,2-0,Joinville
+B,04/11/87,Náutico,2-2,Vitória
+B,04/11/87,Treze,0-0,Bangu
+A,06/11/87,Santos,0-0,Vasco
+A,07/11/87,Flamengo,2-0,Palmeiras
+A,07/11/87,Grêmio,2-0,Bahia
+A,07/11/87,Atlético Mineiro,2-0,Santa Cruz
+A,07/11/87,Botafogo,1-0,Corinthians
+A,07/11/87,São Paulo,2-0,Fluminense
+A,07/11/87,Coritiba,0-3,Cruzeiro
+A,07/11/87,Internacional,0-0,Goiás
+A,07/11/87,Internacional,2-0,Santos
+A,07/11/87,Cruzeiro,0-0,São Paulo
+A,07/11/87,Vasco,3-2,Coritiba
+A,08/11/87,Inter de Limeira,0-0,Joinville
+A,08/11/87,Portuguesa,0-0,Criciúma
+A,08/11/87,Atlético Goianiense,1-1,Guarani
+A,08/11/87,Atlético Paranaense,1-1,Rio Branco-ES
+B,08/11/87,Sport,0-0,Vitória
+B,08/11/87,Ceará,1-0,Náutico
+B,08/11/87,Treze,2-1,CSA
+A,11/11/87,Rio Branco-ES,2-3,Guarani
+A,11/11/87,Atlético Goianiense,0-0,Joinville
+A,11/11/87,Portuguesa,1-0,Inter de Limeira
+B,11/11/87,CSA,0-1,Sport
+A,11/11/87,Palmeiras,2-1,Grêmio
+A,11/11/87,Santa Cruz,1-0,Botafogo
+A,11/11/87,Corinthians,1-2,Atlético Mineiro
+A,11/11/87,Bahia,0-2,Flamengo
+A,11/11/87,Fluminense,1-0,Goiás
+B,14/11/87,Vitória,1-0,Ceará
+A,14/11/87,Santa Cruz,2-1,Grêmio
+A,14/11/87,Palmeiras,1-0,Botafogo
+A,14/11/87,Fluminense,1-1,Santos
+A,15/11/87,Criciúma,0-0,Inter de Limeira
+A,15/11/87,Guarani,0-0,Atlético Paranaense
+A,15/11/87,Joinville,1-0,Portuguesa
+B,15/11/87,Sport,2-1,Treze
+B,15/11/87,Bangu,3-0,Náutico
+A,15/11/87,Corinthians,1-1,Flamengo
+A,15/11/87,Bahia,1-1,Atlético Mineiro
+A,15/11/87,Vasco,1-2,São Paulo
+A,15/11/87,Internacional,0-0,Coritiba
+A,15/11/87,Cruzeiro,1-0,Goiás
+B,18/11/87,Ceará,2-0,CSA
+B,18/11/87,Vitória,3-1,Bangu
+B,18/11/87,Náutico,2-1,Treze
+A,19/11/87,Grêmio,1-0,Corinthians
+A,21/11/87,Botafogo,2-2,Bahia
+A,21/11/87,São Paulo,3-0,Internacional
+A,21/11/87,Coritiba,2-1,Fluminense
+A,22/11/87,Flamengo,3-1,Santa Cruz
+A,22/11/87,Atlético Mineiro,1-0,Palmeiras
+A,22/11/87,Goiás,2-2,Vasco
+A,22/11/87,Santos,0-1,Cruzeiro
+,22/11/87,Bangu,1-1(4-3 Pen.),Vitória
+A,25/11/87,Guarani,0-0,Inter de Limeira
+A,25/11/87,Criciúma,1-1,Atlético Paranaense
+A,25/11/87,Portuguesa,0-1,Rio Branco-ES
+SF,25/11/87,Bangu,3-2,Sport
+SF,29/11/87,Atlético Paranaense,0-0,Guarani
+SF,29/11/87,Sport,3-1,Bangu
+SF,29/11/87,Flamengo,1-0,Atlético Mineiro
+SF,29/11/87,Internacional,0-0,Cruzeiro
+SF,02/12/87,Guarani,1-0(Pro.),Atlético Paranaense
+SF,02/12/87,Atlético Mineiro,2-3,Flamengo
+SF,02/12/87,Cruzeiro,0-1(Pro.),Internacional
+F,06/12/87,Guarani,2-0,Sport
+F,06/12/87,Internacional,1-1,Flamengo
+F,12/12/87,Flamengo,1-0,Internacional
+F,13/12/87,Sport,3-0,Guarani
+F,30/01/88,Guarani,1-1,Sport
+F,07/02/88,Sport,1-0,Guarani

@@ -1,0 +1,593 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+6,04/04/26,IAPE,2-2,Maracanã
+10,04/04/26,Juazeirense,3-1,CSE
+3,04/04/26,Aparecidense,0-2,Gama
+6,04/04/26,Iguatu,0-0,Sampaio Corrêa
+7,04/04/26,Fluminense-PI,1-1,Ferroviário
+7,04/04/26,Tirol,1-2,Piauí
+8,04/04/26,Maguary-PE,3-0,ABC
+8,04/04/26,América-RN,2-0,Sousa
+11,04/04/26,ABECAT Ouvidorense,0-1,Uberlândia
+12,04/04/26,Vitória-ES,0-1,Tombense
+12,04/04/26,Porto-BA,3-2,Rio Branco-ES
+13,04/04/26,EC Água Santa,4-0,America-RJ
+13,04/04/26,Pouso Alegre,2-0,Madureira
+15,04/04/26,Joinville,2-0,São Luiz
+2,04/04/26,Guaporé,1-0,Independência-AC
+4,04/04/26,União Rondonópolis,0-1,Capital CF
+5,04/04/26,Águia,1-1,Trem
+9,04/04/26,Treze,3-0,Retrô FC
+10,04/04/26,ASA,0-0,Jacuipense
+14,04/04/26,Maricá,2-1,Velo Clube
+16,04/04/26,São José-RS,0-3,Blumenau
+1,04/04/26,Manaus FC,1-0,GAS
+1,04/04/26,Monte Roraima,0-1,Nacional-AM
+14,04/04/26,XV de Piracicaba,4-1,Nova Iguaçu
+3,04/04/26,Inhumas,1-2,Luverdense
+13,04/04/26,Portuguesa-RJ,1-1,Portuguesa
+14,04/04/26,Sampaio Corrêa-RJ,1-0,Noroeste
+2,04/04/26,Galvez EC,1-2,Araguaína
+8,05/04/26,Laguna,1-1,Central
+16,05/04/26,GE Brasil,2-1,Azuriz Futebol
+3,05/04/26,Brasiliense,1-1,Primavera AC
+4,05/04/26,Ceilândia,0-0,Mixto
+5,05/04/26,Tuna Luso,0-0,Imperatriz
+7,05/04/26,Atlético Cearense,0-0,Altos
+9,05/04/26,Decisão,1-1,Lagarto-SE
+10,05/04/26,CSA,3-0,Atlético-BA
+15,05/04/26,FC Cascavel,1-0,Santa Catarina
+15,05/04/26,Cianorte,3-1,Guarany de Bagé
+16,05/04/26,Marcílio Dias,0-0,São Joseense
+9,05/04/26,Serra Branca-PB,1-1,Sergipe
+4,05/04/26,CEOV Operário,2-2,Goiatuba EC
+6,05/04/26,Moto Club,1-1,Parnahyba
+11,05/04/26,Operário-MS,1-1,Betim Futebol
+1,05/04/26,São Raimundo-RR,0-0,Manauara EC
+2,05/04/26,SC Humaitá,1-5,Gazin Porto Velho EC
+11,05/04/26,Ivinhema,1-0,CRAC
+12,06/04/26,Democrata-GV,1-0,Real Noroeste
+13,11/04/26,America-RJ,0-4,Portuguesa-RJ
+5,11/04/26,Tocantinópolis,2-2,Águia
+9,11/04/26,Sergipe,2-1,Decisão
+9,11/04/26,Lagarto-SE,5-4,Treze
+10,11/04/26,Jacuipense,1-3,CSA
+11,11/04/26,Betim Futebol,1-0,ABECAT Ouvidorense
+13,11/04/26,Madureira,3-1,EC Água Santa
+15,11/04/26,São Luiz,0-0,FC Cascavel
+6,11/04/26,Sampaio Corrêa,0-0,IAPE
+7,11/04/26,Piauí,1-1,Atlético Cearense
+7,11/04/26,Ferroviário,3-2,Tirol
+11,11/04/26,Uberlândia,1-2,Ivinhema
+12,11/04/26,Real Noroeste,1-3,Vitória-ES
+14,11/04/26,Noroeste,2-2,XV de Piracicaba
+1,11/04/26,Manauara EC,2-0,Monte Roraima
+3,11/04/26,Luverdense,0-0,Brasiliense
+4,11/04/26,Mixto,2-2,União Rondonópolis
+12,11/04/26,Tombense,3-0,Porto-BA
+15,11/04/26,Santa Catarina,1-0,Cianorte
+16,11/04/26,Azuriz Futebol,0-0,Marcílio Dias
+4,11/04/26,Goiatuba EC,1-0,Ceilândia
+6,11/04/26,Maracanã,2-0,Moto Club
+13,11/04/26,Portuguesa,3-0,Pouso Alegre
+14,11/04/26,Velo Clube,2-0,Sampaio Corrêa-RJ
+16,11/04/26,São Joseense,1-0,São José-RS
+3,11/04/26,Gama,2-0,Inhumas
+5,11/04/26,Imperatriz,3-1,Oratório
+15,12/04/26,Guarany de Bagé,0-0,Joinville
+8,12/04/26,Central,0-1,América-RN
+16,12/04/26,Blumenau,3-2,GE Brasil
+2,12/04/26,Araguaína,1-1,Guaporé
+4,12/04/26,Capital CF,1-0,CEOV Operário
+5,12/04/26,Trem,3-3,Tuna Luso
+6,12/04/26,Parnahyba,0-2,Iguatu
+7,12/04/26,Altos,0-3,Fluminense-PI
+8,12/04/26,ABC,4-0,Laguna
+8,12/04/26,Sousa,1-0,Maguary-PE
+10,12/04/26,CSE,1-2,ASA
+10,12/04/26,Atlético-BA,1-2,Juazeirense
+14,12/04/26,Nova Iguaçu,0-1,Maricá
+1,12/04/26,Nacional-AM,2-0,Manaus FC
+2,12/04/26,Gazin Porto Velho EC,4-0,Galvez EC
+3,12/04/26,Primavera AC,1-3,Aparecidense
+12,12/04/26,Rio Branco-ES,1-1,Democrata-GV
+9,12/04/26,Retrô FC,2-2,Serra Branca-PB
+1,12/04/26,GAS,0-2,São Raimundo-RR
+2,12/04/26,Independência-AC,3-0,SC Humaitá
+11,12/04/26,CRAC,0-0,Operário-MS
+9,18/04/26,Lagarto-SE,1-2,Retrô FC
+13,18/04/26,America-RJ,1-1,Portuguesa
+16,18/04/26,Blumenau,1-0,Azuriz Futebol
+3,18/04/26,Aparecidense,0-1,Luverdense
+3,18/04/26,Inhumas,0-1,Brasiliense
+4,18/04/26,Ceilândia,1-0,União Rondonópolis
+6,18/04/26,Iguatu,3-2,IAPE
+7,18/04/26,Altos,1-0,Ferroviário
+7,18/04/26,Tirol,0-0,Atlético Cearense
+12,18/04/26,Porto-BA,1-0,Democrata-GV
+12,18/04/26,Vitória-ES,1-2,Rio Branco-ES
+13,18/04/26,Pouso Alegre,0-2,EC Água Santa
+15,18/04/26,São Luiz,4-4,Santa Catarina
+9,18/04/26,Serra Branca-PB,3-0,Decisão
+4,18/04/26,CEOV Operário,0-1,Mixto
+11,18/04/26,Uberlândia,2-1,CRAC
+14,18/04/26,Maricá,2-2,Sampaio Corrêa-RJ
+14,18/04/26,Noroeste,1-1,Nova Iguaçu
+14,18/04/26,XV de Piracicaba,1-1,Velo Clube
+6,18/04/26,Maracanã,1-0,Parnahyba
+13,18/04/26,Portuguesa-RJ,0-0,Madureira
+16,18/04/26,Marcílio Dias,2-1,São José-RS
+2,18/04/26,Guaporé,3-1,SC Humaitá
+2,18/04/26,Galvez EC,2-1,Independência-AC
+8,19/04/26,Maguary-PE,2-0,Laguna
+10,19/04/26,Juazeirense,3-1,Jacuipense
+4,19/04/26,Capital CF,0-1,Goiatuba EC
+5,19/04/26,Tocantinópolis,0-1,Trem
+5,19/04/26,Tuna Luso,2-0,Oratório
+7,19/04/26,Fluminense-PI,3-2,Piauí
+8,19/04/26,Central,2-1,Sousa
+10,19/04/26,Atlético-BA,1-2,CSE
+12,19/04/26,Real Noroeste,0-0,Tombense
+15,19/04/26,Cianorte,1-2,Joinville
+15,19/04/26,FC Cascavel,2-0,Guarany de Bagé
+16,19/04/26,GE Brasil,2-0,São Joseense
+1,19/04/26,Nacional-AM,3-2,GAS
+2,19/04/26,Gazin Porto Velho EC,1-2,Araguaína
+3,19/04/26,Primavera AC,0-1,Gama
+5,19/04/26,Águia,1-1,Imperatriz
+9,19/04/26,Treze,3-1,Sergipe
+10,19/04/26,ASA,2-1,CSA
+11,19/04/26,Operário-MS,1-1,ABECAT Ouvidorense
+1,19/04/26,São Raimundo-RR,1-1,Monte Roraima
+1,19/04/26,Manaus FC,1-1,Manauara EC
+11,19/04/26,Ivinhema,1-3,Betim Futebol
+8,22/04/26,América-RN,1-2,ABC
+5,22/04/26,Oratório,3-0,Tocantinópolis
+3,25/04/26,Aparecidense,3-1,Inhumas
+4,25/04/26,Ceilândia,1-2,Capital CF
+6,25/04/26,IAPE,0-2,Moto Club
+6,25/04/26,Iguatu,1-0,Maracanã
+7,25/04/26,Fluminense-PI,0-0,Tirol
+8,25/04/26,Sousa,0-1,ABC
+10,25/04/26,CSA,1-1,CSE
+11,25/04/26,ABECAT Ouvidorense,0-2,CRAC
+11,25/04/26,Betim Futebol,0-2,Uberlândia
+12,25/04/26,Vitória-ES,3-0,Porto-BA
+13,25/04/26,EC Água Santa,0-1,Portuguesa
+13,25/04/26,Madureira,2-3,America-RJ
+15,25/04/26,Joinville,2-1,Santa Catarina
+1,25/04/26,Manauara EC,4-2,Nacional-AM
+5,25/04/26,Águia,2-0,Tuna Luso
+9,25/04/26,Treze,1-1,Serra Branca-PB
+9,25/04/26,Sergipe,3-1,Lagarto-SE
+14,25/04/26,Velo Clube,1-0,Noroeste
+16,25/04/26,Marcílio Dias,0-1,Blumenau
+1,25/04/26,Manaus FC,0-1,São Raimundo-RR
+3,25/04/26,Luverdense,1-1,Primavera AC
+14,25/04/26,XV de Piracicaba,1-0,Maricá
+16,25/04/26,São José-RS,0-0,GE Brasil
+4,25/04/26,Goiatuba EC,1-0,Mixto
+12,25/04/26,Democrata-GV,1-0,Tombense
+14,25/04/26,Sampaio Corrêa-RJ,1-0,Nova Iguaçu
+5,25/04/26,Imperatriz,1-1,Tocantinópolis
+2,25/04/26,Guaporé,1-0,Gazin Porto Velho EC
+8,26/04/26,Maguary-PE,0-2,Central
+15,26/04/26,Guarany de Bagé,0-1,São Luiz
+5,26/04/26,Oratório,0-2,Trem
+10,26/04/26,Juazeirense,1-0,ASA
+2,26/04/26,Araguaína,1-1,Independência-AC
+3,26/04/26,Brasiliense,1-1,Gama
+6,26/04/26,Parnahyba,1-0,Sampaio Corrêa
+7,26/04/26,Atlético Cearense,0-2,Ferroviário
+8,26/04/26,Laguna,0-1,América-RN
+9,26/04/26,Decisão,3-2,Retrô FC
+10,26/04/26,Jacuipense,1-0,Atlético-BA
+12,26/04/26,Rio Branco-ES,2-0,Real Noroeste
+13,26/04/26,Portuguesa-RJ,2-0,Pouso Alegre
+15,26/04/26,FC Cascavel,0-1,Cianorte
+16,26/04/26,Azuriz Futebol,0-1,São Joseense
+4,26/04/26,União Rondonópolis,2-1,CEOV Operário
+7,26/04/26,Piauí,3-1,Altos
+1,26/04/26,Monte Roraima,0-0,GAS
+2,26/04/26,SC Humaitá,0-1,Galvez EC
+11,26/04/26,Ivinhema,2-0,Operário-MS
+13,02/05/26,America-RJ,0-0,Pouso Alegre
+15,02/05/26,Santa Catarina,3-0,Guarany de Bagé
+7,02/05/26,Altos,2-1,Tirol
+7,02/05/26,Atlético Cearense,1-1,Fluminense-PI
+11,02/05/26,ABECAT Ouvidorense,1-1,Ivinhema
+13,02/05/26,EC Água Santa,1-0,Portuguesa-RJ
+15,02/05/26,Joinville,1-1,FC Cascavel
+6,02/05/26,Moto Club,0-0,Iguatu
+11,02/05/26,Uberlândia,2-1,Operário-MS
+12,02/05/26,Real Noroeste,1-2,Porto-BA
+16,02/05/26,São Joseense,1-0,Blumenau
+8,02/05/26,ABC,1-1,Central
+4,02/05/26,Mixto,1-1,Capital CF
+5,02/05/26,Tocantinópolis,1-1,Tuna Luso
+9,02/05/26,Lagarto-SE,1-2,Serra Branca-PB
+14,02/05/26,Noroeste,1-0,Maricá
+16,02/05/26,GE Brasil,0-1,Marcílio Dias
+4,02/05/26,Goiatuba EC,5-1,União Rondonópolis
+10,02/05/26,CSA,2-0,Juazeirense
+2,02/05/26,Independência-AC,1-1,Gazin Porto Velho EC
+13,02/05/26,Portuguesa,2-1,Madureira
+14,02/05/26,Sampaio Corrêa-RJ,1-1,XV de Piracicaba
+3,02/05/26,Gama,4-0,Luverdense
+5,03/05/26,Oratório,1-2,Águia
+16,03/05/26,Azuriz Futebol,1-1,São José-RS
+2,03/05/26,Araguaína,6-0,SC Humaitá
+3,03/05/26,Brasiliense,1-1,Aparecidense
+6,03/05/26,Parnahyba,3-1,IAPE
+8,03/05/26,América-RN,0-0,Maguary-PE
+8,03/05/26,Sousa,1-0,Laguna
+10,03/05/26,Atlético-BA,2-1,ASA
+10,03/05/26,CSE,3-2,Jacuipense
+11,03/05/26,CRAC,1-0,Betim Futebol
+14,03/05/26,Nova Iguaçu,0-0,Velo Clube
+15,03/05/26,São Luiz,0-1,Cianorte
+1,03/05/26,Nacional-AM,0-0,São Raimundo-RR
+3,03/05/26,Primavera AC,2-0,Inhumas
+4,03/05/26,CEOV Operário,0-1,Ceilândia
+6,03/05/26,Sampaio Corrêa,0-0,Maracanã
+7,03/05/26,Ferroviário,2-1,Piauí
+1,03/05/26,Monte Roraima,2-2,Manaus FC
+2,03/05/26,Galvez EC,3-3,Guaporé
+12,03/05/26,Tombense,0-0,Rio Branco-ES
+9,04/05/26,Retrô FC,1-3,Sergipe
+1,04/05/26,GAS,1-2,Manauara EC
+5,04/05/26,Trem,2-1,Imperatriz
+12,04/05/26,Democrata-GV,2-0,Vitória-ES
+6,06/05/26,Moto Club,1-0,Sampaio Corrêa
+16,09/05/26,Blumenau,0-0,São Joseense
+6,09/05/26,IAPE,1-2,Parnahyba
+6,09/05/26,Maracanã,1-1,Sampaio Corrêa
+3,09/05/26,Aparecidense,2-1,Brasiliense
+4,09/05/26,Capital CF,1-0,Mixto
+4,09/05/26,Ceilândia,0-1,CEOV Operário
+7,09/05/26,Tirol,1-0,Altos
+11,09/05/26,Betim Futebol,0-0,CRAC
+12,09/05/26,Porto-BA,1-2,Real Noroeste
+13,09/05/26,Pouso Alegre,3-0,America-RJ
+13,09/05/26,Madureira,1-0,Portuguesa
+9,09/05/26,Serra Branca-PB,0-0,Lagarto-SE
+2,09/05/26,Gazin Porto Velho EC,2-1,Independência-AC
+4,09/05/26,União Rondonópolis,0-0,Goiatuba EC
+9,09/05/26,Sergipe,1-0,Retrô FC
+11,09/05/26,Operário-MS,1-2,Uberlândia
+14,09/05/26,Maricá,0-3,Noroeste
+1,09/05/26,Manaus FC,0-2,Monte Roraima
+3,09/05/26,Luverdense,1-2,Gama
+14,09/05/26,XV de Piracicaba,1-0,Sampaio Corrêa-RJ
+16,09/05/26,Marcílio Dias,4-1,GE Brasil
+3,09/05/26,Inhumas,0-2,Primavera AC
+14,09/05/26,Velo Clube,1-1,Nova Iguaçu
+16,09/05/26,São José-RS,1-0,Azuriz Futebol
+2,09/05/26,Guaporé,1-0,Galvez EC
+8,10/05/26,Laguna,0-1,Sousa
+8,10/05/26,Maguary-PE,0-0,América-RN
+15,10/05/26,Guarany de Bagé,1-0,Santa Catarina
+10,10/05/26,Juazeirense,0-1,CSA
+5,10/05/26,Tuna Luso,2-3,Tocantinópolis
+6,10/05/26,Iguatu,3-1,Moto Club
+7,10/05/26,Fluminense-PI,1-2,Atlético Cearense
+8,10/05/26,Central,0-1,ABC
+10,10/05/26,Jacuipense,2-1,CSE
+12,10/05/26,Rio Branco-ES,2-2,Tombense
+12,10/05/26,Vitória-ES,2-1,Democrata-GV
+13,10/05/26,Portuguesa-RJ,2-2,EC Água Santa
+15,10/05/26,Cianorte,0-1,São Luiz
+15,10/05/26,FC Cascavel,1-0,Joinville
+5,10/05/26,Imperatriz,4-0,Trem
+5,10/05/26,Águia,5-1,Oratório
+9,10/05/26,Treze,2-0,Decisão
+10,10/05/26,ASA,3-0,Atlético-BA
+1,10/05/26,São Raimundo-RR,0-2,Nacional-AM
+1,10/05/26,Manauara EC,0-0,GAS
+11,10/05/26,Ivinhema,0-0,ABECAT Ouvidorense
+2,10/05/26,SC Humaitá,0-7,Araguaína
+7,11/05/26,Piauí,1-1,Ferroviário
+13,16/05/26,America-RJ,3-1,Madureira
+15,16/05/26,Santa Catarina,1-0,Joinville
+16,16/05/26,Blumenau,0-1,Marcílio Dias
+6,16/05/26,Maracanã,1-1,Iguatu
+5,16/05/26,Tocantinópolis,2-0,Imperatriz
+7,16/05/26,Altos,0-1,Piauí
+7,16/05/26,Tirol,1-1,Fluminense-PI
+8,16/05/26,ABC,2-0,Sousa
+12,16/05/26,Porto-BA,0-0,Vitória-ES
+13,16/05/26,Portuguesa,0-0,EC Água Santa
+13,16/05/26,Pouso Alegre,0-2,Portuguesa-RJ
+15,16/05/26,São Luiz,2-0,Guarany de Bagé
+9,16/05/26,Serra Branca-PB,1-2,Treze
+1,16/05/26,Nacional-AM,0-1,Manauara EC
+4,16/05/26,CEOV Operário,1-2,União Rondonópolis
+6,16/05/26,Moto Club,2-2,IAPE
+10,16/05/26,ASA,1-0,Juazeirense
+11,16/05/26,Operário-MS,2-0,Ivinhema
+12,16/05/26,Real Noroeste,0-0,Rio Branco-ES
+14,16/05/26,Nova Iguaçu,2-1,Sampaio Corrêa-RJ
+14,16/05/26,Noroeste,3-0,Velo Clube
+14,16/05/26,Maricá,1-2,XV de Piracicaba
+1,16/05/26,GAS,2-3,Monte Roraima
+4,16/05/26,Mixto,2-0,Goiatuba EC
+12,16/05/26,Tombense,3-1,Democrata-GV
+4,16/05/26,Capital CF,2-1,Ceilândia
+3,16/05/26,Gama,3-2,Brasiliense
+2,16/05/26,Galvez EC,4-2,SC Humaitá
+9,16/05/26,Lagarto-SE,1-1,Sergipe
+8,17/05/26,Central,0-0,Maguary-PE
+2,17/05/26,Gazin Porto Velho EC,0-0,Guaporé
+5,17/05/26,Trem,4-2,Oratório
+5,17/05/26,Tuna Luso,2-1,Águia
+8,17/05/26,América-RN,5-0,Laguna
+10,17/05/26,CSE,1-5,CSA
+10,17/05/26,Atlético-BA,0-1,Jacuipense
+11,17/05/26,CRAC,2-1,ABECAT Ouvidorense
+15,17/05/26,Cianorte,1-0,FC Cascavel
+16,17/05/26,GE Brasil,0-0,São José-RS
+3,17/05/26,Primavera AC,1-0,Luverdense
+3,17/05/26,Inhumas,1-1,Aparecidense
+6,17/05/26,Sampaio Corrêa,4-1,Parnahyba
+7,17/05/26,Ferroviário,2-0,Atlético Cearense
+9,17/05/26,Retrô FC,2-1,Decisão
+1,17/05/26,São Raimundo-RR,0-1,Manaus FC
+2,17/05/26,Independência-AC,1-0,Araguaína
+11,18/05/26,Uberlândia,1-1,Betim Futebol
+16,19/05/26,São Joseense,0-1,Azuriz Futebol
+8,23/05/26,Sousa,0-0,Central
+15,23/05/26,Santa Catarina,1-0,São Luiz
+6,23/05/26,IAPE,1-1,Iguatu
+5,23/05/26,Trem,4-1,Tocantinópolis
+10,23/05/26,CSA,1-1,ASA
+11,23/05/26,ABECAT Ouvidorense,2-0,Operário-MS
+11,23/05/26,Betim Futebol,3-0,Ivinhema
+13,23/05/26,Portuguesa,4-1,America-RJ
+13,23/05/26,EC Água Santa,2-0,Pouso Alegre
+13,23/05/26,Madureira,1-1,Portuguesa-RJ
+15,23/05/26,Joinville,0-0,Cianorte
+4,23/05/26,União Rondonópolis,2-3,Ceilândia
+7,23/05/26,Ferroviário,3-1,Altos
+7,23/05/26,Piauí,0-1,Fluminense-PI
+9,23/05/26,Sergipe,0-1,Treze
+14,23/05/26,Nova Iguaçu,1-0,Noroeste
+1,23/05/26,GAS,0-1,Nacional-AM
+4,23/05/26,Mixto,1-1,CEOV Operário
+12,23/05/26,Tombense,1-1,Real Noroeste
+4,23/05/26,Goiatuba EC,1-1,Capital CF
+14,23/05/26,Sampaio Corrêa-RJ,1-1,Maricá
+14,23/05/26,Velo Clube,1-1,XV de Piracicaba
+3,23/05/26,Gama,4-0,Primavera AC
+5,23/05/26,Imperatriz,0-3,Águia
+2,23/05/26,SC Humaitá,0-4,Guaporé
+15,24/05/26,Guarany de Bagé,0-4,FC Cascavel
+5,24/05/26,Oratório,3-3,Tuna Luso
+16,24/05/26,Azuriz Futebol,2-4,Blumenau
+2,24/05/26,Araguaína,1-1,Gazin Porto Velho EC
+3,24/05/26,Brasiliense,1-0,Inhumas
+6,24/05/26,Parnahyba,0-1,Maracanã
+8,24/05/26,ABC,1-1,América-RN
+9,24/05/26,Decisão,0-1,Serra Branca-PB
+10,24/05/26,CSE,0-0,Atlético-BA
+10,24/05/26,Jacuipense,2-2,Juazeirense
+11,24/05/26,CRAC,0-0,Uberlândia
+12,24/05/26,Rio Branco-ES,0-2,Vitória-ES
+16,24/05/26,São Joseense,0-0,GE Brasil
+1,24/05/26,Manauara EC,1-1,Manaus FC
+6,24/05/26,Sampaio Corrêa,4-0,Moto Club
+9,24/05/26,Retrô FC,1-1,Lagarto-SE
+1,24/05/26,Monte Roraima,2-2,São Raimundo-RR
+2,24/05/26,Independência-AC,3-1,Galvez EC
+3,24/05/26,Luverdense,1-0,Aparecidense
+16,24/05/26,São José-RS,1-1,Marcílio Dias
+8,25/05/26,Laguna,1-1,Maguary-PE
+12,25/05/26,Democrata-GV,3-1,Porto-BA
+7,26/05/26,Atlético Cearense,0-3,Tirol
+8,29/05/26,América-RN,1-0,Central
+3,30/05/26,Aparecidense,1-1,Primavera AC
+6,30/05/26,Iguatu,2-2,Parnahyba
+11,30/05/26,ABECAT Ouvidorense,2-1,Betim Futebol
+12,30/05/26,Porto-BA,1-3,Tombense
+12,30/05/26,Vitória-ES,1-1,Real Noroeste
+13,30/05/26,EC Água Santa,4-1,Madureira
+13,30/05/26,Pouso Alegre,1-2,Portuguesa
+15,30/05/26,Joinville,2-0,Guarany de Bagé
+4,30/05/26,CEOV Operário,1-5,Capital CF
+4,30/05/26,União Rondonópolis,2-2,Mixto
+4,30/05/26,Ceilândia,1-1,Goiatuba EC
+5,30/05/26,Águia,3-1,Tocantinópolis
+6,30/05/26,Moto Club,1-2,Maracanã
+9,30/05/26,Treze,1-2,Lagarto-SE
+10,30/05/26,ASA,0-0,CSE
+14,30/05/26,Maricá,1-0,Nova Iguaçu
+14,30/05/26,XV de Piracicaba,1-1,Noroeste
+13,30/05/26,Portuguesa-RJ,2-2,America-RJ
+14,30/05/26,Sampaio Corrêa-RJ,1-0,Velo Clube
+1,30/05/26,São Raimundo-RR,4-0,GAS
+2,30/05/26,Guaporé,3-2,Araguaína
+2,31/05/26,Galvez EC,2-6,Gazin Porto Velho EC
+5,31/05/26,Oratório,0-1,Imperatriz
+6,31/05/26,IAPE,1-3,Sampaio Corrêa
+10,31/05/26,Juazeirense,0-0,Atlético-BA
+3,31/05/26,Brasiliense,1-1,Luverdense
+5,31/05/26,Tuna Luso,1-0,Trem
+7,31/05/26,Fluminense-PI,1-1,Altos
+8,31/05/26,Laguna,0-2,ABC
+9,31/05/26,Decisão,3-2,Sergipe
+10,31/05/26,CSA,1-1,Jacuipense
+15,31/05/26,Cianorte,1-3,Santa Catarina
+15,31/05/26,FC Cascavel,0-0,São Luiz
+16,31/05/26,GE Brasil,1-2,Blumenau
+9,31/05/26,Serra Branca-PB,0-0,Retrô FC
+3,31/05/26,Inhumas,0-2,Gama
+11,31/05/26,Operário-MS,2-0,CRAC
+11,31/05/26,Ivinhema,1-1,Uberlândia
+12,31/05/26,Democrata-GV,3-1,Rio Branco-ES
+1,31/05/26,Monte Roraima,0-1,Manauara EC
+1,31/05/26,Manaus FC,1-1,Nacional-AM
+2,31/05/26,SC Humaitá,0-4,Independência-AC
+16,31/05/26,São José-RS,1-0,São Joseense
+7,01/06/26,Atlético Cearense,0-1,Piauí
+7,01/06/26,Tirol,0-0,Ferroviário
+8,01/06/26,Maguary-PE,2-0,Sousa
+16,01/06/26,Marcílio Dias,0-1,Azuriz Futebol
+13,06/06/26,Portuguesa,2-0,Portuguesa-RJ
+13,06/06/26,America-RJ,1-0,EC Água Santa
+13,06/06/26,Madureira,1-0,Pouso Alegre
+9,06/06/26,Decisão,1-1,Treze
+5,06/06/26,Trem,2-0,Águia
+5,06/06/26,Tocantinópolis,7-1,Oratório
+5,06/06/26,Imperatriz,4-0,Tuna Luso
+16,07/06/26,São Joseense,0-0,Marcílio Dias
+16,07/06/26,Blumenau,0-1,São José-RS
+16,07/06/26,Azuriz Futebol,1-1,GE Brasil
+6,07/06/26,Sampaio Corrêa,0-1,Iguatu
+6,07/06/26,Parnahyba,1-0,Moto Club
+6,07/06/26,Maracanã,2-0,IAPE
+15,07/06/26,Santa Catarina,1-0,FC Cascavel
+15,07/06/26,São Luiz,3-1,Joinville
+15,07/06/26,Guarany de Bagé,0-1,Cianorte
+3,07/06/26,Gama,2-2,Aparecidense
+3,07/06/26,Primavera AC,1-2,Brasiliense
+3,07/06/26,Luverdense,4-0,Inhumas
+4,07/06/26,Mixto,1-1,Ceilândia
+4,07/06/26,Goiatuba EC,1-0,CEOV Operário
+4,07/06/26,Capital CF,2-0,União Rondonópolis
+14,07/06/26,Nova Iguaçu,1-0,XV de Piracicaba
+14,07/06/26,Noroeste,1-0,Sampaio Corrêa-RJ
+14,07/06/26,Velo Clube,3-1,Maricá
+7,13/06/26,Ferroviário,1-0,Fluminense-PI
+7,13/06/26,Altos,3-2,Atlético Cearense
+7,13/06/26,Piauí,2-1,Tirol
+8,14/06/26,ABC,1-0,Maguary-PE
+8,14/06/26,Sousa,0-2,América-RN
+8,14/06/26,Central,2-1,Laguna
+1,14/06/26,GAS,3-1,Manaus FC
+1,14/06/26,Nacional-AM,3-1,Monte Roraima
+1,14/06/26,Manauara EC,1-0,São Raimundo-RR
+9,14/06/26,Retrô FC,3-0,Treze
+9,14/06/26,Lagarto-SE,1-0,Decisão
+9,14/06/26,Sergipe,1-1,Serra Branca-PB
+10,14/06/26,CSE,0-1,Juazeirense
+10,14/06/26,Atlético-BA,1-7,CSA
+10,14/06/26,Jacuipense,1-1,ASA
+11,14/06/26,CRAC,1-1,Ivinhema
+11,14/06/26,Uberlândia,0-1,ABECAT Ouvidorense
+11,14/06/26,Betim Futebol,2-1,Operário-MS
+12,14/06/26,Tombense,0-0,Vitória-ES
+12,14/06/26,Real Noroeste,0-0,Democrata-GV
+12,14/06/26,Rio Branco-ES,4-0,Porto-BA
+2,14/06/26,Independência-AC,2-2,Guaporé
+2,14/06/26,Araguaína,9-0,Galvez EC
+2,14/06/26,Gazin Porto Velho EC,13-0,SC Humaitá
+2F,20/06/26,Vitória-ES,1-0,Betim Futebol
+2F,20/06/26,America-RJ,1-1,XV de Piracicaba
+2F,20/06/26,São Joseense,0-1,Cianorte
+2F,20/06/26,São Luiz,1-1,Blumenau
+2F,20/06/26,Imperatriz,1-1,Maracanã
+2F,20/06/26,Fluminense-PI,0-3,América-RN
+2F,20/06/26,Ceilândia,1-2,Luverdense
+2F,20/06/26,Aparecidense,1-1,Capital CF
+2F,20/06/26,Sampaio Corrêa-RJ,1-1,Portuguesa
+2F,20/06/26,Mixto,1-2,Gama
+2F,20/06/26,Monte Roraima,3-2,Guaporé
+2F,20/06/26,Velo Clube,0-0,EC Água Santa
+2F,21/06/26,Central,1-1,Ferroviário
+2F,21/06/26,Parnahyba,2-1,Águia
+2F,21/06/26,Brasiliense,0-0,Goiatuba EC
+2F,21/06/26,Altos,0-1,ABC
+2F,21/06/26,Tuna Luso,1-2,Iguatu
+2F,21/06/26,Maguary-PE,2-0,Piauí
+2F,21/06/26,Jacuipense,1-3,Treze
+2F,21/06/26,CRAC,1-0,Tombense
+2F,21/06/26,São José-RS,1-1,Santa Catarina
+2F,21/06/26,Portuguesa-RJ,1-1,Noroeste
+2F,21/06/26,FC Cascavel,2-2,Marcílio Dias
+2F,21/06/26,Lagarto-SE,1-1,CSA
+2F,21/06/26,Serra Branca-PB,2-0,Juazeirense
+2F,21/06/26,Sampaio Corrêa,0-2,Trem
+2F,21/06/26,Rio Branco-ES,0-2,Uberlândia
+2F,21/06/26,Ivinhema,3-1,Democrata-GV
+2F,21/06/26,ASA,1-1,Sergipe
+2F,21/06/26,Independência-AC,0-2,Manauara EC
+2F,21/06/26,São Raimundo-RR,1-1,Gazin Porto Velho EC
+2F,21/06/26,Araguaína,0-1,Nacional-AM
+2F,27/06/26,Blumenau,1-1(1-3 Pen.),São Luiz
+2F,27/06/26,Santa Catarina,1-1(2-4 Pen.),São José-RS
+2F,27/06/26,Betim Futebol,2-0,Vitória-ES
+2F,27/06/26,Maracanã,0-0(6-7 Pen.),Imperatriz
+2F,27/06/26,Trem,1-2,Sampaio Corrêa
+2F,27/06/26,Iguatu,1-1,Tuna Luso
+2F,27/06/26,Piauí,1-0,Maguary-PE
+2F,27/06/26,Portuguesa,1-0,Sampaio Corrêa-RJ
+2F,27/06/26,EC Água Santa,1-1(1-4 Pen.),Velo Clube
+2F,27/06/26,Águia,2-0,Parnahyba
+2F,27/06/26,Capital CF,4-0,Aparecidense
+2F,27/06/26,Uberlândia,2-2,Rio Branco-ES
+2F,27/06/26,CSA,2-0,Lagarto-SE
+2F,27/06/26,Sergipe,0-1,ASA
+2F,27/06/26,América-RN,1-0,Fluminense-PI
+2F,27/06/26,Tombense,0-0,CRAC
+2F,27/06/26,XV de Piracicaba,2-0,America-RJ
+2F,27/06/26,Goiatuba EC,1-0,Brasiliense
+2F,27/06/26,Gama,1-0,Mixto
+2F,28/06/26,Juazeirense,0-1,Serra Branca-PB
+2F,28/06/26,ABC,1-1,Altos
+2F,28/06/26,Noroeste,1-3,Portuguesa-RJ
+2F,28/06/26,Marcílio Dias,2-1,FC Cascavel
+2F,28/06/26,Cianorte,0-1(5-4 Pen.),São Joseense
+2F,28/06/26,Manauara EC,1-1,Independência-AC
+2F,28/06/26,Ferroviário,2-0,Central
+2F,28/06/26,Gazin Porto Velho EC,1-1(7-6 Pen.),São Raimundo-RR
+2F,28/06/26,Nacional-AM,0-0,Araguaína
+2F,28/06/26,Treze,0-0,Jacuipense
+2F,28/06/26,Guaporé,2-0,Monte Roraima
+2F,28/06/26,Luverdense,1-1,Ceilândia
+2F,29/06/26,Democrata-GV,1-1,Ivinhema
+3F,04/07/26,Imperatriz,1-1,Ferroviário
+3F,04/07/26,Gazin Porto Velho EC,2-0,Gama
+3F,04/07/26,Trem,1-4,América-RN
+3F,04/07/26,Nacional-AM,1-0,Capital CF
+3F,04/07/26,Maguary-PE,2-3,Iguatu
+3F,04/07/26,CRAC,2-1,Treze
+3F,04/07/26,São José-RS,1-0,Portuguesa-RJ
+3F,04/07/26,Cianorte,4-0,XV de Piracicaba
+3F,04/07/26,Serra Branca-PB,0-1,Uberlândia
+3F,04/07/26,Águia,2-1,ABC
+3F,04/07/26,Betim Futebol,1-0,CSA
+3F,04/07/26,Luverdense,1-0,Guaporé
+3F,04/07/26,Marcílio Dias,1-1,Portuguesa
+3F,04/07/26,Goiatuba EC,0-1,Manauara EC
+3F,04/07/26,Velo Clube,2-1,São Luiz
+3F,06/07/26,Ivinhema,1-2,ASA
+3F,11/07/26,Portuguesa,2-0,Marcílio Dias
+3F,11/07/26,XV de Piracicaba,0-0,Cianorte
+3F,12/07/26,São Luiz,2-1(5-3 Pen.),Velo Clube
+3F,12/07/26,Manauara EC,1-2(3-4 Pen.),Goiatuba EC
+3F,12/07/26,Gama,2-0(5-4 Pen.),Gazin Porto Velho EC
+3F,12/07/26,ABC,3-0,Águia
+3F,12/07/26,Iguatu,2-1,Maguary-PE
+3F,12/07/26,Portuguesa-RJ,0-0,São José-RS
+3F,12/07/26,Uberlândia,2-2,Serra Branca-PB
+3F,12/07/26,Ferroviário,3-0,Imperatriz
+3F,12/07/26,Capital CF,1-0(5-6 Pen.),Nacional-AM
+3F,12/07/26,Treze,1-0(4-3 Pen.),CRAC
+3F,12/07/26,ASA,4-0,Ivinhema
+3F,12/07/26,Guaporé,0-0,Luverdense
+3F,13/07/26,América-RN,2-1,Trem
+3F,13/07/26,CSA,4-0,Betim Futebol
+1/8,18/07/26,Nacional-AM,1-1,Iguatu
+1/8,18/07/26,São José-RS,2-1,Treze
+1/8,18/07/26,Cianorte,0-1,ASA
+1/8,18/07/26,Uberlândia,2-0,Portuguesa
+1/8,18/07/26,Goiatuba EC,3-0,Ferroviário
+1/8,18/07/26,Luverdense,0-0,ABC
+1/8,19/07/26,São Luiz,0-0,CSA
+1/8,19/07/26,América-RN,1-0,Gama
+1/8,25/07/26,Iguatu,vs,Nacional-AM
+1/8,25/07/26,Portuguesa,vs,Uberlândia
+1/8,26/07/26,Gama,vs,América-RN
+1/8,26/07/26,CSA,vs,São Luiz
+1/8,26/07/26,Ferroviário,vs,Goiatuba EC
+1/8,26/07/26,ABC,vs,Luverdense
+1/8,26/07/26,Treze,vs,São José-RS
+1/8,26/07/26,ASA,vs,Cianorte

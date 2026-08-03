@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/53,Burnley,4-1,Wolverhampton
+1,19/08/53,Charlton Athletic,5-3,Sunderland
+1,19/08/53,Liverpool,3-1,Portsmouth
+1,19/08/53,Manchester United,1-1,Chelsea
+1,19/08/53,Middlesbrough,0-0,Cardiff City
+1,19/08/53,Preston North End,1-2,Huddersfield Town
+1,19/08/53,Sheffield Wed.,2-0,Manchester City
+1,19/08/53,Tottenham,1-0,Aston Villa
+1,19/08/53,West Bromwich,2-0,Arsenal
+1,22/08/53,Blackpool,2-1,Chelsea
+1,22/08/53,Newcastle,2-1,Sunderland
+2,22/08/53,Arsenal,0-0,Huddersfield Town
+2,22/08/53,Cardiff City,2-1,Aston Villa
+2,22/08/53,Charlton Athletic,3-1,Burnley
+2,22/08/53,Liverpool,4-4,Manchester United
+2,22/08/53,Manchester City,0-4,Wolverhampton
+2,22/08/53,Middlesbrough,0-4,Preston North End
+2,22/08/53,Portsmouth,3-4,Sheffield United
+2,22/08/53,Sheffield Wed.,2-1,Tottenham
+2,22/08/53,West Bromwich,1-1,Bolton Wanderers
+3,24/08/53,Aston Villa,3-0,Manchester City
+3,24/08/53,Sheffield United,1-0,Arsenal
+3,25/08/53,Burnley,2-1,Blackpool
+3,25/08/53,Chelsea,4-3,Portsmouth
+3,26/08/53,Bolton Wanderers,3-2,Middlesbrough
+3,26/08/53,Huddersfield Town,2-0,Cardiff City
+3,26/08/53,Liverpool,2-2,Newcastle
+3,26/08/53,Manchester United,1-3,West Bromwich
+3,26/08/53,Preston North End,6-0,Sheffield Wed.
+3,26/08/53,Sunderland,3-2,Wolverhampton
+3,26/08/53,Tottenham,3-1,Charlton Athletic
+3,29/08/53,Sheffield United,3-4,Blackpool
+4,29/08/53,Aston Villa,2-1,Arsenal
+4,29/08/53,Bolton Wanderers,2-0,Liverpool
+4,29/08/53,Burnley,4-1,Sheffield Wed.
+4,29/08/53,Chelsea,3-1,Charlton Athletic
+4,29/08/53,Huddersfield Town,5-1,Portsmouth
+4,29/08/53,Manchester United,1-1,Newcastle
+4,29/08/53,Preston North End,0-2,West Bromwich
+4,29/08/53,Sunderland,4-5,Manchester City
+4,29/08/53,Tottenham,4-1,Middlesbrough
+4,29/08/53,Wolverhampton,3-1,Cardiff City
+5,31/08/53,Blackpool,2-0,Burnley
+5,31/08/53,Wolverhampton,3-1,Sunderland
+5,01/09/53,Arsenal,1-1,Sheffield United
+5,02/09/53,Cardiff City,2-1,Huddersfield Town
+5,02/09/53,Manchester City,0-1,Aston Villa
+5,02/09/53,Middlesbrough,3-2,Bolton Wanderers
+5,02/09/53,Newcastle,4-0,Liverpool
+5,02/09/53,Portsmouth,3-2,Chelsea
+5,02/09/53,Sheffield Wed.,4-2,Preston North End
+5,02/09/53,West Bromwich,2-0,Manchester United
+5,03/09/53,Charlton Athletic,0-1,Tottenham
+5,05/09/53,Blackpool,3-1,Huddersfield Town
+5,05/09/53,Chelsea,1-2,Sheffield United
+5,05/09/53,Newcastle,2-3,Bolton Wanderers
+6,05/09/53,Arsenal,2-3,Wolverhampton
+6,05/09/53,Cardiff City,1-1,Sunderland
+6,05/09/53,Liverpool,1-5,Preston North End
+6,05/09/53,Manchester City,2-0,Manchester United
+6,05/09/53,Middlesbrough,1-3,Burnley
+6,05/09/53,Portsmouth,2-1,Aston Villa
+6,05/09/53,Sheffield Wed.,1-2,Charlton Athletic
+6,05/09/53,West Bromwich,3-0,Tottenham
+6,07/09/53,Blackpool,1-1,Portsmouth
+7,07/09/53,Burnley,4-2,Tottenham
+7,07/09/53,Sheffield United,0-1,Cardiff City
+7,07/09/53,Sheffield Wed.,3-1,Aston Villa
+7,07/09/53,Wolverhampton,2-1,Liverpool
+7,08/09/53,Arsenal,1-2,Chelsea
+7,09/09/53,Huddersfield Town,1-1,Manchester City
+7,09/09/53,Manchester United,2-2,Middlesbrough
+7,09/09/53,Preston North End,2-0,Charlton Athletic
+7,09/09/53,West Bromwich,2-2,Newcastle
+8,09/09/53,Bolton Wanderers,2-1,Sheffield Wed.
+7,12/09/53,Aston Villa,2-1,Blackpool
+8,12/09/53,Bolton Wanderers,0-0,Manchester United
+8,12/09/53,Burnley,1-4,West Bromwich
+8,12/09/53,Charlton Athletic,8-1,Middlesbrough
+8,12/09/53,Huddersfield Town,3-1,Chelsea
+8,12/09/53,Manchester City,1-1,Cardiff City
+8,12/09/53,Preston North End,2-2,Newcastle
+8,12/09/53,Sunderland,7-1,Arsenal
+8,12/09/53,Tottenham,2-1,Liverpool
+8,12/09/53,Wolverhampton,4-3,Portsmouth
+9,12/09/53,Sheffield United,2-0,Sheffield Wed.
+9,14/09/53,Aston Villa,3-1,Sunderland
+9,15/09/53,Chelsea,0-2,Arsenal
+8,16/09/53,Portsmouth,4-4,Blackpool
+9,16/09/53,Cardiff City,2-0,Sheffield United
+9,16/09/53,Liverpool,1-1,Wolverhampton
+9,16/09/53,Manchester City,0-1,Huddersfield Town
+9,16/09/53,Middlesbrough,1-4,Manchester United
+9,16/09/53,Newcastle,3-7,West Bromwich
+9,16/09/53,Tottenham,2-3,Burnley
+10,16/09/53,Sheffield Wed.,2-1,Bolton Wanderers
+9,17/09/53,Charlton Athletic,2-1,Preston North End
+9,19/09/53,Blackpool,0-0,Wolverhampton
+9,19/09/53,Sheffield United,3-6,Huddersfield Town
+10,19/09/53,Arsenal,2-2,Manchester City
+10,19/09/53,Cardiff City,1-1,Bolton Wanderers
+10,19/09/53,Chelsea,1-2,Aston Villa
+10,19/09/53,Liverpool,4-0,Burnley
+10,19/09/53,Manchester United,1-0,Preston North End
+10,19/09/53,Middlesbrough,4-1,Sheffield Wed.
+10,19/09/53,Newcastle,1-3,Tottenham
+10,19/09/53,Portsmouth,4-1,Sunderland
+10,19/09/53,West Bromwich,2-3,Charlton Athletic
+12,23/09/53,Sheffield Wed.,3-0,Newcastle
+10,26/09/53,Sunderland,3-2,Blackpool
+11,26/09/53,Aston Villa,4-0,Sheffield United
+11,26/09/53,Burnley,1-2,Newcastle
+11,26/09/53,Cardiff City,0-3,Arsenal
+11,26/09/53,Charlton Athletic,6-0,Liverpool
+11,26/09/53,Huddersfield Town,2-1,Middlesbrough
+11,26/09/53,Manchester City,2-1,Portsmouth
+11,26/09/53,Preston North End,3-1,Bolton Wanderers
+11,26/09/53,Tottenham,1-1,Manchester United
+11,26/09/53,Wolverhampton,8-1,Chelsea
+13,26/09/53,Sheffield Wed.,2-3,West Bromwich
+11,03/10/53,Blackpool,2-0,Manchester City
+11,03/10/53,Sheffield United,3-3,Wolverhampton
+12,03/10/53,Arsenal,3-2,Preston North End
+12,03/10/53,Bolton Wanderers,2-0,Tottenham
+12,03/10/53,Chelsea,2-2,Sunderland
+12,03/10/53,Huddersfield Town,4-0,Aston Villa
+12,03/10/53,Liverpool,2-2,Sheffield Wed.
+12,03/10/53,Manchester United,1-2,Burnley
+12,03/10/53,Newcastle,0-2,Charlton Athletic
+12,03/10/53,Portsmouth,1-1,Cardiff City
+12,03/10/53,West Bromwich,2-1,Middlesbrough
+13,10/10/53,Bolton Wanderers,3-2,Manchester City
+13,10/10/53,Burnley,1-0,Portsmouth
+13,10/10/53,Charlton Athletic,4-2,Blackpool
+13,10/10/53,Liverpool,6-1,Aston Villa
+13,10/10/53,Manchester United,1-0,Sunderland
+13,10/10/53,Middlesbrough,2-0,Sheffield United
+13,10/10/53,Newcastle,1-2,Wolverhampton
+13,10/10/53,Preston North End,1-2,Cardiff City
+13,10/10/53,Tottenham,1-4,Arsenal
+13,10/10/53,West Bromwich,4-0,Huddersfield Town
+15,10/10/53,Sheffield Wed.,2-0,Chelsea
+13,17/10/53,Sunderland,1-2,Bolton Wanderers
+14,17/10/53,Arsenal,2-5,Burnley
+14,17/10/53,Aston Villa,1-2,Newcastle
+14,17/10/53,Cardiff City,1-0,Tottenham
+14,17/10/53,Chelsea,1-1,Middlesbrough
+14,17/10/53,Huddersfield Town,2-0,Liverpool
+14,17/10/53,Manchester City,1-4,Preston North End
+14,17/10/53,Portsmouth,3-1,Charlton Athletic
+14,17/10/53,Sheffield United,1-2,West Bromwich
+14,17/10/53,Wolverhampton,3-1,Manchester United
+16,17/10/53,Blackpool,1-2,Sheffield Wed.
+14,24/10/53,Bolton Wanderers,1-1,Wolverhampton
+15,24/10/53,Burnley,3-0,Cardiff City
+15,24/10/53,Charlton Athletic,1-5,Arsenal
+15,24/10/53,Liverpool,3-0,Sheffield United
+15,24/10/53,Manchester United,1-0,Aston Villa
+15,24/10/53,Middlesbrough,0-1,Blackpool
+15,24/10/53,Newcastle,0-2,Huddersfield Town
+15,24/10/53,Preston North End,6-2,Sunderland
+15,24/10/53,Tottenham,3-0,Manchester City
+15,24/10/53,West Bromwich,5-2,Chelsea
+17,24/10/53,Sheffield Wed.,4-4,Portsmouth
+16,31/10/53,Aston Villa,2-2,Bolton Wanderers
+16,31/10/53,Blackpool,4-1,West Bromwich
+16,31/10/53,Cardiff City,5-0,Charlton Athletic
+16,31/10/53,Chelsea,5-2,Liverpool
+16,31/10/53,Huddersfield Town,0-0,Manchester United
+16,31/10/53,Manchester City,3-2,Burnley
+16,31/10/53,Portsmouth,0-2,Middlesbrough
+16,31/10/53,Sheffield United,3-1,Newcastle
+16,31/10/53,Sunderland,4-3,Tottenham
+16,31/10/53,Wolverhampton,1-0,Preston North End
+18,31/10/53,Arsenal,4-1,Sheffield Wed.
+17,07/11/53,Bolton Wanderers,6-1,Portsmouth
+17,07/11/53,Burnley,2-1,Sheffield United
+17,07/11/53,Charlton Athletic,2-1,Huddersfield Town
+17,07/11/53,Liverpool,2-2,Manchester City
+17,07/11/53,Manchester United,2-2,Arsenal
+17,07/11/53,Middlesbrough,3-3,Wolverhampton
+17,07/11/53,Newcastle,4-0,Cardiff City
+17,07/11/53,Preston North End,2-3,Blackpool
+17,07/11/53,Tottenham,2-1,Chelsea
+17,07/11/53,West Bromwich,2-0,Sunderland
+18,14/11/53,Arsenal,4-3,Bolton Wanderers
+18,14/11/53,Aston Villa,5-3,Middlesbrough
+18,14/11/53,Blackpool,1-0,Tottenham
+18,14/11/53,Cardiff City,1-6,Manchester United
+18,14/11/53,Chelsea,2-1,Burnley
+18,14/11/53,Manchester City,0-0,Newcastle
+18,14/11/53,Portsmouth,1-3,Preston North End
+18,14/11/53,Sheffield United,1-1,Charlton Athletic
+18,14/11/53,Sunderland,3-2,Liverpool
+18,14/11/53,Wolverhampton,1-0,West Bromwich
+19,14/11/53,Huddersfield Town,2-0,Sheffield Wed.
+19,21/11/53,Bolton Wanderers,2-2,Chelsea
+19,21/11/53,Burnley,3-2,Aston Villa
+19,21/11/53,Charlton Athletic,0-2,Wolverhampton
+19,21/11/53,Liverpool,1-2,Arsenal
+19,21/11/53,Manchester United,4-1,Blackpool
+19,21/11/53,Middlesbrough,0-1,Manchester City
+19,21/11/53,Newcastle,1-1,Portsmouth
+19,21/11/53,Preston North End,2-1,Sheffield United
+19,21/11/53,Tottenham,1-0,Huddersfield Town
+19,21/11/53,West Bromwich,6-1,Cardiff City
+20,21/11/53,Sheffield Wed.,2-2,Sunderland
+19,28/11/53,Blackpool,0-0,Bolton Wanderers
+20,28/11/53,Arsenal,2-1,Newcastle
+20,28/11/53,Aston Villa,2-1,Charlton Athletic
+20,28/11/53,Cardiff City,3-1,Liverpool
+20,28/11/53,Chelsea,1-0,Preston North End
+20,28/11/53,Huddersfield Town,3-1,Burnley
+20,28/11/53,Manchester City,2-3,West Bromwich
+20,28/11/53,Portsmouth,1-1,Manchester United
+20,28/11/53,Sheffield United,5-2,Tottenham
+20,28/11/53,Sunderland,0-2,Middlesbrough
+21,28/11/53,Wolverhampton,4-1,Sheffield Wed.
+20,05/12/53,Bolton Wanderers,0-0,Huddersfield Town
+21,05/12/53,Burnley,5-1,Sunderland
+21,05/12/53,Charlton Athletic,2-1,Manchester City
+21,05/12/53,Liverpool,5-2,Blackpool
+21,05/12/53,Manchester United,2-2,Sheffield United
+21,05/12/53,Middlesbrough,2-0,Arsenal
+21,05/12/53,Newcastle,1-1,Chelsea
+21,05/12/53,Preston North End,1-1,Aston Villa
+21,05/12/53,Tottenham,2-3,Wolverhampton
+21,05/12/53,West Bromwich,2-3,Portsmouth
+22,05/12/53,Sheffield Wed.,2-1,Cardiff City
+21,12/12/53,Blackpool,1-3,Newcastle
+21,12/12/53,Sheffield United,3-0,Bolton Wanderers
+22,12/12/53,Arsenal,2-2,West Bromwich
+22,12/12/53,Aston Villa,1-2,Tottenham
+22,12/12/53,Cardiff City,1-0,Middlesbrough
+22,12/12/53,Chelsea,3-1,Manchester United
+22,12/12/53,Huddersfield Town,2-2,Preston North End
+22,12/12/53,Portsmouth,5-1,Liverpool
+22,12/12/53,Sunderland,2-1,Charlton Athletic
+22,12/12/53,Wolverhampton,1-2,Burnley
+23,12/12/53,Manchester City,3-2,Sheffield Wed.
+22,19/12/53,Chelsea,5-1,Blackpool
+23,19/12/53,Aston Villa,1-2,Cardiff City
+23,19/12/53,Bolton Wanderers,2-1,West Bromwich
+23,19/12/53,Burnley,2-0,Charlton Athletic
+23,19/12/53,Huddersfield Town,2-2,Arsenal
+23,19/12/53,Manchester United,5-1,Liverpool
+23,19/12/53,Preston North End,1-0,Middlesbrough
+23,19/12/53,Sheffield United,3-1,Portsmouth
+23,19/12/53,Sunderland,1-1,Newcastle
+23,19/12/53,Wolverhampton,3-1,Manchester City
+24,19/12/53,Tottenham,3-1,Sheffield Wed.
+23,24/12/53,Wolverhampton,1-2,Aston Villa
+24,25/12/53,Burnley,2-1,Preston North End
+24,25/12/53,Charlton Athletic,1-0,Bolton Wanderers
+24,25/12/53,Manchester United,5-2,Sheffield Wed.
+24,25/12/53,Middlesbrough,2-3,Newcastle
+24,25/12/53,Sheffield United,2-2,Manchester City
+24,25/12/53,Sunderland,1-1,Huddersfield Town
+24,25/12/53,Tottenham,1-1,Portsmouth
+24,25/12/53,West Bromwich,5-2,Liverpool
+24,26/12/53,Aston Villa,1-2,Wolverhampton
+24,26/12/53,Blackpool,2-2,Arsenal
+24,26/12/53,Chelsea,2-0,Cardiff City
+25,26/12/53,Bolton Wanderers,3-1,Charlton Athletic
+25,26/12/53,Huddersfield Town,2-1,Sunderland
+25,26/12/53,Liverpool,0-0,West Bromwich
+25,26/12/53,Manchester City,2-1,Sheffield United
+25,26/12/53,Newcastle,2-3,Middlesbrough
+25,26/12/53,Portsmouth,1-1,Tottenham
+25,26/12/53,Preston North End,2-1,Burnley
+25,26/12/53,Sheffield Wed.,0-1,Manchester United
+25,28/12/53,Arsenal,1-1,Blackpool
+25,28/12/53,Cardiff City,0-0,Chelsea
+25,01/01/54,Bolton Wanderers,2-1,Sheffield United
+25,01/01/54,Newcastle,2-1,Blackpool
+25,01/01/54,Sunderland,2-0,Aston Villa
+26,02/01/54,Blackpool,2-2,Sheffield United
+26,02/01/54,Cardiff City,1-3,Wolverhampton
+26,02/01/54,Charlton Athletic,1-1,Chelsea
+26,02/01/54,Liverpool,1-2,Bolton Wanderers
+26,02/01/54,Manchester City,2-1,Sunderland
+26,02/01/54,Middlesbrough,3-0,Tottenham
+26,02/01/54,Newcastle,1-2,Manchester United
+26,02/01/54,Portsmouth,5-2,Huddersfield Town
+26,02/01/54,Sheffield Wed.,2-0,Burnley
+26,02/01/54,West Bromwich,3-2,Preston North End
+26,16/01/54,Wolverhampton,0-2,Arsenal
+27,16/01/54,Aston Villa,1-1,Portsmouth
+27,16/01/54,Burnley,5-0,Middlesbrough
+27,16/01/54,Charlton Athletic,4-2,Sheffield Wed.
+27,16/01/54,Huddersfield Town,0-0,Blackpool
+27,16/01/54,Manchester United,1-1,Manchester City
+27,16/01/54,Preston North End,2-1,Liverpool
+27,16/01/54,Sheffield United,1-3,Chelsea
+27,16/01/54,Sunderland,5-0,Cardiff City
+27,16/01/54,Tottenham,0-1,West Bromwich
+28,16/01/54,Bolton Wanderers,2-2,Newcastle
+27,23/01/54,Arsenal,1-4,Sunderland
+28,23/01/54,Blackpool,3-2,Aston Villa
+28,23/01/54,Cardiff City,0-3,Manchester City

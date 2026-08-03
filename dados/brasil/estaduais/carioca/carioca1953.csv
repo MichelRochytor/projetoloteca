@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,03/08/47,America-RJ,2-4,Vasco
+C,03/08/47,Madureira,3-4,Fluminense
+C,03/08/47,Bangu,1-4,Botafogo
+C,03/08/47,Canto do Rio,3-1,Olaria
+C,03/08/47,Flamengo,3-2,Bonsucesso
+C,09/08/47,Botafogo,5-0,Bonsucesso
+C,10/08/47,Olaria,1-2,Flamengo
+C,10/08/47,Fluminense,1-2,America-RJ
+C,10/08/47,São Cristóvão,3-4,Canto do Rio
+C,10/08/47,Vasco,4-1,Bangu
+C,16/08/47,Botafogo,1-0,Olaria
+C,17/08/47,Bonsucesso,1-4,Vasco
+C,17/08/47,America-RJ,4-3,Madureira
+C,17/08/47,Flamengo,1-0,São Cristóvão
+C,17/08/47,Bangu,0-4,Fluminense
+C,23/08/47,Fluminense,4-2,Bonsucesso
+C,24/08/47,Canto do Rio,1-3,Flamengo
+C,24/08/47,Vasco,3-3,Olaria
+C,24/08/47,São Cristóvão,1-4,Botafogo
+C,24/08/47,Madureira,3-4,Bangu
+C,30/08/47,Bonsucesso,2-4,Madureira
+C,30/08/47,Botafogo,4-0,Canto do Rio
+C,31/08/47,São Cristóvão,1-5,Vasco
+C,31/08/47,Olaria,4-4,Fluminense
+C,31/08/47,Bangu,1-2,America-RJ
+C,06/09/47,America-RJ,2-1,Bonsucesso
+C,06/09/47,Fluminense,5-1,São Cristóvão
+C,06/09/47,Madureira,3-0,Olaria
+C,06/09/47,Vasco,14-1,Canto do Rio
+C,07/09/47,Flamengo,2-2,Botafogo
+C,13/09/47,São Cristóvão,1-1,Madureira
+C,14/09/47,Canto do Rio,2-3,Fluminense
+C,14/09/47,Vasco,2-1,Flamengo
+C,14/09/47,Olaria,0-3,America-RJ
+C,14/09/47,Bangu,1-2,Bonsucesso
+C,20/09/47,Madureira,6-2,Canto do Rio
+C,21/09/47,Olaria,8-3,Bangu
+C,21/09/47,Botafogo,0-2,Vasco
+C,21/09/47,America-RJ,5-1,São Cristóvão
+C,21/09/47,Fluminense,3-3,Flamengo
+C,27/09/47,Canto do Rio,0-3,America-RJ
+C,27/09/47,São Cristóvão,4-4,Bangu
+C,27/09/47,Flamengo,5-3,Madureira
+C,28/09/47,Bonsucesso,2-2,Olaria
+C,28/09/47,Fluminense,1-2,Botafogo
+C,05/10/47,Bonsucesso,1-3,São Cristóvão
+C,05/10/47,Madureira,1-1,Botafogo
+C,05/10/47,Bangu,8-1,Canto do Rio
+C,05/10/47,America-RJ,2-4,Flamengo
+C,05/10/47,Vasco,5-3,Fluminense
+C,11/10/47,Flamengo,8-1,Bangu
+C,12/10/47,Botafogo,3-2,America-RJ
+C,12/10/47,Vasco,2-1,Madureira
+C,12/10/47,Olaria,3-2,São Cristóvão
+C,12/10/47,Canto do Rio,4-3,Bonsucesso
+C,18/10/47,Botafogo,2-0,Bangu
+C,19/10/47,Fluminense,3-2,Madureira
+C,19/10/47,Bonsucesso,2-2,Flamengo
+C,19/10/47,Olaria,2-2,Canto do Rio
+C,19/10/47,Vasco,1-0,America-RJ
+C,26/10/47,Flamengo,0-1,Olaria
+C,26/10/47,Canto do Rio,1-0,São Cristóvão
+C,26/10/47,Bonsucesso,1-6,Botafogo
+C,26/10/47,Bangu,0-4,Vasco
+C,29/10/47,America-RJ,1-4,Fluminense
+C,01/11/47,Vasco,3-0,Bonsucesso
+C,01/11/47,Olaria,3-2,Botafogo
+C,01/11/47,Madureira,1-1,America-RJ
+C,01/11/47,São Cristóvão,1-3,Flamengo
+C,01/11/47,Fluminense,5-0,Bangu
+C,08/11/47,Flamengo,6-4,Canto do Rio
+C,08/11/47,Botafogo,5-0,São Cristóvão
+C,09/11/47,Bonsucesso,3-4,Fluminense
+C,09/11/47,Olaria,0-2,Vasco
+C,09/11/47,Bangu,1-1,Madureira
+C,15/11/47,Fluminense,3-2,Olaria
+C,16/11/47,Madureira,3-0,Bonsucesso
+C,16/11/47,Canto do Rio,0-1,Botafogo
+C,16/11/47,Vasco,3-1,São Cristóvão
+C,16/11/47,America-RJ,5-4,Bangu
+C,22/11/47,São Cristóvão,1-1,Fluminense
+C,23/11/47,Bonsucesso,0-5,America-RJ
+C,23/11/47,Olaria,2-3,Madureira
+C,23/11/47,Canto do Rio,1-2,Vasco
+C,23/11/47,Botafogo,4-2,Flamengo
+C,29/11/47,America-RJ,2-1,Olaria
+C,30/11/47,Madureira,5-1,São Cristóvão
+C,30/11/47,Fluminense,9-3,Canto do Rio
+C,30/11/47,Flamengo,2-5,Vasco
+C,30/11/47,Bonsucesso,1-7,Bangu
+C,06/12/47,São Cristóvão,0-2,America-RJ
+C,06/12/47,Flamengo,1-1,Fluminense
+C,07/12/47,Vasco,0-0,Botafogo
+C,07/12/47,Canto do Rio,3-3,Madureira
+C,07/12/47,Bangu,0-1,Olaria
+C,13/12/47,America-RJ,8-3,Canto do Rio
+C,13/12/47,Bangu,3-4,São Cristóvão
+C,14/12/47,Olaria,5-1,Bonsucesso
+C,14/12/47,Madureira,1-2,Flamengo
+C,14/12/47,Botafogo,2-2,Fluminense
+C,20/12/47,Botafogo,3-2,Madureira
+C,21/12/47,Fluminense,1-1,Vasco
+C,21/12/47,Flamengo,0-2,America-RJ
+C,21/12/47,Canto do Rio,4-6,Bangu
+C,21/12/47,São Cristóvão,6-2,Bonsucesso
+C,28/12/47,America-RJ,1-0,Botafogo
+C,28/12/47,São Cristóvão,3-3,Olaria
+C,28/12/47,Madureira,1-2,Vasco
+C,28/12/47,Bonsucesso,2-4,Canto do Rio
+C,28/12/47,Bangu,0-4,Flamengo

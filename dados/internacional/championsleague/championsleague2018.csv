@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,18/09/18,Barcelona,4-0,PSV
+B,18/09/18,Internazionale,2-1,Tottenham
+D,18/09/18,Schalke 04,1-1,FC Porto
+D,18/09/18,Galatasaray,3-0,Lokomotiv
+A,18/09/18,Monaco,1-2,Atlético de Madrid
+A,18/09/18,Club Brugge,0-1,Borussia Dortmund
+C,18/09/18,Liverpool,3-2,PSG
+C,18/09/18,Crvena Zvezda,0-0,Napoli
+E,19/09/18,Ajax,3-0,AEK
+F,19/09/18,Shakhtar Donetsk,2-2,TSG Hoffenheim
+E,19/09/18,Benfica,0-2,Bayern München
+F,19/09/18,Manchester City,1-2,Lyon
+G,19/09/18,Real Madrid,3-0,Roma
+G,19/09/18,Viktoria Plzeň,2-2,CSKA Moskva
+H,19/09/18,Valencia,0-2,Juventus
+H,19/09/18,Young Boys,0-3,Manchester United
+F,02/10/18,TSG Hoffenheim,1-2,Manchester City
+H,02/10/18,Juventus,3-0,Young Boys
+E,02/10/18,Bayern München,1-1,Ajax
+E,02/10/18,AEK,2-3,Benfica
+F,02/10/18,Lyon,2-2,Shakhtar Donetsk
+G,02/10/18,CSKA Moskva,1-0,Real Madrid
+G,02/10/18,Roma,5-0,Viktoria Plzeň
+H,02/10/18,Manchester United,0-0,Valencia
+D,03/10/18,Lokomotiv,0-1,Schalke 04
+C,03/10/18,PSG,6-1,Crvena Zvezda
+D,03/10/18,FC Porto,1-0,Galatasaray
+A,03/10/18,Borussia Dortmund,3-0,Monaco
+A,03/10/18,Atlético de Madrid,3-1,Club Brugge
+B,03/10/18,Tottenham,2-4,Barcelona
+B,03/10/18,PSV,1-2,Internazionale
+C,03/10/18,Napoli,1-0,Liverpool
+E,23/10/18,AEK,0-2,Bayern München
+H,23/10/18,Young Boys,1-1,Valencia
+E,23/10/18,Ajax,1-0,Benfica
+F,23/10/18,Shakhtar Donetsk,0-3,Manchester City
+F,23/10/18,TSG Hoffenheim,3-3,Lyon
+G,23/10/18,Roma,3-0,CSKA Moskva
+G,23/10/18,Real Madrid,2-1,Viktoria Plzeň
+H,23/10/18,Manchester United,0-1,Juventus
+A,24/10/18,Club Brugge,1-1,Monaco
+B,24/10/18,PSV,2-2,Tottenham
+D,24/10/18,Lokomotiv,1-3,FC Porto
+D,24/10/18,Galatasaray,0-0,Schalke 04
+A,24/10/18,Borussia Dortmund,4-0,Atlético de Madrid
+B,24/10/18,Barcelona,2-0,Internazionale
+C,24/10/18,PSG,2-2,Napoli
+C,24/10/18,Liverpool,4-0,Crvena Zvezda
+A,06/11/18,Monaco,0-4,Club Brugge
+C,06/11/18,Crvena Zvezda,2-0,Liverpool
+D,06/11/18,Schalke 04,2-0,Galatasaray
+D,06/11/18,FC Porto,4-1,Lokomotiv
+A,06/11/18,Atlético de Madrid,2-0,Borussia Dortmund
+B,06/11/18,Tottenham,2-1,PSV
+B,06/11/18,Internazionale,1-1,Barcelona
+C,06/11/18,Napoli,1-1,PSG
+G,07/11/18,CSKA Moskva,1-2,Roma
+H,07/11/18,Valencia,3-1,Young Boys
+E,07/11/18,Bayern München,2-0,AEK
+E,07/11/18,Benfica,1-1,Ajax
+F,07/11/18,Manchester City,6-0,Shakhtar Donetsk
+F,07/11/18,Lyon,2-2,TSG Hoffenheim
+G,07/11/18,Viktoria Plzeň,0-5,Real Madrid
+H,07/11/18,Juventus,1-2,Manchester United
+E,27/11/18,AEK,0-2,Ajax
+G,27/11/18,CSKA Moskva,1-2,Viktoria Plzeň
+E,27/11/18,Bayern München,5-1,Benfica
+F,27/11/18,Lyon,2-2,Manchester City
+F,27/11/18,TSG Hoffenheim,2-3,Shakhtar Donetsk
+G,27/11/18,Roma,0-2,Real Madrid
+H,27/11/18,Juventus,1-0,Valencia
+H,27/11/18,Manchester United,1-0,Young Boys
+D,28/11/18,Lokomotiv,2-0,Galatasaray
+A,28/11/18,Atlético de Madrid,2-0,Monaco
+D,28/11/18,FC Porto,3-1,Schalke 04
+A,28/11/18,Borussia Dortmund,0-0,Club Brugge
+B,28/11/18,PSV,1-2,Barcelona
+B,28/11/18,Tottenham,1-0,Internazionale
+C,28/11/18,PSG,2-1,Liverpool
+C,28/11/18,Napoli,3-1,Crvena Zvezda
+D,11/12/18,Galatasaray,2-3,FC Porto
+D,11/12/18,Schalke 04,1-0,Lokomotiv
+A,11/12/18,Monaco,0-2,Borussia Dortmund
+A,11/12/18,Club Brugge,0-0,Atlético de Madrid
+B,11/12/18,Barcelona,1-1,Tottenham
+B,11/12/18,Internazionale,1-1,PSV
+C,11/12/18,Liverpool,1-0,Napoli
+C,11/12/18,Crvena Zvezda,1-4,PSG
+G,12/12/18,Real Madrid,0-3,CSKA Moskva
+G,12/12/18,Viktoria Plzeň,2-1,Roma
+E,12/12/18,Ajax,3-3,Bayern München
+E,12/12/18,Benfica,1-0,AEK
+F,12/12/18,Shakhtar Donetsk,1-1,Lyon
+F,12/12/18,Manchester City,2-1,TSG Hoffenheim
+H,12/12/18,Valencia,2-1,Manchester United
+H,12/12/18,Young Boys,2-1,Juventus
+1/8,12/02/19,Manchester United,0-2,PSG
+1/8,12/02/19,Roma,2-1,FC Porto
+1/8,13/02/19,Tottenham,3-0,Borussia Dortmund
+1/8,13/02/19,Ajax,1-2,Real Madrid
+1/8,19/02/19,Lyon,0-0,Barcelona
+1/8,19/02/19,Liverpool,0-0,Bayern München
+1/8,20/02/19,Schalke 04,2-3,Manchester City
+1/8,20/02/19,Atlético de Madrid,2-0,Juventus
+1/8,05/03/19,Borussia Dortmund,0-1,Tottenham
+1/8,05/03/19,Real Madrid,1-4,Ajax
+1/8,06/03/19,PSG,1-3,Manchester United
+1/8,06/03/19,FC Porto,3-1(Pro.),Roma
+1/8,12/03/19,Manchester City,7-0,Schalke 04
+1/8,12/03/19,Juventus,3-0,Atlético de Madrid
+1/8,13/03/19,Barcelona,5-1,Lyon
+1/8,13/03/19,Bayern München,1-3,Liverpool
+QF,09/04/19,Liverpool,2-0,FC Porto
+QF,09/04/19,Tottenham,1-0,Manchester City
+QF,10/04/19,Ajax,1-1,Juventus
+QF,10/04/19,Manchester United,0-1,Barcelona
+QF,16/04/19,Juventus,1-2,Ajax
+QF,16/04/19,Barcelona,3-0,Manchester United
+QF,17/04/19,FC Porto,1-4,Liverpool
+QF,17/04/19,Manchester City,4-3,Tottenham
+SF,30/04/19,Tottenham,0-1,Ajax
+SF,01/05/19,Barcelona,3-0,Liverpool
+SF,07/05/19,Liverpool,4-0,Barcelona
+SF,08/05/19,Ajax,2-3,Tottenham
+F,01/06/19,Tottenham,0-2,Liverpool

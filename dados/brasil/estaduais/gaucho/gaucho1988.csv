@@ -1,0 +1,128 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,20/02/88,Passo Fundo,0-1,Internacional
+B,21/02/88,São Paulo-RS,0-0,Esportivo
+B,21/02/88,Lajeadense,0-1,Pelotas
+B,21/02/88,Caxias,1-0,Inter SM
+B,21/02/88,Santa Cruz-RS,0-0,Aimoré
+B,21/02/88,GE Brasil,1-1,Juventude
+B,21/02/88,Grêmio,3-2,Guarany
+B,24/02/88,Aimoré,1-1,Grêmio
+B,24/02/88,Inter SM,2-2,São Paulo-RS
+B,24/02/88,Esportivo,2-2,Santa Cruz-RS
+B,24/02/88,Pelotas,1-1,Caxias
+B,24/02/88,Juventude,1-1,Passo Fundo
+B,24/02/88,Guarany,2-1,GE Brasil
+B,27/02/88,Inter SM,1-0,Grêmio
+B,28/02/88,Esportivo,0-0,Lajeadense
+B,28/02/88,Aimoré,1-2,Caxias
+B,28/02/88,Juventude,3-2,Santa Cruz-RS
+B,28/02/88,Pelotas,1-1,Passo Fundo
+B,28/02/88,Guarany,2-2,São Paulo-RS
+B,28/02/88,Internacional,2-0,GE Brasil
+B,01/03/88,Internacional,2-0,Lajeadense
+B,03/03/88,Caxias,1-0,Internacional
+B,03/03/88,Santa Cruz-RS,1-0,Inter SM
+B,03/03/88,Passo Fundo,1-1,Guarany
+B,03/03/88,GE Brasil,1-1,Esportivo
+B,03/03/88,São Paulo-RS,1-1,Juventude
+B,03/03/88,Lajeadense,0-1,Aimoré
+B,04/03/88,Grêmio,2-0,Pelotas
+B,05/03/88,São Paulo-RS,0-0,Internacional
+B,06/03/88,Caxias,1-1,Juventude
+B,06/03/88,Santa Cruz-RS,3-1,Guarany
+B,06/03/88,Passo Fundo,1-2,Aimoré
+B,06/03/88,GE Brasil,0-2,Pelotas
+B,06/03/88,Lajeadense,0-0,Inter SM
+B,06/03/88,Grêmio,1-0,Esportivo
+B,09/03/88,Juventude,1-1,Grêmio
+B,09/03/88,Internacional,0-1,Santa Cruz-RS
+B,09/03/88,Inter SM,0-1,Passo Fundo
+B,09/03/88,Guarany,2-1,Lajeadense
+B,09/03/88,Pelotas,2-0,São Paulo-RS
+B,09/03/88,Esportivo,0-1,Caxias
+B,09/03/88,Aimoré,2-1,GE Brasil
+B,12/03/88,Grêmio,1-0,Internacional
+B,13/03/88,Caxias,2-0,Guarany
+B,13/03/88,Lajeadense,0-1,Juventude
+B,13/03/88,São Paulo-RS,3-1,Aimoré
+B,13/03/88,Santa Cruz-RS,0-0,Pelotas
+B,13/03/88,Passo Fundo,0-0,Esportivo
+B,13/03/88,GE Brasil,0-0,Inter SM
+SF,19/03/88,Grêmio,2-0,Pelotas
+SF,20/03/88,Caxias,1-1(4-3 Pen.),Juventude
+F,23/03/88,Caxias,1-2,Grêmio
+A,26/03/88,Juventude,1-1,Aimoré
+B,26/03/88,Santa Cruz-RS,1-0,Grêmio
+A,27/03/88,Internacional,1-0,Inter SM
+B,27/03/88,Caxias,0-3,Lajeadense
+B,27/03/88,GE Brasil,0-1,Passo Fundo
+A,27/03/88,Guarany,1-0,Pelotas
+A,30/03/88,Internacional,1-1,Aimoré
+A,30/03/88,Inter SM,2-2,Guarany
+A,30/03/88,Esportivo,1-1,Juventude
+B,30/03/88,Lajeadense,1-3,Grêmio
+B,30/03/88,Caxias,1-0,São Paulo-RS
+B,30/03/88,Passo Fundo,2-1,Santa Cruz-RS
+A,02/04/88,Pelotas,0-0,Internacional
+A,03/04/88,Aimoré,1-0,Esportivo
+A,03/04/88,Juventude,1-0,Inter SM
+B,03/04/88,Grêmio,3-0,Passo Fundo
+B,03/04/88,São Paulo-RS,1-0,Lajeadense
+B,03/04/88,Santa Cruz-RS,0-0,GE Brasil
+A,06/04/88,Aimoré,1-1,Guarany
+A,06/04/88,Esportivo,0-0,Internacional
+B,06/04/88,Grêmio,6-1,São Paulo-RS
+B,06/04/88,Lajeadense,0-0,Santa Cruz-RS
+B,06/04/88,GE Brasil,2-2,Caxias
+A,07/04/88,Pelotas,2-0,Juventude
+B,09/04/88,GE Brasil,0-3,Grêmio
+A,10/04/88,Internacional,3-0,Juventude
+A,10/04/88,Inter SM,2-0,Pelotas
+A,10/04/88,Guarany,0-0,Esportivo
+B,10/04/88,São Paulo-RS,0-1,Santa Cruz-RS
+B,10/04/88,Caxias,2-1,Passo Fundo
+A,13/04/88,Inter SM,1-0,Aimoré
+A,13/04/88,Pelotas,1-1,Esportivo
+A,13/04/88,Juventude,2-1,Guarany
+B,13/04/88,São Paulo-RS,0-0,GE Brasil
+B,13/04/88,Passo Fundo,1-1,Lajeadense
+B,13/04/88,Santa Cruz-RS,1-1,Caxias
+A,16/04/88,Guarany,0-0,Internacional
+A,17/04/88,Esportivo,0-1,Inter SM
+A,17/04/88,Aimoré,0-0,Pelotas
+B,17/04/88,Passo Fundo,1-2,São Paulo-RS
+B,17/04/88,Lajeadense,0-1,GE Brasil
+B,17/04/88,Grêmio,4-2,Caxias
+SF,23/04/88,Internacional,3-0,Santa Cruz-RS
+SF,24/04/88,Grêmio,1-0,Inter SM
+F,26/04/88,Grêmio,3-1,Internacional
+HXF,30/04/88,Santa Cruz-RS,0-1,Grêmio
+HXF,01/05/88,Internacional,1-1,Caxias
+HXF,04/05/88,Juventude,2-1,Pelotas
+HXF,07/05/88,Pelotas,1-0,Internacional
+HXF,08/05/88,Grêmio,2-1,Juventude
+HXF,10/05/88,Caxias,1-1,Santa Cruz-RS
+HXF,14/05/88,Pelotas,1-0,Grêmio
+HXF,15/05/88,Internacional,3-0,Santa Cruz-RS
+HXF,18/05/88,Juventude,1-1,Caxias
+HXF,21/05/88,Caxias,0-1,Pelotas
+HXF,22/05/88,Internacional,0-0,Grêmio
+HXF,25/05/88,Santa Cruz-RS,1-1,Juventude
+HXF,28/05/88,Juventude,0-2,Internacional
+HXF,28/05/88,Pelotas,1-1,Santa Cruz-RS
+HXF,29/05/88,Grêmio,1-0,Caxias
+HXF,01/06/88,Grêmio,0-0,Santa Cruz-RS
+HXF,01/06/88,Caxias,0-1,Internacional
+HXF,04/06/88,Juventude,1-1,Grêmio
+HXF,05/06/88,Internacional,3-1,Pelotas
+HXF,11/06/88,Santa Cruz-RS,0-0,Internacional
+HXF,12/06/88,Caxias,0-0,Juventude
+HXF,12/06/88,Grêmio,4-1,Pelotas
+HXF,15/06/88,Santa Cruz-RS,3-0,Caxias
+HXF,18/06/88,Juventude,1-1,Santa Cruz-RS
+HXF,18/06/88,Pelotas,0-0,Caxias
+HXF,19/06/88,Grêmio,3-3,Internacional
+HXF,25/06/88,Santa Cruz-RS,0-0,Pelotas
+HXF,26/06/88,Caxias,0-0,Grêmio
+HXF,26/06/88,Internacional,0-0,Juventude
+HXF,01/07/88,Pelotas,1-0,Juventude

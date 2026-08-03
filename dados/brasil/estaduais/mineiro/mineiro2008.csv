@@ -1,0 +1,73 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,21/01/07,Ituiutaba,3-1,Tupi
+1F,21/01/07,Atlético Mineiro,2-3,Villa Nova-MG
+1F,21/01/07,Democrata-SL,1-0,Ipatinga
+1F,21/01/07,Caldense,2-1,Democrata-GV
+1F,21/01/07,Rio Branco de Andradas,1-2,Cruzeiro
+1F,24/01/07,América Mineiro,1-0,Ituiutaba
+1F,27/01/07,Cruzeiro,4-0,Guarani-MG
+1F,28/01/07,Tupi,2-0,Atlético Mineiro
+1F,28/01/07,Ipatinga,3-1,Caldense
+1F,28/01/07,Villa Nova-MG,1-1,Rio Branco de Andradas
+1F,28/01/07,Democrata-GV,1-0,Democrata-SL
+1F,31/01/07,Caldense,2-1,América Mineiro
+1F,03/02/07,Atlético Mineiro,0-0,Rio Branco de Andradas
+1F,04/02/07,Ituiutaba,0-0,Guarani-MG
+1F,04/02/07,Villa Nova-MG,2-2,Cruzeiro
+1F,04/02/07,Democrata-SL,0-2,Tupi
+1F,04/02/07,Ipatinga,3-5,Democrata-GV
+1F,08/02/07,Guarani-MG,4-3,América Mineiro
+1F,10/02/07,Cruzeiro,1-3,Atlético Mineiro
+1F,11/02/07,Ituiutaba,1-1,Caldense
+1F,11/02/07,Democrata-SL,1-1,Villa Nova-MG
+1F,11/02/07,Guarani-MG,1-0,Tupi
+1F,11/02/07,América Mineiro,0-1,Ipatinga
+1F,11/02/07,Rio Branco de Andradas,1-0,Democrata-GV
+1F,14/02/07,Guarani-MG,0-0,Rio Branco de Andradas
+1F,23/02/07,Democrata-GV,1-1,América Mineiro
+1F,24/02/07,Caldense,1-1,Atlético Mineiro
+1F,25/02/07,Cruzeiro,4-1,Ituiutaba
+1F,25/02/07,Ipatinga,3-0,Guarani-MG
+1F,25/02/07,Tupi,2-2,Villa Nova-MG
+1F,25/02/07,Rio Branco de Andradas,1-0,Democrata-SL
+1F,03/03/07,Guarani-MG,0-4,Atlético Mineiro
+1F,04/03/07,Democrata-SL,3-0,Ituiutaba
+1F,04/03/07,Rio Branco de Andradas,1-1,Caldense
+1F,04/03/07,Villa Nova-MG,2-1,Ipatinga
+1F,04/03/07,Tupi,1-1,Democrata-GV
+1F,04/03/07,América Mineiro,1-2,Cruzeiro
+1F,10/03/07,Ipatinga,3-1,Cruzeiro
+1F,10/03/07,América Mineiro,0-2,Tupi
+1F,11/03/07,Ituiutaba,2-1,Rio Branco de Andradas
+1F,11/03/07,Caldense,0-1,Guarani-MG
+1F,11/03/07,Atlético Mineiro,3-0,Democrata-SL
+1F,11/03/07,Democrata-GV,2-1,Villa Nova-MG
+1F,17/03/07,Cruzeiro,6-2,Tupi
+1F,18/03/07,Democrata-SL,1-0,Guarani-MG
+1F,18/03/07,Villa Nova-MG,4-1,Caldense
+1F,18/03/07,Atlético Mineiro,2-0,América Mineiro
+1F,18/03/07,Ipatinga,1-2,Rio Branco de Andradas
+1F,18/03/07,Democrata-GV,2-1,Ituiutaba
+1F,23/03/07,América Mineiro,1-2,Villa Nova-MG
+1F,24/03/07,Ituiutaba,0-2,Atlético Mineiro
+1F,25/03/07,Caldense,0-1,Democrata-SL
+1F,25/03/07,Tupi,3-2,Ipatinga
+1F,25/03/07,Cruzeiro,3-2,Democrata-GV
+1F,28/03/07,Rio Branco de Andradas,2-0,América Mineiro
+1F,31/03/07,Democrata-SL,1-3,Cruzeiro
+1F,01/04/07,Ituiutaba,2-1,Villa Nova-MG
+1F,01/04/07,Guarani-MG,2-3,Democrata-GV
+1F,01/04/07,Caldense,1-3,Tupi
+1F,01/04/07,Atlético Mineiro,1-0,Ipatinga
+1F,08/04/07,Villa Nova-MG,2-1,Guarani-MG
+1F,08/04/07,Tupi,1-0,Rio Branco de Andradas
+1F,08/04/07,Ipatinga,1-0,Ituiutaba
+1F,08/04/07,Cruzeiro,3-0,Caldense
+1F,08/04/07,América Mineiro,2-2,Democrata-SL
+1F,08/04/07,Democrata-GV,2-0,Atlético Mineiro
+SF,14/04/07,Tupi,0-0,Cruzeiro
+SF,15/04/07,Democrata-GV,1-2,Atlético Mineiro
+SF,21/04/07,Atlético Mineiro,1-1,Democrata-GV
+SF,22/04/07,Cruzeiro,4-0,Tupi
+F,29/04/07,Atlético Mineiro,4-0,Cruzeiro
+F,06/05/07,Cruzeiro,2-0,Atlético Mineiro

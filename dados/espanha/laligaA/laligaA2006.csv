@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,26/08/06,Valencia,2-1,Real Betis
+1,27/08/06,Espanyol,0-1,Nàstic
+1,27/08/06,Deportivo,3-2,Real Zaragoza
+1,27/08/06,Osasuna,0-2,Getafe
+1,27/08/06,Real Madrid,0-0,Villarreal
+1,27/08/06,Recreativo,1-1,Mallorca
+1,27/08/06,Racing Santander,0-1,Atlético de Madrid
+1,27/08/06,Athletic Bilbao,1-1,Real Sociedad
+1,28/08/06,Celta de Vigo,2-3,Barcelona
+1,29/08/06,Sevilla,4-0,Levante
+2,09/09/06,Barcelona,3-0,Osasuna
+2,09/09/06,Atlético de Madrid,0-1,Valencia
+2,10/09/06,Real Betis,3-0,Athletic Bilbao
+2,10/09/06,Getafe,1-0,Racing Santander
+2,10/09/06,Nàstic,1-2,Celta de Vigo
+2,10/09/06,Levante,1-4,Real Madrid
+2,10/09/06,Mallorca,0-0,Deportivo
+2,10/09/06,Real Sociedad,1-3,Sevilla
+2,10/09/06,Villarreal,0-1,Recreativo
+2,10/09/06,Real Zaragoza,3-0,Espanyol
+3,16/09/06,Deportivo,2-0,Villarreal
+3,17/09/06,Sevilla,3-2,Real Betis
+3,17/09/06,Valencia,2-0,Getafe
+3,17/09/06,Real Zaragoza,2-0,Mallorca
+3,17/09/06,Racing Santander,0-3,Barcelona
+3,17/09/06,Athletic Bilbao,1-4,Atlético de Madrid
+3,17/09/06,Espanyol,2-1,Celta de Vigo
+3,17/09/06,Osasuna,2-0,Nàstic
+3,17/09/06,Recreativo,0-1,Levante
+3,17/09/06,Real Madrid,2-0,Real Sociedad
+4,23/09/06,Real Betis,0-1,Real Madrid
+4,24/09/06,Atlético de Madrid,2-1,Sevilla
+4,24/09/06,Celta de Vigo,0-2,Osasuna
+4,24/09/06,Getafe,0-0,Athletic Bilbao
+4,24/09/06,Nàstic,2-2,Racing Santander
+4,24/09/06,Levante,2-0,Deportivo
+4,24/09/06,Mallorca,1-0,Espanyol
+4,24/09/06,Real Sociedad,2-3,Recreativo
+4,24/09/06,Villarreal,3-2,Real Zaragoza
+4,24/09/06,Barcelona,1-1,Valencia
+5,30/09/06,Athletic Bilbao,1-3,Barcelona
+5,01/10/06,Espanyol,0-0,Osasuna
+5,01/10/06,Deportivo,2-0,Real Sociedad
+5,01/10/06,Mallorca,1-2,Villarreal
+5,01/10/06,Real Madrid,1-1,Atlético de Madrid
+5,01/10/06,Recreativo,2-0,Real Betis
+5,01/10/06,Racing Santander,1-1,Celta de Vigo
+5,01/10/06,Sevilla,1-0,Getafe
+5,01/10/06,Real Zaragoza,2-2,Levante
+5,01/10/06,Valencia,4-0,Nàstic
+6,14/10/06,Getafe,1-0,Real Madrid
+6,14/10/06,Atlético de Madrid,2-1,Recreativo
+6,15/10/06,Celta de Vigo,3-2,Valencia
+6,15/10/06,Nàstic,2-3,Athletic Bilbao
+6,15/10/06,Levante,0-1,Mallorca
+6,15/10/06,Osasuna,0-1,Racing Santander
+6,15/10/06,Real Sociedad,1-3,Real Zaragoza
+6,15/10/06,Villarreal,0-0,Espanyol
+6,15/10/06,Barcelona,3-1,Sevilla
+6,15/10/06,Real Betis,1-1,Deportivo
+7,21/10/06,Villarreal,1-1,Levante
+7,21/10/06,Real Zaragoza,2-1,Real Betis
+7,21/10/06,Deportivo,1-0,Atlético de Madrid
+7,22/10/06,Athletic Bilbao,0-1,Celta de Vigo
+7,22/10/06,Espanyol,2-2,Racing Santander
+7,22/10/06,Mallorca,0-0,Real Sociedad
+7,22/10/06,Recreativo,1-2,Getafe
+7,22/10/06,Valencia,1-0,Osasuna
+7,22/10/06,Sevilla,2-1,Nàstic
+7,22/10/06,Real Madrid,2-0,Barcelona
+8,28/10/06,Racing Santander,1-0,Valencia
+8,28/10/06,Barcelona,3-0,Recreativo
+8,28/10/06,Nàstic,1-3,Real Madrid
+8,29/10/06,Real Betis,0-1,Mallorca
+8,29/10/06,Celta de Vigo,1-2,Sevilla
+8,29/10/06,Getafe,2-0,Deportivo
+8,29/10/06,Levante,0-0,Espanyol
+8,29/10/06,Real Sociedad,0-1,Villarreal
+8,29/10/06,Osasuna,1-1,Athletic Bilbao
+8,29/10/06,Atlético de Madrid,0-1,Real Zaragoza
+9,04/11/06,Mallorca,0-0,Atlético de Madrid
+9,04/11/06,Levante,2-0,Real Sociedad
+9,04/11/06,Deportivo,1-1,Barcelona
+9,05/11/06,Athletic Bilbao,0-0,Racing Santander
+9,05/11/06,Recreativo,2-1,Nàstic
+9,05/11/06,Sevilla,2-0,Osasuna
+9,05/11/06,Villarreal,3-2,Real Betis
+9,05/11/06,Real Zaragoza,3-1,Getafe
+9,05/11/06,Real Madrid,1-2,Celta de Vigo
+9,05/11/06,Espanyol,1-1,Valencia
+10,11/11/06,Atlético de Madrid,3-1,Villarreal
+10,11/11/06,Valencia,1-1,Athletic Bilbao
+10,12/11/06,Real Betis,2-1,Levante
+10,12/11/06,Celta de Vigo,1-2,Recreativo
+10,12/11/06,Getafe,1-0,Mallorca
+10,12/11/06,Nàstic,0-0,Deportivo
+10,12/11/06,Real Sociedad,1-1,Espanyol
+10,12/11/06,Osasuna,1-4,Real Madrid
+10,12/11/06,Racing Santander,0-0,Sevilla
+10,12/11/06,Barcelona,3-1,Real Zaragoza
+11,18/11/06,Real Madrid,3-1,Racing Santander
+11,18/11/06,Sevilla,3-0,Valencia
+11,19/11/06,Espanyol,3-2,Athletic Bilbao
+11,19/11/06,Levante,0-3,Atlético de Madrid
+11,19/11/06,Recreativo,2-0,Osasuna
+11,19/11/06,Real Sociedad,0-0,Real Betis
+11,19/11/06,Villarreal,1-0,Getafe
+11,19/11/06,Real Zaragoza,3-0,Nàstic
+11,19/11/06,Mallorca,1-4,Barcelona
+11,19/11/06,Deportivo,0-1,Celta de Vigo
+12,25/11/06,Barcelona,4-0,Villarreal
+12,25/11/06,Atlético de Madrid,1-1,Real Sociedad
+12,26/11/06,Real Betis,1-1,Espanyol
+12,26/11/06,Celta de Vigo,1-1,Real Zaragoza
+12,26/11/06,Getafe,0-0,Levante
+12,26/11/06,Nàstic,2-3,Mallorca
+12,26/11/06,Osasuna,4-1,Deportivo
+12,26/11/06,Racing Santander,4-3,Recreativo
+12,26/11/06,Valencia,0-1,Real Madrid
+12,26/11/06,Athletic Bilbao,1-3,Sevilla
+13,02/12/06,Levante,1-1,Barcelona
+13,02/12/06,Recreativo,2-0,Valencia
+13,02/12/06,Real Betis,0-1,Atlético de Madrid
+13,03/12/06,Deportivo,0-0,Racing Santander
+13,03/12/06,Mallorca,2-2,Celta de Vigo
+13,03/12/06,Real Sociedad,0-0,Getafe
+13,03/12/06,Villarreal,2-0,Nàstic
+13,03/12/06,Espanyol,2-1,Sevilla
+13,03/12/06,Real Madrid,2-1,Athletic Bilbao
+13,03/12/06,Real Zaragoza,1-2,Osasuna
+14,09/12/06,Sevilla,2-1,Real Madrid
+14,09/12/06,Barcelona,1-0,Real Sociedad
+14,10/12/06,Athletic Bilbao,4-2,Recreativo
+14,10/12/06,Celta de Vigo,1-1,Villarreal
+14,10/12/06,Getafe,1-1,Real Betis
+14,10/12/06,Nàstic,2-1,Levante
+14,10/12/06,Osasuna,3-0,Mallorca
+14,10/12/06,Racing Santander,0-2,Real Zaragoza
+14,10/12/06,Atlético de Madrid,1-2,Espanyol
+14,10/12/06,Valencia,4-0,Deportivo
+15,16/12/06,Deportivo,0-2,Athletic Bilbao
+15,16/12/06,Mallorca,1-2,Racing Santander
+15,16/12/06,Real Zaragoza,0-1,Valencia
+15,17/12/06,Levante,1-1,Celta de Vigo
+15,17/12/06,Real Sociedad,3-2,Nàstic
+15,17/12/06,Villarreal,1-4,Osasuna
+15,17/12/06,Espanyol,0-1,Real Madrid
+15,17/12/06,Recreativo,1-3,Sevilla
+15,17/12/06,Atlético de Madrid,1-0,Getafe
+16,19/12/06,Athletic Bilbao,0-0,Real Zaragoza
+16,19/12/06,Valencia,3-1,Mallorca
+16,20/12/06,Celta de Vigo,0-0,Real Sociedad
+16,20/12/06,Getafe,0-1,Espanyol
+16,20/12/06,Nàstic,0-1,Real Betis
+16,20/12/06,Osasuna,2-1,Levante
+16,20/12/06,Racing Santander,2-1,Villarreal
+16,20/12/06,Sevilla,4-0,Deportivo
+16,20/12/06,Real Madrid,0-3,Recreativo
+16,21/12/06,Barcelona,1-1,Atlético de Madrid
+17,06/01/07,Atlético de Madrid,0-0,Nàstic
+17,06/01/07,Real Sociedad,2-1,Osasuna
+17,06/01/07,Real Zaragoza,2-1,Sevilla
+17,07/01/07,Real Betis,1-0,Celta de Vigo
+17,07/01/07,Espanyol,0-1,Recreativo
+17,07/01/07,Getafe,1-1,Barcelona
+17,07/01/07,Levante,2-0,Racing Santander
+17,07/01/07,Mallorca,1-3,Athletic Bilbao
+17,07/01/07,Deportivo,2-0,Real Madrid
+17,07/01/07,Villarreal,0-1,Valencia
+18,13/01/07,Valencia,3-0,Levante
+18,13/01/07,Espanyol,3-1,Barcelona
+18,14/01/07,Athletic Bilbao,0-1,Villarreal
+18,14/01/07,Nàstic,1-3,Getafe
+18,14/01/07,Osasuna,5-1,Real Betis
+18,14/01/07,Recreativo,1-1,Deportivo
+18,14/01/07,Racing Santander,1-0,Real Sociedad
+18,14/01/07,Sevilla,1-2,Mallorca
+18,14/01/07,Celta de Vigo,1-3,Atlético de Madrid
+18,14/01/07,Real Madrid,1-0,Real Zaragoza
+19,20/01/07,Atlético de Madrid,1-0,Osasuna
+19,20/01/07,Villarreal,0-0,Sevilla
+19,21/01/07,Real Betis,1-1,Racing Santander
+19,21/01/07,Getafe,1-0,Celta de Vigo
+19,21/01/07,Deportivo,0-0,Espanyol
+19,21/01/07,Levante,0-0,Athletic Bilbao
+19,21/01/07,Real Sociedad,0-1,Valencia
+19,21/01/07,Real Zaragoza,0-0,Recreativo
+19,21/01/07,Barcelona,3-0,Nàstic
+19,21/01/07,Mallorca,0-1,Real Madrid
+15,24/01/07,Real Betis,1-1,Barcelona
+20,27/01/07,Atlético de Madrid,1-1,Racing Santander
+20,27/01/07,Villarreal,1-0,Real Madrid
+20,28/01/07,Getafe,2-0,Osasuna
+20,28/01/07,Nàstic,4-0,Espanyol
+20,28/01/07,Mallorca,2-1,Recreativo
+20,28/01/07,Real Sociedad,0-2,Athletic Bilbao
+20,28/01/07,Real Zaragoza,1-1,Deportivo
+20,28/01/07,Barcelona,3-1,Celta de Vigo
+20,28/01/07,Levante,2-4,Sevilla
+20,28/01/07,Real Betis,2-1,Valencia
+21,03/02/07,Espanyol,1-2,Real Zaragoza
+21,03/02/07,Deportivo,1-0,Mallorca
+21,03/02/07,Valencia,3-1,Atlético de Madrid
+21,04/02/07,Athletic Bilbao,1-2,Real Betis
+21,04/02/07,Celta de Vigo,1-1,Nàstic
+21,04/02/07,Recreativo,2-1,Villarreal
+21,04/02/07,Racing Santander,1-0,Getafe
+21,04/02/07,Sevilla,0-0,Real Sociedad
+21,04/02/07,Real Madrid,0-1,Levante
+21,04/02/07,Osasuna,0-0,Barcelona
+22,10/02/07,Real Sociedad,1-2,Real Madrid
+22,10/02/07,Real Betis,0-0,Sevilla
+22,11/02/07,Celta de Vigo,0-2,Espanyol
+22,11/02/07,Getafe,3-0,Valencia
+22,11/02/07,Nàstic,2-3,Osasuna
+22,11/02/07,Levante,2-1,Recreativo
+22,11/02/07,Mallorca,2-1,Real Zaragoza
+22,11/02/07,Villarreal,0-2,Deportivo
+22,11/02/07,Barcelona,2-0,Racing Santander
+22,11/02/07,Atlético de Madrid,1-0,Athletic Bilbao
+23,17/02/07,Real Madrid,0-0,Real Betis
+23,17/02/07,Real Zaragoza,1-0,Villarreal
+23,18/02/07,Athletic Bilbao,2-0,Getafe
+23,18/02/07,Espanyol,3-1,Mallorca
+23,18/02/07,Deportivo,0-0,Levante
+23,18/02/07,Osasuna,0-1,Celta de Vigo
+23,18/02/07,Recreativo,1-0,Real Sociedad
+23,18/02/07,Racing Santander,4-1,Nàstic
+23,18/02/07,Valencia,2-1,Barcelona
+23,18/02/07,Sevilla,3-1,Atlético de Madrid
+24,24/02/07,Real Sociedad,0-1,Deportivo
+24,24/02/07,Atlético de Madrid,1-1,Real Madrid
+24,25/02/07,Real Betis,0-0,Recreativo
+24,25/02/07,Celta de Vigo,2-2,Racing Santander
+24,25/02/07,Getafe,0-0,Sevilla
+24,25/02/07,Levante,0-0,Real Zaragoza
+24,25/02/07,Osasuna,0-2,Espanyol
+24,25/02/07,Villarreal,2-1,Mallorca
+24,25/02/07,Nàstic,1-1,Valencia
+24,25/02/07,Barcelona,3-0,Athletic Bilbao
+25,03/03/07,Valencia,1-0,Celta de Vigo
+25,03/03/07,Sevilla,2-1,Barcelona
+25,04/03/07,Athletic Bilbao,0-2,Nàstic
+25,04/03/07,Espanyol,1-1,Villarreal
+25,04/03/07,Deportivo,0-1,Real Betis
+25,04/03/07,Mallorca,3-1,Levante
+25,04/03/07,Racing Santander,1-0,Osasuna
+25,04/03/07,Real Zaragoza,3-2,Real Sociedad
+25,04/03/07,Real Madrid,1-1,Getafe
+25,04/03/07,Recreativo,1-0,Atlético de Madrid
+26,10/03/07,Levante,0-2,Villarreal
+26,10/03/07,Barcelona,3-3,Real Madrid
+26,11/03/07,Real Betis,1-1,Real Zaragoza
+26,11/03/07,Celta de Vigo,1-1,Athletic Bilbao
+26,11/03/07,Getafe,1-1,Recreativo
+26,11/03/07,Racing Santander,1-1,Espanyol
+26,11/03/07,Real Sociedad,3-1,Mallorca
+26,11/03/07,Atlético de Madrid,2-0,Deportivo
+26,11/03/07,Nàstic,1-0,Sevilla
+26,11/03/07,Osasuna,1-1,Valencia
+27,17/03/07,Valencia,0-2,Racing Santander
+27,17/03/07,Mallorca,2-0,Real Betis
+27,17/03/07,Recreativo,0-4,Barcelona
+27,17/03/07,Athletic Bilbao,0-3,Osasuna
+27,18/03/07,Espanyol,1-1,Levante
+27,18/03/07,Deportivo,1-0,Getafe
+27,18/03/07,Villarreal,1-1,Real Sociedad
+27,18/03/07,Real Zaragoza,1-0,Atlético de Madrid
+27,18/03/07,Real Madrid,2-0,Nàstic
+27,18/03/07,Sevilla,2-0,Celta de Vigo
+28,31/03/07,Real Betis,3-3,Villarreal
+28,31/03/07,Real Sociedad,1-0,Levante
+28,31/03/07,Valencia,3-2,Espanyol
+28,31/03/07,Barcelona,2-1,Deportivo
+28,01/04/07,Atlético de Madrid,1-1,Mallorca
+28,01/04/07,Getafe,2-2,Real Zaragoza
+28,01/04/07,Nàstic,1-1,Recreativo
+28,01/04/07,Racing Santander,5-4,Athletic Bilbao
+28,01/04/07,Celta de Vigo,1-2,Real Madrid
+28,01/04/07,Osasuna,0-0,Sevilla
+29,07/04/07,Real Zaragoza,1-0,Barcelona
+29,07/04/07,Athletic Bilbao,1-0,Valencia
+29,08/04/07,Espanyol,1-0,Real Sociedad
+29,08/04/07,Deportivo,1-0,Nàstic
+29,08/04/07,Levante,1-1,Real Betis
+29,08/04/07,Mallorca,2-0,Getafe
+29,08/04/07,Recreativo,4-2,Celta de Vigo
+29,08/04/07,Sevilla,0-0,Racing Santander
+29,08/04/07,Real Madrid,2-0,Osasuna
+29,08/04/07,Villarreal,0-1,Atlético de Madrid
+30,14/04/07,Racing Santander,2-1,Real Madrid
+30,14/04/07,Real Betis,0-1,Real Sociedad
+30,15/04/07,Athletic Bilbao,2-1,Espanyol
+30,15/04/07,Atlético de Madrid,1-0,Levante
+30,15/04/07,Celta de Vigo,1-0,Deportivo
+30,15/04/07,Getafe,3-0,Villarreal
+30,15/04/07,Nàstic,1-0,Real Zaragoza
+30,15/04/07,Osasuna,1-1,Recreativo
+30,15/04/07,Barcelona,1-0,Mallorca
+30,15/04/07,Valencia,2-0,Sevilla

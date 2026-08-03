@@ -1,0 +1,345 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,22/03/84,GE Brasil,3-1,Bagé
+1F,22/03/84,Inter SM,1-1,Juventude
+1F,22/03/84,Novo Hamburgo,1-0,São Paulo-RS
+1F,22/03/84,São Borja,0-0,Aimoré
+1F,22/03/84,Caxias,1-1,Esportivo
+1F,22/03/84,Pelotas,1-0,Santa Cruz-RS
+1F,25/03/84,Inter SM,2-0,GE Brasil
+1F,25/03/84,Pelotas,2-0,Esportivo
+1F,25/03/84,São Borja,1-0,Santa Cruz-RS
+1F,25/03/84,Aimoré,1-0,Caxias
+1F,25/03/84,Juventude,1-0,Novo Hamburgo
+1F,25/03/84,São Paulo-RS,3-1,Bagé
+1F,29/03/84,Novo Hamburgo,0-0,GE Brasil
+1F,29/03/84,Esportivo,2-1,Aimoré
+1F,29/03/84,Juventude,1-0,São Paulo-RS
+1F,29/03/84,Santa Cruz-RS,1-0,Caxias
+1F,29/03/84,Bagé,0-1,Inter SM
+1F,29/03/84,Pelotas,2-0,São Borja
+1F,01/05/84,Esportivo,1-1,São Borja
+1F,01/05/84,Inter SM,3-0,São Paulo-RS
+1F,01/05/84,Aimoré,1-0,Santa Cruz-RS
+1F,01/05/84,GE Brasil,2-1,Juventude
+1F,01/05/84,Caxias,1-0,Pelotas
+1F,01/05/84,Bagé,0-1,Novo Hamburgo
+1F,06/05/84,São Paulo-RS,0-0,GE Brasil
+1F,07/05/84,Santa Cruz-RS,0-1,Esportivo
+1F,07/05/84,São Borja,0-1,Caxias
+1F,07/05/84,Novo Hamburgo,2-0,Inter SM
+1F,07/05/84,Pelotas,1-1,Aimoré
+1F,07/05/84,Juventude,1-2,Bagé
+1F,09/05/84,Santa Cruz-RS,1-1,GE Brasil
+1F,09/05/84,Esportivo,1-2,São Paulo-RS
+1F,09/05/84,São Borja,0-0,Inter SM
+1F,09/05/84,Caxias,2-1,Novo Hamburgo
+1F,09/05/84,Aimoré,1-4,Juventude
+1F,09/05/84,Pelotas,1-1,Bagé
+1F,13/05/84,GE Brasil,3-0,Esportivo
+1F,13/05/84,São Paulo-RS,1-1,São Borja
+1F,13/05/84,Inter SM,0-0,Caxias
+1F,13/05/84,Novo Hamburgo,3-1,Aimoré
+1F,13/05/84,Juventude,0-2,Pelotas
+1F,13/05/84,Bagé,1-1,Santa Cruz-RS
+1F,16/05/84,GE Brasil,1-0,São Borja
+1F,16/05/84,São Paulo-RS,2-1,Caxias
+1F,16/05/84,Novo Hamburgo,0-0,Pelotas
+1F,16/05/84,Juventude,1-1,Santa Cruz-RS
+1F,16/05/84,Bagé,2-0,Esportivo
+1F,17/05/84,Inter SM,2-0,Aimoré
+1F,19/05/84,Caxias,0-0,GE Brasil
+1F,19/05/84,Esportivo,2-2,Juventude
+1F,19/05/84,São Borja,3-2,Bagé
+1F,20/05/84,Aimoré,0-0,São Paulo-RS
+1F,21/05/84,Pelotas,0-0,Inter SM
+1F,21/05/84,Santa Cruz-RS,1-0,Novo Hamburgo
+1F,23/05/84,Aimoré,1-0,GE Brasil
+1F,23/05/84,Pelotas,1-0,São Paulo-RS
+1F,23/05/84,Santa Cruz-RS,0-2,Inter SM
+1F,23/05/84,Esportivo,1-0,Novo Hamburgo
+1F,23/05/84,São Borja,3-2,Juventude
+1F,23/05/84,Caxias,2-0,Bagé
+1F,27/05/84,GE Brasil,1-1,Pelotas
+1F,27/05/84,São Paulo-RS,3-3,Santa Cruz-RS
+1F,27/05/84,Inter SM,3-2,Esportivo
+1F,27/05/84,Novo Hamburgo,1-0,São Borja
+1F,27/05/84,Caxias,2-0,Juventude
+1F,27/05/84,Bagé,0-0,Aimoré
+1F,30/05/84,Aimoré,0-0,São Borja
+1F,30/05/84,Juventude,1-1,Inter SM
+1F,30/05/84,Bagé,0-1,GE Brasil
+1F,30/05/84,Esportivo,2-3,Caxias
+1F,31/05/84,Pelotas,1-1,Santa Cruz-RS
+1F,31/05/84,São Paulo-RS,0-0,Novo Hamburgo
+1F,03/06/84,GE Brasil,0-0,Inter SM
+1F,03/06/84,Esportivo,0-0,Pelotas
+1F,03/06/84,Bagé,1-1,São Paulo-RS
+1F,03/06/84,Caxias,1-2,Aimoré
+1F,03/06/84,Novo Hamburgo,3-0,Juventude
+1F,10/06/84,São Borja,1-0,Esportivo
+1F,10/06/84,Santa Cruz-RS,2-0,Aimoré
+1F,10/06/84,Juventude,1-2,GE Brasil
+1F,10/06/84,Pelotas,2-0,Caxias
+1F,10/06/84,Novo Hamburgo,2-1,Bagé
+1F,11/06/84,São Paulo-RS,2-0,Inter SM
+1F,14/06/84,Santa Cruz-RS,0-1,São Borja
+1F,16/06/84,Caxias,1-0,São Borja
+1F,16/06/84,Inter SM,1-2,Novo Hamburgo
+1F,16/06/84,Bagé,1-2,Juventude
+1F,17/06/84,Esportivo,4-1,Santa Cruz-RS
+1F,17/06/84,GE Brasil,2-0,São Paulo-RS
+1F,17/06/84,Aimoré,2-0,Pelotas
+1F,20/06/84,São Paulo-RS,1-1,Esportivo
+1F,21/06/84,GE Brasil,1-1,Santa Cruz-RS
+1F,21/06/84,Inter SM,2-1,São Borja
+1F,21/06/84,Novo Hamburgo,2-0,Caxias
+1F,21/06/84,Juventude,1-0,Aimoré
+1F,24/06/84,Esportivo,2-2,GE Brasil
+1F,24/06/84,São Borja,3-1,São Paulo-RS
+1F,24/06/84,Caxias,1-1,Inter SM
+1F,24/06/84,Aimoré,1-2,Novo Hamburgo
+1F,24/06/84,Pelotas,1-0,Juventude
+1F,24/06/84,Santa Cruz-RS,0-2,Bagé
+1F,01/07/84,São Borja,0-0,GE Brasil
+1F,01/07/84,Caxias,0-0,São Paulo-RS
+1F,01/07/84,Aimoré,1-0,Inter SM
+1F,01/07/84,Pelotas,0-1,Novo Hamburgo
+1F,01/07/84,Santa Cruz-RS,0-1,Juventude
+1F,01/07/84,Esportivo,3-1,Bagé
+1F,04/07/84,Caxias,0-1,Santa Cruz-RS
+1F,04/07/84,GE Brasil,2-0,Novo Hamburgo
+1F,04/07/84,Aimoré,3-1,Esportivo
+1F,04/07/84,São Paulo-RS,2-2,Juventude
+1F,04/07/84,São Borja,1-1,Pelotas
+1F,04/07/84,Inter SM,2-0,Bagé
+1F,08/07/84,GE Brasil,0-0,Caxias
+1F,08/07/84,São Paulo-RS,1-2,Aimoré
+1F,08/07/84,Novo Hamburgo,1-0,Santa Cruz-RS
+1F,08/07/84,Juventude,1-0,Esportivo
+1F,08/07/84,Bagé,1-1,São Borja
+1F,09/07/84,Inter SM,1-0,Pelotas
+1F,15/07/84,GE Brasil,1-0,Aimoré
+1F,15/07/84,São Paulo-RS,1-1,Pelotas
+1F,15/07/84,Novo Hamburgo,3-0,Esportivo
+1F,15/07/84,Juventude,1-1,São Borja
+1F,15/07/84,Bagé,0-0,Caxias
+1F,16/07/84,Inter SM,1-1,Santa Cruz-RS
+1F,19/07/84,Bagé,2-0,Pelotas
+1F,22/07/84,Pelotas,1-1,GE Brasil
+1F,22/07/84,Santa Cruz-RS,2-0,São Paulo-RS
+1F,22/07/84,Esportivo,2-1,Inter SM
+1F,22/07/84,São Borja,0-0,Novo Hamburgo
+1F,22/07/84,Caxias,1-0,Juventude
+1F,22/07/84,Aimoré,2-2,Bagé
+2F,05/08/84,Inter SM,0-1,Juventude
+2F,05/08/84,Bagé,0-0,GE Brasil
+2F,05/08/84,Pelotas,1-1,Caxias
+2F,05/08/84,Santa Cruz-RS,1-1,Esportivo
+2F,05/08/84,São Paulo-RS,0-0,Aimoré
+2F,05/08/84,Novo Hamburgo,0-0,São Borja
+2F,08/08/84,Juventude,1-1,Esportivo
+2F,08/08/84,Bagé,0-0,Novo Hamburgo
+2F,08/08/84,GE Brasil,0-0,Caxias
+2F,08/08/84,Inter SM,2-0,São Paulo-RS
+2F,12/08/84,Esportivo,1-0,Pelotas
+2F,12/08/84,Santa Cruz-RS,0-1,Inter SM
+2F,12/08/84,São Borja,1-1,Bagé
+2F,12/08/84,Aimoré,0-0,Juventude
+2F,12/08/84,Novo Hamburgo,0-1,GE Brasil
+2F,15/08/84,Inter SM,3-1,São Borja
+2F,15/08/84,Juventude,0-0,São Paulo-RS
+2F,15/08/84,Bagé,0-0,Pelotas
+2F,15/08/84,Esportivo,1-1,Aimoré
+2F,16/08/84,Caxias,0-0,Novo Hamburgo
+2F,19/08/84,Novo Hamburgo,1-0,Inter SM
+2F,19/08/84,Pelotas,1-0,GE Brasil
+2F,19/08/84,São Paulo-RS,0-0,Santa Cruz-RS
+2F,19/08/84,São Borja,1-0,Esportivo
+2F,19/08/84,Caxias,0-1,Aimoré
+2F,22/08/84,Inter SM,0-0,Caxias
+2F,22/08/84,Santa Cruz-RS,1-0,Bagé
+2F,22/08/84,São Borja,0-1,Juventude
+2F,22/08/84,Novo Hamburgo,0-2,Esportivo
+2F,25/08/84,Internacional,1-1,São Borja
+2F,26/08/84,Pelotas,3-1,Novo Hamburgo
+2F,26/08/84,Esportivo,0-0,Inter SM
+2F,26/08/84,Aimoré,1-1,Grêmio
+2F,26/08/84,Bagé,1-1,São Paulo-RS
+2F,26/08/84,Juventude,1-0,Caxias
+2F,26/08/84,GE Brasil,1-0,Santa Cruz-RS
+2F,27/08/84,Internacional,1-1,Esportivo
+2F,28/08/84,Novo Hamburgo,1-1,Grêmio
+2F,29/08/84,Inter SM,0-0,Internacional
+2F,30/08/84,GE Brasil,2-1,Juventude
+2F,30/08/84,São Borja,0-2,São Paulo-RS
+2F,30/08/84,Caxias,0-0,Santa Cruz-RS
+2F,30/08/84,Bagé,1-0,Aimoré
+2F,30/08/84,Grêmio,2-1,Pelotas
+2F,01/09/84,Grêmio,3-1,Bagé
+2F,02/09/84,Esportivo,1-1,GE Brasil
+2F,02/09/84,Juventude,0-1,Internacional
+2F,02/09/84,São Paulo-RS,2-0,Caxias
+2F,02/09/84,Aimoré,1-0,Novo Hamburgo
+2F,02/09/84,Santa Cruz-RS,0-0,São Borja
+2F,03/09/84,Grêmio,0-1,Inter SM
+2F,04/09/84,GE Brasil,0-2,Internacional
+2F,05/09/84,São Borja,0-0,Grêmio
+2F,05/09/84,Juventude,0-0,Bagé
+2F,06/09/84,Pelotas,0-0,Aimoré
+2F,06/09/84,Esportivo,3-1,São Paulo-RS
+2F,06/09/84,Internacional,2-0,Santa Cruz-RS
+2F,08/09/84,Internacional,2-1,São Paulo-RS
+2F,09/09/84,Bagé,1-0,Inter SM
+2F,09/09/84,Novo Hamburgo,1-1,Juventude
+2F,09/09/84,Caxias,3-0,Esportivo
+2F,09/09/84,Santa Cruz-RS,0-0,Pelotas
+2F,09/09/84,Aimoré,1-0,São Borja
+2F,09/09/84,Grêmio,1-1,GE Brasil
+2F,10/09/84,Bagé,0-1,Internacional
+2F,11/09/84,Esportivo,0-0,Grêmio
+2F,12/09/84,Pelotas,0-0,Internacional
+2F,13/09/84,Santa Cruz-RS,2-0,Novo Hamburgo
+2F,13/09/84,Aimoré,2-3,GE Brasil
+2F,13/09/84,Grêmio,2-0,Caxias
+2F,14/09/84,São Paulo-RS,0-0,Pelotas
+2F,15/09/84,Juventude,1-2,Santa Cruz-RS
+2F,15/09/84,Internacional,1-1,Aimoré
+2F,16/09/84,São Paulo-RS,0-4,Grêmio
+2F,16/09/84,Inter SM,0-0,Pelotas
+2F,16/09/84,Caxias,2-0,Bagé
+2F,16/09/84,GE Brasil,3-0,São Borja
+2F,17/09/84,Internacional,1-0,Novo Hamburgo
+2F,18/09/84,Grêmio,0-1,Juventude
+2F,19/09/84,Caxias,1-1,Internacional
+2F,20/09/84,Santa Cruz-RS,1-2,Grêmio
+2F,20/09/84,São Borja,1-1,Pelotas
+2F,20/09/84,Aimoré,0-0,Inter SM
+2F,20/09/84,São Paulo-RS,0-2,GE Brasil
+2F,22/09/84,GE Brasil,0-0,Inter SM
+2F,23/09/84,Aimoré,3-1,Santa Cruz-RS
+2F,23/09/84,São Borja,0-2,Caxias
+2F,23/09/84,Novo Hamburgo,2-0,São Paulo-RS
+2F,23/09/84,Esportivo,1-0,Bagé
+2F,23/09/84,Pelotas,0-1,Juventude
+2F,23/09/84,Internacional,2-0,Grêmio
+2F,26/09/84,Grêmio,1-1,São Paulo-RS
+2F,26/09/84,Caxias,1-1,Pelotas
+2F,26/09/84,Inter SM,1-0,Santa Cruz-RS
+2F,26/09/84,Bagé,1-2,São Borja
+2F,27/09/84,GE Brasil,1-1,Novo Hamburgo
+2F,27/09/84,Juventude,1-1,Aimoré
+2F,27/09/84,Esportivo,0-2,Internacional
+2F,30/09/84,Juventude,0-0,Grêmio
+2F,30/09/84,Internacional,3-0,GE Brasil
+2F,30/09/84,Santa Cruz-RS,2-1,São Paulo-RS
+2F,30/09/84,Novo Hamburgo,2-1,Caxias
+2F,30/09/84,Aimoré,2-0,Esportivo
+2F,30/09/84,São Borja,0-0,Inter SM
+2F,30/09/84,Pelotas,1-0,Bagé
+2F,03/10/84,Internacional,2-0,Bagé
+2F,03/10/84,Aimoré,1-2,Caxias
+2F,03/10/84,Esportivo,1-1,Santa Cruz-RS
+2F,03/10/84,São Borja,1-0,Novo Hamburgo
+2F,03/10/84,São Paulo-RS,1-0,Juventude
+2F,04/10/84,Inter SM,0-3,Grêmio
+2F,06/10/84,Juventude,0-1,São Borja
+2F,06/10/84,GE Brasil,1-0,Aimoré
+2F,07/10/84,Novo Hamburgo,0-0,Internacional
+2F,07/10/84,Grêmio,0-1,Esportivo
+2F,07/10/84,Pelotas,1-0,São Paulo-RS
+2F,07/10/84,Caxias,1-1,Inter SM
+2F,07/10/84,Bagé,0-0,Santa Cruz-RS
+2F,10/10/84,Grêmio,2-0,Aimoré
+2F,10/10/84,Novo Hamburgo,0-0,Pelotas
+2F,10/10/84,Inter SM,2-0,Esportivo
+2F,10/10/84,São Paulo-RS,0-0,Bagé
+2F,10/10/84,Caxias,1-1,Juventude
+2F,10/10/84,Santa Cruz-RS,2-1,GE Brasil
+2F,11/10/84,São Borja,0-3,Internacional
+2F,12/10/84,Pelotas,1-0,GE Brasil
+2F,14/10/84,Pelotas,0-1,Grêmio
+2F,14/10/84,Internacional,3-1,Inter SM
+2F,14/10/84,Juventude,1-0,GE Brasil
+2F,14/10/84,São Paulo-RS,0-3,São Borja
+2F,14/10/84,Santa Cruz-RS,1-0,Caxias
+2F,14/10/84,Esportivo,1-0,Novo Hamburgo
+2F,14/10/84,Aimoré,2-1,Bagé
+2F,17/10/84,Internacional,0-0,Juventude
+2F,17/10/84,Pelotas,1-0,Inter SM
+2F,17/10/84,Caxias,1-0,São Paulo-RS
+2F,17/10/84,Novo Hamburgo,1-1,Aimoré
+2F,17/10/84,São Borja,0-0,Santa Cruz-RS
+2F,18/10/84,GE Brasil,0-1,Esportivo
+2F,18/10/84,Bagé,0-1,Grêmio
+2F,21/10/84,Santa Cruz-RS,2-1,Internacional
+2F,21/10/84,Inter SM,1-1,Novo Hamburgo
+2F,21/10/84,Bagé,0-2,Juventude
+2F,21/10/84,São Paulo-RS,1-0,Esportivo
+2F,21/10/84,Aimoré,2-2,Pelotas
+2F,21/10/84,Grêmio,0-0,São Borja
+2F,21/10/84,Caxias,1-2,GE Brasil
+2F,24/10/84,São Paulo-RS,0-2,Internacional
+2F,24/10/84,Inter SM,2-0,Bagé
+2F,24/10/84,Juventude,0-0,Novo Hamburgo
+2F,24/10/84,Esportivo,3-1,Caxias
+2F,24/10/84,Pelotas,2-1,Santa Cruz-RS
+2F,24/10/84,São Borja,0-0,Aimoré
+2F,25/10/84,GE Brasil,0-0,Grêmio
+2F,28/10/84,Caxias,0-0,Grêmio
+2F,28/10/84,Internacional,1-0,Pelotas
+2F,28/10/84,Inter SM,0-0,Juventude
+2F,28/10/84,Novo Hamburgo,3-0,Santa Cruz-RS
+2F,28/10/84,GE Brasil,3-1,Bagé
+2F,28/10/84,Esportivo,0-1,São Borja
+2F,28/10/84,Aimoré,2-1,São Paulo-RS
+2F,31/10/84,Grêmio,2-2,Novo Hamburgo
+2F,31/10/84,Pelotas,1-0,Esportivo
+2F,31/10/84,São Paulo-RS,0-0,Inter SM
+2F,31/10/84,Bagé,2-2,Caxias
+2F,31/10/84,Santa Cruz-RS,1-2,Juventude
+2F,31/10/84,São Borja,0-0,GE Brasil
+2F,01/11/84,Aimoré,0-0,Internacional
+2F,03/11/84,Pelotas,4-1,São Borja
+2F,04/11/84,Grêmio,3-1,Santa Cruz-RS
+2F,04/11/84,Internacional,4-0,Caxias
+2F,04/11/84,Inter SM,3-1,Aimoré
+2F,04/11/84,Novo Hamburgo,3-0,Bagé
+2F,04/11/84,Esportivo,2-1,Juventude
+2F,04/11/84,GE Brasil,2-0,São Paulo-RS
+2F,07/11/84,Santa Cruz-RS,0-2,Aimoré
+2F,07/11/84,Juventude,1-0,Pelotas
+2F,07/11/84,São Paulo-RS,0-0,Novo Hamburgo
+2F,07/11/84,Bagé,0-2,Esportivo
+2F,07/11/84,Inter SM,0-0,GE Brasil
+2F,08/11/84,Caxias,0-2,São Borja
+2F,08/11/84,Internacional,2-1,Grêmio
+HXF,11/11/84,Grêmio,4-0,Novo Hamburgo
+HXF,11/11/84,GE Brasil,1-0,Internacional
+HXF,11/11/84,Juventude,0-1,Pelotas
+HXF,14/11/84,Internacional,4-0,Pelotas
+HXF,14/11/84,Juventude,1-0,Novo Hamburgo
+HXF,15/11/84,GE Brasil,0-0,Grêmio
+HXF,18/11/84,Pelotas,0-1,Grêmio
+HXF,18/11/84,Internacional,2-0,Juventude
+HXF,18/11/84,Novo Hamburgo,0-0,GE Brasil
+HXF,24/11/84,Pelotas,1-1,Novo Hamburgo
+HXF,24/11/84,Juventude,1-0,GE Brasil
+HXF,25/11/84,Internacional,2-0,Grêmio
+HXF,27/11/84,Grêmio,1-0,Juventude
+HXF,27/11/84,GE Brasil,0-0,Pelotas
+HXF,27/11/84,Novo Hamburgo,2-1,Internacional
+HXF,29/11/84,Grêmio,2-0,GE Brasil
+HXF,29/11/84,Novo Hamburgo,1-1,Juventude
+HXF,29/11/84,Pelotas,1-3,Internacional
+HXF,02/12/84,Juventude,0-1,Internacional
+HXF,02/12/84,Grêmio,2-1,Pelotas
+HXF,02/12/84,GE Brasil,0-0,Novo Hamburgo
+HXF,05/12/84,Internacional,3-1,Novo Hamburgo
+HXF,05/12/84,Pelotas,1-1,GE Brasil
+HXF,05/12/84,Juventude,2-0,Grêmio
+HXF,09/12/84,Novo Hamburgo,3-0,Grêmio
+HXF,09/12/84,Internacional,0-1,GE Brasil
+HXF,09/12/84,Pelotas,1-1,Juventude
+HXF,12/12/84,Novo Hamburgo,2-0,Pelotas
+HXF,12/12/84,GE Brasil,2-0,Juventude
+HXF,13/12/84,Grêmio,1-1,Internacional

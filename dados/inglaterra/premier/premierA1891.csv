@@ -1,0 +1,183 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,05/09/91,Aston Villa,5-1,Blackburn Rovers
+1,05/09/91,Darwen,1-2,Bolton Wanderers
+1,05/09/91,Notts County,2-0,Preston North End
+1,05/09/91,Stoke City,2-1,Derby County
+1,05/09/91,Sunderland,5-2,Wolverhampton
+1,05/09/91,West Bromwich,4-0,Everton
+1,05/09/91,Accrington FC,1-0,Burnley
+2,07/09/91,Burnley,2-0,Preston North End
+2,07/09/91,Everton,5-3,Darwen
+2,12/09/91,Aston Villa,5-1,West Bromwich
+2,12/09/91,Blackburn Rovers,5-4,Notts County
+2,12/09/91,Preston North End,3-1,Sunderland
+2,12/09/91,Stoke City,1-3,Wolverhampton
+2,12/09/91,Derby County,3-1,Accrington FC
+3,12/09/91,Bolton Wanderers,1-0,Darwen
+3,14/09/91,Wolverhampton,5-0,Accrington FC
+3,19/09/91,Bolton Wanderers,4-3,Sunderland
+3,19/09/91,Burnley,4-1,Stoke City
+3,19/09/91,Derby County,3-0,Notts County
+3,19/09/91,Everton,3-1,Blackburn Rovers
+3,19/09/91,Preston North End,0-1,Aston Villa
+3,19/09/91,West Bromwich,4-3,Wolverhampton
+4,19/09/91,Darwen,5-2,Accrington FC
+4,21/09/91,Preston North End,5-1,Burnley
+4,26/09/91,Bolton Wanderers,3-0,Preston North End
+4,26/09/91,Notts County,1-1,Stoke City
+4,26/09/91,Wolverhampton,1-3,Derby County
+5,26/09/91,Blackburn Rovers,3-3,Burnley
+5,26/09/91,Accrington FC,1-1,Everton
+4,28/09/91,Aston Villa,5-3,Sunderland
+5,28/09/91,Wolverhampton,2-2,Darwen
+5,01/10/91,Notts County,2-0,Bolton Wanderers
+4,03/10/91,West Bromwich,2-2,Blackburn Rovers
+5,03/10/91,Derby County,4-2,Aston Villa
+5,03/10/91,Sunderland,2-1,Everton
+6,03/10/91,Darwen,9-3,Stoke City
+6,03/10/91,Bolton Wanderers,3-4,Accrington FC
+7,03/10/91,Preston North End,2-0,Wolverhampton
+6,10/10/91,Aston Villa,1-2,Bolton Wanderers
+6,10/10/91,Blackburn Rovers,2-0,Wolverhampton
+6,10/10/91,Everton,1-1,Preston North End
+6,10/10/91,Notts County,4-0,West Bromwich
+6,10/10/91,Stoke City,3-0,Burnley
+7,10/10/91,Accrington FC,1-1,Darwen
+6,17/10/91,West Bromwich,2-5,Sunderland
+7,17/10/91,Bolton Wanderers,1-0,Everton
+7,17/10/91,Burnley,4-1,Aston Villa
+7,17/10/91,Derby County,3-3,Stoke City
+7,17/10/91,Wolverhampton,2-1,Notts County
+8,17/10/91,Darwen,3-5,Blackburn Rovers
+7,24/10/91,Sunderland,4-0,West Bromwich
+8,24/10/91,Blackburn Rovers,2-4,Preston North End
+8,24/10/91,Bolton Wanderers,2-0,Burnley
+8,24/10/91,Derby County,0-3,Everton
+8,24/10/91,Stoke City,2-3,Aston Villa
+8,24/10/91,Accrington FC,3-2,Wolverhampton
+9,24/10/91,Notts County,5-0,Darwen
+8,31/10/91,Derby County,2-1,Wolverhampton
+9,31/10/91,Bolton Wanderers,4-2,Blackburn Rovers
+9,31/10/91,Darwen,1-5,Aston Villa
+9,31/10/91,Preston North End,4-0,Everton
+9,31/10/91,West Bromwich,2-2,Notts County
+9,31/10/91,Sunderland,4-1,Accrington FC
+9,02/11/91,West Bromwich,0-2,Bolton Wanderers
+9,07/11/91,Blackburn Rovers,3-1,Sunderland
+9,07/11/91,Stoke City,0-1,Preston North End
+9,07/11/91,Wolverhampton,0-0,Burnley
+10,07/11/91,Aston Villa,5-1,Notts County
+10,07/11/91,Everton,4-3,West Bromwich
+10,07/11/91,Accrington FC,0-3,Bolton Wanderers
+10,09/11/91,Stoke City,0-1,Blackburn Rovers
+10,14/11/91,Sunderland,7-1,Derby County
+11,14/11/91,Bolton Wanderers,1-1,Stoke City
+11,14/11/91,Darwen,3-1,Everton
+11,14/11/91,Notts County,2-2,Wolverhampton
+11,14/11/91,West Bromwich,0-3,Aston Villa
+11,14/11/91,Burnley,2-1,Accrington FC
+12,14/11/91,Preston North End,3-2,Blackburn Rovers
+11,21/11/91,Sunderland,2-1,Burnley
+12,21/11/91,Aston Villa,2-1,Stoke City
+12,21/11/91,Derby County,7-0,Darwen
+12,21/11/91,West Bromwich,1-2,Preston North End
+12,21/11/91,Wolverhampton,5-1,Everton
+12,21/11/91,Accrington FC,2-0,Notts County
+13,21/11/91,Blackburn Rovers,4-0,Bolton Wanderers
+13,28/11/91,Burnley,3-2,West Bromwich
+13,28/11/91,Darwen,2-0,Derby County
+13,28/11/91,Everton,5-1,Aston Villa
+13,28/11/91,Stoke City,1-3,Sunderland
+13,28/11/91,Notts County,9-0,Accrington FC
+14,28/11/91,Wolverhampton,6-1,Blackburn Rovers
+15,28/11/91,Preston North End,4-0,Bolton Wanderers
+12,05/12/91,Derby County,1-2,Preston North End
+14,05/12/91,Aston Villa,6-1,Burnley
+14,05/12/91,Blackburn Rovers,2-2,Everton
+14,05/12/91,Stoke City,5-1,Darwen
+14,05/12/91,Sunderland,4-0,Notts County
+14,05/12/91,West Bromwich,3-1,Accrington FC
+16,05/12/91,Bolton Wanderers,3-0,Wolverhampton
+14,12/12/91,Burnley,3-0,Blackburn Rovers
+15,12/12/91,Everton,2-1,Wolverhampton
+15,12/12/91,Preston North End,6-0,Notts County
+15,12/12/91,Stoke City,0-1,Bolton Wanderers
+15,12/12/91,Sunderland,7-0,Darwen
+15,12/12/91,West Bromwich,4-2,Derby County
+15,19/12/91,Derby County,0-1,Burnley
+15,19/12/91,Wolverhampton,2-0,Aston Villa
+15,19/12/91,Stoke City,3-1,Accrington FC
+16,19/12/91,Bolton Wanderers,1-1,West Bromwich
+16,19/12/91,Notts County,2-2,Blackburn Rovers
+15,25/12/91,Everton,0-4,Sunderland
+16,25/12/91,Blackburn Rovers,4-0,Darwen
+17,25/12/91,Preston North End,3-2,Stoke City
+16,26/12/91,Aston Villa,7-0,Darwen
+16,26/12/91,Wolverhampton,1-3,Sunderland
+16,26/12/91,Blackburn Rovers,2-2,Accrington FC
+17,26/12/91,West Bromwich,1-0,Burnley
+19,26/12/91,Derby County,3-2,Bolton Wanderers
+17,28/12/91,Aston Villa,3-4,Everton
+18,28/12/91,Wolverhampton,2-1,West Bromwich
+18,01/01/92,Darwen,0-4,Preston North End
+20,01/01/92,Bolton Wanderers,3-1,Derby County
+17,02/01/92,Everton,1-1,Burnley
+17,02/01/92,Accrington FC,1-3,Preston North End
+18,02/01/92,Notts County,5-2,Aston Villa
+18,02/01/92,Wolverhampton,4-1,Stoke City
+20,02/01/92,Blackburn Rovers,0-2,Derby County
+18,04/01/92,Accrington FC,3-2,Aston Villa
+18,09/01/92,Notts County,1-3,Everton
+19,09/01/92,Burnley,9-0,Darwen
+19,09/01/92,Preston North End,1-0,West Bromwich
+19,09/01/92,Accrington FC,3-0,Stoke City
+20,09/01/92,Aston Villa,6-0,Derby County
+20,23/01/92,Accrington FC,4-2,West Bromwich
+19,06/02/92,Stoke City,1-3,Notts County
+21,06/02/92,Derby County,1-1,West Bromwich
+19,13/02/92,Burnley,1-0,Everton
+20,20/02/92,Notts County,2-1,Derby County
+20,27/02/92,Darwen,2-3,Notts County
+21,27/02/92,Accrington FC,1-0,Blackburn Rovers
+17,01/03/92,Sunderland,4-1,Bolton Wanderers
+21,01/03/92,Darwen,1-4,Wolverhampton
+22,01/03/92,Notts County,5-1,Burnley
+21,05/03/92,Blackburn Rovers,4-3,Aston Villa
+21,05/03/92,Burnley,1-2,Bolton Wanderers
+21,05/03/92,Everton,1-0,Stoke City
+21,05/03/92,Preston North End,3-0,Derby County
+22,05/03/92,Accrington FC,3-5,Sunderland
+19,12/03/92,Sunderland,4-1,Preston North End
+22,12/03/92,Blackburn Rovers,3-2,West Bromwich
+22,12/03/92,Stoke City,0-1,Everton
+23,12/03/92,Aston Villa,12-2,Accrington FC
+20,19/03/92,Derby County,0-1,Sunderland
+23,19/03/92,Blackburn Rovers,5-3,Stoke City
+24,19/03/92,Everton,3-0,Accrington FC
+22,26/03/92,Burnley,1-1,Wolverhampton
+23,26/03/92,Bolton Wanderers,2-0,Notts County
+23,26/03/92,Sunderland,2-1,Aston Villa
+25,26/03/92,Derby County,1-1,Blackburn Rovers
+22,02/04/92,Darwen,2-6,Burnley
+23,02/04/92,Wolverhampton,3-0,Preston North End
+24,02/04/92,Bolton Wanderers,1-2,Aston Villa
+24,02/04/92,Sunderland,4-1,Stoke City
+25,02/04/92,Accrington FC,1-1,Derby County
+23,04/04/92,West Bromwich,12-0,Darwen
+24,09/04/92,Notts County,1-0,Sunderland
+25,11/04/92,West Bromwich,2-2,Stoke City
+24,15/04/92,Everton,1-2,Derby County
+25,15/04/92,Burnley,1-0,Notts County
+26,15/04/92,Preston North End,4-1,Accrington FC
+24,16/04/92,Darwen,1-1,West Bromwich
+24,16/04/92,Sunderland,6-1,Blackburn Rovers
+25,16/04/92,Aston Villa,3-1,Preston North End
+25,16/04/92,Burnley,2-4,Derby County
+25,16/04/92,Wolverhampton,1-2,Bolton Wanderers
+26,16/04/92,Everton,4-0,Notts County
+25,18/04/92,Preston North End,4-0,Darwen
+26,18/04/92,Aston Villa,3-6,Wolverhampton
+26,18/04/92,Everton,2-5,Bolton Wanderers
+26,23/04/92,Darwen,1-7,Sunderland
+26,23/04/92,Stoke City,1-0,West Bromwich
+26,30/04/92,Burnley,1-2,Sunderland

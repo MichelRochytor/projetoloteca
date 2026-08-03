@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,24/05/59,Ferroviária,3-0,Juventus-SP
+C,24/05/59,Ponte Preta,0-0,XV de Piracicaba
+C,24/05/59,XV de Jaú,2-1,Noroeste
+C,24/05/59,Nacional-SP,2-5,Jabaquara
+C,24/05/59,Portuguesa,3-2,América-SP
+C,24/05/59,Palmeiras,6-0,Guarani
+C,24/05/59,Taubaté,3-1,Comercial Paulistano
+C,30/05/59,Juventus-SP,4-1,Taubaté
+C,31/05/59,Guarani,0-0,Ponte Preta
+C,31/05/59,Palmeiras,6-1,Comercial Paulistano
+C,31/05/59,Jabaquara,2-6,Portuguesa
+C,31/05/59,XV de Piracicaba,0-1,Ferroviária
+C,31/05/59,América-SP,3-2,XV de Jaú
+C,31/05/59,Noroeste,3-0,Botafogo-SP
+C,07/06/59,Ferroviária,2-0,Jabaquara
+C,07/06/59,Taubaté,3-0,América-SP
+C,07/06/59,Ponte Preta,2-1,Noroeste
+C,07/06/59,XV de Jaú,1-3,Nacional-SP
+C,07/06/59,Botafogo-SP,3-0,Guarani
+C,07/06/59,Portuguesa,1-0,Comercial Paulistano
+C,13/06/59,Comercial Paulistano,0-3,Ferroviária
+C,14/06/59,América-SP,0-0,XV de Piracicaba
+C,14/06/59,Jabaquara,2-0,Noroeste
+C,14/06/59,Botafogo-SP,2-2,Palmeiras
+C,14/06/59,Juventus-SP,0-0,Nacional-SP
+C,14/06/59,Guarani,1-1,XV de Jaú
+C,14/06/59,Portuguesa,4-1,Ponte Preta
+C,18/06/59,Palmeiras,1-1,Juventus-SP
+C,21/06/59,Nacional-SP,3-3,Guarani
+C,21/06/59,Ponte Preta,1-2,Botafogo-SP
+C,21/06/59,Ferroviária,4-2,Portuguesa
+C,21/06/59,Noroeste,2-0,América-SP
+C,21/06/59,XV de Jaú,1-2,Taubaté
+C,21/06/59,Juventus-SP,1-0,Jabaquara
+C,21/06/59,Palmeiras,2-1,XV de Piracicaba
+C,24/06/59,Palmeiras,7-1,Nacional-SP
+C,28/06/59,América-SP,1-0,Comercial Paulistano
+C,28/06/59,Jabaquara,1-0,Ponte Preta
+C,28/06/59,Botafogo-SP,2-0,XV de Jaú
+C,28/06/59,Taubaté,0-2,Palmeiras
+C,28/06/59,Guarani,2-1,Ferroviária
+C,28/06/59,XV de Piracicaba,1-0,Comercial
+C,04/07/59,Comercial Paulistano,3-3,Guarani
+C,05/07/59,Jabaquara,0-0,Botafogo-SP
+C,05/07/59,Portuguesa,0-0,Palmeiras
+C,05/07/59,Comercial,3-1,Taubaté
+C,05/07/59,Nacional-SP,3-1,XV de Piracicaba
+C,05/07/59,XV de Jaú,2-2,Juventus-SP
+C,05/07/59,Ferroviária,2-0,Noroeste
+C,05/07/59,Ponte Preta,2-1,América-SP
+C,11/07/59,Juventus-SP,6-0,Ponte Preta
+C,12/07/59,América-SP,3-1,Comercial
+C,12/07/59,Noroeste,4-1,Guarani
+C,12/07/59,Corinthians,3-1,Comercial Paulistano
+C,12/07/59,Taubaté,4-0,Portuguesa Santista
+C,12/07/59,Jabaquara,2-5,Palmeiras
+C,12/07/59,XV de Piracicaba,6-5,XV de Jaú
+C,15/07/59,São Paulo,3-0,Nacional-SP
+C,16/07/59,Corinthians,2-1,Botafogo-SP
+C,16/07/59,Portuguesa Santista,2-0,Comercial Paulistano
+C,18/07/59,Jabaquara,1-1,América-SP
+C,18/07/59,São Paulo,5-0,XV de Piracicaba
+C,19/07/59,Comercial,1-0,Portuguesa
+C,19/07/59,Palmeiras,2-1,Ferroviária
+C,19/07/59,Guarani,3-1,Taubaté
+C,19/07/59,Portuguesa Santista,1-1,Corinthians
+C,19/07/59,Comercial Paulistano,4-4,Juventus-SP
+C,19/07/59,Nacional-SP,3-1,Noroeste
+C,19/07/59,XV de Jaú,0-3,Ponte Preta
+C,22/07/59,São Paulo,2-0,Comercial
+C,23/07/59,Corinthians,2-0,Noroeste
+C,23/07/59,Santos,7-0,Jabaquara
+C,26/07/59,Comercial,1-0,Juventus-SP
+C,26/07/59,Noroeste,1-4,Palmeiras
+C,26/07/59,Santos,8-2,XV de Jaú
+C,26/07/59,Corinthians,3-0,Jabaquara
+C,26/07/59,Ponte Preta,2-0,Portuguesa Santista
+C,26/07/59,Taubaté,1-1,São Paulo
+C,26/07/59,Ferroviária,1-0,Botafogo-SP
+C,26/07/59,Portuguesa,4-2,Nacional-SP
+C,26/07/59,XV de Piracicaba,2-2,Guarani
+C,29/07/59,Corinthians,3-2,Ponte Preta
+C,29/07/59,Santos,3-1,Portuguesa Santista
+C,30/07/59,São Paulo,6-0,Jabaquara
+C,01/08/59,Comercial Paulistano,2-0,Nacional-SP
+C,02/08/59,Jabaquara,0-1,Taubaté
+C,02/08/59,Palmeiras,5-1,Comercial
+C,02/08/59,Botafogo-SP,0-0,XV de Piracicaba
+C,02/08/59,Juventus-SP,0-4,Santos
+C,02/08/59,São Paulo,2-2,Ferroviária
+C,02/08/59,Guarani,1-2,Portuguesa
+C,02/08/59,Noroeste,4-1,Portuguesa Santista
+C,02/08/59,XV de Jaú,0-2,Corinthians
+C,05/08/59,Corinthians,3-0,Nacional-SP
+C,05/08/59,Portuguesa Santista,3-2,América-SP
+C,06/08/59,São Paulo,1-0,Juventus-SP
+C,06/08/59,Santos,4-0,XV de Piracicaba
+C,09/08/59,Corinthians,3-1,Portuguesa
+C,09/08/59,Taubaté,2-0,Botafogo-SP
+C,09/08/59,América-SP,1-2,Ferroviária
+C,09/08/59,Noroeste,1-0,São Paulo
+C,09/08/59,XV de Piracicaba,3-5,Juventus-SP
+C,09/08/59,Comercial,2-1,Portuguesa Santista
+C,09/08/59,Ponte Preta,2-3,Santos
+C,12/08/59,São Paulo,5-0,XV de Jaú
+C,12/08/59,Santos,2-0,Nacional-SP
+C,13/08/59,Corinthians,1-1,América-SP
+C,13/08/59,Ferroviária,1-0,Ponte Preta
+C,15/08/59,Guarani,1-0,Jabaquara
+C,15/08/59,Juventus-SP,1-1,Botafogo-SP
+C,16/08/59,Comercial,2-1,Ponte Preta
+C,16/08/59,Portuguesa Santista,2-0,XV de Piracicaba
+C,16/08/59,Noroeste,1-0,Comercial Paulistano
+C,16/08/59,Taubaté,1-1,Santos
+C,16/08/59,América-SP,0-2,São Paulo
+C,16/08/59,Palmeiras,1-1,Corinthians
+C,16/08/59,XV de Jaú,1-3,Portuguesa
+C,19/08/59,Corinthians,1-2,Taubaté
+C,19/08/59,Santos,0-0,Ferroviária
+C,19/08/59,São Paulo,4-2,Guarani
+C,22/08/59,América-SP,1-0,Guarani
+C,22/08/59,Botafogo-SP,5-0,Comercial Paulistano
+C,22/08/59,Portuguesa Santista,3-0,XV de Jaú
+C,23/08/59,Comercial,3-2,Jabaquara
+C,23/08/59,Ponte Preta,2-4,Palmeiras
+C,23/08/59,XV de Piracicaba,1-0,Corinthians
+C,23/08/59,Ferroviária,4-2,Taubaté
+C,23/08/59,São Paulo,0-0,Portuguesa
+C,23/08/59,Noroeste,3-4,Santos
+C,23/08/59,Taubaté,1-1,Nacional-SP
+C,26/08/59,Corinthians,2-3,Santos
+C,27/08/59,Nacional-SP,1-1,Portuguesa Santista
+C,30/08/59,América-SP,2-3,Santos
+C,30/08/59,Noroeste,1-1,XV de Piracicaba
+C,30/08/59,Taubaté,4-3,Ponte Preta
+C,30/08/59,Comercial Paulistano,2-1,Comercial
+C,30/08/59,Portuguesa Santista,1-0,Juventus-SP
+C,30/08/59,XV de Jaú,0-0,Ferroviária
+C,30/08/59,Guarani,0-2,Corinthians
+C,30/08/59,Portuguesa,1-0,Botafogo-SP
+C,03/09/59,Santos,2-0,Comercial
+C,03/09/59,Portuguesa,1-2,Portuguesa Santista
+C,06/09/59,Juventus-SP,3-2,Noroeste
+C,06/09/59,América-SP,0-4,Palmeiras
+C,06/09/59,Portuguesa Santista,1-0,Guarani
+C,06/09/59,Botafogo-SP,1-0,São Paulo
+C,06/09/59,XV de Jaú,2-0,Jabaquara
+C,07/09/59,Comercial,2-0,Corinthians
+C,07/09/59,Nacional-SP,2-4,Ferroviária
+C,07/09/59,Santos,5-0,Portuguesa
+C,09/09/59,Palmeiras,2-0,São Paulo
+C,10/09/59,Corinthians,1-0,Juventus-SP
+C,10/09/59,Santos,4-1,Guarani
+C,13/09/59,América-SP,1-0,Nacional-SP
+C,13/09/59,Palmeiras,3-1,Portuguesa Santista
+C,13/09/59,XV de Piracicaba,3-1,Taubaté
+C,13/09/59,Botafogo-SP,1-3,Santos
+C,13/09/59,Ponte Preta,1-1,São Paulo
+C,13/09/59,Jabaquara,1-1,Comercial Paulistano
+C,13/09/59,XV de Jaú,1-0,Comercial
+C,16/09/59,Botafogo-SP,2-1,Comercial
+C,17/09/59,Comercial Paulistano,0-0,XV de Piracicaba
+C,17/09/59,Ferroviária,5-1,Portuguesa Santista
+C,17/09/59,Portuguesa,2-0,Noroeste
+C,19/09/59,Ponte Preta,3-1,Nacional-SP
+C,19/09/59,Taubaté,1-0,Noroeste
+C,19/09/59,Botafogo-SP,2-2,América-SP
+C,20/09/59,Guarani,2-1,Juventus-SP
+C,20/09/59,XV de Piracicaba,1-1,Jabaquara
+C,20/09/59,Comercial,0-1,Ferroviária
+C,23/09/59,Nacional-SP,2-2,Comercial
+C,24/09/59,São Paulo,3-0,Comercial Paulistano
+C,26/09/59,Botafogo-SP,3-0,Nacional-SP
+C,26/09/59,Palmeiras,1-0,XV de Jaú
+C,27/09/59,Comercial,4-1,Noroeste
+C,27/09/59,Portuguesa Santista,2-0,Jabaquara
+C,27/09/59,Ferroviária,3-1,Corinthians
+C,27/09/59,São Paulo,2-1,Santos
+C,27/09/59,Ponte Preta,3-2,Comercial Paulistano
+C,27/09/59,XV de Piracicaba,4-2,Portuguesa
+C,30/09/59,Juventus-SP,3-3,Portuguesa
+C,30/09/59,Portuguesa Santista,1-2,São Paulo
+C,01/10/59,Comercial Paulistano,1-3,Santos
+C,03/10/59,Comercial Paulistano,1-2,XV de Jaú
+C,03/10/59,Portuguesa Santista,1-1,Botafogo-SP
+C,03/10/59,São Paulo,1-0,Corinthians
+C,03/10/59,Guarani,4-0,Comercial
+C,03/10/59,Portuguesa,2-0,Taubaté
+C,03/10/59,Juventus-SP,5-0,América-SP
+C,03/10/59,Santos,7-3,Palmeiras
+C,07/10/59,Portuguesa,3-0,Jabaquara
+C,07/10/59,Juventus-SP,5-1,Guarani
+C,07/10/59,América-SP,1-0,Taubaté
+C,08/10/59,Ferroviária,2-0,XV de Piracicaba
+C,08/10/59,Botafogo-SP,7-1,Ponte Preta
+C,08/10/59,Corinthians,4-1,XV de Jaú
+C,10/10/59,São Paulo,1-2,Noroeste
+C,10/10/59,América-SP,3-1,Juventus-SP
+C,10/10/59,Jabaquara,5-2,Nacional-SP
+C,11/10/59,Ponte Preta,6-3,XV de Jaú
+C,11/10/59,XV de Piracicaba,1-0,Palmeiras
+C,11/10/59,Botafogo-SP,0-1,Ferroviária
+C,11/10/59,Portuguesa Santista,3-9,Portuguesa
+C,11/10/59,Corinthians,1-0,Comercial Paulistano
+C,11/10/59,Taubaté,2-2,Comercial
+C,14/10/59,Santos,8-0,América-SP
+C,14/10/59,Comercial,4-1,Guarani
+C,14/10/59,Noroeste,0-2,Ponte Preta
+C,15/10/59,São Paulo,3-0,Botafogo-SP
+C,15/10/59,Comercial Paulistano,2-4,Jabaquara
+C,15/10/59,Taubaté,2-0,XV de Piracicaba
+C,15/10/59,Portuguesa Santista,0-3,Palmeiras
+C,17/10/59,Portuguesa,1-1,Juventus-SP
+C,17/10/59,América-SP,0-3,Corinthians
+C,18/10/59,Jabaquara,4-3,Santos
+C,18/10/59,XV de Jaú,1-0,Palmeiras
+C,18/10/59,Botafogo-SP,1-0,Comercial
+C,18/10/59,Nacional-SP,3-0,Ponte Preta
+C,18/10/59,XV de Piracicaba,2-2,São Paulo
+C,18/10/59,Guarani,1-1,Comercial Paulistano
+C,18/10/59,Noroeste,4-0,Taubaté
+C,21/10/59,Nacional-SP,1-1,Juventus-SP
+C,21/10/59,Corinthians,5-1,Portuguesa Santista
+C,22/10/59,Portuguesa,6-3,Guarani
+C,22/10/59,Comercial Paulistano,3-3,Botafogo-SP
+C,22/10/59,Ferroviária,5-1,Comercial
+C,24/10/59,Jabaquara,1-2,São Paulo
+C,24/10/59,Portuguesa Santista,4-3,Nacional-SP
+C,25/10/59,Corinthians,2-0,Ferroviária
+C,25/10/59,Noroeste,2-0,Portuguesa
+C,25/10/59,Guarani,2-1,Ponte Preta
+C,25/10/59,Taubaté,3-1,XV de Jaú
+C,25/10/59,Juventus-SP,4-0,Comercial
+C,25/10/59,XV de Piracicaba,2-5,Santos
+C,28/10/59,Botafogo-SP,1-1,Corinthians
+C,28/10/59,Comercial Paulistano,2-2,Portuguesa Santista
+C,28/10/59,São Paulo,2-1,América-SP
+C,29/10/59,Comercial,0-1,Palmeiras
+C,29/10/59,Portuguesa,3-0,XV de Jaú
+C,29/10/59,Santos,6-1,Noroeste
+C,31/10/59,Comercial Paulistano,2-1,Juventus-SP
+C,31/10/59,Corinthians,2-0,Guarani
+C,31/10/59,Jabaquara,2-1,Ferroviária
+C,01/11/59,Comercial,2-6,Santos
+C,01/11/59,Portuguesa Santista,1-0,Taubaté
+C,01/11/59,Palmeiras,2-0,Nacional-SP
+C,01/11/59,XV de Jaú,0-0,São Paulo
+C,01/11/59,Ponte Preta,2-1,Portuguesa
+C,01/11/59,XV de Piracicaba,2-2,Botafogo-SP
+C,04/11/59,Comercial,1-1,Nacional-SP
+C,04/11/59,Taubaté,5-4,Juventus-SP
+C,04/11/59,Palmeiras,3-0,Noroeste
+C,04/11/59,Santos,4-2,Comercial Paulistano
+C,05/11/59,São Paulo,4-0,Corinthians
+C,05/11/59,XV de Jaú,1-0,XV de Piracicaba
+C,06/11/59,Jabaquara,0-0,Juventus-SP
+C,07/11/59,Nacional-SP,2-0,América-SP
+C,08/11/59,Ferroviária,3-2,Comercial Paulistano
+C,08/11/59,Juventus-SP,3-0,XV de Piracicaba
+C,08/11/59,XV de Jaú,1-0,Santos
+C,08/11/59,Guarani,2-3,Palmeiras
+C,08/11/59,São Paulo,3-2,Portuguesa
+C,08/11/59,Botafogo-SP,6-3,Noroeste
+C,08/11/59,Jabaquara,1-0,Comercial
+C,08/11/59,Taubaté,2-1,Corinthians
+C,11/11/59,Nacional-SP,3-1,Botafogo-SP
+C,11/11/59,Comercial Paulistano,6-3,Taubaté
+C,11/11/59,Santos,5-1,Juventus-SP
+C,11/11/59,Guarani,6-3,América-SP
+C,12/11/59,Ponte Preta,0-0,Ferroviária
+C,12/11/59,São Paulo,4-2,Portuguesa Santista
+C,12/11/59,Comercial,4-0,XV de Jaú
+C,15/11/59,Comercial,4-4,São Paulo
+C,15/11/59,Jabaquara,0-1,Corinthians
+C,15/11/59,Taubaté,2-1,Portuguesa
+C,15/11/59,Ferroviária,0-3,Palmeiras
+C,15/11/59,Nacional-SP,0-4,Santos
+C,15/11/59,América-SP,2-2,Ponte Preta
+C,15/11/59,Guarani,1-0,Portuguesa Santista
+C,15/11/59,Noroeste,1-0,XV de Jaú
+C,18/11/59,Juventus-SP,2-2,São Paulo
+C,18/11/59,Guarani,3-0,Noroeste
+C,18/11/59,Palmeiras,5-0,Taubaté
+C,18/11/59,Jabaquara,3-1,Portuguesa Santista
+C,19/11/59,Portuguesa,5-0,Comercial Paulistano
+C,19/11/59,XV de Piracicaba,5-2,Nacional-SP
+C,19/11/59,Santos,12-1,Ponte Preta
+C,19/11/59,Ferroviária,7-1,América-SP
+C,19/11/59,XV de Jaú,1-0,Botafogo-SP
+C,21/11/59,Corinthians,7-1,Comercial
+C,21/11/59,Palmeiras,2-0,Jabaquara
+C,22/11/59,Botafogo-SP,1-0,Taubaté
+C,22/11/59,Portuguesa Santista,1-3,Ferroviária
+C,22/11/59,XV de Piracicaba,2-1,Ponte Preta
+C,22/11/59,Comercial Paulistano,3-0,Noroeste
+C,22/11/59,Portuguesa,1-5,Santos
+C,22/11/59,Guarani,0-2,São Paulo
+C,22/11/59,XV de Jaú,2-0,América-SP
+C,25/11/59,XV de Jaú,2-1,Guarani
+C,25/11/59,Palmeiras,3-0,Corinthians

@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,01/07/44,Vasco,3-3,Fluminense
+C,02/07/44,America-RJ,2-1,Flamengo
+C,02/07/44,Botafogo,3-0,Bonsucesso
+C,02/07/44,Madureira,5-1,Bangu
+C,02/07/44,Canto do Rio,2-1,São Cristóvão
+C,08/07/44,Fluminense,7-1,Madureira
+C,09/07/44,Vasco,2-2,Canto do Rio
+C,09/07/44,São Cristóvão,2-0,Bonsucesso
+C,09/07/44,Flamengo,4-1,Botafogo
+C,09/07/44,America-RJ,6-1,Bangu
+C,15/07/44,Fluminense,3-0,America-RJ
+C,16/07/44,Flamengo,2-2,São Cristóvão
+C,16/07/44,Vasco,3-1,Madureira
+C,16/07/44,Botafogo,3-2,Bangu
+C,16/07/44,Canto do Rio,3-1,Bonsucesso
+C,22/07/44,Fluminense,1-0,Botafogo
+C,23/07/44,Flamengo,2-0,Canto do Rio
+C,23/07/44,Vasco,8-1,Bonsucesso
+C,23/07/44,Madureira,5-1,America-RJ
+C,23/07/44,São Cristóvão,3-3,Bangu
+C,29/07/44,Vasco,3-2,America-RJ
+C,30/07/44,Canto do Rio,4-2,Bangu
+C,30/07/44,Fluminense,5-2,São Cristóvão
+C,30/07/44,Flamengo,6-1,Bonsucesso
+C,30/07/44,Botafogo,2-1,Madureira
+C,06/08/44,Fluminense,1-0,Bangu
+C,06/08/44,Flamengo,1-0,Madureira
+C,06/08/44,America-RJ,4-1,Bonsucesso
+C,06/08/44,Canto do Rio,5-1,Botafogo
+C,08/08/44,Vasco,3-1,São Cristóvão
+C,12/08/44,America-RJ,3-2,São Cristóvão
+C,13/08/44,Flamengo,4-1,Bangu
+C,13/08/44,Canto do Rio,2-2,Madureira
+C,13/08/44,Botafogo,2-1,Vasco
+C,15/08/44,Fluminense,3-1,Bonsucesso
+C,19/08/44,Flamengo,0-0,Fluminense
+C,20/08/44,Madureira,4-1,Bonsucesso
+C,20/08/44,Canto do Rio,4-2,America-RJ
+C,20/08/44,Botafogo,1-0,São Cristóvão
+C,20/08/44,Vasco,7-2,Bangu
+C,26/08/44,Vasco,2-1,Flamengo
+C,27/08/44,Fluminense,2-2,Canto do Rio
+C,27/08/44,America-RJ,1-1,Botafogo
+C,27/08/44,São Cristóvão,2-0,Madureira
+C,27/08/44,Bangu,3-1,Bonsucesso
+C,02/09/44,Fluminense,2-1,Vasco
+C,03/09/44,Botafogo,3-0,Bonsucesso
+C,03/09/44,Flamengo,4-1,America-RJ
+C,03/09/44,São Cristóvão,3-0,Canto do Rio
+C,03/09/44,Madureira,3-1,Bangu
+C,09/09/44,Bonsucesso,1-0,São Cristóvão
+C,10/09/44,Botafogo,5-2,Flamengo
+C,10/09/44,Fluminense,3-1,Madureira
+C,10/09/44,Vasco,3-1,Canto do Rio
+C,10/09/44,America-RJ,3-3,Bangu
+C,16/09/44,America-RJ,2-1,Fluminense
+C,17/09/44,Vasco,3-1,Madureira
+C,17/09/44,Botafogo,3-1,Bangu
+C,17/09/44,Canto do Rio,1-1,Bonsucesso
+C,17/09/44,Flamengo,3-0,São Cristóvão
+C,23/09/44,Vasco,6-1,Bonsucesso
+C,24/09/44,Bangu,4-3,São Cristóvão
+C,24/09/44,Fluminense,1-1,Botafogo
+C,24/09/44,Flamengo,2-1,Canto do Rio
+C,24/09/44,America-RJ,3-1,Madureira
+C,30/09/44,São Cristóvão,2-0,Fluminense
+C,01/10/44,America-RJ,3-2,Vasco
+C,01/10/44,Flamengo,2-0,Bonsucesso
+C,01/10/44,Botafogo,5-1,Madureira
+C,01/10/44,Bangu,3-2,Canto do Rio
+C,07/10/44,Vasco,1-0,São Cristóvão
+C,08/10/44,Botafogo,3-0,Canto do Rio
+C,08/10/44,Bangu,3-2,Fluminense
+C,08/10/44,America-RJ,5-1,Bonsucesso
+C,08/10/44,Flamengo,2-0,Madureira
+C,14/10/44,Vasco,1-0,Botafogo
+C,15/10/44,Fluminense,6-1,Bonsucesso
+C,15/10/44,America-RJ,3-0,São Cristóvão
+C,15/10/44,Canto do Rio,3-2,Madureira
+C,15/10/44,Flamengo,7-1,Bangu
+C,21/10/44,Vasco,4-3,Bangu
+C,22/10/44,Flamengo,6-1,Fluminense
+C,22/10/44,Botafogo,1-0,São Cristóvão
+C,22/10/44,America-RJ,1-1,Canto do Rio
+C,22/10/44,Bonsucesso,3-3,Madureira
+C,28/10/44,Fluminense,4-1,Canto do Rio
+C,29/10/44,Madureira,4-1,São Cristóvão
+C,29/10/44,Flamengo,1-0,Vasco
+C,29/10/44,Botafogo,3-0,America-RJ
+C,29/10/44,Bonsucesso,5-4,Bangu

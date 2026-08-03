@@ -1,0 +1,203 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/01/10,Bragantino,4-0,Oeste
+1,16/01/10,Rio Claro,1-3,Botafogo-SP
+1,16/01/10,Palmeiras,5-1,Mogi Mirim
+1,16/01/10,Ituano,4-0,Mirassol
+1,16/01/10,Ponte Preta,1-1,Santo André
+1,17/01/10,Sertãozinho,1-1,Grêmio Barueri
+1,17/01/10,Monte Azul,1-1,Corinthians
+1,17/01/10,São Paulo,1-3,Portuguesa
+1,17/01/10,Rio Branco-SP,0-4,Santos
+1,17/01/10,São Caetano,2-0,Paulista
+2,19/01/10,Botafogo-SP,0-0,Ituano
+2,20/01/10,Portuguesa,2-0,Sertãozinho
+2,20/01/10,Oeste,2-2,Monte Azul
+2,20/01/10,Paulista,2-1,Rio Claro
+2,20/01/10,Santos,1-1,Ponte Preta
+2,20/01/10,Corinthians,2-1,Bragantino
+2,20/01/10,Mirassol,1-1,São Paulo
+2,21/01/10,Mogi Mirim,2-2,Rio Branco-SP
+2,21/01/10,Grêmio Barueri,2-2,Palmeiras
+2,21/01/10,Santo André,2-2,São Caetano
+3,23/01/10,Ponte Preta,2-1,Monte Azul
+3,23/01/10,São Paulo,3-0,Rio Claro
+3,23/01/10,Bragantino,1-1,Portuguesa
+3,24/01/10,Santo André,4-2,Paulista
+3,24/01/10,Oeste,1-2,Corinthians
+3,24/01/10,Palmeiras,3-3,Ituano
+3,24/01/10,São Caetano,5-1,Sertãozinho
+3,24/01/10,Mogi Mirim,2-1,Santos
+3,24/01/10,Mirassol,2-2,Grêmio Barueri
+3,24/01/10,Rio Branco-SP,1-0,Botafogo-SP
+4,27/01/10,Rio Claro,3-1,São Caetano
+4,27/01/10,Santos,5-0,Grêmio Barueri
+4,27/01/10,Portuguesa,0-1,Mogi Mirim
+4,27/01/10,Santo André,2-2,Oeste
+4,27/01/10,Corinthians,1-1,Mirassol
+4,27/01/10,Monte Azul,0-1,Palmeiras
+4,28/01/10,São Paulo,3-0,Paulista
+4,28/01/10,Sertãozinho,0-0,Rio Branco-SP
+4,28/01/10,Botafogo-SP,1-0,Ponte Preta
+4,28/01/10,Bragantino,3-4,Ituano
+5,30/01/10,Grêmio Barueri,3-2,Rio Claro
+5,30/01/10,Santos,2-0,Oeste
+5,30/01/10,São Caetano,2-2,Monte Azul
+5,31/01/10,Mogi Mirim,1-1,Bragantino
+5,31/01/10,Corinthians,1-0,Palmeiras
+5,31/01/10,Portuguesa,1-2,Botafogo-SP
+5,31/01/10,Rio Branco-SP,1-2,Ponte Preta
+5,31/01/10,Sertãozinho,2-2,São Paulo
+5,31/01/10,Paulista,0-2,Mirassol
+5,31/01/10,Ituano,1-2,Santo André
+6,03/02/10,Monte Azul,2-2,Ituano
+6,03/02/10,Sertãozinho,1-1,Rio Claro
+6,03/02/10,Grêmio Barueri,0-4,Botafogo-SP
+6,03/02/10,Oeste,2-2,Paulista
+6,03/02/10,Ponte Preta,2-1,Corinthians
+6,03/02/10,São Paulo,3-0,São Caetano
+6,04/02/10,Palmeiras,1-1,Portuguesa
+6,04/02/10,Bragantino,4-3,Rio Branco-SP
+6,04/02/10,Santo André,1-2,Santos
+6,04/02/10,Mirassol,1-0,Mogi Mirim
+7,06/02/10,Rio Claro,0-1,Oeste
+7,06/02/10,Corinthians,4-0,Sertãozinho
+7,06/02/10,Ituano,0-4,Grêmio Barueri
+7,07/02/10,Monte Azul,2-3,Paulista
+7,07/02/10,São Paulo,1-2,Santos
+7,07/02/10,Bragantino,2-3,Palmeiras
+7,07/02/10,Rio Branco-SP,1-4,Santo André
+7,07/02/10,Ponte Preta,2-1,Portuguesa
+7,07/02/10,Botafogo-SP,3-0,Mogi Mirim
+7,07/02/10,Mirassol,0-3,São Caetano
+8,12/02/10,Santo André,2-1,Mirassol
+8,12/02/10,Grêmio Barueri,1-0,Monte Azul
+8,12/02/10,São Caetano,1-2,Rio Branco-SP
+8,13/02/10,Portuguesa,1-1,Corinthians
+8,13/02/10,Ituano,0-1,São Paulo
+8,13/02/10,Botafogo-SP,1-1,Palmeiras
+8,13/02/10,Ponte Preta,2-3,Sertãozinho
+8,13/02/10,Mogi Mirim,1-3,Oeste
+8,13/02/10,Paulista,2-2,Bragantino
+8,14/02/10,Santos,2-1,Rio Claro
+9,17/02/10,Rio Branco-SP,0-0,Monte Azul
+9,17/02/10,Rio Claro,1-0,Ituano
+9,17/02/10,Paulista,0-1,Ponte Preta
+9,17/02/10,Oeste,1-2,Portuguesa
+9,17/02/10,Sertãozinho,2-3,Santo André
+9,17/02/10,Mogi Mirim,0-3,Corinthians
+9,17/02/10,Palmeiras,1-4,São Caetano
+9,18/02/10,Mirassol,1-1,Botafogo-SP
+9,18/02/10,Santos,6-3,Bragantino
+9,18/02/10,São Paulo,3-1,Grêmio Barueri
+10,20/02/10,Ituano,1-0,Sertãozinho
+10,20/02/10,Portuguesa,2-1,Paulista
+10,20/02/10,Corinthians,0-0,Rio Branco-SP
+10,20/02/10,Ponte Preta,1-3,Oeste
+10,21/02/10,Monte Azul,3-2,Rio Claro
+10,21/02/10,Palmeiras,2-0,São Paulo
+10,21/02/10,Grêmio Barueri,1-3,Santo André
+10,21/02/10,Mirassol,1-2,Santos
+10,21/02/10,São Caetano,1-0,Mogi Mirim
+10,21/02/10,Bragantino,2-0,Botafogo-SP
+11,27/02/10,Rio Branco-SP,1-2,Ituano
+11,27/02/10,Botafogo-SP,1-0,São Caetano
+11,27/02/10,Santo André,2-0,Portuguesa
+11,27/02/10,Sertãozinho,1-1,Bragantino
+11,27/02/10,Mirassol,1-1,Oeste
+11,28/02/10,Santos,2-1,Corinthians
+11,28/02/10,São Paulo,5-1,Monte Azul
+11,28/02/10,Rio Claro,1-0,Palmeiras
+11,28/02/10,Mogi Mirim,1-0,Paulista
+11,28/02/10,Grêmio Barueri,3-1,Ponte Preta
+12,03/03/10,Monte Azul,1-2,Mirassol
+12,03/03/10,Portuguesa,3-1,Rio Claro
+12,03/03/10,Bragantino,2-3,São Caetano
+12,03/03/10,Grêmio Barueri,2-0,Rio Branco-SP
+12,03/03/10,Sertãozinho,2-3,Mogi Mirim
+12,03/03/10,Palmeiras,1-3,Santo André
+12,03/03/10,Oeste,0-0,São Paulo
+12,04/03/10,Corinthians,1-1,Botafogo-SP
+12,04/03/10,Ituano,1-1,Ponte Preta
+12,04/03/10,Paulista,2-3,Santos
+13,06/03/10,Oeste,1-1,Grêmio Barueri
+13,06/03/10,Bragantino,1-1,Monte Azul
+13,07/03/10,Rio Branco-SP,2-2,Mirassol
+13,07/03/10,São Caetano,0-1,Corinthians
+13,07/03/10,Portuguesa,1-1,Santos
+13,07/03/10,Santo André,4-1,Botafogo-SP
+13,07/03/10,Ponte Preta,0-2,São Paulo
+13,07/03/10,Rio Claro,0-0,Mogi Mirim
+13,07/03/10,Ituano,1-0,Paulista
+13,08/03/10,Palmeiras,3-2,Sertãozinho
+14,13/03/10,Botafogo-SP,2-1,Oeste
+14,13/03/10,Mirassol,1-2,Rio Claro
+14,13/03/10,Portuguesa,1-0,São Caetano
+14,13/03/10,Paulista,1-2,Grêmio Barueri
+14,13/03/10,Mogi Mirim,3-0,Ituano
+14,14/03/10,Monte Azul,1-0,Sertãozinho
+14,14/03/10,Santos,3-4,Palmeiras
+14,14/03/10,São Paulo,2-1,Rio Branco-SP
+14,14/03/10,Corinthians,2-1,Santo André
+14,14/03/10,Ponte Preta,4-3,Bragantino
+15,20/03/10,Monte Azul,0-4,Portuguesa
+15,20/03/10,Rio Claro,3-0,Rio Branco-SP
+15,20/03/10,Palmeiras,0-2,Ponte Preta
+15,20/03/10,Sertãozinho,2-1,Mirassol
+15,20/03/10,Santo André,4-1,Bragantino
+15,21/03/10,São Caetano,2-2,Oeste
+15,21/03/10,Grêmio Barueri,2-0,Corinthians
+15,21/03/10,São Paulo,3-0,Mogi Mirim
+15,21/03/10,Santos,9-1,Ituano
+15,21/03/10,Paulista,1-0,Botafogo-SP
+16,24/03/10,Rio Branco-SP,2-2,Palmeiras
+16,24/03/10,Mirassol,0-1,Portuguesa
+16,24/03/10,Ponte Preta,2-2,Rio Claro
+16,24/03/10,Ituano,0-1,São Caetano
+16,24/03/10,Corinthians,0-1,Paulista
+16,24/03/10,Bragantino,1-0,São Paulo
+16,25/03/10,Santo André,3-0,Monte Azul
+16,25/03/10,Grêmio Barueri,3-0,Mogi Mirim
+16,25/03/10,Botafogo-SP,2-4,Santos
+16,25/03/10,Oeste,2-1,Sertãozinho
+17,27/03/10,Palmeiras,1-1,Mirassol
+17,27/03/10,Paulista,1-0,Rio Branco-SP
+17,27/03/10,Rio Claro,1-3,Bragantino
+17,27/03/10,São Caetano,2-0,Ponte Preta
+17,28/03/10,Oeste,2-0,Ituano
+17,28/03/10,Corinthians,4-3,São Paulo
+17,28/03/10,Santos,5-0,Monte Azul
+17,28/03/10,Mogi Mirim,3-2,Santo André
+17,28/03/10,Botafogo-SP,3-1,Sertãozinho
+17,28/03/10,Portuguesa,1-2,Grêmio Barueri
+18,03/04/10,Palmeiras,0-0,Oeste
+18,03/04/10,Rio Branco-SP,0-2,Portuguesa
+18,03/04/10,Sertãozinho,3-2,Paulista
+18,03/04/10,Rio Claro,1-1,Santo André
+18,04/04/10,Monte Azul,5-3,Mogi Mirim
+18,04/04/10,São Paulo,5-0,Botafogo-SP
+18,04/04/10,Ituano,0-2,Corinthians
+18,04/04/10,São Caetano,1-3,Santos
+18,04/04/10,Bragantino,2-3,Grêmio Barueri
+18,04/04/10,Ponte Preta,1-3,Mirassol
+19,07/04/10,Corinthians,5-1,Rio Claro
+19,07/04/10,Santos,4-2,Sertãozinho
+19,07/04/10,Santo André,1-3,São Paulo
+19,07/04/10,Paulista,3-1,Palmeiras
+19,07/04/10,Oeste,3-1,Rio Branco-SP
+19,07/04/10,Botafogo-SP,2-1,Monte Azul
+19,07/04/10,Mogi Mirim,1-0,Ponte Preta
+19,07/04/10,Mirassol,3-0,Bragantino
+19,07/04/10,Grêmio Barueri,1-0,São Caetano
+19,07/04/10,Portuguesa,2-3,Ituano
+SF,10/04/10,Ponte Preta,0-0,Botafogo-SP
+SF,10/04/10,Oeste,1-0,São Caetano
+SF,11/04/10,São Paulo,2-3,Santos
+SF,11/04/10,Grêmio Barueri,1-2,Santo André
+SF,17/04/10,São Caetano,3-1,Oeste
+SF,17/04/10,Botafogo-SP,2-2,Ponte Preta
+SF,18/04/10,Santos,3-0,São Paulo
+SF,18/04/10,Santo André,1-2,Grêmio Barueri
+,24/04/10,São Caetano,1-0,Botafogo-SP
+F,25/04/10,Santo André,2-3,Santos
+,01/05/10,Botafogo-SP,1-0,São Caetano
+F,02/05/10,Santos,2-3,Santo André

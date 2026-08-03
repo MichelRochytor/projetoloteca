@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/80,Birmingham City,3-1,Coventry City
+1,15/08/80,Brighton & Hove Albion,2-0,Wolverhampton
+1,15/08/80,Leeds United,1-2,Aston Villa
+1,15/08/80,Leicester City,0-1,Ipswich Town
+1,15/08/80,Liverpool,3-0,Crystal Palace
+1,15/08/80,Manchester United,3-0,Middlesbrough
+1,15/08/80,Norwich City,5-1,Stoke City
+1,15/08/80,Southampton,2-0,Manchester City
+1,15/08/80,Sunderland,3-1,Everton
+1,15/08/80,Tottenham,2-0,Nottingham Forest
+1,15/08/80,West Bromwich,0-1,Arsenal
+2,18/08/80,Arsenal,1-1,Southampton
+2,18/08/80,Coventry City,0-0,Liverpool
+2,18/08/80,Crystal Palace,3-4,Tottenham
+2,18/08/80,Everton,1-0,Leicester City
+2,18/08/80,Ipswich Town,2-0,Brighton & Hove Albion
+2,18/08/80,Middlesbrough,3-0,Leeds United
+2,18/08/80,Wolverhampton,1-0,Manchester United
+2,19/08/80,Aston Villa,1-0,Norwich City
+2,19/08/80,Manchester City,0-4,Sunderland
+2,19/08/80,Nottingham Forest,2-1,Birmingham City
+2,19/08/80,Stoke City,0-0,West Bromwich
+3,22/08/80,Birmingham City,0-0,Manchester United
+3,22/08/80,Coventry City,3-1,Arsenal
+3,22/08/80,Crystal Palace,5-2,Middlesbrough
+3,22/08/80,Everton,0-0,Nottingham Forest
+3,22/08/80,Leicester City,2-0,Liverpool
+3,22/08/80,Manchester City,2-2,Aston Villa
+3,22/08/80,Norwich City,2-3,Leeds United
+3,22/08/80,Stoke City,2-2,Ipswich Town
+3,22/08/80,Sunderland,1-2,Southampton
+3,22/08/80,Tottenham,2-2,Brighton & Hove Albion
+3,22/08/80,West Bromwich,1-1,Wolverhampton
+4,29/08/80,Arsenal,2-0,Tottenham
+4,29/08/80,Aston Villa,1-0,Coventry City
+4,29/08/80,Brighton & Hove Albion,1-2,West Bromwich
+4,29/08/80,Ipswich Town,4-0,Everton
+4,29/08/80,Leeds United,1-2,Leicester City
+4,29/08/80,Liverpool,4-1,Norwich City
+4,29/08/80,Manchester United,1-1,Sunderland
+4,29/08/80,Middlesbrough,2-2,Manchester City
+4,29/08/80,Nottingham Forest,5-0,Stoke City
+4,29/08/80,Southampton,3-1,Birmingham City
+4,29/08/80,Wolverhampton,2-0,Crystal Palace
+5,05/09/80,Birmingham City,1-1,Liverpool
+5,05/09/80,Coventry City,3-1,Crystal Palace
+5,05/09/80,Everton,2-0,Wolverhampton
+5,05/09/80,Ipswich Town,1-0,Aston Villa
+5,05/09/80,Leicester City,0-1,Sunderland
+5,05/09/80,Manchester City,1-1,Arsenal
+5,05/09/80,Middlesbrough,0-0,Nottingham Forest
+5,05/09/80,Southampton,3-1,Brighton & Hove Albion
+5,05/09/80,Stoke City,3-0,Leeds United
+5,05/09/80,Tottenham,0-0,Manchester United
+5,05/09/80,West Bromwich,3-0,Norwich City
+6,12/09/80,Arsenal,2-0,Stoke City
+6,12/09/80,Aston Villa,0-2,Everton
+6,12/09/80,Brighton & Hove Albion,2-2,Birmingham City
+6,12/09/80,Crystal Palace,1-2,Ipswich Town
+6,12/09/80,Leeds United,0-0,Tottenham
+6,12/09/80,Liverpool,4-0,West Bromwich
+6,12/09/80,Manchester United,5-0,Leicester City
+6,12/09/80,Norwich City,1-0,Southampton
+6,12/09/80,Nottingham Forest,3-2,Manchester City
+6,12/09/80,Sunderland,0-1,Middlesbrough
+6,12/09/80,Wolverhampton,0-1,Coventry City
+7,19/09/80,Aston Villa,2-1,Wolverhampton
+7,19/09/80,Birmingham City,1-1,West Bromwich
+7,19/09/80,Brighton & Hove Albion,2-0,Norwich City
+7,19/09/80,Everton,5-0,Crystal Palace
+7,19/09/80,Ipswich Town,2-0,Coventry City
+7,19/09/80,Leeds United,0-0,Manchester United
+7,19/09/80,Manchester City,1-2,Stoke City
+7,19/09/80,Middlesbrough,2-1,Arsenal
+7,19/09/80,Nottingham Forest,5-0,Leicester City
+7,19/09/80,Southampton,2-2,Liverpool
+7,19/09/80,Tottenham,0-0,Sunderland
+8,26/09/80,Arsenal,1-0,Nottingham Forest
+8,26/09/80,Coventry City,0-5,Everton
+8,26/09/80,Crystal Palace,0-1,Aston Villa
+8,26/09/80,Leicester City,2-1,Tottenham
+8,26/09/80,Liverpool,4-1,Brighton & Hove Albion
+8,26/09/80,Manchester United,2-2,Manchester City
+8,26/09/80,Norwich City,2-2,Birmingham City
+8,26/09/80,Stoke City,1-0,Middlesbrough
+8,26/09/80,Sunderland,4-1,Leeds United
+8,26/09/80,West Bromwich,2-1,Southampton
+8,26/09/80,Wolverhampton,0-2,Ipswich Town
+9,03/10/80,Arsenal,1-0,Leicester City
+9,03/10/80,Aston Villa,4-0,Sunderland
+9,03/10/80,Coventry City,3-3,Brighton & Hove Albion
+9,03/10/80,Crystal Palace,0-1,West Bromwich
+9,03/10/80,Everton,2-1,Southampton
+9,03/10/80,Ipswich Town,1-1,Leeds United
+9,03/10/80,Manchester City,0-3,Liverpool
+9,03/10/80,Middlesbrough,6-1,Norwich City
+9,03/10/80,Nottingham Forest,1-2,Manchester United
+9,03/10/80,Stoke City,2-3,Tottenham
+9,03/10/80,Wolverhampton,1-0,Birmingham City
+10,06/10/80,Birmingham City,3-1,Arsenal
+10,06/10/80,Brighton & Hove Albion,1-3,Everton
+10,06/10/80,Liverpool,4-2,Middlesbrough
+10,06/10/80,Southampton,4-2,Wolverhampton
+10,07/10/80,Leeds United,1-0,Manchester City
+10,07/10/80,Leicester City,1-1,Stoke City
+10,07/10/80,Manchester United,3-3,Aston Villa
+10,07/10/80,Sunderland,2-2,Nottingham Forest
+10,07/10/80,West Bromwich,1-0,Coventry City
+10,10/10/80,Norwich City,1-1,Wolverhampton
+10,10/10/80,Tottenham,3-2,Middlesbrough
+11,10/10/80,Birmingham City,1-2,Aston Villa
+11,10/10/80,Brighton & Hove Albion,0-1,Nottingham Forest
+11,10/10/80,Leeds United,1-0,Everton
+11,10/10/80,Leicester City,1-3,Coventry City
+11,10/10/80,Liverpool,1-1,Ipswich Town
+11,10/10/80,Manchester United,0-0,Arsenal
+11,10/10/80,Southampton,1-2,Stoke City
+11,10/10/80,Sunderland,1-0,Crystal Palace
+11,10/10/80,West Bromwich,3-1,Manchester City
+11,17/10/80,Aston Villa,3-0,Tottenham
+11,17/10/80,Coventry City,0-1,Norwich City
+12,17/10/80,Arsenal,2-2,Sunderland
+12,17/10/80,Crystal Palace,2-1,Leicester City
+12,17/10/80,Everton,2-2,Liverpool
+12,17/10/80,Ipswich Town,1-1,Manchester United
+12,17/10/80,Manchester City,0-1,Birmingham City
+12,17/10/80,Middlesbrough,1-1,Southampton
+12,17/10/80,Nottingham Forest,2-1,West Bromwich
+12,17/10/80,Stoke City,0-0,Brighton & Hove Albion
+12,17/10/80,Wolverhampton,2-1,Leeds United
+12,20/10/80,Arsenal,3-1,Norwich City
+13,20/10/80,Coventry City,2-1,Sunderland
+13,20/10/80,Crystal Palace,3-2,Southampton
+13,20/10/80,Everton,1-1,West Bromwich
+13,20/10/80,Middlesbrough,1-0,Leicester City
+12,21/10/80,Manchester City,3-1,Tottenham
+13,21/10/80,Aston Villa,4-1,Brighton & Hove Albion
+13,21/10/80,Nottingham Forest,2-1,Leeds United
+13,21/10/80,Stoke City,1-2,Manchester United
+13,24/10/80,Birmingham City,1-1,Stoke City
+13,24/10/80,Liverpool,1-1,Arsenal
+13,24/10/80,Norwich City,1-1,Nottingham Forest
+13,24/10/80,Tottenham,4-1,Coventry City
+14,24/10/80,Brighton & Hove Albion,1-2,Manchester City
+14,24/10/80,Leeds United,1-0,Crystal Palace
+14,24/10/80,Leicester City,2-0,Wolverhampton
+14,24/10/80,Manchester United,2-0,Everton
+14,24/10/80,Southampton,1-2,Aston Villa
+14,24/10/80,Sunderland,0-2,Ipswich Town
+14,24/10/80,West Bromwich,3-0,Middlesbrough
+14,28/10/80,Norwich City,1-1,Crystal Palace
+14,31/10/80,Everton,2-2,Tottenham
+14,31/10/80,Middlesbrough,1-2,Birmingham City
+14,31/10/80,Stoke City,2-2,Liverpool
+15,31/10/80,Arsenal,2-0,Brighton & Hove Albion
+15,31/10/80,Aston Villa,2-0,Leicester City
+15,31/10/80,Coventry City,2-1,Leeds United
+15,31/10/80,Crystal Palace,1-0,Manchester United
+15,31/10/80,Ipswich Town,0-0,West Bromwich
+15,31/10/80,Manchester City,1-0,Norwich City
+15,31/10/80,Nottingham Forest,2-1,Southampton
+15,31/10/80,Wolverhampton,2-1,Sunderland
+15,07/11/80,Birmingham City,1-0,Crystal Palace
+15,07/11/80,Liverpool,0-0,Nottingham Forest
+15,07/11/80,Tottenham,2-2,Wolverhampton
+16,07/11/80,Brighton & Hove Albion,0-1,Middlesbrough
+16,07/11/80,Leeds United,0-5,Arsenal
+16,07/11/80,Leicester City,1-1,Manchester City
+16,07/11/80,Manchester United,0-0,Coventry City
+16,07/11/80,Norwich City,2-1,Everton
+16,07/11/80,Southampton,3-3,Ipswich Town
+16,07/11/80,Sunderland,0-0,Stoke City
+16,07/11/80,West Bromwich,0-0,Aston Villa
+16,10/11/80,Birmingham City,2-0,Nottingham Forest
+16,10/11/80,Liverpool,2-1,Coventry City
+17,10/11/80,Brighton & Hove Albion,1-0,Ipswich Town
+17,10/11/80,Southampton,3-1,Arsenal
+16,11/11/80,Tottenham,4-2,Crystal Palace
+17,11/11/80,Leeds United,2-1,Middlesbrough
+17,11/11/80,Leicester City,0-1,Everton
+17,11/11/80,Manchester United,0-0,Wolverhampton
+17,11/11/80,Norwich City,1-3,Aston Villa
+17,11/11/80,Sunderland,2-0,Manchester City
+17,14/11/80,Arsenal,2-2,West Bromwich
+17,14/11/80,Coventry City,2-1,Birmingham City
+17,14/11/80,Crystal Palace,2-2,Liverpool
+17,14/11/80,Nottingham Forest,0-3,Tottenham
+18,14/11/80,Aston Villa,1-1,Leeds United
+18,14/11/80,Everton,2-1,Sunderland
+18,14/11/80,Ipswich Town,3-1,Leicester City
+18,14/11/80,Manchester City,3-0,Southampton
+18,14/11/80,Middlesbrough,1-1,Manchester United
+18,14/11/80,Stoke City,3-1,Norwich City
+18,14/11/80,Wolverhampton,0-2,Brighton & Hove Albion
+17,21/11/80,Nottingham Forest,1-2,Ipswich Town
+18,21/11/80,Birmingham City,2-1,Tottenham
+18,21/11/80,Liverpool,2-1,Aston Villa
+19,21/11/80,Arsenal,2-1,Everton
+19,21/11/80,Brighton & Hove Albion,1-4,Manchester United
+19,21/11/80,Manchester City,3-0,Coventry City
+19,21/11/80,Middlesbrough,2-0,Wolverhampton
+19,21/11/80,Norwich City,1-0,Sunderland
+19,21/11/80,Southampton,2-1,Leeds United
+19,21/11/80,Stoke City,1-0,Crystal Palace
+19,21/11/80,West Bromwich,3-1,Leicester City
+19,24/11/80,West Bromwich,0-0,Stoke City
+19,24/11/80,Wolverhampton,4-1,Liverpool
+19,28/11/80,Everton,1-1,Birmingham City
+19,28/11/80,Tottenham,2-3,West Bromwich
+20,28/11/80,Aston Villa,1-1,Arsenal
+20,28/11/80,Coventry City,1-1,Nottingham Forest
+20,28/11/80,Crystal Palace,2-3,Manchester City
+20,28/11/80,Leeds United,1-0,Brighton & Hove Albion
+20,28/11/80,Leicester City,1-2,Norwich City
+20,28/11/80,Manchester United,1-1,Southampton
+20,28/11/80,Sunderland,2-4,Liverpool
+20,28/11/80,Wolverhampton,1-0,Stoke City
+18,05/12/80,Manchester City,1-1,Ipswich Town
+20,05/12/80,Birmingham City,1-2,Leicester City
+20,05/12/80,Middlesbrough,2-1,Aston Villa
+21,05/12/80,Arsenal,1-1,Wolverhampton
+21,05/12/80,Brighton & Hove Albion,2-1,Sunderland
+21,05/12/80,Liverpool,2-1,Tottenham
+21,05/12/80,Norwich City,2-2,Manchester United
+21,05/12/80,Nottingham Forest,3-0,Crystal Palace
+21,05/12/80,Southampton,1-0,Coventry City
+21,05/12/80,Stoke City,2-2,Everton
+21,05/12/80,West Bromwich,1-2,Leeds United
+21,12/12/80,Aston Villa,3-0,Birmingham City
+21,12/12/80,Tottenham,2-1,Manchester City
+22,12/12/80,Coventry City,3-0,West Bromwich
+22,12/12/80,Crystal Palace,4-1,Norwich City
+22,12/12/80,Everton,4-3,Brighton & Hove Albion
+22,12/12/80,Ipswich Town,1-1,Liverpool
+22,12/12/80,Leeds United,1-0,Nottingham Forest
+22,12/12/80,Leicester City,1-0,Middlesbrough
+22,12/12/80,Manchester United,2-2,Stoke City
+22,12/12/80,Sunderland,2-0,Arsenal
+22,12/12/80,Wolverhampton,1-1,Southampton
+22,16/12/80,Tottenham,5-3,Ipswich Town
+22,19/12/80,Birmingham City,1-3,Ipswich Town
+23,19/12/80,Arsenal,2-1,Manchester United
+23,19/12/80,Brighton & Hove Albion,1-0,Aston Villa
+23,19/12/80,Liverpool,1-0,Wolverhampton
+23,19/12/80,Manchester City,1-0,Leeds United
+23,19/12/80,Middlesbrough,4-1,Tottenham
+23,19/12/80,Norwich City,2-0,Coventry City
+23,19/12/80,Nottingham Forest,3-1,Sunderland
+23,19/12/80,Southampton,4-2,Crystal Palace
+23,19/12/80,Stoke City,1-0,Leicester City
+23,25/12/80,Everton,0-2,Manchester City
+23,25/12/80,Leeds United,0-0,Birmingham City
+24,25/12/80,Aston Villa,1-0,Stoke City
+24,25/12/80,Coventry City,1-0,Middlesbrough
+24,25/12/80,Crystal Palace,2-2,Arsenal
+24,25/12/80,Ipswich Town,2-0,Norwich City
+24,25/12/80,Leicester City,0-1,Brighton & Hove Albion
+24,25/12/80,Manchester United,0-0,Liverpool
+24,25/12/80,Sunderland,0-0,West Bromwich
+24,25/12/80,Tottenham,4-4,Southampton
+24,25/12/80,Wolverhampton,1-4,Nottingham Forest
+24,26/12/80,Birmingham City,3-2,Sunderland
+24,26/12/80,Middlesbrough,1-0,Everton
+25,26/12/80,Arsenal,1-1,Ipswich Town
+25,26/12/80,Brighton & Hove Albion,3-2,Crystal Palace
+25,26/12/80,Liverpool,0-0,Leeds United
+25,26/12/80,Manchester City,4-0,Wolverhampton
+25,26/12/80,Norwich City,2-2,Tottenham
+25,26/12/80,Nottingham Forest,2-2,Aston Villa
+25,26/12/80,Southampton,4-0,Leicester City
+25,26/12/80,Stoke City,2-2,Coventry City
+25,26/12/80,West Bromwich,3-1,Manchester United
+24,09/01/81,Ipswich Town,2-0,Nottingham Forest
+25,09/01/81,Tottenham,1-0,Birmingham City
+25,09/01/81,Wolverhampton,3-0,Middlesbrough
+26,09/01/81,Aston Villa,2-0,Liverpool
+26,09/01/81,Coventry City,1-1,Manchester City
+26,09/01/81,Crystal Palace,1-1,Stoke City
+26,09/01/81,Everton,1-2,Arsenal
+26,09/01/81,Leeds United,0-3,Southampton
+26,09/01/81,Leicester City,0-2,West Bromwich
+26,09/01/81,Manchester United,2-1,Brighton & Hove Albion
+26,09/01/81,Sunderland,3-0,Norwich City
+26,12/01/81,Ipswich Town,5-1,Birmingham City
+26,16/01/81,Everton,0-0,Ipswich Town
+26,16/01/81,Manchester City,3-2,Middlesbrough
+27,16/01/81,Birmingham City,0-3,Southampton
+27,16/01/81,Coventry City,1-2,Aston Villa
+27,16/01/81,Crystal Palace,0-0,Wolverhampton
+27,16/01/81,Leicester City,0-1,Leeds United
+27,16/01/81,Norwich City,0-1,Liverpool
+27,16/01/81,Tottenham,2-0,Arsenal
+27,16/01/81,West Bromwich,2-0,Brighton & Hove Albion
+27,27/01/81,Sunderland,2-0,Manchester United
+27,30/01/81,Ipswich Town,4-0,Stoke City
+27,30/01/81,Nottingham Forest,1-0,Everton
+27,30/01/81,Wolverhampton,2-0,West Bromwich
+28,30/01/81,Arsenal,2-2,Coventry City
+28,30/01/81,Aston Villa,1-0,Manchester City
+28,30/01/81,Brighton & Hove Albion,0-2,Tottenham

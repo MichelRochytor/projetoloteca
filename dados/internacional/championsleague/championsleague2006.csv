@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,12/09/06,Chelsea,2-0,Werder Bremen
+A,12/09/06,Barcelona,5-0,Levski Sofia
+B,12/09/06,Sporting,1-0,Internazionale
+B,12/09/06,Bayern München,4-0,Spartak Moskva
+C,12/09/06,Galatasaray,0-0,Bordeaux
+C,12/09/06,PSV,0-0,Liverpool
+D,12/09/06,Olympiacos,2-4,Valencia
+D,12/09/06,Roma,4-0,Shakhtar Donetsk
+G,12/09/06,FC Porto,0-0,CSKA Moskva
+E,13/09/06,Dynamo Kyiv,1-4,FCSB
+E,13/09/06,Lyon,2-0,Real Madrid
+F,13/09/06,Manchester United,3-2,Celtic
+F,13/09/06,FC Kobenhavn,0-0,Benfica
+G,13/09/06,Hamburger SV,1-2,Arsenal
+H,13/09/06,Anderlecht,1-1,Lille
+H,13/09/06,Milan,3-0,AEK
+G,25/09/06,Arsenal,2-0,FC Porto
+G,26/09/06,CSKA Moskva,1-0,Hamburger SV
+E,26/09/06,FCSB,0-3,Lyon
+E,26/09/06,Real Madrid,5-1,Dynamo Kyiv
+F,26/09/06,Celtic,1-0,FC Kobenhavn
+F,26/09/06,Benfica,0-1,Manchester United
+H,26/09/06,Lille,0-0,Milan
+H,26/09/06,AEK,1-1,Anderlecht
+B,27/09/06,Spartak Moskva,1-1,Sporting
+A,27/09/06,Levski Sofia,1-3,Chelsea
+A,27/09/06,Werder Bremen,1-1,Barcelona
+B,27/09/06,Internazionale,0-2,Bayern München
+C,27/09/06,Liverpool,3-2,Galatasaray
+C,27/09/06,Bordeaux,0-1,PSV
+D,27/09/06,Valencia,2-1,Roma
+D,27/09/06,Shakhtar Donetsk,2-2,Olympiacos
+G,16/10/06,FC Porto,4-1,Hamburger SV
+G,17/10/06,CSKA Moskva,1-0,Arsenal
+E,17/10/06,FCSB,1-4,Real Madrid
+E,17/10/06,Dynamo Kyiv,0-3,Lyon
+F,17/10/06,Manchester United,3-0,FC Kobenhavn
+F,17/10/06,Celtic,3-0,Benfica
+H,17/10/06,Lille,3-1,AEK
+H,17/10/06,Anderlecht,0-1,Milan
+A,18/10/06,Chelsea,1-0,Barcelona
+A,18/10/06,Werder Bremen,2-0,Levski Sofia
+B,18/10/06,Sporting,0-1,Bayern München
+B,18/10/06,Internazionale,2-1,Spartak Moskva
+C,18/10/06,Galatasaray,1-2,PSV
+C,18/10/06,Bordeaux,0-1,Liverpool
+D,18/10/06,Valencia,2-0,Shakhtar Donetsk
+D,18/10/06,Olympiacos,0-1,Roma
+B,31/10/06,Spartak Moskva,0-1,Internazionale
+A,31/10/06,Levski Sofia,0-3,Werder Bremen
+A,31/10/06,Barcelona,2-2,Chelsea
+B,31/10/06,Bayern München,0-0,Sporting
+C,31/10/06,PSV,2-0,Galatasaray
+C,31/10/06,Liverpool,3-0,Bordeaux
+D,31/10/06,Shakhtar Donetsk,2-2,Valencia
+D,31/10/06,Roma,1-1,Olympiacos
+G,31/10/06,Hamburger SV,1-3,FC Porto
+E,01/11/06,Real Madrid,1-0,FCSB
+E,01/11/06,Lyon,1-0,Dynamo Kyiv
+F,01/11/06,FC Kobenhavn,1-0,Manchester United
+F,01/11/06,Benfica,3-0,Celtic
+G,01/11/06,Arsenal,0-0,CSKA Moskva
+H,01/11/06,Milan,4-1,Anderlecht
+H,01/11/06,AEK,1-0,Lille
+G,20/11/06,CSKA Moskva,0-2,FC Porto
+E,21/11/06,Real Madrid,2-2,Lyon
+E,21/11/06,FCSB,1-1,Dynamo Kyiv
+F,21/11/06,Benfica,3-1,FC Kobenhavn
+F,21/11/06,Celtic,1-0,Manchester United
+G,21/11/06,Arsenal,3-1,Hamburger SV
+H,21/11/06,AEK,1-0,Milan
+H,21/11/06,Lille,2-2,Anderlecht
+B,22/11/06,Spartak Moskva,2-2,Bayern München
+A,22/11/06,Werder Bremen,1-0,Chelsea
+A,22/11/06,Levski Sofia,0-2,Barcelona
+B,22/11/06,Internazionale,1-0,Sporting
+C,22/11/06,Bordeaux,3-1,Galatasaray
+C,22/11/06,Liverpool,2-0,PSV
+D,22/11/06,Shakhtar Donetsk,1-0,Roma
+D,22/11/06,Valencia,2-0,Olympiacos
+A,05/12/06,Barcelona,2-0,Werder Bremen
+A,05/12/06,Chelsea,2-0,Levski Sofia
+B,05/12/06,Bayern München,1-1,Internazionale
+B,05/12/06,Sporting,1-3,Spartak Moskva
+C,05/12/06,Galatasaray,3-2,Liverpool
+C,05/12/06,PSV,1-3,Bordeaux
+D,05/12/06,Olympiacos,1-1,Shakhtar Donetsk
+D,05/12/06,Roma,1-0,Valencia
+G,05/12/06,FC Porto,0-0,Arsenal
+E,06/12/06,Dynamo Kyiv,2-2,Real Madrid
+E,06/12/06,Lyon,1-1,FCSB
+F,06/12/06,FC Kobenhavn,3-1,Celtic
+F,06/12/06,Manchester United,3-1,Benfica
+G,06/12/06,Hamburger SV,3-2,CSKA Moskva
+H,06/12/06,Anderlecht,2-2,AEK
+H,06/12/06,Milan,0-2,Lille
+1/8,20/02/07,Celtic,0-0,Milan
+1/8,20/02/07,PSV,1-0,Arsenal
+1/8,20/02/07,Lille,0-1,Manchester United
+1/8,20/02/07,Real Madrid,3-2,Bayern München
+1/8,20/02/07,FC Porto,1-1,Chelsea
+1/8,21/02/07,Roma,0-0,Lyon
+1/8,21/02/07,Barcelona,1-2,Liverpool
+1/8,21/02/07,Internazionale,2-2,Valencia
+1/8,05/03/07,Chelsea,2-1,FC Porto
+1/8,06/03/07,Lyon,0-2,Roma
+1/8,06/03/07,Liverpool,0-1,Barcelona
+1/8,06/03/07,Valencia,0-0,Internazionale
+1/8,07/03/07,Milan,1-0(Pro.),Celtic
+1/8,07/03/07,Arsenal,1-1,PSV
+1/8,07/03/07,Manchester United,1-0,Lille
+1/8,07/03/07,Bayern München,2-1,Real Madrid
+QF,03/04/07,Milan,2-2,Bayern München
+QF,03/04/07,PSV,0-3,Liverpool
+QF,04/04/07,Roma,2-1,Manchester United
+QF,04/04/07,Chelsea,1-1,Valencia
+QF,10/04/07,Manchester United,7-1,Roma
+QF,10/04/07,Valencia,1-2,Chelsea
+QF,11/04/07,Bayern München,0-2,Milan
+QF,11/04/07,Liverpool,1-0,PSV
+SF,24/04/07,Manchester United,3-2,Milan
+SF,25/04/07,Chelsea,1-0,Liverpool
+SF,01/05/07,Liverpool,1-0(4-1 Pen.),Chelsea
+SF,02/05/07,Milan,3-0,Manchester United
+F,23/05/07,Liverpool,1-2,Milan

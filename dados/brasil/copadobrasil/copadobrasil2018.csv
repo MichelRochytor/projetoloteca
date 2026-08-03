@@ -1,0 +1,121 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,30/01/18,Vitória da Conquista,0-0,Boa Esporte
+1F,30/01/18,Caxias,0-0,Atlético Paranaense
+1F,31/01/18,Nova Iguaçu,1-1,Bragantino
+1F,31/01/18,Caldense,0-1,Fluminense
+1F,31/01/18,Boavista-RJ,1-1,Internacional
+1F,31/01/18,Aimoré,1-2,Cuiabá
+1F,31/01/18,Atlético Tubarão,2-0,América-RN
+1F,31/01/18,Uberlândia,2-0,Ituano
+1F,31/01/18,Floresta-CE,0-2,Botafogo-PB
+1F,31/01/18,Novoperário,2-3,Salgueiro
+1F,31/01/18,Cordino,1-1,Náutico
+1F,31/01/18,Independente Tucuruí,0-1,Sampaio Corrêa
+1F,31/01/18,Interporto,0-0,Juventude
+1F,31/01/18,Treze,0-2,Figueirense
+1F,31/01/18,Itabaiana,0-1,Joinville
+1F,31/01/18,Madureira,0-1,São Paulo
+1F,31/01/18,Real Ariquemes,0-1,Londrina
+1F,31/01/18,Fluminense de Feira,2-0,Santa Cruz
+1F,01/02/18,URT,1-1,Paraná
+1F,01/02/18,Novo Hamburgo,2-1,Paysandu
+1F,06/02/18,Nacional-AM,0-0,Ponte Preta
+1F,06/02/18,Brasiliense,1-1,Oeste
+1F,06/02/18,Inter de Limeira,1-0,Rio Branco-AC
+1F,06/02/18,Aparecidense,2-1,Botafogo
+1F,07/02/18,Ceilândia,2-3,Avaí
+1F,07/02/18,At. Itapemirim,0-2,Remo
+1F,07/02/18,Altos,2-1,Atlético Goianiense
+1F,07/02/18,Globo FC,0-2,Vitória
+1F,07/02/18,Santos-AP,1-2,Sport
+1F,07/02/18,Parnahyba,1-1,Coritiba
+1F,07/02/18,São Caetano,1-1,Criciúma
+1F,07/02/18,Cianorte,2-0,ABC
+1F,07/02/18,Atlético-AC,1-1,Atlético Mineiro
+1F,07/02/18,Ferroviário,2-1,Confiança
+1F,07/02/18,Corumbaense,1-0,ASA
+1F,07/02/18,União Rondonópolis,1-3,CRB
+1F,07/02/18,Sinop,0-1,Goiás
+1F,07/02/18,Brusque,0-1,Ceará
+1F,07/02/18,Manaus FC,2-2,CSA
+1F,07/02/18,São Raimundo-RR,0-1,Vila Nova
+2F,14/02/18,Fluminense de Feira,0-1,Náutico
+2F,15/02/18,Fluminense,5-0,Salgueiro
+2F,15/02/18,Vitória,3-0,Corumbaense
+2F,15/02/18,Sport,3-3(3-4 Pen.),Ferroviário
+2F,15/02/18,CSA,0-2,São Paulo
+2F,15/02/18,Novo Hamburgo,1-1(3-4 Pen.),CRB
+2F,21/02/18,Atlético Paranaense,5-4,Atlético Tubarão
+2F,21/02/18,Londrina,1-2,Ceará
+2F,21/02/18,Remo,1-2,Internacional
+2F,21/02/18,Criciúma,1-1(4-5 Pen.),Cianorte
+2F,21/02/18,Goiás,0-0(6-5 Pen.),Boa Esporte
+2F,21/02/18,Bragantino,1-0,Altos
+2F,21/02/18,Figueirense,2-1,Oeste
+2F,21/02/18,Cuiabá,3-1,Aparecidense
+2F,21/02/18,Ponte Preta,1-0,Inter de Limeira
+2F,21/02/18,Botafogo-PB,0-4,Atlético Mineiro
+2F,22/02/18,Juventude,0-2,Avaí
+2F,22/02/18,Vila Nova,2-2(4-2 Pen.),Joinville
+2F,22/02/18,Uberlândia,0-2,Coritiba
+2F,22/02/18,Sampaio Corrêa,1-0,Paraná
+3F,28/02/18,Goiás,1-0,Coritiba
+3F,28/02/18,Ponte Preta,0-0,Sampaio Corrêa
+3F,28/02/18,São Paulo,2-0,CRB
+3F,28/02/18,Bragantino,1-0,Vitória
+3F,28/02/18,Náutico,2-1,Cuiabá
+3F,28/02/18,Ferroviário,1-1,Vila Nova
+3F,28/02/18,Atlético Paranaense,0-0,Ceará
+3F,28/02/18,Figueirense,0-1,Atlético Mineiro
+3F,01/03/18,Internacional,2-0,Cianorte
+3F,01/03/18,Fluminense,1-2,Avaí
+3F,14/03/18,Cianorte,0-2,Internacional
+3F,14/03/18,Coritiba,1-1,Goiás
+3F,14/03/18,CRB,0-3,São Paulo
+3F,14/03/18,Cuiabá,0-1,Náutico
+3F,14/03/18,Atlético Mineiro,1-2(4-2 Pen.),Figueirense
+3F,15/03/18,Sampaio Corrêa,0-0(3-5 Pen.),Ponte Preta
+3F,15/03/18,Vitória,3-0,Bragantino
+3F,15/03/18,Vila Nova,0-1,Ferroviário
+3F,15/03/18,Ceará,1-1(5-6 Pen.),Atlético Paranaense
+3F,15/03/18,Avaí,1-0,Fluminense
+4F,04/04/18,Atlético Mineiro,4-0,Ferroviário
+4F,04/04/18,Atlético Paranaense,2-1,São Paulo
+4F,11/04/18,Avaí,2-2,Goiás
+4F,11/04/18,Internacional,2-1,Vitória
+4F,11/04/18,Ponte Preta,3-0,Náutico
+4F,18/04/18,Goiás,2-0,Avaí
+4F,18/04/18,Náutico,1-0,Ponte Preta
+4F,18/04/18,Ferroviário,2-2,Atlético Mineiro
+4F,19/04/18,São Paulo,2-2,Atlético Paranaense
+4F,19/04/18,Vitória,1-0(4-3 Pen.),Internacional
+1/8,25/04/18,Goiás,0-2,Grêmio
+1/8,25/04/18,Vitória,0-0,Corinthians
+1/8,02/05/18,Atlético Mineiro,0-0,Chapecoense
+1/8,02/05/18,Ponte Preta,0-1,Flamengo
+1/8,09/05/18,América Mineiro,1-2,Palmeiras
+1/8,09/05/18,Grêmio,3-1,Goiás
+1/8,09/05/18,Bahia,3-0,Vasco
+1/8,10/05/18,Corinthians,3-1,Vitória
+1/8,10/05/18,Flamengo,0-0,Ponte Preta
+1/8,10/05/18,Santos,5-1,Luverdense
+1/8,16/05/18,Chapecoense,0-0(4-3 Pen.),Atlético Mineiro
+1/8,16/05/18,Atlético Paranaense,1-2,Cruzeiro
+1/8,17/05/18,Luverdense,2-1,Santos
+1/8,23/05/18,Palmeiras,1-1,América Mineiro
+1/8,16/07/18,Cruzeiro,1-1,Atlético Paranaense
+1/8,16/07/18,Vasco,2-0,Bahia
+QF,01/08/18,Santos,0-1,Cruzeiro
+QF,01/08/18,Corinthians,1-0,Chapecoense
+QF,01/08/18,Grêmio,1-1,Flamengo
+QF,02/08/18,Bahia,0-0,Palmeiras
+QF,15/08/18,Cruzeiro,1-2(3-0 Pen.),Santos
+QF,15/08/18,Chapecoense,0-1,Corinthians
+QF,15/08/18,Flamengo,1-0,Grêmio
+QF,16/08/18,Palmeiras,1-0,Bahia
+SF,12/09/18,Palmeiras,0-1,Cruzeiro
+SF,12/09/18,Flamengo,0-0,Corinthians
+SF,26/09/18,Cruzeiro,1-1,Palmeiras
+SF,26/09/18,Corinthians,2-1,Flamengo
+F,10/10/18,Cruzeiro,1-0,Corinthians
+F,17/10/18,Corinthians,1-2,Cruzeiro

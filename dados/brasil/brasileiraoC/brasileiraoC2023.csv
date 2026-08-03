@@ -1,0 +1,217 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,20/04/24,Tombense,1-0,São José-RS
+1,20/04/24,Remo,1-2,Volta Redonda
+1,20/04/24,Caxias,0-4,Athletic-MG
+1,20/04/24,Ypiranga-RS,3-1,CSA
+1,21/04/24,Náutico,1-1,São Bernardo
+1,21/04/24,Figueirense,2-1,Ferroviário
+1,21/04/24,Floresta-CE,1-2,Botafogo-PB
+1,22/04/24,Confiança,1-1,Londrina
+1,22/04/24,Ferroviária,1-1,ABC
+1,24/04/24,Aparecidense,2-0,Sampaio Corrêa
+2,27/04/24,Sampaio Corrêa,1-1,Figueirense
+2,27/04/24,ABC,0-3,Náutico
+2,27/04/24,São Bernardo,4-2,Tombense
+2,27/04/24,Athletic-MG,3-1,Remo
+2,28/04/24,CSA,1-1,Ferroviária
+2,28/04/24,Londrina,0-4,Ypiranga-RS
+2,28/04/24,Botafogo-PB,1-1,Caxias
+2,28/04/24,Volta Redonda,2-1,Floresta-CE
+2,29/04/24,Ferroviário,2-2,Aparecidense
+2,29/04/24,São José-RS,1-2,Confiança
+3,04/05/24,Confiança,0-2,Tombense
+3,04/05/24,Floresta-CE,1-4,Ferroviária
+3,05/05/24,Figueirense,2-0,Aparecidense
+3,05/05/24,Botafogo-PB,1-0,Remo
+3,05/05/24,Athletic-MG,1-0,ABC
+3,06/05/24,Londrina,2-2,CSA
+3,06/05/24,São Bernardo,5-0,Ferroviário
+4,11/05/24,Tombense,1-0,Sampaio Corrêa
+4,11/05/24,ABC,0-2,Londrina
+4,12/05/24,CSA,0-5,Athletic-MG
+4,12/05/24,Ferroviária,2-1,Náutico
+4,12/05/24,Remo,1-0,Floresta-CE
+4,12/05/24,Volta Redonda,1-3,Botafogo-PB
+4,13/05/24,Aparecidense,1-1,São Bernardo
+5,18/05/24,CSA,0-0,Sampaio Corrêa
+5,18/05/24,Volta Redonda,2-1,Náutico
+5,18/05/24,Ferroviária,1-0,Confiança
+5,19/05/24,Remo,0-0,Tombense
+5,19/05/24,Londrina,2-0,São Bernardo
+5,19/05/24,Ferroviário,0-4,ABC
+5,20/05/24,Athletic-MG,1-0,Aparecidense
+5,20/05/24,Floresta-CE,0-2,Figueirense
+6,25/05/24,Sampaio Corrêa,0-1,Botafogo-PB
+6,25/05/24,Confiança,0-0,ABC
+6,25/05/24,Náutico,4-1,Remo
+6,26/05/24,Figueirense,0-1,Ferroviária
+6,26/05/24,São Bernardo,2-0,CSA
+6,26/05/24,Londrina,1-1,Volta Redonda
+6,28/05/24,Floresta-CE,1-2,Ferroviário
+3,29/05/24,São José-RS,1-3,Volta Redonda
+4,30/05/24,Ypiranga-RS,1-0,Figueirense
+7,01/06/24,Confiança,3-1,Aparecidense
+7,01/06/24,Sampaio Corrêa,1-2,Remo
+7,01/06/24,Tombense,0-0,Ferroviária
+7,01/06/24,Ferroviário,1-0,Londrina
+7,02/06/24,Caxias,2-1,Figueirense
+7,02/06/24,São Bernardo,1-0,Ypiranga-RS
+7,02/06/24,ABC,1-0,Floresta-CE
+7,03/06/24,Volta Redonda,2-1,CSA
+7,03/06/24,São José-RS,2-0,Náutico
+7,03/06/24,Botafogo-PB,3-1,Athletic-MG
+8,08/06/24,Figueirense,1-1,ABC
+8,08/06/24,Londrina,2-0,Sampaio Corrêa
+8,08/06/24,Ferroviária,0-0,Aparecidense
+8,09/06/24,Athletic-MG,3-2,Volta Redonda
+8,09/06/24,Botafogo-PB,1-0,Ferroviário
+8,09/06/24,Náutico,2-2,Caxias
+8,09/06/24,Remo,0-1,São Bernardo
+8,10/06/24,CSA,1-1,São José-RS
+8,10/06/24,Floresta-CE,1-0,Confiança
+8,10/06/24,Ypiranga-RS,1-0,Tombense
+3,12/06/24,Sampaio Corrêa,2-1,Caxias
+9,15/06/24,CSA,1-1,Botafogo-PB
+9,15/06/24,Aparecidense,2-1,Tombense
+9,15/06/24,Athletic-MG,3-1,Ferroviário
+9,16/06/24,Remo,1-0,Ypiranga-RS
+9,16/06/24,Figueirense,2-0,Confiança
+9,16/06/24,São José-RS,0-2,Londrina
+9,16/06/24,Caxias,0-0,Ferroviária
+9,17/06/24,Náutico,0-1,Floresta-CE
+9,17/06/24,ABC,0-1,Volta Redonda
+9,18/06/24,São Bernardo,0-0,Sampaio Corrêa
+4,19/06/24,Ferroviário,3-2,São José-RS
+10,22/06/24,Tombense,3-0,Floresta-CE
+10,22/06/24,Londrina,1-1,Botafogo-PB
+10,23/06/24,São José-RS,0-1,Ypiranga-RS
+10,23/06/24,Volta Redonda,1-0,Caxias
+10,23/06/24,São Bernardo,1-2,Figueirense
+10,24/06/24,ABC,3-1,Remo
+10,24/06/24,Aparecidense,2-2,Náutico
+6,26/06/24,Tombense,2-1,Caxias
+10,26/06/24,Sampaio Corrêa,3-1,Athletic-MG
+10,26/06/24,Ferroviário,0-0,Ferroviária
+10,27/06/24,Confiança,0-1,CSA
+11,29/06/24,Volta Redonda,2-2,Sampaio Corrêa
+11,29/06/24,Athletic-MG,1-4,São Bernardo
+11,29/06/24,Remo,2-1,Ferroviário
+11,29/06/24,Ypiranga-RS,1-1,ABC
+11,30/06/24,Floresta-CE,2-1,Caxias
+11,30/06/24,Ferroviária,1-0,São José-RS
+11,01/07/24,Náutico,2-1,Confiança
+11,01/07/24,Londrina,3-3,Tombense
+11,03/07/24,Botafogo-PB,4-3,Aparecidense
+11,03/07/24,CSA,3-1,Figueirense
+6,04/07/24,São José-RS,0-1,Athletic-MG
+12,06/07/24,Ferroviário,0-2,Volta Redonda
+12,06/07/24,Sampaio Corrêa,0-2,Ferroviária
+12,06/07/24,ABC,0-2,CSA
+12,06/07/24,Aparecidense,1-2,Londrina
+12,07/07/24,Figueirense,0-0,Athletic-MG
+12,07/07/24,Tombense,0-0,Náutico
+12,07/07/24,Confiança,2-0,Ypiranga-RS
+12,08/07/24,Caxias,2-4,Remo
+12,08/07/24,São José-RS,0-0,Floresta-CE
+12,08/07/24,São Bernardo,1-0,Botafogo-PB
+13,13/07/24,Athletic-MG,2-1,Londrina
+13,13/07/24,Botafogo-PB,3-3,Confiança
+13,13/07/24,Sampaio Corrêa,2-0,São José-RS
+13,14/07/24,Volta Redonda,1-3,São Bernardo
+13,14/07/24,CSA,1-2,Floresta-CE
+13,14/07/24,Náutico,4-0,Figueirense
+13,15/07/24,ABC,1-0,Tombense
+13,15/07/24,Ferroviária,2-1,Remo
+13,17/07/24,Caxias,3-0,Aparecidense
+5,17/07/24,Botafogo-PB,2-1,São José-RS
+13,17/07/24,Ypiranga-RS,2-0,Ferroviário
+14,20/07/24,Londrina,2-0,Caxias
+14,20/07/24,São Bernardo,0-0,Ferroviária
+14,20/07/24,Tombense,1-1,Figueirense
+14,21/07/24,Volta Redonda,3-0,Ypiranga-RS
+14,21/07/24,São José-RS,0-1,Aparecidense
+14,21/07/24,Náutico,2-2,Athletic-MG
+14,21/07/24,Botafogo-PB,1-0,ABC
+14,22/07/24,Confiança,1-1,Ferroviário
+14,22/07/24,Remo,2-1,CSA
+14,22/07/24,Floresta-CE,1-0,Sampaio Corrêa
+6,24/07/24,Aparecidense,0-0,Ypiranga-RS
+15,27/07/24,Sampaio Corrêa,1-1,Náutico
+15,27/07/24,Figueirense,1-0,Remo
+15,27/07/24,Tombense,1-1,Athletic-MG
+15,27/07/24,Ferroviário,1-1,CSA
+15,28/07/24,Caxias,1-0,São José-RS
+15,28/07/24,ABC,1-1,São Bernardo
+15,28/07/24,Ypiranga-RS,2-2,Botafogo-PB
+15,28/07/24,Confiança,4-1,Volta Redonda
+15,29/07/24,Ferroviária,0-0,Londrina
+15,29/07/24,Aparecidense,1-1,Floresta-CE
+3,31/07/24,Náutico,1-2,Ypiranga-RS
+4,31/07/24,Caxias,1-0,Confiança
+16,03/08/24,Volta Redonda,1-1,Tombense
+16,03/08/24,Botafogo-PB,3-2,Figueirense
+16,03/08/24,Athletic-MG,3-0,Confiança
+16,03/08/24,ABC,0-0,São José-RS
+16,04/08/24,Londrina,0-0,Floresta-CE
+16,04/08/24,Ypiranga-RS,0-1,Ferroviária
+16,04/08/24,CSA,2-2,Náutico
+16,04/08/24,São Bernardo,2-0,Caxias
+16,05/08/24,Ferroviário,1-1,Sampaio Corrêa
+16,05/08/24,Remo,1-0,Aparecidense
+5,07/08/24,Ypiranga-RS,1-0,Caxias
+17,10/08/24,Confiança,1-0,Remo
+17,10/08/24,São José-RS,3-0,São Bernardo
+17,10/08/24,Caxias,2-1,Ferroviário
+17,10/08/24,Ferroviária,1-1,Athletic-MG
+17,11/08/24,Figueirense,0-0,Londrina
+17,11/08/24,Aparecidense,1-1,Volta Redonda
+17,11/08/24,Tombense,0-1,CSA
+17,11/08/24,Náutico,2-0,Botafogo-PB
+17,12/08/24,Sampaio Corrêa,2-2,ABC
+17,12/08/24,Floresta-CE,2-2,Ypiranga-RS
+18,17/08/24,Náutico,4-1,Ferroviário
+18,17/08/24,Floresta-CE,1-3,Athletic-MG
+18,17/08/24,Ypiranga-RS,1-0,Sampaio Corrêa
+18,17/08/24,Remo,3-0,Londrina
+18,18/08/24,Caxias,2-0,ABC
+18,18/08/24,Figueirense,1-1,São José-RS
+18,18/08/24,Confiança,2-0,São Bernardo
+18,18/08/24,Aparecidense,0-1,CSA
+18,19/08/24,Tombense,1-2,Botafogo-PB
+18,19/08/24,Ferroviária,5-1,Volta Redonda
+19,24/08/24,Athletic-MG,3-1,Ypiranga-RS
+19,24/08/24,CSA,2-1,Caxias
+19,24/08/24,Ferroviário,3-3,Tombense
+19,24/08/24,Sampaio Corrêa,1-0,Confiança
+19,24/08/24,Londrina,3-2,Náutico
+19,24/08/24,ABC,3-1,Aparecidense
+19,24/08/24,Volta Redonda,1-0,Figueirense
+19,24/08/24,São José-RS,0-0,Remo
+19,24/08/24,São Bernardo,2-0,Floresta-CE
+19,24/08/24,Botafogo-PB,2-0,Ferroviária
+A,31/08/24,Remo,2-1,Botafogo-PB
+B,31/08/24,Ypiranga-RS,0-0,Ferroviária
+A,01/09/24,Volta Redonda,3-1,São Bernardo
+B,02/09/24,Londrina,2-3,Athletic-MG
+B,07/09/24,Athletic-MG,0-0,Ypiranga-RS
+B,07/09/24,Ferroviária,3-2,Londrina
+A,08/09/24,Botafogo-PB,0-0,Volta Redonda
+A,09/09/24,São Bernardo,2-2,Remo
+B,14/09/24,Londrina,2-2,Ypiranga-RS
+A,14/09/24,São Bernardo,1-0,Botafogo-PB
+A,15/09/24,Remo,0-0,Volta Redonda
+B,16/09/24,Ferroviária,3-2,Athletic-MG
+A,21/09/24,Volta Redonda,1-1,Remo
+A,21/09/24,Botafogo-PB,0-0,São Bernardo
+B,22/09/24,Ypiranga-RS,0-1,Londrina
+B,23/09/24,Athletic-MG,3-0,Ferroviária
+A,28/09/24,Volta Redonda,2-1,Botafogo-PB
+B,28/09/24,Ypiranga-RS,2-1,Athletic-MG
+A,29/09/24,Remo,1-0,São Bernardo
+B,29/09/24,Londrina,3-2,Ferroviária
+A,05/10/24,São Bernardo,1-2,Volta Redonda
+B,05/10/24,Ferroviária,4-2,Ypiranga-RS
+B,05/10/24,Athletic-MG,2-1,Londrina
+A,05/10/24,Botafogo-PB,3-0,Remo
+F,12/10/24,Volta Redonda,1-0,Athletic-MG
+F,19/10/24,Athletic-MG,0-2,Volta Redonda

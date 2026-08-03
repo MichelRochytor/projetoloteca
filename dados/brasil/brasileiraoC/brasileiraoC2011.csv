@@ -1,0 +1,195 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,30/06/12,Madureira,1-0,Brasiliense
+B,30/06/12,Santo André,0-0,Chapecoense
+B,30/06/12,Vila Nova,4-1,Oeste
+B,30/06/12,Tupi,0-2,Duque de Caxias
+A,01/07/12,Santa Cruz,1-1,Guarany de Sobral
+A,01/07/12,Cuiabá,0-0,Icasa
+A,01/07/12,Fortaleza,0-0,Águia
+B,01/07/12,Caxias,0-4,Macaé
+A,02/07/12,Paysandu,2-0,Luverdense
+A,04/07/12,Salgueiro,2-0,Treze
+B,06/07/12,Oeste,1-2,Caxias
+B,07/07/12,Macaé,4-2,Tupi
+A,07/07/12,Guarany de Sobral,1-2,Paysandu
+A,07/07/12,Águia,2-1,Cuiabá
+B,08/07/12,Chapecoense,3-2,Vila Nova
+B,08/07/12,Brasiliense,1-2,Santo André
+B,08/07/12,Duque de Caxias,0-2,Madureira
+A,08/07/12,Icasa,3-0,Treze
+A,08/07/12,Luverdense,2-0,Fortaleza
+A,08/07/12,Salgueiro,2-2,Santa Cruz
+B,14/07/12,Madureira,1-0,Tupi
+B,14/07/12,Santo André,0-0,Vila Nova
+B,14/07/12,Brasiliense,3-2,Duque de Caxias
+B,14/07/12,Macaé,0-2,Oeste
+A,14/07/12,Santa Cruz,2-1,Treze
+A,14/07/12,Guarany de Sobral,2-0,Salgueiro
+B,15/07/12,Caxias,2-0,Chapecoense
+A,15/07/12,Cuiabá,0-2,Luverdense
+A,15/07/12,Icasa,2-1,Águia
+A,17/07/12,Paysandu,0-1,Fortaleza
+A,20/07/12,Santa Cruz,3-3,Paysandu
+B,20/07/12,Oeste,2-1,Brasiliense
+B,21/07/12,Madureira,1-1,Santo André
+B,21/07/12,Tupi,2-2,Caxias
+A,21/07/12,Águia,2-1,Guarany de Sobral
+A,22/07/12,Luverdense,2-1,Icasa
+B,22/07/12,Chapecoense,1-1,Macaé
+B,22/07/12,Vila Nova,4-1,Duque de Caxias
+A,22/07/12,Fortaleza,2-1,Salgueiro
+A,24/07/12,Treze,0-0,Cuiabá
+B,28/07/12,Santo André,1-1,Oeste
+B,28/07/12,Vila Nova,0-0,Tupi
+B,28/07/12,Macaé,2-2,Brasiliense
+B,28/07/12,Duque de Caxias,0-1,Chapecoense
+B,29/07/12,Caxias,2-0,Madureira
+A,29/07/12,Cuiabá,0-0,Santa Cruz
+A,29/07/12,Fortaleza,2-1,Treze
+A,29/07/12,Icasa,1-0,Guarany de Sobral
+A,29/07/12,Salgueiro,6-2,Luverdense
+A,30/07/12,Paysandu,0-0,Águia
+B,03/08/12,Oeste,1-0,Duque de Caxias
+B,04/08/12,Madureira,2-1,Macaé
+B,04/08/12,Tupi,0-0,Santo André
+B,04/08/12,Brasiliense,1-1,Chapecoense
+A,04/08/12,Santa Cruz,4-0,Icasa
+A,04/08/12,Águia,2-2,Salgueiro
+B,05/08/12,Caxias,2-1,Vila Nova
+A,05/08/12,Cuiabá,0-0,Fortaleza
+A,05/08/12,Treze,1-0,Paysandu
+A,05/08/12,Guarany de Sobral,0-1,Luverdense
+B,11/08/12,Santo André,2-1,Caxias
+B,11/08/12,Tupi,2-0,Brasiliense
+B,11/08/12,Duque de Caxias,2-1,Macaé
+A,11/08/12,Paysandu,2-1,Cuiabá
+B,12/08/12,Chapecoense,1-0,Oeste
+B,12/08/12,Vila Nova,5-1,Madureira
+A,12/08/12,Treze,3-1,Guarany de Sobral
+A,12/08/12,Fortaleza,2-0,Santa Cruz
+A,12/08/12,Luverdense,5-1,Águia
+A,12/08/12,Salgueiro,2-1,Icasa
+B,17/08/12,Oeste,1-0,Tupi
+B,18/08/12,Brasiliense,2-1,Caxias
+B,18/08/12,Macaé,3-0,Vila Nova
+B,18/08/12,Duque de Caxias,3-2,Santo André
+A,18/08/12,Águia,5-1,Treze
+A,18/08/12,Guarany de Sobral,3-4,Cuiabá
+B,19/08/12,Chapecoense,1-0,Madureira
+A,19/08/12,Icasa,0-2,Fortaleza
+A,19/08/12,Salgueiro,1-1,Paysandu
+A,19/08/12,Luverdense,2-1,Santa Cruz
+B,25/08/12,Madureira,1-1,Oeste
+B,25/08/12,Caxias,0-1,Duque de Caxias
+B,25/08/12,Santo André,0-3,Macaé
+B,25/08/12,Vila Nova,1-0,Brasiliense
+B,25/08/12,Tupi,1-0,Chapecoense
+A,25/08/12,Treze,1-2,Luverdense
+A,25/08/12,Santa Cruz,6-1,Águia
+A,25/08/12,Paysandu,1-1,Icasa
+A,25/08/12,Fortaleza,4-1,Guarany de Sobral
+A,25/08/12,Cuiabá,1-1,Salgueiro
+B,31/08/12,Oeste,3-1,Vila Nova
+B,01/09/12,Brasiliense,2-0,Madureira
+B,01/09/12,Macaé,4-1,Caxias
+B,01/09/12,Duque de Caxias,2-1,Tupi
+A,01/09/12,Águia,0-0,Fortaleza
+B,02/09/12,Chapecoense,0-0,Santo André
+A,02/09/12,Treze,4-0,Salgueiro
+A,02/09/12,Icasa,0-0,Cuiabá
+A,02/09/12,Guarany de Sobral,1-1,Santa Cruz
+A,02/09/12,Luverdense,2-2,Paysandu
+B,08/09/12,Madureira,1-2,Duque de Caxias
+B,08/09/12,Santo André,0-3,Brasiliense
+B,08/09/12,Vila Nova,1-0,Chapecoense
+B,08/09/12,Tupi,0-1,Macaé
+A,08/09/12,Paysandu,1-1,Guarany de Sobral
+B,09/09/12,Caxias,3-2,Oeste
+A,09/09/12,Treze,2-1,Icasa
+A,09/09/12,Cuiabá,3-1,Águia
+A,09/09/12,Fortaleza,3-3,Luverdense
+A,13/09/12,Santa Cruz,0-0,Salgueiro
+B,14/09/12,Oeste,1-1,Macaé
+B,15/09/12,Chapecoense,4-0,Caxias
+B,15/09/12,Tupi,2-1,Madureira
+B,15/09/12,Duque de Caxias,1-0,Brasiliense
+A,15/09/12,Águia,1-0,Icasa
+B,16/09/12,Vila Nova,2-2,Santo André
+A,16/09/12,Treze,2-1,Santa Cruz
+A,16/09/12,Luverdense,1-0,Cuiabá
+A,16/09/12,Salgueiro,3-0,Guarany de Sobral
+A,16/09/12,Fortaleza,3-1,Paysandu
+B,22/09/12,Santo André,1-0,Madureira
+B,22/09/12,Brasiliense,3-2,Oeste
+B,22/09/12,Macaé,0-0,Chapecoense
+B,22/09/12,Duque de Caxias,1-1,Vila Nova
+A,22/09/12,Paysandu,0-0,Santa Cruz
+A,23/09/12,Cuiabá,5-1,Treze
+B,23/09/12,Caxias,1-0,Tupi
+A,23/09/12,Icasa,0-1,Luverdense
+A,23/09/12,Salgueiro,0-0,Fortaleza
+A,23/09/12,Guarany de Sobral,3-1,Águia
+B,28/09/12,Oeste,2-1,Santo André
+B,29/09/12,Madureira,1-1,Caxias
+B,29/09/12,Tupi,1-1,Vila Nova
+B,29/09/12,Brasiliense,1-3,Macaé
+A,29/09/12,Treze,0-2,Fortaleza
+A,29/09/12,Guarany de Sobral,1-2,Icasa
+A,29/09/12,Águia,1-1,Paysandu
+B,30/09/12,Chapecoense,3-1,Duque de Caxias
+A,30/09/12,Santa Cruz,1-0,Cuiabá
+A,30/09/12,Luverdense,3-2,Salgueiro
+B,05/10/12,Vila Nova,0-1,Caxias
+A,05/10/12,Luverdense,1-1,Guarany de Sobral
+B,06/10/12,Santo André,1-1,Tupi
+B,06/10/12,Duque de Caxias,0-0,Oeste
+B,06/10/12,Chapecoense,3-0,Brasiliense
+A,06/10/12,Paysandu,5-1,Treze
+A,06/10/12,Icasa,3-1,Santa Cruz
+A,06/10/12,Salgueiro,1-1,Águia
+A,06/10/12,Fortaleza,3-0,Cuiabá
+B,09/10/12,Macaé,0-0,Madureira
+B,12/10/12,Oeste,1-0,Chapecoense
+B,13/10/12,Madureira,3-1,Vila Nova
+B,13/10/12,Brasiliense,2-1,Tupi
+B,13/10/12,Macaé,2-1,Duque de Caxias
+A,13/10/12,Santa Cruz,1-2,Fortaleza
+B,14/10/12,Caxias,0-0,Santo André
+A,14/10/12,Cuiabá,1-1,Paysandu
+A,14/10/12,Icasa,2-0,Salgueiro
+A,14/10/12,Águia,2-2,Luverdense
+A,15/10/12,Guarany de Sobral,2-0,Treze
+B,20/10/12,Madureira,2-1,Chapecoense
+B,20/10/12,Santo André,0-1,Duque de Caxias
+B,20/10/12,Caxias,3-0,Brasiliense
+B,20/10/12,Tupi,0-1,Oeste
+B,20/10/12,Vila Nova,1-0,Macaé
+A,20/10/12,Santa Cruz,2-1,Luverdense
+A,20/10/12,Treze,4-0,Águia
+A,20/10/12,Fortaleza,1-0,Icasa
+A,20/10/12,Paysandu,4-0,Salgueiro
+A,20/10/12,Cuiabá,2-1,Guarany de Sobral
+B,27/10/12,Brasiliense,4-2,Vila Nova
+B,27/10/12,Chapecoense,5-0,Tupi
+B,27/10/12,Macaé,3-1,Santo André
+B,27/10/12,Oeste,0-0,Madureira
+B,27/10/12,Duque de Caxias,2-1,Caxias
+A,28/10/12,Luverdense,0-2,Treze
+A,28/10/12,Guarany de Sobral,1-1,Fortaleza
+A,28/10/12,Icasa,1-0,Paysandu
+A,28/10/12,Salgueiro,2-2,Cuiabá
+A,28/10/12,Águia,1-0,Santa Cruz
+QF,01/11/12,Chapecoense,3-0,Luverdense
+QF,01/11/12,Icasa,2-1,Duque de Caxias
+QF,02/11/12,Paysandu,2-0,Macaé
+QF,03/11/12,Oeste,1-1,Fortaleza
+QF,08/11/12,Luverdense,1-0,Chapecoense
+QF,09/11/12,Duque de Caxias,0-0,Icasa
+QF,10/11/12,Macaé,3-2,Paysandu
+QF,11/11/12,Fortaleza,1-3,Oeste
+SF,16/11/12,Paysandu,3-2,Icasa
+SF,17/11/12,Chapecoense,0-1,Oeste
+SF,22/11/12,Icasa,2-1,Paysandu
+SF,23/11/12,Oeste,0-0,Chapecoense
+F,28/11/12,Icasa,0-0,Oeste
+F,01/12/12,Oeste,2-0,Icasa

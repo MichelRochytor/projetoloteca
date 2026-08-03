@@ -1,0 +1,134 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,26/02/89,São Paulo-RS,1-2,Grêmio
+B,26/02/89,Caxias,0-2,Esportivo
+B,26/02/89,Aimoré,0-0(3-4 Pen.),Pelotas
+B,26/02/89,Santa Cruz-RS,1-1(1-3 Pen.),Glória
+B,26/02/89,Inter SM,1-2,Passo Fundo
+B,26/02/89,Lajeadense,1-1(4-5 Pen.),Juventude
+B,01/03/89,Grêmio,5-0,Santa Cruz-RS
+B,01/03/89,Novo Hamburgo,4-1,Lajeadense
+B,01/03/89,Passo Fundo,1-1(3-4 Pen.),Aimoré
+B,01/03/89,Juventude,2-1,São Paulo-RS
+B,01/03/89,Pelotas,1-3,Caxias
+B,01/03/89,Glória,1-0,Inter SM
+B,05/03/89,Juventude,2-1,Inter SM
+B,05/03/89,Pelotas,4-2,Lajeadense
+B,05/03/89,Glória,3-0,Caxias
+B,05/03/89,Novo Hamburgo,3-1,Santa Cruz-RS
+B,05/03/89,Esportivo,0-1,São Paulo-RS
+B,05/03/89,Grêmio,0-1,Aimoré
+B,05/03/89,Passo Fundo,0-1,Internacional
+B,07/03/89,Esportivo,1-1(5-6 Pen.),Internacional
+B,08/03/89,Caxias,2-1,Grêmio
+B,08/03/89,São Paulo-RS,1-1(2-1 Pen.),Pelotas
+B,08/03/89,Aimoré,0-0(5-4 Pen.),Juventude
+B,08/03/89,Inter SM,1-0,Novo Hamburgo
+B,08/03/89,Lajeadense,1-3,Passo Fundo
+B,09/03/89,Internacional,1-1(3-1 Pen.),Glória
+B,10/03/89,Santa Cruz-RS,1-2,Esportivo
+B,11/03/89,Internacional,2-0,Juventude
+B,12/03/89,Lajeadense,0-1,Grêmio
+B,12/03/89,Santa Cruz-RS,0-0(4-2 Pen.),Passo Fundo
+B,12/03/89,Caxias,2-1,Novo Hamburgo
+B,12/03/89,São Paulo-RS,1-4,Glória
+B,12/03/89,Aimoré,0-0(4-3 Pen.),Esportivo
+B,12/03/89,Inter SM,1-1(4-3 Pen.),Pelotas
+B,15/03/89,Grêmio,2-1,Inter SM
+B,15/03/89,Glória,1-0,Aimoré
+B,15/03/89,Novo Hamburgo,1-0,São Paulo-RS
+B,15/03/89,Passo Fundo,1-0,Caxias
+B,15/03/89,Juventude,0-0(5-4 Pen.),Santa Cruz-RS
+B,15/03/89,Esportivo,2-0,Lajeadense
+B,16/03/89,Pelotas,1-0,Internacional
+B,17/03/89,Internacional,3-0,Novo Hamburgo
+B,19/03/89,Internacional,1-1(4-3 Pen.),Grêmio
+B,19/03/89,Lajeadense,0-0(2-4 Pen.),Glória
+B,19/03/89,Caxias,2-1,Juventude
+B,19/03/89,Inter SM,1-1(3-2 Pen.),Esportivo
+B,19/03/89,Aimoré,1-1(1-4 Pen.),Novo Hamburgo
+B,19/03/89,São Paulo-RS,0-4,Passo Fundo
+B,19/03/89,Santa Cruz-RS,1-0,Pelotas
+QDF,22/03/89,Glória,0-0(5-4 Pen.),Caxias
+QDF,23/03/89,Internacional,3-1,Passo Fundo
+QDF,26/03/89,Passo Fundo,2-1,Glória
+QDF,26/03/89,Caxias,1-2,Internacional
+QDF,30/03/89,Internacional,0-0(6-5 Pen.),Glória
+QDF,30/03/89,Passo Fundo,0-1,Caxias
+A,02/04/89,Aimoré,2-1,Caxias
+A,02/04/89,Santa Cruz-RS,2-2(2-4 Pen.),Lajeadense
+A,02/04/89,Inter SM,1-0,Internacional
+B,02/04/89,Grêmio,2-1,Esportivo
+B,02/04/89,Glória,0-0(4-2 Pen.),Pelotas
+B,02/04/89,Juventude,1-1(4-2 Pen.),Novo Hamburgo
+A,06/04/89,Caxias,0-1,Santa Cruz-RS
+A,06/04/89,Internacional,3-0,São Paulo-RS
+A,06/04/89,Inter SM,0-0(5-6 Pen.),Aimoré
+B,06/04/89,Novo Hamburgo,0-0(4-2 Pen.),Grêmio
+B,06/04/89,Pelotas,1-0,Passo Fundo
+B,06/04/89,Esportivo,0-0(5-4 Pen.),Glória
+A,09/04/89,Aimoré,0-3,Internacional
+A,09/04/89,São Paulo-RS,0-1,Santa Cruz-RS
+A,09/04/89,Lajeadense,1-3,Inter SM
+B,09/04/89,Grêmio,5-1,Pelotas
+B,09/04/89,Passo Fundo,1-1(2-4 Pen.),Glória
+B,09/04/89,Esportivo,2-2(2-4 Pen.),Juventude
+A,16/04/89,Internacional,0-2,Caxias
+A,16/04/89,Inter SM,1-0,São Paulo-RS
+A,16/04/89,Lajeadense,1-2,Aimoré
+B,16/04/89,Passo Fundo,1-1(2-3 Pen.),Esportivo
+B,16/04/89,Juventude,4-3,Grêmio
+B,16/04/89,Glória,1-0,Novo Hamburgo
+A,23/04/89,Santa Cruz-RS,1-0(5-3 Pen.),Internacional
+A,23/04/89,Caxias,1-0,Inter SM
+A,23/04/89,São Paulo-RS,1-2,Lajeadense
+B,23/04/89,Grêmio,2-2(2-4 Pen.),Passo Fundo
+B,23/04/89,Novo Hamburgo,1-3,Esportivo
+B,23/04/89,Pelotas,2-1,Juventude
+A,27/04/89,Santa Cruz-RS,1-1(5-3 Pen.),Inter SM
+A,27/04/89,Lajeadense,0-1,Caxias
+A,27/04/89,São Paulo-RS,0-0(3-4 Pen.),Aimoré
+B,27/04/89,Juventude,3-3(3-1 Pen.),Glória
+B,27/04/89,Novo Hamburgo,1-2,Passo Fundo
+B,27/04/89,Esportivo,0-1,Pelotas
+A,29/04/89,Internacional,4-0,Lajeadense
+A,30/04/89,Aimoré,2-0,Santa Cruz-RS
+A,30/04/89,Caxias,3-0,São Paulo-RS
+B,30/04/89,Passo Fundo,2-1,Juventude
+B,30/04/89,Pelotas,2-1,Novo Hamburgo
+B,30/04/89,Glória,1-2,Grêmio
+QDF,03/05/89,Pelotas,1-1(6-5 Pen.),Caxias
+QDF,03/05/89,Aimoré,0-0(3-4 Pen.),Grêmio
+QDF,07/05/89,Grêmio,2-1,Pelotas
+QDF,07/05/89,Caxias,2-0,Aimoré
+QDF,11/05/89,Grêmio,0-0(5-4 Pen.),Caxias
+QDF,11/05/89,Pelotas,1-0,Aimoré
+HXF,14/05/89,Internacional,3-1,Glória
+HXF,14/05/89,Passo Fundo,0-0(4-3 Pen.),Grêmio
+HXF,14/05/89,Caxias,0-0(4-3 Pen.),Pelotas
+HXF,18/05/89,Grêmio,1-1(6-7 Pen.),Caxias
+HXF,18/05/89,Glória,1-1(4-3 Pen.),Pelotas
+HXF,18/05/89,Passo Fundo,0-0(5-6 Pen.),Internacional
+HXF,21/05/89,Internacional,2-1,Caxias
+HXF,21/05/89,Pelotas,0-4,Grêmio
+HXF,21/05/89,Glória,1-0,Passo Fundo
+HXF,25/05/89,Grêmio,4-1,Glória
+HXF,25/05/89,Pelotas,1-1(3-5 Pen.),Internacional
+HXF,25/05/89,Caxias,3-3(2-4 Pen.),Passo Fundo
+HXF,28/05/89,Internacional,1-3,Grêmio
+HXF,28/05/89,Glória,0-2,Caxias
+HXF,28/05/89,Passo Fundo,0-2,Pelotas
+HXF,04/06/89,Grêmio,1-0,Passo Fundo
+HXF,04/06/89,Glória,1-2,Internacional
+HXF,04/06/89,Pelotas,0-1,Caxias
+HXF,07/06/89,Caxias,1-3,Grêmio
+HXF,07/06/89,Internacional,4-1,Passo Fundo
+HXF,07/06/89,Pelotas,0-1,Glória
+HXF,11/06/89,Grêmio,1-0,Pelotas
+HXF,11/06/89,Caxias,0-2,Internacional
+HXF,11/06/89,Passo Fundo,1-1(5-6 Pen.),Glória
+HXF,14/06/89,Internacional,1-0,Pelotas
+HXF,14/06/89,Glória,0-0(1-3 Pen.),Grêmio
+HXF,14/06/89,Passo Fundo,2-2,Caxias
+HXF,17/06/89,Caxias,2-2(1-3 Pen.),Glória
+HXF,18/06/89,Grêmio,0-0(4-3 Pen.),Internacional
+HXF,18/06/89,Pelotas,3-0,Passo Fundo

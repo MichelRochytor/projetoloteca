@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,23/08/58,Aston Villa,1-1,Birmingham City
+1,23/08/58,Bolton Wanderers,4-0,Leeds United
+1,23/08/58,Burnley,3-4,Manchester City
+1,23/08/58,Leicester City,2-0,Everton
+1,23/08/58,Luton Town,1-1,West Bromwich
+1,23/08/58,Manchester United,5-2,Chelsea
+1,23/08/58,Newcastle,1-5,Blackburn Rovers
+1,23/08/58,Portsmouth,1-2,West Ham
+1,23/08/58,Preston North End,2-1,Arsenal
+1,23/08/58,Tottenham,2-3,Blackpool
+1,23/08/58,Wolverhampton,5-1,Nottingham Forest
+2,25/08/58,Aston Villa,3-2,Portsmouth
+2,25/08/58,Blackburn Rovers,5-0,Leicester City
+2,25/08/58,Blackpool,3-0,Newcastle
+2,25/08/58,West Ham,2-0,Wolverhampton
+2,26/08/58,Arsenal,3-0,Burnley
+2,26/08/58,Leeds United,1-1,Luton Town
+2,27/08/58,Chelsea,4-2,Tottenham
+2,27/08/58,Everton,1-4,Preston North End
+2,27/08/58,Manchester City,3-3,Bolton Wanderers
+2,27/08/58,Nottingham Forest,0-3,Manchester United
+2,27/08/58,West Bromwich,2-2,Birmingham City
+3,30/08/58,Arsenal,5-1,Leicester City
+3,30/08/58,Birmingham City,0-1,Luton Town
+3,30/08/58,Blackburn Rovers,5-0,Tottenham
+3,30/08/58,Blackpool,2-1,Manchester United
+3,30/08/58,Chelsea,6-2,Wolverhampton
+3,30/08/58,Everton,0-2,Newcastle
+3,30/08/58,Leeds United,1-1,Burnley
+3,30/08/58,Manchester City,1-1,Preston North End
+3,30/08/58,Nottingham Forest,5-0,Portsmouth
+3,30/08/58,West Bromwich,1-1,Bolton Wanderers
+3,30/08/58,West Ham,7-2,Aston Villa
+4,01/09/58,Preston North End,3-1,Everton
+4,02/09/58,Burnley,3-1,Arsenal
+4,03/09/58,Birmingham City,0-6,West Bromwich
+4,03/09/58,Bolton Wanderers,4-1,Manchester City
+4,03/09/58,Leicester City,1-1,Blackburn Rovers
+4,03/09/58,Luton Town,1-1,Leeds United
+4,03/09/58,Manchester United,1-1,Nottingham Forest
+4,03/09/58,Newcastle,1-0,Blackpool
+4,03/09/58,Portsmouth,5-2,Aston Villa
+4,03/09/58,Tottenham,4-0,Chelsea
+4,03/09/58,Wolverhampton,1-1,West Ham
+5,06/09/58,Aston Villa,2-3,Nottingham Forest
+5,06/09/58,Bolton Wanderers,2-0,Birmingham City
+5,06/09/58,Burnley,1-3,West Bromwich
+5,06/09/58,Everton,1-6,Arsenal
+5,06/09/58,Leicester City,3-1,Manchester City
+5,06/09/58,Luton Town,4-1,West Ham
+5,06/09/58,Manchester United,6-1,Blackburn Rovers
+5,06/09/58,Portsmouth,2-2,Chelsea
+5,06/09/58,Preston North End,1-2,Leeds United
+5,06/09/58,Tottenham,1-3,Newcastle
+5,06/09/58,Wolverhampton,2-0,Blackpool
+6,08/09/58,Aston Villa,1-3,Wolverhampton
+6,08/09/58,Blackpool,1-1,Blackburn Rovers
+6,08/09/58,West Ham,3-2,Manchester United
+6,09/09/58,Burnley,3-1,Everton
+6,10/09/58,Chelsea,6-5,Newcastle
+6,10/09/58,Leeds United,0-0,Birmingham City
+6,10/09/58,Manchester City,1-1,Luton Town
+6,10/09/58,Nottingham Forest,1-1,Tottenham
+6,10/09/58,West Bromwich,1-2,Portsmouth
+6,13/09/58,Leeds United,1-1,Leicester City
+6,13/09/58,West Bromwich,1-1,Preston North End
+7,13/09/58,Arsenal,3-1,Tottenham
+7,13/09/58,Birmingham City,2-1,Burnley
+7,13/09/58,Blackburn Rovers,1-2,Wolverhampton
+7,13/09/58,Blackpool,1-1,Portsmouth
+7,13/09/58,Chelsea,2-1,Aston Villa
+7,13/09/58,Luton Town,0-0,Bolton Wanderers
+7,13/09/58,Manchester City,1-3,Everton
+7,13/09/58,Newcastle,1-1,Manchester United
+7,13/09/58,Nottingham Forest,4-0,West Ham
+8,15/09/58,Blackburn Rovers,0-0,Blackpool
+7,17/09/58,Leicester City,2-2,Preston North End
+8,17/09/58,Birmingham City,4-1,Leeds United
+8,17/09/58,Bolton Wanderers,2-1,Arsenal
+8,17/09/58,Everton,1-2,Burnley
+8,17/09/58,Luton Town,5-1,Manchester City
+8,17/09/58,Manchester United,4-1,West Ham
+8,17/09/58,Newcastle,1-2,Chelsea
+8,17/09/58,Portsmouth,2-6,West Bromwich
+8,17/09/58,Tottenham,1-0,Nottingham Forest
+8,17/09/58,Wolverhampton,4-0,Aston Villa
+8,20/09/58,Leicester City,2-2,West Bromwich
+8,20/09/58,Preston North End,3-0,Birmingham City
+9,20/09/58,Arsenal,4-1,Manchester City
+9,20/09/58,Aston Villa,1-1,Blackpool
+9,20/09/58,Bolton Wanderers,3-2,Nottingham Forest
+9,20/09/58,Burnley,2-2,Luton Town
+9,20/09/58,Everton,3-2,Leeds United
+9,20/09/58,Manchester United,2-2,Tottenham
+9,20/09/58,Portsmouth,2-1,Blackburn Rovers
+9,20/09/58,West Ham,4-2,Chelsea
+9,20/09/58,Wolverhampton,1-3,Newcastle
+9,22/09/58,Preston North End,3-1,Leicester City
+10,27/09/58,Birmingham City,4-2,Leicester City
+10,27/09/58,Blackburn Rovers,2-3,Aston Villa
+10,27/09/58,Blackpool,2-0,West Ham
+10,27/09/58,Bolton Wanderers,1-2,Burnley
+10,27/09/58,Chelsea,4-1,Nottingham Forest
+10,27/09/58,Leeds United,2-1,Arsenal
+10,27/09/58,Luton Town,4-1,Preston North End
+10,27/09/58,Manchester City,1-1,Manchester United
+10,27/09/58,Newcastle,2-0,Portsmouth
+10,27/09/58,Tottenham,2-1,Wolverhampton
+10,27/09/58,West Bromwich,2-3,Everton
+11,04/10/58,Arsenal,4-3,West Bromwich
+11,04/10/58,Aston Villa,2-1,Newcastle
+11,04/10/58,Burnley,4-0,Chelsea
+11,04/10/58,Everton,3-1,Birmingham City
+11,04/10/58,Leicester City,3-1,Luton Town
+11,04/10/58,Manchester City,2-1,Leeds United
+11,04/10/58,Nottingham Forest,2-0,Blackpool
+11,04/10/58,Portsmouth,1-1,Tottenham
+11,04/10/58,Preston North End,0-0,Bolton Wanderers
+11,04/10/58,West Ham,6-3,Blackburn Rovers
+11,04/10/58,Wolverhampton,4-0,Manchester United
+12,08/10/58,Manchester United,0-2,Preston North End
+12,11/10/58,Aston Villa,1-4,West Bromwich
+12,11/10/58,Blackpool,1-1,Burnley
+12,11/10/58,Chelsea,0-1,Bolton Wanderers
+12,11/10/58,Newcastle,3-1,Leicester City
+12,11/10/58,Nottingham Forest,3-1,Luton Town
+12,11/10/58,Portsmouth,2-0,Leeds United
+12,11/10/58,Tottenham,10-4,Everton
+12,11/10/58,West Ham,1-2,Birmingham City
+12,11/10/58,Wolverhampton,2-0,Manchester City
+13,11/10/58,Blackburn Rovers,4-1,Preston North End
+13,11/10/58,Manchester United,1-1,Arsenal
+13,18/10/58,Arsenal,1-1,Wolverhampton
+13,18/10/58,Birmingham City,0-3,Nottingham Forest
+13,18/10/58,Bolton Wanderers,4-0,Blackpool
+13,18/10/58,Burnley,0-0,Blackburn Rovers
+13,18/10/58,Leeds United,0-0,Aston Villa
+13,18/10/58,Leicester City,3-4,Tottenham
+13,18/10/58,Luton Town,2-1,Chelsea
+13,18/10/58,Manchester City,3-2,Portsmouth
+13,18/10/58,Preston North End,3-4,Newcastle
+13,18/10/58,West Bromwich,2-1,West Ham
+14,18/10/58,Everton,3-2,Manchester United
+14,22/10/58,Aston Villa,1-2,Arsenal
+14,25/10/58,Blackburn Rovers,4-2,Arsenal
+14,25/10/58,Blackpool,1-1,Everton
+14,25/10/58,Chelsea,5-2,Leicester City
+14,25/10/58,Newcastle,4-1,Manchester City
+14,25/10/58,Portsmouth,2-2,Luton Town
+14,25/10/58,Tottenham,2-3,Leeds United
+14,25/10/58,West Ham,1-0,Burnley
+14,25/10/58,Wolverhampton,3-1,Birmingham City
+15,25/10/58,Aston Villa,2-1,Bolton Wanderers
+15,25/10/58,Manchester United,1-2,West Bromwich
+15,25/10/58,Nottingham Forest,0-1,Preston North End
+15,01/11/58,Arsenal,3-2,Newcastle
+15,01/11/58,Birmingham City,2-2,Portsmouth
+15,01/11/58,Bolton Wanderers,0-2,West Ham
+15,01/11/58,Burnley,0-2,Nottingham Forest
+15,01/11/58,Everton,2-2,Blackburn Rovers
+15,01/11/58,Leicester City,0-3,Blackpool
+15,01/11/58,Manchester City,5-1,Tottenham
+15,01/11/58,West Bromwich,2-1,Wolverhampton
+16,01/11/58,Leeds United,1-2,Manchester United
+16,01/11/58,Luton Town,2-1,Aston Villa
+16,01/11/58,Preston North End,2-0,Chelsea
+16,08/11/58,Blackburn Rovers,3-2,Birmingham City
+16,08/11/58,Blackpool,1-1,West Bromwich
+16,08/11/58,Chelsea,2-0,Leeds United
+16,08/11/58,Manchester United,1-3,Burnley
+16,08/11/58,Newcastle,1-0,Luton Town
+16,08/11/58,Nottingham Forest,4-0,Manchester City
+16,08/11/58,Portsmouth,4-1,Leicester City
+16,08/11/58,Tottenham,1-1,Bolton Wanderers
+16,08/11/58,West Ham,0-0,Arsenal
+17,08/11/58,Aston Villa,2-4,Everton
+17,08/11/58,Wolverhampton,2-0,Preston North End
+17,15/11/58,Birmingham City,1-0,Newcastle
+17,15/11/58,Bolton Wanderers,6-3,Manchester United
+17,15/11/58,Burnley,0-2,Wolverhampton
+17,15/11/58,Everton,2-2,West Ham
+17,15/11/58,Leeds United,1-1,Blackpool
+17,15/11/58,Luton Town,1-2,Tottenham
+17,15/11/58,Manchester City,5-1,Chelsea
+17,15/11/58,Preston North End,3-1,Portsmouth
+17,15/11/58,West Bromwich,2-3,Blackburn Rovers
+18,15/11/58,Arsenal,3-1,Nottingham Forest
+18,15/11/58,Leicester City,6-3,Aston Villa
+18,22/11/58,Blackburn Rovers,2-4,Leeds United
+18,22/11/58,Blackpool,0-0,Manchester City
+18,22/11/58,Manchester United,2-1,Luton Town
+18,22/11/58,Newcastle,1-2,West Bromwich
+18,22/11/58,Nottingham Forest,2-1,Everton
+18,22/11/58,Portsmouth,4-2,Burnley
+18,22/11/58,Tottenham,0-4,Birmingham City
+18,22/11/58,West Ham,0-3,Leicester City
+18,22/11/58,Wolverhampton,1-2,Bolton Wanderers
+19,22/11/58,Aston Villa,2-0,Preston North End
+19,22/11/58,Chelsea,0-3,Arsenal
+19,29/11/58,Arsenal,1-4,Blackpool
+19,29/11/58,Bolton Wanderers,2-1,Portsmouth
+19,29/11/58,Everton,3-1,Chelsea
+19,29/11/58,Leeds United,3-2,Newcastle
+19,29/11/58,Leicester City,0-3,Nottingham Forest
+19,29/11/58,Luton Town,0-1,Wolverhampton
+19,29/11/58,Manchester City,0-1,Blackburn Rovers
+19,29/11/58,West Bromwich,4-3,Tottenham
+20,29/11/58,Birmingham City,0-4,Manchester United
+20,29/11/58,Burnley,3-1,Aston Villa
+20,29/11/58,Preston North End,2-1,West Ham
+20,06/12/58,Blackburn Rovers,1-1,Bolton Wanderers
+20,06/12/58,Blackpool,3-0,Luton Town
+20,06/12/58,Chelsea,1-0,Birmingham City
+20,06/12/58,Manchester United,4-1,Leicester City
+20,06/12/58,Newcastle,5-2,Burnley
+20,06/12/58,Nottingham Forest,1-1,West Bromwich
+20,06/12/58,Portsmouth,0-1,Arsenal
+20,06/12/58,West Ham,2-3,Leeds United
+20,06/12/58,Wolverhampton,1-0,Everton
+21,06/12/58,Aston Villa,1-1,Manchester City
+21,06/12/58,Tottenham,1-2,Preston North End
+21,13/12/58,Birmingham City,4-2,Blackpool
+21,13/12/58,Bolton Wanderers,1-1,Newcastle
+21,13/12/58,Burnley,3-1,Tottenham
+21,13/12/58,Everton,2-1,Portsmouth
+21,13/12/58,Leeds United,1-0,Nottingham Forest
+21,13/12/58,Leicester City,1-0,Wolverhampton
+21,13/12/58,Luton Town,1-1,Blackburn Rovers
+21,13/12/58,Manchester City,3-1,West Ham
+21,13/12/58,West Bromwich,4-0,Chelsea
+22,13/12/58,Arsenal,1-2,Aston Villa
+22,13/12/58,Preston North End,3-4,Manchester United
+22,20/12/58,Blackburn Rovers,3-0,Newcastle
+22,20/12/58,Blackpool,0-0,Tottenham
+22,20/12/58,Everton,0-1,Leicester City
+22,20/12/58,Leeds United,3-4,Bolton Wanderers
+22,20/12/58,Manchester City,1-4,Burnley
+22,20/12/58,Nottingham Forest,1-3,Wolverhampton
+22,20/12/58,West Ham,6-0,Portsmouth
+23,20/12/58,Arsenal,1-2,Preston North End
+23,20/12/58,Birmingham City,4-1,Aston Villa
+23,20/12/58,Chelsea,2-3,Manchester United
+23,25/12/58,Blackburn Rovers,0-3,Chelsea
+23,25/12/58,West Ham,2-1,Tottenham
+24,25/12/58,Blackpool,4-2,Preston North End
+22,26/12/58,Luton Town,6-3,Arsenal
+23,26/12/58,Birmingham City,6-1,Manchester City
+23,26/12/58,Everton,1-0,Bolton Wanderers
+23,26/12/58,Leicester City,1-1,Burnley
+23,26/12/58,Newcastle,1-3,Nottingham Forest
+23,26/12/58,Portsmouth,3-5,Wolverhampton
+23,26/12/58,West Bromwich,1-2,Leeds United
+24,26/12/58,Manchester United,2-1,Aston Villa
+24,26/12/58,Tottenham,1-4,West Ham
+25,26/12/58,Preston North End,0-3,Blackpool
+23,27/12/58,Arsenal,1-0,Luton Town
+24,27/12/58,Bolton Wanderers,0-3,Everton
+24,27/12/58,Burnley,3-3,Leicester City
+24,27/12/58,Chelsea,0-2,Blackburn Rovers
+24,27/12/58,Leeds United,0-1,West Bromwich
+24,27/12/58,Manchester City,4-1,Birmingham City
+24,27/12/58,Nottingham Forest,3-0,Newcastle
+24,27/12/58,Wolverhampton,7-0,Portsmouth
+25,27/12/58,Aston Villa,0-2,Manchester United
+24,03/01/59,Luton Town,0-1,Birmingham City
+25,03/01/59,Bolton Wanderers,2-1,West Bromwich
+25,03/01/59,Burnley,3-1,Leeds United
+25,03/01/59,Leicester City,2-3,Arsenal
+25,03/01/59,Newcastle,4-0,Everton
+25,03/01/59,Portsmouth,0-1,Nottingham Forest
+25,03/01/59,Tottenham,3-1,Blackburn Rovers
+25,03/01/59,Wolverhampton,1-2,Chelsea
+26,03/01/59,Aston Villa,1-2,West Ham
+26,03/01/59,Manchester United,3-1,Blackpool
+26,03/01/59,Preston North End,2-0,Manchester City
+6,09/01/59,Arsenal,6-1,Bolton Wanderers
+26,17/01/59,Chelsea,2-2,Portsmouth
+26,17/01/59,Newcastle,1-2,Tottenham
+27,17/01/59,Arsenal,3-1,Everton
+27,17/01/59,Leeds United,1-3,Preston North End
+26,31/01/59,Bolton Wanderers,4-2,Luton Town
+26,31/01/59,Burnley,0-1,Birmingham City
+26,31/01/59,Leicester City,0-1,Leeds United
+26,31/01/59,West Ham,5-3,Nottingham Forest
+26,31/01/59,Wolverhampton,5-0,Blackburn Rovers
+27,31/01/59,Aston Villa,3-1,Chelsea
+27,31/01/59,Everton,3-1,Manchester City
+27,31/01/59,Manchester United,4-4,Newcastle
+27,31/01/59,Portsmouth,1-2,Blackpool
+27,31/01/59,Tottenham,1-4,Arsenal
+28,31/01/59,Preston North End,2-4,West Bromwich
+27,07/02/59,Chelsea,3-2,West Ham
+27,07/02/59,Luton Town,6-2,Burnley
+27,07/02/59,Nottingham Forest,3-0,Bolton Wanderers
+27,07/02/59,West Bromwich,2-2,Leicester City
+28,07/02/59,Blackburn Rovers,2-1,Portsmouth
+28,07/02/59,Blackpool,2-1,Aston Villa
+28,07/02/59,Leeds United,1-0,Everton
+28,07/02/59,Newcastle,3-4,Wolverhampton
+28,07/02/59,Tottenham,1-3,Manchester United

@@ -1,0 +1,80 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,22/01/20,Jaraguá,2-0,Anapolina
+B,22/01/20,Anápolis,0-0,Vila Nova
+B,22/01/20,CRAC,0-0,Goianésia
+B,22/01/20,Goiânia,1-1,Iporá
+B,23/01/20,Goiás,3-2,Aparecidense
+B,23/01/20,Grêmio Anápolis,0-2,Atlético Goianiense
+B,25/01/20,Vila Nova,0-1,Jaraguá
+B,26/01/20,Iporá,0-0,Goiás
+B,26/01/20,Anapolina,0-1,CRAC
+B,26/01/20,Atlético Goianiense,5-0,Goiânia
+B,26/01/20,Goianésia,2-1,Anápolis
+B,26/01/20,Aparecidense,1-2,Grêmio Anápolis
+B,29/01/20,Iporá,1-0,CRAC
+B,29/01/20,Aparecidense,1-0,Goiânia
+B,29/01/20,Goianésia,0-2,Jaraguá
+B,29/01/20,Anapolina,1-3,Goiás
+B,29/01/20,Atlético Goianiense,5-1,Anápolis
+B,30/01/20,Vila Nova,1-0,Grêmio Anápolis
+B,01/02/20,Anápolis,1-0,Iporá
+B,01/02/20,Goiânia,0-1,Goianésia
+B,01/02/20,Jaraguá,1-0,Atlético Goianiense
+B,02/02/20,Goiás,1-1,Vila Nova
+B,02/02/20,Grêmio Anápolis,3-2,Anapolina
+B,08/02/20,Grêmio Anápolis,2-2,Iporá
+B,08/02/20,Goiás,1-1,Goianésia
+B,08/02/20,Jaraguá,3-1,Aparecidense
+B,09/02/20,Anápolis,2-2,Anapolina
+B,09/02/20,Goiânia,2-1,Vila Nova
+B,12/02/20,Aparecidense,0-0,CRAC
+B,16/02/20,Iporá,0-0,Jaraguá
+B,16/02/20,Aparecidense,1-3,Anápolis
+B,16/02/20,Anapolina,1-0,Goiânia
+B,16/02/20,Atlético Goianiense,3-0,Goiás
+B,16/02/20,Goianésia,1-0,Grêmio Anápolis
+B,17/02/20,Vila Nova,1-0,CRAC
+B,20/02/20,Atlético Goianiense,0-0,CRAC
+B,21/02/20,Grêmio Anápolis,1-0,Vila Nova
+B,22/02/20,Goiás,4-1,Anapolina
+B,22/02/20,Jaraguá,0-1,Goianésia
+B,23/02/20,Goiânia,1-3,Aparecidense
+B,23/02/20,Anápolis,0-0,Atlético Goianiense
+B,26/02/20,CRAC,2-1,Iporá
+B,29/02/20,Atlético Goianiense,5-0,Jaraguá
+B,01/03/20,CRAC,0-3,Aparecidense
+B,01/03/20,Iporá,1-0,Grêmio Anápolis
+A,01/03/20,Anapolina,0-0,Anápolis
+A,01/03/20,Goianésia,1-2,Goiânia
+A,01/03/20,Vila Nova,0-0,Goiás
+A,07/03/20,Goiás,1-0,Iporá
+A,07/03/20,Grêmio Anápolis,1-1,Aparecidense
+A,07/03/20,Jaraguá,1-0,Vila Nova
+A,08/03/20,CRAC,2-1,Anapolina
+A,08/03/20,Anápolis,2-1,Goianésia
+A,08/03/20,Goiânia,0-1,Atlético Goianiense
+A,14/03/20,Atlético Goianiense,2-1,Grêmio Anápolis
+A,14/03/20,Vila Nova,2-0,Anápolis
+A,15/03/20,Iporá,1-2,Goiânia
+A,15/03/20,Aparecidense,1-2,Goiás
+A,15/03/20,Anapolina,4-4,Jaraguá
+A,15/03/20,Goianésia,0-0,CRAC
+A,13/01/21,Jaraguá,1-2,Iporá
+A,13/01/21,Goiânia,0-0,Anapolina
+A,13/01/21,Anápolis,1-1,Aparecidense
+A,13/01/21,Goiás,0-1,Atlético Goianiense
+A,14/01/21,Grêmio Anápolis,1-2,Goianésia
+A,21/01/21,CRAC,1-1,Vila Nova
+A,28/01/21,Iporá,1-1,Anápolis
+A,28/01/21,Anapolina,1-2,Grêmio Anápolis
+A,28/01/21,Aparecidense,1-0,Jaraguá
+A,28/01/21,CRAC,5-3,Atlético Goianiense
+A,28/01/21,Goianésia,2-3,Goiás
+A,28/01/21,Vila Nova,6-0,Goiânia
+QF,10/02/21,Atlético Goianiense,5-1,Anápolis
+QF,10/02/21,Goiás,0-2,Aparecidense
+QF,11/02/21,Jaraguá,1-0,Vila Nova
+QF,11/02/21,Goianésia,1-0,CRAC
+SF,17/02/21,Atlético Goianiense,2-1,Aparecidense
+SF,18/02/21,Jaraguá,1-3,Goianésia
+F,27/02/21,Atlético Goianiense,1-1(5-3 Pen.),Goianésia

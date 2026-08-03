@@ -1,0 +1,255 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,01/08/99,América-RN,1-1,ABC
+1F,01/08/99,Avaí,1-0,São Caetano
+1F,01/08/99,Bragantino,2-1,Joinville
+1F,01/08/99,Criciúma,0-0,Londrina
+1F,01/08/99,Desportiva Ferroviária,0-1,CRB
+1F,01/08/99,Goiás,1-0,Vila Nova
+1F,01/08/99,Remo,2-3,Sampaio Corrêa
+1F,01/08/99,Santa Cruz,2-1,Ceará
+1F,01/08/99,XV de Piracicaba,0-0,União São João
+1F,02/08/99,América Mineiro,0-1,Bahia
+1F,05/08/99,ABC,3-0,Remo
+1F,05/08/99,Londrina,2-1,América-RN
+1F,05/08/99,Paysandu,0-3,Goiás
+1F,07/08/99,São Caetano,2-1,América Mineiro
+1F,08/08/99,ABC,1-1,XV de Piracicaba
+1F,08/08/99,Bahia,2-0,América-RN
+1F,08/08/99,Ceará,0-0,Goiás
+1F,08/08/99,CRB,2-0,Santa Cruz
+1F,08/08/99,Joinville,1-0,Avaí
+1F,08/08/99,Sampaio Corrêa,3-1,Criciúma
+1F,08/08/99,Tuna Luso,2-1,Desportiva Ferroviária
+1F,08/08/99,União São João,2-2,Paysandu
+1F,08/08/99,Vila Nova,2-2,Remo
+1F,09/08/99,Londrina,2-0,Bragantino
+1F,11/08/99,América-RN,4-1,Desportiva Ferroviária
+1F,11/08/99,Ceará,3-0,Criciúma
+1F,11/08/99,Joinville,1-3,América Mineiro
+1F,11/08/99,Sampaio Corrêa,2-2,XV de Piracicaba
+1F,11/08/99,União São João,2-0,Santa Cruz
+1F,12/08/99,Avaí,2-0,ABC
+1F,12/08/99,Bahia,4-1,CRB
+1F,12/08/99,Goiás,1-0,Bragantino
+1F,12/08/99,Paysandu,1-0,Londrina
+1F,12/08/99,São Caetano,1-0,Vila Nova
+1F,15/08/99,América Mineiro,2-1,Ceará
+1F,15/08/99,América-RN,1-0,Tuna Luso
+1F,15/08/99,Avaí,0-2,União São João
+1F,15/08/99,Bragantino,2-1,Vila Nova
+1F,15/08/99,Criciúma,1-3,CRB
+1F,15/08/99,Desportiva Ferroviária,0-1,ABC
+1F,15/08/99,Goiás,2-0,Londrina
+1F,15/08/99,Paysandu,3-2,Sampaio Corrêa
+1F,15/08/99,Remo,0-0,Bahia
+1F,15/08/99,Santa Cruz,1-0,Joinville
+1F,16/08/99,XV de Piracicaba,1-1,São Caetano
+1F,18/08/99,Bahia,1-1,Paysandu
+1F,18/08/99,CRB,2-1,Joinville
+1F,18/08/99,Desportiva Ferroviária,0-1,Ceará
+1F,18/08/99,Santa Cruz,2-1,Bragantino
+1F,18/08/99,São Caetano,4-0,Sampaio Corrêa
+1F,18/08/99,Tuna Luso,1-0,Avaí
+1F,18/08/99,União São João,1-1,Remo
+1F,21/08/99,Londrina,1-0,Remo
+1F,21/08/99,Vila Nova,2-0,Desportiva Ferroviária
+1F,22/08/99,ABC,3-0,Bragantino
+1F,22/08/99,América Mineiro,1-2,Avaí
+1F,22/08/99,Ceará,2-0,CRB
+1F,22/08/99,Criciúma,1-1,Paysandu
+1F,22/08/99,Goiás,3-4,São Caetano
+1F,22/08/99,Joinville,2-1,União São João
+1F,23/08/99,Bahia,2-0,Santa Cruz
+1F,24/08/99,Remo,0-0,Desportiva Ferroviária
+1F,25/08/99,Paysandu,1-1,São Caetano
+1F,26/08/99,Londrina,0-0,Santa Cruz
+1F,26/08/99,Sampaio Corrêa,1-1,Tuna Luso
+1F,26/08/99,Vila Nova,3-0,União São João
+1F,26/08/99,XV de Piracicaba,2-0,Criciúma
+1F,27/08/99,CRB,2-1,América-RN
+1F,29/08/99,Avaí,4-1,Goiás
+1F,29/08/99,Bragantino,1-1,Bahia
+1F,29/08/99,Desportiva Ferroviária,0-5,Criciúma
+1F,29/08/99,Londrina,0-1,Vila Nova
+1F,29/08/99,Paysandu,1-0,Joinville
+1F,29/08/99,Remo,2-0,Ceará
+1F,29/08/99,Sampaio Corrêa,2-3,ABC
+1F,29/08/99,São Caetano,2-1,Tuna Luso
+1F,29/08/99,União São João,1-1,América Mineiro
+1F,30/08/99,XV de Piracicaba,5-0,América-RN
+1F,01/09/99,Avaí,1-0,Ceará
+1F,01/09/99,Criciúma,3-3,Bahia
+1F,01/09/99,Joinville,3-0,ABC
+1F,01/09/99,São Caetano,2-0,Londrina
+1F,01/09/99,Tuna Luso,0-2,Vila Nova
+1F,01/09/99,União São João,3-0,Goiás
+1F,02/09/99,América-RN,1-0,América Mineiro
+1F,02/09/99,Bragantino,1-2,XV de Piracicaba
+1F,02/09/99,Santa Cruz,4-1,Remo
+1F,04/09/99,ABC,1-1,Londrina
+1F,04/09/99,Goiás,4-0,CRB
+1F,05/09/99,América Mineiro,2-0,Bragantino
+1F,05/09/99,Ceará,2-1,Sampaio Corrêa
+1F,05/09/99,Criciúma,1-1,Remo
+1F,05/09/99,Vila Nova,3-0,XV de Piracicaba
+1F,06/09/99,América-RN,1-2,União São João
+1F,06/09/99,Joinville,2-0,Tuna Luso
+1F,06/09/99,Santa Cruz,1-1,Avaí
+1F,08/09/99,Bahia,3-1,Sampaio Corrêa
+1F,08/09/99,CRB,0-1,São Caetano
+1F,08/09/99,Desportiva Ferroviária,2-3,Bragantino
+1F,08/09/99,Vila Nova,1-1,América Mineiro
+1F,08/09/99,XV de Piracicaba,0-0,Goiás
+1F,09/09/99,Londrina,4-1,Tuna Luso
+1F,09/09/99,Remo,7-1,Avaí
+1F,11/09/99,ABC,1-1,Goiás
+1F,12/09/99,América Mineiro,1-0,Desportiva Ferroviária
+1F,12/09/99,América-RN,1-2,Joinville
+1F,12/09/99,Avaí,3-3,Bahia
+1F,12/09/99,Bragantino,1-0,CRB
+1F,12/09/99,Tuna Luso,1-1,Criciúma
+1F,12/09/99,União São João,1-1,São Caetano
+1F,15/09/99,América Mineiro,2-0,Criciúma
+1F,15/09/99,Bragantino,1-1,União São João
+1F,15/09/99,Desportiva Ferroviária,0-0,Bahia
+1F,15/09/99,Goiás,2-0,América-RN
+1F,15/09/99,Santa Cruz,2-0,Vila Nova
+1F,15/09/99,São Caetano,2-0,Joinville
+1F,15/09/99,Ceará,3-0,Londrina
+1F,16/09/99,CRB,0-0,Avaí
+1F,16/09/99,Tuna Luso,2-1,Remo
+1F,16/09/99,XV de Piracicaba,1-1,Paysandu
+1F,19/09/99,América-RN,2-0,São Caetano
+1F,19/09/99,CRB,0-0,América Mineiro
+1F,19/09/99,Criciúma,1-0,Santa Cruz
+1F,19/09/99,Desportiva Ferroviária,2-0,Paysandu
+1F,19/09/99,Joinville,1-1,Ceará
+1F,19/09/99,Remo,3-1,Goiás
+1F,19/09/99,Sampaio Corrêa,3-3,União São João
+1F,19/09/99,Tuna Luso,2-0,XV de Piracicaba
+1F,19/09/99,Vila Nova,2-0,ABC
+1F,20/09/99,Londrina,2-0,Avaí
+1F,22/09/99,Criciúma,3-1,Bragantino
+1F,22/09/99,Desportiva Ferroviária,0-1,XV de Piracicaba
+1F,22/09/99,Goiás,2-0,Sampaio Corrêa
+1F,22/09/99,Paysandu,2-1,Ceará
+1F,22/09/99,Santa Cruz,1-5,América Mineiro
+1F,22/09/99,União São João,1-2,ABC
+1F,23/09/99,Bahia,2-1,Joinville
+1F,26/09/99,ABC,1-2,Criciúma
+1F,26/09/99,Paysandu,1-1,CRB
+1F,26/09/99,Remo,1-0,América-RN
+1F,26/09/99,Santa Cruz,2-0,Desportiva Ferroviária
+1F,26/09/99,São Caetano,1-1,Bragantino
+1F,26/09/99,XV de Piracicaba,1-0,Bahia
+1F,27/09/99,América Mineiro,1-1,Tuna Luso
+1F,27/09/99,Goiás,1-0,Joinville
+1F,27/09/99,Sampaio Corrêa,4-0,Londrina
+1F,29/09/99,Avaí,2-1,Sampaio Corrêa
+1F,29/09/99,Bragantino,1-0,América-RN
+1F,29/09/99,Criciúma,0-3,São Caetano
+1F,29/09/99,Paysandu,2-0,Tuna Luso
+1F,30/09/99,ABC,3-2,Santa Cruz
+1F,30/09/99,Ceará,1-0,Bahia
+1F,30/09/99,Joinville,0-0,Vila Nova
+1F,30/09/99,Londrina,0-0,CRB
+1F,01/10/99,XV de Piracicaba,1-0,Remo
+1F,02/10/99,América-RN,2-2,Sampaio Corrêa
+1F,03/10/99,ABC,1-1,Paysandu
+1F,03/10/99,Bahia,2-1,União São João
+1F,03/10/99,Bragantino,2-0,Ceará
+1F,03/10/99,CRB,1-0,Vila Nova
+1F,03/10/99,São Caetano,1-0,Desportiva Ferroviária
+1F,03/10/99,Tuna Luso,3-0,Santa Cruz
+1F,04/10/99,América Mineiro,5-1,Remo
+1F,06/10/99,Ceará,1-0,União São João
+1F,06/10/99,Paysandu,1-1,América-RN
+1F,06/10/99,Vila Nova,2-2,Criciúma
+1F,06/10/99,XV de Piracicaba,0-2,Avaí
+1F,07/10/99,Desportiva Ferroviária,1-1,Goiás
+1F,07/10/99,Remo,0-1,São Caetano
+1F,07/10/99,Sampaio Corrêa,1-0,CRB
+1F,07/10/99,Tuna Luso,0-4,Bahia
+1F,09/10/99,América-RN,1-1,Ceará
+1F,09/10/99,Vila Nova,2-0,Avaí
+1F,10/10/99,ABC,1-1,CRB
+1F,10/10/99,Bragantino,2-1,Tuna Luso
+1F,10/10/99,Joinville,1-0,Sampaio Corrêa
+1F,10/10/99,Londrina,2-0,XV de Piracicaba
+1F,10/10/99,Santa Cruz,2-1,Paysandu
+1F,11/10/99,Goiás,4-4,Bahia
+1F,12/10/99,São Caetano,1-0,Ceará
+1F,13/10/99,Criciúma,3-1,Joinville
+1F,13/10/99,Remo,1-1,Bragantino
+1F,14/10/99,Avaí,1-0,Desportiva Ferroviária
+1F,14/10/99,Paysandu,2-3,América Mineiro
+1F,14/10/99,Sampaio Corrêa,3-3,Vila Nova
+1F,14/10/99,Tuna Luso,1-1,ABC
+1F,14/10/99,União São João,1-1,Londrina
+1F,14/10/99,XV de Piracicaba,2-0,Santa Cruz
+1F,17/10/99,América-RN,3-4,Vila Nova
+1F,17/10/99,Bahia,1-1,Londrina
+1F,17/10/99,Ceará,1-1,ABC
+1F,17/10/99,CRB,2-1,Tuna Luso
+1F,17/10/99,Goiás,3-0,Santa Cruz
+1F,17/10/99,Joinville,2-0,XV de Piracicaba
+1F,17/10/99,Remo,2-1,Paysandu
+1F,17/10/99,Sampaio Corrêa,2-1,América Mineiro
+1F,17/10/99,União São João,2-1,Desportiva Ferroviária
+1F,18/10/99,Avaí,3-1,Criciúma
+1F,20/10/99,América Mineiro,1-0,XV de Piracicaba
+1F,20/10/99,Ceará,4-3,Tuna Luso
+1F,21/10/99,Bahia,2-2,São Caetano
+1F,21/10/99,Bragantino,2-2,Avaí
+1F,21/10/99,CRB,1-0,União São João
+1F,21/10/99,Criciúma,1-0,Goiás
+1F,21/10/99,Desportiva Ferroviária,0-3,Sampaio Corrêa
+1F,21/10/99,Londrina,4-1,Joinville
+1F,21/10/99,Santa Cruz,1-0,América-RN
+1F,21/10/99,Vila Nova,2-1,Paysandu
+1F,23/10/99,América Mineiro,1-1,ABC
+1F,24/10/99,Avaí,1-1,Paysandu
+1F,24/10/99,Bragantino,0-5,Sampaio Corrêa
+1F,24/10/99,Criciúma,1-2,América-RN
+1F,24/10/99,Desportiva Ferroviária,4-0,Londrina
+1F,24/10/99,Remo,1-0,Joinville
+1F,24/10/99,Tuna Luso,2-0,União São João
+1F,24/10/99,Vila Nova,0-0,Ceará
+1F,24/10/99,XV de Piracicaba,3-2,CRB
+1F,25/10/99,Santa Cruz,0-0,São Caetano
+1F,27/10/99,ABC,2-3,Bahia
+1F,27/10/99,América Mineiro,0-0,Goiás
+1F,30/10/99,América-RN,3-0,Avaí
+1F,30/10/99,Bahia,0-0,Vila Nova
+1F,30/10/99,Ceará,2-1,XV de Piracicaba
+1F,30/10/99,CRB,1-2,Remo
+1F,30/10/99,Goiás,5-1,Tuna Luso
+1F,30/10/99,Joinville,2-0,Desportiva Ferroviária
+1F,30/10/99,Londrina,3-2,América Mineiro
+1F,30/10/99,Paysandu,0-1,Bragantino
+1F,30/10/99,Sampaio Corrêa,1-2,Santa Cruz
+1F,30/10/99,São Caetano,3-1,ABC
+1F,30/10/99,União São João,4-0,Criciúma
+2F,06/11/99,Avaí,1-2,Bahia
+2F,06/11/99,Ceará,0-3,Goiás
+2F,07/11/99,América Mineiro,2-2,Vila Nova
+2F,07/11/99,Santa Cruz,1-0,São Caetano
+2F,13/11/99,São Caetano,4-3,Santa Cruz
+2F,13/11/99,Vila Nova,0-0,América Mineiro
+2F,14/11/99,Goiás,3-4,Ceará
+2F,15/11/99,Bahia,3-1,Avaí
+2F,15/11/99,São Caetano,0-1,Santa Cruz
+2F,15/11/99,Vila Nova,3-1,América Mineiro
+2F,16/11/99,Goiás,2-0,Ceará
+QDF,20/11/99,Vila Nova,3-2,Bahia
+QDF,21/11/99,Santa Cruz,2-1,Goiás
+QDF,24/11/99,Bahia,1-0,Santa Cruz
+QDF,24/11/99,Goiás,1-0,Vila Nova
+QDF,27/11/99,Santa Cruz,2-1,Vila Nova
+QDF,28/11/99,Goiás,0-0,Bahia
+QDF,04/12/99,Bahia,1-2,Goiás
+QDF,05/12/99,Vila Nova,1-0,Santa Cruz
+QDF,08/12/99,Vila Nova,0-1,Goiás
+QDF,09/12/99,Santa Cruz,2-1,Bahia
+QDF,12/12/99,Bahia,4-2,Vila Nova
+QDF,12/12/99,Goiás,0-0,Santa Cruz

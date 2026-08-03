@@ -1,0 +1,205 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,10/08/95,Central,1-0,Democrata-GV
+C,10/08/95,Goiatuba EC,2-0,Atlético Paranaense
+D,10/08/95,Londrina,5-0,Bangu
+A,13/08/95,Moto Club,0-0,Ceará
+A,13/08/95,Remo,2-2,Náutico
+A,13/08/95,Tuna Luso,0-0,América-RN
+B,13/08/95,Central,1-0,Desportiva Ferroviária
+B,13/08/95,CRB,1-2,Sergipe
+B,13/08/95,Santa Cruz,2-2,Democrata-GV
+C,13/08/95,Barra,3-4,Atlético Paranaense
+C,13/08/95,Goiatuba EC,1-1,América-SP
+C,13/08/95,Novorizontino,2-0,Americano
+D,13/08/95,Coritiba,2-0,Bangu
+D,13/08/95,Londrina,3-1,Ferroviária
+D,13/08/95,Ponte Preta,0-1,Mogi Mirim
+A,16/08/95,Moto Club,2-0,Náutico
+A,16/08/95,Remo,4-0,América-RN
+A,16/08/95,Tuna Luso,0-0,Ceará
+B,16/08/95,Central,1-1,Sergipe
+B,16/08/95,Santa Cruz,1-2,Desportiva Ferroviária
+C,16/08/95,Barra,1-0,América-SP
+C,16/08/95,Goiatuba EC,3-0,Americano
+C,16/08/95,Novorizontino,1-2,Atlético Paranaense
+D,16/08/95,Coritiba,8-0,Ferroviária
+D,16/08/95,Londrina,1-1,Mogi Mirim
+D,16/08/95,Ponte Preta,1-2,Bangu
+B,17/08/95,CRB,4-2,Democrata-GV
+A,19/08/95,Moto Club,1-0,América-RN
+A,19/08/95,Tuna Luso,1-0,Náutico
+A,20/08/95,Remo,0-0,Ceará
+B,20/08/95,CRB,1-1,Desportiva Ferroviária
+B,20/08/95,Santa Cruz,2-0,Sergipe
+C,20/08/95,Barra,1-3,Americano
+C,20/08/95,Novorizontino,2-2,América-SP
+D,20/08/95,Coritiba,1-0,Mogi Mirim
+D,20/08/95,Ponte Preta,1-0,Ferroviária
+A,24/08/95,Náutico,0-0,Moto Club
+B,24/08/95,Democrata-GV,1-1,CRB
+C,24/08/95,Americano,0-1,Novorizontino
+C,24/08/95,Atlético Paranaense,3-0,Barra
+D,24/08/95,Bangu,2-0,Ponte Preta
+A,27/08/95,América-RN,2-0,Moto Club
+A,27/08/95,Ceará,2-2,Remo
+A,27/08/95,Náutico,3-0,Tuna Luso
+B,27/08/95,Democrata-GV,0-4,Central
+B,27/08/95,Desportiva Ferroviária,0-0,CRB
+B,27/08/95,Sergipe,0-1,Santa Cruz
+C,27/08/95,Americano,2-0,Goiatuba EC
+C,27/08/95,América-SP,1-1,Barra
+C,27/08/95,Atlético Paranaense,2-0,Novorizontino
+D,27/08/95,Bangu,1-0,Londrina
+D,27/08/95,Ferroviária,0-0,Ponte Preta
+D,27/08/95,Mogi Mirim,2-0,Coritiba
+A,30/08/95,América-RN,2-1,Tuna Luso
+A,30/08/95,Ceará,0-0,Moto Club
+A,30/08/95,Náutico,0-0,Remo
+B,30/08/95,Democrata-GV,1-0,Santa Cruz
+B,30/08/95,Desportiva Ferroviária,0-0,Central
+B,30/08/95,Sergipe,2-1,CRB
+C,30/08/95,Americano,2-0,Barra
+C,30/08/95,América-SP,1-0,Novorizontino
+C,30/08/95,Atlético Paranaense,2-0,Goiatuba EC
+D,30/08/95,Bangu,0-0,Coritiba
+D,30/08/95,Ferroviária,0-0,Londrina
+D,30/08/95,Mogi Mirim,2-1,Ponte Preta
+A,02/09/95,América-RN,2-0,Remo
+A,02/09/95,Ceará,2-1,Tuna Luso
+B,02/09/95,Desportiva Ferroviária,1-1,Santa Cruz
+B,02/09/95,Sergipe,1-0,Central
+C,02/09/95,América-SP,4-1,Goiatuba EC
+D,02/09/95,Ferroviária,0-0,Coritiba
+D,02/09/95,Mogi Mirim,0-0,Londrina
+D,06/09/95,Coritiba,1-0,Londrina
+A,07/09/95,Náutico,3-2,América-RN
+A,07/09/95,Tuna Luso,2-0,Remo
+B,07/09/95,Democrata-GV,1-2,Desportiva Ferroviária
+B,07/09/95,Santa Cruz,1-0,Central
+C,07/09/95,Americano,0-0,Atlético Paranaense
+C,07/09/95,Novorizontino,2-3,Goiatuba EC
+D,07/09/95,Bangu,1-0,Ferroviária
+A,10/09/95,América-RN,0-0,Náutico
+A,10/09/95,Remo,0-2,Tuna Luso
+B,10/09/95,Central,0-0,Santa Cruz
+B,10/09/95,Desportiva Ferroviária,1-0,Democrata-GV
+C,10/09/95,América-SP,0-0,Atlético Paranaense
+C,10/09/95,Goiatuba EC,0-1,Novorizontino
+D,10/09/95,Ferroviária,2-0,Mogi Mirim
+D,10/09/95,Londrina,1-1,Coritiba
+A,13/09/95,Ceará,0-0,Náutico
+A,13/09/95,Moto Club,0-1,Remo
+B,13/09/95,CRB,2-1,Central
+B,13/09/95,Sergipe,1-0,Democrata-GV
+C,13/09/95,Atlético Paranaense,2-1,América-SP
+C,13/09/95,Barra,1-0,Novorizontino
+D,13/09/95,Mogi Mirim,3-0,Ferroviária
+D,13/09/95,Ponte Preta,1-1,Londrina
+A,17/09/95,Moto Club,3-1,Tuna Luso
+A,17/09/95,Náutico,0-1,Ceará
+B,17/09/95,Democrata-GV,0-1,Sergipe
+B,17/09/95,Santa Cruz,6-0,CRB
+C,17/09/95,Atlético Paranaense,2-0,Americano
+C,17/09/95,Goiatuba EC,2-1,Barra
+D,17/09/95,Londrina,3-0,Ponte Preta
+D,17/09/95,Mogi Mirim,1-0,Bangu
+A,20/09/95,América-RN,0-1,Ceará
+B,20/09/95,Central,2-0,CRB
+B,20/09/95,Desportiva Ferroviária,2-1,Sergipe
+C,20/09/95,América-SP,0-0,Americano
+C,20/09/95,Novorizontino,2-0,Barra
+D,20/09/95,Coritiba,2-1,Ponte Preta
+D,20/09/95,Ferroviária,1-0,Bangu
+A,21/09/95,Remo,2-1,Moto Club
+D,23/09/95,Bangu,0-1,Mogi Mirim
+A,24/09/95,Ceará,0-0,América-RN
+A,24/09/95,Tuna Luso,3-0,Moto Club
+B,24/09/95,CRB,1-3,Santa Cruz
+B,24/09/95,Sergipe,1-1,Desportiva Ferroviária
+C,24/09/95,Americano,1-0,América-SP
+C,24/09/95,Barra,0-0,Goiatuba EC
+D,24/09/95,Ponte Preta,1-2,Coritiba
+E,30/09/95,América-RN,1-0,Ceará
+E,01/10/95,Desportiva Ferroviária,2-2,Sergipe
+F,01/10/95,Remo,3-2,Tuna Luso
+F,01/10/95,Santa Cruz,0-0,Central
+G,01/10/95,Londrina,0-1,Mogi Mirim
+G,01/10/95,Novorizontino,2-3,Atlético Paranaense
+H,01/10/95,Bangu,0-0,Americano
+H,01/10/95,Goiatuba EC,0-0,Coritiba
+E,04/10/95,Sergipe,1-0,América-RN
+F,04/10/95,Tuna Luso,1-1,Santa Cruz
+G,04/10/95,Atlético Paranaense,1-1,Londrina
+G,04/10/95,Mogi Mirim,2-1,Novorizontino
+H,04/10/95,Americano,5-1,Goiatuba EC
+H,05/10/95,Coritiba,2-0,Bangu
+F,07/10/95,Remo,2-1,Santa Cruz
+E,08/10/95,Ceará,4-0,Sergipe
+E,08/10/95,Desportiva Ferroviária,5-0,América-RN
+F,08/10/95,Central,3-1,Tuna Luso
+G,08/10/95,Mogi Mirim,1-0,Atlético Paranaense
+G,08/10/95,Novorizontino,0-0,Londrina
+H,08/10/95,Bangu,0-3,Goiatuba EC
+H,08/10/95,Coritiba,1-0,Americano
+F,11/10/95,Santa Cruz,1-0,Tuna Luso
+E,12/10/95,América-RN,0-1,Sergipe
+E,12/10/95,Ceará,5-1,Desportiva Ferroviária
+F,12/10/95,Central,0-0,Remo
+H,14/10/95,Goiatuba EC,2-4,Bangu
+E,15/10/95,América-RN,0-2,Desportiva Ferroviária
+E,15/10/95,Sergipe,2-0,Ceará
+F,15/10/95,Santa Cruz,2-0,Remo
+F,15/10/95,Tuna Luso,3-2,Central
+G,15/10/95,Atlético Paranaense,6-0,Mogi Mirim
+G,15/10/95,Londrina,1-0,Novorizontino
+H,15/10/95,Americano,1-1,Coritiba
+E,18/10/95,Sergipe,3-3,Desportiva Ferroviária
+F,18/10/95,Remo,2-1,Central
+G,18/10/95,Londrina,1-2,Atlético Paranaense
+G,18/10/95,Novorizontino,1-1,Mogi Mirim
+H,18/10/95,Bangu,1-2,Coritiba
+H,18/10/95,Goiatuba EC,3-2,Americano
+E,21/10/95,Ceará,2-1,América-RN
+F,21/10/95,Central,2-1,Santa Cruz
+F,21/10/95,Tuna Luso,1-2,Remo
+G,21/10/95,Atlético Paranaense,1-0,Novorizontino
+G,21/10/95,Mogi Mirim,2-1,Londrina
+H,21/10/95,Coritiba,3-1,Goiatuba EC
+H,22/10/95,Americano,0-1,Bangu
+E,24/10/95,Desportiva Ferroviária,0-0,Ceará
+I,29/10/95,Bangu,0-1,Atlético Paranaense
+I,29/10/95,Central,2-0,Sergipe
+J,29/10/95,Coritiba,1-1,Ceará
+J,29/10/95,Mogi Mirim,2-0,Remo
+I,01/11/95,Sergipe,1-1,Bangu
+J,01/11/95,Remo,1-1,Coritiba
+I,05/11/95,Atlético Paranaense,2-1,Sergipe
+I,05/11/95,Central,0-0,Bangu
+J,05/11/95,Coritiba,0-0,Mogi Mirim
+J,05/11/95,Remo,4-1,Ceará
+I,09/11/95,Atlético Paranaense,2-0,Central
+I,09/11/95,Bangu,3-1,Sergipe
+J,09/11/95,Ceará,1-1,Mogi Mirim
+I,12/11/95,Bangu,2-2,Central
+I,12/11/95,Sergipe,1-1,Atlético Paranaense
+J,12/11/95,Ceará,0-2,Remo
+J,12/11/95,Mogi Mirim,1-0,Coritiba
+I,15/11/95,Central,1-2,Atlético Paranaense
+J,15/11/95,Coritiba,2-0,Remo
+J,15/11/95,Mogi Mirim,1-0,Ceará
+I,19/11/95,Atlético Paranaense,1-0,Bangu
+I,19/11/95,Sergipe,0-2,Central
+J,19/11/95,Ceará,0-2,Coritiba
+J,19/11/95,Remo,0-0,Mogi Mirim
+QDF,26/11/95,Central,0-1,Atlético Paranaense
+QDF,26/11/95,Coritiba,5-0,Mogi Mirim
+QDF,29/11/95,Atlético Paranaense,1-1,Coritiba
+QDF,29/11/95,Mogi Mirim,3-0,Central
+QDF,03/12/95,Atlético Paranaense,1-0,Mogi Mirim
+QDF,03/12/95,Central,2-1,Coritiba
+QDF,10/12/95,Coritiba,4-2,Central
+QDF,10/12/95,Mogi Mirim,0-1,Atlético Paranaense
+QDF,13/12/95,Central,1-4,Mogi Mirim
+QDF,13/12/95,Coritiba,3-0,Atlético Paranaense
+QDF,17/12/95,Atlético Paranaense,4-1,Central
+QDF,17/12/95,Mogi Mirim,1-1,Coritiba

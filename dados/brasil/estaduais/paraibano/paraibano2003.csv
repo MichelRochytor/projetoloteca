@@ -1,0 +1,105 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,21/01/07,Desportiva Guarabira,1-3,Botafogo-PB
+1T,21/01/07,Treze,2-0,Sousa
+1T,21/01/07,Auto Esporte,0-2,Campinense
+1T,21/01/07,Atlético-PB,0-1,Esporte de Patos
+1T,21/01/07,Nacional-PB,3-1,Perilima
+1T,24/01/07,Campinense,7-0,Perilima
+1T,24/01/07,Botafogo-PB,2-2,Sousa
+1T,24/01/07,Atlético-PB,0-0,Treze
+1T,24/01/07,Desportiva Guarabira,0-3,Nacional-PB
+1T,24/01/07,Esporte de Patos,5-1,Auto Esporte
+1T,27/01/07,Campinense,6-0,Atlético-PB
+1T,28/01/07,Esporte de Patos,3-2,Treze
+1T,28/01/07,Botafogo-PB,3-1,Nacional-PB
+1T,28/01/07,Sousa,4-0,Desportiva Guarabira
+1T,28/01/07,Perilima,1-2,Auto Esporte
+1T,31/01/07,Auto Esporte,1-1,Desportiva Guarabira
+1T,31/01/07,Nacional-PB,0-0,Campinense
+1T,31/01/07,Treze,11-0,Perilima
+1T,31/01/07,Atlético-PB,2-1,Botafogo-PB
+1T,31/01/07,Sousa,4-1,Esporte de Patos
+1T,03/02/07,Perilima,1-2,Desportiva Guarabira
+1T,04/02/07,Campinense,1-0,Treze
+1T,04/02/07,Auto Esporte,1-2,Botafogo-PB
+1T,04/02/07,Nacional-PB,5-1,Esporte de Patos
+1T,04/02/07,Sousa,1-0,Atlético-PB
+1T,07/02/07,Auto Esporte,4-0,Atlético-PB
+1T,07/02/07,Nacional-PB,4-1,Treze
+1T,07/02/07,Perilima,0-4,Botafogo-PB
+1T,07/02/07,Desportiva Guarabira,1-0,Esporte de Patos
+1T,08/02/07,Campinense,2-1,Sousa
+1T,11/02/07,Atlético-PB,0-1,Nacional-PB
+1T,11/02/07,Botafogo-PB,0-0,Campinense
+1T,11/02/07,Treze,4-1,Desportiva Guarabira
+1T,11/02/07,Sousa,3-0,Auto Esporte
+1T,11/02/07,Esporte de Patos,4-0,Perilima
+1T,14/02/07,Treze,1-2,Botafogo-PB
+1T,15/02/07,Auto Esporte,2-2,Nacional-PB
+1T,15/02/07,Esporte de Patos,1-0,Campinense
+1T,15/02/07,Sousa,4-1,Perilima
+1T,15/02/07,Atlético-PB,2-1,Desportiva Guarabira
+1T,18/02/07,Desportiva Guarabira,1-4,Campinense
+1T,18/02/07,Botafogo-PB,1-2,Esporte de Patos
+1T,18/02/07,Nacional-PB,0-0,Sousa
+1T,18/02/07,Treze,2-1,Auto Esporte
+1T,18/02/07,Perilima,1-2,Atlético-PB
+SF,28/02/07,Nacional-PB,3-1,Esporte de Patos
+SF,04/03/07,Esporte de Patos,1-1,Nacional-PB
+SF,04/03/07,Sousa,2-0,Campinense
+SF,07/03/07,Campinense,2-1,Sousa
+F,11/03/07,Sousa,2-1,Nacional-PB
+F,18/03/07,Nacional-PB,1-0,Sousa
+2T,24/03/07,Perilima,0-2,Nacional-PB
+2T,25/03/07,Sousa,2-0,Treze
+2T,25/03/07,Botafogo-PB,3-3,Desportiva Guarabira
+2T,25/03/07,Campinense,2-2,Auto Esporte
+2T,25/03/07,Esporte de Patos,0-2,Atlético-PB
+2T,28/03/07,Auto Esporte,3-3,Esporte de Patos
+2T,28/03/07,Perilima,1-5,Campinense
+2T,28/03/07,Treze,3-0,Atlético-PB
+2T,28/03/07,Nacional-PB,2-1,Desportiva Guarabira
+2T,29/03/07,Sousa,3-2,Botafogo-PB
+2T,01/04/07,Auto Esporte,4-0,Perilima
+2T,01/04/07,Treze,4-0,Esporte de Patos
+2T,01/04/07,Atlético-PB,1-0,Campinense
+2T,01/04/07,Desportiva Guarabira,2-3,Sousa
+2T,01/04/07,Nacional-PB,3-3,Botafogo-PB
+2T,04/04/07,Perilima,1-8,Treze
+2T,04/04/07,Botafogo-PB,1-1,Atlético-PB
+2T,04/04/07,Esporte de Patos,3-1,Sousa
+2T,04/04/07,Desportiva Guarabira,4-2,Auto Esporte
+2T,05/04/07,Campinense,3-1,Nacional-PB
+2T,08/04/07,Treze,3-2,Campinense
+2T,08/04/07,Botafogo-PB,1-0,Auto Esporte
+2T,08/04/07,Atlético-PB,2-1,Sousa
+2T,08/04/07,Desportiva Guarabira,2-0,Perilima
+2T,08/04/07,Esporte de Patos,1-3,Nacional-PB
+2T,11/04/07,Treze,0-0,Nacional-PB
+2T,11/04/07,Sousa,1-0,Campinense
+2T,11/04/07,Botafogo-PB,7-0,Perilima
+2T,11/04/07,Atlético-PB,4-1,Auto Esporte
+2T,11/04/07,Esporte de Patos,1-2,Desportiva Guarabira
+2T,14/04/07,Perilima,3-3,Esporte de Patos
+2T,15/04/07,Auto Esporte,2-1,Sousa
+2T,15/04/07,Campinense,1-1,Botafogo-PB
+2T,15/04/07,Desportiva Guarabira,2-0,Treze
+2T,15/04/07,Nacional-PB,1-0,Atlético-PB
+2T,17/04/07,Perilima,1-2,Sousa
+2T,18/04/07,Botafogo-PB,2-1,Treze
+2T,18/04/07,Campinense,4-2,Esporte de Patos
+2T,18/04/07,Nacional-PB,2-1,Auto Esporte
+2T,18/04/07,Desportiva Guarabira,2-2,Atlético-PB
+2T,22/04/07,Sousa,1-0,Nacional-PB
+2T,22/04/07,Atlético-PB,9-0,Perilima
+2T,22/04/07,Auto Esporte,2-4,Treze
+2T,22/04/07,Esporte de Patos,1-1,Botafogo-PB
+2T,22/04/07,Campinense,2-1,Desportiva Guarabira
+SF,25/04/07,Treze,2-0,Sousa
+SF,25/04/07,Nacional-PB,1-2,Atlético-PB
+SF,29/04/07,Sousa,2-2,Treze
+SF,29/04/07,Atlético-PB,1-0,Nacional-PB
+F,02/05/07,Treze,2-1,Atlético-PB
+F,06/05/07,Atlético-PB,2-1,Treze
+F,09/05/07,Atlético-PB,2-1,Nacional-PB
+F,13/05/07,Nacional-PB,3-0,Atlético-PB

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/08/92,Arsenal,2-4,Norwich City
+1,15/08/92,Chelsea,1-1,Oldham Athletic
+1,15/08/92,Everton,1-1,Sheffield Wed.
+1,15/08/92,Sheffield United,2-1,Manchester United
+1,15/08/92,Coventry City,2-1,Middlesbrough
+1,15/08/92,Ipswich Town,1-1,Aston Villa
+1,15/08/92,Leeds United,2-1,Wimbledon
+1,15/08/92,Southampton,0-0,Tottenham
+1,15/08/92,Crystal Palace,3-3,Blackburn Rovers
+1,16/08/92,Nottingham Forest,1-0,Liverpool
+1,17/08/92,Manchester City,1-1,QPR
+2,18/08/92,Blackburn Rovers,1-0,Arsenal
+2,18/08/92,Wimbledon,0-1,Ipswich Town
+2,19/08/92,Oldham Athletic,1-1,Crystal Palace
+2,19/08/92,Aston Villa,1-1,Leeds United
+2,19/08/92,Norwich City,2-1,Chelsea
+2,19/08/92,Middlesbrough,2-0,Manchester City
+2,19/08/92,Manchester United,0-3,Everton
+2,19/08/92,QPR,3-1,Southampton
+2,19/08/92,Liverpool,2-1,Sheffield United
+2,19/08/92,Sheffield Wed.,2-0,Nottingham Forest
+2,19/08/92,Tottenham,0-2,Coventry City
+3,22/08/92,Manchester United,1-1,Ipswich Town
+3,22/08/92,Aston Villa,1-1,Southampton
+3,22/08/92,Norwich City,1-1,Everton
+3,22/08/92,Blackburn Rovers,1-0,Manchester City
+3,22/08/92,QPR,3-2,Sheffield United
+3,22/08/92,Sheffield Wed.,3-3,Chelsea
+3,22/08/92,Tottenham,2-2,Crystal Palace
+3,22/08/92,Wimbledon,1-2,Coventry City
+3,22/08/92,Oldham Athletic,5-3,Nottingham Forest
+3,22/08/92,Middlesbrough,4-1,Leeds United
+3,23/08/92,Liverpool,0-2,Arsenal
+4,24/08/92,Southampton,0-1,Manchester United
+4,25/08/92,Sheffield United,2-2,Wimbledon
+4,25/08/92,Leeds United,5-0,Tottenham
+4,25/08/92,Ipswich Town,2-2,Liverpool
+4,25/08/92,Crystal Palace,1-1,Sheffield Wed.
+4,25/08/92,Everton,1-0,Aston Villa
+4,26/08/92,Manchester City,3-1,Norwich City
+4,26/08/92,Chelsea,0-0,Blackburn Rovers
+4,26/08/92,Coventry City,0-1,QPR
+4,26/08/92,Arsenal,2-0,Oldham Athletic
+5,29/08/92,Manchester City,3-3,Oldham Athletic
+5,29/08/92,Arsenal,2-1,Sheffield Wed.
+5,29/08/92,Chelsea,1-0,QPR
+5,29/08/92,Everton,0-0,Wimbledon
+5,29/08/92,Sheffield United,0-2,Aston Villa
+5,29/08/92,Coventry City,0-2,Blackburn Rovers
+5,29/08/92,Leeds United,2-2,Liverpool
+5,29/08/92,Southampton,2-1,Middlesbrough
+5,29/08/92,Crystal Palace,1-2,Norwich City
+5,29/08/92,Nottingham Forest,0-2,Manchester United
+5,30/08/92,Ipswich Town,1-1,Tottenham
+6,31/08/92,Norwich City,3-1,Nottingham Forest
+6,01/09/92,Liverpool,1-1,Southampton
+6,01/09/92,Oldham Athletic,2-2,Leeds United
+6,01/09/92,Middlesbrough,2-2,Ipswich Town
+6,01/09/92,Wimbledon,0-1,Manchester City
+6,02/09/92,Manchester United,1-0,Crystal Palace
+6,02/09/92,Aston Villa,1-3,Chelsea
+6,02/09/92,QPR,0-0,Arsenal
+6,02/09/92,Sheffield Wed.,1-2,Coventry City
+6,02/09/92,Tottenham,2-0,Sheffield United
+7,05/09/92,Aston Villa,3-0,Crystal Palace
+7,05/09/92,Norwich City,1-0,Southampton
+7,05/09/92,Blackburn Rovers,4-1,Nottingham Forest
+7,05/09/92,QPR,0-0,Ipswich Town
+7,05/09/92,Liverpool,2-1,Chelsea
+7,05/09/92,Sheffield Wed.,0-3,Manchester City
+7,05/09/92,Tottenham,2-1,Everton
+7,05/09/92,Wimbledon,3-2,Arsenal
+7,05/09/92,Oldham Athletic,0-1,Coventry City
+7,05/09/92,Middlesbrough,2-0,Sheffield United
+7,06/09/92,Manchester United,2-0,Leeds United
+8,12/09/92,Manchester City,0-1,Middlesbrough
+8,12/09/92,Arsenal,0-1,Blackburn Rovers
+8,12/09/92,Chelsea,2-3,Norwich City
+8,12/09/92,Everton,0-2,Manchester United
+8,12/09/92,Sheffield United,1-0,Liverpool
+8,12/09/92,Ipswich Town,2-1,Wimbledon
+8,12/09/92,Southampton,1-2,QPR
+8,12/09/92,Crystal Palace,2-2,Oldham Athletic
+8,12/09/92,Nottingham Forest,1-2,Sheffield Wed.
+8,13/09/92,Leeds United,1-1,Aston Villa
+8,14/09/92,Coventry City,1-0,Tottenham
+6,15/09/92,Blackburn Rovers,2-3,Everton
+9,19/09/92,Aston Villa,4-2,Liverpool
+9,19/09/92,Norwich City,1-0,Sheffield Wed.
+9,19/09/92,QPR,3-3,Middlesbrough
+9,19/09/92,Tottenham,1-1,Manchester United
+9,19/09/92,Wimbledon,1-1,Blackburn Rovers
+9,19/09/92,Everton,0-2,Crystal Palace
+9,19/09/92,Sheffield United,1-1,Arsenal
+9,19/09/92,Southampton,1-1,Leeds United
+9,19/09/92,Oldham Athletic,4-2,Ipswich Town
+9,20/09/92,Manchester City,0-1,Chelsea
+9,21/09/92,Nottingham Forest,1-1,Coventry City
+10,26/09/92,Manchester United,0-0,QPR
+10,26/09/92,Blackburn Rovers,2-0,Oldham Athletic
+10,26/09/92,Liverpool,2-3,Wimbledon
+10,26/09/92,Chelsea,0-0,Nottingham Forest
+10,26/09/92,Coventry City,1-1,Norwich City
+10,26/09/92,Ipswich Town,0-0,Sheffield United
+10,26/09/92,Leeds United,2-0,Everton
+10,26/09/92,Crystal Palace,1-2,Southampton
+10,26/09/92,Middlesbrough,2-3,Aston Villa
+10,27/09/92,Sheffield Wed.,2-0,Tottenham
+10,28/09/92,Arsenal,1-0,Manchester City
+11,03/10/92,Blackburn Rovers,7-1,Norwich City
+11,03/10/92,QPR,4-1,Tottenham
+11,03/10/92,Liverpool,1-0,Sheffield Wed.
+11,03/10/92,Manchester City,2-2,Nottingham Forest
+11,03/10/92,Arsenal,2-1,Chelsea
+11,03/10/92,Wimbledon,2-3,Aston Villa
+11,03/10/92,Sheffield United,2-0,Southampton
+11,03/10/92,Coventry City,2-2,Crystal Palace
+11,03/10/92,Ipswich Town,4-2,Leeds United
+11,03/10/92,Middlesbrough,1-1,Manchester United
+11,04/10/92,Oldham Athletic,1-0,Everton
+12,17/10/92,Norwich City,2-1,QPR
+12,17/10/92,Sheffield Wed.,2-1,Oldham Athletic
+12,17/10/92,Tottenham,2-2,Middlesbrough
+12,17/10/92,Chelsea,2-1,Ipswich Town
+12,17/10/92,Everton,1-1,Coventry City
+12,17/10/92,Leeds United,3-1,Sheffield United
+12,17/10/92,Southampton,2-2,Wimbledon
+12,17/10/92,Crystal Palace,0-0,Manchester City
+12,17/10/92,Nottingham Forest,0-1,Arsenal
+12,18/10/92,Manchester United,2-2,Liverpool
+12,19/10/92,Aston Villa,0-0,Blackburn Rovers
+4,21/10/92,Nottingham Forest,1-0,Middlesbrough
+13,24/10/92,Blackburn Rovers,0-0,Manchester United
+13,24/10/92,QPR,2-1,Leeds United
+13,24/10/92,Manchester City,1-0,Southampton
+13,24/10/92,Arsenal,2-0,Everton
+13,24/10/92,Sheffield United,0-0,Nottingham Forest
+13,24/10/92,Coventry City,1-2,Chelsea
+13,24/10/92,Ipswich Town,2-2,Crystal Palace
+13,24/10/92,Oldham Athletic,1-1,Aston Villa
+13,24/10/92,Middlesbrough,1-1,Sheffield Wed.
+13,25/10/92,Liverpool,4-1,Norwich City
+13,25/10/92,Wimbledon,1-1,Tottenham
+14,31/10/92,Manchester United,0-1,Wimbledon
+14,31/10/92,Norwich City,1-1,Middlesbrough
+14,31/10/92,Sheffield Wed.,0-0,Blackburn Rovers
+14,31/10/92,Tottenham,2-0,Liverpool
+14,31/10/92,Chelsea,1-2,Sheffield United
+14,31/10/92,Everton,1-3,Manchester City
+14,31/10/92,Leeds United,2-2,Coventry City
+14,31/10/92,Southampton,1-0,Oldham Athletic
+14,31/10/92,Nottingham Forest,0-1,Ipswich Town
+14,01/11/92,Aston Villa,2-0,QPR
+14,02/11/92,Crystal Palace,1-2,Arsenal
+15,07/11/92,Aston Villa,1-0,Manchester United
+15,07/11/92,Blackburn Rovers,0-2,Tottenham
+15,07/11/92,Liverpool,4-1,Middlesbrough
+15,07/11/92,Manchester City,4-0,Leeds United
+15,07/11/92,Arsenal,3-0,Coventry City
+15,07/11/92,Chelsea,3-1,Crystal Palace
+15,07/11/92,Wimbledon,0-2,QPR
+15,07/11/92,Ipswich Town,0-0,Southampton
+15,07/11/92,Nottingham Forest,0-1,Everton
+15,08/11/92,Sheffield United,1-1,Sheffield Wed.
+15,09/11/92,Oldham Athletic,2-3,Norwich City
+16,21/11/92,Manchester United,3-0,Oldham Athletic
+16,21/11/92,Norwich City,2-1,Sheffield United
+16,21/11/92,Sheffield Wed.,1-1,Ipswich Town
+16,21/11/92,Tottenham,0-0,Aston Villa
+16,21/11/92,Everton,0-1,Chelsea
+16,21/11/92,Coventry City,2-3,Manchester City
+16,21/11/92,Leeds United,3-0,Arsenal
+16,21/11/92,Crystal Palace,1-1,Nottingham Forest
+16,21/11/92,Middlesbrough,2-0,Wimbledon
+16,22/11/92,Southampton,1-1,Blackburn Rovers
+16,23/11/92,QPR,0-1,Liverpool
+17,28/11/92,Aston Villa,2-3,Norwich City
+17,28/11/92,Blackburn Rovers,1-0,QPR
+17,28/11/92,Liverpool,5-0,Crystal Palace
+17,28/11/92,Manchester City,0-1,Tottenham
+17,28/11/92,Arsenal,0-1,Manchester United
+17,28/11/92,Wimbledon,1-1,Sheffield Wed.
+17,28/11/92,Sheffield United,1-1,Coventry City
+17,28/11/92,Ipswich Town,1-0,Everton
+17,28/11/92,Oldham Athletic,4-1,Middlesbrough
+17,28/11/92,Nottingham Forest,1-2,Southampton
+17,29/11/92,Chelsea,1-0,Leeds United
+18,05/12/92,Norwich City,2-1,Wimbledon
+18,05/12/92,QPR,3-2,Oldham Athletic
+18,05/12/92,Sheffield Wed.,1-2,Aston Villa
+18,05/12/92,Tottenham,1-2,Chelsea
+18,05/12/92,Coventry City,2-2,Ipswich Town
+18,05/12/92,Leeds United,1-4,Nottingham Forest
+18,05/12/92,Southampton,2-0,Arsenal
+18,05/12/92,Crystal Palace,2-0,Sheffield United
+18,05/12/92,Middlesbrough,3-2,Blackburn Rovers
+18,06/12/92,Manchester United,2-1,Manchester City
+18,07/12/92,Everton,2-1,Liverpool
+19,11/12/92,Middlesbrough,0-0,Chelsea
+19,12/12/92,Manchester United,1-0,Norwich City
+19,12/12/92,Aston Villa,2-1,Nottingham Forest
+19,12/12/92,QPR,1-3,Crystal Palace
+19,12/12/92,Tottenham,1-0,Arsenal
+19,12/12/92,Wimbledon,5-2,Oldham Athletic
+19,12/12/92,Sheffield United,1-0,Everton
+19,12/12/92,Ipswich Town,3-1,Manchester City
+19,12/12/92,Leeds United,3-1,Sheffield Wed.
+19,12/12/92,Southampton,2-2,Coventry City
+19,13/12/92,Liverpool,2-1,Blackburn Rovers
+20,19/12/92,Blackburn Rovers,1-0,Sheffield United
+20,19/12/92,Sheffield Wed.,1-0,QPR
+20,19/12/92,Manchester City,1-1,Aston Villa
+20,19/12/92,Arsenal,1-1,Middlesbrough
+20,19/12/92,Chelsea,1-1,Manchester United
+20,19/12/92,Everton,2-1,Southampton
+20,19/12/92,Coventry City,5-1,Liverpool
+20,19/12/92,Oldham Athletic,2-1,Tottenham
+20,20/12/92,Crystal Palace,1-0,Leeds United
+20,20/12/92,Nottingham Forest,1-1,Wimbledon
+20,21/12/92,Norwich City,0-2,Ipswich Town
+21,26/12/92,Norwich City,0-0,Tottenham
+21,26/12/92,Blackburn Rovers,3-1,Leeds United
+21,26/12/92,Sheffield Wed.,3-3,Manchester United
+21,26/12/92,Manchester City,2-0,Sheffield United
+21,26/12/92,Arsenal,0-0,Ipswich Town
+21,26/12/92,Chelsea,1-1,Southampton
+21,26/12/92,Everton,2-2,Middlesbrough
+21,26/12/92,Coventry City,3-0,Aston Villa
+21,26/12/92,Crystal Palace,2-0,Wimbledon
+22,28/12/92,Tottenham,2-1,Nottingham Forest
+22,28/12/92,Manchester United,5-0,Coventry City
+22,28/12/92,QPR,4-2,Everton
+22,28/12/92,Liverpool,1-1,Manchester City
+22,28/12/92,Wimbledon,0-0,Chelsea
+22,28/12/92,Ipswich Town,2-1,Blackburn Rovers
+22,28/12/92,Leeds United,0-0,Norwich City
+22,28/12/92,Southampton,1-2,Sheffield Wed.
+22,28/12/92,Middlesbrough,0-1,Crystal Palace
+22,28/12/92,Aston Villa,1-0,Arsenal
+23,09/01/93,Manchester United,4-1,Tottenham
+23,09/01/93,Blackburn Rovers,0-0,Wimbledon
+23,09/01/93,Liverpool,1-2,Aston Villa
+23,09/01/93,Arsenal,1-1,Sheffield United
+23,09/01/93,Chelsea,2-4,Manchester City
+23,09/01/93,Coventry City,0-1,Nottingham Forest
+23,09/01/93,Ipswich Town,1-2,Oldham Athletic
+23,09/01/93,Leeds United,2-1,Southampton
+23,09/01/93,Crystal Palace,0-2,Everton
+23,09/01/93,Middlesbrough,0-1,QPR
+23,10/01/93,Sheffield Wed.,1-0,Norwich City
+24,16/01/93,Oldham Athletic,0-1,Blackburn Rovers
+24,16/01/93,Norwich City,1-1,Coventry City
+24,16/01/93,Tottenham,0-2,Sheffield Wed.
+24,16/01/93,Manchester City,0-1,Arsenal
+24,16/01/93,Wimbledon,2-0,Liverpool
+24,16/01/93,Everton,2-0,Leeds United
+24,16/01/93,Sheffield United,3-0,Ipswich Town
+24,16/01/93,Southampton,1-0,Crystal Palace
+24,16/01/93,Nottingham Forest,3-0,Chelsea
+24,17/01/93,Aston Villa,5-1,Middlesbrough
+24,18/01/93,QPR,1-3,Manchester United
+28,23/01/93,Coventry City,3-0,Oldham Athletic
+25,26/01/93,Oldham Athletic,0-1,Manchester City
+25,26/01/93,Middlesbrough,2-1,Southampton
+25,26/01/93,Blackburn Rovers,2-5,Coventry City
+25,26/01/93,Wimbledon,1-3,Everton
+25,27/01/93,Aston Villa,3-1,Sheffield United
+25,27/01/93,Norwich City,4-2,Crystal Palace
+25,27/01/93,QPR,1-1,Chelsea
+25,27/01/93,Tottenham,0-2,Ipswich Town
+25,27/01/93,Manchester United,2-0,Nottingham Forest
+26,30/01/93,Manchester City,3-2,Blackburn Rovers
+26,30/01/93,Chelsea,0-2,Sheffield Wed.
+26,30/01/93,Everton,0-1,Norwich City
+26,30/01/93,Sheffield United,1-2,QPR
+26,30/01/93,Coventry City,0-2,Wimbledon
+26,30/01/93,Ipswich Town,2-1,Manchester United
+26,30/01/93,Leeds United,3-0,Middlesbrough
+26,30/01/93,Southampton,2-0,Aston Villa
+26,30/01/93,Crystal Palace,1-3,Tottenham
+26,30/01/93,Nottingham Forest,2-0,Oldham Athletic
+26,31/01/93,Arsenal,0-1,Liverpool
+27,02/02/93,Blackburn Rovers,1-2,Crystal Palace
+27,06/02/93,Manchester United,2-1,Sheffield United
+27,06/02/93,Aston Villa,2-0,Ipswich Town
+27,06/02/93,QPR,1-1,Manchester City
+27,06/02/93,Liverpool,0-0,Nottingham Forest
+27,06/02/93,Sheffield Wed.,3-1,Everton
+27,06/02/93,Wimbledon,1-0,Leeds United
+27,06/02/93,Oldham Athletic,3-1,Chelsea
+27,06/02/93,Middlesbrough,0-2,Coventry City
+27,07/02/93,Tottenham,4-2,Southampton
+28,08/02/93,Leeds United,0-0,Manchester United
+28,09/02/93,Sheffield United,2-0,Middlesbrough
+28,09/02/93,Ipswich Town,1-1,QPR
+28,10/02/93,Everton,1-2,Tottenham
+28,10/02/93,Southampton,3-0,Norwich City
+28,10/02/93,Arsenal,0-1,Wimbledon
+28,10/02/93,Chelsea,0-0,Liverpool
+28,10/02/93,Crystal Palace,1-0,Aston Villa

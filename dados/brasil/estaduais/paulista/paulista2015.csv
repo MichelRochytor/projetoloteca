@@ -1,0 +1,159 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,31/01/15,Bragantino,1-0,São Bernardo
+A,31/01/15,Osasco Audax,1-3,Palmeiras
+A,31/01/15,Rio Claro,0-1,Botafogo-SP
+A,31/01/15,Capivariano,0-1,Red Bull Brasil
+A,31/01/15,XV de Piracicaba,0-1,Mogi Mirim
+A,01/02/15,Penapolense,1-3,São Paulo
+A,01/02/15,Corinthians,3-0,Marília
+A,01/02/15,Santos,3-0,Ituano
+A,01/02/15,São Bento,0-0,Linense
+A,01/02/15,Ponte Preta,2-3,Portuguesa
+A,03/02/15,São Bernardo,2-1,XV de Piracicaba
+A,03/02/15,Botafogo-SP,1-1,Osasco Audax
+A,04/02/15,Ituano,1-0,Bragantino
+A,04/02/15,Portuguesa,2-2,São Bento
+A,04/02/15,São Paulo,4-2,Capivariano
+A,04/02/15,Red Bull Brasil,1-1,Penapolense
+A,04/02/15,Marília,1-2,Rio Claro
+A,04/02/15,Mogi Mirim,0-0,Santos
+A,05/02/15,Palmeiras,0-1,Ponte Preta
+A,07/02/15,São Bernardo,1-1,Capivariano
+A,07/02/15,Penapolense,0-0,Ituano
+A,07/02/15,São Bento,3-0,Marília
+A,07/02/15,São Paulo,2-0,XV de Piracicaba
+A,07/02/15,Mogi Mirim,2-1,Bragantino
+A,07/02/15,Rio Claro,3-0,Linense
+A,08/02/15,Palmeiras,0-1,Corinthians
+A,08/02/15,Santos,2-1,Red Bull Brasil
+A,08/02/15,Botafogo-SP,1-1,Ponte Preta
+A,08/02/15,Osasco Audax,1-1,Portuguesa
+A,10/02/15,Capivariano,2-2,Mogi Mirim
+A,10/02/15,Penapolense,0-1,São Bernardo
+A,11/02/15,Bragantino,2-3,Red Bull Brasil
+A,11/02/15,Osasco Audax,1-1,Linense
+A,11/02/15,Botafogo-SP,1-1,São Bento
+A,11/02/15,Palmeiras,3-0,Rio Claro
+A,11/02/15,Santos,0-0,São Paulo
+A,12/02/15,XV de Piracicaba,1-2,Ituano
+A,12/02/15,Ponte Preta,2-0,Marília
+A,14/02/15,São Bernardo,0-1,Santos
+A,14/02/15,Corinthians,2-1,Botafogo-SP
+A,14/02/15,Bragantino,0-5,São Paulo
+A,14/02/15,São Bento,0-1,Palmeiras
+A,15/02/15,Ituano,0-0,Capivariano
+A,18/02/15,Mogi Mirim,2-1,Penapolense
+A,18/02/15,Red Bull Brasil,2-3,XV de Piracicaba
+A,18/02/15,Portuguesa,0-0,Rio Claro
+A,18/02/15,Linense,2-2,Ponte Preta
+A,18/02/15,Marília,1-1,Osasco Audax
+A,21/02/15,São Paulo,4-0,Osasco Audax
+A,21/02/15,Capivariano,3-0,Marília
+A,21/02/15,Red Bull Brasil,2-2,São Bento
+A,21/02/15,Linense,2-1,XV de Piracicaba
+A,21/02/15,Botafogo-SP,1-0,Bragantino
+A,22/02/15,Ituano,1-1,Corinthians
+A,22/02/15,Portuguesa,1-3,Santos
+A,22/02/15,Rio Claro,0-2,Mogi Mirim
+A,22/02/15,Ponte Preta,2-0,São Bernardo
+A,22/02/15,Penapolense,0-2,Palmeiras
+A,25/02/15,Linense,0-2,Corinthians
+A,27/02/15,Osasco Audax,3-0,São Bernardo
+A,27/02/15,São Bento,1-1,Ituano
+A,28/02/15,Palmeiras,2-0,Capivariano
+A,28/02/15,Bragantino,1-2,Portuguesa
+A,28/02/15,Ponte Preta,2-1,Red Bull Brasil
+A,28/02/15,Marília,1-2,Penapolense
+A,01/03/15,Rio Claro,0-0,São Paulo
+A,01/03/15,Corinthians,3-0,Mogi Mirim
+A,01/03/15,XV de Piracicaba,2-1,Botafogo-SP
+A,01/03/15,Santos,4-2,Linense
+A,06/03/15,Red Bull Brasil,1-6,Osasco Audax
+A,06/03/15,Marília,1-1,XV de Piracicaba
+A,07/03/15,São Bernardo,0-0,São Bento
+A,07/03/15,Ituano,2-1,Rio Claro
+A,07/03/15,Mogi Mirim,2-2,Ponte Preta
+A,07/03/15,Palmeiras,1-0,Bragantino
+A,07/03/15,Portuguesa,1-1,Penapolense
+A,07/03/15,Linense,1-2,Capivariano
+A,08/03/15,São Paulo,0-1,Corinthians
+A,08/03/15,Botafogo-SP,0-3,Santos
+A,10/03/15,Rio Claro,0-1,Red Bull Brasil
+A,10/03/15,Penapolense,3-1,Linense
+A,10/03/15,Bragantino,1-0,Marília
+A,10/03/15,XV de Piracicaba,2-1,Portuguesa
+A,11/03/15,Osasco Audax,2-0,Mogi Mirim
+A,11/03/15,Capivariano,1-2,Botafogo-SP
+A,11/03/15,Corinthians,1-0,São Bernardo
+A,11/03/15,Santos,2-1,Palmeiras
+A,12/03/15,São Paulo,1-0,São Bento
+A,12/03/15,Ponte Preta,1-0,Ituano
+A,14/03/15,Corinthians,0-0,Red Bull Brasil
+A,14/03/15,Marília,1-4,Santos
+A,14/03/15,Linense,1-0,Bragantino
+A,14/03/15,Portuguesa,1-2,Capivariano
+A,15/03/15,Palmeiras,1-0,XV de Piracicaba
+A,15/03/15,Ponte Preta,1-2,São Paulo
+A,15/03/15,São Bernardo,0-1,Rio Claro
+A,15/03/15,Ituano,1-2,Osasco Audax
+A,17/03/15,São Bento,1-1,Mogi Mirim
+A,17/03/15,Botafogo-SP,2-0,Penapolense
+A,20/03/15,Red Bull Brasil,1-0,Botafogo-SP
+A,20/03/15,Ituano,0-0,Linense
+A,20/03/15,Penapolense,1-0,Rio Claro
+A,21/03/15,Mogi Mirim,1-1,Portuguesa
+A,21/03/15,Santos,1-0,Osasco Audax
+A,21/03/15,XV de Piracicaba,1-2,São Bento
+A,21/03/15,Bragantino,0-1,Ponte Preta
+A,22/03/15,São Paulo,3-0,Marília
+A,22/03/15,Capivariano,2-3,Corinthians
+A,22/03/15,São Bernardo,0-1,Palmeiras
+A,24/03/15,Corinthians,2-0,Portuguesa
+A,24/03/15,Botafogo-SP,0-0,Ituano
+A,24/03/15,Rio Claro,1-1,XV de Piracicaba
+A,25/03/15,Marília,0-2,Red Bull Brasil
+A,25/03/15,Linense,1-0,Mogi Mirim
+A,25/03/15,Osasco Audax,3-0,Capivariano
+A,25/03/15,Palmeiras,3-0,São Paulo
+A,26/03/15,São Bento,0-0,Bragantino
+A,26/03/15,Corinthians,5-3,Penapolense
+A,26/03/15,Ponte Preta,3-1,Santos
+A,28/03/15,Ituano,0-0,Portuguesa
+A,28/03/15,São Bernardo,1-0,Botafogo-SP
+A,28/03/15,Mogi Mirim,2-0,Marília
+A,28/03/15,Capivariano,1-1,Rio Claro
+A,29/03/15,São Paulo,3-0,Linense
+A,29/03/15,Bragantino,0-1,Corinthians
+A,29/03/15,Red Bull Brasil,2-0,Palmeiras
+A,29/03/15,Santos,2-2,São Bento
+A,29/03/15,XV de Piracicaba,1-0,Ponte Preta
+A,29/03/15,Penapolense,3-0,Osasco Audax
+A,31/03/15,Portuguesa,0-0,São Bernardo
+A,03/04/15,Osasco Audax,0-1,XV de Piracicaba
+A,03/04/15,São Bento,2-1,Capivariano
+A,04/04/15,Portuguesa,0-2,Red Bull Brasil
+A,04/04/15,Marília,1-2,Ituano
+A,04/04/15,Palmeiras,3-1,Mogi Mirim
+A,05/04/15,Botafogo-SP,2-0,São Paulo
+A,05/04/15,Corinthians,1-1,Santos
+A,05/04/15,Linense,1-4,São Bernardo
+A,05/04/15,Ponte Preta,2-1,Penapolense
+A,05/04/15,Rio Claro,2-1,Bragantino
+A,08/04/15,Mogi Mirim,1-3,Botafogo-SP
+A,08/04/15,São Paulo,3-0,Portuguesa
+A,08/04/15,Ituano,2-2,Palmeiras
+A,08/04/15,São Bernardo,4-0,Marília
+A,08/04/15,Red Bull Brasil,0-1,Linense
+A,08/04/15,Santos,2-0,Rio Claro
+A,08/04/15,Penapolense,0-1,São Bento
+A,08/04/15,XV de Piracicaba,2-2,Corinthians
+A,08/04/15,Capivariano,3-0,Ponte Preta
+A,08/04/15,Bragantino,1-2,Osasco Audax
+QF,11/04/15,Corinthians,1-0,Ponte Preta
+QF,11/04/15,São Paulo,3-0,Red Bull Brasil
+QF,12/04/15,Palmeiras,1-0,Botafogo-SP
+QF,12/04/15,Santos,3-0,XV de Piracicaba
+SF,19/04/15,Corinthians,2-2(5-6 Pen.),Palmeiras
+SF,19/04/15,Santos,2-1,São Paulo
+F,26/04/15,Palmeiras,1-0,Santos
+F,03/05/15,Santos,2-1(4-2 Pen.),Palmeiras

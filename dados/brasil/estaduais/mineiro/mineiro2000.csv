@@ -1,0 +1,128 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,21/02/99,Democrata-GV,1-1,Social
+1F,21/02/99,Guarani-MG,1-2,Rio Branco de Andradas
+1F,21/02/99,Ipiranga,1-2,Caldense
+1F,21/02/99,URT,0-1,Valeriodoce
+1F,28/02/99,Caldense,2-4,Democrata-GV
+1F,28/02/99,Rio Branco de Andradas,2-2,Ipiranga
+1F,28/02/99,Social,1-1,URT
+1F,28/02/99,Valeriodoce,2-1,Guarani-MG
+1F,03/03/99,Caldense,1-1,Valeriodoce
+1F,03/03/99,Democrata-GV,2-0,Guarani-MG
+1F,03/03/99,Ipiranga,2-1,Social
+1F,03/03/99,URT,1-0,Rio Branco de Andradas
+1F,07/03/99,Guarani-MG,0-0,Caldense
+1F,07/03/99,Rio Branco de Andradas,0-1,Social
+1F,07/03/99,URT,1-1,Ipiranga
+1F,07/03/99,Valeriodoce,3-3,Democrata-GV
+1F,10/03/99,Democrata-GV,1-0,Ipiranga
+1F,10/03/99,Guarani-MG,2-2,URT
+1F,10/03/99,Rio Branco de Andradas,1-0,Valeriodoce
+1F,10/03/99,Social,0-2,Caldense
+1F,14/03/99,Caldense,1-1,URT
+1F,14/03/99,Democrata-GV,0-0,Rio Branco de Andradas
+1F,14/03/99,Ipiranga,2-1,Guarani-MG
+1F,14/03/99,Social,0-1,Valeriodoce
+1F,17/03/99,Guarani-MG,2-0,Social
+1F,17/03/99,Rio Branco de Andradas,1-1,Caldense
+1F,17/03/99,URT,1-2,Democrata-GV
+1F,17/03/99,Valeriodoce,0-0,Ipiranga
+1F,21/03/99,Caldense,2-0,Guarani-MG
+1F,21/03/99,Democrata-GV,1-0,Valeriodoce
+1F,21/03/99,Ipiranga,1-2,URT
+1F,21/03/99,Social,3-2,Rio Branco de Andradas
+1F,24/03/99,Caldense,2-1,Ipiranga
+1F,24/03/99,Rio Branco de Andradas,0-0,Guarani-MG
+1F,24/03/99,Social,0-0,Democrata-GV
+1F,24/03/99,Valeriodoce,2-1,URT
+1F,28/03/99,Guarani-MG,2-1,Ipiranga
+1F,28/03/99,Rio Branco de Andradas,1-1,Democrata-GV
+1F,28/03/99,URT,0-1,Caldense
+1F,28/03/99,Valeriodoce,0-1,Social
+1F,31/03/99,Democrata-GV,1-1,Caldense
+1F,31/03/99,Guarani-MG,2-0,Valeriodoce
+1F,31/03/99,Ipiranga,1-2,Rio Branco de Andradas
+1F,31/03/99,URT,1-0,Social
+1F,04/04/99,Guarani-MG,2-1,Democrata-GV
+1F,04/04/99,Rio Branco de Andradas,0-1,URT
+1F,04/04/99,Social,0-1,Ipiranga
+1F,04/04/99,Valeriodoce,1-0,Caldense
+1F,07/04/99,Caldense,0-0,Social
+1F,07/04/99,Ipiranga,2-1,Democrata-GV
+1F,07/04/99,URT,3-0,Guarani-MG
+1F,07/04/99,Valeriodoce,1-1,Rio Branco de Andradas
+1F,11/04/99,Caldense,1-3,Rio Branco de Andradas
+1F,11/04/99,Democrata-GV,1-2,URT
+1F,11/04/99,Ipiranga,2-1,Valeriodoce
+1F,11/04/99,Social,0-0,Guarani-MG
+2F,17/04/99,Atlético Mineiro,0-0,Caldense
+2F,17/04/99,Cruzeiro,1-0,Valeriodoce
+2F,18/04/99,Democrata-GV,1-0,América Mineiro
+2F,18/04/99,URT,0-0,Villa Nova-MG
+POut,18/04/99,Ipiranga,0-1,Guarani-MG
+POut,18/04/99,Rio Branco de Andradas,2-0,Social
+POut,21/04/99,Guarani-MG,1-1,Rio Branco de Andradas
+POut,21/04/99,Social,1-1,Ipiranga
+2F,21/04/99,Cruzeiro,4-0,Democrata-GV
+2F,24/04/99,Caldense,2-2,Cruzeiro
+2F,25/04/99,América Mineiro,5-1,URT
+2F,25/04/99,Valeriodoce,1-5,Atlético Mineiro
+2F,25/04/99,Villa Nova-MG,3-2,Democrata-GV
+POut,25/04/99,Rio Branco de Andradas,0-0,Ipiranga
+POut,25/04/99,Social,1-1,Guarani-MG
+2F,28/04/99,URT,0-0,Caldense
+2F,28/04/99,Valeriodoce,1-2,América Mineiro
+2F,29/04/99,Atlético Mineiro,2-1,Villa Nova-MG
+2F,01/05/99,Villa Nova-MG,0-0,Cruzeiro
+2F,02/05/99,América Mineiro,1-0,Atlético Mineiro
+2F,02/05/99,Caldense,0-1,Valeriodoce
+2F,02/05/99,Democrata-GV,2-2,URT
+POut,02/05/99,Guarani-MG,2-1,Social
+POut,02/05/99,Ipiranga,1-1,Rio Branco de Andradas
+2F,05/05/99,Atlético Mineiro,2-1,Democrata-GV
+2F,05/05/99,Valeriodoce,1-0,Villa Nova-MG
+2F,06/05/99,América Mineiro,3-1,Caldense
+2F,08/05/99,URT,3-3,Atlético Mineiro
+POut,09/05/99,Guarani-MG,1-2,Ipiranga
+POut,09/05/99,Social,2-0,Rio Branco de Andradas
+2F,09/05/99,Democrata-GV,2-0,Valeriodoce
+2F,09/05/99,Villa Nova-MG,1-0,Caldense
+2F,09/05/99,América Mineiro,0-0,Cruzeiro
+2F,15/05/99,América Mineiro,1-2,Villa Nova-MG
+POut,16/05/99,Ipiranga,3-0,Social
+POut,16/05/99,Rio Branco de Andradas,2-0,Guarani-MG
+2F,16/05/99,Caldense,2-1,Democrata-GV
+2F,16/05/99,Valeriodoce,4-1,URT
+2F,16/05/99,Atlético Mineiro,1-1,Cruzeiro
+2F,19/05/99,Caldense,3-2,Atlético Mineiro
+2F,19/05/99,Cruzeiro,1-0,URT
+2F,22/05/99,Democrata-GV,1-1,Atlético Mineiro
+2F,23/05/99,Caldense,0-1,América Mineiro
+2F,23/05/99,URT,1-4,Cruzeiro
+2F,23/05/99,Villa Nova-MG,4-2,Valeriodoce
+2F,26/05/99,Villa Nova-MG,1-5,Atlético Mineiro
+2F,29/05/99,Cruzeiro,2-2,Villa Nova-MG
+2F,30/05/99,Atlético Mineiro,2-0,América Mineiro
+2F,30/05/99,URT,1-2,Democrata-GV
+2F,30/05/99,Valeriodoce,1-4,Caldense
+2F,02/06/99,América Mineiro,6-1,Democrata-GV
+2F,02/06/99,Villa Nova-MG,0-1,URT
+2F,03/06/99,Valeriodoce,0-1,Cruzeiro
+2F,05/06/99,URT,2-3,América Mineiro
+2F,06/06/99,Democrata-GV,5-1,Villa Nova-MG
+2F,06/06/99,Cruzeiro,3-0,Caldense
+2F,09/06/99,América Mineiro,1-0,Valeriodoce
+2F,09/06/99,Caldense,1-2,URT
+2F,10/06/99,Democrata-GV,1-4,Cruzeiro
+2F,12/06/99,Atlético Mineiro,4-0,URT
+2F,13/06/99,Caldense,1-1,Villa Nova-MG
+2F,13/06/99,Valeriodoce,2-0,Democrata-GV
+2F,13/06/99,Cruzeiro,1-1,América Mineiro
+2F,16/06/99,Atlético Mineiro,2-0,Valeriodoce
+2F,20/06/99,Democrata-GV,1-1,Caldense
+2F,20/06/99,URT,2-1,Valeriodoce
+2F,20/06/99,Villa Nova-MG,2-2,América Mineiro
+2F,20/06/99,Cruzeiro,0-2,Atlético Mineiro
+F,27/06/99,América Mineiro,2-1,Atlético Mineiro
+F,01/07/99,Atlético Mineiro,1-1,América Mineiro
+F,04/07/99,Atlético Mineiro,1-0,América Mineiro

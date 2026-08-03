@@ -1,0 +1,157 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,30/06/62,Fluminense,3-1,Canto do Rio
+C,01/07/62,Portuguesa-RJ,0-0,Bangu
+C,01/07/62,Vasco,3-0,Bonsucesso
+C,01/07/62,Madureira,0-1,Flamengo
+C,01/07/62,Campo Grande-RJ,1-0,Botafogo
+C,04/07/62,America-RJ,3-3,São Cristóvão
+C,08/07/62,Madureira,1-1,Campo Grande-RJ
+C,08/07/62,Bangu,0-0,Olaria
+C,08/07/62,São Cristóvão,0-1,Fluminense
+C,08/07/62,Bonsucesso,0-1,Botafogo
+C,08/07/62,Portuguesa-RJ,0-3,Vasco
+C,10/07/62,Flamengo,7-0,Canto do Rio
+C,14/07/62,Fluminense,2-0,America-RJ
+C,14/07/62,Bonsucesso,4-1,Madureira
+C,15/07/62,Olaria,1-0,Vasco
+C,15/07/62,Canto do Rio,1-1,Campo Grande-RJ
+C,15/07/62,São Cristóvão,0-1,Flamengo
+C,15/07/62,Portuguesa-RJ,0-2,Botafogo
+C,20/07/62,Flamengo,5-2,America-RJ
+C,21/07/62,Vasco,1-0,Bangu
+C,22/07/62,Canto do Rio,0-2,Bonsucesso
+C,22/07/62,Portuguesa-RJ,1-0,Madureira
+C,22/07/62,Campo Grande-RJ,3-1,São Cristóvão
+C,22/07/62,Olaria,2-2,Botafogo
+C,28/07/62,Portuguesa-RJ,1-1,Canto do Rio
+C,28/07/62,São Cristóvão,1-1,Bonsucesso
+C,28/07/62,America-RJ,1-1,Campo Grande-RJ
+C,29/07/62,Flamengo,1-0,Fluminense
+C,29/07/62,Bangu,0-0,Botafogo
+C,29/07/62,Madureira,1-1,Olaria
+C,04/08/62,São Cristóvão,1-3,Portuguesa-RJ
+C,04/08/62,Vasco,1-0,Botafogo
+C,05/08/62,Bangu,3-0,Madureira
+C,05/08/62,Olaria,2-0,Canto do Rio
+C,05/08/62,Fluminense,1-0,Campo Grande-RJ
+C,08/08/62,Botafogo,4-0,Madureira
+C,11/08/62,Fluminense,2-0,Bonsucesso
+C,12/08/62,Canto do Rio,0-1,Bangu
+C,12/08/62,Flamengo,2-0,Campo Grande-RJ
+C,12/08/62,Vasco,0-0,Madureira
+C,12/08/62,Olaria,3-0,São Cristóvão
+C,15/08/62,Bonsucesso,1-2,America-RJ
+C,18/08/62,Fluminense,3-0,Portuguesa-RJ
+C,19/08/62,Flamengo,4-1,Bonsucesso
+C,19/08/62,Bangu,4-2,São Cristóvão
+C,19/08/62,America-RJ,1-3,Olaria
+C,19/08/62,Vasco,4-0,Canto do Rio
+C,22/08/62,America-RJ,0-0,Portuguesa-RJ
+C,25/08/62,Flamengo,4-0,Portuguesa-RJ
+C,26/08/62,Bonsucesso,3-2,Campo Grande-RJ
+C,26/08/62,Fluminense,1-0,Olaria
+C,26/08/62,Bangu,1-1,America-RJ
+C,26/08/62,São Cristóvão,1-3,Vasco
+C,30/08/62,Botafogo,2-0,Canto do Rio
+C,01/09/62,Fluminense,2-1,Bangu
+C,02/09/62,Canto do Rio,0-2,Madureira
+C,02/09/62,Campo Grande-RJ,0-1,Portuguesa-RJ
+C,02/09/62,Flamengo,1-1,Olaria
+C,02/09/62,Vasco,2-1,America-RJ
+C,02/09/62,Botafogo,5-2,São Cristóvão
+C,07/09/62,Botafogo,1-0,America-RJ
+C,08/09/62,Portuguesa-RJ,0-1,Bonsucesso
+C,08/09/62,Bangu,1-0,Flamengo
+C,09/09/62,Campo Grande-RJ,2-0,Olaria
+C,09/09/62,Vasco,1-0,Fluminense
+C,09/09/62,Madureira,0-4,São Cristóvão
+C,15/09/62,Botafogo,2-0,Fluminense
+C,15/09/62,São Cristóvão,2-1,Canto do Rio
+C,16/09/62,Flamengo,2-0,Vasco
+C,16/09/62,Madureira,1-1,America-RJ
+C,16/09/62,Bonsucesso,0-3,Olaria
+C,16/09/62,Bangu,3-2,Campo Grande-RJ
+C,21/09/62,Vasco,7-0,Campo Grande-RJ
+C,22/09/62,Fluminense,4-0,Madureira
+C,23/09/62,Canto do Rio,1-2,America-RJ
+C,23/09/62,Botafogo,3-1,Flamengo
+C,23/09/62,Olaria,5-0,Portuguesa-RJ
+C,26/09/62,Bonsucesso,2-3,Bangu
+C,28/09/62,Botafogo,2-0,Campo Grande-RJ
+C,30/09/62,Flamengo,2-0,Madureira
+C,30/09/62,Canto do Rio,0-0,Fluminense
+C,30/09/62,São Cristóvão,1-2,America-RJ
+C,30/09/62,Bonsucesso,0-1,Vasco
+C,30/09/62,Bangu,2-0,Portuguesa-RJ
+C,05/10/62,Fluminense,4-2,São Cristóvão
+C,06/10/62,Canto do Rio,0-2,Flamengo
+C,06/10/62,Campo Grande-RJ,0-1,Madureira
+C,06/10/62,Olaria,0-2,Bangu
+C,06/10/62,Vasco,3-0,Portuguesa-RJ
+C,06/10/62,Botafogo,4-1,Bonsucesso
+C,09/10/62,Botafogo,2-1,Portuguesa-RJ
+C,13/10/62,America-RJ,1-1,Fluminense
+C,14/10/62,Flamengo,4-0,São Cristóvão
+C,14/10/62,Vasco,1-3,Olaria
+C,14/10/62,Campo Grande-RJ,2-0,Canto do Rio
+C,14/10/62,Madureira,0-3,Bonsucesso
+C,19/10/62,America-RJ,2-1,Flamengo
+C,20/10/62,Botafogo,2-0,Olaria
+C,21/10/62,Madureira,0-0,Portuguesa-RJ
+C,21/10/62,São Cristóvão,3-2,Campo Grande-RJ
+C,21/10/62,Bonsucesso,3-2,Canto do Rio
+C,21/10/62,Bangu,2-3,Vasco
+C,27/10/62,Botafogo,1-1,Bangu
+C,27/10/62,Bonsucesso,1-1,São Cristóvão
+C,28/10/62,Fluminense,0-1,Flamengo
+C,28/10/62,Olaria,1-0,Madureira
+C,28/10/62,Canto do Rio,1-1,Portuguesa-RJ
+C,28/10/62,Campo Grande-RJ,2-2,America-RJ
+C,03/11/62,Portuguesa-RJ,0-2,São Cristóvão
+C,03/11/62,Campo Grande-RJ,0-4,Fluminense
+C,03/11/62,America-RJ,1-1,Bonsucesso
+C,04/11/62,Madureira,1-2,Bangu
+C,04/11/62,Canto do Rio,0-0,Olaria
+C,04/11/62,Botafogo,1-1,Vasco
+C,07/11/62,Portuguesa-RJ,0-3,America-RJ
+C,07/11/62,São Cristóvão,0-1,Olaria
+C,07/11/62,Bonsucesso,1-3,Fluminense
+C,08/11/62,Campo Grande-RJ,0-5,Flamengo
+C,08/11/62,Bangu,4-0,Canto do Rio
+C,10/11/62,Olaria,3-1,America-RJ
+C,10/11/62,Madureira,1-5,Vasco
+C,11/11/62,Portuguesa-RJ,0-7,Fluminense
+C,11/11/62,Bonsucesso,0-5,Flamengo
+C,11/11/62,São Cristóvão,2-3,Bangu
+C,14/11/62,Madureira,1-6,Botafogo
+C,15/11/62,Portuguesa-RJ,0-3,Flamengo
+C,15/11/62,Canto do Rio,0-5,Vasco
+C,15/11/62,Campo Grande-RJ,0-2,Bonsucesso
+C,17/11/62,America-RJ,1-0,Bangu
+C,18/11/62,Olaria,2-3,Fluminense
+C,18/11/62,Vasco,1-1,São Cristóvão
+C,18/11/62,Canto do Rio,1-2,Botafogo
+C,24/11/62,Bangu,0-2,Fluminense
+C,25/11/62,São Cristóvão,0-0,Botafogo
+C,25/11/62,Portuguesa-RJ,1-2,Campo Grande-RJ
+C,25/11/62,Olaria,0-1,Flamengo
+C,25/11/62,Madureira,1-1,Canto do Rio
+C,25/11/62,America-RJ,0-2,Vasco
+C,01/12/62,Flamengo,3-1,Bangu
+C,02/12/62,Fluminense,2-0,Vasco
+C,02/12/62,São Cristóvão,1-0,Madureira
+C,02/12/62,Olaria,2-2,Campo Grande-RJ
+C,05/12/62,Bonsucesso,3-2,Portuguesa-RJ
+C,05/12/62,America-RJ,1-3,Botafogo
+C,08/12/62,Fluminense,0-1,Botafogo
+C,08/12/62,Canto do Rio,0-2,São Cristóvão
+C,09/12/62,Olaria,1-2,Bonsucesso
+C,09/12/62,Vasco,1-1,Flamengo
+C,09/12/62,Campo Grande-RJ,2-2,Bangu
+C,09/12/62,America-RJ,3-0,Madureira
+C,14/12/62,Campo Grande-RJ,3-3,Vasco
+C,14/12/62,Bangu,1-0,Bonsucesso
+C,14/12/62,America-RJ,2-0,Canto do Rio
+C,15/12/62,Flamengo,0-3,Botafogo
+C,16/12/62,Portuguesa-RJ,2-2,Olaria
+C,16/12/62,Madureira,1-2,Fluminense

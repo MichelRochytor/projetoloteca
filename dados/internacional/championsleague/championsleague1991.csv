@@ -1,0 +1,74 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/09/91,Kaiserslautern,2-0,Etar Tarnovo
+1,17/09/91,Crvena Zvezda,4-0,Portadown
+1,17/09/91,Hamrun Spartans,0-6,Benfica
+1,18/09/91,Barcelona,3-0,Hansa Rostock
+1,18/09/91,US Luxembourg,0-5,Marseille
+1,18/09/91,Sparta Praha,1-0,Rangers
+1,18/09/91,Arsenal,6-1,Austria Wien
+1,18/09/91,Brondby IF,3-0,Zaglebie Lubin
+1,18/09/91,HJK,0-1,Dynamo Kyiv
+1,18/09/91,Fram Reykjavik,2-2,Panathinaikos
+1,18/09/91,IFK Goteborg,0-0,Flamurtari Vlore
+1,18/09/91,Besiktas,1-1,PSV
+1,18/09/91,Anderlecht,1-1,Grasshoppers
+1,18/09/91,FC Universitatea 1948,2-0,Apollon Limassol
+1,18/09/91,Budapest Honvéd,1-1,Dundalk
+1,18/09/91,Sampdoria,5-0,Rosenborg
+1,01/10/91,Benfica,4-0,Hamrun Spartans
+1,02/10/91,Hansa Rostock,1-0,Barcelona
+1,02/10/91,Etar Tarnovo,1-1,Kaiserslautern
+1,02/10/91,Marseille,5-0,US Luxembourg
+1,02/10/91,Rangers,2-1,Sparta Praha
+1,02/10/91,Austria Wien,1-0,Arsenal
+1,02/10/91,Zaglebie Lubin,2-1,Brondby IF
+1,02/10/91,Dynamo Kyiv,3-0,HJK
+1,02/10/91,Panathinaikos,0-0,Fram Reykjavik
+1,02/10/91,Flamurtari Vlore,1-1,IFK Goteborg
+1,02/10/91,PSV,2-1,Besiktas
+1,02/10/91,Grasshoppers,0-3,Anderlecht
+1,02/10/91,Portadown,0-4,Crvena Zvezda
+1,02/10/91,Apollon Limassol,3-0,FC Universitatea 1948
+1,02/10/91,Dundalk,0-2,Budapest Honvéd
+1,02/10/91,Rosenborg,1-2,Sampdoria
+2,22/10/91,Benfica,1-1,Arsenal
+2,23/10/91,Barcelona,2-0,Kaiserslautern
+2,23/10/91,Marseille,3-2,Sparta Praha
+2,23/10/91,Dynamo Kyiv,1-1,Brondby IF
+2,23/10/91,Panathinaikos,2-0,IFK Goteborg
+2,23/10/91,PSV,0-0,Anderlecht
+2,23/10/91,Crvena Zvezda,3-1,Apollon Limassol
+2,23/10/91,Budapest Honvéd,2-1,Sampdoria
+2,06/11/91,Kaiserslautern,3-1,Barcelona
+2,06/11/91,Sparta Praha,2-1,Marseille
+2,06/11/91,Brondby IF,0-1,Dynamo Kyiv
+2,06/11/91,IFK Goteborg,2-2,Panathinaikos
+2,06/11/91,Anderlecht,2-0,PSV
+2,06/11/91,Apollon Limassol,0-2,Crvena Zvezda
+2,06/11/91,Sampdoria,3-1,Budapest Honvéd
+2,06/11/91,Arsenal,1-3(Pro.),Benfica
+B,26/11/91,Dynamo Kyiv,1-0,Benfica
+A,27/11/91,Sampdoria,2-0,Crvena Zvezda
+A,27/11/91,Anderlecht,0-0,Panathinaikos
+B,27/11/91,Barcelona,3-2,Sparta Praha
+B,10/12/91,Benfica,0-0,Barcelona
+A,11/12/91,Panathinaikos,0-0,Sampdoria
+B,11/12/91,Sparta Praha,2-1,Dynamo Kyiv
+A,12/12/91,Crvena Zvezda,3-2,Anderlecht
+B,03/03/92,Benfica,1-1,Sparta Praha
+A,04/03/92,Panathinaikos,0-2,Crvena Zvezda
+A,04/03/92,Anderlecht,3-2,Sampdoria
+B,04/03/92,Dynamo Kyiv,0-2,Barcelona
+B,17/03/92,Sparta Praha,1-1,Benfica
+A,18/03/92,Crvena Zvezda,1-0,Panathinaikos
+A,18/03/92,Sampdoria,2-0,Anderlecht
+B,18/03/92,Barcelona,3-0,Dynamo Kyiv
+B,31/03/92,Benfica,5-0,Dynamo Kyiv
+A,01/04/92,Crvena Zvezda,1-3,Sampdoria
+A,01/04/92,Panathinaikos,0-0,Anderlecht
+B,01/04/92,Sparta Praha,1-0,Barcelona
+B,14/04/92,Barcelona,2-1,Benfica
+A,15/04/92,Sampdoria,1-1,Panathinaikos
+A,15/04/92,Anderlecht,3-2,Crvena Zvezda
+B,15/04/92,Dynamo Kyiv,1-0,Sparta Praha
+F,20/05/92,Barcelona,1-0(Pro.),Sampdoria

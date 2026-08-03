@@ -1,0 +1,52 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1PE,31/08/60,Fredrikstad,4-3,Ajax
+1PE,31/08/60,Limerick,0-5,Young Boys
+1PE,01/09/60,HIFK Helsinki,1-3,IFK Malmo
+1PE,07/09/60,Ajax,0-0,Fredrikstad
+1PE,07/09/60,Stade de Reims,6-1,Jeunesse Esch
+1PE,14/09/60,Rapid Wien,4-0,Besiktas
+1PE,21/09/60,AGF Aarhus,3-0,Legia Warszawa
+1PE,21/09/60,Juventus,2-0,CSKA Sofia
+1PE,28/09/60,Crvena Zvezda,1-2,Újpesti Dózsa
+1PE,28/09/60,IFK Malmo,2-1,HIFK Helsinki
+1PE,28/09/60,Besiktas,1-0,Rapid Wien
+1PE,28/09/60,Barcelona,2-0,Lierse
+1PE,29/09/60,Hearts,1-2,Benfica
+1PE,05/10/60,Benfica,3-0,Hearts
+1PE,05/10/60,Legia Warszawa,1-0,AGF Aarhus
+1PE,05/10/60,Young Boys,4-2,Limerick
+1PE,05/10/60,Jeunesse Esch,0-5,Stade de Reims
+1PE,05/10/60,Lierse,0-3,Barcelona
+1PE,12/10/60,Újpesti Dózsa,3-0,Crvena Zvezda
+1PE,12/10/60,CSKA Sofia,4-1,Juventus
+1,19/10/60,AGF Aarhus,3-0,Fredrikstad
+1,26/10/60,Fredrikstad,0-1,AGF Aarhus
+1,02/11/60,IFK Malmo,1-0,CSKA Sofia
+1,02/11/60,Young Boys,0-5,Hamburger SV
+1,06/11/60,DSO Spartak Hradec Králové,1-0,Panathinaikos
+1,06/11/60,Benfica,6-2,Újpesti Dózsa
+1,09/11/60,Rapid Wien,3-1,SC Wismut Karl-Marx-Stadt
+1,09/11/60,Real Madrid,2-2,Barcelona
+1,13/11/60,CSKA Sofia,1-1,IFK Malmo
+1,16/11/60,Burnley,2-0,Stade de Reims
+1,23/11/60,SC Wismut Karl-Marx-Stadt,2-0,Rapid Wien
+1,23/11/60,Barcelona,2-1,Real Madrid
+1,27/11/60,Hamburger SV,3-3,Young Boys
+1,30/11/60,Stade de Reims,3-2,Burnley
+1,30/11/60,Újpesti Dózsa,2-1,Benfica
+1,07/12/60,Panathinaikos,0-0,DSO Spartak Hradec Králové
+1,21/12/60,Rapid Wien,1-0,SC Wismut Karl-Marx-Stadt
+QF,18/01/61,Burnley,3-1,Hamburger SV
+QF,08/03/61,Benfica,3-1,AGF Aarhus
+QF,08/03/61,Barcelona,4-0,DSO Spartak Hradec Králové
+QF,15/03/61,Hamburger SV,4-1,Burnley
+QF,15/03/61,DSO Spartak Hradec Králové,1-1,Barcelona
+QF,22/03/61,Rapid Wien,2-0,IFK Malmo
+QF,30/03/61,AGF Aarhus,1-4,Benfica
+QF,03/04/61,IFK Malmo,0-2,Rapid Wien
+SF,12/04/61,Barcelona,1-0,Hamburger SV
+SF,26/04/61,Benfica,3-0,Rapid Wien
+SF,26/04/61,Hamburger SV,2-1,Barcelona
+SF,03/05/61,Barcelona,1-0,Hamburger SV
+SF,04/05/61,Rapid Wien,1-1,Benfica
+F,31/05/61,Benfica,3-2,Barcelona

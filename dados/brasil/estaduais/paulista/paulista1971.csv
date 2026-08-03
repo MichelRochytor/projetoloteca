@@ -1,0 +1,133 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,27/02/71,Corinthians,2-1,São Bento
+C,28/02/71,Ponte Preta,1-0,Portuguesa
+C,28/02/71,Ferroviária,1-1,Guarani
+C,28/02/71,São Paulo,3-1,Juventus-SP
+C,28/02/71,Palmeiras,2-1,Paulista
+C,03/03/71,Santos,4-0,Botafogo-SP
+C,04/03/71,Corinthians,1-0,Paulista
+C,07/03/71,Guarani,3-1,Juventus-SP
+C,07/03/71,Botafogo-SP,3-2,Ponte Preta
+C,07/03/71,Palmeiras,3-0,São Bento
+C,07/03/71,Ferroviária,4-1,Santos
+C,07/03/71,Portuguesa,3-2,São Paulo
+C,12/03/71,São Paulo,4-2,Paulista
+C,13/03/71,Juventus-SP,1-0,Corinthians
+C,13/03/71,Ponte Preta,0-1,Ferroviária
+C,14/03/71,Guarani,0-4,Palmeiras
+C,14/03/71,São Bento,2-2,Botafogo-SP
+C,14/03/71,Portuguesa,0-1,Santos
+C,14/03/71,Santos,3-1,São Bento
+C,21/03/71,Paulista,1-2,Juventus-SP
+C,21/03/71,São Paulo,2-1,Palmeiras
+C,21/03/71,Botafogo-SP,2-1,Portuguesa
+C,21/03/71,Ponte Preta,5-0,São Bento
+C,21/03/71,Ferroviária,2-2,Corinthians
+C,21/03/71,Santos,2-2,Guarani
+C,24/03/71,Portuguesa,1-0,Corinthians
+C,24/03/71,Ferroviária,1-1,Paulista
+C,24/03/71,Guarani,3-1,São Bento
+C,27/03/71,Portuguesa,3-0,Juventus-SP
+C,28/03/71,Palmeiras,2-0,Santos
+C,28/03/71,Ponte Preta,1-0,Guarani
+C,28/03/71,Ferroviária,1-2,São Paulo
+C,28/03/71,São Bento,1-0,Paulista
+C,31/03/71,São Paulo,1-0,Ponte Preta
+C,03/04/71,Portuguesa,1-0,Ferroviária
+C,04/04/71,Paulista,2-2,Guarani
+C,04/04/71,Ponte Preta,1-1,Palmeiras
+C,04/04/71,Botafogo-SP,1-0,Juventus-SP
+C,04/04/71,São Paulo,1-1,Corinthians
+C,07/04/71,Corinthians,1-1,Botafogo-SP
+C,10/04/71,São Paulo,3-1,São Bento
+C,11/04/71,Ferroviária,4-0,Botafogo-SP
+C,11/04/71,Paulista,1-2,Ponte Preta
+C,11/04/71,Guarani,1-1,Portuguesa
+C,11/04/71,Corinthians,4-2,Santos
+C,11/04/71,Palmeiras,2-1,Juventus-SP
+C,16/04/71,Corinthians,0-0,Guarani
+C,17/04/71,São Paulo,1-0,Botafogo-SP
+C,18/04/71,Palmeiras,2-1,Portuguesa
+C,18/04/71,São Bento,1-1,Ferroviária
+C,18/04/71,Paulista,0-0,Santos
+C,18/04/71,Ponte Preta,1-0,Juventus-SP
+C,21/04/71,Paulista,0-5,Portuguesa
+C,21/04/71,São Bento,2-1,Juventus-SP
+C,21/04/71,Botafogo-SP,1-1,Guarani
+C,21/04/71,Ponte Preta,0-0,Corinthians
+C,21/04/71,Palmeiras,2-3,Ferroviária
+C,21/04/71,Santos,1-0,São Paulo
+C,24/04/71,Portuguesa,3-1,São Bento
+C,25/04/71,Corinthians,4-3,Palmeiras
+C,25/04/71,Santos,0-0,Ponte Preta
+C,25/04/71,Guarani,0-1,São Paulo
+C,25/04/71,Botafogo-SP,0-1,Paulista
+C,25/04/71,Juventus-SP,1-1,Ferroviária
+C,28/04/71,Juventus-SP,1-1,Santos
+C,28/04/71,Palmeiras,4-2,Botafogo-SP
+C,30/04/71,Portuguesa,2-1,Ponte Preta
+C,01/05/71,São Bento,0-1,Corinthians
+C,01/05/71,São Paulo,1-0,Juventus-SP
+C,02/05/71,Botafogo-SP,1-2,Santos
+C,02/05/71,Guarani,3-2,Ferroviária
+C,05/05/71,Corinthians,0-1,Ponte Preta
+C,08/05/71,São Paulo,2-0,Guarani
+C,09/05/71,Palmeiras,2-0,Juventus-SP
+C,09/05/71,Corinthians,3-1,Portuguesa
+C,09/05/71,Ponte Preta,3-0,Botafogo-SP
+C,09/05/71,Ferroviária,1-0,São Bento
+C,09/05/71,Santos,1-0,Paulista
+C,12/05/71,Portuguesa,3-2,Botafogo-SP
+C,12/05/71,Santos,1-0,São Bento
+C,13/05/71,Palmeiras,4-1,Guarani
+C,15/05/71,Paulista,0-2,Corinthians
+C,15/05/71,São Bento,1-2,Portuguesa
+C,16/05/71,Juventus-SP,1-0,Ponte Preta
+C,16/05/71,São Paulo,0-0,Santos
+C,16/05/71,Botafogo-SP,1-1,Ferroviária
+C,19/05/71,Portuguesa,2-1,Paulista
+C,19/05/71,Guarani,0-0,Botafogo-SP
+C,20/05/71,Juventus-SP,1-1,Santos
+C,23/05/71,Ferroviária,1-0,Ponte Preta
+C,23/05/71,Palmeiras,3-3,Portuguesa
+C,23/05/71,Guarani,2-1,Corinthians
+C,23/05/71,Botafogo-SP,1-2,São Paulo
+C,23/05/71,Juventus-SP,1-0,Paulista
+C,26/05/71,São Bento,0-3,São Paulo
+C,27/05/71,Paulista,1-4,Palmeiras
+C,29/05/71,Portuguesa,1-0,Guarani
+C,30/05/71,Paulista,2-2,Ferroviária
+C,30/05/71,Botafogo-SP,1-1,São Bento
+C,30/05/71,Ponte Preta,0-1,São Paulo
+C,30/05/71,Corinthians,6-1,Juventus-SP
+C,30/05/71,Santos,1-2,Palmeiras
+C,02/06/71,Guarani,0-1,Santos
+C,02/06/71,São Paulo,2-1,Ferroviária
+C,05/06/71,Palmeiras,4-0,Ponte Preta
+C,06/06/71,Corinthians,1-0,São Paulo
+C,06/06/71,Santos,1-0,Ferroviária
+C,06/06/71,Juventus-SP,2-0,Botafogo-SP
+C,06/06/71,Paulista,2-0,São Bento
+C,09/06/71,Corinthians,3-0,Ferroviária
+C,10/06/71,Juventus-SP,1-1,Guarani
+C,10/06/71,Santos,1-1,Portuguesa
+C,10/06/71,Botafogo-SP,0-1,Palmeiras
+C,10/06/71,São Bento,0-1,Ponte Preta
+C,12/06/71,Paulista,2-3,São Paulo
+C,13/06/71,Ponte Preta,1-2,Santos
+C,13/06/71,Ferroviária,3-2,Juventus-SP
+C,13/06/71,São Bento,1-1,Guarani
+C,13/06/71,Palmeiras,0-0,Corinthians
+C,16/06/71,Portuguesa,4-1,Juventus-SP
+C,16/06/71,Guarani,1-0,Paulista
+C,17/06/71,Palmeiras,7-0,São Bento
+C,19/06/71,São Paulo,4-1,Portuguesa
+C,20/06/71,Corinthians,3-3,Santos
+C,20/06/71,Ponte Preta,1-0,Guarani
+C,20/06/71,Ferroviária,0-2,Palmeiras
+C,20/06/71,Paulista,1-0,Botafogo-SP
+C,26/06/71,Ponte Preta,1-1,Paulista
+C,27/06/71,Ferroviária,1-1,Portuguesa
+C,27/06/71,Juventus-SP,2-0,São Bento
+C,27/06/71,Botafogo-SP,1-1,Corinthians
+C,27/06/71,São Paulo,1-0,Palmeiras

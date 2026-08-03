@@ -1,0 +1,217 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,02/05/23,São José-RS,0-0,Floresta-CE
+1,02/05/23,Volta Redonda,0-1,Pouso Alegre
+1,02/05/23,Manaus FC,2-1,Náutico
+1,03/05/23,América-RN,1-2,Ypiranga-RS
+1,03/05/23,Brusque,1-0,Amazonas FC
+1,03/05/23,Paysandu,2-1,Aparecidense
+1,04/05/23,CSA,0-1,Confiança
+1,04/05/23,Botafogo-PB,2-1,Operário Ferroviário
+1,04/05/23,São Bernardo,3-1,Remo
+1,04/05/23,Altos,0-0,Figueirense
+2,06/05/23,Amazonas FC,2-0,América-RN
+2,06/05/23,Floresta-CE,2-1,Volta Redonda
+2,06/05/23,Náutico,2-1,São José-RS
+2,06/05/23,Pouso Alegre,1-0,Brusque
+2,07/05/23,Ypiranga-RS,1-1,CSA
+2,07/05/23,Operário Ferroviário,2-0,Manaus FC
+2,07/05/23,Remo,1-2,Botafogo-PB
+2,07/05/23,Aparecidense,1-2,São Bernardo
+2,08/05/23,Confiança,2-1,Altos
+2,08/05/23,Figueirense,2-0,Paysandu
+3,11/05/23,Ypiranga-RS,5-0,Paysandu
+3,13/05/23,Pouso Alegre,0-2,São Bernardo
+3,13/05/23,Confiança,1-0,Figueirense
+3,13/05/23,Aparecidense,3-0,Náutico
+3,13/05/23,América-RN,2-2,Botafogo-PB
+3,14/05/23,Manaus FC,1-0,Altos
+3,14/05/23,Remo,1-2,Amazonas FC
+3,14/05/23,Floresta-CE,0-2,CSA
+3,14/05/23,Brusque,3-2,Volta Redonda
+3,15/05/23,Operário Ferroviário,1-1,São José-RS
+4,20/05/23,São Bernardo,3-1,Confiança
+4,20/05/23,Altos,3-2,Ypiranga-RS
+4,20/05/23,Figueirense,2-1,Aparecidense
+4,20/05/23,CSA,0-0,Brusque
+4,20/05/23,Botafogo-PB,1-1,Pouso Alegre
+4,21/05/23,Amazonas FC,2-2,Operário Ferroviário
+4,21/05/23,Paysandu,1-0,Manaus FC
+4,21/05/23,Volta Redonda,3-0,América-RN
+4,22/05/23,São José-RS,2-1,Remo
+4,22/05/23,Náutico,3-1,Floresta-CE
+5,27/05/23,Ypiranga-RS,2-0,Manaus FC
+5,27/05/23,Brusque,0-1,São José-RS
+5,27/05/23,Náutico,0-0,América-RN
+5,28/05/23,CSA,1-0,São Bernardo
+5,28/05/23,Figueirense,1-2,Botafogo-PB
+5,28/05/23,Operário Ferroviário,1-0,Pouso Alegre
+5,28/05/23,Volta Redonda,3-0,Paysandu
+5,29/05/23,Floresta-CE,1-1,Amazonas FC
+5,29/05/23,Aparecidense,1-2,Altos
+5,30/05/23,Remo,1-0,Confiança
+6,02/06/23,América-RN,1-0,Operário Ferroviário
+6,03/06/23,Altos,1-1,CSA
+6,03/06/23,Manaus FC,1-0,Volta Redonda
+6,03/06/23,Pouso Alegre,0-1,Náutico
+6,03/06/23,Brusque,1-1,Remo
+6,04/06/23,Paysandu,1-1,São José-RS
+6,04/06/23,Botafogo-PB,1-1,Floresta-CE
+6,04/06/23,Ypiranga-RS,0-1,Aparecidense
+6,04/06/23,Confiança,2-3,Amazonas FC
+6,05/06/23,São Bernardo,1-0,Figueirense
+7,06/06/23,Náutico,2-0,Volta Redonda
+7,07/06/23,Amazonas FC,0-0,Botafogo-PB
+7,07/06/23,Pouso Alegre,1-1,Confiança
+7,07/06/23,Operário Ferroviário,0-0,Paysandu
+7,07/06/23,São José-RS,4-1,Altos
+7,08/06/23,Remo,0-0,América-RN
+7,08/06/23,Floresta-CE,2-0,São Bernardo
+7,08/06/23,Aparecidense,0-2,Brusque
+7,08/06/23,CSA,2-1,Manaus FC
+7,08/06/23,Figueirense,2-0,Ypiranga-RS
+8,10/06/23,Volta Redonda,1-0,Botafogo-PB
+8,11/06/23,Amazonas FC,2-0,Manaus FC
+8,11/06/23,Operário Ferroviário,1-0,CSA
+8,11/06/23,Aparecidense,0-2,Remo
+8,11/06/23,Ypiranga-RS,1-0,São José-RS
+8,11/06/23,América-RN,2-1,Brusque
+8,11/06/23,Floresta-CE,0-0,Altos
+8,12/06/23,Paysandu,1-1,São Bernardo
+8,12/06/23,Figueirense,1-2,Pouso Alegre
+8,12/06/23,Confiança,2-2,Náutico
+9,17/06/23,América-RN,0-1,Confiança
+9,17/06/23,Altos,2-3,Amazonas FC
+9,17/06/23,Pouso Alegre,0-2,Remo
+9,17/06/23,Brusque,0-1,Figueirense
+9,18/06/23,Manaus FC,1-4,São José-RS
+9,18/06/23,Ypiranga-RS,0-2,Operário Ferroviário
+9,18/06/23,Paysandu,2-1,Floresta-CE
+9,19/06/23,Botafogo-PB,1-1,Náutico
+9,19/06/23,São Bernardo,0-3,Volta Redonda
+9,20/06/23,CSA,1-1,Aparecidense
+10,24/06/23,Manaus FC,3-3,Confiança
+10,24/06/23,Remo,1-1,Figueirense
+10,24/06/23,Brusque,2-0,Floresta-CE
+10,25/06/23,Altos,0-0,Pouso Alegre
+10,25/06/23,Volta Redonda,2-1,Ypiranga-RS
+10,25/06/23,São José-RS,2-2,São Bernardo
+10,26/06/23,Operário Ferroviário,1-0,Aparecidense
+10,27/06/23,Botafogo-PB,3-2,Paysandu
+10,28/06/23,CSA,0-1,América-RN
+10,28/06/23,Náutico,0-1,Amazonas FC
+11,01/07/23,São Bernardo,0-0,Botafogo-PB
+11,01/07/23,Confiança,1-1,Ypiranga-RS
+11,01/07/23,Paysandu,0-2,Brusque
+11,01/07/23,Aparecidense,1-0,Manaus FC
+11,02/07/23,Amazonas FC,2-1,Pouso Alegre
+11,02/07/23,Figueirense,0-0,Operário Ferroviário
+11,02/07/23,Volta Redonda,1-1,CSA
+11,02/07/23,Floresta-CE,0-0,Remo
+11,03/07/23,São José-RS,2-0,América-RN
+11,03/07/23,Náutico,1-0,Altos
+12,08/07/23,Botafogo-PB,1-2,Brusque
+12,08/07/23,Amazonas FC,1-2,Paysandu
+12,08/07/23,São Bernardo,1-1,Altos
+12,09/07/23,América-RN,1-2,Manaus FC
+12,09/07/23,Pouso Alegre,0-1,Floresta-CE
+12,09/07/23,Aparecidense,2-1,São José-RS
+12,09/07/23,Figueirense,1-1,CSA
+12,10/07/23,Ypiranga-RS,3-3,Náutico
+12,10/07/23,Confiança,0-1,Volta Redonda
+12,10/07/23,Remo,1-2,Operário Ferroviário
+13,15/07/23,Manaus FC,0-0,São Bernardo
+13,15/07/23,Brusque,4-0,Confiança
+13,15/07/23,Náutico,2-1,Figueirense
+13,15/07/23,Botafogo-PB,2-1,Aparecidense
+13,16/07/23,CSA,2-0,São José-RS
+13,16/07/23,Altos,1-1,América-RN
+13,16/07/23,Operário Ferroviário,1-0,Floresta-CE
+13,16/07/23,Ypiranga-RS,4-1,Pouso Alegre
+13,17/07/23,Volta Redonda,5-1,Amazonas FC
+13,17/07/23,Paysandu,1-0,Remo
+14,22/07/23,Pouso Alegre,0-1,Aparecidense
+14,22/07/23,Confiança,1-0,Operário Ferroviário
+14,22/07/23,Amazonas FC,0-0,Ypiranga-RS
+14,22/07/23,São Bernardo,0-0,América-RN
+14,23/07/23,Altos,0-1,Botafogo-PB
+14,23/07/23,Manaus FC,0-2,Brusque
+14,23/07/23,Paysandu,1-0,CSA
+14,23/07/23,Náutico,0-0,Remo
+14,24/07/23,São José-RS,2-2,Volta Redonda
+14,24/07/23,Floresta-CE,1-1,Figueirense
+15,29/07/23,São José-RS,2-0,Confiança
+15,29/07/23,Operário Ferroviário,1-1,Náutico
+15,29/07/23,Remo,2-1,Ypiranga-RS
+15,29/07/23,Volta Redonda,2-0,Altos
+15,30/07/23,América-RN,1-1,Paysandu
+15,30/07/23,CSA,2-1,Pouso Alegre
+15,30/07/23,Botafogo-PB,2-0,Manaus FC
+15,30/07/23,Figueirense,0-1,Amazonas FC
+15,31/07/23,Aparecidense,0-0,Floresta-CE
+15,31/07/23,Brusque,0-0,São Bernardo
+16,05/08/23,Pouso Alegre,0-1,Manaus FC
+16,05/08/23,Amazonas FC,0-0,Aparecidense
+16,05/08/23,Ypiranga-RS,2-0,Brusque
+16,05/08/23,Remo,2-1,Volta Redonda
+16,06/08/23,Figueirense,3-0,América-RN
+16,06/08/23,Operário Ferroviário,1-0,São Bernardo
+16,06/08/23,Náutico,0-0,CSA
+16,06/08/23,Altos,1-1,Paysandu
+16,07/08/23,Confiança,3-1,Floresta-CE
+16,07/08/23,Botafogo-PB,1-1,São José-RS
+17,12/08/23,São Bernardo,2-1,Amazonas FC
+17,12/08/23,Aparecidense,1-0,Confiança
+17,12/08/23,Volta Redonda,1-1,Operário Ferroviário
+17,12/08/23,Brusque,3-0,Altos
+17,13/08/23,Paysandu,4-2,Náutico
+17,13/08/23,CSA,1-1,Botafogo-PB
+17,13/08/23,Manaus FC,1-1,Remo
+17,13/08/23,São José-RS,3-3,Figueirense
+17,13/08/23,América-RN,2-0,Pouso Alegre
+17,14/08/23,Floresta-CE,2-0,Ypiranga-RS
+18,19/08/23,Botafogo-PB,2-3,Confiança
+18,19/08/23,Brusque,2-2,Náutico
+18,19/08/23,São José-RS,1-0,Amazonas FC
+18,19/08/23,Altos,0-1,Operário Ferroviário
+18,20/08/23,CSA,0-0,Remo
+18,20/08/23,Manaus FC,0-0,Floresta-CE
+18,20/08/23,Paysandu,2-1,Pouso Alegre
+18,20/08/23,Volta Redonda,2-0,Figueirense
+18,21/08/23,São Bernardo,1-0,Ypiranga-RS
+18,21/08/23,América-RN,0-0,Aparecidense
+19,26/08/23,Ypiranga-RS,1-1,Botafogo-PB
+19,26/08/23,Remo,3-1,Altos
+19,26/08/23,Operário Ferroviário,1-0,Brusque
+19,26/08/23,Náutico,2-2,São Bernardo
+19,26/08/23,Pouso Alegre,1-2,São José-RS
+19,26/08/23,Confiança,1-0,Paysandu
+19,26/08/23,Floresta-CE,1-0,América-RN
+19,26/08/23,Aparecidense,2-3,Volta Redonda
+19,26/08/23,Figueirense,0-0,Manaus FC
+19,26/08/23,Amazonas FC,1-0,CSA
+B,02/09/23,São José-RS,1-2,Brusque
+B,03/09/23,São Bernardo,2-1,Operário Ferroviário
+C,03/09/23,Paysandu,1-1,Volta Redonda
+C,03/09/23,Botafogo-PB,2-1,Amazonas FC
+C,09/09/23,Amazonas FC,0-1,Paysandu
+B,09/09/23,Brusque,1-0,São Bernardo
+B,10/09/23,Operário Ferroviário,2-0,São José-RS
+C,10/09/23,Volta Redonda,2-1,Botafogo-PB
+B,16/09/23,São Bernardo,1-1,São José-RS
+C,16/09/23,Amazonas FC,2-0,Volta Redonda
+C,17/09/23,Paysandu,1-0,Botafogo-PB
+B,17/09/23,Brusque,4-3,Operário Ferroviário
+C,23/09/23,Botafogo-PB,2-3,Paysandu
+B,23/09/23,São José-RS,2-1,São Bernardo
+B,23/09/23,Operário Ferroviário,1-2,Brusque
+C,23/09/23,Volta Redonda,0-2,Amazonas FC
+B,30/09/23,São Bernardo,2-0,Brusque
+C,30/09/23,Botafogo-PB,1-2,Volta Redonda
+B,01/10/23,São José-RS,1-1,Operário Ferroviário
+C,01/10/23,Paysandu,1-2,Amazonas FC
+C,07/10/23,Volta Redonda,1-0,Paysandu
+C,07/10/23,Amazonas FC,2-0,Botafogo-PB
+B,08/10/23,Operário Ferroviário,1-0,São Bernardo
+B,08/10/23,Brusque,0-0,São José-RS
+F,15/10/23,Amazonas FC,0-0,Brusque
+F,22/10/23,Brusque,1-2,Amazonas FC

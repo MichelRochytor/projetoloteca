@@ -1,0 +1,137 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+2,16/01/10,São Luiz,1-0,Avenida
+2,16/01/10,Caxias,1-1,Inter SM
+2,16/01/10,Universidade SC,1-2,Novo Hamburgo
+2,17/01/10,São José-RS,2-2,Juventude
+2,17/01/10,Pelotas,2-3,Grêmio
+2,17/01/10,Santa Cruz-RS,3-1,Esportivo
+2,17/01/10,Veranópolis,5-1,Porto Alegre
+2,17/01/10,Internacional,4-2,Ypiranga-RS
+2,20/01/10,Juventude,1-3,Pelotas
+2,20/01/10,Porto Alegre,0-1,Internacional
+2,20/01/10,Esportivo,3-2,Universidade SC
+2,20/01/10,Novo Hamburgo,2-2,Veranópolis
+2,20/01/10,Ypiranga-RS,2-0,Santa Cruz-RS
+2,20/01/10,Inter SM,0-3,São Luiz
+2,21/01/10,Avenida,1-3,São José-RS
+2,21/01/10,Grêmio,3-2,Caxias
+2,23/01/10,Juventude,3-2,Universidade SC
+2,23/01/10,Novo Hamburgo,1-0,Pelotas
+2,24/01/10,Porto Alegre,4-5,Caxias
+2,24/01/10,Inter SM,1-1,Internacional
+2,24/01/10,Ypiranga-RS,1-1,São Luiz
+2,24/01/10,Avenida,0-1,Santa Cruz-RS
+2,24/01/10,Esportivo,1-2,São José-RS
+2,24/01/10,Grêmio,1-1,Veranópolis
+2,27/01/10,Caxias,1-0,Esportivo
+2,27/01/10,São José-RS,2-1,Porto Alegre
+2,27/01/10,Internacional,5-0,Juventude
+2,27/01/10,Veranópolis,3-2,Avenida
+2,27/01/10,São Luiz,2-1,Novo Hamburgo
+2,27/01/10,Universidade SC,3-0,Inter SM
+2,27/01/10,Santa Cruz-RS,1-2,Grêmio
+2,28/01/10,Pelotas,4-1,Ypiranga-RS
+2,31/01/10,Veranópolis,1-0,Juventude
+2,31/01/10,Caxias,2-0,Novo Hamburgo
+2,31/01/10,Pelotas,5-0,Esportivo
+2,31/01/10,Santa Cruz-RS,4-1,Inter SM
+2,31/01/10,São Luiz,5-0,Porto Alegre
+2,31/01/10,São José-RS,2-0,Ypiranga-RS
+2,31/01/10,Internacional,1-0,Grêmio
+2,31/01/10,Universidade SC,3-2,Avenida
+2,03/02/10,Grêmio,1-1,São Luiz
+2,03/02/10,Porto Alegre,1-1,Santa Cruz-RS
+2,03/02/10,Inter SM,1-3,São José-RS
+2,03/02/10,Avenida,0-1,Pelotas
+2,03/02/10,Ypiranga-RS,1-1,Universidade SC
+2,03/02/10,Esportivo,0-3,Veranópolis
+2,03/02/10,Novo Hamburgo,1-3,Internacional
+2,04/02/10,Juventude,1-1,Caxias
+2,07/02/10,Universidade SC,1-5,Grêmio
+2,07/02/10,São Luiz,4-1,Esportivo
+2,07/02/10,Veranópolis,2-3,Inter SM
+2,07/02/10,Santa Cruz-RS,1-0,Juventude
+2,07/02/10,São José-RS,3-2,Novo Hamburgo
+2,07/02/10,Internacional,2-1,Avenida
+2,08/02/10,Pelotas,2-1,Porto Alegre
+2,08/02/10,Caxias,2-0,Ypiranga-RS
+2,13/02/10,Esportivo,1-2,Internacional
+2,13/02/10,Grêmio,2-1,São José-RS
+2,13/02/10,Porto Alegre,2-0,Universidade SC
+2,13/02/10,Inter SM,3-1,Pelotas
+2,13/02/10,Novo Hamburgo,1-1,Santa Cruz-RS
+2,13/02/10,Avenida,2-2,Caxias
+2,13/02/10,Juventude,3-3,São Luiz
+2,13/02/10,Ypiranga-RS,2-3,Veranópolis
+QF,17/02/10,São José-RS,0-2,Inter SM
+QF,17/02/10,Grêmio,4-2,Veranópolis
+QF,18/02/10,Novo Hamburgo,2-0,São Luiz
+QF,18/02/10,Internacional,2-0,Juventude
+SF,20/02/10,Grêmio,4-1,Inter SM
+SF,21/02/10,Internacional,1-2,Novo Hamburgo
+F,28/02/10,Grêmio,1-0,Novo Hamburgo
+1,03/03/10,Porto Alegre,2-4,Novo Hamburgo
+1,03/03/10,Inter SM,2-4,Juventude
+2,03/03/10,Internacional,4-1,Santa Cruz-RS
+2,03/03/10,Pelotas,2-1,Veranópolis
+1,03/03/10,Avenida,1-3,Grêmio
+1,04/03/10,Ypiranga-RS,3-2,Esportivo
+2,04/03/10,São José-RS,2-1,São Luiz
+2,04/03/10,Caxias,1-0,Universidade SC
+1,06/03/10,Grêmio,1-0,Porto Alegre
+2,07/03/10,Universidade SC,3-2,Pelotas
+2,07/03/10,São Luiz,0-1,Internacional
+1,07/03/10,Novo Hamburgo,2-0,Inter SM
+2,07/03/10,Santa Cruz-RS,1-1,Caxias
+2,07/03/10,Veranópolis,2-5,São José-RS
+1,08/03/10,Esportivo,2-4,Avenida
+1,08/03/10,Juventude,1-1,Ypiranga-RS
+1,13/03/10,Esportivo,1-1,Juventude
+2,13/03/10,São José-RS,2-2,Santa Cruz-RS
+1,14/03/10,Porto Alegre,5-2,Ypiranga-RS
+2,14/03/10,Veranópolis,1-1,Internacional
+1,14/03/10,Grêmio,3-0,Inter SM
+2,14/03/10,São Luiz,3-1,Universidade SC
+1,15/03/10,Avenida,1-2,Novo Hamburgo
+2,15/03/10,Pelotas,2-3,Caxias
+1,20/03/10,Porto Alegre,1-2,Esportivo
+2,20/03/10,Santa Cruz-RS,3-3,São Luiz
+2,20/03/10,Caxias,2-1,São José-RS
+1,20/03/10,Novo Hamburgo,3-1,Juventude
+2,20/03/10,Universidade SC,2-2,Veranópolis
+1,21/03/10,Inter SM,3-2,Avenida
+1,21/03/10,Ypiranga-RS,1-3,Grêmio
+2,21/03/10,Internacional,2-2,Pelotas
+1,24/03/10,Juventude,1-1,Porto Alegre
+2,24/03/10,São Luiz,1-1,Pelotas
+2,24/03/10,Santa Cruz-RS,1-2,Universidade SC
+1,24/03/10,Esportivo,1-3,Inter SM
+2,24/03/10,São José-RS,3-0,Internacional
+2,25/03/10,Veranópolis,1-2,Caxias
+1,25/03/10,Avenida,1-2,Ypiranga-RS
+1,25/03/10,Grêmio,2-1,Novo Hamburgo
+2,27/03/10,Pelotas,1-0,Santa Cruz-RS
+2,28/03/10,Caxias,2-0,Internacional
+2,28/03/10,Veranópolis,3-1,São Luiz
+1,28/03/10,Grêmio,2-0,Esportivo
+1,29/03/10,Novo Hamburgo,0-0,Ypiranga-RS
+1,29/03/10,Inter SM,2-1,Porto Alegre
+1,29/03/10,Avenida,1-0,Juventude
+2,29/03/10,Universidade SC,2-2,São José-RS
+1,04/04/10,Juventude,1-2,Grêmio
+1,04/04/10,Porto Alegre,3-2,Avenida
+1,04/04/10,Ypiranga-RS,1-1,Inter SM
+1,04/04/10,Esportivo,2-1,Novo Hamburgo
+2,04/04/10,Internacional,4-0,Universidade SC
+2,04/04/10,Santa Cruz-RS,0-4,Veranópolis
+2,04/04/10,São Luiz,0-2,Caxias
+2,04/04/10,São José-RS,1-1,Pelotas
+QF,07/04/10,Caxias,2-2(1-3 Pen.),Ypiranga-RS
+QF,07/04/10,Novo Hamburgo,3-3(4-5 Pen.),Internacional
+QF,08/04/10,São José-RS,0-0(3-1 Pen.),Inter SM
+QF,08/04/10,Grêmio,1-2,Pelotas
+SF,10/04/10,Internacional,2-0,Ypiranga-RS
+SF,11/04/10,São José-RS,1-1(2-4 Pen.),Pelotas
+F,18/04/10,Internacional,3-2,Pelotas
+F,25/04/10,Internacional,0-2,Grêmio
+F,02/05/10,Grêmio,0-1,Internacional

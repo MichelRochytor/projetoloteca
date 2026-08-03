@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,17/08/18,Girona,0-0,Valladolid
+1,17/08/18,Real Betis,0-3,Levante
+1,18/08/18,Celta de Vigo,1-1,Espanyol
+1,18/08/18,Villarreal,1-2,Real Sociedad
+1,18/08/18,Barcelona,3-0,Alavés
+1,19/08/18,Eibar,1-2,Huesca
+1,19/08/18,Rayo Vallecano,1-4,Sevilla
+1,19/08/18,Real Madrid,2-0,Getafe
+1,20/08/18,Valencia,1-1,Atlético de Madrid
+1,20/08/18,Athletic Bilbao,2-1,Leganés
+2,24/08/18,Getafe,2-0,Eibar
+2,24/08/18,Leganés,2-2,Real Sociedad
+2,25/08/18,Alavés,0-0,Real Betis
+2,25/08/18,Atlético de Madrid,1-0,Rayo Vallecano
+2,25/08/18,Valladolid,0-1,Barcelona
+2,26/08/18,Espanyol,2-0,Valencia
+2,26/08/18,Girona,1-4,Real Madrid
+2,26/08/18,Sevilla,0-0,Villarreal
+2,27/08/18,Levante,1-2,Celta de Vigo
+2,27/08/18,Athletic Bilbao,2-2,Huesca
+3,31/08/18,Getafe,0-0,Valladolid
+3,31/08/18,Eibar,2-1,Real Sociedad
+3,31/08/18,Villarreal,0-1,Girona
+3,01/09/18,Celta de Vigo,2-0,Atlético de Madrid
+3,01/09/18,Real Madrid,4-1,Leganés
+3,02/09/18,Levante,2-2,Valencia
+3,02/09/18,Alavés,2-1,Espanyol
+3,02/09/18,Barcelona,8-2,Huesca
+3,02/09/18,Real Betis,1-0,Sevilla
+4,14/09/18,Huesca,0-1,Rayo Vallecano
+4,15/09/18,Atlético de Madrid,1-1,Eibar
+4,15/09/18,Real Sociedad,1-2,Barcelona
+4,15/09/18,Valencia,0-0,Real Betis
+4,15/09/18,Athletic Bilbao,1-1,Real Madrid
+4,16/09/18,Leganés,0-1,Villarreal
+4,16/09/18,Espanyol,1-0,Levante
+4,16/09/18,Valladolid,0-1,Alavés
+4,16/09/18,Sevilla,0-2,Getafe
+4,17/09/18,Girona,3-2,Celta de Vigo
+5,21/09/18,Huesca,0-1,Real Sociedad
+5,22/09/18,Rayo Vallecano,1-5,Alavés
+5,22/09/18,Celta de Vigo,3-3,Valladolid
+5,22/09/18,Eibar,1-0,Leganés
+5,22/09/18,Getafe,0-2,Atlético de Madrid
+5,22/09/18,Real Madrid,1-0,Espanyol
+5,23/09/18,Levante,2-6,Sevilla
+5,23/09/18,Villarreal,0-0,Valencia
+5,23/09/18,Real Betis,2-2,Athletic Bilbao
+5,23/09/18,Barcelona,2-2,Girona
+6,25/09/18,Espanyol,1-0,Eibar
+6,25/09/18,Real Sociedad,2-2,Rayo Vallecano
+6,25/09/18,Atlético de Madrid,3-0,Huesca
+6,26/09/18,Athletic Bilbao,0-3,Villarreal
+6,26/09/18,Leganés,2-1,Barcelona
+6,26/09/18,Valencia,1-1,Celta de Vigo
+6,26/09/18,Sevilla,3-0,Real Madrid
+6,27/09/18,Alavés,1-1,Getafe
+6,27/09/18,Valladolid,2-1,Levante
+6,27/09/18,Girona,0-1,Real Betis
+7,28/09/18,Rayo Vallecano,2-2,Espanyol
+7,29/09/18,Real Sociedad,0-1,Valencia
+7,29/09/18,Barcelona,1-1,Athletic Bilbao
+7,29/09/18,Eibar,1-3,Sevilla
+7,29/09/18,Real Madrid,0-0,Atlético de Madrid
+7,30/09/18,Huesca,1-1,Girona
+7,30/09/18,Villarreal,0-1,Valladolid
+7,30/09/18,Levante,2-1,Alavés
+7,30/09/18,Real Betis,1-0,Leganés
+7,01/10/18,Celta de Vigo,1-1,Getafe
+8,05/10/18,Athletic Bilbao,1-3,Real Sociedad
+8,06/10/18,Girona,2-3,Eibar
+8,06/10/18,Getafe,0-1,Levante
+8,06/10/18,Alavés,1-0,Real Madrid
+8,06/10/18,Leganés,1-0,Rayo Vallecano
+8,07/10/18,Valladolid,1-0,Huesca
+8,07/10/18,Atlético de Madrid,1-0,Real Betis
+8,07/10/18,Espanyol,3-1,Villarreal
+8,07/10/18,Sevilla,2-1,Celta de Vigo
+8,07/10/18,Valencia,1-1,Barcelona
+9,19/10/18,Celta de Vigo,0-1,Alavés
+9,20/10/18,Real Madrid,1-2,Levante
+9,20/10/18,Valencia,1-1,Leganés
+9,20/10/18,Villarreal,1-1,Atlético de Madrid
+9,20/10/18,Barcelona,4-2,Sevilla
+9,21/10/18,Rayo Vallecano,1-2,Getafe
+9,21/10/18,Eibar,1-1,Athletic Bilbao
+9,21/10/18,Huesca,0-2,Espanyol
+9,21/10/18,Real Betis,0-1,Valladolid
+9,22/10/18,Real Sociedad,0-0,Girona
+3,24/10/18,Rayo Vallecano,1-1,Athletic Bilbao
+10,26/10/18,Valladolid,1-1,Espanyol
+10,27/10/18,Girona,2-1,Rayo Vallecano
+10,27/10/18,Athletic Bilbao,0-0,Valencia
+10,27/10/18,Celta de Vigo,4-0,Eibar
+10,27/10/18,Levante,2-0,Leganés
+10,27/10/18,Atlético de Madrid,2-0,Real Sociedad
+10,28/10/18,Getafe,2-0,Real Betis
+10,28/10/18,Barcelona,5-1,Real Madrid
+10,28/10/18,Alavés,2-1,Villarreal
+10,28/10/18,Sevilla,2-1,Huesca
+11,03/11/18,Leganés,1-1,Atlético de Madrid
+11,03/11/18,Real Madrid,2-0,Valladolid
+11,03/11/18,Valencia,0-1,Girona
+11,03/11/18,Rayo Vallecano,2-3,Barcelona
+11,04/11/18,Eibar,2-1,Alavés
+11,04/11/18,Villarreal,1-1,Levante
+11,04/11/18,Real Sociedad,0-0,Sevilla
+11,04/11/18,Huesca,1-1,Getafe
+11,04/11/18,Real Betis,3-3,Celta de Vigo
+11,05/11/18,Espanyol,1-0,Athletic Bilbao
+12,09/11/18,Levante,1-3,Real Sociedad
+12,10/11/18,Valladolid,0-0,Eibar
+12,10/11/18,Getafe,0-1,Valencia
+12,10/11/18,Atlético de Madrid,3-2,Athletic Bilbao
+12,10/11/18,Girona,0-0,Leganés
+12,11/11/18,Alavés,2-1,Huesca
+12,11/11/18,Barcelona,3-4,Real Betis
+12,11/11/18,Rayo Vallecano,2-2,Villarreal
+12,11/11/18,Sevilla,2-1,Espanyol
+12,11/11/18,Celta de Vigo,2-4,Real Madrid
+13,23/11/18,Leganés,1-0,Alavés
+13,24/11/18,Eibar,3-0,Real Madrid
+13,24/11/18,Valencia,3-0,Rayo Vallecano
+13,24/11/18,Huesca,2-2,Levante
+13,24/11/18,Atlético de Madrid,1-1,Barcelona
+13,25/11/18,Athletic Bilbao,1-1,Getafe
+13,25/11/18,Sevilla,1-0,Valladolid
+13,25/11/18,Espanyol,1-3,Girona
+13,25/11/18,Villarreal,2-1,Real Betis
+13,26/11/18,Real Sociedad,2-1,Celta de Vigo
+14,30/11/18,Rayo Vallecano,1-0,Eibar
+14,01/12/18,Celta de Vigo,2-0,Huesca
+14,01/12/18,Valladolid,2-4,Leganés
+14,01/12/18,Getafe,3-0,Espanyol
+14,01/12/18,Real Madrid,2-0,Valencia
+14,02/12/18,Real Betis,1-0,Real Sociedad
+14,02/12/18,Girona,1-1,Atlético de Madrid
+14,02/12/18,Barcelona,2-0,Villarreal
+14,02/12/18,Alavés,1-1,Sevilla
+14,03/12/18,Levante,3-0,Athletic Bilbao
+15,07/12/18,Leganés,1-1,Getafe
+15,08/12/18,Atlético de Madrid,3-0,Alavés
+15,08/12/18,Valencia,1-1,Sevilla
+15,08/12/18,Villarreal,2-3,Celta de Vigo
+15,08/12/18,Espanyol,0-4,Barcelona
+15,09/12/18,Eibar,4-4,Levante
+15,09/12/18,Huesca,0-1,Real Madrid
+15,09/12/18,Real Sociedad,1-2,Valladolid
+15,09/12/18,Real Betis,2-0,Rayo Vallecano
+15,10/12/18,Athletic Bilbao,1-0,Girona
+16,14/12/18,Celta de Vigo,0-0,Leganés
+16,15/12/18,Getafe,1-0,Real Sociedad
+16,15/12/18,Valladolid,2-3,Atlético de Madrid
+16,15/12/18,Real Madrid,1-0,Rayo Vallecano
+16,15/12/18,Eibar,1-1,Valencia
+16,16/12/18,Sevilla,2-0,Girona
+16,16/12/18,Espanyol,1-3,Real Betis
+16,16/12/18,Huesca,2-2,Villarreal
+16,16/12/18,Levante,0-5,Barcelona
+16,17/12/18,Alavés,0-0,Athletic Bilbao
+17,21/12/18,Girona,1-1,Getafe
+17,21/12/18,Real Sociedad,0-1,Alavés
+17,22/12/18,Real Betis,1-1,Eibar
+17,22/12/18,Atlético de Madrid,1-0,Espanyol
+17,22/12/18,Barcelona,2-0,Celta de Vigo
+17,22/12/18,Athletic Bilbao,1-1,Valladolid
+17,23/12/18,Valencia,2-1,Huesca
+17,23/12/18,Leganés,1-1,Sevilla
+17,23/12/18,Rayo Vallecano,2-1,Levante
+17,03/01/19,Villarreal,2-2,Real Madrid
+18,04/01/19,Levante,2-2,Girona
+18,04/01/19,Espanyol,1-0,Leganés
+18,05/01/19,Valladolid,0-1,Rayo Vallecano
+18,05/01/19,Alavés,2-1,Valencia
+18,05/01/19,Huesca,2-1,Real Betis
+18,06/01/19,Eibar,0-0,Villarreal
+18,06/01/19,Sevilla,1-1,Atlético de Madrid
+18,06/01/19,Real Madrid,0-2,Real Sociedad
+18,06/01/19,Getafe,1-2,Barcelona
+18,07/01/19,Celta de Vigo,1-2,Athletic Bilbao
+19,11/01/19,Rayo Vallecano,4-2,Celta de Vigo
+19,12/01/19,Leganés,1-0,Huesca
+19,12/01/19,Valencia,1-1,Valladolid
+19,12/01/19,Girona,1-1,Alavés
+19,12/01/19,Villarreal,1-2,Getafe
+19,13/01/19,Atlético de Madrid,1-0,Levante
+19,13/01/19,Athletic Bilbao,2-0,Sevilla
+19,13/01/19,Barcelona,3-0,Eibar
+19,13/01/19,Real Betis,1-2,Real Madrid
+19,14/01/19,Real Sociedad,3-2,Espanyol
+20,18/01/19,Getafe,4-0,Alavés
+20,19/01/19,Real Madrid,2-0,Sevilla
+20,19/01/19,Huesca,0-3,Atlético de Madrid
+20,19/01/19,Celta de Vigo,1-2,Valencia
+20,20/01/19,Real Betis,3-2,Girona
+20,20/01/19,Villarreal,1-1,Athletic Bilbao
+20,20/01/19,Levante,2-0,Valladolid
+20,20/01/19,Rayo Vallecano,2-2,Real Sociedad
+20,20/01/19,Barcelona,3-1,Leganés
+20,21/01/19,Eibar,3-0,Espanyol
+21,26/01/19,Sevilla,5-0,Levante
+21,26/01/19,Atlético de Madrid,2-0,Getafe
+21,26/01/19,Leganés,2-2,Eibar
+21,26/01/19,Valencia,3-0,Villarreal
+21,27/01/19,Valladolid,2-1,Celta de Vigo
+21,27/01/19,Girona,0-2,Barcelona
+21,27/01/19,Athletic Bilbao,1-0,Real Betis
+21,27/01/19,Real Sociedad,0-0,Huesca
+21,27/01/19,Espanyol,2-4,Real Madrid
+21,28/01/19,Alavés,0-1,Rayo Vallecano
+22,01/02/19,Huesca,4-0,Valladolid
+22,02/02/19,Levante,0-0,Getafe
+22,02/02/19,Real Sociedad,2-1,Athletic Bilbao
+22,02/02/19,Barcelona,2-2,Valencia
+22,02/02/19,Celta de Vigo,1-0,Sevilla
+22,03/02/19,Villarreal,2-2,Espanyol
+22,03/02/19,Real Betis,1-0,Atlético de Madrid
+22,03/02/19,Eibar,3-0,Girona
+22,03/02/19,Real Madrid,3-0,Alavés
+22,04/02/19,Rayo Vallecano,1-2,Leganés
+23,08/02/19,Valladolid,0-0,Villarreal
+23,09/02/19,Getafe,3-1,Celta de Vigo
+23,09/02/19,Atlético de Madrid,1-3,Real Madrid
+23,09/02/19,Espanyol,2-1,Rayo Vallecano
+23,09/02/19,Girona,0-2,Huesca
+23,10/02/19,Leganés,3-0,Real Betis
+23,10/02/19,Valencia,0-0,Real Sociedad
+23,10/02/19,Sevilla,2-2,Eibar
+23,10/02/19,Athletic Bilbao,0-0,Barcelona
+23,11/02/19,Alavés,2-0,Levante
+24,15/02/19,Eibar,2-2,Getafe
+24,16/02/19,Celta de Vigo,1-4,Levante
+24,16/02/19,Rayo Vallecano,0-1,Atlético de Madrid
+24,16/02/19,Real Sociedad,3-0,Leganés
+24,16/02/19,Barcelona,1-0,Valladolid
+24,17/02/19,Real Madrid,1-2,Girona
+24,17/02/19,Valencia,0-0,Espanyol
+24,17/02/19,Villarreal,3-0,Sevilla
+24,17/02/19,Real Betis,1-1,Alavés
+24,18/02/19,Huesca,0-1,Athletic Bilbao
+25,22/02/19,Espanyol,1-1,Huesca
+25,23/02/19,Getafe,2-1,Rayo Vallecano
+25,23/02/19,Sevilla,2-4,Barcelona
+25,23/02/19,Alavés,0-0,Celta de Vigo
+25,23/02/19,Athletic Bilbao,1-0,Eibar
+25,24/02/19,Leganés,1-1,Valencia
+25,24/02/19,Atlético de Madrid,2-0,Villarreal
+25,24/02/19,Valladolid,0-2,Real Betis
+25,24/02/19,Levante,1-2,Real Madrid
+25,25/02/19,Girona,0-0,Real Sociedad
+26,01/03/19,Rayo Vallecano,0-2,Girona
+26,02/03/19,Espanyol,3-1,Valladolid
+26,02/03/19,Villarreal,1-2,Alavés
+26,02/03/19,Huesca,2-1,Sevilla
+26,02/03/19,Real Madrid,0-1,Barcelona
+26,03/03/19,Eibar,1-0,Celta de Vigo
+26,03/03/19,Real Betis,1-2,Getafe
+26,03/03/19,Real Sociedad,0-2,Atlético de Madrid
+26,03/03/19,Valencia,2-0,Athletic Bilbao
+26,04/03/19,Leganés,1-0,Levante
+27,08/03/19,Athletic Bilbao,1-1,Espanyol
+27,09/03/19,Alavés,1-1,Eibar
+27,09/03/19,Atlético de Madrid,1-0,Leganés
+27,09/03/19,Barcelona,3-1,Rayo Vallecano
+27,09/03/19,Getafe,2-1,Huesca
+27,10/03/19,Celta de Vigo,0-1,Real Betis
+27,10/03/19,Girona,2-3,Valencia
+27,10/03/19,Levante,0-2,Villarreal
+27,10/03/19,Sevilla,5-2,Real Sociedad
+27,10/03/19,Valladolid,1-4,Real Madrid
+28,15/03/19,Real Sociedad,1-1,Levante
+28,16/03/19,Huesca,1-3,Alavés
+28,16/03/19,Real Madrid,2-0,Celta de Vigo
+28,16/03/19,Athletic Bilbao,2-0,Atlético de Madrid
+28,16/03/19,Leganés,0-2,Girona
+28,17/03/19,Eibar,1-2,Valladolid
+28,17/03/19,Espanyol,0-1,Sevilla
+28,17/03/19,Valencia,0-0,Getafe
+28,17/03/19,Villarreal,3-1,Rayo Vallecano
+28,17/03/19,Real Betis,1-4,Barcelona
+29,29/03/19,Girona,1-2,Athletic Bilbao
+29,30/03/19,Getafe,0-2,Leganés
+29,30/03/19,Barcelona,2-0,Espanyol
+29,30/03/19,Celta de Vigo,3-2,Villarreal
+29,30/03/19,Alavés,0-4,Atlético de Madrid
+29,31/03/19,Levante,2-2,Eibar
+29,31/03/19,Rayo Vallecano,1-1,Real Betis
+29,31/03/19,Sevilla,0-1,Valencia
+29,31/03/19,Valladolid,1-1,Real Sociedad
+29,31/03/19,Real Madrid,3-2,Huesca
+30,02/04/19,Atlético de Madrid,2-0,Girona
+30,02/04/19,Espanyol,1-1,Getafe
+30,02/04/19,Villarreal,4-4,Barcelona
+30,03/04/19,Athletic Bilbao,3-2,Levante
+30,03/04/19,Eibar,2-1,Rayo Vallecano
+30,03/04/19,Huesca,3-3,Celta de Vigo
+30,03/04/19,Valencia,2-1,Real Madrid
+30,04/04/19,Sevilla,2-0,Alavés
+30,04/04/19,Leganés,1-0,Valladolid
+30,04/04/19,Real Sociedad,2-1,Real Betis

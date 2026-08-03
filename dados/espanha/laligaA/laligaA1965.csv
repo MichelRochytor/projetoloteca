@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/09/65,Real Madrid,1-0,CE Sabadell
+1,04/09/65,Sevilla,1-1,Valencia
+1,04/09/65,Málaga,0-0,Pontevedra
+1,05/09/65,Barcelona,3-1,Mallorca
+1,05/09/65,Real Zaragoza,2-2,Atlético de Madrid
+1,05/09/65,Athletic Bilbao,6-1,Real Betis
+1,05/09/65,Elche,2-0,Córdoba
+1,05/09/65,Las Palmas,1-1,Espanyol
+2,12/09/65,Atlético de Madrid,3-0,Elche
+2,12/09/65,Pontevedra,3-0,Athletic Bilbao
+2,12/09/65,Valencia,1-0,Málaga
+2,12/09/65,Córdoba,0-0,Sevilla
+2,12/09/65,Espanyol,1-1,Real Zaragoza
+2,12/09/65,CE Sabadell,1-3,Barcelona
+2,12/09/65,Mallorca,4-1,Las Palmas
+2,12/09/65,Real Betis,1-2,Real Madrid
+3,18/09/65,Real Madrid,1-0,Pontevedra
+3,19/09/65,Barcelona,4-1,Real Betis
+3,19/09/65,Athletic Bilbao,1-0,Valencia
+3,19/09/65,Elche,3-0,Espanyol
+3,19/09/65,Sevilla,1-1,Atlético de Madrid
+3,19/09/65,Las Palmas,2-1,Real Zaragoza
+3,19/09/65,Málaga,1-3,Córdoba
+3,19/09/65,Mallorca,0-1,CE Sabadell
+4,26/09/65,Atlético de Madrid,1-0,Málaga
+4,26/09/65,Real Zaragoza,6-1,Elche
+4,26/09/65,Pontevedra,2-0,Barcelona
+4,26/09/65,Valencia,3-0,Real Madrid
+4,26/09/65,Las Palmas,1-0,CE Sabadell
+4,26/09/65,Córdoba,1-0,Athletic Bilbao
+4,26/09/65,Espanyol,1-0,Sevilla
+4,26/09/65,Real Betis,1-2,Mallorca
+5,03/10/65,Real Madrid,2-1,Córdoba
+5,03/10/65,Barcelona,1-2,Valencia
+5,03/10/65,Athletic Bilbao,0-2,Atlético de Madrid
+5,03/10/65,Elche,1-1,Las Palmas
+5,03/10/65,Sevilla,1-1,Real Zaragoza
+5,03/10/65,Málaga,0-0,Espanyol
+5,03/10/65,CE Sabadell,4-1,Real Betis
+5,03/10/65,Mallorca,0-3,Pontevedra
+6,09/10/65,Valencia,4-1,Mallorca
+6,10/10/65,Atlético de Madrid,1-1,Real Madrid
+6,10/10/65,Real Zaragoza,1-1,Málaga
+6,10/10/65,Elche,1-1,Sevilla
+6,10/10/65,Pontevedra,2-1,CE Sabadell
+6,10/10/65,Córdoba,0-0,Barcelona
+6,10/10/65,Espanyol,3-4,Athletic Bilbao
+6,10/10/65,Real Betis,1-0,Las Palmas
+7,17/10/65,Real Madrid,0-0,Espanyol
+7,17/10/65,Barcelona,1-4,Atlético de Madrid
+7,17/10/65,Athletic Bilbao,2-0,Real Zaragoza
+7,17/10/65,Las Palmas,1-0,Sevilla
+7,17/10/65,Málaga,0-1,Elche
+7,17/10/65,CE Sabadell,0-1,Valencia
+7,17/10/65,Mallorca,2-1,Córdoba
+7,17/10/65,Real Betis,3-0,Pontevedra
+8,31/10/65,Atlético de Madrid,1-0,Mallorca
+8,31/10/65,Real Zaragoza,2-3,Real Madrid
+8,31/10/65,Elche,0-0,Athletic Bilbao
+8,31/10/65,Sevilla,0-1,Málaga
+8,31/10/65,Las Palmas,0-1,Pontevedra
+8,31/10/65,Córdoba,3-0,CE Sabadell
+8,31/10/65,Espanyol,1-1,Barcelona
+9,13/11/65,Real Madrid,2-1,Elche
+9,14/11/65,Barcelona,0-1,Real Zaragoza
+9,14/11/65,Athletic Bilbao,1-0,Sevilla
+9,14/11/65,Pontevedra,2-0,Valencia
+9,14/11/65,Málaga,1-0,Las Palmas
+9,14/11/65,CE Sabadell,0-1,Atlético de Madrid
+9,14/11/65,Mallorca,3-0,Espanyol
+9,14/11/65,Real Betis,0-4,Córdoba
+10,20/11/65,Espanyol,2-1,CE Sabadell
+10,21/11/65,Atlético de Madrid,3-0,Real Betis
+10,21/11/65,Real Zaragoza,4-0,Mallorca
+10,21/11/65,Elche,1-0,Barcelona
+10,21/11/65,Sevilla,2-1,Real Madrid
+10,21/11/65,Las Palmas,0-2,Valencia
+10,21/11/65,Córdoba,0-2,Pontevedra
+10,21/11/65,Málaga,2-0,Athletic Bilbao
+11,27/11/65,Real Madrid,1-0,Málaga
+11,28/11/65,Barcelona,3-0,Sevilla
+11,28/11/65,Pontevedra,1-0,Atlético de Madrid
+11,28/11/65,Valencia,1-0,Córdoba
+11,28/11/65,Las Palmas,1-1,Athletic Bilbao
+11,28/11/65,CE Sabadell,3-1,Real Zaragoza
+11,28/11/65,Mallorca,4-2,Elche
+11,28/11/65,Real Betis,1-1,Espanyol
+8,01/12/65,Valencia,6-3,Real Betis
+12,05/12/65,Atlético de Madrid,2-2,Valencia
+12,05/12/65,Real Zaragoza,4-1,Real Betis
+12,05/12/65,Athletic Bilbao,2-0,Real Madrid
+12,05/12/65,Elche,0-0,CE Sabadell
+12,05/12/65,Sevilla,3-1,Mallorca
+12,05/12/65,Córdoba,1-1,Las Palmas
+12,05/12/65,Espanyol,2-0,Pontevedra
+12,05/12/65,Málaga,1-0,Barcelona
+13,12/12/65,Real Madrid,3-1,Las Palmas
+13,12/12/65,Barcelona,1-0,Athletic Bilbao
+13,12/12/65,Pontevedra,1-1,Real Zaragoza
+13,12/12/65,Valencia,2-1,Espanyol
+13,12/12/65,Córdoba,0-1,Atlético de Madrid
+13,12/12/65,CE Sabadell,2-2,Sevilla
+13,12/12/65,Mallorca,2-2,Málaga
+13,12/12/65,Real Betis,2-1,Elche
+14,19/12/65,Real Madrid,1-3,Barcelona
+14,19/12/65,Real Zaragoza,2-0,Valencia
+14,19/12/65,Athletic Bilbao,4-0,Mallorca
+14,19/12/65,Elche,2-0,Pontevedra
+14,19/12/65,Sevilla,1-1,Real Betis
+14,19/12/65,Las Palmas,1-1,Atlético de Madrid
+14,19/12/65,Espanyol,1-0,Córdoba
+14,19/12/65,Málaga,2-0,CE Sabadell
+15,25/12/65,Barcelona,3-2,Las Palmas
+15,26/12/65,Atlético de Madrid,5-2,Espanyol
+15,26/12/65,Pontevedra,2-1,Sevilla
+15,26/12/65,Valencia,1-2,Elche
+15,26/12/65,Córdoba,2-1,Real Zaragoza
+15,26/12/65,CE Sabadell,1-2,Athletic Bilbao
+15,26/12/65,Mallorca,2-5,Real Madrid
+15,26/12/65,Real Betis,4-0,Málaga
+16,02/01/66,Atlético de Madrid,0-1,Real Zaragoza
+16,02/01/66,Pontevedra,3-0,Málaga
+16,02/01/66,Valencia,0-1,Sevilla
+16,02/01/66,Córdoba,1-0,Elche
+16,02/01/66,Espanyol,1-1,Las Palmas
+16,02/01/66,CE Sabadell,1-1,Real Madrid
+16,02/01/66,Mallorca,1-2,Barcelona
+16,02/01/66,Real Betis,2-0,Athletic Bilbao
+17,06/01/66,Real Madrid,2-0,Real Betis
+17,06/01/66,Barcelona,5-0,CE Sabadell
+17,06/01/66,Real Zaragoza,1-0,Espanyol
+17,06/01/66,Athletic Bilbao,2-0,Pontevedra
+17,06/01/66,Elche,0-0,Atlético de Madrid
+17,06/01/66,Sevilla,2-1,Córdoba
+17,06/01/66,Las Palmas,0-0,Mallorca
+17,06/01/66,Málaga,2-1,Valencia
+18,09/01/66,Atlético de Madrid,6-1,Sevilla
+18,09/01/66,Real Zaragoza,3-1,Las Palmas
+18,09/01/66,Pontevedra,1-3,Real Madrid
+18,09/01/66,Valencia,1-1,Athletic Bilbao
+18,09/01/66,Córdoba,1-0,Málaga
+18,09/01/66,Espanyol,0-3,Elche
+18,09/01/66,CE Sabadell,1-0,Mallorca
+18,09/01/66,Real Betis,0-0,Barcelona
+19,16/01/66,Real Madrid,2-1,Valencia
+19,16/01/66,Barcelona,3-0,Pontevedra
+19,16/01/66,Athletic Bilbao,3-2,Córdoba
+19,16/01/66,Elche,3-1,Real Zaragoza
+19,16/01/66,Sevilla,0-2,Espanyol
+19,16/01/66,Málaga,1-1,Atlético de Madrid
+19,16/01/66,CE Sabadell,1-0,Las Palmas
+19,16/01/66,Mallorca,4-0,Real Betis
+20,23/01/66,Atlético de Madrid,1-0,Athletic Bilbao
+20,23/01/66,Real Zaragoza,2-0,Sevilla
+20,23/01/66,Pontevedra,2-1,Mallorca
+20,23/01/66,Valencia,0-2,Barcelona
+20,23/01/66,Las Palmas,1-0,Elche
+20,23/01/66,Córdoba,1-2,Real Madrid
+20,23/01/66,Espanyol,3-2,Málaga
+20,23/01/66,Real Betis,2-1,CE Sabadell
+21,30/01/66,Real Madrid,3-1,Atlético de Madrid
+21,30/01/66,Barcelona,3-1,Córdoba
+21,30/01/66,Athletic Bilbao,3-1,Espanyol
+21,30/01/66,Sevilla,2-0,Elche
+21,30/01/66,Las Palmas,4-1,Real Betis
+21,30/01/66,Málaga,0-1,Real Zaragoza
+21,30/01/66,CE Sabadell,1-0,Pontevedra
+21,30/01/66,Mallorca,2-0,Valencia
+22,06/02/66,Atlético de Madrid,0-1,Barcelona
+22,06/02/66,Real Zaragoza,3-2,Athletic Bilbao
+22,06/02/66,Elche,0-2,Málaga
+22,06/02/66,Pontevedra,0-0,Real Betis
+22,06/02/66,Sevilla,0-1,Las Palmas
+22,06/02/66,Valencia,0-1,CE Sabadell
+22,06/02/66,Córdoba,2-0,Mallorca
+22,06/02/66,Espanyol,1-1,Real Madrid
+23,12/02/66,Barcelona,4-2,Espanyol
+23,13/02/66,Real Madrid,2-0,Real Zaragoza
+23,13/02/66,Athletic Bilbao,2-0,Elche
+23,13/02/66,Pontevedra,1-0,Las Palmas
+23,13/02/66,Málaga,0-1,Sevilla
+23,13/02/66,CE Sabadell,2-1,Córdoba
+23,13/02/66,Mallorca,0-0,Atlético de Madrid
+23,13/02/66,Real Betis,1-1,Valencia
+24,20/02/66,Atlético de Madrid,3-0,CE Sabadell
+24,20/02/66,Real Zaragoza,0-0,Barcelona
+24,20/02/66,Elche,1-0,Real Madrid
+24,20/02/66,Sevilla,0-0,Athletic Bilbao
+24,20/02/66,Valencia,4-0,Pontevedra
+24,20/02/66,Las Palmas,2-0,Málaga
+24,20/02/66,Córdoba,3-3,Real Betis
+24,20/02/66,Espanyol,1-1,Mallorca
+25,26/02/66,Barcelona,0-0,Elche
+25,27/02/66,Real Madrid,4-0,Sevilla
+25,27/02/66,Athletic Bilbao,1-1,Málaga
+25,27/02/66,Pontevedra,1-1,Córdoba
+25,27/02/66,Valencia,4-0,Las Palmas
+25,27/02/66,CE Sabadell,2-0,Espanyol
+25,27/02/66,Mallorca,0-0,Real Zaragoza
+25,27/02/66,Real Betis,1-2,Atlético de Madrid
+26,06/03/66,Atlético de Madrid,4-0,Pontevedra
+26,06/03/66,Real Zaragoza,1-0,CE Sabadell
+26,06/03/66,Athletic Bilbao,1-1,Las Palmas
+26,06/03/66,Elche,3-2,Mallorca
+26,06/03/66,Sevilla,1-1,Barcelona
+26,06/03/66,Córdoba,1-0,Valencia
+26,06/03/66,Espanyol,1-1,Real Betis
+26,06/03/66,Málaga,0-0,Real Madrid
+27,13/03/66,Real Madrid,2-0,Athletic Bilbao
+27,13/03/66,Barcelona,4-0,Málaga
+27,13/03/66,Pontevedra,3-0,Espanyol
+27,13/03/66,Valencia,1-2,Atlético de Madrid
+27,13/03/66,Las Palmas,5-1,Córdoba
+27,13/03/66,CE Sabadell,3-4,Elche
+27,13/03/66,Mallorca,2-1,Sevilla
+27,13/03/66,Real Betis,1-0,Real Zaragoza
+28,20/03/66,Atlético de Madrid,2-0,Córdoba
+28,20/03/66,Real Zaragoza,2-0,Pontevedra
+28,20/03/66,Athletic Bilbao,1-0,Barcelona
+28,20/03/66,Elche,1-1,Real Betis
+28,20/03/66,Sevilla,2-0,CE Sabadell
+28,20/03/66,Las Palmas,1-2,Real Madrid
+28,20/03/66,Espanyol,2-0,Valencia
+28,20/03/66,Málaga,2-1,Mallorca
+29,27/03/66,Atlético de Madrid,2-0,Las Palmas
+29,27/03/66,Barcelona,2-1,Real Madrid
+29,27/03/66,Pontevedra,1-1,Elche
+29,27/03/66,Valencia,0-0,Real Zaragoza
+29,27/03/66,Córdoba,2-1,Espanyol
+29,27/03/66,CE Sabadell,3-2,Málaga
+29,27/03/66,Mallorca,3-1,Athletic Bilbao
+29,27/03/66,Real Betis,1-2,Sevilla
+30,03/04/66,Real Madrid,5-1,Mallorca
+30,03/04/66,Real Zaragoza,4-0,Córdoba
+30,03/04/66,Athletic Bilbao,3-0,CE Sabadell
+30,03/04/66,Elche,2-1,Valencia
+30,03/04/66,Sevilla,1-0,Pontevedra
+30,03/04/66,Las Palmas,2-1,Barcelona
+30,03/04/66,Espanyol,0-2,Atlético de Madrid
+30,03/04/66,Málaga,1-1,Real Betis

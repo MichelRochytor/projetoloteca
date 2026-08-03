@@ -1,0 +1,108 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,18/01/04,Anapolina,1-0,Rioverdense
+B,18/01/04,Novo Horizonte,1-2,CRAC
+B,18/01/04,Jataiense,4-1,Real-GO
+B,18/01/04,Grémio Inhumense,2-2,Goiatuba EC
+B,18/01/04,Itumbiara,0-5,Vila Nova
+B,18/01/04,Goiás,4-3,Anápolis
+B,21/01/04,Goiatuba EC,0-2,Goiás
+B,21/01/04,Real-GO,0-3,Grémio Inhumense
+B,21/01/04,Anápolis,1-2,Itumbiara
+B,21/01/04,CRAC,3-1,Anapolina
+B,21/01/04,Rioverdense,2-1,Jataiense
+B,21/01/04,Vila Nova,3-1,Novo Horizonte
+B,25/01/04,Real-GO,0-4,Goiás
+B,25/01/04,Goiatuba EC,1-0,Anapolina
+B,25/01/04,Anápolis,1-2,Novo Horizonte
+B,25/01/04,Rioverdense,2-2,Itumbiara
+B,25/01/04,CRAC,0-2,Jataiense
+B,25/01/04,Vila Nova,2-0,Grémio Inhumense
+B,28/01/04,Novo Horizonte,1-1,Goiatuba EC
+B,28/01/04,Goiás,3-2,Rioverdense
+B,28/01/04,Anapolina,4-0,Real-GO
+B,28/01/04,Grémio Inhumense,1-3,Anápolis
+B,28/01/04,Itumbiara,0-1,CRAC
+B,28/01/04,Jataiense,2-0,Vila Nova
+B,01/02/04,Anapolina,3-1,Anápolis
+B,01/02/04,Real-GO,3-3,Itumbiara
+B,01/02/04,Novo Horizonte,5-3,Rioverdense
+B,01/02/04,Jataiense,1-1,Goiatuba EC
+B,01/02/04,Grémio Inhumense,1-2,CRAC
+B,01/02/04,Goiás,1-0,Vila Nova
+B,04/02/04,Rioverdense,0-1,Goiás
+B,04/02/04,Goiatuba EC,4-0,Novo Horizonte
+B,07/02/04,Rioverdense,0-2,Grémio Inhumense
+B,08/02/04,Anápolis,3-2,Jataiense
+B,08/02/04,Real-GO,1-2,Novo Horizonte
+B,08/02/04,Goiatuba EC,1-1,Itumbiara
+B,08/02/04,CRAC,3-0,Goiás
+B,08/02/04,Vila Nova,1-0,Anapolina
+B,11/02/04,Novo Horizonte,5-2,Real-GO
+B,11/02/04,Anapolina,2-2,Vila Nova
+B,11/02/04,Jataiense,4-0,Anápolis
+B,11/02/04,Grémio Inhumense,1-3,Rioverdense
+B,11/02/04,Itumbiara,0-2,Goiatuba EC
+B,11/02/04,Goiás,1-0,CRAC
+B,15/02/04,Anápolis,0-6,Anapolina
+B,15/02/04,Itumbiara,2-1,Real-GO
+B,15/02/04,Rioverdense,3-1,Novo Horizonte
+B,15/02/04,Goiatuba EC,0-1,Jataiense
+B,15/02/04,CRAC,0-1,Grémio Inhumense
+B,15/02/04,Vila Nova,1-1,Goiás
+B,18/02/04,Real-GO,2-3,Anapolina
+B,18/02/04,CRAC,1-0,Itumbiara
+B,18/02/04,Vila Nova,0-1,Jataiense
+B,18/02/04,Anápolis,1-1,Grémio Inhumense
+B,21/02/04,Goiás,2-1,Real-GO
+B,21/02/04,Itumbiara,3-1,Rioverdense
+B,22/02/04,Novo Horizonte,1-2,Anápolis
+B,22/02/04,Jataiense,2-2,CRAC
+B,22/02/04,Grémio Inhumense,1-2,Vila Nova
+B,22/02/04,Anapolina,1-2,Goiatuba EC
+B,26/02/04,Novo Horizonte,1-1,Vila Nova
+B,26/02/04,Goiás,3-0,Goiatuba EC
+B,26/02/04,Grémio Inhumense,2-0,Real-GO
+B,26/02/04,Itumbiara,3-0,Anápolis
+B,26/02/04,Anapolina,1-2,CRAC
+B,26/02/04,Jataiense,2-2,Rioverdense
+B,29/02/04,Anápolis,1-5,Goiás
+B,29/02/04,Rioverdense,0-1,Anapolina
+B,29/02/04,CRAC,4-1,Novo Horizonte
+B,29/02/04,Real-GO,1-5,Jataiense
+B,29/02/04,Goiatuba EC,2-2,Grémio Inhumense
+B,29/02/04,Vila Nova,2-0,Itumbiara
+B,06/03/04,Real-GO,0-2,Anápolis
+A,07/03/04,Novo Horizonte,4-2,Goiás
+A,07/03/04,Jataiense,2-0,Grémio Inhumense
+A,07/03/04,Anapolina,4-4,Itumbiara
+B,07/03/04,Goiatuba EC,1-1,Rioverdense
+B,07/03/04,Vila Nova,1-0,CRAC
+A,10/03/04,Goiás,3-0,Anapolina
+A,10/03/04,Itumbiara,1-3,Jataiense
+A,10/03/04,Grémio Inhumense,1-1,Novo Horizonte
+B,10/03/04,CRAC,5-2,Real-GO
+B,10/03/04,Anápolis,2-2,Goiatuba EC
+B,11/03/04,Vila Nova,2-0,Rioverdense
+A,13/03/04,Anapolina,0-2,Grémio Inhumense
+A,13/03/04,Goiás,2-0,Itumbiara
+A,14/03/04,Novo Horizonte,2-3,Jataiense
+B,14/03/04,Rioverdense,1-1,CRAC
+B,14/03/04,Anápolis,0-1,Vila Nova
+B,14/03/04,Real-GO,5-2,Goiatuba EC
+A,20/03/04,Grémio Inhumense,1-1,Itumbiara
+A,21/03/04,Jataiense,1-2,Goiás
+A,21/03/04,Novo Horizonte,1-1,Anapolina
+B,21/03/04,Goiatuba EC,1-4,CRAC
+B,21/03/04,Anápolis,1-0,Rioverdense
+B,21/03/04,Real-GO,1-8,Vila Nova
+A,23/03/04,Goiás,1-2,Grémio Inhumense
+B,24/03/04,Vila Nova,3-0,Goiatuba EC
+A,24/03/04,Anapolina,0-0,Jataiense
+A,24/03/04,Itumbiara,2-1,Novo Horizonte
+B,24/03/04,CRAC,3-1,Anápolis
+SF,28/03/04,CRAC,3-0,Goiás
+SF,28/03/04,Jataiense,2-2,Vila Nova
+SF,04/04/04,Goiás,2-0,CRAC
+SF,04/04/04,Vila Nova,0-0(3-0 Pen.),Jataiense
+F,11/04/04,Vila Nova,2-1,CRAC
+F,18/04/04,CRAC,3-0(5-4 Pen.),Vila Nova

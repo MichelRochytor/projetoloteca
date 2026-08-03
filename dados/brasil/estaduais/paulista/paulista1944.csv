@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,19/03/44,Corinthians,7-3,Comercial Paulistano
+C,19/03/44,Ypiranga-SP,4-1,Portuguesa Santista
+C,19/03/44,Portuguesa,1-1,SPRAC
+C,19/03/44,Santos,2-2,Juventus-SP
+C,24/03/44,Santos,7-0,Comercial Paulistano
+C,25/03/44,Jabaquara,0-1,SPRAC
+C,26/03/44,Juventus-SP,2-1,Portuguesa Santista
+C,26/03/44,Palmeiras,2-2,Ypiranga-SP
+C,26/03/44,Portuguesa,1-1,São Paulo
+C,01/04/44,SPRAC,2-8,São Paulo
+C,02/04/44,Portuguesa Santista,1-0,Palmeiras
+C,02/04/44,Comercial Paulistano,3-2,Jabaquara
+C,02/04/44,Ypiranga-SP,2-3,Portuguesa
+C,02/04/44,Corinthians,3-3,Juventus-SP
+C,08/04/44,Ypiranga-SP,1-0,São Paulo
+C,09/04/44,Comercial Paulistano,3-2,SPRAC
+C,09/04/44,Portuguesa,1-2,Juventus-SP
+C,09/04/44,Jabaquara,2-1,Corinthians
+C,09/04/44,Palmeiras,2-1,Santos
+C,15/04/44,Juventus-SP,1-0,Ypiranga-SP
+C,16/04/44,Jabaquara,0-2,Palmeiras
+C,16/04/44,São Paulo,1-0,Comercial Paulistano
+C,16/04/44,Corinthians,6-1,Portuguesa Santista
+C,21/04/44,São Paulo,6-2,Jabaquara
+C,22/04/44,Comercial Paulistano,1-3,Palmeiras
+C,23/04/44,Santos,0-2,Ypiranga-SP
+C,23/04/44,Juventus-SP,1-4,SPRAC
+C,23/04/44,Portuguesa,1-3,Corinthians
+C,30/04/44,Corinthians,1-4,Palmeiras
+C,30/04/44,Portuguesa Santista,2-3,Santos
+C,01/05/44,Jabaquara,1-0,Portuguesa
+C,27/05/44,Comercial Paulistano,0-2,Juventus-SP
+C,28/05/44,Portuguesa Santista,4-7,São Paulo
+C,28/05/44,Portuguesa,2-2,Santos
+C,28/05/44,Corinthians,3-3,SPRAC
+C,28/05/44,Ypiranga-SP,3-1,Jabaquara
+C,04/06/44,Palmeiras,3-3,São Paulo
+C,04/06/44,Santos,0-1,SPRAC
+C,08/06/44,Portuguesa Santista,4-3,Jabaquara
+C,08/06/44,Palmeiras,2-0,SPRAC
+C,11/06/44,São Paulo,1-0,Juventus-SP
+C,11/06/44,Comercial Paulistano,2-1,Ypiranga-SP
+C,11/06/44,Santos,1-1,Corinthians
+C,18/06/44,Portuguesa Santista,2-0,Comercial Paulistano
+C,18/06/44,Juventus-SP,5-4,Jabaquara
+C,18/06/44,São Paulo,9-1,Santos
+C,18/06/44,Palmeiras,5-1,Portuguesa
+C,18/06/44,Ypiranga-SP,2-1,SPRAC
+C,24/06/44,Corinthians,2-2,Ypiranga-SP
+C,25/06/44,Santos,2-1,Jabaquara
+C,25/06/44,Palmeiras,2-0,Juventus-SP
+C,25/06/44,SPRAC,5-3,Portuguesa Santista
+C,25/06/44,Portuguesa,1-1,Comercial Paulistano
+C,02/07/44,São Paulo,0-1,Corinthians
+C,02/07/44,Portuguesa Santista,3-3,Portuguesa
+C,08/07/44,Comercial Paulistano,3-2,Corinthians
+C,09/07/44,Juventus-SP,1-3,Santos
+C,09/07/44,Palmeiras,3-1,Portuguesa Santista
+C,09/07/44,Jabaquara,3-2,São Paulo
+C,09/07/44,Portuguesa,2-3,SPRAC
+C,15/07/44,Ypiranga-SP,1-0,Palmeiras
+C,16/07/44,SPRAC,3-1,Jabaquara
+C,16/07/44,Portuguesa Santista,2-2,Juventus-SP
+C,16/07/44,São Paulo,4-1,Portuguesa
+C,22/07/44,São Paulo,3-3,Portuguesa Santista
+C,23/07/44,Palmeiras,3-0,SPRAC
+C,23/07/44,Santos,1-1,Comercial Paulistano
+C,23/07/44,Corinthians,5-1,Juventus-SP
+C,29/07/44,Juventus-SP,2-2,SPRAC
+C,30/07/44,Comercial Paulistano,2-1,Portuguesa
+C,30/07/44,Corinthians,2-1,Santos
+C,30/07/44,Jabaquara,1-2,Ypiranga-SP
+C,05/08/44,Ypiranga-SP,0-0,Juventus-SP
+C,06/08/44,Santos,0-1,São Paulo
+C,06/08/44,Comercial Paulistano,6-2,Portuguesa Santista
+C,06/08/44,Portuguesa,0-1,Palmeiras
+C,13/08/44,São Paulo,3-1,Ypiranga-SP
+C,13/08/44,Palmeiras,5-1,Comercial Paulistano
+C,13/08/44,Santos,4-2,Portuguesa Santista
+C,15/08/44,SPRAC,1-2,Corinthians
+C,19/08/44,Juventus-SP,3-4,São Paulo
+C,20/08/44,Corinthians,3-1,Jabaquara
+C,20/08/44,Portuguesa Santista,2-3,SPRAC
+C,20/08/44,Portuguesa,0-4,Ypiranga-SP
+C,27/08/44,Palmeiras,1-2,Corinthians
+C,27/08/44,Santos,2-2,Portuguesa
+C,02/09/44,Ypiranga-SP,1-3,Corinthians
+C,03/09/44,Jabaquara,2-3,Santos
+C,03/09/44,Juventus-SP,3-1,Portuguesa
+C,03/09/44,São Paulo,5-2,Comercial Paulistano
+C,09/09/44,Portuguesa,3-2,Jabaquara
+C,10/09/44,SPRAC,5-3,Santos
+C,10/09/44,Palmeiras,6-3,Juventus-SP
+C,10/09/44,Portuguesa Santista,1-2,Ypiranga-SP
+C,17/09/44,Jabaquara,1-2,Comercial Paulistano
+C,17/09/44,São Paulo,1-3,Palmeiras
+C,23/09/44,São Paulo,6-1,SPRAC
+C,24/09/44,Ypiranga-SP,3-2,Comercial Paulistano
+C,24/09/44,Corinthians,4-2,Portuguesa
+C,24/09/44,Portuguesa Santista,1-6,Jabaquara
+C,01/10/44,Portuguesa Santista,0-4,Corinthians
+C,01/10/44,Comercial Paulistano,2-0,SPRAC
+C,01/10/44,Ypiranga-SP,2-3,Santos
+C,01/10/44,Palmeiras,2-0,Jabaquara
+C,08/10/44,Portuguesa,3-1,Portuguesa Santista
+C,08/10/44,Santos,0-1,Palmeiras
+C,08/10/44,Juventus-SP,4-3,Comercial Paulistano
+C,08/10/44,Ypiranga-SP,2-3,SPRAC
+C,15/10/44,Jabaquara,5-2,Juventus-SP
+C,15/10/44,São Paulo,4-0,Corinthians

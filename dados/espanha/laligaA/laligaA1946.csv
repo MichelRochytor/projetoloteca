@@ -1,0 +1,183 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,22/09/46,Valencia,1-0,CE Sabadell
+1,22/09/46,Athletic Bilbao,4-1,Espanyol
+1,22/09/46,Atlético Aviación,2-2,Sporting Gijón
+1,22/09/46,Barcelona,1-1,Celta de Vigo
+1,22/09/46,Real Oviedo,0-0,Real Madrid
+1,22/09/46,Real Murcia,2-0,Castellón
+1,22/09/46,Deportivo,0-0,Sevilla
+2,29/09/46,CE Sabadell,1-1,Atlético Aviación
+2,29/09/46,Sevilla,3-1,Barcelona
+2,29/09/46,Real Madrid,5-0,Real Murcia
+2,29/09/46,Celta de Vigo,1-2,Valencia
+2,29/09/46,Sporting Gijón,1-1,Real Oviedo
+2,29/09/46,Espanyol,3-1,Deportivo
+2,29/09/46,Castellón,2-2,Athletic Bilbao
+3,06/10/46,Valencia,4-1,Sevilla
+3,06/10/46,Athletic Bilbao,2-0,Real Madrid
+3,06/10/46,Atlético Aviación,3-2,Celta de Vigo
+3,06/10/46,Real Oviedo,0-1,CE Sabadell
+3,06/10/46,Espanyol,5-0,Castellón
+3,06/10/46,Real Murcia,5-4,Sporting Gijón
+3,06/10/46,Deportivo,3-2,Barcelona
+4,13/10/46,Barcelona,2-1,Valencia
+4,13/10/46,CE Sabadell,1-1,Real Murcia
+4,13/10/46,Sevilla,1-2,Atlético Aviación
+4,13/10/46,Real Madrid,2-0,Espanyol
+4,13/10/46,Celta de Vigo,3-3,Real Oviedo
+4,13/10/46,Sporting Gijón,1-0,Athletic Bilbao
+4,13/10/46,Castellón,1-1,Deportivo
+5,20/10/46,Athletic Bilbao,2-1,CE Sabadell
+5,20/10/46,Atlético Aviación,2-2,Barcelona
+5,20/10/46,Real Oviedo,4-2,Sevilla
+5,20/10/46,Espanyol,2-1,Sporting Gijón
+5,20/10/46,Real Murcia,0-2,Celta de Vigo
+5,20/10/46,Deportivo,0-0,Valencia
+5,20/10/46,Castellón,2-3,Real Madrid
+6,27/10/46,Valencia,0-2,Atlético Aviación
+6,27/10/46,Barcelona,2-0,Real Oviedo
+6,27/10/46,CE Sabadell,3-1,Espanyol
+6,27/10/46,Sevilla,1-1,Real Murcia
+6,27/10/46,Real Madrid,5-0,Deportivo
+6,27/10/46,Celta de Vigo,3-2,Athletic Bilbao
+6,27/10/46,Sporting Gijón,4-0,Castellón
+7,03/11/46,Athletic Bilbao,5-0,Sevilla
+7,03/11/46,Real Madrid,4-0,Sporting Gijón
+7,03/11/46,Real Oviedo,4-1,Valencia
+7,03/11/46,Espanyol,2-0,Celta de Vigo
+7,03/11/46,Real Murcia,0-1,Barcelona
+7,03/11/46,Deportivo,1-0,Atlético Aviación
+7,03/11/46,Castellón,4-0,CE Sabadell
+8,10/11/46,Valencia,1-2,Real Murcia
+8,10/11/46,Atlético Aviación,5-2,Real Oviedo
+8,10/11/46,Barcelona,2-1,Athletic Bilbao
+8,10/11/46,CE Sabadell,3-3,Real Madrid
+8,10/11/46,Sevilla,3-1,Espanyol
+8,10/11/46,Celta de Vigo,0-0,Castellón
+8,10/11/46,Sporting Gijón,2-0,Deportivo
+9,17/11/46,Athletic Bilbao,0-1,Valencia
+9,17/11/46,Real Madrid,3-3,Celta de Vigo
+9,17/11/46,Sporting Gijón,3-1,CE Sabadell
+9,17/11/46,Espanyol,0-1,Barcelona
+9,17/11/46,Real Murcia,1-2,Atlético Aviación
+9,17/11/46,Deportivo,2-2,Real Oviedo
+9,17/11/46,Castellón,1-4,Sevilla
+10,24/11/46,Valencia,3-2,Espanyol
+10,24/11/46,Atlético Aviación,4-0,Athletic Bilbao
+10,24/11/46,Barcelona,3-3,Castellón
+10,24/11/46,CE Sabadell,3-0,Deportivo
+10,24/11/46,Sevilla,5-0,Real Madrid
+10,24/11/46,Real Oviedo,3-0,Real Murcia
+10,24/11/46,Celta de Vigo,6-2,Sporting Gijón
+11,01/12/46,Athletic Bilbao,4-1,Real Oviedo
+11,01/12/46,CE Sabadell,2-0,Celta de Vigo
+11,01/12/46,Real Madrid,2-1,Barcelona
+11,01/12/46,Sporting Gijón,1-4,Sevilla
+11,01/12/46,Espanyol,4-1,Atlético Aviación
+11,01/12/46,Deportivo,3-1,Real Murcia
+11,01/12/46,Castellón,2-4,Valencia
+12,08/12/46,Valencia,4-1,Real Madrid
+12,08/12/46,Atlético Aviación,3-2,Castellón
+12,08/12/46,Barcelona,4-1,Sporting Gijón
+12,08/12/46,Sevilla,4-0,CE Sabadell
+12,08/12/46,Real Oviedo,4-0,Espanyol
+12,08/12/46,Real Murcia,2-4,Athletic Bilbao
+12,08/12/46,Deportivo,1-4,Celta de Vigo
+13,15/12/46,Athletic Bilbao,6-0,Deportivo
+13,15/12/46,CE Sabadell,1-4,Barcelona
+13,15/12/46,Real Madrid,1-2,Atlético Aviación
+13,15/12/46,Celta de Vigo,3-0,Sevilla
+13,15/12/46,Sporting Gijón,4-1,Valencia
+13,15/12/46,Espanyol,2-3,Real Murcia
+13,15/12/46,Castellón,3-3,Real Oviedo
+14,29/12/46,CE Sabadell,3-0,Valencia
+14,29/12/46,Sevilla,4-0,Deportivo
+14,29/12/46,Real Madrid,2-0,Real Oviedo
+14,29/12/46,Celta de Vigo,2-1,Barcelona
+14,29/12/46,Sporting Gijón,1-2,Atlético Aviación
+14,29/12/46,Espanyol,0-3,Athletic Bilbao
+14,29/12/46,Castellón,1-0,Real Murcia
+15,01/01/47,Athletic Bilbao,6-0,Castellón
+15,05/01/47,Valencia,2-1,Celta de Vigo
+15,05/01/47,Barcelona,5-1,Sevilla
+15,07/01/47,Atlético Aviación,1-3,CE Sabadell
+15,07/01/47,Real Oviedo,3-2,Sporting Gijón
+15,07/01/47,Real Murcia,1-1,Real Madrid
+15,07/01/47,Deportivo,1-0,Espanyol
+16,12/01/47,Barcelona,5-0,Deportivo
+16,12/01/47,CE Sabadell,1-1,Real Oviedo
+16,12/01/47,Sevilla,3-1,Valencia
+16,12/01/47,Real Madrid,3-6,Athletic Bilbao
+16,12/01/47,Celta de Vigo,0-4,Atlético Aviación
+16,12/01/47,Sporting Gijón,4-1,Real Murcia
+16,12/01/47,Castellón,4-3,Espanyol
+17,19/01/47,Valencia,4-0,Barcelona
+17,19/01/47,Athletic Bilbao,6-2,Sporting Gijón
+17,19/01/47,Atlético Aviación,1-1,Sevilla
+17,19/01/47,Real Oviedo,2-0,Celta de Vigo
+17,19/01/47,Espanyol,4-2,Real Madrid
+17,19/01/47,Real Murcia,0-0,CE Sabadell
+17,19/01/47,Deportivo,8-1,Castellón
+18,02/02/47,Valencia,3-0,Deportivo
+18,02/02/47,Barcelona,3-2,Atlético Aviación
+18,02/02/47,CE Sabadell,1-1,Athletic Bilbao
+18,02/02/47,Sevilla,2-1,Real Oviedo
+18,02/02/47,Real Madrid,7-4,Castellón
+18,02/02/47,Celta de Vigo,6-0,Real Murcia
+18,02/02/47,Sporting Gijón,1-1,Espanyol
+19,09/02/47,Athletic Bilbao,3-2,Celta de Vigo
+19,09/02/47,Atlético Aviación,1-1,Valencia
+19,09/02/47,Real Oviedo,2-3,Barcelona
+19,09/02/47,Espanyol,1-2,CE Sabadell
+19,09/02/47,Real Murcia,1-1,Sevilla
+19,09/02/47,Deportivo,2-2,Real Madrid
+19,09/02/47,Castellón,0-2,Sporting Gijón
+20,16/02/47,Valencia,4-1,Real Oviedo
+20,16/02/47,Atlético Aviación,3-1,Deportivo
+20,16/02/47,Barcelona,6-2,Real Murcia
+20,16/02/47,CE Sabadell,4-1,Castellón
+20,16/02/47,Sevilla,2-2,Athletic Bilbao
+20,16/02/47,Celta de Vigo,3-2,Espanyol
+20,16/02/47,Sporting Gijón,2-1,Real Madrid
+21,09/03/47,Athletic Bilbao,1-0,Barcelona
+21,09/03/47,Real Madrid,1-3,CE Sabadell
+21,09/03/47,Real Oviedo,4-0,Atlético Aviación
+21,09/03/47,Espanyol,4-0,Sevilla
+21,09/03/47,Real Murcia,1-0,Valencia
+21,09/03/47,Deportivo,1-1,Sporting Gijón
+21,11/03/47,Castellón,1-2,Celta de Vigo
+22,16/03/47,Valencia,1-0,Athletic Bilbao
+22,16/03/47,Atlético Aviación,2-2,Real Murcia
+22,16/03/47,Barcelona,5-0,Espanyol
+22,16/03/47,CE Sabadell,2-2,Sporting Gijón
+22,16/03/47,Sevilla,4-2,Castellón
+22,16/03/47,Real Oviedo,3-1,Deportivo
+22,16/03/47,Celta de Vigo,3-4,Real Madrid
+23,23/03/47,Athletic Bilbao,3-1,Atlético Aviación
+23,23/03/47,Real Madrid,3-0,Sevilla
+23,23/03/47,Sporting Gijón,3-0,Celta de Vigo
+23,23/03/47,Espanyol,1-2,Valencia
+23,23/03/47,Real Murcia,0-0,Real Oviedo
+23,23/03/47,Deportivo,1-1,CE Sabadell
+23,23/03/47,Castellón,4-1,Barcelona
+24,30/03/47,Valencia,3-0,Castellón
+24,30/03/47,Atlético Aviación,8-3,Espanyol
+24,30/03/47,Barcelona,3-2,Real Madrid
+24,30/03/47,Sevilla,5-2,Sporting Gijón
+24,30/03/47,Real Oviedo,3-0,Athletic Bilbao
+24,30/03/47,Real Murcia,1-0,Deportivo
+25,06/04/47,Athletic Bilbao,6-2,Real Murcia
+25,06/04/47,CE Sabadell,3-1,Sevilla
+25,06/04/47,Real Madrid,2-4,Valencia
+25,06/04/47,Celta de Vigo,4-2,Deportivo
+25,06/04/47,Sporting Gijón,3-1,Barcelona
+25,06/04/47,Espanyol,2-1,Real Oviedo
+25,06/04/47,Castellón,0-2,Atlético Aviación
+26,13/04/47,Valencia,6-0,Sporting Gijón
+26,13/04/47,Atlético Aviación,2-3,Real Madrid
+26,13/04/47,Barcelona,0-1,CE Sabadell
+26,13/04/47,Sevilla,2-0,Celta de Vigo
+26,13/04/47,Real Oviedo,4-1,Castellón
+26,13/04/47,Real Murcia,1-2,Espanyol
+26,13/04/47,Deportivo,3-3,Athletic Bilbao
+24,23/04/47,Celta de Vigo,2-1,CE Sabadell

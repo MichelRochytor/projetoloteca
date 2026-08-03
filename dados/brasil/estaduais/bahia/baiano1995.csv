@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+2T,-,Bahia,5-0,Cruzeiro-BA
+2T,-,Juazeiro,1-0,Vitória
+2T,-,Atlético-BA,2-0,Conquista-BA
+2T,-,Camaçari,0-0,Fluminense de Feira
+2T,-,Poções,0-1,Colo Colo-BA
+1T,11/03/00,Atlético-BA,0-1,Vitória
+1T,12/03/00,Bahia,1-0,Conquista-BA
+1T,12/03/00,Juazeiro,0-0,Cruzeiro-BA
+1T,12/03/00,Camaçari,4-1,Colo Colo-BA
+1T,12/03/00,Poções,4-1,Fluminense de Feira
+1T,18/03/00,Fluminense de Feira,1-4,Bahia
+1T,19/03/00,Vitória,2-0,Colo Colo-BA
+1T,19/03/00,Juazeiro,2-1,Atlético-BA
+1T,19/03/00,Conquista-BA,2-2,Poções
+1T,19/03/00,Cruzeiro-BA,0-1,Camaçari
+1T,25/03/00,Poções,1-0,Vitória
+1T,26/03/00,Atlético-BA,0-2,Fluminense de Feira
+1T,26/03/00,Bahia,4-0,Camaçari
+1T,26/03/00,Conquista-BA,1-2,Juazeiro
+1T,26/03/00,Colo Colo-BA,1-2,Cruzeiro-BA
+1T,01/04/00,Atlético-BA,1-2,Poções
+1T,01/04/00,Vitória,0-0,Bahia
+1T,01/04/00,Fluminense de Feira,4-0,Cruzeiro-BA
+1T,01/04/00,Colo Colo-BA,0-0,Juazeiro
+1T,01/04/00,Camaçari,1-1,Conquista-BA
+1T,01/04/00,Camaçari,1-4,Vitória
+1T,01/04/00,Bahia,3-1,Poções
+1T,01/04/00,Juazeiro,2-0,Fluminense de Feira
+1T,01/04/00,Conquista-BA,1-2,Colo Colo-BA
+1T,01/04/00,Cruzeiro-BA,2-0,Atlético-BA
+1T,08/04/00,Colo Colo-BA,0-1,Bahia
+1T,09/04/00,Vitória,3-1,Cruzeiro-BA
+1T,09/04/00,Atlético-BA,1-0,Camaçari
+1T,09/04/00,Poções,2-2,Juazeiro
+1T,09/04/00,Fluminense de Feira,0-0,Conquista-BA
+1T,15/04/00,Juazeiro,1-0,Bahia
+1T,16/04/00,Atlético-BA,0-1,Colo Colo-BA
+1T,16/04/00,Vitória,2-1,Fluminense de Feira
+1T,16/04/00,Camaçari,3-1,Poções
+1T,16/04/00,Cruzeiro-BA,2-2,Conquista-BA
+1T,16/04/00,Conquista-BA,0-0,Vitória
+1T,16/04/00,Bahia,1-2,Atlético-BA
+1T,16/04/00,Juazeiro,1-0,Camaçari
+1T,16/04/00,Poções,0-2,Cruzeiro-BA
+1T,16/04/00,Fluminense de Feira,2-1,Colo Colo-BA
+1T,22/04/00,Cruzeiro-BA,2-2,Bahia
+1T,22/04/00,Vitória,3-1,Juazeiro
+1T,23/04/00,Conquista-BA,0-0,Atlético-BA
+1T,23/04/00,Fluminense de Feira,2-4,Camaçari
+1T,23/04/00,Colo Colo-BA,1-2,Poções
+F,30/04/00,Juazeiro,2-0,Vitória
+F,06/05/00,Vitória,2-0,Juazeiro
+2T,13/05/00,Atlético-BA,0-2,Bahia
+2T,14/05/00,Vitória,4-1,Conquista-BA
+2T,14/05/00,Camaçari,3-2,Juazeiro
+2T,14/05/00,Cruzeiro-BA,3-3,Poções
+2T,14/05/00,Colo Colo-BA,1-1,Fluminense de Feira
+2T,17/05/00,Bahia,6-1,Juazeiro
+2T,17/05/00,Poções,3-1,Camaçari
+2T,17/05/00,Conquista-BA,2-3,Cruzeiro-BA
+2T,17/05/00,Colo Colo-BA,2-1,Atlético-BA
+2T,17/05/00,Fluminense de Feira,1-2,Vitória
+2T,20/05/00,Cruzeiro-BA,1-2,Vitória
+2T,21/05/00,Bahia,4-0,Colo Colo-BA
+2T,21/05/00,Juazeiro,5-1,Poções
+2T,21/05/00,Conquista-BA,0-1,Fluminense de Feira
+2T,21/05/00,Camaçari,3-0,Atlético-BA
+2T,24/05/00,Vitória,2-1,Camaçari
+2T,24/05/00,Fluminense de Feira,1-0,Juazeiro
+2T,24/05/00,Colo Colo-BA,0-0,Conquista-BA
+2T,24/05/00,Atlético-BA,2-1,Cruzeiro-BA
+2T,31/05/00,Vitória,6-2,Poções
+2T,31/05/00,Juazeiro,3-0,Conquista-BA
+2T,31/05/00,Fluminense de Feira,0-0,Atlético-BA
+2T,31/05/00,Cruzeiro-BA,2-1,Colo Colo-BA
+2T,03/06/00,Colo Colo-BA,0-0,Vitória
+2T,03/06/00,Bahia,3-2,Fluminense de Feira
+2T,03/06/00,Poções,6-0,Conquista-BA
+2T,03/06/00,Camaçari,1-2,Cruzeiro-BA
+2T,04/06/00,Atlético-BA,1-2,Juazeiro
+2T,04/06/00,Conquista-BA,0-4,Bahia
+2T,04/06/00,Vitória,3-0,Atlético-BA
+2T,04/06/00,Cruzeiro-BA,3-1,Juazeiro
+2T,04/06/00,Colo Colo-BA,1-2,Camaçari
+2T,04/06/00,Fluminense de Feira,1-3,Poções
+2T,06/06/00,Camaçari,1-0,Bahia
+2T,09/06/00,Poções,1-2,Bahia
+2T,09/06/00,Juazeiro,1-1,Colo Colo-BA
+2T,09/06/00,Bahia,2-1,Vitória
+2T,09/06/00,Cruzeiro-BA,4-0,Fluminense de Feira
+2T,09/06/00,Poções,2-1,Atlético-BA
+2T,09/06/00,Conquista-BA,0-2,Camaçari
+F,14/06/00,Vitória,2-1,Bahia
+F,18/06/00,Bahia,3-0,Vitória
+F,25/06/00,Bahia,1-1,Vitória
+F,02/07/00,Vitória,3-1,Bahia

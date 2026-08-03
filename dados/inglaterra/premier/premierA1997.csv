@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/08/97,Leeds United,1-1,Arsenal
+1,09/08/97,Blackburn Rovers,1-0,Derby County
+1,09/08/97,Leicester City,1-0,Aston Villa
+1,09/08/97,Coventry City,3-2,Chelsea
+1,09/08/97,Southampton,0-1,Bolton Wanderers
+1,09/08/97,Newcastle,2-1,Sheffield Wed.
+1,09/08/97,Everton,1-2,Crystal Palace
+1,09/08/97,Barnsley,1-2,West Ham
+1,09/08/97,Wimbledon,1-1,Liverpool
+1,10/08/97,Tottenham,0-2,Manchester United
+2,11/08/97,Arsenal,2-0,Coventry City
+2,12/08/97,Crystal Palace,0-1,Barnsley
+2,13/08/97,Manchester United,1-0,Southampton
+2,13/08/97,Liverpool,1-2,Leicester City
+2,13/08/97,Aston Villa,0-4,Blackburn Rovers
+2,13/08/97,West Ham,2-1,Tottenham
+2,13/08/97,Sheffield Wed.,1-3,Leeds United
+3,23/08/97,Leeds United,0-2,Crystal Palace
+3,23/08/97,Blackburn Rovers,1-1,Liverpool
+3,23/08/97,Leicester City,0-0,Manchester United
+3,23/08/97,Coventry City,2-2,Bolton Wanderers
+3,23/08/97,Southampton,1-3,Arsenal
+3,23/08/97,Newcastle,1-0,Aston Villa
+3,23/08/97,Tottenham,1-0,Derby County
+3,23/08/97,Everton,2-1,West Ham
+3,23/08/97,Wimbledon,1-1,Sheffield Wed.
+3,24/08/97,Barnsley,0-6,Chelsea
+4,25/08/97,Blackburn Rovers,7-2,Sheffield Wed.
+4,26/08/97,Leeds United,0-2,Liverpool
+4,27/08/97,Coventry City,1-1,West Ham
+4,27/08/97,Southampton,1-0,Crystal Palace
+4,27/08/97,Wimbledon,0-2,Chelsea
+4,27/08/97,Leicester City,3-3,Arsenal
+4,27/08/97,Tottenham,3-2,Aston Villa
+4,27/08/97,Everton,0-2,Manchester United
+4,27/08/97,Barnsley,2-1,Bolton Wanderers
+5,30/08/97,Arsenal,0-0,Tottenham
+5,30/08/97,Manchester United,3-0,Coventry City
+5,30/08/97,Chelsea,4-2,Southampton
+5,30/08/97,Aston Villa,1-0,Leeds United
+5,30/08/97,Derby County,1-0,Barnsley
+5,30/08/97,Sheffield Wed.,1-0,Leicester City
+5,30/08/97,Crystal Palace,1-2,Blackburn Rovers
+5,30/08/97,West Ham,3-1,Wimbledon
+5,01/09/97,Bolton Wanderers,0-0,Everton
+6,13/09/97,Arsenal,4-1,Bolton Wanderers
+6,13/09/97,Manchester United,2-1,West Ham
+6,13/09/97,Liverpool,2-1,Sheffield Wed.
+6,13/09/97,Derby County,3-1,Everton
+6,13/09/97,Leicester City,3-0,Tottenham
+6,13/09/97,Coventry City,1-0,Southampton
+6,13/09/97,Barnsley,0-3,Aston Villa
+6,13/09/97,Crystal Palace,0-3,Chelsea
+6,13/09/97,Newcastle,1-3,Wimbledon
+6,14/09/97,Blackburn Rovers,3-4,Leeds United
+7,20/09/97,Leeds United,0-1,Leicester City
+7,20/09/97,Aston Villa,2-1,Derby County
+7,20/09/97,West Ham,0-1,Newcastle
+7,20/09/97,Southampton,1-1,Liverpool
+7,20/09/97,Tottenham,0-0,Blackburn Rovers
+7,20/09/97,Sheffield Wed.,0-0,Coventry City
+7,20/09/97,Everton,4-2,Barnsley
+7,20/09/97,Bolton Wanderers,0-0,Manchester United
+7,20/09/97,Wimbledon,0-1,Crystal Palace
+7,21/09/97,Chelsea,2-3,Arsenal
+8,22/09/97,Liverpool,3-0,Aston Villa
+8,23/09/97,Wimbledon,4-1,Barnsley
+8,23/09/97,Bolton Wanderers,1-1,Tottenham
+8,24/09/97,Leicester City,1-1,Blackburn Rovers
+8,24/09/97,Coventry City,1-1,Crystal Palace
+8,24/09/97,Southampton,0-2,Leeds United
+8,24/09/97,Newcastle,1-0,Everton
+8,24/09/97,Sheffield Wed.,2-5,Derby County
+8,24/09/97,Arsenal,4-0,West Ham
+8,24/09/97,Manchester United,2-2,Chelsea
+9,27/09/97,Chelsea,1-0,Newcastle
+9,27/09/97,Leeds United,1-0,Manchester United
+9,27/09/97,Aston Villa,2-2,Sheffield Wed.
+9,27/09/97,West Ham,2-1,Liverpool
+9,27/09/97,Derby County,4-0,Southampton
+9,27/09/97,Everton,2-2,Arsenal
+9,27/09/97,Barnsley,0-2,Leicester City
+9,27/09/97,Crystal Palace,2-2,Bolton Wanderers
+9,27/09/97,Tottenham,0-0,Wimbledon
+9,28/09/97,Blackburn Rovers,0-0,Coventry City
+10,04/10/97,Arsenal,5-0,Barnsley
+10,04/10/97,Manchester United,2-0,Crystal Palace
+10,04/10/97,Coventry City,0-0,Leeds United
+10,04/10/97,Southampton,3-0,West Ham
+10,04/10/97,Newcastle,1-0,Tottenham
+10,04/10/97,Sheffield Wed.,3-1,Everton
+10,04/10/97,Bolton Wanderers,0-1,Aston Villa
+10,04/10/97,Wimbledon,0-1,Blackburn Rovers
+10,05/10/97,Liverpool,4-2,Chelsea
+10,06/10/97,Leicester City,1-2,Derby County
+11,18/10/97,Chelsea,1-0,Leicester City
+11,18/10/97,Leeds United,4-1,Newcastle
+11,18/10/97,Blackburn Rovers,1-0,Southampton
+11,18/10/97,West Ham,3-0,Bolton Wanderers
+11,18/10/97,Derby County,2-2,Manchester United
+11,18/10/97,Everton,2-0,Liverpool
+11,18/10/97,Crystal Palace,0-0,Arsenal
+11,18/10/97,Aston Villa,1-2,Wimbledon
+11,19/10/97,Tottenham,3-2,Sheffield Wed.
+11,20/10/97,Barnsley,2-0,Coventry City
+2,22/10/97,Derby County,1-1,Wimbledon
+12,25/10/97,Manchester United,7-0,Barnsley
+12,25/10/97,Liverpool,4-0,Derby County
+12,25/10/97,Coventry City,0-0,Everton
+12,25/10/97,Southampton,3-2,Tottenham
+12,25/10/97,Newcastle,1-1,Blackburn Rovers
+12,25/10/97,Sheffield Wed.,1-3,Crystal Palace
+12,25/10/97,Wimbledon,1-0,Leeds United
+12,26/10/97,Bolton Wanderers,1-0,Chelsea
+12,26/10/97,Arsenal,0-0,Aston Villa
+12,27/10/97,Leicester City,2-1,West Ham
+13,01/11/97,Manchester United,6-1,Sheffield Wed.
+13,01/11/97,Aston Villa,0-2,Chelsea
+13,01/11/97,Derby County,3-0,Arsenal
+13,01/11/97,Newcastle,3-3,Leicester City
+13,01/11/97,Tottenham,0-1,Leeds United
+13,01/11/97,Bolton Wanderers,1-1,Liverpool
+13,01/11/97,Barnsley,1-1,Blackburn Rovers
+13,01/11/97,Wimbledon,1-2,Coventry City
+13,02/11/97,Everton,0-2,Southampton
+14,08/11/97,Liverpool,4-0,Tottenham
+14,08/11/97,Leeds United,4-3,Derby County
+14,08/11/97,Blackburn Rovers,3-2,Everton
+14,08/11/97,Coventry City,2-2,Newcastle
+14,08/11/97,Southampton,4-1,Barnsley
+14,08/11/97,Sheffield Wed.,5-0,Bolton Wanderers
+14,08/11/97,Crystal Palace,1-1,Aston Villa
+14,09/11/97,Arsenal,3-2,Manchester United
+14,09/11/97,Chelsea,2-1,West Ham
+14,10/11/97,Leicester City,0-1,Wimbledon
+15,22/11/97,Blackburn Rovers,1-0,Chelsea
+15,22/11/97,Aston Villa,2-1,Everton
+15,22/11/97,Derby County,3-1,Coventry City
+15,22/11/97,Leicester City,0-0,Bolton Wanderers
+15,22/11/97,Newcastle,2-1,Southampton
+15,22/11/97,Sheffield Wed.,2-0,Arsenal
+15,22/11/97,Wimbledon,2-5,Manchester United
+15,22/11/97,Liverpool,0-1,Barnsley
+15,23/11/97,Leeds United,3-1,West Ham
+15,24/11/97,Tottenham,0-1,Crystal Palace
+2,26/11/97,Chelsea,2-0,Everton
+16,29/11/97,Chelsea,4-0,Derby County
+16,29/11/97,West Ham,2-1,Aston Villa
+16,29/11/97,Coventry City,0-2,Leicester City
+16,29/11/97,Southampton,2-3,Sheffield Wed.
+16,29/11/97,Everton,0-2,Tottenham
+16,29/11/97,Barnsley,2-3,Leeds United
+16,29/11/97,Crystal Palace,1-2,Newcastle
+16,29/11/97,Bolton Wanderers,1-0,Wimbledon
+16,30/11/97,Manchester United,4-0,Blackburn Rovers
+16,30/11/97,Arsenal,0-1,Liverpool
+2,01/12/97,Bolton Wanderers,1-0,Newcastle
+13,03/12/97,West Ham,4-1,Crystal Palace
+17,06/12/97,Liverpool,1-3,Manchester United
+17,06/12/97,Leeds United,0-0,Everton
+17,06/12/97,Blackburn Rovers,3-1,Bolton Wanderers
+17,06/12/97,Aston Villa,3-0,Coventry City
+17,06/12/97,Derby County,2-0,West Ham
+17,06/12/97,Leicester City,1-1,Crystal Palace
+17,06/12/97,Newcastle,0-1,Arsenal
+17,06/12/97,Tottenham,1-6,Chelsea
+17,07/12/97,Wimbledon,1-0,Southampton
+17,08/12/97,Sheffield Wed.,2-1,Barnsley
+18,13/12/97,Arsenal,1-3,Blackburn Rovers
+18,13/12/97,Chelsea,0-0,Leeds United
+18,13/12/97,West Ham,1-0,Sheffield Wed.
+18,13/12/97,Coventry City,4-0,Tottenham
+18,13/12/97,Southampton,2-1,Leicester City
+18,13/12/97,Barnsley,2-2,Newcastle
+18,13/12/97,Crystal Palace,0-3,Liverpool
+18,13/12/97,Everton,0-0,Wimbledon
+18,14/12/97,Bolton Wanderers,3-3,Derby County
+18,15/12/97,Manchester United,1-0,Aston Villa
+4,17/12/97,Newcastle,0-0,Derby County
+19,20/12/97,Liverpool,1-0,Coventry City
+19,20/12/97,Leeds United,2-0,Bolton Wanderers
+19,20/12/97,Blackburn Rovers,3-0,West Ham
+19,20/12/97,Aston Villa,1-1,Southampton
+19,20/12/97,Derby County,0-0,Crystal Palace
+19,20/12/97,Leicester City,0-1,Everton
+19,20/12/97,Tottenham,3-0,Barnsley
+19,20/12/97,Sheffield Wed.,1-4,Chelsea
+19,21/12/97,Newcastle,0-1,Manchester United
+20,26/12/97,Arsenal,2-1,Leicester City
+20,26/12/97,West Ham,1-0,Coventry City
+20,26/12/97,Bolton Wanderers,1-1,Barnsley
+20,26/12/97,Crystal Palace,1-1,Southampton
+20,26/12/97,Chelsea,1-1,Wimbledon
+20,26/12/97,Manchester United,2-0,Everton
+20,26/12/97,Liverpool,3-1,Leeds United
+20,26/12/97,Derby County,1-0,Newcastle
+20,26/12/97,Sheffield Wed.,0-0,Blackburn Rovers
+20,26/12/97,Aston Villa,4-1,Tottenham
+21,28/12/97,Leeds United,1-1,Aston Villa
+21,28/12/97,Blackburn Rovers,2-2,Crystal Palace
+21,28/12/97,Leicester City,1-1,Sheffield Wed.
+21,28/12/97,Coventry City,3-2,Manchester United
+21,28/12/97,Newcastle,1-2,Liverpool
+21,28/12/97,Tottenham,1-1,Arsenal
+21,28/12/97,Everton,3-2,Bolton Wanderers
+21,28/12/97,Barnsley,1-0,Derby County
+21,28/12/97,Wimbledon,1-2,West Ham
+21,29/12/97,Southampton,1-0,Chelsea
+22,10/01/98,Arsenal,2-1,Leeds United
+22,10/01/98,Manchester United,2-0,Tottenham
+22,10/01/98,Chelsea,3-1,Coventry City
+22,10/01/98,Aston Villa,1-1,Leicester City
+22,10/01/98,West Ham,6-0,Barnsley
+22,10/01/98,Sheffield Wed.,2-1,Newcastle
+22,10/01/98,Bolton Wanderers,0-0,Southampton
+22,10/01/98,Crystal Palace,1-3,Everton
+22,10/01/98,Liverpool,2-0,Wimbledon
+22,11/01/98,Derby County,3-1,Blackburn Rovers
+23,17/01/98,Leeds United,1-2,Sheffield Wed.
+23,17/01/98,Blackburn Rovers,5-0,Aston Villa
+23,17/01/98,Leicester City,0-0,Liverpool
+23,17/01/98,Coventry City,2-2,Arsenal
+23,17/01/98,Newcastle,2-1,Bolton Wanderers
+23,17/01/98,Tottenham,1-0,West Ham
+23,17/01/98,Barnsley,1-0,Crystal Palace
+23,17/01/98,Wimbledon,0-0,Derby County
+23,18/01/98,Everton,3-1,Chelsea
+23,19/01/98,Southampton,1-0,Manchester United
+5,20/01/98,Liverpool,1-0,Newcastle
+24,31/01/98,Arsenal,3-0,Southampton
+24,31/01/98,Manchester United,0-1,Leicester City
+24,31/01/98,Liverpool,0-0,Blackburn Rovers
+24,31/01/98,Chelsea,2-0,Barnsley
+24,31/01/98,West Ham,2-2,Everton
+24,31/01/98,Derby County,2-1,Tottenham
+24,31/01/98,Bolton Wanderers,1-5,Coventry City
+24,31/01/98,Crystal Palace,0-2,Leeds United
+24,31/01/98,Sheffield Wed.,1-1,Wimbledon
+24,01/02/98,Aston Villa,0-1,Newcastle
+25,07/02/98,Manchester United,1-1,Bolton Wanderers
+25,07/02/98,Liverpool,2-3,Southampton
+25,07/02/98,Blackburn Rovers,0-3,Tottenham
+25,07/02/98,Derby County,0-1,Aston Villa
+25,07/02/98,Leicester City,1-0,Leeds United
+25,07/02/98,Coventry City,1-0,Sheffield Wed.
+25,07/02/98,Newcastle,0-1,West Ham
+25,07/02/98,Barnsley,2-2,Everton
+25,08/02/98,Arsenal,2-0,Chelsea
+25,09/02/98,Crystal Palace,0-3,Wimbledon
+26,14/02/98,Tottenham,1-1,Leicester City
+26,14/02/98,Sheffield Wed.,3-3,Liverpool
+26,14/02/98,Everton,1-2,Derby County
+26,18/02/98,Southampton,1-2,Coventry City
+34,18/02/98,Aston Villa,0-2,Manchester United
+27,21/02/98,Arsenal,1-0,Crystal Palace
+27,21/02/98,Manchester United,2-0,Derby County
+27,21/02/98,Leicester City,2-0,Chelsea
+27,21/02/98,Coventry City,1-0,Barnsley
+27,21/02/98,Southampton,3-0,Blackburn Rovers
+27,21/02/98,Sheffield Wed.,1-0,Tottenham
+27,21/02/98,Bolton Wanderers,1-1,West Ham
+27,21/02/98,Wimbledon,2-1,Aston Villa
+27,22/02/98,Newcastle,1-1,Leeds United
+27,23/02/98,Liverpool,1-1,Everton
+28,28/02/98,Chelsea,0-1,Manchester United
+28,28/02/98,Leeds United,0-1,Southampton
+28,28/02/98,Blackburn Rovers,5-3,Leicester City
+28,28/02/98,Aston Villa,2-1,Liverpool
+28,28/02/98,Derby County,3-0,Sheffield Wed.
+28,28/02/98,Everton,0-0,Newcastle
+28,28/02/98,Crystal Palace,0-3,Coventry City
+28,28/02/98,Barnsley,2-1,Wimbledon
+28,01/03/98,Tottenham,1-0,Bolton Wanderers
+28,02/03/98,West Ham,0-0,Arsenal
+29,04/03/98,Leeds United,1-0,Tottenham
+29,07/03/98,Liverpool,2-1,Bolton Wanderers
+29,07/03/98,Southampton,2-1,Everton
+29,07/03/98,Sheffield Wed.,2-0,Manchester United
+29,08/03/98,Chelsea,0-1,Aston Villa
+26,11/03/98,Leeds United,4-0,Blackburn Rovers
+26,11/03/98,Aston Villa,0-1,Barnsley
+26,11/03/98,Chelsea,6-2,Crystal Palace
+26,11/03/98,West Ham,1-1,Manchester United
+19,11/03/98,Wimbledon,0-1,Arsenal
+30,14/03/98,Manchester United,0-1,Arsenal
+30,14/03/98,Aston Villa,3-1,Crystal Palace
+30,14/03/98,West Ham,2-1,Chelsea
+30,14/03/98,Newcastle,0-0,Coventry City
+30,14/03/98,Tottenham,3-3,Liverpool
+30,14/03/98,Everton,1-0,Blackburn Rovers
+30,14/03/98,Bolton Wanderers,3-2,Sheffield Wed.
+30,14/03/98,Barnsley,4-3,Southampton
+30,14/03/98,Wimbledon,2-1,Leicester City
+30,15/03/98,Derby County,0-5,Leeds United
+32,18/03/98,Newcastle,1-2,Crystal Palace
+31,28/03/98,Arsenal,1-0,Sheffield Wed.
+31,28/03/98,Coventry City,1-0,Derby County
+31,28/03/98,Southampton,2-1,Newcastle
+31,28/03/98,Everton,1-4,Aston Villa
+31,28/03/98,Bolton Wanderers,2-0,Leicester City

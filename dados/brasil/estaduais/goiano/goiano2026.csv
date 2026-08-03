@@ -1,0 +1,71 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,10/01/26,Atlético Goianiense,2-0,Anápolis
+C,10/01/26,ABECAT Ouvidorense,1-2,Vila Nova
+B,10/01/26,Jataiense,1-1,CRAC
+C,11/01/26,Anapolina,1-0,Inhumas
+C,11/01/26,Centro Oeste FC,0-0,Aparecidense
+B,11/01/26,Goiás,4-0,Goiatuba EC
+B,14/01/26,Goiatuba EC,1-1,Jataiense
+C,14/01/26,Anápolis,1-1,Centro Oeste FC
+C,14/01/26,Vila Nova,3-2,Anapolina
+C,15/01/26,Inhumas,0-1,ABECAT Ouvidorense
+B,15/01/26,CRAC,0-0,Goiás
+C,15/01/26,Aparecidense,1-2,Atlético Goianiense
+C,17/01/26,Centro Oeste FC,0-3,Jataiense
+B,17/01/26,Anápolis,1-3,Vila Nova
+C,17/01/26,Goiatuba EC,1-2,Anapolina
+B,18/01/26,Aparecidense,1-1,Inhumas
+C,18/01/26,Atlético Goianiense,1-1,Goiás
+C,18/01/26,CRAC,0-1,ABECAT Ouvidorense
+C,21/01/26,Anapolina,2-0,CRAC
+C,21/01/26,Jataiense,3-1,Atlético Goianiense
+C,21/01/26,ABECAT Ouvidorense,1-0,Goiatuba EC
+C,22/01/26,Goiás,4-0,Centro Oeste FC
+B,22/01/26,Inhumas,1-2,Anápolis
+B,22/01/26,Vila Nova,3-0,Aparecidense
+C,24/01/26,ABECAT Ouvidorense,2-0,Jataiense
+C,24/01/26,Anapolina,0-2,Goiás
+C,25/01/26,Inhumas,2-2,Centro Oeste FC
+B,25/01/26,Aparecidense,4-1,Goiatuba EC
+C,25/01/26,Vila Nova,1-2,Atlético Goianiense
+B,25/01/26,Anápolis,2-0,CRAC
+B,28/01/26,CRAC,1-0,Aparecidense
+C,28/01/26,Jataiense,3-0,Anapolina
+C,28/01/26,Atlético Goianiense,2-0,Inhumas
+C,29/01/26,Centro Oeste FC,0-2,Vila Nova
+B,29/01/26,Goiatuba EC,3-1,Anápolis
+C,29/01/26,Goiás,1-0,ABECAT Ouvidorense
+C,31/01/26,Atlético Goianiense,0-0,CRAC
+B,01/02/26,Jataiense,1-0,Inhumas
+C,01/02/26,Centro Oeste FC,1-0,Goiatuba EC
+B,01/02/26,Goiás,1-0,Vila Nova
+C,02/02/26,ABECAT Ouvidorense,2-2,Anápolis
+C,02/02/26,Anapolina,3-1,Aparecidense
+B,07/02/26,Inhumas,0-1,Goiás
+C,07/02/26,CRAC,3-0,Centro Oeste FC
+C,07/02/26,Goiatuba EC,2-1,Atlético Goianiense
+C,07/02/26,Aparecidense,3-3,ABECAT Ouvidorense
+B,08/02/26,Vila Nova,4-1,Jataiense
+C,08/02/26,Anápolis,2-0,Anapolina
+QF,11/02/26,CRAC,1-1,Goiás
+QF,11/02/26,Anapolina,1-1,Jataiense
+QF,12/02/26,ABECAT Ouvidorense,0-3,Atlético Goianiense
+QF,12/02/26,Anápolis,0-2,Vila Nova
+POff,14/02/26,Centro Oeste FC,4-2,Aparecidense
+QF,14/02/26,Goiás,4-1,CRAC
+QF,15/02/26,Jataiense,0-1,Anapolina
+QF,15/02/26,Atlético Goianiense,1-1,ABECAT Ouvidorense
+QF,16/02/26,Vila Nova,2-2,Anápolis
+POff,18/02/26,Aparecidense,4-0,Centro Oeste FC
+SF,21/02/26,Anapolina,2-2,Goiás
+POff,21/02/26,CRAC,1-2,Jataiense
+POff,22/02/26,Anápolis,0-2,ABECAT Ouvidorense
+SF,22/02/26,Atlético Goianiense,2-0,Vila Nova
+SF,28/02/26,Goiás,1-1(4-3 Pen.),Anapolina
+POff,28/02/26,Jataiense,1-0,CRAC
+POff,28/02/26,ABECAT Ouvidorense,2-4(4-1 Pen.),Anápolis
+SF,01/03/26,Vila Nova,0-0,Atlético Goianiense
+POff,04/03/26,ABECAT Ouvidorense,2-1,Jataiense
+F,07/03/26,Atlético Goianiense,0-2,Goiás
+POff,08/03/26,Jataiense,1-0(3-5 Pen.),ABECAT Ouvidorense
+F,15/03/26,Goiás,0-0,Atlético Goianiense

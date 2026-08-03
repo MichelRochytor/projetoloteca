@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,05/02/03,CFZ-DF,0-0,Fortaleza
+1F,05/02/03,Itabaiana,0-1,Vasco
+1F,05/02/03,CENE,0-2,Botafogo
+1F,05/02/03,Bangu,2-1,Gama
+1F,05/02/03,Anapolina,1-2,Náutico
+1F,05/02/03,Ypiranga-AP,1-3,Remo
+1F,05/02/03,Ipatinga,2-1,Goiás
+1F,05/02/03,Pelotas,1-2,Guarani
+1F,05/02/03,Atlético-PB,1-1,Bahia
+1F,05/02/03,Botafogo-PB,1-4,Flamengo
+1F,05/02/03,Coríntians-RN,2-0,Santa Cruz
+1F,05/02/03,CRB,0-1,Atlético Mineiro
+1F,05/02/03,Operário-MT,0-1,Palmeiras
+1F,05/02/03,Sampaio Corrêa,1-4,São Caetano
+1F,06/02/03,Corinthians-AL,0-1,Flamengo-PI
+1F,06/02/03,Fluminense de Feira,1-1,Fluminense
+1F,19/02/03,Remo,ANU,Ypiranga-AP
+1F,19/02/03,Americano,2-1,Figueirense
+1F,19/02/03,Caldense,2-1,Juventude
+1F,19/02/03,Confiança,1-0,Ceará
+1F,19/02/03,Dom Bosco,0-5,Sport
+1F,19/02/03,Comercial-MS,0-2,Internacional
+1F,19/02/03,Ituano,2-0,Coritiba
+1F,19/02/03,Iraty,0-3,Vila Nova
+1F,19/02/03,CFA,3-0,Rio Branco-AC
+1F,19/02/03,São Raimundo-AM,2-0,São Paulo
+1F,19/02/03,Rio Branco-ES,2-4,Cruzeiro
+1F,19/02/03,Tocantinópolis,1-2,Vitória
+1F,19/02/03,Guarani V. Aires,2-1,América-RN
+1F,19/02/03,Tuna Luso,2-2,Atlético Paranaense
+1F,19/02/03,Náutico,3-1,Anapolina
+1F,19/02/03,Fortaleza,1-0,CFZ-DF
+1F,19/02/03,Flamengo-PI,1-0,Corinthians-AL
+1F,19/02/03,Moto Club,0-1,River-PI
+1F,19/02/03,Atlético Mineiro,4-0,CRB
+1F,20/02/03,Atlético Roraima,4-1,Nacional-AM
+1F,20/02/03,Alegrense,2-3,Criciúma
+1F,20/02/03,Guarani,1-1,Pelotas
+1F,12/03/03,Sport,ANU,Dom Bosco
+1F,12/03/03,Internacional,ANU,Comercial-MS
+1F,12/03/03,São Caetano,ANU,Sampaio Corrêa
+1F,12/03/03,Fluminense,4-0,Fluminense de Feira
+1F,12/03/03,Gama,2-0,Bangu
+1F,12/03/03,Figueirense,4-2,Americano
+1F,12/03/03,Goiás,1-0,Ipatinga
+1F,12/03/03,Juventude,2-1(3-5 Pen.),Caldense
+1F,12/03/03,São Paulo,6-0,São Raimundo-AM
+1F,12/03/03,América-RN,1-0,Guarani V. Aires
+1F,12/03/03,Criciúma,5-1,Alegrense
+1F,12/03/03,Coritiba,1-0,Ituano
+1F,12/03/03,Ceará,2-0,Confiança
+1F,12/03/03,Bahia,4-1,Atlético-PB
+1F,12/03/03,River-PI,2-4,Moto Club
+1F,12/03/03,Rio Branco-AC,2-0,CFA
+1F,12/03/03,Palmeiras,5-1,Operário-MT
+1F,12/03/03,Nacional-AM,2-0,Atlético Roraima
+1F,12/03/03,Atlético Paranaense,1-0,Tuna Luso
+1F,12/03/03,Vasco,4-0,Itabaiana
+1F,12/03/03,Vitória,0-1,Tocantinópolis
+1F,13/03/03,Flamengo,ANU,Botafogo-PB
+1F,13/03/03,Botafogo,ANU,CENE
+1F,13/03/03,Vila Nova,ANU,Iraty
+1F,13/03/03,Santa Cruz,2-1,Coríntians-RN
+1F,14/03/03,Cruzeiro,ANU,Rio Branco-ES
+2F,19/03/03,Caldense,0-1,Atlético Mineiro
+2F,19/03/03,Atlético Paranaense,2-3,Sport
+2F,19/03/03,Criciúma,1-1,Palmeiras
+2F,19/03/03,São Caetano,1-2,Botafogo
+2F,19/03/03,Vila Nova,1-0,Guarani
+2F,19/03/03,CFA,3-3,Bahia
+2F,19/03/03,Remo,1-0,Internacional
+2F,26/03/03,Gama,2-2,São Paulo
+2F,26/03/03,Coríntians-RN,2-2,Cruzeiro
+2F,26/03/03,América-RN,2-1,Náutico
+2F,26/03/03,Figueirense,2-0,Fortaleza
+2F,26/03/03,Ceará,1-0,Flamengo
+2F,26/03/03,Flamengo-PI,1-2,Fluminense
+2F,26/03/03,Guarani,3-1,Vila Nova
+2F,26/03/03,Bahia,4-1,CFA
+2F,26/03/03,Internacional,2-1,Remo
+2F,26/03/03,Sport,1-0,Atlético Paranaense
+2F,26/03/03,Palmeiras,2-1,Criciúma
+2F,26/03/03,Botafogo,2-0,São Caetano
+2F,26/03/03,Moto Club,0-2,Vasco
+2F,26/03/03,Atlético Mineiro,4-0,Caldense
+2F,27/03/03,Ituano,1-1,Goiás
+2F,02/04/03,Vasco,ANU,Moto Club
+2F,02/04/03,Atlético Roraima,1-2,Vitória
+2F,02/04/03,Cruzeiro,7-0,Coríntians-RN
+2F,02/04/03,São Paulo,5-1,Gama
+2F,02/04/03,Goiás,1-1(4-2 Pen.),Ituano
+2F,02/04/03,Náutico,3-1,América-RN
+2F,02/04/03,Fortaleza,3-1,Figueirense
+2F,02/04/03,Flamengo,1-0(4-3 Pen.),Ceará
+2F,02/04/03,Fluminense,2-0,Flamengo-PI
+1/8,09/04/03,Goiás,2-1,Botafogo
+1/8,09/04/03,Náutico,1-2,Atlético Mineiro
+1/8,09/04/03,Figueirense,0-2,São Paulo
+2F,09/04/03,Vitória,5-1,Atlético Roraima
+1/8,23/04/03,Flamengo,4-0,Remo
+1/8,23/04/03,Palmeiras,2-7,Vitória
+1/8,23/04/03,Bahia,2-1,Vasco
+1/8,23/04/03,Cruzeiro,2-0,Vila Nova
+1/8,24/04/03,Fluminense,0-1,Sport
+1/8,30/04/03,Vila Nova,1-2,Cruzeiro
+1/8,30/04/03,Remo,2-3,Flamengo
+1/8,30/04/03,Vitória,1-3,Palmeiras
+1/8,30/04/03,Vasco,1-0,Bahia
+1/8,01/05/03,Sport,2-1,Fluminense
+1/8,01/05/03,Botafogo,2-3,Goiás
+1/8,01/05/03,São Paulo,1-0,Figueirense
+1/8,01/05/03,Atlético Mineiro,3-1,Náutico
+QF,07/05/03,Cruzeiro,2-1,Vasco
+QF,07/05/03,Goiás,0-0,São Paulo
+QF,07/05/03,Sport,4-0,Atlético Mineiro
+QF,07/05/03,Flamengo,2-1,Vitória
+QF,14/05/03,Vasco,1-1,Cruzeiro
+QF,14/05/03,Atlético Mineiro,3-1,Sport
+QF,14/05/03,Vitória,1-3,Flamengo
+QF,15/05/03,São Paulo,1-1,Goiás
+SF,21/05/03,Sport,0-1,Flamengo
+SF,21/05/03,Goiás,2-3,Cruzeiro
+SF,28/05/03,Flamengo,0-0,Sport
+SF,28/05/03,Cruzeiro,2-1,Goiás
+F,08/06/03,Flamengo,1-1,Cruzeiro
+F,11/06/03,Cruzeiro,3-1,Flamengo

@@ -1,0 +1,511 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+6,06/05/23,Nova Iguaçu,1-2,Athletic-MG
+6,06/05/23,Vitória-ES,1-1,Resende
+5,06/05/23,Ceilândia,4-0,Iporá
+8,06/05/23,São Joseense,2-1,Caxias
+1,06/05/23,Trem,1-0,Tuna Luso
+4,06/05/23,Falcon FC,1-1,Retrô FC
+5,06/05/23,Interporto,0-2,União Rondonópolis
+7,06/05/23,FC Cascavel,0-2,CRAC
+5,06/05/23,CEOV Operário,0-2,Brasiliense
+4,06/05/23,Bahia de Feira,3-1,Sergipe
+5,06/05/23,Anápolis,1-0,Real Ariquemes
+7,06/05/23,XV de Piracicaba,1-1,Maringá
+7,06/05/23,Ferroviária,0-0,Operário-MS
+6,06/05/23,Portuguesa-RJ,5-2,Real Noroeste
+7,06/05/23,CA Patrocinense,1-1,Inter de Limeira
+3,06/05/23,Pacajus,2-2,Campinense
+2,07/05/23,Caucaia,2-2,Cordino
+8,07/05/23,Concórdia,2-1,GE Brasil
+1,07/05/23,Águia,3-0,Princesa
+1,07/05/23,Nacional-AM,3-1,SC Humaitá
+3,07/05/23,Nacional-PB,2-0,Potiguar
+3,07/05/23,Globo FC,2-5,Sousa
+4,07/05/23,Jacuipense,1-2,ASA
+4,07/05/23,Cruzeiro-AL,1-0,Atlético-BA
+8,07/05/23,Aimoré,0-0,Hercílio Luz
+2,07/05/23,Maranhão,1-1,Atlético Cearense
+2,07/05/23,Ferroviário,2-0,Fluminense-PI
+2,07/05/23,Parnahyba,1-0,Tocantinópolis
+8,07/05/23,Novo Hamburgo,0-3,Camboriú
+1,07/05/23,São Francisco FC,1-0,São Raimundo-RR
+3,08/05/23,Santa Cruz,1-0,Iguatu
+6,08/05/23,Democrata-GV,1-1,Santo André
+6,13/05/23,Santo André,1-0,Vitória-ES
+6,13/05/23,Resende,0-1,Democrata-GV
+8,13/05/23,Hercílio Luz,1-0,Novo Hamburgo
+2,13/05/23,Atlético Cearense,1-1,Parnahyba
+6,13/05/23,Real Noroeste,2-0,Nova Iguaçu
+3,13/05/23,Iguatu,1-0,Nacional-PB
+5,13/05/23,União Rondonópolis,0-0,Ceilândia
+7,13/05/23,Inter de Limeira,1-1,FC Cascavel
+1,13/05/23,São Raimundo-RR,3-1,Águia
+2,13/05/23,Cordino,0-1,Ferroviário
+4,13/05/23,ASA,1-0,Bahia de Feira
+4,13/05/23,Retrô FC,1-1,Cruzeiro-AL
+4,13/05/23,Atlético-BA,1-2,Falcon FC
+5,13/05/23,Brasiliense,2-2,Anápolis
+6,13/05/23,Athletic-MG,1-2,Portuguesa-RJ
+8,13/05/23,Camboriú,1-0,Aimoré
+1,13/05/23,SC Humaitá,3-0,Trem
+7,13/05/23,CRAC,1-2,CA Patrocinense
+7,13/05/23,Maringá,0-0,Ferroviária
+1,14/05/23,Tuna Luso,2-1,Nacional-AM
+8,14/05/23,Caxias,2-0,Concórdia
+2,14/05/23,Fluminense-PI,2-2,Caucaia
+5,14/05/23,Iporá,8-1,Interporto
+2,14/05/23,Tocantinópolis,0-0,Maranhão
+3,14/05/23,Sousa,2-1,Pacajus
+5,14/05/23,Real Ariquemes,0-2,CEOV Operário
+8,14/05/23,GE Brasil,2-2,São Joseense
+3,14/05/23,Potiguar,2-1,Santa Cruz
+3,14/05/23,Campinense,4-0,Globo FC
+4,14/05/23,Sergipe,1-2,Jacuipense
+1,14/05/23,Princesa,4-0,São Francisco FC
+7,14/05/23,Operário-MS,0-0,XV de Piracicaba
+6,20/05/23,Nova Iguaçu,0-1,Santo André
+5,20/05/23,Ceilândia,3-0,Real Ariquemes
+6,20/05/23,Real Noroeste,0-2,Vitória-ES
+8,20/05/23,São Joseense,0-0,Hercílio Luz
+1,20/05/23,Nacional-AM,1-0,Princesa
+3,20/05/23,Iguatu,1-2,Pacajus
+4,20/05/23,Falcon FC,0-1,Sergipe
+5,20/05/23,Interporto,1-0,Brasiliense
+7,20/05/23,FC Cascavel,1-1,Maringá
+5,20/05/23,União Rondonópolis,2-0,CEOV Operário
+2,20/05/23,Cordino,2-1,Maranhão
+4,20/05/23,Bahia de Feira,1-1,Retrô FC
+4,20/05/23,ASA,0-2,Cruzeiro-AL
+5,20/05/23,Anápolis,1-0,Iporá
+7,20/05/23,XV de Piracicaba,2-0,CRAC
+7,20/05/23,Ferroviária,1-2,Inter de Limeira
+6,20/05/23,Portuguesa-RJ,3-2,Resende
+8,20/05/23,Camboriú,1-0,Concórdia
+1,21/05/23,Águia,2-0,SC Humaitá
+3,21/05/23,Nacional-PB,1-0,Sousa
+3,21/05/23,Santa Cruz,1-0,Campinense
+4,21/05/23,Jacuipense,3-3,Atlético-BA
+2,21/05/23,Caucaia,1-3,Atlético Cearense
+8,21/05/23,Aimoré,0-0,Caxias
+3,21/05/23,Globo FC,0-0,Potiguar
+1,21/05/23,São Raimundo-RR,3-0,Trem
+2,21/05/23,Ferroviário,1-0,Tocantinópolis
+2,21/05/23,Parnahyba,2-1,Fluminense-PI
+7,21/05/23,Operário-MS,1-1,CA Patrocinense
+8,21/05/23,Novo Hamburgo,0-0,GE Brasil
+1,21/05/23,São Francisco FC,0-1,Tuna Luso
+6,22/05/23,Democrata-GV,1-0,Athletic-MG
+6,27/05/23,Nova Iguaçu,1-1,Portuguesa-RJ
+6,27/05/23,Santo André,1-1,Resende
+6,27/05/23,Vitória-ES,3-1,Democrata-GV
+8,27/05/23,Caxias,2-1,GE Brasil
+8,27/05/23,Hercílio Luz,2-1,Camboriú
+5,27/05/23,Ceilândia,4-0,Interporto
+1,27/05/23,Trem,0-1,Nacional-AM
+2,27/05/23,Maranhão,4-0,Parnahyba
+4,27/05/23,Sergipe,2-1,ASA
+6,27/05/23,Athletic-MG,1-0,Real Noroeste
+5,27/05/23,CEOV Operário,1-1,Anápolis
+4,27/05/23,Bahia de Feira,2-2,Jacuipense
+4,27/05/23,Retrô FC,2-1,Atlético-BA
+7,27/05/23,XV de Piracicaba,1-1,Ferroviária
+1,27/05/23,SC Humaitá,1-1,Tuna Luso
+7,27/05/23,CRAC,2-2,Inter de Limeira
+7,27/05/23,CA Patrocinense,1-0,FC Cascavel
+3,27/05/23,Pacajus,3-0,Globo FC
+7,27/05/23,Maringá,2-0,Operário-MS
+8,28/05/23,Concórdia,1-1,São Joseense
+2,28/05/23,Fluminense-PI,0-0,Cordino
+5,28/05/23,Iporá,1-0,União Rondonópolis
+2,28/05/23,Tocantinópolis,2-0,Atlético Cearense
+3,28/05/23,Nacional-PB,2-2,Santa Cruz
+3,28/05/23,Sousa,2-1,Campinense
+4,28/05/23,Cruzeiro-AL,1-1,Falcon FC
+5,28/05/23,Real Ariquemes,0-1,Brasiliense
+8,28/05/23,Aimoré,1-1,Novo Hamburgo
+3,28/05/23,Potiguar,1-0,Iguatu
+1,28/05/23,Princesa,1-1,São Raimundo-RR
+2,28/05/23,Ferroviário,1-0,Caucaia
+1,29/05/23,Águia,2-0,São Francisco FC
+3,01/06/23,Campinense,1-0,Nacional-PB
+6,03/06/23,Resende,3-1,Nova Iguaçu
+6,03/06/23,Vitória-ES,1-2,Athletic-MG
+2,03/06/23,Atlético Cearense,0-2,Ferroviário
+8,03/06/23,São Joseense,2-0,Camboriú
+2,03/06/23,Maranhão,2-0,Fluminense-PI
+3,03/06/23,Santa Cruz,1-0,Sousa
+4,03/06/23,Falcon FC,0-1,ASA
+5,03/06/23,Brasiliense,0-0,Ceilândia
+5,03/06/23,Interporto,1-1,Real Ariquemes
+7,03/06/23,Inter de Limeira,3-6,XV de Piracicaba
+5,03/06/23,CEOV Operário,2-1,Iporá
+7,03/06/23,FC Cascavel,1-1,Operário-MS
+4,03/06/23,Atlético-BA,0-0,Bahia de Feira
+4,03/06/23,Cruzeiro-AL,0-3,Sergipe
+5,03/06/23,Anápolis,1-0,União Rondonópolis
+7,03/06/23,Ferroviária,0-0,CRAC
+6,03/06/23,Portuguesa-RJ,3-0,Santo André
+7,03/06/23,CA Patrocinense,0-0,Maringá
+3,03/06/23,Pacajus,2-0,Potiguar
+2,03/06/23,Parnahyba,3-0,Cordino
+1,04/06/23,Tuna Luso,0-0,Águia
+8,04/06/23,Concórdia,0-1,Hercílio Luz
+3,04/06/23,Globo FC,2-1,Iguatu
+1,04/06/23,Nacional-AM,3-0,São Raimundo-RR
+2,04/06/23,Caucaia,3-3,Tocantinópolis
+4,04/06/23,Jacuipense,0-1,Retrô FC
+6,04/06/23,Democrata-GV,2-2,Real Noroeste
+8,04/06/23,GE Brasil,2-2,Aimoré
+1,04/06/23,São Francisco FC,1-4,SC Humaitá
+8,04/06/23,Novo Hamburgo,0-2,Caxias
+1,05/06/23,Trem,1-1,Princesa
+3,06/06/23,Potiguar,2-1,Sousa
+6,07/06/23,Nova Iguaçu,0-0,Democrata-GV
+2,07/06/23,Fluminense-PI,1-0,Tocantinópolis
+5,07/06/23,Ceilândia,1-1,Anápolis
+5,07/06/23,Iporá,2-0,Real Ariquemes
+5,07/06/23,União Rondonópolis,2-0,Brasiliense
+5,07/06/23,Interporto,0-2,CEOV Operário
+3,07/06/23,Iguatu,3-1,Campinense
+4,07/06/23,Bahia de Feira,3-1,Falcon FC
+6,07/06/23,Athletic-MG,4-2,Santo André
+6,07/06/23,Real Noroeste,0-1,Resende
+2,07/06/23,Cordino,2-2,Atlético Cearense
+8,07/06/23,Hercílio Luz,2-2,Caxias
+8,07/06/23,Camboriú,0-2,GE Brasil
+7,07/06/23,Ferroviária,1-1,CA Patrocinense
+1,07/06/23,Águia,1-1,Nacional-AM
+1,07/06/23,São Raimundo-RR,2-2,Tuna Luso
+2,07/06/23,Ferroviário,6-0,Parnahyba
+3,07/06/23,Nacional-PB,2-1,Globo FC
+4,07/06/23,Sergipe,0-1,Retrô FC
+4,07/06/23,ASA,0-1,Atlético-BA
+6,07/06/23,Portuguesa-RJ,3-2,Vitória-ES
+7,07/06/23,XV de Piracicaba,1-2,FC Cascavel
+7,07/06/23,Maringá,0-1,CRAC
+8,07/06/23,Aimoré,1-0,São Joseense
+8,07/06/23,Novo Hamburgo,1-2,Concórdia
+7,07/06/23,Operário-MS,1-0,Inter de Limeira
+2,08/06/23,Caucaia,0-0,Maranhão
+1,08/06/23,São Francisco FC,1-0,Trem
+1,08/06/23,Princesa,5-0,SC Humaitá
+4,08/06/23,Jacuipense,4-1,Cruzeiro-AL
+3,08/06/23,Santa Cruz,0-0,Pacajus
+6,10/06/23,Vitória-ES,3-2,Nova Iguaçu
+6,10/06/23,Santo André,2-0,Real Noroeste
+2,10/06/23,Atlético Cearense,1-1,Fluminense-PI
+8,10/06/23,Caxias,1-0,Camboriú
+7,10/06/23,FC Cascavel,1-5,Ferroviária
+7,10/06/23,CA Patrocinense,2-0,XV de Piracicaba
+3,10/06/23,Campinense,1-0,Potiguar
+4,10/06/23,Atlético-BA,1-1,Sergipe
+5,10/06/23,Anápolis,7-0,Interporto
+7,10/06/23,Inter de Limeira,1-0,Maringá
+7,10/06/23,CRAC,4-0,Operário-MS
+1,11/06/23,Tuna Luso,1-0,Princesa
+6,11/06/23,Resende,0-0,Athletic-MG
+8,11/06/23,Concórdia,3-1,Aimoré
+3,11/06/23,Globo FC,0-2,Santa Cruz
+8,11/06/23,São Joseense,2-1,Novo Hamburgo
+1,11/06/23,Trem,0-1,Águia
+2,11/06/23,Maranhão,1-1,Ferroviário
+2,11/06/23,Tocantinópolis,2-0,Cordino
+3,11/06/23,Pacajus,1-0,Nacional-PB
+3,11/06/23,Sousa,2-1,Iguatu
+4,11/06/23,Falcon FC,1-1,Jacuipense
+5,11/06/23,Real Ariquemes,0-1,União Rondonópolis
+5,11/06/23,Brasiliense,3-3,Iporá
+6,11/06/23,Democrata-GV,1-0,Portuguesa-RJ
+8,11/06/23,GE Brasil,1-0,Hercílio Luz
+1,11/06/23,Nacional-AM,2-0,São Francisco FC
+5,11/06/23,CEOV Operário,2-2,Ceilândia
+2,11/06/23,Parnahyba,1-1,Caucaia
+4,11/06/23,Retrô FC,3-1,ASA
+1,11/06/23,SC Humaitá,1-0,São Raimundo-RR
+4,11/06/23,Cruzeiro-AL,0-0,Bahia de Feira
+2,14/06/23,Caucaia,2-0,Parnahyba
+6,14/06/23,Nova Iguaçu,3-2,Vitória-ES
+5,14/06/23,Iporá,0-0,Brasiliense
+2,14/06/23,Fluminense-PI,0-3,Atlético Cearense
+5,14/06/23,Ceilândia,0-0,CEOV Operário
+5,14/06/23,União Rondonópolis,3-0,Real Ariquemes
+5,14/06/23,Interporto,0-0,Anápolis
+2,14/06/23,Cordino,0-1,Tocantinópolis
+4,14/06/23,Bahia de Feira,3-0,Cruzeiro-AL
+6,14/06/23,Real Noroeste,0-3,Santo André
+6,14/06/23,Athletic-MG,3-0,Resende
+7,14/06/23,Ferroviária,1-0,FC Cascavel
+8,14/06/23,Camboriú,2-1,Caxias
+8,14/06/23,Hercílio Luz,1-0,GE Brasil
+8,14/06/23,Aimoré,0-0,Concórdia
+3,14/06/23,Potiguar,0-0,Campinense
+1,14/06/23,Águia,0-0,Trem
+1,14/06/23,São Raimundo-RR,2-3,SC Humaitá
+1,14/06/23,Princesa,1-1,Tuna Luso
+2,14/06/23,Ferroviário,3-1,Maranhão
+3,14/06/23,Nacional-PB,1-0,Pacajus
+3,14/06/23,Santa Cruz,3-0,Globo FC
+4,14/06/23,ASA,1-2,Retrô FC
+4,14/06/23,Sergipe,2-3,Atlético-BA
+6,14/06/23,Portuguesa-RJ,4-1,Democrata-GV
+7,14/06/23,Operário-MS,0-2,CRAC
+7,14/06/23,Maringá,1-0,Inter de Limeira
+1,14/06/23,São Francisco FC,0-3,Nacional-AM
+7,14/06/23,XV de Piracicaba,1-1,CA Patrocinense
+8,14/06/23,Novo Hamburgo,0-1,São Joseense
+3,15/06/23,Iguatu,2-1,Sousa
+4,15/06/23,Jacuipense,2-0,Falcon FC
+6,17/06/23,Santo André,0-1,Athletic-MG
+6,17/06/23,Vitória-ES,0-1,Portuguesa-RJ
+6,17/06/23,Resende,1-1,Real Noroeste
+1,17/06/23,Nacional-AM,0-0,Águia
+2,17/06/23,Tocantinópolis,1-1,Fluminense-PI
+2,17/06/23,Maranhão,1-0,Caucaia
+7,17/06/23,Inter de Limeira,2-1,Operário-MS
+4,17/06/23,Atlético-BA,1-0,ASA
+1,17/06/23,SC Humaitá,2-2,Princesa
+7,17/06/23,CRAC,1-1,Maringá
+2,17/06/23,Parnahyba,0-1,Ferroviário
+3,17/06/23,Pacajus,0-0,Santa Cruz
+7,18/06/23,CA Patrocinense,1-0,Ferroviária
+1,18/06/23,Tuna Luso,4-1,São Raimundo-RR
+2,18/06/23,Atlético Cearense,2-1,Cordino
+8,18/06/23,Concórdia,1-1,Novo Hamburgo
+3,18/06/23,Globo FC,0-2,Nacional-PB
+3,18/06/23,Sousa,1-1,Potiguar
+4,18/06/23,Falcon FC,0-0,Bahia de Feira
+4,18/06/23,Cruzeiro-AL,1-0,Jacuipense
+5,18/06/23,Anápolis,0-1,Ceilândia
+5,18/06/23,Real Ariquemes,2-1,Iporá
+5,18/06/23,Brasiliense,3-0,União Rondonópolis
+7,18/06/23,FC Cascavel,2-1,XV de Piracicaba
+8,18/06/23,GE Brasil,1-1,Camboriú
+1,18/06/23,Trem,4-1,São Francisco FC
+5,18/06/23,CEOV Operário,6-0,Interporto
+4,18/06/23,Retrô FC,1-1,Sergipe
+8,19/06/23,São Joseense,0-0,Aimoré
+8,19/06/23,Caxias,0-1,Hercílio Luz
+6,19/06/23,Democrata-GV,1-0,Nova Iguaçu
+3,20/06/23,Campinense,0-0,Iguatu
+6,24/06/23,Nova Iguaçu,3-0,Resende
+6,24/06/23,Santo André,0-0,Portuguesa-RJ
+6,24/06/23,Athletic-MG,0-0,Vitória-ES
+8,24/06/23,Hercílio Luz,2-0,Concórdia
+5,24/06/23,Ceilândia,1-1,Brasiliense
+6,24/06/23,Real Noroeste,1-2,Democrata-GV
+2,24/06/23,Tocantinópolis,1-1,Caucaia
+1,24/06/23,São Raimundo-RR,1-0,Nacional-AM
+7,24/06/23,Operário-MS,1-1,FC Cascavel
+8,24/06/23,Camboriú,3-3,São Joseense
+7,24/06/23,XV de Piracicaba,0-1,Inter de Limeira
+1,24/06/23,Águia,1-3,Tuna Luso
+7,24/06/23,CRAC,0-1,Ferroviária
+1,24/06/23,SC Humaitá,0-1,São Francisco FC
+5,24/06/23,União Rondonópolis,0-0,Anápolis
+7,24/06/23,Maringá,1-0,CA Patrocinense
+8,25/06/23,Caxias,2-0,Novo Hamburgo
+5,25/06/23,Iporá,0-2,CEOV Operário
+5,25/06/23,Real Ariquemes,0-0,Interporto
+8,25/06/23,Aimoré,1-1,GE Brasil
+1,25/06/23,Princesa,2-1,Trem
+3,27/06/23,Potiguar,5-1,Pacajus
+4,27/06/23,Sergipe,2-1,Cruzeiro-AL
+2,28/06/23,Cordino,1-1,Parnahyba
+2,28/06/23,Fluminense-PI,1-1,Maranhão
+3,28/06/23,Iguatu,3-0,Globo FC
+4,28/06/23,Bahia de Feira,2-1,Atlético-BA
+2,28/06/23,Ferroviário,2-1,Atlético Cearense
+3,28/06/23,Nacional-PB,2-1,Campinense
+3,28/06/23,Sousa,2-1,Santa Cruz
+4,28/06/23,Retrô FC,1-1,Jacuipense
+4,28/06/23,ASA,1-0,Falcon FC
+1,01/07/23,Tuna Luso,2-0,SC Humaitá
+2,01/07/23,Cordino,2-0,Fluminense-PI
+4,01/07/23,Atlético-BA,1-2,Retrô FC
+6,01/07/23,Resende,2-0,Santo André
+2,01/07/23,Atlético Cearense,3-1,Tocantinópolis
+8,01/07/23,São Joseense,0-1,Concórdia
+6,01/07/23,Real Noroeste,0-1,Athletic-MG
+3,01/07/23,Iguatu,1-2,Potiguar
+1,01/07/23,Nacional-AM,2-0,Trem
+5,01/07/23,União Rondonópolis,3-0,Iporá
+7,01/07/23,Inter de Limeira,0-1,CRAC
+1,01/07/23,São Raimundo-RR,1-1,Princesa
+4,01/07/23,ASA,1-1,Sergipe
+7,01/07/23,Ferroviária,4-2,XV de Piracicaba
+8,01/07/23,Camboriú,1-1,Hercílio Luz
+7,01/07/23,Operário-MS,0-1,Maringá
+5,01/07/23,Anápolis,3-0,CEOV Operário
+6,01/07/23,Portuguesa-RJ,2-2,Nova Iguaçu
+3,01/07/23,Santa Cruz,2-2,Nacional-PB
+8,02/07/23,GE Brasil,2-1,Caxias
+3,02/07/23,Globo FC,0-2,Pacajus
+5,02/07/23,Interporto,0-2,Ceilândia
+2,02/07/23,Caucaia,1-1,Ferroviário
+4,02/07/23,Jacuipense,0-0,Bahia de Feira
+4,02/07/23,Falcon FC,4-1,Cruzeiro-AL
+5,02/07/23,Brasiliense,5-1,Real Ariquemes
+7,02/07/23,FC Cascavel,1-1,CA Patrocinense
+2,02/07/23,Parnahyba,0-3,Maranhão
+8,02/07/23,Novo Hamburgo,4-1,Aimoré
+1,02/07/23,São Francisco FC,0-1,Águia
+3,03/07/23,Campinense,1-2,Sousa
+6,03/07/23,Democrata-GV,4-2,Vitória-ES
+4,08/07/23,Atlético-BA,1-0,Jacuipense
+6,08/07/23,Santo André,2-0,Nova Iguaçu
+6,08/07/23,Resende,0-0,Portuguesa-RJ
+6,08/07/23,Athletic-MG,1-0,Democrata-GV
+8,08/07/23,Caxias,3-1,Aimoré
+8,08/07/23,Hercílio Luz,3-0,São Joseense
+2,08/07/23,Tocantinópolis,1-1,Ferroviário
+2,08/07/23,Maranhão,1-1,Cordino
+4,08/07/23,Sergipe,1-3,Falcon FC
+7,08/07/23,Inter de Limeira,1-0,Ferroviária
+4,08/07/23,Retrô FC,1-0,Bahia de Feira
+1,08/07/23,SC Humaitá,0-0,Águia
+7,08/07/23,CRAC,1-2,XV de Piracicaba
+3,08/07/23,Pacajus,4-1,Iguatu
+7,08/07/23,Maringá,0-0,FC Cascavel
+7,09/07/23,CA Patrocinense,3-0,Operário-MS
+6,09/07/23,Vitória-ES,2-0,Real Noroeste
+8,09/07/23,Concórdia,1-1,Camboriú
+1,09/07/23,Tuna Luso,2-0,São Francisco FC
+2,09/07/23,Atlético Cearense,3-0,Caucaia
+3,09/07/23,Potiguar,2-0,Globo FC
+2,09/07/23,Fluminense-PI,1-3,Parnahyba
+5,09/07/23,Iporá,1-1,Anápolis
+1,09/07/23,Trem,1-2,São Raimundo-RR
+3,09/07/23,Sousa,1-0,Nacional-PB
+4,09/07/23,Cruzeiro-AL,0-2,ASA
+5,09/07/23,Real Ariquemes,0-7,Ceilândia
+8,09/07/23,GE Brasil,1-0,Novo Hamburgo
+1,09/07/23,Princesa,1-1,Nacional-AM
+5,09/07/23,CEOV Operário,2-1,União Rondonópolis
+3,10/07/23,Campinense,2-0,Santa Cruz
+5,10/07/23,Brasiliense,10-0,Interporto
+6,15/07/23,Nova Iguaçu,1-1,Real Noroeste
+6,15/07/23,Vitória-ES,3-1,Santo André
+8,15/07/23,São Joseense,1-0,GE Brasil
+4,15/07/23,Falcon FC,1-0,Atlético-BA
+5,15/07/23,Interporto,0-2,Iporá
+6,15/07/23,Portuguesa-RJ,1-0,Athletic-MG
+5,15/07/23,CEOV Operário,9-0,Real Ariquemes
+4,15/07/23,Bahia de Feira,1-0,ASA
+5,15/07/23,Anápolis,0-0,Brasiliense
+7,15/07/23,Ferroviária,1-2,Maringá
+7,15/07/23,XV de Piracicaba,1-0,Operário-MS
+1,15/07/23,Águia,6-1,São Raimundo-RR
+3,15/07/23,Pacajus,1-1,Sousa
+2,15/07/23,Parnahyba,1-1,Atlético Cearense
+7,16/07/23,CA Patrocinense,2-0,CRAC
+8,16/07/23,Concórdia,4-0,Caxias
+3,16/07/23,Globo FC,0-1,Campinense
+5,16/07/23,Ceilândia,2-0,União Rondonópolis
+3,16/07/23,Santa Cruz,1-1,Potiguar
+1,16/07/23,Trem,0-1,SC Humaitá
+1,16/07/23,Nacional-AM,2-1,Tuna Luso
+2,16/07/23,Maranhão,2-1,Tocantinópolis
+2,16/07/23,Caucaia,3-1,Fluminense-PI
+3,16/07/23,Nacional-PB,3-1,Iguatu
+4,16/07/23,Cruzeiro-AL,2-1,Retrô FC
+4,16/07/23,Jacuipense,2-2,Sergipe
+7,16/07/23,FC Cascavel,0-0,Inter de Limeira
+8,16/07/23,Aimoré,0-4,Camboriú
+8,16/07/23,Novo Hamburgo,5-5,Hercílio Luz
+2,16/07/23,Ferroviário,6-1,Cordino
+1,16/07/23,São Francisco FC,0-3,Princesa
+6,17/07/23,Democrata-GV,2-0,Resende
+2,22/07/23,Fluminense-PI,0-2,Ferroviário
+2,22/07/23,Tocantinópolis,1-1,Parnahyba
+2,22/07/23,Cordino,1-4,Caucaia
+2,22/07/23,Atlético Cearense,1-0,Maranhão
+1,22/07/23,São Raimundo-RR,7-0,São Francisco FC
+1,22/07/23,Princesa,0-0,Águia
+1,22/07/23,SC Humaitá,0-2,Nacional-AM
+1,22/07/23,Tuna Luso,1-0,Trem
+7,22/07/23,Maringá,3-2,XV de Piracicaba
+7,22/07/23,CRAC,1-2,FC Cascavel
+8,22/07/23,Hercílio Luz,2-0,Aimoré
+8,22/07/23,Camboriú,1-0,Novo Hamburgo
+7,22/07/23,Operário-MS,0-1,Ferroviária
+7,22/07/23,Inter de Limeira,1-0,CA Patrocinense
+8,22/07/23,Caxias,2-1,São Joseense
+8,22/07/23,GE Brasil,1-0,Concórdia
+6,23/07/23,Athletic-MG,3-1,Nova Iguaçu
+6,23/07/23,Santo André,1-1,Democrata-GV
+6,23/07/23,Real Noroeste,0-0,Portuguesa-RJ
+6,23/07/23,Resende,1-2,Vitória-ES
+5,23/07/23,Iporá,1-1,Ceilândia
+5,23/07/23,Real Ariquemes,0-8,Anápolis
+5,23/07/23,União Rondonópolis,3-0,Interporto
+5,23/07/23,Brasiliense,4-1,CEOV Operário
+3,23/07/23,Potiguar,0-0,Nacional-PB
+3,23/07/23,Sousa,4-0,Globo FC
+3,23/07/23,Iguatu,1-0,Santa Cruz
+3,23/07/23,Campinense,3-2,Pacajus
+4,23/07/23,Sergipe,1-0,Bahia de Feira
+4,23/07/23,Retrô FC,1-2,Falcon FC
+4,23/07/23,ASA,3-2,Jacuipense
+4,23/07/23,Atlético-BA,1-2,Cruzeiro-AL
+2F,29/07/23,Vitória-ES,1-0,Ceilândia
+2F,29/07/23,Falcon FC,1-1,Sousa
+2F,29/07/23,Maranhão,2-3,Tuna Luso
+2F,29/07/23,Inter de Limeira,0-1,Caxias
+2F,29/07/23,ASA,1-0,Nacional-PB
+2F,29/07/23,Camboriú,0-0,Maringá
+2F,29/07/23,Ferroviária,1-1,Hercílio Luz
+2F,30/07/23,Parnahyba,2-0,Nacional-AM
+2F,30/07/23,CEOV Operário,1-0,Portuguesa-RJ
+2F,30/07/23,GE Brasil,0-0,CA Patrocinense
+2F,30/07/23,Brasiliense,0-2,Athletic-MG
+2F,30/07/23,Potiguar,1-0,Bahia de Feira
+2F,30/07/23,Pacajus,1-2,Retrô FC
+2F,31/07/23,Águia,1-1,Atlético Cearense
+2F,31/07/23,Democrata-GV,0-0,Anápolis
+2F,31/07/23,Princesa,1-1,Ferroviário
+2F,05/08/23,Athletic-MG,0-0,Brasiliense
+2F,05/08/23,Hercílio Luz,2-2(2-4 Pen.),Ferroviária
+2F,05/08/23,Ceilândia,3-0,Vitória-ES
+2F,05/08/23,Portuguesa-RJ,4-0,CEOV Operário
+2F,05/08/23,Bahia de Feira,1-0(7-6 Pen.),Potiguar
+2F,05/08/23,Ferroviário,3-0,Princesa
+2F,06/08/23,CA Patrocinense,2-1,GE Brasil
+2F,06/08/23,Atlético Cearense,3-0,Águia
+2F,06/08/23,Caxias,1-1,Inter de Limeira
+2F,06/08/23,Nacional-AM,3-0,Parnahyba
+2F,06/08/23,Sousa,2-1,Falcon FC
+2F,06/08/23,Nacional-PB,3-1,ASA
+2F,06/08/23,Tuna Luso,0-1(4-5 Pen.),Maranhão
+2F,06/08/23,Anápolis,3-1,Democrata-GV
+2F,06/08/23,Retrô FC,2-1,Pacajus
+2F,06/08/23,Maringá,1-1(5-6 Pen.),Camboriú
+1/8,12/08/23,Atlético Cearense,1-2,Sousa
+1/8,12/08/23,Camboriú,1-0,Athletic-MG
+1/8,12/08/23,Ferroviária,1-0,Anápolis
+1/8,12/08/23,CA Patrocinense,0-0,Portuguesa-RJ
+1/8,13/08/23,Nacional-PB,0-0,Ferroviário
+1/8,13/08/23,Maranhão,0-0,Retrô FC
+1/8,13/08/23,Caxias,0-0,Ceilândia
+1/8,14/08/23,Bahia de Feira,2-0,Nacional-AM
+1/8,19/08/23,Ceilândia,0-0(6-7 Pen.),Caxias
+1/8,19/08/23,Nacional-AM,3-2,Bahia de Feira
+1/8,19/08/23,Athletic-MG,2-0,Camboriú
+1/8,19/08/23,Retrô FC,2-2(5-6 Pen.),Maranhão
+1/8,20/08/23,Sousa,2-1,Atlético Cearense
+1/8,20/08/23,Portuguesa-RJ,3-1,CA Patrocinense
+1/8,20/08/23,Anápolis,0-1,Ferroviária
+1/8,20/08/23,Ferroviário,3-1,Nacional-PB
+QF,26/08/23,Ferroviária,1-0,Sousa
+QF,26/08/23,Bahia de Feira,0-2,Athletic-MG
+QF,27/08/23,Maranhão,1-1,Ferroviário
+QF,27/08/23,Caxias,1-1,Portuguesa-RJ
+QF,02/09/23,Portuguesa-RJ,0-1,Caxias
+QF,02/09/23,Athletic-MG,0-1,Bahia de Feira
+QF,03/09/23,Sousa,1-1,Ferroviária
+QF,03/09/23,Ferroviário,1-1(3-0 Pen.),Maranhão
+SF,06/09/23,Ferroviária,1-0,Athletic-MG
+SF,07/09/23,Caxias,1-1,Ferroviário
+SF,10/09/23,Athletic-MG,1-2,Ferroviária
+SF,10/09/23,Ferroviário,1-0,Caxias
+F,13/09/23,Ferroviária,0-0,Ferroviário
+F,16/09/23,Ferroviário,2-1,Ferroviária

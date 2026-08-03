@@ -1,0 +1,133 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/02/99,Goiânia,2-4,Goiás
+1,21/02/99,CRAC,1-2,Vila Nova
+1,21/02/99,Atlético Goianiense,0-2,Anápolis
+1,21/02/99,Anapolina,1-0,Jataiense
+1,21/02/99,Rioverdense,1-0,Goiatuba EC
+1,21/02/99,Itumbiara,2-1,Bom Jesus EC
+2,28/02/99,Goiás,2-0,Rioverdense
+2,28/02/99,Vila Nova,10-0,Itumbiara
+2,28/02/99,Bom Jesus EC,0-0,Anapolina
+2,28/02/99,Jataiense,0-1,Goiânia
+2,28/02/99,Goiatuba EC,1-1,Atlético Goianiense
+2,28/02/99,Anápolis,3-0,CRAC
+3,07/03/99,Goiânia,1-1,CRAC
+3,07/03/99,Atlético Goianiense,1-1,Jataiense
+3,07/03/99,Bom Jesus EC,1-4,Vila Nova
+3,07/03/99,Anapolina,0-1,Goiás
+3,07/03/99,Goiatuba EC,0-0,Anápolis
+3,07/03/99,Rioverdense,2-0,Itumbiara
+4,14/03/99,Goiás,2-1,Goiatuba EC
+4,14/03/99,Vila Nova,2-0,Atlético Goianiense
+4,14/03/99,Rioverdense,4-0,Bom Jesus EC
+4,14/03/99,Itumbiara,2-2,Jataiense
+4,14/03/99,CRAC,3-2,Anapolina
+4,14/03/99,Anápolis,1-1,Goiânia
+5,21/03/99,Goiânia,0-3,Rioverdense
+5,21/03/99,Vila Nova,3-1,Anápolis
+5,21/03/99,Jataiense,2-2,Goiás
+5,21/03/99,Bom Jesus EC,1-0,Atlético Goianiense
+5,21/03/99,Anapolina,2-0,Itumbiara
+5,21/03/99,Goiatuba EC,1-1,CRAC
+6,27/03/99,Anápolis,3-2,Anapolina
+6,27/03/99,Goiás,3-5,Vila Nova
+6,27/03/99,Itumbiara,1-1,Goiatuba EC
+6,27/03/99,Rioverdense,1-2,Jataiense
+6,27/03/99,CRAC,1-2,Atlético Goianiense
+6,27/03/99,Goiânia,2-1,Bom Jesus EC
+7,04/04/99,Atlético Goianiense,1-0,Anapolina
+7,04/04/99,Goiatuba EC,1-2,Vila Nova
+7,04/04/99,Itumbiara,3-1,Goiânia
+7,04/04/99,Anápolis,1-3,Rioverdense
+7,04/04/99,Jataiense,0-2,Bom Jesus EC
+7,04/04/99,Goiás,6-0,CRAC
+8,10/04/99,Vila Nova,2-1,Jataiense
+8,11/04/99,Atlético Goianiense,0-0,Goiânia
+8,11/04/99,Bom Jesus EC,2-0,Anápolis
+8,11/04/99,Anapolina,1-0,Goiatuba EC
+8,11/04/99,Itumbiara,1-5,Goiás
+8,11/04/99,CRAC,1-0,Rioverdense
+9,18/04/99,Goiânia,1-1,Anapolina
+9,18/04/99,Rioverdense,1-2,Vila Nova
+9,18/04/99,Anápolis,2-1,Itumbiara
+9,18/04/99,Jataiense,0-0,CRAC
+9,18/04/99,Atlético Goianiense,1-4,Goiás
+9,18/04/99,Goiatuba EC,1-1,Bom Jesus EC
+10,21/04/99,Goiás,3-0,Bom Jesus EC
+10,21/04/99,Jataiense,0-0,Anápolis
+10,21/04/99,Goiânia,2-0,Goiatuba EC
+10,21/04/99,CRAC,1-0,Itumbiara
+10,21/04/99,Atlético Goianiense,2-3,Rioverdense
+10,21/04/99,Anapolina,2-1,Vila Nova
+11,25/04/99,Goiânia,1-2,Vila Nova
+11,25/04/99,Rioverdense,1-2,Anapolina
+11,25/04/99,Anápolis,1-3,Goiás
+11,25/04/99,Goiatuba EC,2-0,Jataiense
+11,25/04/99,Bom Jesus EC,0-0,CRAC
+11,25/04/99,Itumbiara,0-2,Atlético Goianiense
+12,01/05/99,Goiás,4-2,Goiânia
+12,02/05/99,Vila Nova,0-0,CRAC
+12,02/05/99,Anápolis,2-1,Atlético Goianiense
+12,02/05/99,Jataiense,1-0,Anapolina
+12,02/05/99,Goiatuba EC,1-0,Rioverdense
+12,02/05/99,Bom Jesus EC,0-0,Itumbiara
+13,09/05/99,Atlético Goianiense,0-0,Goiatuba EC
+13,09/05/99,Goiânia,1-0,Jataiense
+13,09/05/99,Itumbiara,2-1,Vila Nova
+13,09/05/99,Rioverdense,1-5,Goiás
+13,09/05/99,Anapolina,1-0,Bom Jesus EC
+13,09/05/99,CRAC,0-0,Anápolis
+14,12/05/99,CRAC,1-1,Goiânia
+14,12/05/99,Jataiense,1-2,Atlético Goianiense
+14,12/05/99,Vila Nova,2-0,Bom Jesus EC
+14,12/05/99,Goiás,5-2,Anapolina
+14,12/05/99,Anápolis,2-2,Goiatuba EC
+14,12/05/99,Itumbiara,2-1,Rioverdense
+15,16/05/99,Goiânia,1-1,Anápolis
+15,16/05/99,Atlético Goianiense,2-1,Vila Nova
+15,16/05/99,Jataiense,2-1,Itumbiara
+15,16/05/99,Anapolina,1-0,CRAC
+15,16/05/99,Goiatuba EC,0-1,Goiás
+15,16/05/99,Bom Jesus EC,0-1,Rioverdense
+16,23/05/99,Anápolis,1-1,Vila Nova
+16,23/05/99,Rioverdense,2-1,Goiânia
+16,23/05/99,Goiás,1-2,Jataiense
+16,23/05/99,Atlético Goianiense,3-0,Bom Jesus EC
+16,23/05/99,Itumbiara,0-1,Anapolina
+16,23/05/99,CRAC,1-2,Goiatuba EC
+17,30/05/99,Anapolina,2-1,Anápolis
+17,30/05/99,Vila Nova,1-3,Goiás
+17,30/05/99,Goiatuba EC,1-1,Itumbiara
+17,30/05/99,Jataiense,0-1,Rioverdense
+17,30/05/99,Atlético Goianiense,2-2,CRAC
+17,30/05/99,Bom Jesus EC,2-2,Goiânia
+18,02/06/99,CRAC,0-1,Goiás
+18,02/06/99,Anapolina,1-0,Atlético Goianiense
+18,02/06/99,Vila Nova,3-0,Goiatuba EC
+18,02/06/99,Goiânia,1-0,Itumbiara
+18,02/06/99,Rioverdense,2-1,Anápolis
+18,02/06/99,Bom Jesus EC,2-0,Jataiense
+19,06/06/99,Goiânia,0-1,Atlético Goianiense
+19,06/06/99,Jataiense,3-0,Vila Nova
+19,06/06/99,Anápolis,1-1,Bom Jesus EC
+19,06/06/99,Goiatuba EC,5-1,Anapolina
+19,06/06/99,Goiás,5-2,Itumbiara
+19,06/06/99,Rioverdense,0-1,CRAC
+20,13/06/99,Vila Nova,4-1,Rioverdense
+20,13/06/99,Goiás,3-3,Atlético Goianiense
+20,13/06/99,Itumbiara,3-1,Anápolis
+20,13/06/99,Anapolina,2-2,Goiânia
+20,13/06/99,Bom Jesus EC,0-1,Goiatuba EC
+20,13/06/99,CRAC,2-2,Jataiense
+21,20/06/99,Bom Jesus EC,2-2,Goiás
+21,20/06/99,Anápolis,3-3,Jataiense
+21,20/06/99,Goiatuba EC,1-1,Goiânia
+21,20/06/99,Vila Nova,3-1,Anapolina
+21,20/06/99,Itumbiara,3-1,CRAC
+21,20/06/99,Rioverdense,0-1,Atlético Goianiense
+22,26/06/99,Atlético Goianiense,3-0,Itumbiara
+22,27/06/99,Vila Nova,1-3,Goiânia
+22,27/06/99,Anapolina,7-0,Rioverdense
+22,27/06/99,Goiás,4-0,Anápolis
+22,27/06/99,Jataiense,0-0,Goiatuba EC
+22,27/06/99,CRAC,2-1,Bom Jesus EC

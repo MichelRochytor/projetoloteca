@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,12/03/11,Corumbaense,2-1,Águia Negra
+A,12/03/11,7 de Setembro-MS,3-3,Itaporã
+B,12/03/11,Comercial-MS,2-2,Operário-MS
+A,13/03/11,Ponta Porã,2-4,Naviraiense
+A,13/03/11,URSO Mundo Novo,4-2,Ivinhema
+B,13/03/11,Maracaju,3-2,MS Saad
+B,13/03/11,SERC,1-2,CENE
+B,19/03/11,CENE,5-2,Operário-MS
+B,19/03/11,Comercial-MS,2-1,Maracaju
+A,20/03/11,Itaporã,3-0,URSO Mundo Novo
+A,20/03/11,Naviraiense,1-0,Corumbaense
+A,20/03/11,Ivinhema,1-1,Ponta Porã
+B,20/03/11,Rio Verde,1-5,SERC
+B,20/03/11,MS Saad,1-0,Aquidauanense
+A,20/03/11,Águia Negra,2-0,7 de Setembro-MS
+B,26/03/11,Aquidauanense,4-0,SERC
+B,26/03/11,Operário-MS,3-0,Rio Verde
+A,26/03/11,Corumbaense,0-1,Ivinhema
+A,26/03/11,7 de Setembro-MS,1-0,Naviraiense
+A,27/03/11,Itaporã,2-1,Águia Negra
+A,27/03/11,URSO Mundo Novo,1-0,Ponta Porã
+B,27/03/11,Maracaju,3-2,CENE
+B,27/03/11,MS Saad,1-2,Comercial-MS
+B,02/04/11,CENE,2-0,MS Saad
+B,02/04/11,Comercial-MS,1-1,Aquidauanense
+A,03/04/11,Ponta Porã,2-1,Corumbaense
+A,03/04/11,Ivinhema,0-1,7 de Setembro-MS
+A,03/04/11,Naviraiense,3-1,Itaporã
+B,03/04/11,Rio Verde,1-2,Maracaju
+B,03/04/11,SERC,3-1,Operário-MS
+A,03/04/11,Águia Negra,1-2,URSO Mundo Novo
+B,06/04/11,Aquidauanense,3-0,Rio Verde
+B,09/04/11,Comercial-MS,0-1,CENE
+A,09/04/11,Corumbaense,0-0,URSO Mundo Novo
+A,09/04/11,7 de Setembro-MS,1-1,Ponta Porã
+B,10/04/11,Operário-MS,3-2,Aquidauanense
+A,10/04/11,Itaporã,2-1,Ivinhema
+B,10/04/11,Maracaju,2-0,SERC
+B,10/04/11,MS Saad,2-0,Rio Verde
+A,10/04/11,Águia Negra,3-1,Naviraiense
+B,16/04/11,Aquidauanense,0-0,CENE
+B,16/04/11,Rio Verde,2-3,Comercial-MS
+A,16/04/11,7 de Setembro-MS,0-0,Corumbaense
+A,17/04/11,Ponta Porã,0-2,Itaporã
+A,17/04/11,Ivinhema,1-1,Águia Negra
+A,17/04/11,URSO Mundo Novo,2-1,Naviraiense
+B,17/04/11,Maracaju,3-1,Operário-MS
+B,17/04/11,SERC,2-0,MS Saad
+A,21/04/11,Itaporã,0-0,Corumbaense
+A,21/04/11,URSO Mundo Novo,1-3,7 de Setembro-MS
+A,21/04/11,Naviraiense,0-0,Ivinhema
+B,21/04/11,MS Saad,3-0,Operário-MS
+B,21/04/11,Aquidauanense,1-1,Maracaju
+B,21/04/11,CENE,7-1,Rio Verde
+B,21/04/11,SERC,2-1,Comercial-MS
+A,21/04/11,Águia Negra,4-0,Ponta Porã
+B,24/04/11,Operário-MS,0-1,Comercial-MS
+A,24/04/11,Naviraiense,3-0,Ponta Porã
+B,24/04/11,MS Saad,1-1,Maracaju
+A,24/04/11,Itaporã,0-4,7 de Setembro-MS
+A,24/04/11,Ivinhema,2-0,URSO Mundo Novo
+B,24/04/11,CENE,5-1,SERC
+B,24/04/11,Rio Verde,3-4,Aquidauanense
+A,24/04/11,Águia Negra,2-1,Corumbaense
+B,30/04/11,Aquidauanense,5-3,MS Saad
+B,30/04/11,Maracaju,1-1,Comercial-MS
+A,30/04/11,Corumbaense,2-0,Naviraiense
+A,30/04/11,7 de Setembro-MS,2-2,Águia Negra
+B,01/05/11,Operário-MS,1-6,CENE
+A,01/05/11,Ponta Porã,0-2,Ivinhema
+A,01/05/11,URSO Mundo Novo,1-0,Itaporã
+B,01/05/11,SERC,2-0,Rio Verde
+A,07/05/11,Ponta Porã,0-1,URSO Mundo Novo
+A,07/05/11,Ivinhema,0-0,Corumbaense
+B,07/05/11,Rio Verde,3-2,Operário-MS
+B,07/05/11,CENE,4-0,Maracaju
+B,07/05/11,SERC,1-1,Aquidauanense
+B,07/05/11,Comercial-MS,2-0,MS Saad
+A,07/05/11,Águia Negra,2-1,Itaporã
+A,07/05/11,Naviraiense,3-1,7 de Setembro-MS
+A,13/05/11,URSO Mundo Novo,2-3,Águia Negra
+A,14/05/11,Itaporã,3-2,Naviraiense
+B,14/05/11,Aquidauanense,1-0,Comercial-MS
+A,14/05/11,Corumbaense,1-1,Ponta Porã
+A,14/05/11,7 de Setembro-MS,2-3,Ivinhema
+B,15/05/11,Operário-MS,0-2,SERC
+B,15/05/11,Maracaju,5-1,Rio Verde
+B,15/05/11,MS Saad,0-3,CENE
+A,18/05/11,Ponta Porã,0-1,7 de Setembro-MS
+A,18/05/11,URSO Mundo Novo,1-1,Corumbaense
+B,18/05/11,Rio Verde,1-2,MS Saad
+B,18/05/11,CENE,2-1,Comercial-MS
+B,18/05/11,SERC,0-0,Maracaju
+A,18/05/11,Naviraiense,1-0,Águia Negra
+A,18/05/11,Ivinhema,2-1,Itaporã
+B,18/05/11,Aquidauanense,4-0,Operário-MS
+B,21/05/11,CENE,3-1,Aquidauanense
+B,21/05/11,Comercial-MS,3-0,Rio Verde
+A,21/05/11,Corumbaense,1-1,7 de Setembro-MS
+A,22/05/11,Itaporã,2-2,Ponta Porã
+A,22/05/11,Naviraiense,4-3,URSO Mundo Novo
+B,22/05/11,MS Saad,1-1,SERC
+A,22/05/11,Águia Negra,1-1,Ivinhema
+B,22/05/11,Operário-MS,2-3,Maracaju
+A,29/05/11,Ivinhema,2-1,Naviraiense
+A,29/05/11,Ponta Porã,0-2,Águia Negra
+A,29/05/11,Corumbaense,1-0,Itaporã
+A,29/05/11,7 de Setembro-MS,1-1,URSO Mundo Novo
+B,29/05/11,Rio Verde,0-3,CENE
+B,29/05/11,Maracaju,4-1,Aquidauanense
+B,29/05/11,Operário-MS,0-4,MS Saad
+B,29/05/11,Comercial-MS,2-1,SERC
+QF,04/06/11,Aquidauanense,1-1,Águia Negra
+QF,04/06/11,Naviraiense,1-0,Maracaju
+QF,05/06/11,Comercial-MS,0-0,Ivinhema
+QF,05/06/11,URSO Mundo Novo,0-2,CENE
+QF,11/06/11,CENE,3-2,URSO Mundo Novo
+QF,12/06/11,Maracaju,1-1,Naviraiense
+QF,12/06/11,Ivinhema,1-1,Comercial-MS
+QF,12/06/11,Águia Negra,2-3,Aquidauanense
+SF,18/06/11,Comercial-MS,0-4,Aquidauanense
+SF,18/06/11,Naviraiense,0-0,CENE
+SF,25/06/11,Aquidauanense,0-2,Comercial-MS
+SF,25/06/11,CENE,1-1,Naviraiense
+F,01/07/11,CENE,3-1,Aquidauanense
+F,08/07/11,Aquidauanense,2-0,CENE

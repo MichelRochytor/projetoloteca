@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,30/08/91,Valencia,2-1,Deportivo
+1,30/08/91,Athletic Bilbao,0-2,Sevilla
+1,30/08/91,Cádiz,0-1,Real Madrid
+1,31/08/91,Barcelona,2-0,Real Sociedad
+1,31/08/91,Atlético de Madrid,2-0,Real Burgos
+1,31/08/91,Real Zaragoza,1-1,Espanyol
+1,31/08/91,Real Oviedo,0-0,Mallorca
+1,31/08/91,Tenerife,3-0,CD Logroñés
+1,31/08/91,Osasuna,2-0,Albacete
+1,31/08/91,Valladolid,0-1,Sporting Gijón
+2,06/09/91,Sevilla,4-2,Barcelona
+2,07/09/91,Real Madrid,1-0,Valladolid
+2,07/09/91,Real Sociedad,0-0,Real Zaragoza
+2,07/09/91,Albacete,1-0,Valencia
+2,07/09/91,Sporting Gijón,3-2,Athletic Bilbao
+2,07/09/91,Real Burgos,4-0,Osasuna
+2,07/09/91,CD Logroñés,2-1,Cádiz
+2,07/09/91,Espanyol,0-1,Real Oviedo
+2,07/09/91,Deportivo,1-1,Tenerife
+2,07/09/91,Mallorca,0-2,Atlético de Madrid
+3,13/09/91,Barcelona,3-1,Real Zaragoza
+3,13/09/91,Valencia,1-1,Real Burgos
+3,13/09/91,Real Oviedo,2-0,Real Sociedad
+3,13/09/91,Athletic Bilbao,1-4,Real Madrid
+3,13/09/91,Osasuna,1-0,Mallorca
+3,14/09/91,Atlético de Madrid,3-0,Espanyol
+3,14/09/91,Sevilla,2-1,Sporting Gijón
+3,14/09/91,Tenerife,2-3,Albacete
+3,14/09/91,Cádiz,1-0,Deportivo
+3,14/09/91,Valladolid,1-2,CD Logroñés
+4,27/09/91,Real Madrid,3-1,Sevilla
+4,27/09/91,Real Sociedad,0-2,Atlético de Madrid
+4,27/09/91,Real Zaragoza,3-2,Real Oviedo
+4,27/09/91,Sporting Gijón,2-1,Barcelona
+4,28/09/91,Albacete,0-1,Cádiz
+4,28/09/91,Real Burgos,3-1,Tenerife
+4,28/09/91,CD Logroñés,0-1,Athletic Bilbao
+4,28/09/91,Espanyol,3-2,Osasuna
+4,28/09/91,Deportivo,1-0,Valladolid
+4,28/09/91,Mallorca,0-1,Valencia
+5,04/10/91,Valencia,1-0,Espanyol
+5,05/10/91,Barcelona,1-2,Real Oviedo
+5,05/10/91,Atlético de Madrid,2-1,Real Zaragoza
+5,05/10/91,Sporting Gijón,1-4,Real Madrid
+5,05/10/91,Sevilla,0-1,CD Logroñés
+5,05/10/91,Tenerife,0-1,Mallorca
+5,05/10/91,Athletic Bilbao,0-0,Deportivo
+5,05/10/91,Osasuna,1-0,Real Sociedad
+5,05/10/91,Cádiz,0-2,Real Burgos
+5,05/10/91,Valladolid,1-0,Albacete
+6,18/10/91,Real Madrid,1-1,Barcelona
+6,18/10/91,Real Oviedo,0-1,Atlético de Madrid
+6,19/10/91,Real Sociedad,3-1,Valencia
+6,19/10/91,Real Zaragoza,2-0,Osasuna
+6,19/10/91,Albacete,4-0,Athletic Bilbao
+6,19/10/91,Real Burgos,1-0,Valladolid
+6,19/10/91,CD Logroñés,0-0,Sporting Gijón
+6,19/10/91,Espanyol,2-2,Tenerife
+6,19/10/91,Deportivo,3-1,Sevilla
+6,19/10/91,Mallorca,1-0,Cádiz
+7,25/10/91,Barcelona,1-0,Atlético de Madrid
+7,26/10/91,Real Madrid,3-0,CD Logroñés
+7,26/10/91,Valencia,0-1,Real Zaragoza
+7,26/10/91,Sporting Gijón,1-0,Deportivo
+7,26/10/91,Sevilla,3-0,Albacete
+7,26/10/91,Tenerife,0-0,Real Sociedad
+7,26/10/91,Athletic Bilbao,0-0,Real Burgos
+7,26/10/91,Osasuna,1-0,Real Oviedo
+7,26/10/91,Cádiz,2-1,Espanyol
+7,26/10/91,Valladolid,2-1,Mallorca
+8,01/11/91,Atlético de Madrid,1-0,Osasuna
+8,01/11/91,Deportivo,0-3,Real Madrid
+8,02/11/91,Real Sociedad,1-0,Cádiz
+8,02/11/91,Real Zaragoza,3-0,Tenerife
+8,02/11/91,Albacete,0-2,Sporting Gijón
+8,02/11/91,Real Burgos,1-0,Sevilla
+8,02/11/91,CD Logroñés,2-2,Barcelona
+8,02/11/91,Real Oviedo,2-2,Valencia
+8,02/11/91,Espanyol,0-2,Valladolid
+8,02/11/91,Mallorca,1-2,Athletic Bilbao
+9,08/11/91,Valencia,2-0,Atlético de Madrid
+9,09/11/91,Barcelona,2-0,Osasuna
+9,09/11/91,Real Madrid,2-1,Albacete
+9,09/11/91,Sporting Gijón,0-0,Real Burgos
+9,09/11/91,CD Logroñés,2-1,Deportivo
+9,09/11/91,Sevilla,2-0,Mallorca
+9,09/11/91,Tenerife,1-0,Real Oviedo
+9,09/11/91,Athletic Bilbao,0-2,Espanyol
+9,09/11/91,Cádiz,0-0,Real Zaragoza
+9,09/11/91,Valladolid,2-2,Real Sociedad
+10,15/11/91,Real Sociedad,2-0,Athletic Bilbao
+10,16/11/91,Atlético de Madrid,1-0,Tenerife
+10,16/11/91,Real Zaragoza,2-0,Valladolid
+10,16/11/91,Albacete,2-0,CD Logroñés
+10,16/11/91,Real Burgos,0-2,Real Madrid
+10,16/11/91,Real Oviedo,2-1,Cádiz
+10,16/11/91,Osasuna,0-1,Valencia
+10,16/11/91,Espanyol,1-1,Sevilla
+10,16/11/91,Deportivo,0-4,Barcelona
+10,16/11/91,Mallorca,0-1,Sporting Gijón
+11,22/11/91,Barcelona,3-1,Valencia
+11,23/11/91,Real Madrid,2-0,Mallorca
+11,23/11/91,Sporting Gijón,3-0,Espanyol
+11,23/11/91,CD Logroñés,1-2,Real Burgos
+11,23/11/91,Sevilla,2-2,Real Sociedad
+11,23/11/91,Tenerife,0-0,Osasuna
+11,23/11/91,Athletic Bilbao,1-0,Real Zaragoza
+11,23/11/91,Deportivo,2-2,Albacete
+11,23/11/91,Cádiz,1-1,Atlético de Madrid
+11,23/11/91,Valladolid,1-1,Real Oviedo
+12,29/11/91,Albacete,1-1,Barcelona
+12,30/11/91,Atlético de Madrid,5-1,Valladolid
+12,30/11/91,Valencia,1-0,Tenerife
+12,30/11/91,Real Sociedad,0-0,Sporting Gijón
+12,30/11/91,Real Zaragoza,1-1,Sevilla
+12,30/11/91,Real Burgos,0-0,Deportivo
+12,30/11/91,Real Oviedo,1-1,Athletic Bilbao
+12,30/11/91,Osasuna,1-0,Cádiz
+12,30/11/91,Espanyol,1-5,Real Madrid
+13,06/12/91,Barcelona,5-3,Tenerife
+13,06/12/91,Real Madrid,4-1,Real Sociedad
+13,07/12/91,Albacete,1-0,Real Burgos
+13,07/12/91,Sporting Gijón,1-2,Real Zaragoza
+13,07/12/91,CD Logroñés,2-1,Espanyol
+13,07/12/91,Sevilla,1-1,Real Oviedo
+13,07/12/91,Athletic Bilbao,3-2,Atlético de Madrid
+13,07/12/91,Deportivo,1-0,Mallorca
+13,07/12/91,Cádiz,2-0,Valencia
+13,07/12/91,Valladolid,1-1,Osasuna
+14,13/12/91,Atlético de Madrid,0-3,Sevilla
+14,14/12/91,Valencia,3-1,Valladolid
+14,14/12/91,Real Sociedad,4-0,CD Logroñés
+14,14/12/91,Real Zaragoza,1-1,Real Madrid
+14,14/12/91,Real Burgos,2-2,Barcelona
+14,14/12/91,Real Oviedo,1-0,Sporting Gijón
+14,14/12/91,Tenerife,3-1,Cádiz
+14,14/12/91,Osasuna,1-1,Athletic Bilbao
+14,14/12/91,Espanyol,0-3,Deportivo
+14,14/12/91,Mallorca,0-1,Albacete
+15,20/12/91,Barcelona,4-1,Cádiz
+15,20/12/91,Athletic Bilbao,2-3,Valencia
+15,21/12/91,Real Madrid,0-0,Real Oviedo
+15,21/12/91,Albacete,3-2,Espanyol
+15,21/12/91,Sporting Gijón,0-1,Atlético de Madrid
+15,21/12/91,Real Burgos,0-0,Mallorca
+15,21/12/91,CD Logroñés,0-2,Real Zaragoza
+15,21/12/91,Sevilla,1-0,Osasuna
+15,21/12/91,Deportivo,0-0,Real Sociedad
+15,21/12/91,Valladolid,2-2,Tenerife
+16,03/01/92,Atlético de Madrid,2-0,Real Madrid
+16,03/01/92,Tenerife,4-1,Athletic Bilbao
+16,04/01/92,Valencia,3-2,Sevilla
+16,04/01/92,Real Sociedad,0-1,Albacete
+16,04/01/92,Real Zaragoza,1-0,Deportivo
+16,04/01/92,Real Oviedo,2-3,CD Logroñés
+16,04/01/92,Osasuna,0-2,Sporting Gijón
+16,04/01/92,Espanyol,0-0,Real Burgos
+16,04/01/92,Cádiz,0-0,Valladolid
+16,04/01/92,Mallorca,1-2,Barcelona
+17,10/01/92,CD Logroñés,1-0,Atlético de Madrid
+17,11/01/92,Barcelona,2-1,Valladolid
+17,11/01/92,Real Madrid,5-2,Osasuna
+17,11/01/92,Albacete,1-1,Real Zaragoza
+17,11/01/92,Sporting Gijón,0-3,Valencia
+17,11/01/92,Real Burgos,0-1,Real Sociedad
+17,11/01/92,Sevilla,4-1,Tenerife
+17,11/01/92,Athletic Bilbao,3-1,Cádiz
+17,11/01/92,Deportivo,0-0,Real Oviedo
+17,11/01/92,Mallorca,1-0,Espanyol
+18,17/01/92,Valencia,2-1,Real Madrid
+18,18/01/92,Barcelona,4-3,Espanyol
+18,18/01/92,Atlético de Madrid,1-2,Deportivo
+18,18/01/92,Real Sociedad,1-0,Mallorca
+18,18/01/92,Real Zaragoza,1-0,Real Burgos
+18,18/01/92,Real Oviedo,0-1,Albacete
+18,18/01/92,Tenerife,0-0,Sporting Gijón
+18,18/01/92,Osasuna,3-0,CD Logroñés
+18,18/01/92,Cádiz,1-1,Sevilla
+18,18/01/92,Valladolid,1-1,Athletic Bilbao
+19,24/01/92,Athletic Bilbao,0-2,Barcelona
+19,25/01/92,Real Madrid,2-1,Tenerife
+19,25/01/92,Albacete,3-1,Atlético de Madrid
+19,25/01/92,Sporting Gijón,2-1,Cádiz
+19,25/01/92,Real Burgos,1-0,Real Oviedo
+19,25/01/92,CD Logroñés,0-0,Valencia
+19,25/01/92,Sevilla,2-1,Valladolid
+19,25/01/92,Espanyol,2-0,Real Sociedad
+19,25/01/92,Deportivo,0-0,Osasuna
+19,25/01/92,Mallorca,0-1,Real Zaragoza
+20,31/01/92,Real Burgos,1-1,Atlético de Madrid
+20,01/02/92,Real Madrid,1-1,Cádiz
+20,01/02/92,Real Sociedad,2-1,Barcelona
+20,01/02/92,Albacete,1-0,Osasuna
+20,01/02/92,Sporting Gijón,1-0,Valladolid
+20,01/02/92,CD Logroñés,2-0,Tenerife
+20,01/02/92,Sevilla,1-2,Athletic Bilbao
+20,01/02/92,Espanyol,1-0,Real Zaragoza
+20,01/02/92,Deportivo,0-1,Valencia
+20,01/02/92,Mallorca,2-1,Real Oviedo
+21,07/02/92,Barcelona,1-0,Sevilla
+21,08/02/92,Atlético de Madrid,3-0,Mallorca
+21,08/02/92,Valencia,1-1,Albacete
+21,08/02/92,Real Zaragoza,1-3,Real Sociedad
+21,08/02/92,Real Oviedo,1-0,Espanyol
+21,08/02/92,Tenerife,1-0,Deportivo
+21,08/02/92,Athletic Bilbao,2-0,Sporting Gijón
+21,08/02/92,Osasuna,1-1,Real Burgos
+21,08/02/92,Cádiz,2-0,CD Logroñés
+21,08/02/92,Valladolid,2-1,Real Madrid
+12,11/02/92,Mallorca,2-1,CD Logroñés
+22,14/02/92,Real Zaragoza,0-4,Barcelona
+22,15/02/92,Real Madrid,5-0,Athletic Bilbao
+22,15/02/92,Real Sociedad,2-1,Real Oviedo
+22,15/02/92,Albacete,1-1,Tenerife
+22,15/02/92,Sporting Gijón,2-1,Sevilla
+22,15/02/92,Real Burgos,2-1,Valencia
+22,15/02/92,CD Logroñés,0-0,Valladolid
+22,15/02/92,Espanyol,1-2,Atlético de Madrid
+22,15/02/92,Deportivo,1-1,Cádiz
+22,15/02/92,Mallorca,1-1,Osasuna
+23,21/02/92,Valencia,1-1,Mallorca
+23,21/02/92,Sevilla,1-0,Real Madrid
+23,22/02/92,Barcelona,1-1,Sporting Gijón
+23,22/02/92,Atlético de Madrid,5-1,Real Sociedad
+23,22/02/92,Real Oviedo,2-1,Real Zaragoza
+23,22/02/92,Tenerife,4-1,Real Burgos
+23,22/02/92,Athletic Bilbao,1-2,CD Logroñés
+23,22/02/92,Osasuna,0-1,Espanyol
+23,22/02/92,Cádiz,1-1,Albacete
+23,22/02/92,Valladolid,2-0,Deportivo
+24,28/02/92,Real Madrid,1-0,Sporting Gijón
+24,28/02/92,Real Zaragoza,1-0,Atlético de Madrid
+24,28/02/92,Real Oviedo,0-2,Barcelona
+24,28/02/92,Espanyol,0-0,Valencia
+24,29/02/92,Real Sociedad,0-0,Osasuna
+24,29/02/92,Albacete,3-1,Valladolid
+24,29/02/92,Real Burgos,1-1,Cádiz
+24,29/02/92,CD Logroñés,1-0,Sevilla
+24,29/02/92,Deportivo,0-0,Athletic Bilbao
+24,29/02/92,Mallorca,0-2,Tenerife
+25,06/03/92,Barcelona,1-1,Real Madrid
+25,07/03/92,Atlético de Madrid,3-1,Real Oviedo
+25,07/03/92,Valencia,1-2,Real Sociedad
+25,07/03/92,Sporting Gijón,1-1,CD Logroñés
+25,07/03/92,Sevilla,0-0,Deportivo
+25,07/03/92,Tenerife,0-1,Espanyol
+25,07/03/92,Athletic Bilbao,1-0,Albacete
+25,07/03/92,Osasuna,1-0,Real Zaragoza
+25,07/03/92,Cádiz,1-3,Mallorca
+25,07/03/92,Valladolid,2-0,Real Burgos
+26,13/03/92,Atlético de Madrid,2-2,Barcelona
+26,13/03/92,CD Logroñés,1-0,Real Madrid
+26,14/03/92,Real Sociedad,1-0,Tenerife
+26,14/03/92,Real Zaragoza,0-3,Valencia
+26,14/03/92,Albacete,0-0,Sevilla
+26,14/03/92,Real Burgos,2-0,Athletic Bilbao
+26,14/03/92,Real Oviedo,3-1,Osasuna
+26,14/03/92,Espanyol,3-1,Cádiz
+26,14/03/92,Deportivo,5-2,Sporting Gijón
+26,14/03/92,Mallorca,1-1,Valladolid
+27,20/03/92,Valladolid,0-0,Espanyol
+27,21/03/92,Barcelona,1-0,CD Logroñés
+27,21/03/92,Real Madrid,1-0,Deportivo
+27,21/03/92,Valencia,6-3,Real Oviedo
+27,21/03/92,Sporting Gijón,0-2,Albacete
+27,21/03/92,Sevilla,3-2,Real Burgos
+27,21/03/92,Tenerife,1-0,Real Zaragoza
+27,21/03/92,Athletic Bilbao,2-0,Mallorca
+27,21/03/92,Osasuna,1-1,Atlético de Madrid
+27,21/03/92,Cádiz,0-0,Real Sociedad
+28,27/03/92,Albacete,1-3,Real Madrid
+28,27/03/92,Osasuna,0-0,Barcelona
+28,27/03/92,Mallorca,1-0,Sevilla
+28,28/03/92,Atlético de Madrid,1-0,Valencia
+28,28/03/92,Real Sociedad,1-0,Valladolid
+28,28/03/92,Real Zaragoza,3-0,Cádiz
+28,28/03/92,Real Burgos,0-1,Sporting Gijón
+28,28/03/92,Real Oviedo,2-0,Tenerife
+28,28/03/92,Espanyol,2-0,Athletic Bilbao
+28,28/03/92,Deportivo,2-2,CD Logroñés
+29,03/04/92,Valencia,1-2,Osasuna
+29,03/04/92,Athletic Bilbao,2-1,Real Sociedad
+29,04/04/92,Barcelona,4-1,Deportivo
+29,04/04/92,Real Madrid,2-0,Real Burgos
+29,04/04/92,Sporting Gijón,2-0,Mallorca
+29,04/04/92,CD Logroñés,1-1,Albacete
+29,04/04/92,Sevilla,2-1,Espanyol
+29,04/04/92,Tenerife,0-1,Atlético de Madrid
+29,04/04/92,Cádiz,3-1,Real Oviedo
+29,04/04/92,Valladolid,0-0,Real Zaragoza
+30,10/04/92,Valencia,1-0,Barcelona
+30,10/04/92,Real Sociedad,2-1,Sevilla
+30,10/04/92,Mallorca,0-0,Real Madrid
+30,11/04/92,Atlético de Madrid,5-1,Cádiz
+30,11/04/92,Real Zaragoza,1-0,Athletic Bilbao
+30,11/04/92,Albacete,3-0,Deportivo
+30,11/04/92,Real Burgos,2-0,CD Logroñés
+30,11/04/92,Real Oviedo,2-1,Valladolid
+30,11/04/92,Osasuna,2-0,Tenerife
+30,11/04/92,Espanyol,2-0,Sporting Gijón

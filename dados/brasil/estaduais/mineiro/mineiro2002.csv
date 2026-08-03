@@ -1,0 +1,93 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,27/01/01,Cruzeiro,1-1,Mamoré
+1F,28/01/01,Uberlândia,0-0,Villa Nova-MG
+1F,28/01/01,URT,0-1,Caldense
+1F,28/01/01,Rio Branco de Andradas,1-1,América Mineiro
+1F,28/01/01,Ipatinga,1-0,Democrata-GV
+1F,28/01/01,Atlético Mineiro,2-0,Guarani-MG
+1F,03/02/01,Villa Nova-MG,0-0,Atlético Mineiro
+1F,04/02/01,Guarani-MG,2-3,Rio Branco de Andradas
+1F,04/02/01,Caldense,2-4,Cruzeiro
+1F,04/02/01,Mamoré,2-0,Uberlândia
+1F,04/02/01,América Mineiro,0-0,Ipatinga
+1F,04/02/01,Democrata-GV,1-0,URT
+1F,10/02/01,Cruzeiro,4-1,América Mineiro
+1F,11/02/01,URT,1-0,Mamoré
+1F,11/02/01,Guarani-MG,0-1,Democrata-GV
+1F,11/02/01,Rio Branco de Andradas,0-3,Atlético Mineiro
+1F,11/02/01,Uberlândia,1-0,Caldense
+1F,11/02/01,Ipatinga,3-0,Villa Nova-MG
+1F,17/02/01,Democrata-GV,0-1,Cruzeiro
+1F,18/02/01,Mamoré,2-1,Guarani-MG
+1F,18/02/01,Villa Nova-MG,3-0,URT
+1F,18/02/01,Caldense,2-1,Rio Branco de Andradas
+1F,18/02/01,Atlético Mineiro,2-1,Ipatinga
+1F,18/02/01,América Mineiro,2-0,Uberlândia
+1F,24/02/01,Atlético Mineiro,3-0,Caldense
+1F,24/02/01,Uberlândia,1-0,Democrata-GV
+1F,24/02/01,URT,4-2,Ipatinga
+1F,24/02/01,Guarani-MG,3-2,Cruzeiro
+1F,24/02/01,Rio Branco de Andradas,2-2,Mamoré
+1F,24/02/01,América Mineiro,1-2,Villa Nova-MG
+1F,03/03/01,Cruzeiro,1-1,Atlético Mineiro
+1F,04/03/01,Caldense,2-1,Democrata-GV
+1F,04/03/01,Rio Branco de Andradas,1-0,URT
+1F,04/03/01,Mamoré,3-2,América Mineiro
+1F,04/03/01,Villa Nova-MG,5-2,Guarani-MG
+1F,04/03/01,Ipatinga,5-0,Uberlândia
+1F,07/03/01,URT,1-2,Cruzeiro
+1F,11/03/01,Guarani-MG,0-2,Ipatinga
+1F,11/03/01,Villa Nova-MG,1-2,Mamoré
+1F,11/03/01,América Mineiro,2-1,Caldense
+1F,11/03/01,Democrata-GV,0-0,Rio Branco de Andradas
+1F,14/03/01,Uberlândia,0-3,Atlético Mineiro
+1F,17/03/01,Atlético Mineiro,1-0,América Mineiro
+1F,18/03/01,Villa Nova-MG,2-0,Caldense
+1F,18/03/01,Guarani-MG,0-1,URT
+1F,18/03/01,Rio Branco de Andradas,2-1,Uberlândia
+1F,18/03/01,Mamoré,3-2,Democrata-GV
+1F,24/03/01,Cruzeiro,0-1,Rio Branco de Andradas
+1F,24/03/01,URT,2-1,Uberlândia
+1F,25/03/01,Mamoré,2-0,Atlético Mineiro
+1F,25/03/01,Caldense,1-0,Ipatinga
+1F,25/03/01,América Mineiro,4-0,Guarani-MG
+1F,25/03/01,Democrata-GV,4-3,Villa Nova-MG
+1F,28/03/01,Ipatinga,0-1,Cruzeiro
+1F,31/03/01,Atlético Mineiro,2-2,Democrata-GV
+1F,31/03/01,Uberlândia,1-0,Cruzeiro
+1F,01/04/01,Villa Nova-MG,1-0,Rio Branco de Andradas
+1F,01/04/01,Caldense,1-1,Guarani-MG
+1F,01/04/01,América Mineiro,2-1,URT
+1F,01/04/01,Ipatinga,3-0,Mamoré
+1F,07/04/01,Democrata-GV,0-1,América Mineiro
+1F,07/04/01,Guarani-MG,0-2,Uberlândia
+1F,07/04/01,Mamoré,1-2,Caldense
+1F,07/04/01,Rio Branco de Andradas,1-1,Ipatinga
+1F,07/04/01,URT,2-0,Atlético Mineiro
+1F,08/04/01,Cruzeiro,4-1,Villa Nova-MG
+B,14/04/01,Ipatinga,0-1,Cruzeiro
+A,15/04/01,Villa Nova-MG,2-2,Mamoré
+A,15/04/01,Atlético Mineiro,3-1,Rio Branco de Andradas
+B,15/04/01,América Mineiro,3-0,Caldense
+B,21/04/01,Cruzeiro,0-1,América Mineiro
+A,22/04/01,Mamoré,0-2,Atlético Mineiro
+A,22/04/01,Rio Branco de Andradas,1-0,Villa Nova-MG
+B,22/04/01,Caldense,3-2,Ipatinga
+A,28/04/01,Atlético Mineiro,2-4,Villa Nova-MG
+B,28/04/01,Caldense,1-2,Cruzeiro
+A,29/04/01,Rio Branco de Andradas,0-1,Mamoré
+B,29/04/01,América Mineiro,0-1,Ipatinga
+B,05/05/01,Cruzeiro,1-3,Ipatinga
+A,06/05/01,Rio Branco de Andradas,1-1,Atlético Mineiro
+A,06/05/01,Mamoré,3-2,Villa Nova-MG
+B,06/05/01,Caldense,0-2,América Mineiro
+A,12/05/01,Atlético Mineiro,4-1,Mamoré
+A,13/05/01,Villa Nova-MG,1-0,Rio Branco de Andradas
+B,13/05/01,Ipatinga,1-2,Caldense
+B,13/05/01,América Mineiro,1-3,Cruzeiro
+A,20/05/01,Mamoré,0-0,Rio Branco de Andradas
+A,20/05/01,Villa Nova-MG,1-0,Atlético Mineiro
+B,20/05/01,Cruzeiro,1-1,Caldense
+B,20/05/01,Ipatinga,1-2,América Mineiro
+F,27/05/01,América Mineiro,4-1,Atlético Mineiro
+F,02/06/01,Atlético Mineiro,3-1,América Mineiro

@@ -1,0 +1,195 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,16/02/86,Novo Hamburgo,1-1,Esportivo
+,16/02/86,São Borja,0-0,Juventude
+,16/02/86,Caxias,0-0,GE Brasil
+,16/02/86,Santa Cruz-RS,0-0,Internacional
+,16/02/86,Grêmio,2-1,Inter SM
+,16/02/86,Pelotas,1-1,Bagé
+,16/02/86,São Paulo-RS,0-0,Aimoré
+,23/02/86,Aimoré,2-0,Pelotas
+,23/02/86,Esportivo,1-1,São Borja
+,23/02/86,Inter SM,2-2,Caxias
+,23/02/86,GE Brasil,0-1,Grêmio
+,23/02/86,Internacional,2-0,Novo Hamburgo
+,23/02/86,Juventude,0-0,São Paulo-RS
+,23/02/86,Bagé,0-0,Santa Cruz-RS
+,02/03/86,Santa Cruz-RS,0-0,Aimoré
+,02/03/86,Bagé,0-2,Juventude
+,02/03/86,Esportivo,1-0,GE Brasil
+,02/03/86,São Paulo-RS,1-1,Inter SM
+,02/03/86,Caxias,0-2,Internacional
+,02/03/86,Grêmio,5-2,Novo Hamburgo
+,02/03/86,Pelotas,2-1,São Borja
+,05/03/86,Caxias,0-0,Pelotas
+,05/03/86,GE Brasil,0-0,Inter SM
+,05/03/86,Aimoré,0-1,Juventude
+,05/03/86,Santa Cruz-RS,2-0,São Paulo-RS
+,05/03/86,Novo Hamburgo,3-1,Bagé
+,05/03/86,São Borja,3-0,Internacional
+,05/03/86,Grêmio,3-0,Esportivo
+,09/03/86,São Borja,4-2,Caxias
+,09/03/86,Inter SM,2-1,Bagé
+,09/03/86,Novo Hamburgo,2-1,Santa Cruz-RS
+,09/03/86,São Paulo-RS,0-1,Esportivo
+,09/03/86,GE Brasil,1-1,Pelotas
+,09/03/86,Juventude,1-2,Grêmio
+,09/03/86,Internacional,1-0,Aimoré
+,12/03/86,Caxias,3-1,São Paulo-RS
+,12/03/86,Pelotas,0-1,Juventude
+,12/03/86,Inter SM,0-0,Novo Hamburgo
+,12/03/86,Santa Cruz-RS,0-0,GE Brasil
+,12/03/86,Esportivo,2-1,Aimoré
+,12/03/86,Bagé,1-1,Internacional
+,12/03/86,Grêmio,2-0,São Borja
+,16/03/86,Pelotas,0-0,Grêmio
+,16/03/86,Internacional,2-0,São Paulo-RS
+,16/03/86,Santa Cruz-RS,0-2,Inter SM
+,16/03/86,Caxias,1-0,Juventude
+,16/03/86,São Borja,0-2,GE Brasil
+,16/03/86,Aimoré,0-2,Novo Hamburgo
+,16/03/86,Bagé,0-0,Esportivo
+,19/03/86,Grêmio,5-0,Bagé
+,19/03/86,GE Brasil,1-5,Internacional
+,19/03/86,São Paulo-RS,1-1,Pelotas
+,19/03/86,Esportivo,2-2,Santa Cruz-RS
+,19/03/86,Inter SM,1-1,Juventude
+,19/03/86,Novo Hamburgo,2-1,São Borja
+,19/03/86,Caxias,2-0,Aimoré
+,23/03/86,Grêmio,1-0,Internacional
+,23/03/86,Pelotas,1-1,Novo Hamburgo
+,23/03/86,Esportivo,2-2,Caxias
+,23/03/86,São Borja,1-2,Inter SM
+,23/03/86,Juventude,0-1,Santa Cruz-RS
+,23/03/86,Aimoré,2-0,GE Brasil
+,23/03/86,São Paulo-RS,1-0,Bagé
+,26/03/86,Grêmio,3-1,São Paulo-RS
+,26/03/86,Pelotas,0-4,Internacional
+,26/03/86,Juventude,1-0,Esportivo
+,26/03/86,Inter SM,0-0,Aimoré
+,26/03/86,Bagé,1-1,GE Brasil
+,26/03/86,Santa Cruz-RS,2-2,São Borja
+,27/03/86,Novo Hamburgo,1-1,Caxias
+,30/03/86,Internacional,0-0,Esportivo
+,30/03/86,Aimoré,1-2,Grêmio
+,30/03/86,Inter SM,2-0,Pelotas
+,30/03/86,Novo Hamburgo,0-0,Juventude
+,30/03/86,GE Brasil,0-0,São Paulo-RS
+,30/03/86,São Borja,1-0,Bagé
+,30/03/86,Caxias,1-1,Santa Cruz-RS
+,02/04/86,Internacional,2-1,Juventude
+,02/04/86,Caxias,1-1,Grêmio
+,02/04/86,Esportivo,3-1,Inter SM
+,02/04/86,GE Brasil,0-2,Novo Hamburgo
+,02/04/86,São Paulo-RS,2-0,São Borja
+,02/04/86,Aimoré,1-0,Bagé
+,02/04/86,Santa Cruz-RS,0-0,Pelotas
+,06/04/86,Grêmio,1-3,Santa Cruz-RS
+,06/04/86,Inter SM,0-0,Internacional
+,06/04/86,Pelotas,4-0,Esportivo
+,06/04/86,Juventude,2-1,GE Brasil
+,06/04/86,Novo Hamburgo,0-0,São Paulo-RS
+,06/04/86,São Borja,2-1,Aimoré
+,06/04/86,Bagé,1-1,Caxias
+,09/04/86,Inter SM,0-2,Grêmio
+,09/04/86,Internacional,3-0,Santa Cruz-RS
+,09/04/86,Aimoré,1-2,São Paulo-RS
+,09/04/86,GE Brasil,1-1,Caxias
+,09/04/86,Juventude,3-0,São Borja
+,09/04/86,Esportivo,0-3,Novo Hamburgo
+,09/04/86,Bagé,2-2,Pelotas
+,13/04/86,Novo Hamburgo,1-1,Internacional
+,13/04/86,Grêmio,3-1,GE Brasil
+,13/04/86,Santa Cruz-RS,1-0,Bagé
+,13/04/86,Caxias,1-1,Inter SM
+,13/04/86,São Borja,1-0,Esportivo
+,13/04/86,Pelotas,0-0,Aimoré
+,16/04/86,Aimoré,0-0,Santa Cruz-RS
+,16/04/86,Internacional,5-3,Caxias
+,16/04/86,Novo Hamburgo,3-3,Grêmio
+,16/04/86,GE Brasil,2-0,Esportivo
+,16/04/86,Inter SM,2-0,São Paulo-RS
+,16/04/86,São Borja,3-0,Pelotas
+,16/04/86,Juventude,2-0,Bagé
+,20/04/86,Juventude,1-1,Aimoré
+,20/04/86,Internacional,3-1,São Borja
+,20/04/86,Esportivo,0-4,Grêmio
+,20/04/86,Pelotas,0-0,Caxias
+,20/04/86,Inter SM,1-1,GE Brasil
+,20/04/86,São Paulo-RS,0-0,Santa Cruz-RS
+,20/04/86,Bagé,1-3,Novo Hamburgo
+,23/04/86,Aimoré,1-2,Internacional
+,23/04/86,Grêmio,0-1,Juventude
+,23/04/86,Caxias,1-1,São Borja
+,23/04/86,Bagé,0-0,Inter SM
+,23/04/86,Santa Cruz-RS,0-1,Novo Hamburgo
+,23/04/86,Esportivo,1-1,São Paulo-RS
+,23/04/86,Pelotas,2-0,GE Brasil
+,27/04/86,Aimoré,2-0,Esportivo
+,27/04/86,Internacional,6-0,Bagé
+,27/04/86,São Borja,1-2,Grêmio
+,27/04/86,São Paulo-RS,3-1,Caxias
+,27/04/86,Juventude,2-0,Pelotas
+,27/04/86,Novo Hamburgo,3-2,Inter SM
+,27/04/86,GE Brasil,2-0,Santa Cruz-RS
+,30/04/86,Grêmio,5-0,Pelotas
+,30/04/86,São Paulo-RS,1-3,Internacional
+,30/04/86,Inter SM,1-1,Santa Cruz-RS
+,30/04/86,Caxias,0-0,Juventude
+,30/04/86,GE Brasil,1-0,São Borja
+,30/04/86,Esportivo,2-0,Bagé
+,01/05/86,Novo Hamburgo,1-0,Aimoré
+,04/05/86,Aimoré,1-1,Caxias
+,04/05/86,Bagé,0-3,Grêmio
+,04/05/86,Internacional,1-0,GE Brasil
+,04/05/86,Pelotas,2-0,São Paulo-RS
+,04/05/86,Santa Cruz-RS,0-1,Esportivo
+,04/05/86,Juventude,2-1,Inter SM
+,04/05/86,São Borja,2-0,Novo Hamburgo
+,07/05/86,São Paulo-RS,1-1,Juventude
+,11/05/86,GE Brasil,0-0,Aimoré
+,11/05/86,Internacional,3-1,Grêmio
+,11/05/86,Novo Hamburgo,1-1,Pelotas
+,11/05/86,Caxias,3-1,Esportivo
+,11/05/86,Inter SM,1-1,São Borja
+,11/05/86,Santa Cruz-RS,2-1,Juventude
+,11/05/86,Bagé,1-2,São Paulo-RS
+,14/05/86,Aimoré,1-0,Inter SM
+,14/05/86,São Paulo-RS,3-1,Grêmio
+,14/05/86,Internacional,2-0,Pelotas
+,14/05/86,Esportivo,0-0,Juventude
+,14/05/86,GE Brasil,4-1,Bagé
+,14/05/86,Caxias,1-0,Novo Hamburgo
+,14/05/86,São Borja,0-1,Santa Cruz-RS
+,18/05/86,Grêmio,4-0,Aimoré
+,18/05/86,Esportivo,1-1,Internacional
+,18/05/86,Pelotas,1-1,Inter SM
+,18/05/86,Juventude,0-2,Novo Hamburgo
+,18/05/86,São Paulo-RS,1-1,GE Brasil
+,18/05/86,Bagé,0-1,São Borja
+,18/05/86,Santa Cruz-RS,1-0,Caxias
+,21/05/86,Bagé,1-0,Aimoré
+,21/05/86,Juventude,0-1,Internacional
+,21/05/86,Grêmio,5-1,Caxias
+,21/05/86,Inter SM,2-1,Esportivo
+,21/05/86,Novo Hamburgo,1-2,GE Brasil
+,21/05/86,São Borja,0-0,São Paulo-RS
+,21/05/86,Pelotas,2-1,Santa Cruz-RS
+,24/05/86,Caxias,3-0,Bagé
+,25/05/86,Aimoré,1-1,São Borja
+,25/05/86,Santa Cruz-RS,0-1,Grêmio
+,25/05/86,Internacional,3-0,Inter SM
+,25/05/86,Esportivo,5-1,Pelotas
+,25/05/86,GE Brasil,1-0,Juventude
+,25/05/86,São Paulo-RS,0-1,Novo Hamburgo
+QDF,02/07/86,Juventude,0-2,Grêmio
+QDF,02/07/86,Internacional,4-0,Novo Hamburgo
+QDF,06/07/86,Grêmio,7-0,Novo Hamburgo
+QDF,06/07/86,Juventude,0-0,Internacional
+QDF,09/07/86,Grêmio,2-2,Internacional
+QDF,10/07/86,Novo Hamburgo,0-1,Juventude
+QDF,13/07/86,Grêmio,4-0,Juventude
+QDF,13/07/86,Novo Hamburgo,0-0,Internacional
+QDF,16/07/86,Novo Hamburgo,1-1,Grêmio
+QDF,16/07/86,Internacional,2-1,Juventude
+QDF,20/07/86,Juventude,1-0,Novo Hamburgo
+QDF,20/07/86,Grêmio,1-0,Internacional

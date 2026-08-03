@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,01/07/84,Botafogo-SP,1-1,Ponte Preta
+C,01/07/84,Guarani,1-1,Inter de Limeira
+C,01/07/84,Marília,0-0,Corinthians
+C,01/07/84,Palmeiras,3-1,Santo André
+C,01/07/84,Santos,1-0,Comercial
+C,01/07/84,São Bento,2-2,Juventus-SP
+C,01/07/84,São Paulo,3-0,Ferroviária
+C,01/07/84,Taquaritinga,1-1,XV de Jaú
+C,01/07/84,Taubaté,0-1,América-SP
+C,01/07/84,XV de Piracicaba,0-0,Portuguesa
+C,04/07/84,América-SP,1-0,São Paulo
+C,04/07/84,Corinthians,3-1,XV de Piracicaba
+C,04/07/84,Ponte Preta,1-0,Marília
+C,04/07/84,Santos,1-0,Guarani
+C,04/07/84,XV de Jaú,0-0,São Bento
+C,05/07/84,Palmeiras,2-1,Taubaté
+C,05/07/84,Portuguesa,2-1,Taquaritinga
+C,07/07/84,Corinthians,2-2,Botafogo-SP
+C,07/07/84,São Bento,0-2,São Paulo
+C,08/07/84,Comercial,2-1,América-SP
+C,08/07/84,Ferroviária,1-1,Inter de Limeira
+C,08/07/84,Guarani,1-1,Santo André
+C,08/07/84,Marília,3-1,XV de Piracicaba
+C,08/07/84,Portuguesa,2-1,Juventus-SP
+C,08/07/84,Taquaritinga,0-2,Palmeiras
+C,08/07/84,XV de Jaú,2-1,Taubaté
+C,11/07/84,América-SP,0-0,Guarani
+C,11/07/84,Comercial,0-2,Corinthians
+C,11/07/84,Juventus-SP,1-1,Marília
+C,11/07/84,São Bento,0-1,Botafogo-SP
+C,11/07/84,São Paulo,1-1,XV de Jaú
+C,11/07/84,Taubaté,0-0,Taquaritinga
+C,14/07/84,Juventus-SP,2-0,Comercial
+C,14/07/84,Santos,2-0,América-SP
+C,15/07/84,Botafogo-SP,0-0,XV de Piracicaba
+C,15/07/84,Inter de Limeira,1-1,São Paulo
+C,15/07/84,Palmeiras,3-0,Portuguesa
+C,15/07/84,Ponte Preta,2-2,São Bento
+C,15/07/84,Santo André,1-1,Marília
+C,15/07/84,Taquaritinga,1-2,Guarani
+C,15/07/84,Taubaté,1-1,Corinthians
+C,15/07/84,XV de Jaú,0-1,Ferroviária
+C,18/07/84,Guarani,3-1,XV de Jaú
+C,18/07/84,Inter de Limeira,0-0,Portuguesa
+C,18/07/84,Palmeiras,3-0,Juventus-SP
+C,18/07/84,Santo André,1-2,América-SP
+C,18/07/84,São Bento,0-3,Santos
+C,18/07/84,São Paulo,2-1,Botafogo-SP
+C,18/07/84,XV de Piracicaba,0-0,Comercial
+C,21/07/84,XV de Piracicaba,0-1,Palmeiras
+C,22/07/84,América-SP,1-1,Juventus-SP
+C,22/07/84,Comercial,2-0,Inter de Limeira
+C,22/07/84,Corinthians,2-2,São Paulo
+C,22/07/84,Ferroviária,2-1,Taquaritinga
+C,22/07/84,Marília,1-0,Taubaté
+C,22/07/84,Ponte Preta,0-1,Santos
+C,22/07/84,Portuguesa,0-0,Santo André
+C,22/07/84,São Bento,0-0,Guarani
+C,22/07/84,XV de Jaú,1-1,Botafogo-SP
+C,25/07/84,Botafogo-SP,1-1,Juventus-SP
+C,25/07/84,Palmeiras,4-1,Comercial
+C,25/07/84,Santo André,1-1,XV de Piracicaba
+C,25/07/84,Santos,2-2,Ferroviária
+C,25/07/84,Taubaté,0-2,Inter de Limeira
+C,25/07/84,XV de Jaú,0-3,Ponte Preta
+C,26/07/84,Corinthians,0-1,América-SP
+C,26/07/84,São Paulo,0-0,Taquaritinga
+C,28/07/84,Juventus-SP,1-1,XV de Jaú
+C,28/07/84,Marília,0-1,Palmeiras
+C,29/07/84,Botafogo-SP,1-3,Santos
+C,29/07/84,Corinthians,5-1,Portuguesa
+C,29/07/84,Ferroviária,0-0,Comercial
+C,29/07/84,Guarani,0-0,São Paulo
+C,29/07/84,Inter de Limeira,2-1,São Bento
+C,29/07/84,Santo André,1-1,Ponte Preta
+C,29/07/84,Taquaritinga,1-2,América-SP
+C,29/07/84,XV de Piracicaba,2-1,Taubaté
+C,01/08/84,América-SP,3-2,Botafogo-SP
+C,01/08/84,Comercial,0-1,Portuguesa
+C,01/08/84,Juventus-SP,0-1,Santo André
+C,01/08/84,Ponte Preta,2-1,Taquaritinga
+C,01/08/84,São Paulo,2-0,Marília
+C,01/08/84,XV de Piracicaba,1-0,Inter de Limeira
+C,02/08/84,Corinthians,2-0,São Bento
+C,04/08/84,Juventus-SP,3-0,Ferroviária
+C,05/08/84,América-SP,0-0,XV de Jaú
+C,05/08/84,Comercial,1-0,Marília
+C,05/08/84,Inter de Limeira,0-3,Botafogo-SP
+C,05/08/84,Ponte Preta,1-0,Portuguesa
+C,05/08/84,Santo André,1-1,Corinthians
+C,05/08/84,Santos,1-1,Palmeiras
+C,05/08/84,São Bento,3-1,Taquaritinga
+C,05/08/84,Taubaté,0-0,Guarani
+C,05/08/84,XV de Piracicaba,0-2,São Paulo
+C,08/08/84,Botafogo-SP,0-0,Ferroviária
+C,08/08/84,Corinthians,0-1,Inter de Limeira
+C,08/08/84,Guarani,2-0,Juventus-SP
+C,08/08/84,Santos,3-0,XV de Piracicaba
+C,08/08/84,São Paulo,1-0,Ponte Preta
+C,09/08/84,Palmeiras,0-0,São Bento
+C,11/08/84,Juventus-SP,1-1,Ponte Preta
+C,12/08/84,América-SP,2-0,Palmeiras
+C,12/08/84,Botafogo-SP,0-1,Santo André
+C,12/08/84,Ferroviária,0-0,São Bento
+C,12/08/84,Guarani,3-0,XV de Piracicaba
+C,12/08/84,Marília,1-2,Inter de Limeira
+C,12/08/84,São Paulo,2-0,Portuguesa
+C,12/08/84,Taquaritinga,1-1,Comercial
+C,12/08/84,Taubaté,0-3,Santos
+C,12/08/84,XV de Jaú,1-1,Corinthians
+C,15/08/84,Comercial,0-2,Guarani
+C,15/08/84,Ferroviária,2-3,Corinthians
+C,15/08/84,Ponte Preta,2-0,Taubaté
+C,15/08/84,Portuguesa,1-0,Botafogo-SP
+C,15/08/84,São Bento,0-0,Santo André
+C,15/08/84,Taquaritinga,0-0,Santos
+C,18/08/84,Santos,1-0,Marília
+C,19/08/84,Comercial,2-1,XV de Jaú
+C,19/08/84,Corinthians,2-0,Palmeiras
+C,19/08/84,Guarani,5-1,Botafogo-SP
+C,19/08/84,Inter de Limeira,2-0,Ponte Preta
+C,19/08/84,Santo André,1-0,Taquaritinga
+C,19/08/84,São Bento,0-2,América-SP
+C,19/08/84,Taubaté,0-0,Portuguesa
+C,19/08/84,XV de Piracicaba,4-0,Ferroviária
+C,22/08/84,América-SP,1-3,Marília
+C,22/08/84,Botafogo-SP,0-0,Palmeiras
+C,22/08/84,Ferroviária,1-4,Ponte Preta
+C,22/08/84,Inter de Limeira,1-1,Santo André
+C,22/08/84,Santos,4-2,Juventus-SP
+C,22/08/84,Taquaritinga,1-1,XV de Piracicaba
+C,25/08/84,Portuguesa,1-1,Santos
+C,25/08/84,Santo André,0-2,São Paulo
+C,26/08/84,Botafogo-SP,2-0,Taquaritinga
+C,26/08/84,Juventus-SP,1-0,Taubaté
+C,26/08/84,Marília,3-0,Ferroviária
+C,26/08/84,Palmeiras,3-1,Guarani
+C,26/08/84,Ponte Preta,1-0,Comercial
+C,26/08/84,XV de Jaú,2-1,Inter de Limeira
+C,26/08/84,XV de Piracicaba,2-1,América-SP
+C,29/08/84,Comercial,0-1,São Bento
+C,29/08/84,Corinthians,2-0,Ponte Preta
+C,29/08/84,Portuguesa,0-2,Marília
+C,29/08/84,Santos,2-0,Santo André
+C,29/08/84,Taubaté,1-0,Ferroviária
+C,29/08/84,XV de Piracicaba,3-1,Juventus-SP
+C,30/08/84,Palmeiras,4-1,XV de Jaú
+C,01/09/84,América-SP,1-0,Portuguesa
+C,01/09/84,Corinthians,1-0,Juventus-SP
+C,02/09/84,Botafogo-SP,1-1,Taubaté
+C,02/09/84,Ferroviária,0-1,Palmeiras
+C,02/09/84,Marília,2-1,XV de Jaú
+C,02/09/84,Ponte Preta,2-1,Guarani
+C,02/09/84,Santo André,2-0,Comercial
+C,02/09/84,São Bento,0-0,XV de Piracicaba
+C,02/09/84,São Paulo,4-1,Santos
+C,02/09/84,Taquaritinga,0-0,Inter de Limeira
+C,05/09/84,Guarani,1-0,Ferroviária
+C,05/09/84,Inter de Limeira,0-0,Santos
+C,05/09/84,Marília,2-0,São Bento
+C,05/09/84,Portuguesa,1-2,XV de Jaú
+C,05/09/84,São Paulo,1-0,Taubaté
+C,08/09/84,XV de Jaú,1-1,Santos
+C,09/09/84,América-SP,1-0,Ferroviária
+C,09/09/84,Comercial,1-0,Botafogo-SP
+C,09/09/84,Guarani,2-1,Corinthians
+C,09/09/84,Inter de Limeira,3-1,Juventus-SP
+C,09/09/84,Palmeiras,DA,São Paulo
+C,09/09/84,Portuguesa,2-0,São Bento
+C,09/09/84,Taquaritinga,1-0,Marília
+C,09/09/84,Taubaté,0-1,Santo André
+C,09/09/84,XV de Piracicaba,2-2,Ponte Preta
+C,12/09/84,Ferroviária,1-1,Portuguesa
+C,12/09/84,Juventus-SP,1-0,São Paulo
+C,12/09/84,Marília,4-0,Guarani
+C,12/09/84,Ponte Preta,1-1,América-SP
+C,12/09/84,Santo André,0-0,XV de Jaú
+C,12/09/84,Taubaté,1-2,Comercial
+C,13/09/84,Corinthians,3-0,Taquaritinga
+C,13/09/84,Palmeiras,1-0,Inter de Limeira
+C,15/09/84,Comercial,1-3,São Paulo
+C,16/09/84,Corinthians,0-0,Santos
+C,16/09/84,Ferroviária,1-1,Santo André
+C,16/09/84,Inter de Limeira,1-1,América-SP
+C,16/09/84,Marília,0-0,Botafogo-SP
+C,16/09/84,Ponte Preta,2-0,Palmeiras
+C,16/09/84,Portuguesa,1-0,Guarani
+C,16/09/84,São Bento,1-2,Taubaté
+C,16/09/84,Taquaritinga,3-1,Juventus-SP
+C,16/09/84,XV de Jaú,2-1,XV de Piracicaba
+C,19/09/84,Comercial,5-1,Taquaritinga
+C,19/09/84,Corinthians,3-1,Ferroviária
+C,19/09/84,Marília,3-1,São Paulo
+C,19/09/84,Ponte Preta,1-1,Santo André
+C,19/09/84,Santos,1-1,Botafogo-SP
+C,19/09/84,São Bento,0-0,Portuguesa
+C,19/09/84,XV de Jaú,1-1,Juventus-SP
+C,19/09/84,XV de Piracicaba,1-1,Guarani
+C,20/09/84,Palmeiras,0-0,América-SP
+C,22/09/84,Juventus-SP,3-1,São Bento
+C,22/09/84,Taquaritinga,0-1,Corinthians
+C,23/09/84,América-SP,1-1,Comercial
+C,23/09/84,Botafogo-SP,0-2,Marília
+C,23/09/84,Ferroviária,1-1,XV de Jaú
+C,23/09/84,Guarani,2-0,Taubaté
+C,23/09/84,Inter de Limeira,2-1,Palmeiras
+C,23/09/84,Portuguesa,0-1,Ponte Preta
+C,23/09/84,Santo André,1-0,Santos
+C,23/09/84,São Paulo,1-0,XV de Piracicaba
+C,26/09/84,Ferroviária,3-1,América-SP
+C,26/09/84,Guarani,1-1,Taquaritinga
+C,26/09/84,São Bento,2-2,Ponte Preta
+C,26/09/84,São Paulo,1-1,Juventus-SP
+C,26/09/84,Taubaté,3-2,Marília
+C,26/09/84,XV de Piracicaba,1-1,Santo André
+C,27/09/84,Corinthians,1-0,Comercial
+C,29/09/84,Taubaté,1-1,São Paulo
+C,30/09/84,Comercial,1-1,Ferroviária
+C,30/09/84,Corinthians,1-1,XV de Jaú
+C,30/09/84,Juventus-SP,0-2,Guarani
+C,30/09/84,Marília,0-0,América-SP
+C,30/09/84,Ponte Preta,1-0,Inter de Limeira
+C,30/09/84,Santos,1-0,Portuguesa
+C,30/09/84,São Bento,1-3,Palmeiras
+C,30/09/84,Taquaritinga,2-2,Santo André
+C,30/09/84,XV de Piracicaba,0-1,Botafogo-SP
+C,03/10/84,América-SP,1-0,Taubaté
+C,03/10/84,Botafogo-SP,2-1,Guarani
+C,03/10/84,Juventus-SP,3-0,Inter de Limeira
+C,03/10/84,Palmeiras,4-1,XV de Piracicaba
+C,03/10/84,Ponte Preta,0-2,São Paulo
+C,03/10/84,Portuguesa,3-0,Comercial
+C,03/10/84,São Bento,0-0,Marília
+C,04/10/84,Ferroviária,0-1,Santos
+C,06/10/84,Botafogo-SP,3-0,Corinthians
+C,07/10/84,Ferroviária,3-1,XV de Piracicaba
+C,07/10/84,Guarani,2-1,Santos
+C,07/10/84,Inter de Limeira,1-0,Taquaritinga
+C,07/10/84,Marília,0-0,Ponte Preta
+C,07/10/84,Palmeiras,1-0,Portuguesa
+C,07/10/84,Santo André,1-0,São Bento
+C,07/10/84,São Paulo,1-0,América-SP
+C,07/10/84,Taubaté,0-0,Juventus-SP
+C,07/10/84,XV de Jaú,0-0,Comercial
+C,10/10/84,Comercial,0-0,Ponte Preta
+C,10/10/84,Guarani,1-1,América-SP
+C,10/10/84,Palmeiras,1-0,Marília
+C,10/10/84,Santo André,0-0,Botafogo-SP
+C,10/10/84,Santos,2-0,Taubaté
+C,10/10/84,São Paulo,1-1,Inter de Limeira
+C,10/10/84,XV de Piracicaba,1-0,São Bento
+C,11/10/84,Corinthians,1-0,Juventus-SP
+C,13/10/84,XV de Jaú,0-2,Palmeiras
+C,14/10/84,América-SP,1-0,Santo André
+C,14/10/84,Comercial,0-3,Santos
+C,14/10/84,Inter de Limeira,1-0,Guarani
+C,14/10/84,Ponte Preta,1-3,Botafogo-SP
+C,14/10/84,Portuguesa,1-0,Juventus-SP
+C,14/10/84,São Bento,2-1,Ferroviária
+C,14/10/84,São Paulo,1-0,Corinthians
+C,14/10/84,Taquaritinga,1-0,Taubaté
+C,14/10/84,XV de Piracicaba,0-0,Marília
+C,17/10/84,Corinthians,3-2,Santo André
+C,17/10/84,Guarani,1-0,Portuguesa
+C,17/10/84,Inter de Limeira,1-0,XV de Jaú
+C,17/10/84,Palmeiras,1-0,Ponte Preta
+C,17/10/84,Santos,3-1,Taquaritinga
+C,17/10/84,Taubaté,1-1,XV de Piracicaba
+C,20/10/84,Ferroviária,3-1,São Paulo
+C,21/10/84,América-SP,1-1,Corinthians
+C,21/10/84,Botafogo-SP,3-0,Comercial
+C,21/10/84,Guarani,3-0,São Bento
+C,21/10/84,Marília,0-1,Juventus-SP
+C,21/10/84,Palmeiras,0-2,Santos
+C,21/10/84,Portuguesa,1-0,Inter de Limeira
+C,21/10/84,Santo André,1-4,Taubaté
+C,21/10/84,Taquaritinga,1-1,Ponte Preta
+C,21/10/84,XV de Piracicaba,1-1,XV de Jaú
+C,24/10/84,Botafogo-SP,2-1,Portuguesa
+C,24/10/84,Corinthians,2-1,Guarani
+C,24/10/84,Inter de Limeira,1-0,Ferroviária
+C,24/10/84,Juventus-SP,0-0,América-SP
+C,24/10/84,Ponte Preta,5-0,XV de Piracicaba
+C,24/10/84,Taubaté,2-2,Palmeiras
+C,24/10/84,XV de Jaú,2-1,São Paulo
+C,25/10/84,Santos,2-1,São Bento
+C,27/10/84,XV de Piracicaba,1-2,Corinthians
+C,28/10/84,Comercial,0-0,Taubaté
+C,28/10/84,Juventus-SP,0-0,Palmeiras
+C,28/10/84,Marília,0-0,Santos
+C,28/10/84,Ponte Preta,4-2,Ferroviária
+C,28/10/84,Portuguesa,0-0,São Paulo
+C,28/10/84,Santo André,2-0,Guarani
+C,28/10/84,São Bento,1-0,Inter de Limeira
+C,28/10/84,Taquaritinga,1-0,Botafogo-SP
+C,28/10/84,XV de Jaú,0-0,América-SP
+C,31/10/84,Comercial,2-1,XV de Piracicaba
+C,31/10/84,Ferroviária,1-0,Juventus-SP
+C,31/10/84,Inter de Limeira,1-0,Taubaté
+C,31/10/84,Palmeiras,2-0,Taquaritinga

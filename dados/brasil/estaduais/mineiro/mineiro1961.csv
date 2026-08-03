@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,03/07/60,Democrata-SL,1-1,Uberaba
+C,03/07/60,Villa Nova-MG,0-1,Valeriodoce
+C,03/07/60,Renascença,1-1,Metalusina
+C,03/07/60,Guarani-MG,0-1,Atlético Mineiro
+C,03/07/60,Siderúrgica,5-1,Sete de Setembro-MG
+C,03/07/60,Meridional,1-1,Bela Vista-MG
+C,03/07/60,Curvelo,2-1,Cruzeiro
+C,07/07/60,Sete de Setembro-MG,1-5,Uberaba
+C,10/07/60,Renascença,1-3,Uberaba
+C,10/07/60,AE Pedro Leopoldo,1-0,Villa Nova-MG
+C,10/07/60,Valeriodoce,1-3,Siderúrgica
+C,10/07/60,Guarani-MG,1-0,Democrata-SL
+C,10/07/60,Sete de Setembro-MG,3-0,Bela Vista-MG
+C,10/07/60,Metalusina,1-5,Cruzeiro
+C,10/07/60,Atlético Mineiro,1-0,Meridional
+C,14/07/60,Cruzeiro,4-0,Bela Vista-MG
+C,16/07/60,América Mineiro,2-3,Valeriodoce
+C,17/07/60,Uberaba,0-0,Atlético Mineiro
+C,17/07/60,Villa Nova-MG,3-1,Curvelo
+C,17/07/60,Sete de Setembro-MG,1-3,Democrata-SL
+C,17/07/60,Bela Vista-MG,3-3,Siderúrgica
+C,17/07/60,Meridional,1-2,Renascença
+C,17/07/60,Metalusina,2-0,Guarani-MG
+C,17/07/60,AE Pedro Leopoldo,0-1,Cruzeiro
+C,21/07/60,Atlético Mineiro,3-0,AE Pedro Leopoldo
+C,23/07/60,Renascença,3-2,Guarani-MG
+C,24/07/60,América Mineiro,2-2,Uberaba
+C,24/07/60,Siderúrgica,2-2,Villa Nova-MG
+C,24/07/60,Metalusina,0-3,Sete de Setembro-MG
+C,24/07/60,Valeriodoce,2-2,AE Pedro Leopoldo
+C,24/07/60,Curvelo,4-1,Atlético Mineiro
+C,24/07/60,Democrata-SL,2-2,Bela Vista-MG
+C,24/07/60,Cruzeiro,3-1,Meridional
+C,28/07/60,América Mineiro,0-1,Renascença
+C,30/07/60,Sete de Setembro-MG,1-2,Villa Nova-MG
+C,30/07/60,Siderúrgica,0-1,Cruzeiro
+C,31/07/60,Uberaba,4-0,Metalusina
+C,31/07/60,Atlético Mineiro,0-2,Democrata-SL
+C,31/07/60,Guarani-MG,0-3,América Mineiro
+C,31/07/60,Bela Vista-MG,2-1,Renascença
+C,31/07/60,AE Pedro Leopoldo,4-0,Meridional
+C,31/07/60,Valeriodoce,1-1,Curvelo
+C,04/08/60,Sete de Setembro-MG,6-3,Guarani-MG
+C,06/08/60,Renascença,1-2,Atlético Mineiro
+C,07/08/60,Villa Nova-MG,1-0,América Mineiro
+C,07/08/60,AE Pedro Leopoldo,0-0,Bela Vista-MG
+C,07/08/60,Democrata-SL,1-0,Curvelo
+C,07/08/60,Meridional,2-0,Metalusina
+C,07/08/60,Cruzeiro,2-2,Valeriodoce
+C,07/08/60,Siderúrgica,3-1,Uberaba
+C,11/08/60,Cruzeiro,3-1,Uberaba
+C,13/08/60,América Mineiro,0-2,Siderúrgica
+C,14/08/60,Guarani-MG,3-0,Uberaba
+C,14/08/60,Bela Vista-MG,1-1,Villa Nova-MG
+C,14/08/60,Atlético Mineiro,4-1,Metalusina
+C,14/08/60,Meridional,2-1,Sete de Setembro-MG
+C,14/08/60,Valeriodoce,2-1,Democrata-SL
+C,14/08/60,Curvelo,5-2,Renascença
+C,18/08/60,Atlético Mineiro,3-0,Valeriodoce
+C,20/08/60,Renascença,4-4,Sete de Setembro-MG
+C,21/08/60,Uberaba,4-2,AE Pedro Leopoldo
+C,21/08/60,Cruzeiro,2-1,Villa Nova-MG
+C,21/08/60,Democrata-SL,2-1,América Mineiro
+C,21/08/60,Metalusina,2-2,Bela Vista-MG
+C,21/08/60,Meridional,0-0,Siderúrgica
+C,21/08/60,Guarani-MG,0-0,Curvelo
+C,25/08/60,América Mineiro,7-0,Meridional
+C,28/08/60,Uberaba,3-1,Valeriodoce
+C,28/08/60,Villa Nova-MG,2-0,Democrata-SL
+C,28/08/60,Sete de Setembro-MG,3-4,AE Pedro Leopoldo
+C,28/08/60,Meridional,1-0,Curvelo
+C,28/08/60,Bela Vista-MG,2-2,Atlético Mineiro
+C,28/08/60,Siderúrgica,6-1,Metalusina
+C,02/09/60,Sete de Setembro-MG,1-1,Curvelo
+C,03/09/60,Atlético Mineiro,2-2,Siderúrgica
+C,04/09/60,Villa Nova-MG,2-0,Renascença
+C,04/09/60,América Mineiro,1-0,Cruzeiro
+C,04/09/60,AE Pedro Leopoldo,1-0,Guarani-MG
+C,04/09/60,Metalusina,2-1,Curvelo
+C,04/09/60,Democrata-SL,2-2,Meridional
+C,04/09/60,Bela Vista-MG,2-3,Valeriodoce
+C,07/09/60,Meridional,0-0,Villa Nova-MG
+C,07/09/60,AE Pedro Leopoldo,3-1,Curvelo
+C,07/09/60,Guarani-MG,2-1,Valeriodoce
+C,07/09/60,Democrata-SL,3-1,Metalusina
+C,07/09/60,Siderúrgica,2-1,Renascença
+C,07/09/60,Sete de Setembro-MG,4-3,Atlético Mineiro
+C,10/09/60,Uberaba,0-2,Meridional
+C,10/09/60,Renascença,3-0,Democrata-SL
+C,10/09/60,Bela Vista-MG,1-3,Guarani-MG
+C,10/09/60,Metalusina,1-1,Valeriodoce
+C,10/09/60,AE Pedro Leopoldo,0-5,Siderúrgica
+C,11/09/60,Villa Nova-MG,2-1,Atlético Mineiro
+C,11/09/60,Cruzeiro,2-1,Sete de Setembro-MG
+C,13/09/60,América Mineiro,3-0,AE Pedro Leopoldo
+C,17/09/60,Renascença,3-1,AE Pedro Leopoldo
+C,18/09/60,Bela Vista-MG,1-2,Uberaba
+C,18/09/60,Metalusina,0-1,Villa Nova-MG
+C,18/09/60,Atlético Mineiro,2-3,América Mineiro
+C,18/09/60,Guarani-MG,6-3,Meridional
+C,18/09/60,Valeriodoce,1-1,Sete de Setembro-MG
+C,18/09/60,Curvelo,4-7,Siderúrgica
+C,22/09/60,América Mineiro,2-0,Metalusina
+C,24/09/60,Sete de Setembro-MG,1-4,América Mineiro
+C,25/09/60,Uberaba,2-1,Villa Nova-MG
+C,25/09/60,Bela Vista-MG,2-1,Curvelo
+C,25/09/60,Democrata-SL,0-0,AE Pedro Leopoldo
+C,25/09/60,Siderúrgica,1-0,Guarani-MG
+C,25/09/60,Valeriodoce,1-0,Renascença
+C,25/09/60,Atlético Mineiro,2-0,Cruzeiro
+C,29/09/60,América Mineiro,4-3,Curvelo
+C,08/10/60,América Mineiro,1-2,Bela Vista-MG
+C,09/10/60,Uberaba,3-1,Curvelo
+C,09/10/60,Villa Nova-MG,1-0,Guarani-MG
+C,09/10/60,Siderúrgica,1-3,Democrata-SL
+C,09/10/60,Meridional,1-2,Valeriodoce
+C,09/10/60,AE Pedro Leopoldo,4-0,Metalusina
+C,09/10/60,Renascença,2-2,Cruzeiro
+C,13/10/60,Cruzeiro,2-1,Democrata-SL
+C,16/10/60,Guarani-MG,0-1,Cruzeiro
+C,20/10/60,Atlético Mineiro,3-1,Guarani-MG
+C,23/10/60,Uberaba,0-0,Sete de Setembro-MG
+C,23/10/60,Villa Nova-MG,1-0,AE Pedro Leopoldo
+C,23/10/60,Cruzeiro,3-1,Meridional
+C,23/10/60,América Mineiro,7-0,Curvelo
+C,23/10/60,Renascença,2-2,Bela Vista-MG
+C,23/10/60,Metalusina,0-3,Atlético Mineiro
+C,23/10/60,Guarani-MG,1-1,Siderúrgica
+C,23/10/60,Democrata-SL,2-1,Valeriodoce
+C,26/10/60,América Mineiro,6-1,Uberaba
+C,30/10/60,Uberaba,2-4,Metalusina
+C,30/10/60,Villa Nova-MG,1-0,Bela Vista-MG
+C,30/10/60,AE Pedro Leopoldo,2-3,América Mineiro
+C,30/10/60,Democrata-SL,2-2,Renascença
+C,30/10/60,Valeriodoce,0-1,Atlético Mineiro
+C,30/10/60,Sete de Setembro-MG,3-3,Siderúrgica
+C,30/10/60,Curvelo,1-0,Meridional
+C,30/10/60,Cruzeiro,2-0,Guarani-MG
+C,01/11/60,Meridional,2-1,Uberaba
+C,01/11/60,Guarani-MG,2-2,Villa Nova-MG
+C,01/11/60,Siderúrgica,1-1,Democrata-SL
+C,01/11/60,Atlético Mineiro,1-0,Renascença
+C,01/11/60,Metalusina,3-1,AE Pedro Leopoldo
+C,01/11/60,Curvelo,2-2,Sete de Setembro-MG
+C,01/11/60,Valeriodoce,1-1,América Mineiro
+C,01/11/60,Bela Vista-MG,0-2,Cruzeiro
+C,05/11/60,Renascença,2-0,Meridional
+C,06/11/60,Uberaba,4-0,Guarani-MG
+C,06/11/60,Villa Nova-MG,1-0,Sete de Setembro-MG
+C,06/11/60,AE Pedro Leopoldo,1-5,Atlético Mineiro
+C,06/11/60,Curvelo,1-0,Democrata-SL
+C,06/11/60,Bela Vista-MG,3-1,Valeriodoce
+C,06/11/60,Metalusina,1-5,América Mineiro
+C,06/11/60,Cruzeiro,2-1,Siderúrgica
+C,10/11/60,Sete de Setembro-MG,0-0,Valeriodoce
+C,13/11/60,Sete de Setembro-MG,3-4,Bela Vista-MG
+C,13/11/60,Uberaba,2-2,Cruzeiro
+C,13/11/60,Valeriodoce,0-2,Villa Nova-MG
+C,13/11/60,Metalusina,1-0,Renascença
+C,13/11/60,Meridional,2-2,AE Pedro Leopoldo
+C,13/11/60,Atlético Mineiro,0-1,América Mineiro
+C,13/11/60,Democrata-SL,2-2,Guarani-MG
+C,13/11/60,Siderúrgica,1-0,Curvelo
+C,15/11/60,Meridional,1-1,Atlético Mineiro
+C,15/11/60,Curvelo,3-1,Valeriodoce
+C,15/11/60,Bela Vista-MG,2-1,Democrata-SL
+C,15/11/60,Guarani-MG,5-0,Metalusina
+C,15/11/60,Renascença,1-2,América Mineiro
+C,15/11/60,AE Pedro Leopoldo,1-4,Sete de Setembro-MG
+C,19/11/60,Atlético Mineiro,3-1,Curvelo
+C,20/11/60,Uberaba,0-1,Renascença
+C,20/11/60,Democrata-SL,1-2,Villa Nova-MG
+C,20/11/60,Siderúrgica,6-2,Bela Vista-MG
+C,20/11/60,Guarani-MG,4-0,AE Pedro Leopoldo
+C,20/11/60,Metalusina,0-1,Meridional
+C,20/11/60,Valeriodoce,1-1,Cruzeiro
+C,20/11/60,América Mineiro,3-0,Sete de Setembro-MG
+C,24/11/60,Cruzeiro,1-0,Renascença
+C,26/11/60,Villa Nova-MG,1-1,Uberaba
+C,26/11/60,Valeriodoce,1-1,Guarani-MG
+C,26/11/60,Siderúrgica,3-1,Atlético Mineiro
+C,26/11/60,Metalusina,2-2,Democrata-SL
+C,26/11/60,Sete de Setembro-MG,2-0,Renascença
+C,26/11/60,AE Pedro Leopoldo,1-0,Bela Vista-MG
+C,26/11/60,América Mineiro,0-1,Meridional
+C,27/11/60,Cruzeiro,3-1,Curvelo
+C,01/12/60,Atlético Mineiro,1-2,Uberaba
+C,03/12/60,Sete de Setembro-MG,0-2,Atlético Mineiro
+C,04/12/60,Curvelo,2-2,Uberaba
+C,04/12/60,Villa Nova-MG,3-0,Metalusina
+C,04/12/60,Bela Vista-MG,1-1,Meridional
+C,04/12/60,Cruzeiro,2-1,América Mineiro
+C,04/12/60,Siderúrgica,2-0,Valeriodoce
+C,04/12/60,Guarani-MG,2-2,Renascença
+C,04/12/60,Democrata-SL,1-1,AE Pedro Leopoldo
+C,08/12/60,Valeriodoce,2-0,Uberaba
+C,08/12/60,Curvelo,1-3,Villa Nova-MG
+C,08/12/60,Democrata-SL,2-1,Sete de Setembro-MG
+C,08/12/60,Siderúrgica,4-0,Meridional
+C,08/12/60,Guarani-MG,2-2,Bela Vista-MG
+C,08/12/60,AE Pedro Leopoldo,5-2,Renascença
+C,08/12/60,Cruzeiro,2-0,Metalusina
+C,10/12/60,Renascença,2-2,Valeriodoce
+C,11/12/60,Uberaba,0-1,Siderúrgica
+C,11/12/60,Villa Nova-MG,0-2,Cruzeiro
+C,11/12/60,América Mineiro,5-2,Guarani-MG
+C,11/12/60,Metalusina,1-3,Bela Vista-MG
+C,11/12/60,AE Pedro Leopoldo,3-2,Curvelo
+C,11/12/60,Meridional,0-0,Democrata-SL
+C,15/12/60,América Mineiro,7-2,Villa Nova-MG
+C,17/12/60,Renascença,2-1,Curvelo
+C,18/12/60,Uberaba,2-0,Democrata-SL
+C,18/12/60,Valeriodoce,1-0,Meridional
+C,18/12/60,Guarani-MG,1-2,Sete de Setembro-MG
+C,18/12/60,Metalusina,0-3,Siderúrgica
+C,18/12/60,Bela Vista-MG,0-5,América Mineiro
+C,22/12/60,Sete de Setembro-MG,3-1,Meridional
+C,29/12/60,Cruzeiro,3-1,AE Pedro Leopoldo
+C,05/01/61,Atlético Mineiro,2-3,Bela Vista-MG
+C,08/01/61,Renascença,1-1,Villa Nova-MG
+C,08/01/61,Siderúrgica,4-2,América Mineiro
+C,08/01/61,AE Pedro Leopoldo,0-0,Uberaba
+C,08/01/61,Valeriodoce,3-0,Metalusina
+C,08/01/61,Guarani-MG,1-0,Curvelo
+C,10/01/61,Democrata-SL,1-3,Atlético Mineiro
+C,12/01/61,América Mineiro,2-0,Democrata-SL
+C,14/01/61,Atlético Mineiro,2-1,Villa Nova-MG
+C,15/01/61,Uberaba,2-1,Bela Vista-MG
+C,15/01/61,AE Pedro Leopoldo,3-1,Valeriodoce
+C,15/01/61,Meridional,1-1,Guarani-MG
+C,15/01/61,Curvelo,1-0,Metalusina
+C,17/01/61,Renascença,4-1,Siderúrgica
+C,19/01/61,Cruzeiro,1-1,Sete de Setembro-MG
+C,21/01/61,Sete de Setembro-MG,6-2,Metalusina
+C,22/01/61,Villa Nova-MG,3-0,Meridional
+C,22/01/61,Siderúrgica,1-2,AE Pedro Leopoldo
+C,22/01/61,Bela Vista-MG,2-0,Curvelo
+C,22/01/61,Cruzeiro,0-0,Atlético Mineiro
+C,05/02/61,Villa Nova-MG,1-3,Siderúrgica
+C,19/02/61,Cruzeiro,1-0,Democrata-SL

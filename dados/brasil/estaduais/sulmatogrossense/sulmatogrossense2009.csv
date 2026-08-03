@@ -1,0 +1,209 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,31/01/09,Águia Negra,3-1,Comercial-MS
+A,01/02/09,Corumbaense,3-2,Pantanal
+A,01/02/09,Naviraiense,1-0,Ivinhema
+A,01/02/09,Aquidauanense,1-0,Maracaju
+B,01/02/09,Nova Andradina,2-0,Misto
+B,01/02/09,União-MS,0-1,CENE
+B,01/02/09,Itaporã,2-1,Costa Rica EC
+B,01/02/09,Operário-MS,2-1,Rio Verde
+B,07/02/09,CENE,2-0,Coxim
+B,07/02/09,Costa Rica EC,2-1,Nova Andradina
+A,08/02/09,Naviraiense,6-0,Pantanal
+A,08/02/09,Ivinhema,3-1,7 de Setembro-MS
+A,08/02/09,Maracaju,1-2,Águia Negra
+A,08/02/09,Aquidauanense,3-1,Corumbaense
+B,08/02/09,Rio Verde,2-2,União-MS
+B,08/02/09,Itaporã,2-0,Operário-MS
+A,11/02/09,7 de Setembro-MS,1-0,Pantanal
+A,11/02/09,Naviraiense,0-0,Aquidauanense
+B,11/02/09,Coxim,1-3,Itaporã
+B,11/02/09,União-MS,2-3,Nova Andradina
+B,11/02/09,Misto,2-2,Costa Rica EC
+B,11/02/09,Operário-MS,0-4,CENE
+A,11/02/09,Águia Negra,1-0,Corumbaense
+A,11/02/09,Comercial-MS,2-0,Maracaju
+A,14/02/09,Pantanal,0-3,Ivinhema
+B,14/02/09,CENE,1-1,Misto
+A,15/02/09,Corumbaense,1-1,Comercial-MS
+A,15/02/09,Aquidauanense,0-0,7 de Setembro-MS
+B,15/02/09,Nova Andradina,2-0,Coxim
+B,15/02/09,Itaporã,6-0,Rio Verde
+B,15/02/09,Costa Rica EC,3-1,União-MS
+A,15/02/09,Águia Negra,1-1,Naviraiense
+B,21/02/09,Rio Verde,0-4,Nova Andradina
+A,21/02/09,Maracaju,1-2,Corumbaense
+A,21/02/09,Ivinhema,1-2,Aquidauanense
+B,21/02/09,Coxim,0-2,Costa Rica EC
+A,21/02/09,7 de Setembro-MS,2-2,Águia Negra
+A,21/02/09,Comercial-MS,0-2,Naviraiense
+B,21/02/09,Misto,3-1,Operário-MS
+A,25/02/09,Naviraiense,5-1,Maracaju
+A,25/02/09,Pantanal,1-1,Aquidauanense
+B,25/02/09,Itaporã,3-1,Nova Andradina
+B,25/02/09,Operário-MS,0-1,Coxim
+A,25/02/09,Comercial-MS,2-3,7 de Setembro-MS
+A,25/02/09,Águia Negra,1-1,Ivinhema
+B,25/02/09,Costa Rica EC,1-2,CENE
+B,26/02/09,Rio Verde,1-3,Misto
+A,01/03/09,Corumbaense,2-2,Naviraiense
+A,01/03/09,Maracaju,1-3,7 de Setembro-MS
+A,01/03/09,Ivinhema,2-1,Comercial-MS
+B,01/03/09,Rio Verde,3-2,Costa Rica EC
+B,01/03/09,Misto,2-1,Coxim
+B,01/03/09,União-MS,1-2,Operário-MS
+B,01/03/09,Nova Andradina,1-3,CENE
+A,01/03/09,Águia Negra,7-2,Pantanal
+B,07/03/09,CENE,5-2,Rio Verde
+A,08/03/09,Comercial-MS,1-2,Pantanal
+A,08/03/09,Aquidauanense,2-1,Águia Negra
+A,08/03/09,7 de Setembro-MS,4-0,Corumbaense
+A,08/03/09,Maracaju,0-2,Ivinhema
+B,08/03/09,Misto,0-1,Itaporã
+B,08/03/09,Coxim,1-1,União-MS
+B,08/03/09,Operário-MS,0-3,Costa Rica EC
+A,11/03/09,Pantanal,2-2,Maracaju
+A,11/03/09,Ivinhema,2-0,Corumbaense
+A,11/03/09,Naviraiense,4-1,7 de Setembro-MS
+B,11/03/09,Rio Verde,1-1,Coxim
+B,11/03/09,União-MS,0-3,Misto
+B,11/03/09,Nova Andradina,1-1,Operário-MS
+B,11/03/09,Itaporã,3-0,CENE
+A,11/03/09,Aquidauanense,1-0,Comercial-MS
+B,14/03/09,Misto,1-1,Nova Andradina
+A,15/03/09,Pantanal,0-0,Corumbaense
+A,15/03/09,Comercial-MS,0-2,Águia Negra
+A,15/03/09,Ivinhema,1-1,Naviraiense
+A,15/03/09,Maracaju,1-0,Aquidauanense
+B,15/03/09,CENE,3-2,União-MS
+B,15/03/09,Rio Verde,2-0,Operário-MS
+B,15/03/09,Costa Rica EC,2-3,Itaporã
+B,18/03/09,União-MS,1-1,Itaporã
+B,21/03/09,Operário-MS,0-5,Itaporã
+A,22/03/09,Corumbaense,2-1,Aquidauanense
+A,22/03/09,Pantanal,1-1,Naviraiense
+B,22/03/09,Nova Andradina,1-0,Costa Rica EC
+B,22/03/09,Coxim,1-0,CENE
+B,22/03/09,União-MS,3-1,Rio Verde
+A,22/03/09,Águia Negra,6-3,Maracaju
+A,22/03/09,7 de Setembro-MS,1-2,Ivinhema
+A,25/03/09,Pantanal,0-1,7 de Setembro-MS
+A,25/03/09,Aquidauanense,2-3,Naviraiense
+A,25/03/09,Corumbaense,1-2,Águia Negra
+A,25/03/09,Maracaju,3-2,Comercial-MS
+B,25/03/09,Itaporã,3-0,Coxim
+B,25/03/09,Nova Andradina,2-0,União-MS
+B,25/03/09,CENE,3-1,Operário-MS
+B,25/03/09,Costa Rica EC,1-0,Misto
+A,28/03/09,Comercial-MS,0-2,Corumbaense
+B,28/03/09,Misto,1-1,CENE
+A,29/03/09,Ivinhema,9-0,Pantanal
+B,29/03/09,Coxim,3-4,Nova Andradina
+B,29/03/09,Rio Verde,2-1,Itaporã
+A,29/03/09,Naviraiense,0-0,Águia Negra
+A,29/03/09,7 de Setembro-MS,1-1,Aquidauanense
+B,29/03/09,União-MS,1-3,Costa Rica EC
+B,04/04/09,Operário-MS,0-2,Misto
+A,04/04/09,Aquidauanense,1-0,Ivinhema
+A,05/04/09,Corumbaense,2-0,Maracaju
+A,05/04/09,Naviraiense,3-1,Comercial-MS
+B,05/04/09,Nova Andradina,5-2,Rio Verde
+B,05/04/09,Itaporã,5-2,União-MS
+B,05/04/09,Costa Rica EC,3-2,Coxim
+A,05/04/09,Águia Negra,2-1,7 de Setembro-MS
+A,08/04/09,Ivinhema,2-2,Águia Negra
+A,08/04/09,Maracaju,4-6,Naviraiense
+B,08/04/09,Coxim,0-2,Operário-MS
+B,08/04/09,Nova Andradina,1-0,Itaporã
+B,08/04/09,CENE,0-1,Costa Rica EC
+B,08/04/09,Misto,2-0,Rio Verde
+A,08/04/09,7 de Setembro-MS,4-2,Comercial-MS
+A,08/04/09,Aquidauanense,1-0,Pantanal
+B,11/04/09,Coxim,1-1,Misto
+A,11/04/09,Comercial-MS,0-1,Ivinhema
+A,11/04/09,7 de Setembro-MS,2-1,Maracaju
+A,12/04/09,Pantanal,1-1,Águia Negra
+A,12/04/09,Naviraiense,1-0,Corumbaense
+B,12/04/09,Costa Rica EC,1-1,Rio Verde
+B,12/04/09,CENE,3-0,Nova Andradina
+B,12/04/09,Operário-MS,0-2,União-MS
+A,15/04/09,Pantanal,4-1,Comercial-MS
+A,15/04/09,Corumbaense,4-1,7 de Setembro-MS
+A,15/04/09,Ivinhema,3-0,Maracaju
+B,15/04/09,Rio Verde,2-2,CENE
+B,15/04/09,União-MS,2-0,Coxim
+A,16/04/09,Águia Negra,2-0,Aquidauanense
+B,16/04/09,Costa Rica EC,4-3,Operário-MS
+A,18/04/09,Corumbaense,3-1,Ivinhema
+A,18/04/09,Comercial-MS,5-0,Aquidauanense
+A,18/04/09,Maracaju,1-2,Pantanal
+A,18/04/09,7 de Setembro-MS,0-0,Naviraiense
+B,18/04/09,CENE,2-2,Itaporã
+B,18/04/09,Misto,2-0,União-MS
+B,19/04/09,Coxim,3-2,Rio Verde
+B,19/04/09,Operário-MS,2-3,Nova Andradina
+B,21/04/09,Itaporã,0-0,Misto
+D,25/04/09,Aquidauanense,2-1,Nova Andradina
+D,25/04/09,Misto,3-1,Águia Negra
+D,25/04/09,Costa Rica EC,0-0,Ivinhema
+D,25/04/09,7 de Setembro-MS,1-2,CENE
+D,26/04/09,Naviraiense,1-0,Itaporã
+D,29/04/09,Naviraiense,1-2,CENE
+D,29/04/09,Itaporã,2-0,Ivinhema
+D,29/04/09,7 de Setembro-MS,0-0,Misto
+D,29/04/09,Aquidauanense,1-1,Costa Rica EC
+D,30/04/09,Nova Andradina,3-3,Águia Negra
+D,02/05/09,CENE,2-2,Aquidauanense
+D,02/05/09,Itaporã,1-0,Naviraiense
+D,02/05/09,Costa Rica EC,2-1,7 de Setembro-MS
+D,03/05/09,Ivinhema,1-0,Misto
+D,06/05/09,Nova Andradina,1-1,Naviraiense
+D,06/05/09,Águia Negra,1-0,Itaporã
+D,09/05/09,Nova Andradina,1-3,Ivinhema
+D,09/05/09,Aquidauanense,0-0,Misto
+D,10/05/09,Naviraiense,3-2,Costa Rica EC
+D,10/05/09,Itaporã,1-0,7 de Setembro-MS
+D,10/05/09,Águia Negra,2-1,CENE
+D,13/05/09,CENE,0-1,Ivinhema
+D,13/05/09,Misto,0-3,Naviraiense
+D,13/05/09,Costa Rica EC,3-2,Águia Negra
+D,13/05/09,7 de Setembro-MS,6-1,Nova Andradina
+D,13/05/09,Aquidauanense,2-0,Itaporã
+D,16/05/09,Nova Andradina,2-0,Aquidauanense
+D,17/05/09,CENE,3-1,7 de Setembro-MS
+D,17/05/09,Ivinhema,1-1,Costa Rica EC
+D,17/05/09,Águia Negra,1-2,Misto
+D,20/05/09,Naviraiense,2-2,Nova Andradina
+D,20/05/09,Itaporã,0-0,Águia Negra
+D,20/05/09,Misto,3-3,Ivinhema
+D,20/05/09,7 de Setembro-MS,1-0,Costa Rica EC
+D,20/05/09,Aquidauanense,0-0,CENE
+D,23/05/09,CENE,0-2,Naviraiense
+D,23/05/09,Misto,2-3,7 de Setembro-MS
+D,24/05/09,Ivinhema,2-1,Itaporã
+D,24/05/09,Costa Rica EC,6-0,Aquidauanense
+D,24/05/09,Águia Negra,3-0,Nova Andradina
+D,27/05/09,CENE,1-2,Águia Negra
+D,27/05/09,Ivinhema,2-2,Nova Andradina
+D,27/05/09,Misto,1-0,Aquidauanense
+D,27/05/09,Costa Rica EC,1-1,Naviraiense
+D,27/05/09,7 de Setembro-MS,1-4,Itaporã
+D,31/05/09,Nova Andradina,2-0,7 de Setembro-MS
+D,31/05/09,Naviraiense,4-2,Misto
+D,31/05/09,Ivinhema,5-0,CENE
+D,31/05/09,Itaporã,5-0,Aquidauanense
+D,31/05/09,Águia Negra,3-0,Costa Rica EC
+3F,07/06/09,Itaporã,0-0,Ivinhema
+3F,07/06/09,Águia Negra,1-2,Naviraiense
+3F,14/06/09,Ivinhema,3-1,Águia Negra
+3F,14/06/09,Naviraiense,1-1,Itaporã
+3F,20/06/09,Itaporã,2-0,Águia Negra
+3F,21/06/09,Naviraiense,3-1,Ivinhema
+3F,28/06/09,Ivinhema,0-0,Naviraiense
+3F,28/06/09,Águia Negra,1-1,Itaporã
+3F,01/07/09,Itaporã,0-0,Naviraiense
+3F,05/07/09,Águia Negra,0-2,Ivinhema
+3F,08/07/09,Naviraiense,1-1,Águia Negra
+3F,12/07/09,Ivinhema,2-1,Itaporã
+F,15/07/09,Naviraiense,0-0,Ivinhema
+F,22/07/09,Ivinhema,1-2,Naviraiense

@@ -1,0 +1,89 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,-,Guarabira,1-1,Campinense
+B,-,Vila Branca,2-0,Perilima
+A,24/03/02,Auto Esporte,1-2,América-PB
+A,24/03/02,Santa Cruz-PB,1-0,Miramar
+C,24/03/02,Atlético-PB,1-2,Sousa
+C,24/03/02,Nacional-PB,1-1,Esporte de Patos
+B,27/03/02,Perilima,1-1,Serrano-PB
+B,28/03/02,Campinense,3-2,Vila Branca
+A,31/03/02,Miramar,4-3,América-PB
+B,31/03/02,Perilima,5-1,Guarabira
+B,31/03/02,Serrano-PB,1-1,Vila Branca
+C,31/03/02,Nacional-PB,2-2,Atlético-PB
+C,31/03/02,Sousa,6-1,Esporte de Patos
+B,03/04/02,Campinense,3-1,Perilima
+B,03/04/02,Guarabira,0-1,Serrano-PB
+B,06/04/02,Serrano-PB,3-5,Campinense
+A,07/04/02,América-PB,3-2,Santa Cruz-PB
+A,07/04/02,Auto Esporte,2-0,Miramar
+B,07/04/02,Vila Branca,0-0,Guarabira
+C,07/04/02,Esporte de Patos,3-4,Atlético-PB
+C,07/04/02,Sousa,1-0,Nacional-PB
+A,14/04/02,América-PB,2-0,Auto Esporte
+A,14/04/02,Miramar,1-1,Santa Cruz-PB
+B,14/04/02,Serrano-PB,2-2,Perilima
+B,14/04/02,Vila Branca,1-0,Campinense
+C,14/04/02,Nacional-PB,3-1,Esporte de Patos
+C,14/04/02,Sousa,1-0,Atlético-PB
+B,18/04/02,Campinense,3-0,Guarabira
+B,18/04/02,Perilima,3-1,Vila Branca
+A,21/04/02,Santa Cruz-PB,2-0,América-PB
+A,21/04/02,Miramar,3-1,Auto Esporte
+B,21/04/02,Guarabira,2-1,Vila Branca
+B,21/04/02,Campinense,0-1,Serrano-PB
+C,21/04/02,Esporte de Patos,4-3,Sousa
+C,21/04/02,Atlético-PB,3-0,Nacional-PB
+A,24/04/02,Santa Cruz-PB,0-0,Auto Esporte
+B,24/04/02,Perilima,0-2,Campinense
+B,24/04/02,Serrano-PB,1-1,Guarabira
+A,28/04/02,América-PB,2-0,Miramar
+A,28/04/02,Auto Esporte,4-0,Santa Cruz-PB
+B,28/04/02,Vila Branca,0-0,Serrano-PB
+B,28/04/02,Guarabira,4-1,Perilima
+C,28/04/02,Nacional-PB,1-1,Sousa
+C,28/04/02,Atlético-PB,8-0,Esporte de Patos
+QF,05/05/02,América-PB,0-0,Serrano-PB
+QF,05/05/02,Campinense,3-0,Santa Cruz-PB
+QF,05/05/02,Sousa,6-2,Vila Branca
+,19/05/02,Auto Esporte,2-2,Atlético-PB
+,22/05/02,Atlético-PB,2-1,Auto Esporte
+SF,26/05/02,Sousa,1-0,Serrano-PB
+SF,26/05/02,Campinense,4-1,Atlético-PB
+SF,30/05/02,Serrano-PB,1-0(3-4 Pen.),Sousa
+SF,30/05/02,Atlético-PB,WO,Campinense
+F,02/06/02,Sousa,2-1,Campinense
+F,05/06/02,Campinense,2-0,Sousa
+HXF,09/06/02,Treze,5-1,Atlético-PB
+HXF,09/06/02,Sousa,1-1,Campinense
+HXF,09/06/02,Botafogo-PB,2-4,Serrano-PB
+HXF,15/06/02,Serrano-PB,0-2,Atlético-PB
+HXF,16/06/02,Botafogo-PB,0-0,Sousa
+HXF,16/06/02,Treze,2-1,Campinense
+HXF,20/06/02,Sousa,0-0,Treze
+HXF,20/06/02,Atlético-PB,3-2,Botafogo-PB
+HXF,20/06/02,Campinense,1-0,Serrano-PB
+HXF,23/06/02,Campinense,1-2,Botafogo-PB
+HXF,23/06/02,Sousa,3-1,Atlético-PB
+HXF,26/06/02,Serrano-PB,0-1,Treze
+HXF,29/06/02,Serrano-PB,1-4,Sousa
+HXF,29/06/02,Botafogo-PB,3-0,Treze
+HXF,02/07/02,Campinense,1-1,Atlético-PB
+HXF,06/07/02,Serrano-PB,3-3,Botafogo-PB
+HXF,07/07/02,Campinense,2-1,Sousa
+HXF,07/07/02,Atlético-PB,4-1,Treze
+HXF,14/07/02,Atlético-PB,3-2,Serrano-PB
+HXF,14/07/02,Sousa,0-1,Botafogo-PB
+HXF,14/07/02,Campinense,2-2,Treze
+HXF,17/07/02,Serrano-PB,2-2,Campinense
+HXF,18/07/02,Botafogo-PB,3-2,Atlético-PB
+HXF,18/07/02,Treze,1-2,Sousa
+HXF,21/07/02,Treze,2-1,Serrano-PB
+HXF,21/07/02,Botafogo-PB,0-1,Campinense
+HXF,21/07/02,Atlético-PB,2-0,Sousa
+HXF,28/07/02,Atlético-PB,WO,Campinense
+HXF,28/07/02,Treze,1-2,Botafogo-PB
+HXF,28/07/02,Sousa,2-2,Serrano-PB
+QF,01/05/22,Serrano-PB,3-2,América-PB
+QF,01/05/22,Santa Cruz-PB,4-3,Campinense
+QF,01/05/22,Vila Branca,2-1,Sousa

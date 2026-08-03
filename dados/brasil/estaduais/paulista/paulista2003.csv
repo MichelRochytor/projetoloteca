@@ -1,0 +1,110 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+2,25/01/03,Santo André,2-2,Santos
+3,25/01/03,Marília,0-2,Corinthians
+2,26/01/03,Juventus-SP,1-2,Portuguesa Santista
+1,26/01/03,Ituano,2-1,Ponte Preta
+1,26/01/03,Palmeiras,2-1,Mogi Mirim
+1,26/01/03,Guarani,4-0,União Barbarense
+3,26/01/03,Portuguesa,0-3,São Caetano
+3,26/01/03,União São João,0-2,América-SP
+2,26/01/03,Paulista,2-1,São Paulo
+1,29/01/03,União Barbarense,2-0,Ituano
+1,29/01/03,Mogi Mirim,2-2,Rio Branco-SP
+2,29/01/03,Portuguesa Santista,6-0,Inter de Limeira
+3,29/01/03,América-SP,3-3,Marília
+3,29/01/03,Corinthians,1-1,Portuguesa
+3,29/01/03,São Caetano,2-0,Botafogo-SP
+2,30/01/03,Santos,3-2,Paulista
+2,30/01/03,São Paulo,6-0,Juventus-SP
+1,01/02/03,Ituano,1-2,Guarani
+3,01/02/03,Botafogo-SP,0-2,Corinthians
+2,02/02/03,Inter de Limeira,0-3,São Paulo
+2,02/02/03,Juventus-SP,0-1,Santos
+2,02/02/03,Paulista,0-1,Santo André
+1,02/02/03,Palmeiras,2-4,União Barbarense
+1,02/02/03,Rio Branco-SP,3-2,Ponte Preta
+3,02/02/03,Marília,1-2,União São João
+3,02/02/03,Portuguesa,1-2,América-SP
+3,08/02/03,União São João,1-2,Portuguesa
+1,08/02/03,Guarani,0-2,Palmeiras
+2,09/02/03,Santos,5-1,Inter de Limeira
+1,09/02/03,União Barbarense,1-1,Rio Branco-SP
+1,09/02/03,Ponte Preta,2-0,Mogi Mirim
+2,09/02/03,Santo André,2-1,Juventus-SP
+2,09/02/03,São Paulo,1-1,Portuguesa Santista
+3,09/02/03,América-SP,2-0,Botafogo-SP
+3,09/02/03,Corinthians,0-3,São Caetano
+2,12/02/03,Juventus-SP,1-2,Paulista
+1,12/02/03,Mogi Mirim,1-2,União Barbarense
+2,12/02/03,Inter de Limeira,0-2,Santo André
+2,12/02/03,Portuguesa Santista,2-0,Santos
+3,12/02/03,São Caetano,1-0,América-SP
+3,12/02/03,Botafogo-SP,0-0,União São João
+3,12/02/03,Portuguesa,3-2,Marília
+1,12/02/03,Palmeiras,2-1,Ituano
+1,12/02/03,Rio Branco-SP,3-0,Guarani
+3,15/02/03,União São João,1-2,São Caetano
+2,15/02/03,Santos,1-2,São Paulo
+3,16/02/03,América-SP,2-3,Corinthians
+3,16/02/03,Marília,4-4,Botafogo-SP
+1,16/02/03,Guarani,2-0,Mogi Mirim
+1,16/02/03,Ituano,3-2,Rio Branco-SP
+1,16/02/03,União Barbarense,2-0,Ponte Preta
+2,16/02/03,Santo André,0-1,Portuguesa Santista
+2,16/02/03,Paulista,3-3,Inter de Limeira
+1,19/02/03,Ponte Preta,2-2,Palmeiras
+3,22/02/03,Botafogo-SP,1-1,Portuguesa
+1,22/02/03,Rio Branco-SP,1-1,Palmeiras
+1,23/02/03,Ponte Preta,1-3,Guarani
+1,23/02/03,Mogi Mirim,3-2,Ituano
+2,23/02/03,Portuguesa Santista,3-0,Paulista
+2,23/02/03,Inter de Limeira,3-2,Juventus-SP
+2,23/02/03,São Paulo,2-2,Santo André
+3,23/02/03,São Caetano,5-1,Marília
+3,23/02/03,Corinthians,4-1,União São João
+QF,26/02/03,Corinthians,2-1,União Barbarense
+QF,26/02/03,São Caetano,0-2,Palmeiras
+QF,27/02/03,Portuguesa Santista,0-0,Guarani
+QF,27/02/03,São Paulo,4-2,Santo André
+B,01/03/03,Portuguesa,3-4,Ponte Preta
+B,01/03/03,América-SP,3-2,Paulista
+B,01/03/03,Ituano,3-2,Rio Branco-SP
+B,01/03/03,Inter de Limeira,0-1,União São João
+B,01/03/03,Mogi Mirim,3-1,Botafogo-SP
+B,01/03/03,Marília,2-0,Juventus-SP
+B,05/03/03,Juventus-SP,0-0,Mogi Mirim
+B,05/03/03,Paulista,2-2,Portuguesa
+B,05/03/03,Rio Branco-SP,2-1,América-SP
+B,05/03/03,Ponte Preta,1-1,Ituano
+B,05/03/03,Botafogo-SP,3-2,Inter de Limeira
+B,05/03/03,União São João,0-0,Marília
+SF,05/03/03,Palmeiras,2-2,Corinthians
+SF,06/03/03,São Paulo,5-0,Portuguesa Santista
+SF,08/03/03,Corinthians,4-2,Palmeiras
+B,09/03/03,Juventus-SP,1-3,América-SP
+B,09/03/03,Portuguesa,1-2,União São João
+B,09/03/03,Ituano,1-1,Botafogo-SP
+B,09/03/03,Ponte Preta,2-0,Inter de Limeira
+B,09/03/03,Mogi Mirim,3-0,Rio Branco-SP
+B,09/03/03,Marília,2-1,Paulista
+SF,09/03/03,Portuguesa Santista,0-1,São Paulo
+B,14/03/03,América-SP,1-2,Ponte Preta
+B,15/03/03,Botafogo-SP,1-4,Marília
+B,15/03/03,Rio Branco-SP,2-2,Portuguesa
+B,15/03/03,Inter de Limeira,1-2,Juventus-SP
+B,15/03/03,Paulista,2-1,Ituano
+B,15/03/03,União São João,2-2,Mogi Mirim
+F,16/03/03,Corinthians,3-2,São Paulo
+B,19/03/03,Botafogo-SP,2-3,Portuguesa
+B,19/03/03,União São João,0-1,América-SP
+B,19/03/03,Inter de Limeira,0-4,Paulista
+B,19/03/03,Mogi Mirim,3-3,Ponte Preta
+B,19/03/03,Marília,2-2,Rio Branco-SP
+B,21/03/03,Juventus-SP,2-1,Ituano
+B,21/03/03,Ponte Preta,0-0,Marília
+F,22/03/03,São Paulo,2-3,Corinthians
+B,23/03/03,Portuguesa,1-0,Juventus-SP
+B,23/03/03,América-SP,3-2,Botafogo-SP
+B,23/03/03,Rio Branco-SP,0-0,Inter de Limeira
+B,23/03/03,Ituano,3-0,União São João
+B,23/03/03,Paulista,4-1,Mogi Mirim

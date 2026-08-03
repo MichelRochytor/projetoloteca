@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/77,Birmingham City,1-4,Manchester United
+1,19/08/77,Bristol City,2-3,Wolverhampton
+1,19/08/77,Coventry City,3-1,Derby County
+1,19/08/77,Everton,1-3,Nottingham Forest
+1,19/08/77,Ipswich Town,1-0,Arsenal
+1,19/08/77,Manchester City,0-0,Leicester City
+1,19/08/77,Middlesbrough,1-1,Liverpool
+1,19/08/77,Newcastle,3-2,Leeds United
+1,19/08/77,QPR,1-2,Aston Villa
+1,19/08/77,West Bromwich,3-0,Chelsea
+1,19/08/77,West Ham,1-3,Norwich City
+2,22/08/77,Arsenal,1-0,Everton
+2,22/08/77,Liverpool,2-0,Newcastle
+2,22/08/77,Nottingham Forest,1-0,Bristol City
+2,22/08/77,Wolverhampton,1-0,QPR
+2,23/08/77,Aston Villa,1-4,Manchester City
+2,23/08/77,Chelsea,2-0,Birmingham City
+2,23/08/77,Derby County,0-0,Ipswich Town
+2,23/08/77,Leeds United,2-2,West Bromwich
+2,23/08/77,Leicester City,1-0,West Ham
+2,23/08/77,Manchester United,2-1,Coventry City
+2,23/08/77,Norwich City,1-1,Middlesbrough
+3,26/08/77,Aston Villa,1-2,Everton
+3,26/08/77,Chelsea,1-2,Coventry City
+3,26/08/77,Leeds United,1-0,Birmingham City
+3,26/08/77,Leicester City,0-0,Bristol City
+3,26/08/77,Liverpool,3-0,West Bromwich
+3,26/08/77,Manchester United,0-0,Ipswich Town
+3,26/08/77,Middlesbrough,2-0,Newcastle
+3,26/08/77,Norwich City,1-1,QPR
+3,26/08/77,Nottingham Forest,3-0,Derby County
+3,26/08/77,West Ham,0-1,Manchester City
+3,26/08/77,Wolverhampton,1-1,Arsenal
+4,02/09/77,Arsenal,3-0,Nottingham Forest
+4,02/09/77,Birmingham City,0-1,Liverpool
+4,02/09/77,Bristol City,1-1,Aston Villa
+4,02/09/77,Coventry City,2-2,Leeds United
+4,02/09/77,Derby County,0-1,Manchester United
+4,02/09/77,Everton,0-0,Wolverhampton
+4,02/09/77,Ipswich Town,1-0,Chelsea
+4,02/09/77,Manchester City,4-0,Norwich City
+4,02/09/77,Newcastle,2-3,West Ham
+4,02/09/77,QPR,3-0,Leicester City
+4,02/09/77,West Bromwich,2-1,Middlesbrough
+5,09/09/77,Aston Villa,1-0,Arsenal
+5,09/09/77,Chelsea,1-1,Derby County
+5,09/09/77,Leeds United,2-1,Ipswich Town
+5,09/09/77,Leicester City,1-5,Everton
+5,09/09/77,Liverpool,2-0,Coventry City
+5,09/09/77,Manchester City,3-1,Manchester United
+5,09/09/77,Middlesbrough,1-2,Birmingham City
+5,09/09/77,Newcastle,0-3,West Bromwich
+5,09/09/77,Norwich City,1-0,Bristol City
+5,09/09/77,West Ham,2-2,QPR
+5,09/09/77,Wolverhampton,2-3,Nottingham Forest
+6,16/09/77,Arsenal,2-1,Leicester City
+6,16/09/77,Birmingham City,3-0,Newcastle
+6,16/09/77,Bristol City,3-2,West Ham
+6,16/09/77,Coventry City,2-1,Middlesbrough
+6,16/09/77,Derby County,2-2,Leeds United
+6,16/09/77,Everton,3-0,Norwich City
+6,16/09/77,Ipswich Town,1-1,Liverpool
+6,16/09/77,Manchester United,0-1,Chelsea
+6,16/09/77,Nottingham Forest,2-0,Aston Villa
+6,16/09/77,QPR,1-1,Manchester City
+6,16/09/77,West Bromwich,2-2,Wolverhampton
+7,22/09/77,Aston Villa,2-0,Wolverhampton
+7,23/09/77,Leeds United,1-1,Manchester United
+7,23/09/77,Leicester City,0-3,Nottingham Forest
+7,23/09/77,Liverpool,1-0,Derby County
+7,23/09/77,Manchester City,2-0,Bristol City
+7,23/09/77,Middlesbrough,1-1,Ipswich Town
+7,23/09/77,Newcastle,1-2,Coventry City
+7,23/09/77,Norwich City,1-0,Arsenal
+7,23/09/77,QPR,1-1,Chelsea
+7,23/09/77,West Bromwich,3-1,Birmingham City
+7,23/09/77,West Ham,1-1,Everton
+8,30/09/77,Arsenal,3-0,West Ham
+8,30/09/77,Aston Villa,0-1,Birmingham City
+8,30/09/77,Bristol City,2-2,QPR
+8,30/09/77,Chelsea,1-2,Leeds United
+8,30/09/77,Coventry City,1-2,West Bromwich
+8,30/09/77,Derby County,4-1,Middlesbrough
+8,30/09/77,Everton,1-1,Manchester City
+8,30/09/77,Ipswich Town,2-1,Newcastle
+8,30/09/77,Manchester United,2-0,Liverpool
+8,30/09/77,Nottingham Forest,1-1,Norwich City
+8,30/09/77,Wolverhampton,3-0,Leicester City
+9,02/10/77,West Ham,0-2,Middlesbrough
+9,03/10/77,Arsenal,0-0,Liverpool
+9,03/10/77,Birmingham City,2-1,QPR
+9,03/10/77,Coventry City,4-2,Manchester City
+9,03/10/77,Everton,3-1,West Bromwich
+9,03/10/77,Nottingham Forest,4-0,Ipswich Town
+9,03/10/77,Wolverhampton,1-2,Derby County
+9,04/10/77,Chelsea,0-0,Leicester City
+9,04/10/77,Leeds United,1-1,Aston Villa
+9,04/10/77,Norwich City,2-1,Newcastle
+9,07/10/77,Bristol City,3-2,Leeds United
+10,07/10/77,Birmingham City,1-1,Coventry City
+10,07/10/77,Leicester City,0-2,Aston Villa
+10,07/10/77,Liverpool,2-0,Chelsea
+10,07/10/77,Manchester City,2-1,Arsenal
+10,07/10/77,Middlesbrough,2-1,Manchester United
+10,07/10/77,Newcastle,1-2,Derby County
+10,07/10/77,Norwich City,2-1,Wolverhampton
+10,07/10/77,QPR,1-5,Everton
+10,07/10/77,West Bromwich,1-0,Ipswich Town
+10,07/10/77,West Ham,0-0,Nottingham Forest
+10,14/10/77,Everton,1-0,Bristol City
+11,14/10/77,Arsenal,1-0,QPR
+11,14/10/77,Aston Villa,3-0,Norwich City
+11,14/10/77,Chelsea,0-0,Middlesbrough
+11,14/10/77,Derby County,1-1,West Bromwich
+11,14/10/77,Ipswich Town,5-2,Birmingham City
+11,14/10/77,Leeds United,1-2,Liverpool
+11,14/10/77,Leicester City,1-2,Coventry City
+11,14/10/77,Manchester United,3-2,Newcastle
+11,14/10/77,Nottingham Forest,2-1,Manchester City
+11,14/10/77,Wolverhampton,2-2,West Ham
+11,21/10/77,Bristol City,0-2,Arsenal
+12,21/10/77,Birmingham City,3-1,Derby County
+12,21/10/77,Coventry City,1-1,Ipswich Town
+12,21/10/77,Liverpool,0-0,Everton
+12,21/10/77,Manchester City,0-2,Wolverhampton
+12,21/10/77,Middlesbrough,2-1,Leeds United
+12,21/10/77,Newcastle,1-0,Chelsea
+12,21/10/77,Norwich City,2-0,Leicester City
+12,21/10/77,QPR,0-2,Nottingham Forest
+12,21/10/77,West Bromwich,4-0,Manchester United
+12,21/10/77,West Ham,2-2,Aston Villa
+12,28/10/77,Chelsea,1-0,Bristol City
+13,28/10/77,Arsenal,1-1,Birmingham City
+13,28/10/77,Aston Villa,2-1,Manchester United
+13,28/10/77,Derby County,2-2,Norwich City
+13,28/10/77,Everton,4-4,Newcastle
+13,28/10/77,Ipswich Town,0-2,West Ham
+13,28/10/77,Leicester City,0-0,Leeds United
+13,28/10/77,Manchester City,3-1,Liverpool
+13,28/10/77,Nottingham Forest,4-0,Middlesbrough
+13,28/10/77,QPR,2-1,West Bromwich
+13,28/10/77,Wolverhampton,1-3,Coventry City
+13,04/11/77,Newcastle,1-1,Bristol City
+14,04/11/77,Birmingham City,2-1,Wolverhampton
+14,04/11/77,Chelsea,1-0,Nottingham Forest
+14,04/11/77,Coventry City,1-0,West Ham
+14,04/11/77,Derby County,0-1,Everton
+14,04/11/77,Ipswich Town,1-0,Manchester City
+14,04/11/77,Leeds United,2-2,Norwich City
+14,04/11/77,Liverpool,1-2,Aston Villa
+14,04/11/77,Manchester United,1-2,Arsenal
+14,04/11/77,Middlesbrough,1-1,QPR
+14,04/11/77,West Bromwich,2-0,Leicester City
+14,11/11/77,Bristol City,3-1,Derby County
+15,11/11/77,Arsenal,1-1,Coventry City
+15,11/11/77,Aston Villa,0-1,Middlesbrough
+15,11/11/77,Everton,2-1,Birmingham City
+15,11/11/77,Leicester City,2-1,Ipswich Town
+15,11/11/77,Manchester City,2-3,Leeds United
+15,11/11/77,Norwich City,0-0,Chelsea
+15,11/11/77,Nottingham Forest,2-1,Manchester United
+15,11/11/77,QPR,2-0,Liverpool
+15,11/11/77,West Ham,3-3,West Bromwich
+15,11/11/77,Wolverhampton,1-0,Newcastle
+15,18/11/77,Liverpool,1-1,Bristol City
+15,18/11/77,Manchester United,1-0,Norwich City
+16,18/11/77,Birmingham City,1-1,Leicester City
+16,18/11/77,Chelsea,0-0,Aston Villa
+16,18/11/77,Coventry City,4-1,QPR
+16,18/11/77,Derby County,2-1,West Ham
+16,18/11/77,Ipswich Town,3-3,Everton
+16,18/11/77,Leeds United,1-0,Nottingham Forest
+16,18/11/77,Middlesbrough,0-0,Wolverhampton
+16,18/11/77,Newcastle,1-2,Arsenal
+16,18/11/77,West Bromwich,0-0,Manchester City
+16,25/11/77,Bristol City,4-1,Middlesbrough
+17,25/11/77,Arsenal,1-3,Derby County
+17,25/11/77,Everton,6-0,Coventry City
+17,25/11/77,Leicester City,0-4,Liverpool
+17,25/11/77,Manchester City,6-2,Chelsea
+17,25/11/77,Norwich City,1-0,Birmingham City
+17,25/11/77,Nottingham Forest,0-0,West Bromwich
+17,25/11/77,QPR,2-2,Manchester United
+17,25/11/77,West Ham,0-1,Leeds United
+17,25/11/77,Wolverhampton,0-0,Ipswich Town
+17,02/12/77,Coventry City,1-1,Bristol City
+17,02/12/77,Newcastle,2-0,Leicester City
+18,02/12/77,Birmingham City,0-2,Nottingham Forest
+18,02/12/77,Chelsea,0-1,Everton
+18,02/12/77,Derby County,2-1,Manchester City
+18,02/12/77,Ipswich Town,2-0,Aston Villa
+18,02/12/77,Leeds United,3-0,QPR
+18,02/12/77,Liverpool,2-0,West Ham
+18,02/12/77,Manchester United,3-1,Wolverhampton
+18,02/12/77,Middlesbrough,0-1,Arsenal
+18,02/12/77,West Bromwich,0-0,Norwich City
+18,09/12/77,Bristol City,2-0,Ipswich Town
+18,09/12/77,QPR,0-1,Newcastle
+19,09/12/77,Arsenal,1-1,Leeds United
+19,09/12/77,Aston Villa,3-0,West Bromwich
+19,09/12/77,Everton,3-0,Middlesbrough
+19,09/12/77,Leicester City,1-1,Derby County
+19,09/12/77,Manchester City,3-0,Birmingham City
+19,09/12/77,Norwich City,2-1,Liverpool
+19,09/12/77,Nottingham Forest,2-1,Coventry City
+19,09/12/77,West Ham,2-1,Manchester United
+19,09/12/77,Wolverhampton,1-3,Chelsea
+19,16/12/77,Derby County,1-0,Bristol City
+19,16/12/77,Newcastle,4-0,Wolverhampton
+20,16/12/77,Birmingham City,0-0,Everton
+20,16/12/77,Chelsea,1-1,Norwich City
+20,16/12/77,Coventry City,1-2,Arsenal
+20,16/12/77,Ipswich Town,1-0,Leicester City
+20,16/12/77,Leeds United,2-0,Manchester City
+20,16/12/77,Liverpool,1-0,QPR
+20,16/12/77,Manchester United,0-4,Nottingham Forest
+20,16/12/77,Middlesbrough,1-0,Aston Villa
+20,16/12/77,West Bromwich,1-0,West Ham
+20,25/12/77,Bristol City,3-1,West Bromwich
+21,25/12/77,Arsenal,3-0,Chelsea
+21,25/12/77,Aston Villa,1-1,Coventry City
+21,25/12/77,Everton,2-6,Manchester United
+21,25/12/77,Leicester City,0-0,Middlesbrough
+21,25/12/77,Manchester City,4-0,Newcastle
+21,25/12/77,Norwich City,1-0,Ipswich Town
+21,25/12/77,Nottingham Forest,1-1,Liverpool
+21,25/12/77,QPR,0-0,Derby County
+21,25/12/77,West Ham,1-0,Birmingham City
+21,25/12/77,Wolverhampton,3-1,Leeds United
+21,26/12/77,Derby County,0-3,Aston Villa
+22,26/12/77,Birmingham City,3-0,Bristol City
+22,26/12/77,Chelsea,2-1,West Ham
+22,26/12/77,Coventry City,5-4,Norwich City
+22,26/12/77,Ipswich Town,3-2,QPR
+22,26/12/77,Leeds United,3-1,Everton
+22,26/12/77,Liverpool,1-0,Wolverhampton
+22,26/12/77,Manchester United,3-1,Leicester City
+22,26/12/77,Middlesbrough,0-2,Manchester City
+22,26/12/77,West Bromwich,1-3,Arsenal
+21,27/12/77,Newcastle,0-2,Nottingham Forest
+22,30/12/77,Bristol City,1-3,Nottingham Forest
+22,30/12/77,Newcastle,0-2,Liverpool
+23,30/12/77,Birmingham City,4-5,Chelsea
+23,30/12/77,Coventry City,3-0,Manchester United
+23,30/12/77,Everton,2-0,Arsenal
+23,30/12/77,Ipswich Town,1-2,Derby County
+23,30/12/77,Manchester City,2-0,Aston Villa
+23,30/12/77,Middlesbrough,2-2,Norwich City
+23,30/12/77,QPR,1-3,Wolverhampton
+23,30/12/77,West Bromwich,1-0,Leeds United
+23,30/12/77,West Ham,3-2,Leicester City
+23,01/01/78,Leeds United,0-2,Newcastle
+23,01/01/78,Wolverhampton,0-0,Bristol City
+24,01/01/78,Arsenal,1-0,Ipswich Town
+24,01/01/78,Aston Villa,1-1,QPR
+24,01/01/78,Chelsea,2-2,West Bromwich
+24,01/01/78,Derby County,4-2,Coventry City
+24,01/01/78,Leicester City,0-1,Manchester City
+24,01/01/78,Liverpool,2-0,Middlesbrough
+24,01/01/78,Manchester United,1-2,Birmingham City
+24,01/01/78,Norwich City,2-2,West Ham
+24,01/01/78,Nottingham Forest,1-1,Everton
+24,13/01/78,Bristol City,0-0,Leicester City
+25,13/01/78,Arsenal,3-1,Wolverhampton
+25,13/01/78,Birmingham City,2-3,Leeds United
+25,13/01/78,Coventry City,5-1,Chelsea
+25,13/01/78,Derby County,0-0,Nottingham Forest
+25,13/01/78,Everton,1-0,Aston Villa
+25,13/01/78,Ipswich Town,1-2,Manchester United
+25,13/01/78,Manchester City,3-2,West Ham
+25,13/01/78,Newcastle,2-4,Middlesbrough
+25,13/01/78,QPR,2-1,Norwich City
+25,13/01/78,West Bromwich,0-1,Liverpool
+25,20/01/78,West Ham,1-0,Newcastle
+26,20/01/78,Chelsea,5-3,Ipswich Town
+26,20/01/78,Leeds United,2-0,Coventry City
+26,20/01/78,Leicester City,0-0,QPR
+26,20/01/78,Liverpool,2-3,Birmingham City
+26,20/01/78,Manchester United,4-0,Derby County
+26,20/01/78,Middlesbrough,1-0,West Bromwich
+26,20/01/78,Norwich City,1-3,Manchester City
+26,20/01/78,Nottingham Forest,2-0,Arsenal
+26,20/01/78,Wolverhampton,3-1,Everton
+25,27/01/78,Aston Villa,1-0,Bristol City
+26,03/02/78,Bristol City,3-0,Norwich City
+27,03/02/78,Arsenal,0-1,Aston Villa
+27,03/02/78,Birmingham City,1-2,Middlesbrough
+27,03/02/78,Coventry City,1-0,Liverpool
+27,03/02/78,Everton,2-0,Leicester City
+27,03/02/78,Ipswich Town,0-1,Leeds United
+27,03/02/78,Nottingham Forest,2-0,Wolverhampton
+27,07/02/78,Manchester United,1-1,Bristol City
+27,10/02/78,Chelsea,2-2,Manchester United
+27,10/02/78,Manchester City,2-1,QPR
+28,10/02/78,Leicester City,1-1,Arsenal
+28,10/02/78,West Ham,1-2,Bristol City
+29,16/02/78,Bristol City,2-2,Manchester City
+28,17/02/78,Everton,2-1,West Ham
+28,24/02/78,Birmingham City,1-0,Aston Villa
+28,24/02/78,Leeds United,2-0,Chelsea

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,28/08/20,Aston Villa,5-0,Arsenal
+1,28/08/20,Bradford Park Avenue,3-3,Everton
+1,28/08/20,Burnley,1-4,Bradford City
+1,28/08/20,Derby County,0-0,Chelsea
+1,28/08/20,Liverpool,4-2,Manchester City
+1,28/08/20,Manchester United,2-3,Bolton Wanderers
+1,28/08/20,Middlesbrough,1-2,Oldham Athletic
+1,28/08/20,Newcastle,1-1,West Bromwich
+1,28/08/20,Preston North End,0-1,Huddersfield Town
+1,28/08/20,Sheffield United,1-1,Sunderland
+1,28/08/20,Tottenham,1-2,Blackburn Rovers
+2,30/08/20,Arsenal,2-0,Manchester United
+2,30/08/20,Bradford City,4-0,Sheffield United
+2,30/08/20,Derby County,2-2,Tottenham
+2,30/08/20,Huddersfield Town,1-0,Burnley
+2,30/08/20,Manchester City,3-1,Aston Villa
+2,30/08/20,Middlesbrough,0-0,Preston North End
+2,30/08/20,Oldham Athletic,1-0,Blackburn Rovers
+2,01/09/20,Chelsea,1-0,Bolton Wanderers
+2,01/09/20,Everton,3-1,Newcastle
+2,01/09/20,Sunderland,5-1,Bradford Park Avenue
+2,01/09/20,West Bromwich,1-1,Liverpool
+3,04/09/20,Arsenal,0-1,Aston Villa
+3,04/09/20,Blackburn Rovers,1-1,Tottenham
+3,04/09/20,Bolton Wanderers,1-1,Manchester United
+3,04/09/20,Bradford City,2-0,Burnley
+3,04/09/20,Chelsea,1-1,Derby County
+3,04/09/20,Everton,1-1,Bradford Park Avenue
+3,04/09/20,Huddersfield Town,1-0,Preston North End
+3,04/09/20,Manchester City,3-2,Liverpool
+3,04/09/20,Oldham Athletic,3-3,Middlesbrough
+3,04/09/20,Sunderland,3-1,Sheffield United
+3,04/09/20,West Bromwich,0-0,Newcastle
+4,06/09/20,Aston Villa,3-1,Manchester City
+4,06/09/20,Bolton Wanderers,3-1,Chelsea
+4,06/09/20,Burnley,3-0,Huddersfield Town
+4,06/09/20,Liverpool,0-0,West Bromwich
+4,06/09/20,Manchester United,1-1,Arsenal
+4,06/09/20,Preston North End,2-0,Middlesbrough
+4,06/09/20,Sheffield United,4-1,Bradford City
+4,06/09/20,Tottenham,2-0,Derby County
+4,08/09/20,Bradford Park Avenue,1-1,Sunderland
+4,08/09/20,Newcastle,2-0,Everton
+5,11/09/20,Arsenal,2-1,Manchester City
+5,11/09/20,Aston Villa,4-2,Tottenham
+5,11/09/20,Blackburn Rovers,2-0,Sunderland
+5,11/09/20,Bolton Wanderers,3-0,West Bromwich
+5,11/09/20,Bradford Park Avenue,2-0,Sheffield United
+5,11/09/20,Burnley,2-1,Middlesbrough
+5,11/09/20,Derby County,2-4,Everton
+5,11/09/20,Huddersfield Town,1-0,Bradford City
+5,11/09/20,Liverpool,5-2,Oldham Athletic
+5,11/09/20,Manchester United,3-1,Chelsea
+5,11/09/20,Newcastle,4-2,Preston North End
+6,15/09/20,Bolton Wanderers,5-0,Aston Villa
+6,18/09/20,Bradford City,0-2,Huddersfield Town
+6,18/09/20,Chelsea,1-2,Manchester United
+6,18/09/20,Everton,3-1,Derby County
+6,18/09/20,Manchester City,3-1,Arsenal
+6,18/09/20,Middlesbrough,0-0,Burnley
+6,18/09/20,Oldham Athletic,0-0,Liverpool
+6,18/09/20,Preston North End,3-2,Newcastle
+6,18/09/20,Sheffield United,2-0,Bradford Park Avenue
+6,18/09/20,Sunderland,2-0,Blackburn Rovers
+6,18/09/20,West Bromwich,2-1,Bolton Wanderers
+7,18/09/20,Tottenham,1-2,Aston Villa
+6,20/09/20,Blackburn Rovers,5-1,Oldham Athletic
+7,22/09/20,Everton,3-0,Sheffield United
+7,25/09/20,Arsenal,2-2,Middlesbrough
+7,25/09/20,Bolton Wanderers,3-0,Manchester City
+7,25/09/20,Bradford Park Avenue,1-2,Bradford City
+7,25/09/20,Burnley,4-0,Chelsea
+7,25/09/20,Derby County,1-1,West Bromwich
+7,25/09/20,Huddersfield Town,0-0,Sunderland
+7,25/09/20,Liverpool,6-0,Preston North End
+7,25/09/20,Manchester United,0-1,Tottenham
+7,25/09/20,Newcastle,3-0,Sheffield United
+8,25/09/20,Aston Villa,3-0,Oldham Athletic
+8,25/09/20,Blackburn Rovers,0-0,Everton
+8,02/10/20,Bradford City,2-1,Bradford Park Avenue
+8,02/10/20,Chelsea,1-1,Burnley
+8,02/10/20,Manchester City,3-1,Bolton Wanderers
+8,02/10/20,Middlesbrough,2-1,Arsenal
+8,02/10/20,Preston North End,2-3,Liverpool
+8,02/10/20,Sheffield United,0-3,Newcastle
+8,02/10/20,Sunderland,2-1,Huddersfield Town
+8,02/10/20,Tottenham,4-1,Manchester United
+8,02/10/20,West Bromwich,3-0,Derby County
+9,02/10/20,Everton,2-1,Blackburn Rovers
+9,02/10/20,Oldham Athletic,1-1,Aston Villa
+10,04/10/20,Sheffield United,2-0,Everton
+9,09/10/20,Arsenal,0-0,Bolton Wanderers
+9,09/10/20,Blackburn Rovers,5-1,West Bromwich
+9,09/10/20,Bradford Park Avenue,1-3,Burnley
+9,09/10/20,Derby County,3-0,Manchester City
+9,09/10/20,Huddersfield Town,0-1,Everton
+9,09/10/20,Liverpool,2-2,Sheffield United
+9,09/10/20,Manchester United,4-1,Oldham Athletic
+9,09/10/20,Middlesbrough,2-1,Bradford City
+9,09/10/20,Newcastle,6-1,Sunderland
+9,09/10/20,Tottenham,5-0,Chelsea
+10,09/10/20,Aston Villa,1-0,Preston North End
+10,16/10/20,Bolton Wanderers,1-1,Arsenal
+10,16/10/20,Bradford City,0-1,Middlesbrough
+10,16/10/20,Burnley,1-0,Bradford Park Avenue
+10,16/10/20,Chelsea,0-4,Tottenham
+10,16/10/20,Everton,0-0,Huddersfield Town
+10,16/10/20,Manchester City,0-0,Derby County
+10,16/10/20,Oldham Athletic,2-2,Manchester United
+10,16/10/20,Sheffield United,0-1,Liverpool
+10,16/10/20,Sunderland,0-2,Newcastle
+10,16/10/20,West Bromwich,1-1,Blackburn Rovers
+11,16/10/20,Preston North End,6-1,Aston Villa
+11,23/10/20,Blackburn Rovers,0-2,Manchester City
+11,23/10/20,Bradford City,2-2,Sunderland
+11,23/10/20,Chelsea,1-1,Oldham Athletic
+11,23/10/20,Derby County,1-1,Arsenal
+11,23/10/20,Huddersfield Town,5-1,West Bromwich
+11,23/10/20,Liverpool,1-0,Everton
+11,23/10/20,Manchester United,1-0,Preston North End
+11,23/10/20,Middlesbrough,4-1,Bolton Wanderers
+11,23/10/20,Newcastle,2-1,Bradford Park Avenue
+11,23/10/20,Tottenham,1-2,Burnley
+12,23/10/20,Aston Villa,4-0,Sheffield United
+12,30/10/20,Arsenal,2-0,Derby County
+12,30/10/20,Bolton Wanderers,6-2,Middlesbrough
+12,30/10/20,Bradford Park Avenue,0-2,Newcastle
+12,30/10/20,Burnley,2-0,Tottenham
+12,30/10/20,Everton,0-3,Liverpool
+12,30/10/20,Manchester City,0-0,Blackburn Rovers
+12,30/10/20,Oldham Athletic,1-2,Chelsea
+12,30/10/20,Preston North End,0-0,Manchester United
+12,30/10/20,Sunderland,0-0,Bradford City
+12,30/10/20,West Bromwich,3-0,Huddersfield Town
+13,30/10/20,Sheffield United,0-0,Aston Villa
+13,06/11/20,Blackburn Rovers,2-2,Arsenal
+13,06/11/20,Bradford City,2-2,Everton
+13,06/11/20,Chelsea,1-1,Preston North End
+13,06/11/20,Derby County,0-0,Bolton Wanderers
+13,06/11/20,Huddersfield Town,0-1,Manchester City
+13,06/11/20,Liverpool,0-1,Bradford Park Avenue
+13,06/11/20,Manchester United,2-1,Sheffield United
+13,06/11/20,Middlesbrough,2-0,Sunderland
+13,06/11/20,Newcastle,1-2,Burnley
+13,06/11/20,Tottenham,5-1,Oldham Athletic
+14,06/11/20,Aston Villa,0-0,West Bromwich
+14,13/11/20,Arsenal,2-0,Blackburn Rovers
+14,13/11/20,Bolton Wanderers,1-0,Derby County
+14,13/11/20,Bradford Park Avenue,1-3,Liverpool
+14,13/11/20,Burnley,3-1,Newcastle
+14,13/11/20,Everton,2-2,Bradford City
+14,13/11/20,Manchester City,3-2,Huddersfield Town
+14,13/11/20,Oldham Athletic,2-5,Tottenham
+14,13/11/20,Preston North End,0-1,Chelsea
+14,13/11/20,Sheffield United,0-0,Manchester United
+14,13/11/20,Sunderland,1-2,Middlesbrough
+15,13/11/20,West Bromwich,2-1,Aston Villa
+15,20/11/20,Blackburn Rovers,2-2,Bolton Wanderers
+15,20/11/20,Huddersfield Town,0-4,Arsenal
+15,20/11/20,Manchester United,1-1,Manchester City
+15,20/11/20,Middlesbrough,1-0,Derby County
+15,20/11/20,Newcastle,2-0,Liverpool
+15,20/11/20,Oldham Athletic,2-2,Burnley
+15,20/11/20,Tottenham,1-2,Preston North End
+16,20/11/20,Aston Villa,4-1,Bradford Park Avenue
+17,20/11/20,Chelsea,2-1,Sheffield United
+17,20/11/20,Everton,1-1,Sunderland
+15,27/11/20,West Bromwich,2-0,Bradford City
+16,27/11/20,Arsenal,2-0,Huddersfield Town
+16,27/11/20,Bolton Wanderers,2-1,Blackburn Rovers
+16,27/11/20,Burnley,7-1,Oldham Athletic
+16,27/11/20,Derby County,0-1,Middlesbrough
+16,27/11/20,Liverpool,0-1,Newcastle
+16,27/11/20,Manchester City,3-0,Manchester United
+16,27/11/20,Preston North End,4-1,Tottenham
+17,27/11/20,Bradford Park Avenue,4-0,Aston Villa
+18,27/11/20,Sheffield United,0-1,Chelsea
+18,27/11/20,Sunderland,0-2,Everton
+16,04/12/20,Bradford City,1-2,Manchester City
+17,04/12/20,Blackburn Rovers,2-0,Derby County
+17,04/12/20,Chelsea,1-2,Arsenal
+17,04/12/20,Huddersfield Town,0-0,Bolton Wanderers
+17,04/12/20,Liverpool,0-0,Burnley
+17,04/12/20,Manchester United,5-1,Bradford Park Avenue
+17,04/12/20,Middlesbrough,3-1,Everton
+17,04/12/20,Oldham Athletic,0-2,Preston North End
+17,04/12/20,West Bromwich,4-1,Sunderland
+18,04/12/20,Newcastle,2-1,Aston Villa
+19,04/12/20,Tottenham,4-1,Sheffield United
+17,11/12/20,Manchester City,1-0,Bradford City
+18,11/12/20,Arsenal,1-1,Chelsea
+18,11/12/20,Bolton Wanderers,3-1,Huddersfield Town
+18,11/12/20,Bradford Park Avenue,2-4,Manchester United
+18,11/12/20,Burnley,1-0,Liverpool
+18,11/12/20,Derby County,0-1,Blackburn Rovers
+18,11/12/20,Everton,2-1,Middlesbrough
+18,11/12/20,Preston North End,4-0,Oldham Athletic
+18,11/12/20,Sunderland,3-0,West Bromwich
+19,11/12/20,Aston Villa,0-0,Newcastle
+20,11/12/20,Sheffield United,1-1,Tottenham
+19,18/12/20,Blackburn Rovers,3-2,Middlesbrough
+19,18/12/20,Bradford City,3-1,Arsenal
+19,18/12/20,Burnley,2-0,Preston North End
+19,18/12/20,Chelsea,4-1,Bradford Park Avenue
+19,18/12/20,Huddersfield Town,2-0,Derby County
+19,18/12/20,Manchester United,2-0,Newcastle
+19,18/12/20,Sunderland,1-0,Manchester City
+19,18/12/20,Tottenham,5-2,Bolton Wanderers
+20,18/12/20,Liverpool,4-1,Aston Villa
+21,18/12/20,Oldham Athletic,0-0,Sheffield United
+21,18/12/20,West Bromwich,1-2,Everton
+20,25/12/20,Blackburn Rovers,2-2,Preston North End
+20,25/12/20,Bolton Wanderers,6-2,Sunderland
+20,25/12/20,Bradford City,2-2,Derby County
+20,25/12/20,Burnley,6-0,Sheffield United
+20,25/12/20,Chelsea,1-1,Liverpool
+20,25/12/20,Everton,2-4,Arsenal
+20,25/12/20,Manchester City,4-0,West Bromwich
+20,25/12/20,Middlesbrough,2-0,Huddersfield Town
+20,25/12/20,Newcastle,1-1,Tottenham
+20,25/12/20,Oldham Athletic,1-0,Bradford Park Avenue
+21,25/12/20,Aston Villa,3-4,Manchester United
+21,27/12/20,Arsenal,1-1,Everton
+21,27/12/20,Bradford Park Avenue,2-1,Oldham Athletic
+21,27/12/20,Derby County,1-1,Bradford City
+21,27/12/20,Huddersfield Town,0-1,Middlesbrough
+21,27/12/20,Liverpool,2-1,Chelsea
+21,27/12/20,Preston North End,4-2,Blackburn Rovers
+21,27/12/20,Sheffield United,1-1,Burnley
+21,27/12/20,Sunderland,0-0,Bolton Wanderers
+21,27/12/20,Tottenham,2-0,Newcastle
+21,27/12/20,West Bromwich,2-2,Manchester City
+22,27/12/20,Manchester United,1-3,Aston Villa
+24,29/12/20,Sheffield United,1-1,Huddersfield Town
+22,01/01/21,Arsenal,1-2,Bradford City
+22,01/01/21,Bolton Wanderers,1-0,Tottenham
+22,01/01/21,Bradford Park Avenue,0-2,Chelsea
+22,01/01/21,Derby County,2-1,Huddersfield Town
+22,01/01/21,Manchester City,3-1,Sunderland
+22,01/01/21,Middlesbrough,1-1,Blackburn Rovers
+22,01/01/21,Newcastle,6-3,Manchester United
+22,01/01/21,Preston North End,0-3,Burnley
+23,01/01/21,Aston Villa,0-2,Liverpool
+24,01/01/21,Everton,2-2,West Bromwich
+25,01/01/21,Sheffield United,3-0,Oldham Athletic
+23,15/01/21,Bradford Park Avenue,1-1,Huddersfield Town
+23,15/01/21,Burnley,4-1,Blackburn Rovers
+23,15/01/21,Chelsea,2-1,Manchester City
+23,15/01/21,Liverpool,0-0,Sunderland
+23,15/01/21,Manchester United,1-4,West Bromwich
+23,15/01/21,Newcastle,4-0,Bradford City
+23,15/01/21,Oldham Athletic,0-0,Bolton Wanderers
+23,15/01/21,Preston North End,2-1,Derby County
+23,15/01/21,Sheffield United,1-1,Middlesbrough
+23,15/01/21,Tottenham,2-1,Arsenal
+24,15/01/21,Aston Villa,1-3,Everton
+24,22/01/21,Arsenal,3-2,Tottenham
+24,22/01/21,Blackburn Rovers,1-3,Burnley
+24,22/01/21,Bolton Wanderers,1-1,Oldham Athletic
+24,22/01/21,Bradford City,1-1,Newcastle
+24,22/01/21,Derby County,1-1,Preston North End
+24,22/01/21,Huddersfield Town,0-0,Bradford Park Avenue
+24,22/01/21,Manchester City,1-0,Chelsea
+24,22/01/21,Middlesbrough,2-2,Sheffield United
+24,22/01/21,Sunderland,2-1,Liverpool
+24,22/01/21,West Bromwich,0-2,Manchester United
+25,22/01/21,Everton,1-1,Aston Villa
+25,29/01/21,Arsenal,1-2,Sunderland
+25,29/01/21,Middlesbrough,0-1,West Bromwich
+25,03/02/21,Tottenham,2-0,Bradford Park Avenue
+24,05/02/21,Bolton Wanderers,1-1,Bradford City
+25,05/02/21,Chelsea,2-0,Newcastle
+25,05/02/21,Derby County,3-3,Oldham Athletic
+25,05/02/21,Everton,3-0,Manchester City
+25,05/02/21,Manchester United,1-1,Liverpool
+25,05/02/21,Sheffield United,1-0,Preston North End
+26,05/02/21,Bradford Park Avenue,1-1,Tottenham
+26,05/02/21,Burnley,7-1,Aston Villa
+26,05/02/21,Huddersfield Town,0-0,Blackburn Rovers
+26,05/02/21,Sunderland,5-1,Arsenal
+26,05/02/21,West Bromwich,0-1,Middlesbrough
+26,07/02/21,Preston North End,2-0,Sheffield United
+25,09/02/21,Bradford City,1-1,West Bromwich
+26,09/02/21,Liverpool,2-0,Manchester United
+26,09/02/21,Newcastle,1-0,Chelsea
+27,09/02/21,Aston Villa,0-0,Burnley
+27,10/02/21,Blackburn Rovers,1-2,Huddersfield Town
+27,12/02/21,Bradford Park Avenue,3-0,Middlesbrough
+27,12/02/21,Burnley,2-1,Derby County
+27,12/02/21,Chelsea,3-0,West Bromwich
+27,12/02/21,Liverpool,2-1,Bradford City
+27,12/02/21,Manchester United,1-2,Everton
+27,12/02/21,Newcastle,1-0,Huddersfield Town
+27,12/02/21,Oldham Athletic,1-1,Arsenal
+27,12/02/21,Preston North End,1-2,Bolton Wanderers
+27,12/02/21,Tottenham,2-0,Manchester City
+28,12/02/21,Aston Villa,1-5,Sunderland
+30,12/02/21,Sheffield United,1-1,Blackburn Rovers
+27,14/02/21,Oldham Athletic,2-1,Derby County
+27,16/02/21,Bradford City,2-2,Bolton Wanderers

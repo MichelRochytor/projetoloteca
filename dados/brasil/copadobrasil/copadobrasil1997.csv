@@ -1,0 +1,87 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1PE,-,Internacional,ANU,CR Guará
+1PE,-,Corinthians,ANU,Mixto
+1PE,-,Atlético Paranaense,ANU,CSA
+1PE,-,Fluminense,ANU,Santa Cruz-PB
+1PE,-,Botafogo,ANU,Ji-Paraná
+1F,-,Vasco,ANU,Sergipe
+1F,-,Flamengo,ANU,Nacional-AM
+1F,-,Vitória,ANU,Botafogo
+1PE,18/02/97,CR Guará,0-7,Internacional
+1PE,18/02/97,Mixto,0-3,Corinthians
+1PE,18/02/97,Ypiranga-AP,1-0,Remo
+1PE,19/02/97,Operário-MS,2-2,Santa Cruz
+1PE,20/02/97,CSA,2-6,Atlético Paranaense
+1PE,20/02/97,Desportiva Ferroviária,1-1,Santos
+1PE,20/02/97,Paysandu,2-1,Vila Nova
+1F,20/02/97,Sergipe,3-5,Vasco
+1PE,25/02/97,Santa Cruz,6-1,Operário-MS
+1PE,25/02/97,Santa Cruz-PB,0-4,Fluminense
+1PE,25/02/97,Rio Branco-AC,3-2,Baré
+1PE,25/02/97,Kaburé,1-1,Portuguesa
+1F,25/02/97,River-PI,0-0,Palmeiras
+1PE,25/02/97,Remo,5-0,Ypiranga-AP
+1PE,27/02/97,Santos,5-1,Desportiva Ferroviária
+1PE,27/02/97,Vila Nova,3-0,Paysandu
+1PE,27/02/97,Ji-Paraná,1-3,Botafogo
+1PE,27/02/97,América Mineiro,1-1,Bahia
+1F,27/02/97,Nacional-AM,2-6,Flamengo
+1PE,03/03/97,Baré,1-1,Rio Branco-AC
+1PE,04/03/97,Portuguesa,8-0,Kaburé
+1F,04/03/97,Santa Cruz,1-1,Cruzeiro
+1PE,06/03/97,Bahia,2-0,América Mineiro
+1F,06/03/97,Paraná,1-1,Internacional
+1F,11/03/97,Palmeiras,7-1,River-PI
+1F,11/03/97,Vila Nova,2-3,São Paulo
+1F,12/03/97,Botafogo,0-3,Vitória
+1F,12/03/97,Ceará,1-0,Fluminense
+1F,13/03/97,Internacional,3-0,Paraná
+1F,13/03/97,Figueirense,0-1,Santos
+1F,13/03/97,Rio Branco-AC,1-0,Goiás
+1F,13/03/97,Bahia,2-2,Coritiba
+1F,13/03/97,Corinthians,2-0,Juventude
+1F,13/03/97,América-RN,1-0,Portuguesa
+1F,13/03/97,Remo,3-3,Atlético Mineiro
+1F,14/03/97,Atlético Paranaense,3-0,Sport
+1F,18/03/97,Santos,3-2,Figueirense
+1F,18/03/97,Fortaleza,2-3,Grêmio
+1F,19/03/97,Atlético Mineiro,3-2,Remo
+1F,20/03/97,Fluminense,0-0,Ceará
+1F,20/03/97,Goiás,2-1,Rio Branco-AC
+1F,20/03/97,Coritiba,1-0,Bahia
+1F,20/03/97,Juventude,2-0(3-5 Pen.),Corinthians
+1F,20/03/97,Portuguesa,3-0,América-RN
+1F,20/03/97,Sport,1-1,Atlético Paranaense
+1F,25/03/97,São Paulo,2-0,Vila Nova
+1F,25/03/97,Grêmio,3-1,Fortaleza
+1/8,25/03/97,Coritiba,0-1,Palmeiras
+1F,26/03/97,Cruzeiro,0-1,Santa Cruz
+1/8,26/03/97,Santos,2-0,Internacional
+1/8,26/03/97,Corinthians,1-0,Atlético Mineiro
+1/8,03/04/97,Palmeiras,4-2,Coritiba
+1/8,03/04/97,Internacional,2-0(3-2 Pen.),Santos
+1/8,03/04/97,Ceará,3-2,Santa Cruz
+1/8,03/04/97,Rio Branco-AC,2-1,Flamengo
+1/8,03/04/97,Atlético Paranaense,3-1,Vasco
+1/8,03/04/97,Atlético Mineiro,1-1,Corinthians
+1/8,03/04/97,Vitória,2-1,São Paulo
+1/8,04/04/97,Grêmio,2-1,Portuguesa
+1/8,08/04/97,São Paulo,2-2,Vitória
+1/8,08/04/97,Santa Cruz,0-1,Ceará
+1/8,08/04/97,Portuguesa,1-1,Grêmio
+1/8,10/04/97,Flamengo,5-1,Rio Branco-AC
+1/8,10/04/97,Vasco,4-3,Atlético Paranaense
+QF,15/04/97,Ceará,2-5,Palmeiras
+QF,15/04/97,Corinthians,1-2,Atlético Paranaense
+QF,17/04/97,Internacional,1-1,Flamengo
+QF,18/04/97,Grêmio,2-0,Vitória
+QF,22/04/97,Atlético Paranaense,2-6,Corinthians
+QF,24/04/97,Flamengo,1-0,Internacional
+QF,29/04/97,Palmeiras,5-0,Ceará
+QF,03/05/97,Vitória,3-3,Grêmio
+SF,06/05/97,Flamengo,2-0,Palmeiras
+SF,08/05/97,Corinthians,1-2,Grêmio
+SF,13/05/97,Palmeiras,0-1,Flamengo
+SF,15/05/97,Grêmio,1-1,Corinthians
+F,20/05/97,Grêmio,0-0,Flamengo
+F,22/05/97,Flamengo,2-2,Grêmio

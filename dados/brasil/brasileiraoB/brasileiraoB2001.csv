@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,11/08/01,Vila Nova,2-1,Serra
+B,12/08/01,Caxias,1-1,Londrina
+B,12/08/01,Criciúma,1-0,Americano
+B,12/08/01,Avaí,1-0,Bragantino
+B,12/08/01,Malutrom,0-1,XV de Piracicaba
+B,12/08/01,Desportiva Capixaba,1-0,Figueirense
+B,12/08/01,União São João,0-0,Joinville
+A,12/08/01,São Raimundo-AM,1-1,Paysandu
+A,12/08/01,Remo,1-2,Náutico
+A,12/08/01,Sampaio Corrêa,1-1,Nacional-AM
+A,12/08/01,ABC,0-1,Ceará
+A,12/08/01,Fortaleza,0-1,Sergipe
+A,12/08/01,Anapolina,1-0,Tuna Luso
+A,13/08/01,CRB,1-1,América-RN
+B,18/08/01,Londrina,2-5,União São João
+A,18/08/01,Náutico,4-0,ABC
+B,19/08/01,Figueirense,3-1,Caxias
+B,19/08/01,Joinville,2-0,Vila Nova
+B,19/08/01,XV de Piracicaba,2-1,Criciúma
+B,19/08/01,Bragantino,2-1,Malutrom
+B,19/08/01,Americano,1-0,Desportiva Capixaba
+B,19/08/01,Serra,0-1,Avaí
+A,19/08/01,Sergipe,0-0,Sampaio Corrêa
+A,19/08/01,Nacional-AM,2-0,Remo
+A,19/08/01,América-RN,1-0,Fortaleza
+A,19/08/01,Ceará,0-1,Anapolina
+A,19/08/01,Paysandu,1-0,CRB
+A,19/08/01,Tuna Luso,1-1,São Raimundo-AM
+B,22/08/01,XV de Piracicaba,1-0,Londrina
+B,22/08/01,Figueirense,2-1,Americano
+B,22/08/01,Vila Nova,1-0,União São João
+B,22/08/01,Caxias,1-0,Avaí
+B,22/08/01,Criciúma,4-1,Serra
+B,22/08/01,Desportiva Capixaba,3-0,Bragantino
+B,22/08/01,Malutrom,0-0,Joinville
+A,22/08/01,Nacional-AM,1-2,Tuna Luso
+A,22/08/01,Remo,3-2,América-RN
+A,22/08/01,Anapolina,1-3,Fortaleza
+A,22/08/01,Sampaio Corrêa,2-2,Paysandu
+A,22/08/01,ABC,2-0,Sergipe
+A,22/08/01,Ceará,1-2,Náutico
+A,22/08/01,CRB,2-0,São Raimundo-AM
+A,25/08/01,Tuna Luso,2-2,Remo
+A,25/08/01,Náutico,1-0,Nacional-AM
+B,26/08/01,Serra,1-1,Caxias
+B,26/08/01,Avaí,3-2,Vila Nova
+B,26/08/01,Londrina,1-2,Criciúma
+B,26/08/01,União São João,1-2,Malutrom
+B,26/08/01,Americano,2-0,XV de Piracicaba
+B,26/08/01,Bragantino,2-0,Figueirense
+B,26/08/01,Joinville,1-0,Desportiva Capixaba
+A,26/08/01,Sergipe,2-3,Ceará
+A,26/08/01,Paysandu,2-1,ABC
+A,26/08/01,Fortaleza,0-0,CRB
+A,26/08/01,São Raimundo-AM,3-2,Sampaio Corrêa
+A,26/08/01,América-RN,2-1,Anapolina
+B,29/08/01,Malutrom,1-2,Desportiva Capixaba
+B,29/08/01,Joinville,4-0,Bragantino
+B,29/08/01,XV de Piracicaba,2-1,Figueirense
+B,29/08/01,Avaí,1-0,Londrina
+B,29/08/01,Serra,1-2,União São João
+A,29/08/01,Sampaio Corrêa,1-0,ABC
+A,29/08/01,América-RN,1-1,São Raimundo-AM
+A,29/08/01,Fortaleza,4-1,Tuna Luso
+A,29/08/01,Paysandu,3-0,Sergipe
+A,29/08/01,Nacional-AM,2-1,Ceará
+A,29/08/01,Anapolina,2-3,CRB
+B,30/08/01,Caxias,3-1,Vila Nova
+A,01/09/01,Náutico,1-1,Paysandu
+B,02/09/01,Figueirense,3-0,Malutrom
+B,02/09/01,União São João,2-0,Avaí
+B,02/09/01,Desportiva Capixaba,2-1,XV de Piracicaba
+B,02/09/01,Criciúma,0-2,Caxias
+B,02/09/01,Americano,1-1,Joinville
+B,02/09/01,Londrina,2-0,Serra
+A,02/09/01,Tuna Luso,3-1,América-RN
+A,02/09/01,Remo,1-1,Anapolina
+A,02/09/01,Ceará,3-2,Sampaio Corrêa
+A,02/09/01,ABC,1-0,Nacional-AM
+A,02/09/01,São Raimundo-AM,0-2,Fortaleza
+B,05/09/01,Vila Nova,3-0,Criciúma
+B,05/09/01,Bragantino,2-0,Americano
+A,06/09/01,CRB,2-0,Remo
+A,06/09/01,Sergipe,5-0,Náutico
+B,08/09/01,Caxias,5-1,Bragantino
+B,08/09/01,Vila Nova,4-1,Americano
+B,09/09/01,Figueirense,2-0,Avaí
+B,09/09/01,Joinville,3-2,Criciúma
+B,09/09/01,Malutrom,1-0,Londrina
+B,09/09/01,União São João,6-1,XV de Piracicaba
+B,09/09/01,Desportiva Capixaba,1-1,Serra
+A,09/09/01,São Raimundo-AM,0-0,Nacional-AM
+A,09/09/01,Paysandu,3-1,Remo
+A,09/09/01,América-RN,0-0,ABC
+A,09/09/01,Fortaleza,0-1,Ceará
+A,09/09/01,CRB,5-2,Náutico
+A,09/09/01,Sergipe,4-4,Anapolina
+A,10/09/01,Sampaio Corrêa,0-1,Tuna Luso
+B,12/09/01,Caxias,2-1,Desportiva Capixaba
+B,12/09/01,Americano,1-0,Avaí
+B,12/09/01,Criciúma,2-0,União São João
+B,12/09/01,Figueirense,4-3,Joinville
+B,12/09/01,Londrina,3-0,Vila Nova
+B,12/09/01,XV de Piracicaba,1-3,Bragantino
+B,12/09/01,Serra,1-0,Malutrom
+A,12/09/01,Nacional-AM,1-1,Sergipe
+A,12/09/01,Remo,2-0,São Raimundo-AM
+A,12/09/01,Ceará,1-1,Paysandu
+A,12/09/01,Náutico,2-1,Fortaleza
+A,13/09/01,Tuna Luso,1-2,CRB
+A,13/09/01,América-RN,2-0,Sampaio Corrêa
+A,13/09/01,Anapolina,3-1,ABC
+B,15/09/01,Vila Nova,1-2,Figueirense
+B,16/09/01,Avaí,3-1,Criciúma
+B,16/09/01,Joinville,2-1,XV de Piracicaba
+B,16/09/01,Malutrom,2-0,Americano
+B,16/09/01,União São João,1-4,Caxias
+B,16/09/01,Desportiva Capixaba,1-1,Londrina
+B,16/09/01,Bragantino,2-1,Serra
+A,16/09/01,São Raimundo-AM,1-0,Anapolina
+A,16/09/01,Paysandu,2-1,Nacional-AM
+A,16/09/01,Sampaio Corrêa,0-0,Náutico
+A,16/09/01,Fortaleza,1-2,Remo
+A,16/09/01,ABC,3-0,Tuna Luso
+A,16/09/01,CRB,1-0,Ceará
+A,16/09/01,Sergipe,1-1,América-RN
+B,19/09/01,Caxias,1-0,XV de Piracicaba
+B,19/09/01,Criciúma,0-1,Malutrom
+B,19/09/01,Avaí,2-0,Desportiva Capixaba
+B,19/09/01,Londrina,1-2,Figueirense
+B,19/09/01,União São João,0-0,Americano
+B,19/09/01,Vila Nova,3-2,Bragantino
+B,19/09/01,Serra,1-1,Joinville
+A,19/09/01,São Raimundo-AM,2-0,Náutico
+A,19/09/01,Tuna Luso,6-2,Ceará
+A,19/09/01,América-RN,1-1,Paysandu
+A,19/09/01,Fortaleza,1-1,ABC
+A,19/09/01,CRB,0-0,Sergipe
+A,19/09/01,Anapolina,2-1,Nacional-AM
+A,20/09/01,Remo,3-1,Sampaio Corrêa
+A,22/09/01,Náutico,3-0,Anapolina
+B,23/09/01,Malutrom,1-1,Avaí
+B,23/09/01,Figueirense,5-1,Serra
+B,23/09/01,Joinville,1-1,Londrina
+B,23/09/01,XV de Piracicaba,3-1,Vila Nova
+B,23/09/01,Bragantino,1-0,União São João
+B,23/09/01,Americano,3-1,Caxias
+B,23/09/01,Desportiva Capixaba,0-1,Criciúma
+A,23/09/01,Nacional-AM,2-0,CRB
+A,23/09/01,Paysandu,2-2,Tuna Luso
+A,23/09/01,Sampaio Corrêa,0-1,Fortaleza
+A,23/09/01,ABC,1-1,Remo
+A,23/09/01,Ceará,0-0,América-RN
+A,23/09/01,Sergipe,3-1,São Raimundo-AM
+B,26/09/01,Americano,1-1,Londrina
+B,26/09/01,Figueirense,0-1,União São João
+B,26/09/01,Joinville,4-1,Avaí
+B,26/09/01,Malutrom,2-2,Caxias
+B,26/09/01,XV de Piracicaba,2-1,Serra
+B,26/09/01,Bragantino,2-2,Criciúma
+B,26/09/01,Desportiva Capixaba,1-0,Vila Nova
+A,26/09/01,Nacional-AM,1-1,América-RN
+A,26/09/01,Paysandu,2-0,Fortaleza
+A,26/09/01,Sampaio Corrêa,2-0,Anapolina
+A,26/09/01,ABC,1-0,CRB
+A,26/09/01,Ceará,2-0,São Raimundo-AM
+A,26/09/01,Náutico,4-0,Tuna Luso
+A,26/09/01,Sergipe,1-2,Remo
+B,29/09/01,Vila Nova,4-1,Malutrom
+A,29/09/01,Tuna Luso,2-1,Sergipe
+B,30/09/01,Londrina,3-1,Bragantino
+B,30/09/01,União São João,3-1,Desportiva Capixaba
+B,30/09/01,Serra,3-1,Americano
+A,30/09/01,São Raimundo-AM,2-1,ABC
+A,30/09/01,Remo,2-0,Ceará
+A,30/09/01,América-RN,1-0,Náutico
+A,30/09/01,Fortaleza,3-1,Nacional-AM
+A,30/09/01,CRB,1-1,Sampaio Corrêa
+A,30/09/01,Anapolina,3-2,Paysandu
+B,01/10/01,Caxias,2-1,Joinville
+B,01/10/01,Criciúma,2-1,Figueirense
+B,01/10/01,Avaí,3-1,XV de Piracicaba
+A,03/10/01,Paysandu,3-0,Sampaio Corrêa
+A,03/10/01,Ceará,6-1,ABC
+B,04/10/01,Figueirense,5-1,Desportiva Capixaba
+B,04/10/01,XV de Piracicaba,2-1,Malutrom
+A,04/10/01,Náutico,4-0,Remo
+B,06/10/01,Americano,2-1,Criciúma
+B,06/10/01,Joinville,1-1,União São João
+B,06/10/01,Londrina,2-1,Caxias
+B,06/10/01,Bragantino,1-1,Avaí
+B,06/10/01,Serra,4-1,Vila Nova
+A,06/10/01,Nacional-AM,2-1,Sampaio Corrêa
+A,06/10/01,Paysandu,1-0,São Raimundo-AM
+A,06/10/01,América-RN,4-1,CRB
+A,06/10/01,Sergipe,1-1,Fortaleza
+A,07/10/01,Tuna Luso,4-1,Anapolina
+B,10/10/01,Criciúma,1-1,XV de Piracicaba
+B,10/10/01,Avaí,1-2,Serra
+B,10/10/01,Malutrom,2-3,Bragantino
+B,10/10/01,União São João,2-2,Londrina
+B,10/10/01,Desportiva Capixaba,2-1,Americano
+A,10/10/01,São Raimundo-AM,2-1,Tuna Luso
+A,10/10/01,Remo,3-2,Nacional-AM
+A,10/10/01,Sampaio Corrêa,3-0,Sergipe
+A,10/10/01,ABC,1-1,Náutico
+A,10/10/01,Fortaleza,0-1,América-RN
+A,10/10/01,CRB,1-0,Paysandu
+A,10/10/01,Anapolina,2-1,Ceará
+B,11/10/01,Caxias,2-1,Figueirense
+B,11/10/01,Vila Nova,0-1,Joinville
+B,14/10/01,Avaí,3-1,Caxias
+B,14/10/01,Joinville,3-1,Malutrom
+B,14/10/01,Londrina,3-1,XV de Piracicaba
+B,14/10/01,União São João,2-0,Vila Nova
+B,14/10/01,Bragantino,1-2,Desportiva Capixaba
+B,14/10/01,Serra,1-1,Criciúma
+B,14/10/01,Americano,3-0,Figueirense
+A,14/10/01,Náutico,1-3,Ceará
+A,14/10/01,São Raimundo-AM,4-2,CRB
+A,14/10/01,América-RN,1-0,Remo
+A,14/10/01,Fortaleza,3-1,Anapolina
+A,14/10/01,Sergipe,2-0,ABC
+B,17/10/01,Caxias,3-1,Serra
+B,17/10/01,Criciúma,3-4,Londrina
+B,17/10/01,Figueirense,1-0,Bragantino
+B,17/10/01,Malutrom,2-0,União São João
+B,17/10/01,XV de Piracicaba,3-1,Americano
+B,17/10/01,Vila Nova,4-0,Avaí
+B,17/10/01,Desportiva Capixaba,2-0,Joinville
+A,17/10/01,Nacional-AM,2-2,Náutico
+A,17/10/01,Sampaio Corrêa,3-0,São Raimundo-AM
+A,17/10/01,Ceará,2-1,Sergipe
+A,17/10/01,CRB,2-1,Fortaleza
+A,18/10/01,Anapolina,2-2,América-RN
+A,18/10/01,ABC,1-1,Paysandu
+A,18/10/01,Remo,0-1,Tuna Luso
+B,20/10/01,Vila Nova,1-1,Caxias
+B,21/10/01,Figueirense,4-1,XV de Piracicaba
+B,21/10/01,Londrina,1-1,Avaí
+B,21/10/01,União São João,4-1,Serra
+B,21/10/01,Bragantino,1-0,Joinville
+B,21/10/01,Desportiva Capixaba,0-2,Malutrom
+A,21/10/01,São Raimundo-AM,3-0,América-RN
+A,21/10/01,Tuna Luso,1-1,Fortaleza
+A,21/10/01,Ceará,6-0,Nacional-AM
+A,21/10/01,Sergipe,3-2,Paysandu
+A,21/10/01,Anapolina,3-0,Remo
+A,22/10/01,ABC,4-2,Sampaio Corrêa
+B,24/10/01,Avaí,1-1,União São João
+B,24/10/01,Joinville,0-0,Americano
+B,24/10/01,Malutrom,2-2,Figueirense
+B,24/10/01,XV de Piracicaba,5-1,Desportiva Capixaba
+B,24/10/01,Serra,1-1,Londrina
+B,24/10/01,Caxias,2-1,Criciúma
+A,24/10/01,Paysandu,2-1,Náutico
+A,24/10/01,América-RN,3-1,Tuna Luso
+A,24/10/01,Fortaleza,3-1,São Raimundo-AM
+A,24/10/01,CRB,3-4,Anapolina
+A,25/10/01,Sampaio Corrêa,3-2,Ceará
+A,25/10/01,Nacional-AM,2-1,ABC
+B,28/10/01,Americano,2-0,Vila Nova
+B,28/10/01,Londrina,3-1,Malutrom
+B,28/10/01,Bragantino,2-3,Caxias
+B,28/10/01,Serra,1-1,Desportiva Capixaba
+B,28/10/01,Criciúma,1-1,Joinville
+B,28/10/01,Avaí,1-1,Figueirense
+B,28/10/01,XV de Piracicaba,3-3,União São João
+A,28/10/01,Tuna Luso,1-2,Sampaio Corrêa
+A,28/10/01,Náutico,1-0,CRB
+A,28/10/01,Nacional-AM,0-4,São Raimundo-AM
+A,28/10/01,Anapolina,1-2,Sergipe
+A,28/10/01,Ceará,3-3,Fortaleza
+A,28/10/01,ABC,0-0,América-RN
+A,28/10/01,Remo,1-1,Paysandu
+B,31/10/01,Criciúma,1-2,Vila Nova
+A,31/10/01,Remo,5-1,CRB
+A,31/10/01,Náutico,5-0,Sergipe
+A,01/11/01,Tuna Luso,3-2,Nacional-AM
+B,02/11/01,Joinville,2-1,Figueirense
+B,04/11/01,Malutrom,2-1,Serra
+B,04/11/01,Bragantino,3-0,XV de Piracicaba
+B,04/11/01,Avaí,4-0,Americano
+B,04/11/01,União São João,0-0,Criciúma
+B,04/11/01,Vila Nova,2-1,Londrina
+B,04/11/01,Desportiva Capixaba,0-0,Caxias
+A,04/11/01,Sergipe,5-0,Nacional-AM
+A,04/11/01,São Raimundo-AM,0-0,Remo
+A,04/11/01,Paysandu,1-1,Ceará
+A,04/11/01,Sampaio Corrêa,1-0,América-RN
+A,04/11/01,ABC,2-2,Anapolina
+A,04/11/01,Fortaleza,1-0,Náutico
+A,04/11/01,CRB,1-0,Tuna Luso
+A,07/11/01,Tuna Luso,2-2,ABC
+A,07/11/01,Náutico,1-2,Sampaio Corrêa
+B,08/11/01,Americano,2-1,Malutrom
+B,08/11/01,XV de Piracicaba,1-0,Joinville
+B,08/11/01,Serra,3-1,Bragantino
+B,08/11/01,Londrina,7-0,Desportiva Capixaba
+B,08/11/01,Figueirense,3-1,Vila Nova

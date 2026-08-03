@@ -1,0 +1,133 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,16/01/10,Madureira,2-1,America-RJ
+B,16/01/10,Vasco,1-0,Tigres do Brasil
+A,16/01/10,Bangu,0-3,Boavista-RJ
+A,16/01/10,Olaria,2-2,Volta Redonda
+B,16/01/10,Macaé,2-3,Botafogo
+A,17/01/10,Flamengo,3-2,Duque de Caxias
+B,17/01/10,Friburguense,0-0,Resende
+A,17/01/10,Americano,0-3,Fluminense
+A,20/01/10,Fluminense,3-0,Bangu
+B,20/01/10,Resende,3-3,Macaé
+A,20/01/10,Volta Redonda,1-3,Flamengo
+A,20/01/10,Boavista-RJ,2-0,Americano
+B,20/01/10,Tigres do Brasil,2-1,Madureira
+B,20/01/10,America-RJ,1-2,Vasco
+A,21/01/10,Duque de Caxias,1-2,Olaria
+B,21/01/10,Botafogo,2-0,Friburguense
+B,23/01/10,Resende,1-2,Madureira
+A,23/01/10,Bangu,1-2,Flamengo
+B,23/01/10,Macaé,2-3,America-RJ
+A,24/01/10,Boavista-RJ,0-0,Duque de Caxias
+B,24/01/10,Friburguense,3-1,Tigres do Brasil
+A,24/01/10,Fluminense,1-0,Volta Redonda
+A,24/01/10,Americano,1-5,Olaria
+B,24/01/10,Botafogo,0-6,Vasco
+A,27/01/10,Olaria,2-0,Bangu
+B,27/01/10,Madureira,2-1,Friburguense
+B,27/01/10,America-RJ,2-2,Resende
+A,27/01/10,Flamengo,3-2,Americano
+A,27/01/10,Volta Redonda,3-0,Boavista-RJ
+B,27/01/10,Tigres do Brasil,1-2,Botafogo
+A,28/01/10,Duque de Caxias,0-4,Fluminense
+B,28/01/10,Vasco,4-0,Macaé
+B,30/01/10,Resende,4-2,Tigres do Brasil
+A,30/01/10,Americano,1-3,Volta Redonda
+B,30/01/10,Botafogo,2-1,America-RJ
+A,31/01/10,Bangu,3-0,Duque de Caxias
+A,31/01/10,Boavista-RJ,3-0,Olaria
+B,31/01/10,Friburguense,0-3,Vasco
+B,31/01/10,Macaé,1-2,Madureira
+A,31/01/10,Fluminense,3-5,Flamengo
+A,03/02/10,Bangu,2-0,Americano
+A,03/02/10,Duque de Caxias,1-1,Volta Redonda
+B,03/02/10,Tigres do Brasil,1-2,Macaé
+A,03/02/10,Flamengo,3-3,Olaria
+B,04/02/10,Friburguense,1-2,America-RJ
+B,04/02/10,Resende,0-1,Vasco
+B,04/02/10,Madureira,1-4,Botafogo
+A,04/02/10,Fluminense,3-0,Boavista-RJ
+A,06/02/10,Volta Redonda,1-2,Bangu
+A,07/02/10,Americano,3-2,Duque de Caxias
+B,07/02/10,Botafogo,5-2,Resende
+B,07/02/10,Macaé,0-1,Friburguense
+B,07/02/10,America-RJ,3-0,Tigres do Brasil
+B,07/02/10,Vasco,2-2,Madureira
+A,07/02/10,Boavista-RJ,1-2,Flamengo
+A,07/02/10,Olaria,0-0,Fluminense
+SF,13/02/10,Vasco,0-0(6-5 Pen.),Fluminense
+SF,17/02/10,Flamengo,1-2,Botafogo
+F,21/02/10,Vasco,0-2,Botafogo
+B,27/02/10,Resende,0-3,Bangu
+B,27/02/10,Madureira,1-2,Boavista-RJ
+B,27/02/10,Americano,1-3,Botafogo
+B,27/02/10,Macaé,1-4,Flamengo
+B,28/02/10,Fluminense,5-1,Friburguense
+B,28/02/10,Duque de Caxias,1-0,America-RJ
+B,28/02/10,Olaria,1-0,Tigres do Brasil
+B,28/02/10,Vasco,2-1,Volta Redonda
+B,03/03/10,Boavista-RJ,2-1,Macaé
+B,03/03/10,Bangu,0-2,Vasco
+B,03/03/10,Volta Redonda,4-0,Resende
+B,03/03/10,Flamengo,2-0,Madureira
+B,04/03/10,America-RJ,3-1,Americano
+B,04/03/10,Friburguense,1-2,Olaria
+B,04/03/10,Tigres do Brasil,0-3,Fluminense
+B,04/03/10,Botafogo,2-1,Duque de Caxias
+B,06/03/10,Madureira,0-2,Volta Redonda
+B,06/03/10,Macaé,2-1,Bangu
+B,06/03/10,Resende,0-4,Flamengo
+B,07/03/10,Duque de Caxias,2-1,Tigres do Brasil
+B,07/03/10,Olaria,0-1,America-RJ
+B,07/03/10,Americano,1-1,Friburguense
+B,07/03/10,Vasco,1-0,Boavista-RJ
+B,07/03/10,Fluminense,2-1,Botafogo
+B,13/03/10,Bangu,2-1,Madureira
+B,13/03/10,Boavista-RJ,4-1,Resende
+B,13/03/10,Friburguense,0-1,Duque de Caxias
+B,13/03/10,America-RJ,1-1,Fluminense
+B,14/03/10,Botafogo,2-0,Olaria
+B,14/03/10,Tigres do Brasil,2-1,Americano
+B,14/03/10,Flamengo,1-0,Vasco
+B,17/03/10,Volta Redonda,0-2,Macaé
+B,20/03/10,Friburguense,2-3,Bangu
+B,20/03/10,Olaria,1-0,Vasco
+B,21/03/10,Fluminense,2-1,Resende
+B,21/03/10,Duque de Caxias,0-1,Madureira
+B,21/03/10,Americano,2-1,Macaé
+B,21/03/10,America-RJ,3-2,Boavista-RJ
+B,21/03/10,Tigres do Brasil,3-0,Volta Redonda
+B,21/03/10,Botafogo,2-2,Flamengo
+B,24/03/10,Bangu,1-1,America-RJ
+B,24/03/10,Boavista-RJ,0-1,Friburguense
+B,24/03/10,Resende,1-0,Duque de Caxias
+B,24/03/10,Macaé,3-1,Olaria
+B,24/03/10,Flamengo,3-1,Tigres do Brasil
+B,24/03/10,Madureira,1-3,Fluminense
+B,24/03/10,Vasco,2-3,Americano
+B,25/03/10,Volta Redonda,0-1,Botafogo
+B,27/03/10,Bangu,2-1,Tigres do Brasil
+B,27/03/10,Resende,2-0,Olaria
+B,27/03/10,Madureira,0-0,Americano
+B,28/03/10,Flamengo,2-1,America-RJ
+B,28/03/10,Volta Redonda,1-1,Friburguense
+B,28/03/10,Macaé,2-2,Duque de Caxias
+B,28/03/10,Vasco,3-0,Fluminense
+B,29/03/10,Boavista-RJ,1-4,Botafogo
+B,03/04/10,Olaria,1-2,Madureira
+B,04/04/10,Fluminense,3-1,Macaé
+B,04/04/10,Duque de Caxias,3-4,Vasco
+B,04/04/10,Americano,2-0,Resende
+B,04/04/10,Botafogo,2-2,Bangu
+B,04/04/10,America-RJ,2-0,Volta Redonda
+B,04/04/10,Tigres do Brasil,1-3,Boavista-RJ
+B,04/04/10,Friburguense,0-3,Flamengo
+POff,10/04/10,Duque de Caxias,2-1,Resende
+SF,10/04/10,Botafogo,3-2,Fluminense
+SF,11/04/10,Flamengo,2-1,Vasco
+POff,14/04/10,Resende,0-0,Friburguense
+POff,17/04/10,Friburguense,1-1,Duque de Caxias
+F,18/04/10,Botafogo,2-1,Flamengo
+POff,21/04/10,Resende,2-2,Duque de Caxias
+POff,24/04/10,Friburguense,0-0,Resende
+POff,28/04/10,Duque de Caxias,2-0,Friburguense

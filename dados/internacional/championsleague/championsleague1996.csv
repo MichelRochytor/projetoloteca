@@ -1,0 +1,62 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+D,10/09/96,Milan,2-3,FC Porto
+A,11/09/96,Auxerre,0-1,Ajax
+A,11/09/96,Grasshoppers,3-0,Rangers
+B,11/09/96,Atlético de Madrid,4-0,FCSB
+B,11/09/96,Borussia Dortmund,2-1,Widzew Lodz
+C,11/09/96,Rapid Wien,1-1,Fenerbahçe
+C,11/09/96,Juventus,1-0,Manchester United
+D,11/09/96,IFK Goteborg,2-3,Rosenborg
+D,24/09/96,FC Porto,2-1,IFK Goteborg
+A,25/09/96,Rangers,1-2,Auxerre
+C,25/09/96,Manchester United,2-0,Rapid Wien
+A,25/09/96,Ajax,0-1,Grasshoppers
+B,25/09/96,Widzew Lodz,1-4,Atlético de Madrid
+B,25/09/96,FCSB,0-3,Borussia Dortmund
+D,25/09/96,Rosenborg,1-4,Milan
+C,25/09/96,Fenerbahçe,0-1,Juventus
+D,15/10/96,Rosenborg,0-1,FC Porto
+A,16/10/96,Ajax,4-1,Rangers
+A,16/10/96,Auxerre,1-0,Grasshoppers
+B,16/10/96,Atlético de Madrid,0-1,Borussia Dortmund
+B,16/10/96,FCSB,1-0,Widzew Lodz
+C,16/10/96,Rapid Wien,1-1,Juventus
+D,16/10/96,IFK Goteborg,2-1,Milan
+C,16/10/96,Fenerbahçe,0-2,Manchester United
+D,29/10/96,FC Porto,3-0,Rosenborg
+A,30/10/96,Rangers,0-1,Ajax
+C,30/10/96,Manchester United,0-1,Fenerbahçe
+A,30/10/96,Grasshoppers,3-1,Auxerre
+B,30/10/96,Borussia Dortmund,1-2,Atlético de Madrid
+B,30/10/96,Widzew Lodz,2-0,FCSB
+C,30/10/96,Juventus,5-0,Rapid Wien
+D,30/10/96,Milan,4-2,IFK Goteborg
+D,19/11/96,FC Porto,1-1,Milan
+A,20/11/96,Rangers,2-1,Grasshoppers
+C,20/11/96,Manchester United,0-1,Juventus
+A,20/11/96,Ajax,1-2,Auxerre
+B,20/11/96,FCSB,1-1,Atlético de Madrid
+D,20/11/96,Rosenborg,1-0,IFK Goteborg
+B,20/11/96,Widzew Lodz,2-2,Borussia Dortmund
+C,20/11/96,Fenerbahçe,1-0,Rapid Wien
+D,03/12/96,IFK Goteborg,0-2,FC Porto
+A,04/12/96,Grasshoppers,0-1,Ajax
+A,04/12/96,Auxerre,2-1,Rangers
+B,04/12/96,Atlético de Madrid,1-0,Widzew Lodz
+B,04/12/96,Borussia Dortmund,5-3,FCSB
+C,04/12/96,Rapid Wien,0-2,Manchester United
+C,04/12/96,Juventus,2-0,Fenerbahçe
+D,04/12/96,Milan,1-2,Rosenborg
+QF,04/03/97,Manchester United,4-0,FC Porto
+QF,05/03/97,Borussia Dortmund,3-1,Auxerre
+QF,05/03/97,Ajax,1-1,Atlético de Madrid
+QF,05/03/97,Rosenborg,1-1,Juventus
+QF,18/03/97,FC Porto,0-0,Manchester United
+QF,19/03/97,Auxerre,0-1,Borussia Dortmund
+QF,19/03/97,Atlético de Madrid,2-3(Pro.),Ajax
+QF,19/03/97,Juventus,2-0,Rosenborg
+SF,09/04/97,Borussia Dortmund,1-0,Manchester United
+SF,09/04/97,Ajax,1-2,Juventus
+SF,23/04/97,Manchester United,0-1,Borussia Dortmund
+SF,23/04/97,Juventus,4-1,Ajax
+F,28/05/97,Borussia Dortmund,3-1,Juventus

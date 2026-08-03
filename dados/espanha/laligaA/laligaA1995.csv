@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/95,Deportivo,3-0,Valencia
+1,01/09/95,Sporting Gijón,3-0,Albacete
+1,02/09/95,Atlético de Madrid,4-1,Real Sociedad
+1,02/09/95,Espanyol,3-1,Salamanca
+1,02/09/95,Celta de Vigo,0-1,SD Compostela
+1,02/09/95,Sevilla,0-1,Tenerife
+1,02/09/95,Real Zaragoza,1-0,Real Oviedo
+1,02/09/95,Athletic Bilbao,4-0,Racing Santander
+1,02/09/95,Valladolid,0-2,Barcelona
+1,02/09/95,Rayo Vallecano,1-5,Real Madrid
+1,02/09/95,CP Mérida,1-1,Real Betis
+2,08/09/95,Barcelona,2-2,CP Mérida
+2,08/09/95,Real Madrid,1-2,Athletic Bilbao
+2,08/09/95,Real Betis,3-1,Real Zaragoza
+2,08/09/95,Albacete,3-2,Sevilla
+2,09/09/95,Valencia,1-0,Valladolid
+2,09/09/95,Tenerife,1-4,Espanyol
+2,09/09/95,Real Sociedad,2-0,Sporting Gijón
+2,09/09/95,SD Compostela,4-0,Deportivo
+2,09/09/95,Real Oviedo,2-0,Rayo Vallecano
+2,09/09/95,Racing Santander,0-4,Atlético de Madrid
+2,09/09/95,Salamanca,0-1,Celta de Vigo
+3,15/09/95,Athletic Bilbao,0-2,Atlético de Madrid
+3,15/09/95,Valladolid,0-0,SD Compostela
+3,16/09/95,Espanyol,1-0,Albacete
+3,16/09/95,Real Madrid,2-3,Real Oviedo
+3,16/09/95,Deportivo,2-0,Salamanca
+3,16/09/95,Celta de Vigo,2-2,Tenerife
+3,16/09/95,Sevilla,2-1,Real Sociedad
+3,16/09/95,Real Zaragoza,0-3,Barcelona
+3,16/09/95,Sporting Gijón,4-2,Racing Santander
+3,16/09/95,Rayo Vallecano,1-2,Real Betis
+3,16/09/95,CP Mérida,0-2,Valencia
+4,22/09/95,Barcelona,2-0,Rayo Vallecano
+4,22/09/95,Real Betis,0-0,Real Madrid
+4,22/09/95,Racing Santander,1-1,Sevilla
+4,23/09/95,Atlético de Madrid,2-0,Sporting Gijón
+4,23/09/95,Valencia,0-0,Real Zaragoza
+4,23/09/95,Tenerife,1-1,Deportivo
+4,23/09/95,Real Sociedad,0-1,Espanyol
+4,23/09/95,SD Compostela,1-0,CP Mérida
+4,23/09/95,Real Oviedo,0-0,Athletic Bilbao
+4,23/09/95,Albacete,4-0,Celta de Vigo
+4,23/09/95,Salamanca,0-0,Valladolid
+5,29/09/95,Real Madrid,1-1,Barcelona
+5,29/09/95,Athletic Bilbao,2-1,Sporting Gijón
+5,30/09/95,Espanyol,1-0,Racing Santander
+5,30/09/95,Celta de Vigo,1-1,Real Sociedad
+5,30/09/95,Sevilla,0-0,Atlético de Madrid
+5,30/09/95,Real Zaragoza,1-0,SD Compostela
+5,30/09/95,Real Oviedo,0-1,Real Betis
+5,30/09/95,Valladolid,3-0,Tenerife
+5,30/09/95,Rayo Vallecano,3-2,Valencia
+5,30/09/95,CP Mérida,0-0,Salamanca
+5,01/10/95,Deportivo,5-0,Albacete
+6,03/10/95,Valencia,4-3,Real Madrid
+6,03/10/95,Barcelona,4-1,Real Oviedo
+6,03/10/95,Tenerife,1-0,CP Mérida
+6,03/10/95,Real Sociedad,2-1,Deportivo
+6,03/10/95,Real Betis,0-0,Athletic Bilbao
+6,03/10/95,SD Compostela,1-0,Rayo Vallecano
+6,03/10/95,Racing Santander,2-1,Celta de Vigo
+6,03/10/95,Sporting Gijón,3-1,Sevilla
+6,03/10/95,Albacete,4-2,Valladolid
+6,03/10/95,Salamanca,0-1,Real Zaragoza
+6,04/10/95,Atlético de Madrid,2-1,Espanyol
+7,06/10/95,Real Betis,1-5,Barcelona
+7,07/10/95,Espanyol,0-0,Sporting Gijón
+7,07/10/95,Real Madrid,2-1,SD Compostela
+7,07/10/95,Deportivo,2-3,Racing Santander
+7,07/10/95,Celta de Vigo,0-3,Atlético de Madrid
+7,07/10/95,Real Zaragoza,0-2,Tenerife
+7,07/10/95,Real Oviedo,0-1,Valencia
+7,07/10/95,Athletic Bilbao,1-1,Sevilla
+7,07/10/95,Valladolid,3-0,Real Sociedad
+7,07/10/95,Rayo Vallecano,1-4,Salamanca
+7,07/10/95,CP Mérida,1-1,Albacete
+8,13/10/95,Atlético de Madrid,1-0,Deportivo
+8,13/10/95,Valencia,1-1,Real Betis
+8,13/10/95,Barcelona,4-1,Athletic Bilbao
+8,13/10/95,Sevilla,0-3,Espanyol
+8,14/10/95,Tenerife,2-2,Rayo Vallecano
+8,14/10/95,Real Sociedad,1-2,CP Mérida
+8,14/10/95,SD Compostela,4-1,Real Oviedo
+8,14/10/95,Racing Santander,0-0,Valladolid
+8,14/10/95,Sporting Gijón,1-0,Celta de Vigo
+8,14/10/95,Albacete,0-1,Real Zaragoza
+8,14/10/95,Salamanca,0-2,Real Madrid
+9,20/10/95,Valladolid,0-1,Atlético de Madrid
+9,21/10/95,Barcelona,1-0,Valencia
+9,21/10/95,Real Madrid,2-0,Tenerife
+9,21/10/95,Real Betis,5-0,SD Compostela
+9,21/10/95,Deportivo,1-0,Sporting Gijón
+9,21/10/95,Celta de Vigo,4-0,Sevilla
+9,21/10/95,Real Zaragoza,1-2,Real Sociedad
+9,21/10/95,Real Oviedo,2-2,Salamanca
+9,21/10/95,Athletic Bilbao,0-0,Espanyol
+9,21/10/95,Rayo Vallecano,2-0,Albacete
+9,21/10/95,CP Mérida,3-1,Racing Santander
+10,27/10/95,SD Compostela,2-1,Barcelona
+10,27/10/95,Sevilla,0-0,Deportivo
+10,27/10/95,Albacete,1-1,Real Madrid
+10,28/10/95,Atlético de Madrid,1-1,CP Mérida
+10,28/10/95,Valencia,3-1,Athletic Bilbao
+10,28/10/95,Espanyol,2-2,Celta de Vigo
+10,28/10/95,Tenerife,3-3,Real Oviedo
+10,28/10/95,Real Sociedad,2-1,Rayo Vallecano
+10,28/10/95,Racing Santander,0-0,Real Zaragoza
+10,28/10/95,Sporting Gijón,4-2,Valladolid
+10,28/10/95,Salamanca,2-1,Real Betis
+11,03/11/95,Real Madrid,3-2,Real Sociedad
+11,04/11/95,Valencia,5-2,SD Compostela
+11,04/11/95,Barcelona,4-1,Salamanca
+11,04/11/95,Real Betis,3-3,Tenerife
+11,04/11/95,Deportivo,0-1,Espanyol
+11,04/11/95,Real Zaragoza,0-1,Atlético de Madrid
+11,04/11/95,Real Oviedo,1-0,Albacete
+11,04/11/95,Athletic Bilbao,3-0,Celta de Vigo
+11,04/11/95,Valladolid,3-3,Sevilla
+11,04/11/95,Rayo Vallecano,1-2,Racing Santander
+11,04/11/95,CP Mérida,1-0,Sporting Gijón
+12,10/11/95,Celta de Vigo,0-0,Deportivo
+12,11/11/95,Atlético de Madrid,0-0,Rayo Vallecano
+12,11/11/95,Espanyol,2-0,Valladolid
+12,11/11/95,Tenerife,1-1,Barcelona
+12,11/11/95,Real Sociedad,1-1,Real Oviedo
+12,11/11/95,SD Compostela,2-1,Athletic Bilbao
+12,11/11/95,Sevilla,3-0,CP Mérida
+12,11/11/95,Racing Santander,2-0,Real Madrid
+12,11/11/95,Sporting Gijón,4-1,Real Zaragoza
+12,11/11/95,Albacete,0-0,Real Betis
+12,11/11/95,Salamanca,4-0,Valencia
+13,17/11/95,Barcelona,3-0,Albacete
+13,17/11/95,Real Madrid,1-0,Atlético de Madrid
+13,17/11/95,Real Betis,3-1,Real Sociedad
+13,17/11/95,Real Zaragoza,0-1,Sevilla
+13,18/11/95,Valencia,2-2,Tenerife
+13,18/11/95,SD Compostela,0-0,Salamanca
+13,18/11/95,Real Oviedo,2-1,Racing Santander
+13,18/11/95,Athletic Bilbao,1-0,Deportivo
+13,18/11/95,Valladolid,1-1,Celta de Vigo
+13,18/11/95,Rayo Vallecano,2-0,Sporting Gijón
+13,18/11/95,CP Mérida,0-1,Espanyol
+14,24/11/95,Real Sociedad,1-1,Barcelona
+14,25/11/95,Atlético de Madrid,3-0,Real Oviedo
+14,25/11/95,Espanyol,1-1,Real Zaragoza
+14,25/11/95,Tenerife,1-1,SD Compostela
+14,25/11/95,Deportivo,3-1,Valladolid
+14,25/11/95,Celta de Vigo,2-0,CP Mérida
+14,25/11/95,Sevilla,1-0,Rayo Vallecano
+14,25/11/95,Racing Santander,0-0,Real Betis
+14,25/11/95,Sporting Gijón,0-0,Real Madrid
+14,25/11/95,Albacete,1-3,Valencia
+14,25/11/95,Salamanca,2-1,Athletic Bilbao
+15,01/12/95,Barcelona,1-1,Racing Santander
+15,01/12/95,Real Madrid,4-1,Sevilla
+15,01/12/95,Rayo Vallecano,1-0,Espanyol
+15,02/12/95,Valencia,0-1,Real Sociedad
+15,02/12/95,Real Betis,2-1,Atlético de Madrid
+15,02/12/95,SD Compostela,3-1,Albacete
+15,02/12/95,Real Zaragoza,0-0,Celta de Vigo
+15,02/12/95,Real Oviedo,1-0,Sporting Gijón
+15,02/12/95,Athletic Bilbao,2-1,Valladolid
+15,02/12/95,CP Mérida,0-2,Deportivo
+15,02/12/95,Salamanca,1-2,Tenerife
+16,08/12/95,Atlético de Madrid,3-1,Barcelona
+16,08/12/95,Racing Santander,0-3,Valencia
+16,09/12/95,Espanyol,3-1,Real Madrid
+16,09/12/95,Tenerife,3-2,Athletic Bilbao
+16,09/12/95,Real Sociedad,0-1,SD Compostela
+16,09/12/95,Deportivo,2-3,Real Zaragoza
+16,09/12/95,Celta de Vigo,2-0,Rayo Vallecano
+16,09/12/95,Sevilla,1-1,Real Oviedo
+16,09/12/95,Valladolid,1-1,CP Mérida
+16,09/12/95,Sporting Gijón,2-3,Real Betis
+16,09/12/95,Albacete,3-3,Salamanca
+17,15/12/95,Barcelona,1-0,Sporting Gijón
+17,15/12/95,Real Betis,1-1,Sevilla
+17,16/12/95,Valencia,0-1,Atlético de Madrid
+17,16/12/95,Tenerife,1-3,Albacete
+17,16/12/95,Real Madrid,1-0,Celta de Vigo
+17,16/12/95,SD Compostela,2-0,Racing Santander
+17,16/12/95,Real Zaragoza,5-3,Valladolid
+17,16/12/95,Real Oviedo,1-2,Espanyol
+17,16/12/95,Athletic Bilbao,1-1,CP Mérida
+17,16/12/95,Rayo Vallecano,0-6,Deportivo
+17,16/12/95,Salamanca,3-3,Real Sociedad
+18,19/12/95,Atlético de Madrid,3-0,SD Compostela
+18,19/12/95,Espanyol,1-1,Real Betis
+18,19/12/95,Real Sociedad,0-1,Tenerife
+18,19/12/95,Celta de Vigo,1-0,Real Oviedo
+18,19/12/95,Sevilla,1-0,Barcelona
+18,19/12/95,Valladolid,1-1,Rayo Vallecano
+18,19/12/95,Racing Santander,2-1,Salamanca
+18,19/12/95,Sporting Gijón,1-3,Valencia
+18,19/12/95,Albacete,2-0,Athletic Bilbao
+18,19/12/95,CP Mérida,1-1,Real Zaragoza
+18,20/12/95,Deportivo,3-0,Real Madrid
+19,02/01/96,Valencia,1-0,Sevilla
+19,02/01/96,Tenerife,2-0,Racing Santander
+19,02/01/96,Real Madrid,4-1,Valladolid
+19,02/01/96,Real Betis,0-3,Celta de Vigo
+19,02/01/96,SD Compostela,1-0,Sporting Gijón
+19,02/01/96,Real Oviedo,0-2,Deportivo
+19,02/01/96,Athletic Bilbao,1-0,Real Zaragoza
+19,02/01/96,Rayo Vallecano,4-1,CP Mérida
+19,02/01/96,Albacete,3-5,Real Sociedad
+19,02/01/96,Salamanca,1-3,Atlético de Madrid
+19,03/01/96,Barcelona,2-1,Espanyol
+20,05/01/96,Atlético de Madrid,3-1,Tenerife
+20,05/01/96,Athletic Bilbao,0-0,Real Sociedad
+20,06/01/96,Espanyol,2-0,Valencia
+20,06/01/96,Deportivo,0-0,Real Betis
+20,06/01/96,Celta de Vigo,1-0,Barcelona
+20,06/01/96,Sevilla,0-1,SD Compostela
+20,06/01/96,Real Zaragoza,1-1,Rayo Vallecano
+20,06/01/96,Valladolid,2-2,Real Oviedo
+20,06/01/96,Racing Santander,5-5,Albacete
+20,06/01/96,Sporting Gijón,3-2,Salamanca
+20,06/01/96,CP Mérida,2-2,Real Madrid
+21,12/01/96,Real Betis,3-0,Valladolid
+21,12/01/96,Albacete,1-1,Atlético de Madrid
+21,13/01/96,Valencia,3-0,Celta de Vigo
+21,13/01/96,Barcelona,1-1,Deportivo
+21,13/01/96,Tenerife,3-0,Sporting Gijón
+21,13/01/96,Real Madrid,2-2,Real Zaragoza
+21,13/01/96,Real Sociedad,2-1,Racing Santander
+21,13/01/96,SD Compostela,2-1,Espanyol
+21,13/01/96,Real Oviedo,0-0,CP Mérida
+21,13/01/96,Rayo Vallecano,2-2,Athletic Bilbao
+21,13/01/96,Salamanca,4-1,Sevilla
+22,19/01/96,Valencia,2-1,Deportivo
+22,20/01/96,Barcelona,1-0,Valladolid
+22,20/01/96,Tenerife,4-2,Sevilla
+22,20/01/96,Real Madrid,1-2,Rayo Vallecano
+22,20/01/96,Real Sociedad,1-0,Atlético de Madrid
+22,20/01/96,Real Betis,0-1,CP Mérida
+22,20/01/96,SD Compostela,1-1,Celta de Vigo
+22,20/01/96,Real Oviedo,1-1,Real Zaragoza
+22,20/01/96,Racing Santander,1-1,Athletic Bilbao
+22,20/01/96,Albacete,1-3,Sporting Gijón
+22,20/01/96,Salamanca,2-2,Espanyol
+23,23/01/96,Atlético de Madrid,2-0,Racing Santander
+23,23/01/96,Espanyol,2-1,Tenerife
+23,23/01/96,Deportivo,2-0,SD Compostela
+23,23/01/96,Celta de Vigo,2-1,Salamanca
+23,23/01/96,Sevilla,1-1,Albacete
+23,23/01/96,Real Zaragoza,1-2,Real Betis
+23,23/01/96,Athletic Bilbao,0-5,Real Madrid
+23,23/01/96,Valladolid,2-5,Valencia
+23,23/01/96,Sporting Gijón,1-1,Real Sociedad
+23,23/01/96,Rayo Vallecano,1-2,Real Oviedo
+23,24/01/96,CP Mérida,0-0,Barcelona
+24,26/01/96,Salamanca,0-5,Deportivo
+24,27/01/96,Atlético de Madrid,4-1,Athletic Bilbao
+24,27/01/96,Valencia,4-1,CP Mérida
+24,27/01/96,Barcelona,3-1,Real Zaragoza
+24,27/01/96,Tenerife,1-0,Celta de Vigo
+24,27/01/96,Real Sociedad,1-0,Sevilla
+24,27/01/96,Real Betis,0-0,Rayo Vallecano
+24,27/01/96,SD Compostela,1-3,Valladolid
+24,27/01/96,Real Oviedo,1-2,Real Madrid
+24,27/01/96,Racing Santander,1-1,Sporting Gijón
+24,27/01/96,Albacete,0-0,Espanyol
+25,02/02/96,Real Zaragoza,4-1,Valencia
+25,02/02/96,Sporting Gijón,1-2,Atlético de Madrid
+25,03/02/96,Espanyol,0-0,Real Sociedad
+25,03/02/96,Real Madrid,4-2,Real Betis
+25,03/02/96,Deportivo,1-1,Tenerife
+25,03/02/96,Celta de Vigo,2-2,Albacete
+25,03/02/96,Sevilla,0-1,Racing Santander
+25,03/02/96,Athletic Bilbao,0-1,Real Oviedo
+25,03/02/96,Valladolid,1-0,Salamanca
+25,03/02/96,Rayo Vallecano,1-1,Barcelona
+25,03/02/96,CP Mérida,0-2,SD Compostela
+26,09/02/96,Atlético de Madrid,0-1,Sevilla
+26,09/02/96,Valencia,3-0,Rayo Vallecano
+26,09/02/96,Barcelona,3-0,Real Madrid
+26,10/02/96,Tenerife,1-0,Valladolid
+26,10/02/96,Real Sociedad,3-1,Celta de Vigo
+26,10/02/96,Real Betis,2-1,Real Oviedo
+26,10/02/96,SD Compostela,3-2,Real Zaragoza
+26,10/02/96,Racing Santander,1-1,Espanyol
+26,10/02/96,Sporting Gijón,1-2,Athletic Bilbao
+26,10/02/96,Albacete,1-0,Deportivo
+26,10/02/96,Salamanca,2-2,CP Mérida
+27,16/02/96,Real Madrid,0-0,Valencia
+27,16/02/96,Real Zaragoza,1-1,Salamanca
+27,17/02/96,Espanyol,0-2,Atlético de Madrid
+27,17/02/96,Deportivo,1-1,Real Sociedad
+27,17/02/96,Celta de Vigo,0-0,Racing Santander
+27,17/02/96,Sevilla,2-0,Sporting Gijón
+27,17/02/96,Real Oviedo,1-2,Barcelona
+27,17/02/96,Athletic Bilbao,0-1,Real Betis
+27,17/02/96,Valladolid,3-0,Albacete
+27,17/02/96,Rayo Vallecano,0-1,SD Compostela
+27,17/02/96,CP Mérida,2-0,Tenerife
+28,23/02/96,Racing Santander,2-1,Deportivo
+28,24/02/96,Atlético de Madrid,3-2,Celta de Vigo
+28,24/02/96,Valencia,3-1,Real Oviedo

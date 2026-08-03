@@ -1,0 +1,217 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,27/02/88,São José,0-0,Santos
+B,28/02/88,Palmeiras,0-1,Mogi Mirim
+B,28/02/88,São Bento,1-0,Juventus-SP
+B,28/02/88,São Paulo,1-2,Corinthians
+B,28/02/88,Inter de Limeira,0-0,Portuguesa
+B,28/02/88,Botafogo-SP,1-0,Santo André
+B,28/02/88,Noroeste,1-1,América-SP
+B,28/02/88,XV de Jaú,1-0,Ferroviária
+B,28/02/88,Novorizontino,3-1,XV de Piracicaba
+B,28/02/88,União São João,0-0,Guarani
+B,05/03/88,Juventus-SP,1-2,Palmeiras
+B,06/03/88,Corinthians,1-1,Noroeste
+B,06/03/88,Portuguesa,3-1,União São João
+B,06/03/88,Santo André,2-2,Inter de Limeira
+B,06/03/88,Guarani,5-0,Botafogo-SP
+B,06/03/88,Ferroviária,2-0,Novorizontino
+B,06/03/88,XV de Piracicaba,1-0,São Paulo
+B,06/03/88,América-SP,0-2,XV de Jaú
+B,06/03/88,Santos,0-0,São Bento
+B,06/03/88,Mogi Mirim,1-1,São José
+B,09/03/88,Palmeiras,1-0,Botafogo-SP
+B,09/03/88,São Bento,0-2,Mogi Mirim
+B,09/03/88,XV de Piracicaba,1-1,Juventus-SP
+B,09/03/88,São José,0-0,União São João
+B,09/03/88,Santos,3-1,Ferroviária
+B,09/03/88,São Paulo,5-0,América-SP
+B,09/03/88,Inter de Limeira,2-1,Corinthians
+B,09/03/88,Noroeste,1-1,Portuguesa
+B,09/03/88,XV de Jaú,2-2,Guarani
+B,09/03/88,Novorizontino,1-1,Santo André
+B,13/03/88,Corinthians,2-0,Novorizontino
+B,13/03/88,Portuguesa,1-4,São Paulo
+B,13/03/88,São Bento,1-1,XV de Jaú
+B,13/03/88,Guarani,2-0,Santos
+B,13/03/88,Ferroviária,1-0,Juventus-SP
+B,13/03/88,América-SP,0-1,Inter de Limeira
+B,13/03/88,Botafogo-SP,0-1,XV de Piracicaba
+B,13/03/88,Noroeste,0-0,São José
+B,13/03/88,Mogi Mirim,0-0,Santo André
+B,13/03/88,União São João,0-1,Palmeiras
+B,20/03/88,Santo André,0-0,Noroeste
+B,20/03/88,Ferroviária,1-2,São Paulo
+B,20/03/88,São José,3-1,Novorizontino
+B,20/03/88,Santos,1-0,Palmeiras
+B,20/03/88,Inter de Limeira,1-0,XV de Piracicaba
+B,20/03/88,Botafogo-SP,2-0,Portuguesa
+B,20/03/88,Juventus-SP,2-1,América-SP
+B,20/03/88,XV de Jaú,3-2,Corinthians
+B,20/03/88,Mogi Mirim,1-0,Guarani
+B,20/03/88,União São João,2-0,São Bento
+B,23/03/88,Corinthians,3-0,União São João
+B,23/03/88,Portuguesa,3-0,XV de Jaú
+B,23/03/88,Santo André,3-0,Juventus-SP
+B,23/03/88,XV de Piracicaba,0-2,Mogi Mirim
+B,23/03/88,América-SP,0-2,Santos
+B,23/03/88,São José,2-1,Botafogo-SP
+B,23/03/88,São Paulo,0-3,Guarani
+B,23/03/88,Inter de Limeira,3-0,Ferroviária
+B,23/03/88,Noroeste,1-2,Palmeiras
+B,23/03/88,Novorizontino,0-0,São Bento
+B,27/03/88,Palmeiras,1-1,Inter de Limeira
+B,27/03/88,São Bento,0-1,São Paulo
+B,27/03/88,Guarani,1-0,Novorizontino
+B,27/03/88,XV de Piracicaba,3-2,Noroeste
+B,27/03/88,Santos,1-1,Portuguesa
+B,27/03/88,Botafogo-SP,1-4,América-SP
+B,27/03/88,Juventus-SP,2-1,São José
+B,27/03/88,XV de Jaú,0-0,Santo André
+B,27/03/88,Mogi Mirim,0-2,Corinthians
+B,27/03/88,União São João,0-1,Ferroviária
+B,30/03/88,Corinthians,2-0,Botafogo-SP
+B,30/03/88,Palmeiras,0-0,XV de Jaú
+B,30/03/88,Portuguesa,4-0,Juventus-SP
+B,30/03/88,Santo André,2-4,União São João
+B,30/03/88,São Bento,0-2,Noroeste
+B,30/03/88,Guarani,1-0,Inter de Limeira
+B,30/03/88,Ferroviária,1-1,Mogi Mirim
+B,30/03/88,América-SP,1-1,Novorizontino
+B,30/03/88,Santos,3-0,XV de Piracicaba
+B,30/03/88,São Paulo,1-1,São José
+B,03/04/88,Corinthians,3-0,Santos
+B,03/04/88,XV de Piracicaba,2-4,XV de Jaú
+B,03/04/88,América-SP,1-1,União São João
+B,03/04/88,São José,0-0,Inter de Limeira
+B,03/04/88,Botafogo-SP,1-0,São Bento
+B,03/04/88,Juventus-SP,1-1,Guarani
+B,03/04/88,Noroeste,2-3,Ferroviária
+B,03/04/88,Novorizontino,2-1,Palmeiras
+B,06/04/88,Portuguesa,2-2,Mogi Mirim
+B,06/04/88,São Paulo,2-0,Santo André
+B,06/04/88,Ferroviária,0-1,Botafogo-SP
+B,10/04/88,Palmeiras,1-3,São Paulo
+B,10/04/88,Santo André,1-0,Santos
+B,10/04/88,Guarani,3-0,Noroeste
+B,10/04/88,Inter de Limeira,4-0,São Bento
+B,10/04/88,Juventus-SP,2-4,Corinthians
+B,10/04/88,XV de Jaú,1-3,São José
+B,10/04/88,Mogi Mirim,1-3,América-SP
+B,10/04/88,Novorizontino,0-1,Portuguesa
+B,10/04/88,União São João,0-0,XV de Piracicaba
+A,30/04/88,Inter de Limeira,0-0,São Paulo
+B,30/04/88,Ferroviária,3-2,Corinthians
+A,01/05/88,Juventus-SP,0-0,Noroeste
+A,01/05/88,Botafogo-SP,3-0,XV de Jaú
+A,01/05/88,Mogi Mirim,1-0,Novorizontino
+B,01/05/88,Palmeiras,3-2,Portuguesa
+B,01/05/88,Guarani,4-2,América-SP
+B,01/05/88,São José,2-0,XV de Piracicaba
+A,04/05/88,São Paulo,0-2,Juventus-SP
+A,04/05/88,Santos,1-0,Mogi Mirim
+A,04/05/88,Noroeste,3-1,Botafogo-SP
+A,04/05/88,XV de Jaú,2-0,Inter de Limeira
+A,04/05/88,Novorizontino,2-1,União São João
+B,04/05/88,Corinthians,2-1,São José
+B,04/05/88,Portuguesa,0-1,São Bento
+B,04/05/88,Ferroviária,3-1,América-SP
+B,04/05/88,XV de Piracicaba,1-0,Santo André
+A,07/05/88,Santos,0-0,Inter de Limeira
+B,07/05/88,São Bento,0-0,Palmeiras
+A,08/05/88,XV de Jaú,2-0,Mogi Mirim
+A,08/05/88,Novorizontino,2-3,Botafogo-SP
+A,08/05/88,União São João,1-2,São Paulo
+B,08/05/88,Santo André,0-1,Corinthians
+B,08/05/88,Guarani,2-1,Portuguesa
+B,08/05/88,XV de Piracicaba,3-0,Ferroviária
+A,11/05/88,São Paulo,2-0,Noroeste
+A,11/05/88,Inter de Limeira,3-1,Novorizontino
+A,11/05/88,Botafogo-SP,1-1,Juventus-SP
+A,11/05/88,Mogi Mirim,2-1,União São João
+B,11/05/88,Corinthians,0-0,Guarani
+B,11/05/88,Santo André,0-0,São Bento
+B,11/05/88,São José,2-0,Ferroviária
+B,11/05/88,América-SP,3-1,XV de Piracicaba
+A,14/05/88,XV de Jaú,1-2,Santos
+B,14/05/88,América-SP,0-1,Portuguesa
+A,15/05/88,Juventus-SP,1-2,Inter de Limeira
+A,15/05/88,Noroeste,2-0,União São João
+A,15/05/88,Novorizontino,3-4,São Paulo
+B,15/05/88,Corinthians,1-1,Palmeiras
+B,15/05/88,São Bento,0-1,XV de Piracicaba
+B,15/05/88,Guarani,1-2,São José
+A,18/05/88,Santos,0-0,Juventus-SP
+A,18/05/88,XV de Jaú,1-1,Noroeste
+A,18/05/88,Mogi Mirim,0-1,Inter de Limeira
+A,18/05/88,União São João,1-1,Botafogo-SP
+B,18/05/88,Palmeiras,2-0,Santo André
+B,18/05/88,Ferroviária,1-1,Guarani
+B,18/05/88,América-SP,2-2,São Bento
+A,21/05/88,Inter de Limeira,2-0,Botafogo-SP
+B,21/05/88,Guarani,1-1,Palmeiras
+A,22/05/88,São Paulo,0-3,Santos
+A,22/05/88,Novorizontino,1-1,XV de Jaú
+A,22/05/88,União São João,2-0,Juventus-SP
+B,22/05/88,Corinthians,2-0,São Bento
+B,22/05/88,Santo André,2-2,Portuguesa
+B,22/05/88,São José,3-0,América-SP
+A,25/05/88,Juventus-SP,1-0,Novorizontino
+A,25/05/88,São Paulo,3-0,XV de Jaú
+A,25/05/88,Botafogo-SP,0-0,Mogi Mirim
+A,25/05/88,Noroeste,1-1,Santos
+B,25/05/88,Palmeiras,4-0,Ferroviária
+B,25/05/88,Portuguesa,0-1,São José
+B,25/05/88,Santo André,1-1,América-SP
+B,25/05/88,São Bento,1-1,Guarani
+A,28/05/88,Botafogo-SP,1-1,São Paulo
+B,28/05/88,São José,1-1,Palmeiras
+A,29/05/88,Santos,2-1,Novorizontino
+A,29/05/88,Inter de Limeira,1-0,União São João
+A,29/05/88,Noroeste,1-0,Mogi Mirim
+B,29/05/88,Ferroviária,4-4,Santo André
+B,29/05/88,XV de Piracicaba,2-2,Guarani
+B,30/05/88,Portuguesa,1-0,Corinthians
+B,02/06/88,Portuguesa,1-0,XV de Piracicaba
+A,04/06/88,Mogi Mirim,0-4,São Paulo
+A,05/06/88,Juventus-SP,1-1,XV de Jaú
+A,05/06/88,Novorizontino,0-0,Noroeste
+A,05/06/88,União São João,0-1,Santos
+B,05/06/88,Corinthians,1-0,XV de Piracicaba
+B,05/06/88,Palmeiras,2-0,América-SP
+B,05/06/88,Santo André,3-4,São José
+B,05/06/88,São Bento,1-1,Ferroviária
+B,11/06/88,América-SP,1-1,Corinthians
+B,11/06/88,XV de Piracicaba,3-3,Palmeiras
+A,12/06/88,Juventus-SP,4-1,Mogi Mirim
+A,12/06/88,XV de Jaú,1-1,União São João
+A,12/06/88,Inter de Limeira,0-1,Noroeste
+B,12/06/88,Portuguesa,0-2,Ferroviária
+B,12/06/88,Guarani,5-1,Santo André
+B,12/06/88,São José,2-2,São Bento
+A,13/06/88,Santos,0-1,Botafogo-SP
+A,18/06/88,XV de Jaú,0-2,Inter de Limeira
+A,19/06/88,São José,2-0,Guarani
+A,22/06/88,Guarani,2-0,XV de Jaú
+A,22/06/88,Inter de Limeira,2-0,São José
+A,25/06/88,Inter de Limeira,1-2,Guarani
+A,26/06/88,XV de Jaú,2-0,São José
+B,26/06/88,Corinthians,2-2,São Paulo
+B,26/06/88,Palmeiras,0-0,Santos
+B,29/06/88,São Paulo,2-0,Santos
+B,29/06/88,Corinthians,0-0,Palmeiras
+A,02/07/88,Guarani,2-0,Inter de Limeira
+A,03/07/88,São José,3-0,XV de Jaú
+B,03/07/88,Palmeiras,1-2,São Paulo
+B,03/07/88,Santos,2-3,Corinthians
+A,08/07/88,São José,1-0,Inter de Limeira
+A,09/07/88,XV de Jaú,0-0,Guarani
+B,10/07/88,São Paulo,1-1,Corinthians
+B,10/07/88,Santos,2-1,Palmeiras
+B,13/07/88,Santos,1-1,São Paulo
+B,13/07/88,Palmeiras,0-0,Corinthians
+A,16/07/88,Guarani,1-0,São José
+A,17/07/88,Inter de Limeira,0-0,XV de Jaú
+B,17/07/88,São Paulo,0-1,Palmeiras
+B,17/07/88,Corinthians,2-0,Santos
+F,24/07/88,Corinthians,1-1,Guarani
+F,31/07/88,Guarani,0-1(Pro.),Corinthians

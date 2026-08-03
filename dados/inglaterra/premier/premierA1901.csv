@@ -1,0 +1,307 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,02/09/01,Everton,3-1,Manchester City
+1,02/09/01,Small Heath,0-0,Liverpool
+1,02/09/01,Stoke City,1-2,Bury
+1,02/09/01,Sunderland,3-1,Sheffield United
+1,02/09/01,Wolverhampton,2-0,Nottingham Forest
+1,03/09/01,Grimsby Town,1-1,Derby County
+1,07/09/01,Blackburn Rovers,0-0,Newcastle
+2,07/09/01,Bury,0-0,Aston Villa
+2,07/09/01,Derby County,2-0,Notts County
+2,07/09/01,Everton,6-1,Wolverhampton
+2,07/09/01,Nottingham Forest,2-1,Sheffield United
+2,07/09/01,The Wednesday,3-1,Grimsby Town
+2,07/09/01,Small Heath,2-0,Bolton Wanderers
+2,07/09/01,Stoke City,1-0,Liverpool
+2,07/09/01,Sunderland,1-0,Manchester City
+2,09/09/01,Aston Villa,2-0,Notts County
+2,14/09/01,Aston Villa,1-1,Blackburn Rovers
+2,14/09/01,Notts County,6-1,The Wednesday
+3,14/09/01,Bolton Wanderers,2-1,Derby County
+3,14/09/01,Grimsby Town,1-0,Nottingham Forest
+3,14/09/01,Liverpool,2-2,Everton
+3,14/09/01,Manchester City,1-4,Small Heath
+3,14/09/01,Newcastle,5-1,Stoke City
+3,14/09/01,Sheffield United,3-1,Bury
+3,14/09/01,Wolverhampton,4-2,Sunderland
+4,16/09/01,Aston Villa,1-2,Sheffield United
+3,21/09/01,Blackburn Rovers,2-1,Sheffield United
+3,21/09/01,The Wednesday,5-1,Bolton Wanderers
+4,21/09/01,Bury,1-1,Nottingham Forest
+4,21/09/01,Derby County,2-0,Manchester City
+4,21/09/01,Everton,0-0,Newcastle
+4,21/09/01,Notts County,3-0,Grimsby Town
+4,21/09/01,Small Heath,1-2,Wolverhampton
+4,21/09/01,Stoke City,1-0,Aston Villa
+4,21/09/01,Sunderland,1-1,Liverpool
+4,28/09/01,Bolton Wanderers,1-1,Notts County
+4,28/09/01,Nottingham Forest,3-0,Blackburn Rovers
+5,28/09/01,Aston Villa,1-1,Everton
+5,28/09/01,Grimsby Town,2-0,Bury
+5,28/09/01,Liverpool,3-1,Small Heath
+5,28/09/01,Newcastle,0-1,Sunderland
+5,28/09/01,Sheffield United,1-1,Stoke City
+5,28/09/01,Wolverhampton,0-0,Derby County
+5,03/10/01,Notts County,0-2,Newcastle
+5,05/10/01,Blackburn Rovers,0-3,Bury
+5,05/10/01,Notts County,2-0,Manchester City
+6,05/10/01,Bolton Wanderers,4-0,Grimsby Town
+6,05/10/01,Derby County,1-1,Liverpool
+6,05/10/01,Everton,2-1,Sheffield United
+6,05/10/01,The Wednesday,1-1,Wolverhampton
+6,05/10/01,Small Heath,3-1,Newcastle
+6,05/10/01,Stoke City,1-1,Nottingham Forest
+6,05/10/01,Sunderland,1-0,Aston Villa
+5,12/10/01,Liverpool,1-2,The Wednesday
+6,12/10/01,Manchester City,1-0,Bolton Wanderers
+7,12/10/01,Bury,4-2,Stoke City
+7,12/10/01,Grimsby Town,2-1,Blackburn Rovers
+7,12/10/01,Newcastle,0-1,Derby County
+7,12/10/01,Nottingham Forest,4-0,Everton
+7,12/10/01,Sheffield United,0-1,Sunderland
+7,12/10/01,Small Heath,0-2,Aston Villa
+7,12/10/01,Wolverhampton,3-1,Notts County
+6,19/10/01,The Wednesday,0-0,Newcastle
+8,19/10/01,Bolton Wanderers,2-2,Wolverhampton
+8,19/10/01,Derby County,1-0,Aston Villa
+8,19/10/01,Everton,1-1,Bury
+8,19/10/01,Manchester City,3-0,Grimsby Town
+8,19/10/01,Notts County,2-2,Liverpool
+8,19/10/01,Small Heath,5-1,Sheffield United
+8,19/10/01,Stoke City,2-2,Blackburn Rovers
+8,19/10/01,Sunderland,4-0,Nottingham Forest
+7,26/10/01,Aston Villa,4-1,The Wednesday
+8,26/10/01,Liverpool,1-1,Bolton Wanderers
+9,26/10/01,Blackburn Rovers,3-1,Everton
+9,26/10/01,Bury,1-0,Sunderland
+9,26/10/01,Grimsby Town,1-2,Stoke City
+9,26/10/01,Newcastle,8-0,Notts County
+9,26/10/01,Nottingham Forest,1-1,Small Heath
+9,26/10/01,Sheffield United,3-0,Derby County
+9,26/10/01,Wolverhampton,0-0,Manchester City
+8,02/11/01,The Wednesday,1-0,Sheffield United
+9,02/11/01,Bolton Wanderers,3-1,Newcastle
+10,02/11/01,Derby County,1-1,Nottingham Forest
+10,02/11/01,Everton,1-0,Stoke City
+10,02/11/01,Manchester City,2-3,Liverpool
+10,02/11/01,Small Heath,1-0,Bury
+10,02/11/01,Sunderland,3-2,Blackburn Rovers
+10,02/11/01,Wolverhampton,2-0,Grimsby Town
+11,02/11/01,Notts County,0-3,Aston Villa
+10,09/11/01,Newcastle,3-0,Manchester City
+11,09/11/01,Blackburn Rovers,3-1,Small Heath
+11,09/11/01,Bury,2-0,Derby County
+11,09/11/01,Grimsby Town,0-2,Everton
+11,09/11/01,Liverpool,4-1,Wolverhampton
+11,09/11/01,Nottingham Forest,1-1,The Wednesday
+11,09/11/01,Stoke City,3-0,Sunderland
+12,09/11/01,Aston Villa,1-0,Bolton Wanderers
+12,09/11/01,Sheffield United,3-0,Notts County
+12,11/11/01,Stoke City,3-0,Wolverhampton
+11,16/11/01,Derby County,1-1,Blackburn Rovers
+12,16/11/01,Notts County,3-0,Nottingham Forest
+12,16/11/01,The Wednesday,4-1,Bury
+12,16/11/01,Sunderland,2-4,Everton
+11,23/11/01,Sheffield United,5-0,Manchester City
+12,23/11/01,Blackburn Rovers,2-0,The Wednesday
+12,23/11/01,Everton,1-0,Small Heath
+12,23/11/01,Newcastle,1-0,Liverpool
+13,23/11/01,Aston Villa,2-1,Wolverhampton
+13,23/11/01,Bury,3-0,Notts County
+13,23/11/01,Grimsby Town,3-3,Sunderland
+13,23/11/01,Nottingham Forest,4-1,Bolton Wanderers
+13,23/11/01,Stoke City,1-1,Derby County
+13,30/11/01,Newcastle,5-1,Grimsby Town
+13,30/11/01,Notts County,3-0,Blackburn Rovers
+13,30/11/01,Small Heath,2-3,Sunderland
+14,30/11/01,Bolton Wanderers,2-2,Bury
+14,30/11/01,Derby County,3-1,Everton
+14,30/11/01,Liverpool,1-0,Aston Villa
+14,30/11/01,Manchester City,3-1,Nottingham Forest
+14,30/11/01,The Wednesday,3-1,Stoke City
+14,30/11/01,Wolverhampton,1-1,Sheffield United
+14,07/12/01,Blackburn Rovers,2-0,Bolton Wanderers
+14,07/12/01,Grimsby Town,1-0,Small Heath
+14,07/12/01,Sheffield United,2-1,Liverpool
+15,07/12/01,Aston Villa,0-0,Newcastle
+15,07/12/01,Bury,3-0,Manchester City
+15,07/12/01,Everton,5-0,The Wednesday
+15,07/12/01,Nottingham Forest,2-0,Wolverhampton
+15,07/12/01,Stoke City,3-0,Notts County
+15,14/12/01,Aston Villa,4-1,Grimsby Town
+15,14/12/01,Manchester City,1-1,Blackburn Rovers
+15,14/12/01,Newcastle,1-1,Sheffield United
+15,14/12/01,The Wednesday,1-1,Sunderland
+16,14/12/01,Bolton Wanderers,2-1,Stoke City
+16,14/12/01,Liverpool,0-2,Nottingham Forest
+16,14/12/01,Notts County,0-2,Everton
+16,14/12/01,Wolverhampton,1-0,Bury
+15,21/12/01,Small Heath,1-1,The Wednesday
+16,21/12/01,Sunderland,2-1,Notts County
+17,21/12/01,Blackburn Rovers,2-0,Wolverhampton
+17,21/12/01,Everton,1-0,Bolton Wanderers
+16,25/12/01,Blackburn Rovers,2-0,Grimsby Town
+18,25/12/01,Derby County,3-1,Wolverhampton
+18,25/12/01,Everton,2-3,Aston Villa
+16,26/12/01,Aston Villa,1-0,Small Heath
+16,26/12/01,Derby County,1-0,Newcastle
+16,26/12/01,The Wednesday,2-1,Manchester City
+17,26/12/01,Liverpool,0-1,Sunderland
+17,26/12/01,Nottingham Forest,1-0,Notts County
+17,26/12/01,Stoke City,3-2,Sheffield United
+19,26/12/01,Wolverhampton,2-1,Everton
+17,28/12/01,Grimsby Town,0-1,Sheffield United
+17,28/12/01,Newcastle,1-1,Bury
+17,28/12/01,Notts County,6-1,Small Heath
+18,28/12/01,Aston Villa,3-0,Nottingham Forest
+18,28/12/01,Bolton Wanderers,0-0,Sunderland
+18,28/12/01,Liverpool,1-0,Blackburn Rovers
+18,28/12/01,Wolverhampton,4-1,Stoke City
+17,01/01/02,Bolton Wanderers,3-3,Manchester City
+18,01/01/02,Bury,1-1,Grimsby Town
+19,01/01/02,Blackburn Rovers,1-0,Nottingham Forest
+19,01/01/02,Sunderland,1-0,Derby County
+20,01/01/02,Sheffield United,6-0,Aston Villa
+20,02/01/02,Bolton Wanderers,3-0,Nottingham Forest
+18,04/01/02,Bolton Wanderers,4-0,Small Heath
+18,04/01/02,Notts County,3-2,Derby County
+19,04/01/02,Aston Villa,2-0,Bury
+19,04/01/02,Grimsby Town,3-1,The Wednesday
+19,04/01/02,Liverpool,7-0,Stoke City
+20,04/01/02,Manchester City,0-3,Sunderland
+20,04/01/02,Newcastle,0-3,Blackburn Rovers
+21,04/01/02,Sheffield United,2-2,Nottingham Forest
+18,11/01/02,The Wednesday,4-0,Notts County
+19,11/01/02,Derby County,1-2,Bolton Wanderers
+19,11/01/02,Small Heath,1-0,Manchester City
+20,11/01/02,Bury,1-2,Sheffield United
+20,11/01/02,Everton,4-0,Liverpool
+20,11/01/02,Nottingham Forest,0-1,Grimsby Town
+20,11/01/02,Stoke City,0-0,Newcastle
+21,11/01/02,Blackburn Rovers,4-0,Aston Villa
+21,11/01/02,Sunderland,2-0,Wolverhampton
+21,13/01/02,Stoke City,3-0,Manchester City
+19,18/01/02,Bolton Wanderers,3-1,The Wednesday
+20,18/01/02,Manchester City,0-0,Derby County
+20,18/01/02,Wolverhampton,2-1,Small Heath
+21,18/01/02,Grimsby Town,1-0,Notts County
+21,18/01/02,Newcastle,1-1,Everton
+21,18/01/02,Nottingham Forest,2-1,Bury
+22,18/01/02,Aston Villa,0-0,Stoke City
+22,18/01/02,Sheffield United,4-1,Blackburn Rovers
+21,01/02/02,Manchester City,1-0,Notts County
+21,01/02/02,Newcastle,2-0,Small Heath
+22,01/02/02,Aston Villa,0-1,Sunderland
+22,01/02/02,Bury,0-0,Liverpool
+22,01/02/02,Grimsby Town,4-1,Bolton Wanderers
+22,01/02/02,Sheffield United,0-0,Everton
+23,01/02/02,Nottingham Forest,2-0,Stoke City
+23,01/02/02,Wolverhampton,1-0,The Wednesday
+23,11/02/02,Sheffield United,2-2,Grimsby Town
+21,15/02/02,Aston Villa,3-2,Derby County
+21,15/02/02,Liverpool,0-1,Notts County
+21,15/02/02,Newcastle,2-1,The Wednesday
+22,15/02/02,Sheffield United,1-4,Small Heath
+23,15/02/02,Bury,1-0,Everton
+23,15/02/02,Nottingham Forest,2-1,Sunderland
+24,15/02/02,Blackburn Rovers,6-1,Stoke City
+24,15/02/02,Grimsby Town,3-2,Manchester City
+24,15/02/02,Wolverhampton,1-2,Bolton Wanderers
+23,17/02/02,Small Heath,1-1,Stoke City
+26,17/02/02,Manchester City,1-0,Aston Villa
+22,22/02/02,The Wednesday,1-0,Aston Villa
+24,22/02/02,Bolton Wanderers,1-0,Liverpool
+24,22/02/02,Everton,0-2,Blackburn Rovers
+24,22/02/02,Small Heath,6-0,Grimsby Town
+25,22/02/02,Manchester City,3-0,Wolverhampton
+22,01/03/02,Nottingham Forest,3-1,Derby County
+23,01/03/02,Liverpool,4-0,Manchester City
+23,01/03/02,Sheffield United,3-0,The Wednesday
+24,01/03/02,Blackburn Rovers,0-1,Sunderland
+25,01/03/02,Bury,2-0,Small Heath
+25,01/03/02,Newcastle,4-1,Bolton Wanderers
+25,01/03/02,Stoke City,1-2,Everton
+26,01/03/02,Grimsby Town,3-0,Wolverhampton
+25,08/03/02,Derby County,1-0,Bury
+26,08/03/02,Everton,0-1,Grimsby Town
+26,08/03/02,Manchester City,2-0,Newcastle
+26,08/03/02,Notts County,4-0,Sheffield United
+26,08/03/02,Small Heath,2-0,Blackburn Rovers
+27,08/03/02,The Wednesday,0-2,Nottingham Forest
+27,08/03/02,Sunderland,2-0,Stoke City
+27,08/03/02,Wolverhampton,3-1,Liverpool
+28,08/03/02,Bolton Wanderers,2-2,Aston Villa
+28,10/03/02,Wolverhampton,3-0,Newcastle
+26,15/03/02,Bury,2-0,The Wednesday
+27,15/03/02,Everton,2-0,Sunderland
+27,15/03/02,Stoke City,1-0,Small Heath
+28,15/03/02,Grimsby Town,1-1,Liverpool
+29,15/03/02,Newcastle,3-1,Wolverhampton
+24,17/03/02,The Wednesday,2-0,Derby County
+28,17/03/02,Manchester City,2-0,Everton
+28,19/03/02,Nottingham Forest,0-2,Newcastle
+26,22/03/02,Liverpool,0-1,Newcastle
+27,22/03/02,Notts County,2-1,Bury
+27,22/03/02,The Wednesday,0-1,Blackburn Rovers
+27,22/03/02,Sunderland,3-1,Grimsby Town
+28,22/03/02,Manchester City,4-0,Sheffield United
+28,22/03/02,Small Heath,0-1,Everton
+29,22/03/02,Derby County,1-0,Stoke City
+30,22/03/02,Wolverhampton,0-2,Aston Villa
+27,28/03/02,Bolton Wanderers,1-0,Sheffield United
+28,28/03/02,Bury,2-0,Blackburn Rovers
+28,28/03/02,Manchester City,0-3,The Wednesday
+30,28/03/02,Grimsby Town,3-0,Newcastle
+31,28/03/02,Notts County,5-3,Wolverhampton
+29,29/03/02,Blackburn Rovers,4-2,Notts County
+29,29/03/02,Bury,2-2,Bolton Wanderers
+29,29/03/02,Nottingham Forest,3-1,Manchester City
+29,29/03/02,Sunderland,1-1,Small Heath
+30,29/03/02,Aston Villa,0-1,Liverpool
+30,29/03/02,Everton,2-0,Derby County
+30,29/03/02,Stoke City,1-2,The Wednesday
+32,29/03/02,Sheffield United,0-0,Wolverhampton
+29,31/03/02,Notts County,2-1,Bolton Wanderers
+29,31/03/02,Sunderland,0-0,Newcastle
+30,31/03/02,Derby County,0-0,Small Heath
+31,31/03/02,Aston Villa,2-2,Manchester City
+31,31/03/02,Everton,1-0,Nottingham Forest
+33,31/03/02,Wolverhampton,3-1,Blackburn Rovers
+30,01/04/02,The Wednesday,1-1,Liverpool
+31,01/04/02,Derby County,2-0,Grimsby Town
+31,01/04/02,Nottingham Forest,1-1,Aston Villa
+29,05/04/02,Liverpool,1-0,Sheffield United
+30,05/04/02,Derby County,1-0,Sunderland
+30,05/04/02,Manchester City,2-0,Bury
+31,05/04/02,Bolton Wanderers,4-0,Blackburn Rovers
+31,05/04/02,Notts County,1-1,Stoke City
+31,05/04/02,Small Heath,1-1,Nottingham Forest
+32,05/04/02,The Wednesday,1-1,Everton
+33,05/04/02,Newcastle,2-1,Aston Villa
+31,07/04/02,Sheffield United,2-0,Bolton Wanderers
+31,12/04/02,Sunderland,1-2,The Wednesday
+32,12/04/02,Blackburn Rovers,1-4,Manchester City
+32,12/04/02,Grimsby Town,4-1,Aston Villa
+32,12/04/02,Sheffield United,1-0,Newcastle
+32,12/04/02,Small Heath,5-1,Derby County
+32,12/04/02,Stoke City,4-0,Bolton Wanderers
+33,12/04/02,Everton,0-1,Notts County
+33,12/04/02,Nottingham Forest,1-1,Liverpool
+34,12/04/02,Bury,2-1,Wolverhampton
+31,14/04/02,Liverpool,0-2,Derby County
+33,14/04/02,Stoke City,2-0,Grimsby Town
+32,16/04/02,Sunderland,3-0,Bury
+33,19/04/02,Blackburn Rovers,3-1,Derby County
+33,19/04/02,Liverpool,1-0,Bury
+33,19/04/02,Notts County,2-0,Sunderland
+33,19/04/02,The Wednesday,1-2,Small Heath
+34,19/04/02,Bolton Wanderers,1-3,Everton
+34,19/04/02,Manchester City,2-2,Stoke City
+34,19/04/02,Newcastle,3-0,Nottingham Forest
+34,21/04/02,Liverpool,2-2,Grimsby Town
+33,26/04/02,Derby County,2-2,The Wednesday
+34,26/04/02,Blackburn Rovers,1-1,Liverpool
+34,26/04/02,Bury,4-0,Newcastle
+34,26/04/02,Small Heath,0-0,Notts County
+34,26/04/02,Sunderland,2-1,Bolton Wanderers
+34,28/04/02,Derby County,3-1,Sheffield United

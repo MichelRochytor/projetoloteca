@@ -1,0 +1,75 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,31/01/16,Comercial-MS,1-1,Novoperário
+B,10/02/16,Corumbaense,0-1,Águia Negra
+A,13/02/16,Operário-MS,2-0,Misto
+B,14/02/16,Naviraiense,0-0,Ivinhema
+A,14/02/16,Costa Rica EC,4-0,SERC
+B,20/02/16,7 de Setembro-MS,0-2,Corumbaense
+A,20/02/16,Misto,1-2,Costa Rica EC
+A,21/02/16,Novoperário,2-2,Operário-MS
+A,21/02/16,SERC,0-0,Comercial-MS
+B,21/02/16,Águia Negra,1-0,Naviraiense
+B,21/02/16,Ivinhema,1-1,Aquidauanense
+A,24/02/16,Comercial-MS,2-0,Misto
+B,24/02/16,Corumbaense,2-2,Ivinhema
+A,24/02/16,Costa Rica EC,0-1,Operário-MS
+B,24/02/16,Águia Negra,0-2,7 de Setembro-MS
+A,25/02/16,Novoperário,3-1,SERC
+B,25/02/16,Aquidauanense,1-3,Naviraiense
+A,27/02/16,Misto,1-1,SERC
+B,28/02/16,Naviraiense,1-3,7 de Setembro-MS
+A,28/02/16,Operário-MS,1-1,Comercial-MS
+A,28/02/16,Costa Rica EC,1-1,Novoperário
+B,28/02/16,Ivinhema,2-1,Águia Negra
+B,02/03/16,Aquidauanense,0-2,7 de Setembro-MS
+A,05/03/16,Novoperário,0-2,Misto
+B,05/03/16,Corumbaense,1-1,Naviraiense
+B,05/03/16,7 de Setembro-MS,1-1,Ivinhema
+A,06/03/16,SERC,1-2,Operário-MS
+A,06/03/16,Comercial-MS,1-2,Costa Rica EC
+B,06/03/16,Águia Negra,1-1,Aquidauanense
+B,10/03/16,Aquidauanense,1-1,Corumbaense
+B,12/03/16,7 de Setembro-MS,2-0,Aquidauanense
+A,13/03/16,SERC,2-1,Costa Rica EC
+A,13/03/16,Novoperário,0-2,Comercial-MS
+B,13/03/16,Águia Negra,1-0,Corumbaense
+B,13/03/16,Ivinhema,1-0,Naviraiense
+A,16/03/16,Operário-MS,2-0,Novoperário
+B,16/03/16,Corumbaense,2-0,7 de Setembro-MS
+A,16/03/16,Costa Rica EC,2-0,Misto
+B,17/03/16,Aquidauanense,1-1,Ivinhema
+B,19/03/16,7 de Setembro-MS,2-0,Águia Negra
+A,20/03/16,SERC,0-0,Novoperário
+B,20/03/16,Naviraiense,1-1,Aquidauanense
+A,20/03/16,Operário-MS,2-1,Costa Rica EC
+A,20/03/16,Misto,0-3,Comercial-MS
+B,20/03/16,Ivinhema,0-0,Corumbaense
+A,23/03/16,Misto,0-0,Operário-MS
+A,23/03/16,Comercial-MS,3-1,SERC
+B,23/03/16,Naviraiense,1-0,Águia Negra
+A,26/03/16,Novoperário,2-3,Costa Rica EC
+B,26/03/16,Corumbaense,5-1,Aquidauanense
+A,27/03/16,SERC,2-2,Misto
+A,27/03/16,Comercial-MS,1-1,Operário-MS
+B,27/03/16,Águia Negra,2-2,Ivinhema
+B,30/03/16,7 de Setembro-MS,1-2,Naviraiense
+A,03/04/16,Misto,0-0,Novoperário
+A,03/04/16,Costa Rica EC,0-1,Comercial-MS
+A,03/04/16,Operário-MS,0-2,SERC
+B,03/04/16,Aquidauanense,0-1,Águia Negra
+B,03/04/16,Naviraiense,0-2,Corumbaense
+B,03/04/16,Ivinhema,5-1,7 de Setembro-MS
+QF,06/04/16,SERC,0-1,7 de Setembro-MS
+QF,06/04/16,Costa Rica EC,1-3,Corumbaense
+QF,09/04/16,Corumbaense,2-2,Costa Rica EC
+QF,09/04/16,Águia Negra,1-3,Comercial-MS
+QF,10/04/16,Ivinhema,1-3,Operário-MS
+QF,10/04/16,7 de Setembro-MS,2-1,SERC
+QF,13/04/16,Operário-MS,1-3,Ivinhema
+QF,14/04/16,Comercial-MS,2-0,Águia Negra
+SF,17/04/16,Corumbaense,0-0,Comercial-MS
+SF,17/04/16,Operário-MS,0-0,7 de Setembro-MS
+SF,24/04/16,Comercial-MS,0-0,Corumbaense
+SF,24/04/16,7 de Setembro-MS,0-0,Operário-MS
+F,01/05/16,7 de Setembro-MS,2-1,Comercial-MS
+F,08/05/16,Comercial-MS,0-2,7 de Setembro-MS

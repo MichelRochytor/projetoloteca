@@ -1,0 +1,158 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,14/09/99,AIK,1-2,Barcelona
+B,14/09/99,Fiorentina,0-0,Arsenal
+C,14/09/99,Boavista FC,0-3,Rosenborg
+C,14/09/99,Feyenoord,1-1,Borussia Dortmund
+D,14/09/99,Manchester United,0-0,Dinamo Zagreb
+D,14/09/99,Marseille,2-0,Sturm Graz
+A,14/09/99,Bayer Leverkusen,1-1,Lazio
+A,14/09/99,Dynamo Kyiv,0-1,Maribor
+E,14/09/99,Olympiacos,3-3,Real Madrid
+E,14/09/99,Molde,0-1,FC Porto
+G,14/09/99,Willem II,1-3,Spartak Moskva
+F,15/09/99,Bayern München,2-1,PSV
+F,15/09/99,Valencia,2-0,Rangers
+G,15/09/99,Sparta Praha,0-0,Bordeaux
+H,15/09/99,Chelsea,0-0,Milan
+H,15/09/99,Galatasaray,2-2,Hertha BSC
+E,20/09/99,FC Porto,2-0,Olympiacos
+E,21/09/99,Real Madrid,4-1,Molde
+F,21/09/99,Rangers,1-1,Bayern München
+F,21/09/99,PSV,1-1,Valencia
+G,21/09/99,Spartak Moskva,1-1,Sparta Praha
+G,21/09/99,Bordeaux,3-2,Willem II
+H,21/09/99,Hertha BSC,2-1,Chelsea
+H,21/09/99,Milan,2-1,Galatasaray
+B,22/09/99,Arsenal,3-1,AIK
+B,22/09/99,Barcelona,4-2,Fiorentina
+C,22/09/99,Borussia Dortmund,3-1,Boavista FC
+C,22/09/99,Rosenborg,2-2,Feyenoord
+D,22/09/99,Sturm Graz,0-3,Manchester United
+D,22/09/99,Dinamo Zagreb,1-2,Marseille
+A,22/09/99,Maribor,0-2,Bayer Leverkusen
+A,22/09/99,Lazio,2-1,Dynamo Kyiv
+E,27/09/99,Real Madrid,3-1,FC Porto
+E,28/09/99,Olympiacos,3-1,Molde
+F,28/09/99,PSV,0-1,Rangers
+F,28/09/99,Bayern München,1-1,Valencia
+G,28/09/99,Bordeaux,2-1,Spartak Moskva
+G,28/09/99,Sparta Praha,4-0,Willem II
+H,28/09/99,Milan,1-1,Hertha BSC
+H,28/09/99,Chelsea,1-0,Galatasaray
+D,28/09/99,Manchester United,2-1,Marseille
+B,29/09/99,Barcelona,1-1,Arsenal
+B,29/09/99,AIK,0-0,Fiorentina
+C,29/09/99,Rosenborg,2-2,Borussia Dortmund
+C,29/09/99,Boavista FC,1-1,Feyenoord
+D,29/09/99,Dinamo Zagreb,3-0,Sturm Graz
+A,29/09/99,Lazio,4-0,Maribor
+A,29/09/99,Bayer Leverkusen,1-1,Dynamo Kyiv
+B,18/10/99,Fiorentina,3-0,AIK
+C,18/10/99,Feyenoord,1-1,Boavista FC
+B,19/10/99,Arsenal,2-4,Barcelona
+C,19/10/99,Borussia Dortmund,0-3,Rosenborg
+D,19/10/99,Sturm Graz,1-0,Dinamo Zagreb
+D,19/10/99,Marseille,1-0,Manchester United
+A,19/10/99,Maribor,0-4,Lazio
+A,19/10/99,Dynamo Kyiv,4-2,Bayer Leverkusen
+E,19/10/99,FC Porto,2-1,Real Madrid
+E,20/10/99,Molde,3-2,Olympiacos
+F,20/10/99,Rangers,4-1,PSV
+F,20/10/99,Valencia,1-1,Bayern München
+G,20/10/99,Spartak Moskva,1-2,Bordeaux
+G,20/10/99,Willem II,3-4,Sparta Praha
+H,20/10/99,Hertha BSC,1-0,Milan
+H,20/10/99,Galatasaray,0-5,Chelsea
+E,25/10/99,FC Porto,3-1,Molde
+G,25/10/99,Spartak Moskva,1-1,Willem II
+E,26/10/99,Real Madrid,3-0,Olympiacos
+F,26/10/99,PSV,2-1,Bayern München
+F,26/10/99,Rangers,1-2,Valencia
+G,26/10/99,Bordeaux,0-0,Sparta Praha
+H,26/10/99,Milan,1-1,Chelsea
+H,26/10/99,Hertha BSC,1-4,Galatasaray
+C,26/10/99,Borussia Dortmund,1-1,Feyenoord
+B,27/10/99,Barcelona,5-0,AIK
+B,27/10/99,Arsenal,0-1,Fiorentina
+C,27/10/99,Rosenborg,2-0,Boavista FC
+D,27/10/99,Dinamo Zagreb,1-2,Manchester United
+D,27/10/99,Sturm Graz,3-2,Marseille
+A,27/10/99,Lazio,1-1,Bayer Leverkusen
+A,27/10/99,Maribor,1-2,Dynamo Kyiv
+B,02/11/99,AIK,2-3,Arsenal
+B,02/11/99,Fiorentina,3-3,Barcelona
+C,02/11/99,Boavista FC,1-0,Borussia Dortmund
+C,02/11/99,Feyenoord,1-0,Rosenborg
+D,02/11/99,Manchester United,2-1,Sturm Graz
+D,02/11/99,Marseille,2-2,Dinamo Zagreb
+A,02/11/99,Bayer Leverkusen,0-0,Maribor
+A,02/11/99,Dynamo Kyiv,0-1,Lazio
+E,02/11/99,Olympiacos,1-0,FC Porto
+E,03/11/99,Molde,0-1,Real Madrid
+F,03/11/99,Bayern München,1-0,Rangers
+F,03/11/99,Valencia,1-0,PSV
+G,03/11/99,Sparta Praha,5-2,Spartak Moskva
+G,03/11/99,Willem II,0-0,Bordeaux
+H,03/11/99,Chelsea,2-0,Hertha BSC
+H,03/11/99,Galatasaray,3-2,Milan
+A,22/11/99,Sparta Praha,0-2,FC Porto
+B,23/11/99,Fiorentina,2-0,Manchester United
+B,23/11/99,Valencia,3-0,Bordeaux
+A,23/11/99,Hertha BSC,1-1,Barcelona
+C,23/11/99,Rosenborg,1-1,Bayern München
+D,23/11/99,Marseille,0-2,Lazio
+D,23/11/99,Chelsea,3-1,Feyenoord
+C,24/11/99,Dynamo Kyiv,1-2,Real Madrid
+D,06/12/99,Feyenoord,3-0,Marseille
+D,06/12/99,Lazio,0-0,Chelsea
+C,07/12/99,Bayern München,2-1,Dynamo Kyiv
+C,07/12/99,Real Madrid,3-1,Rosenborg
+A,07/12/99,FC Porto,1-0,Hertha BSC
+B,08/12/99,Bordeaux,0-0,Fiorentina
+B,08/12/99,Manchester United,3-0,Valencia
+A,08/12/99,Barcelona,5-0,Sparta Praha
+D,28/02/00,Lazio,1-2,Feyenoord
+D,28/02/00,Feyenoord,0-0,Lazio
+C,29/02/00,Real Madrid,2-4,Bayern München
+C,29/02/00,Dynamo Kyiv,2-1,Rosenborg
+D,29/02/00,Marseille,1-0,Chelsea
+A,29/02/00,Barcelona,4-2,FC Porto
+A,29/02/00,Hertha BSC,1-1,Sparta Praha
+B,01/03/00,Manchester United,2-0,Bordeaux
+B,01/03/00,Fiorentina,1-0,Valencia
+A,06/03/00,FC Porto,0-2,Barcelona
+B,07/03/00,Bordeaux,1-2,Manchester United
+B,07/03/00,Valencia,2-0,Fiorentina
+A,07/03/00,Sparta Praha,1-0,Hertha BSC
+D,07/03/00,Chelsea,1-0,Marseille
+C,08/03/00,Bayern München,4-1,Real Madrid
+C,08/03/00,Rosenborg,1-2,Dynamo Kyiv
+C,13/03/00,Bayern München,2-1,Rosenborg
+D,13/03/00,Lazio,5-1,Marseille
+D,13/03/00,Feyenoord,1-3,Chelsea
+C,14/03/00,Real Madrid,2-2,Dynamo Kyiv
+A,14/03/00,FC Porto,2-2,Sparta Praha
+B,15/03/00,Manchester United,3-1,Fiorentina
+B,15/03/00,Bordeaux,1-4,Valencia
+A,15/03/00,Barcelona,3-1,Hertha BSC
+A,20/03/00,Hertha BSC,0-1,FC Porto
+A,20/03/00,Sparta Praha,1-2,Barcelona
+B,21/03/00,Fiorentina,3-3,Bordeaux
+B,21/03/00,Valencia,0-0,Manchester United
+D,21/03/00,Marseille,0-0,Feyenoord
+D,21/03/00,Chelsea,1-2,Lazio
+C,22/03/00,Dynamo Kyiv,2-0,Bayern München
+C,22/03/00,Rosenborg,0-1,Real Madrid
+QF,03/04/00,Real Madrid,0-0,Manchester United
+QF,03/04/00,FC Porto,1-1,Bayern München
+QF,04/04/00,Valencia,5-2,Lazio
+QF,05/04/00,Chelsea,3-1,Barcelona
+QF,17/04/00,Barcelona,5-1(Pro.),Chelsea
+QF,18/04/00,Lazio,1-0,Valencia
+QF,18/04/00,Manchester United,2-3,Real Madrid
+QF,18/04/00,Bayern München,2-1,FC Porto
+SF,01/05/00,Valencia,4-1,Barcelona
+SF,03/05/00,Real Madrid,2-0,Bayern München
+SF,08/05/00,Bayern München,2-1,Real Madrid
+SF,09/05/00,Barcelona,2-1,Valencia
+F,24/05/00,Real Madrid,3-0,Valencia

@@ -1,0 +1,95 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,24/05/09,Ituiutaba,3-0,Americana
+A,24/05/09,Águia,1-0,Rio Branco-AC
+B,24/05/09,Confiança,0-2,Icasa
+B,24/05/09,Salgueiro,1-0,CRB
+C,24/05/09,América Mineiro,2-0,Gama
+D,24/05/09,Marcílio Dias,1-2,Caxias
+D,24/05/09,Criciúma,1-1,Marília
+A,24/05/09,Paysandu,1-0,Sampaio Corrêa
+B,30/05/09,Icasa,3-0,Salgueiro
+C,31/05/09,Americana,4-1,Mixto
+C,31/05/09,Gama,1-1,Ituiutaba
+D,31/05/09,Marília,1-1,GE Brasil
+D,31/05/09,Caxias,1-0,Criciúma
+A,31/05/09,Sampaio Corrêa,2-3,Águia
+A,31/05/09,Rio Branco-AC,3-0,Luverdense
+B,07/06/09,CRB,0-1,ASA
+A,14/06/09,Paysandu,3-1,Rio Branco-AC
+B,14/06/09,ASA,3-0,Salgueiro
+B,14/06/09,Confiança,2-1,CRB
+C,14/06/09,América Mineiro,2-0,Americana
+D,14/06/09,GE Brasil,1-0,Criciúma
+D,14/06/09,Marcílio Dias,1-3,Marília
+C,14/06/09,Mixto,2-0,Ituiutaba
+A,14/06/09,Luverdense,0-2,Águia
+C,20/06/09,Ituiutaba,0-0,América Mineiro
+A,20/06/09,Sampaio Corrêa,1-0,Luverdense
+A,20/06/09,Águia,2-2,Paysandu
+B,20/06/09,Icasa,0-0,ASA
+B,20/06/09,Salgueiro,2-1,Confiança
+C,20/06/09,Gama,2-0,Mixto
+D,20/06/09,Caxias,1-0,GE Brasil
+D,20/06/09,Criciúma,1-4,Marcílio Dias
+C,27/06/09,Americana,5-2,Gama
+B,27/06/09,ASA,5-2,Confiança
+B,27/06/09,CRB,1-2,Icasa
+C,27/06/09,Mixto,0-1,América Mineiro
+D,27/06/09,GE Brasil,2-1,Marcílio Dias
+D,27/06/09,Marília,2-0,Caxias
+A,27/06/09,Rio Branco-AC,3-1,Sampaio Corrêa
+A,27/06/09,Luverdense,3-2,Paysandu
+A,05/07/09,Luverdense,0-0,Sampaio Corrêa
+A,05/07/09,Paysandu,2-1,Águia
+B,05/07/09,ASA,2-1,Icasa
+B,05/07/09,Confiança,1-2,Salgueiro
+C,05/07/09,América Mineiro,2-1,Ituiutaba
+D,05/07/09,GE Brasil,1-0,Caxias
+D,05/07/09,Marcílio Dias,0-1,Criciúma
+C,05/07/09,Mixto,2-2,Gama
+C,11/07/09,Americana,2-0,América Mineiro
+D,11/07/09,Marília,3-2,Marcílio Dias
+C,12/07/09,Ituiutaba,5-0,Mixto
+A,12/07/09,Águia,0-2,Luverdense
+B,12/07/09,CRB,2-1,Confiança
+B,12/07/09,Salgueiro,1-0,ASA
+D,12/07/09,Criciúma,3-2,GE Brasil
+A,12/07/09,Rio Branco-AC,4-0,Paysandu
+A,16/07/09,Paysandu,1-1,Luverdense
+A,18/07/09,Sampaio Corrêa,4-2,Rio Branco-AC
+B,19/07/09,Confiança,2-0,ASA
+C,19/07/09,América Mineiro,5-1,Mixto
+C,19/07/09,Gama,1-2,Americana
+D,19/07/09,Caxias,1-1,Marília
+D,21/07/09,Marcílio Dias,2-3,GE Brasil
+B,22/07/09,Icasa,2-0,CRB
+A,25/07/09,Águia,2-2,Sampaio Corrêa
+C,26/07/09,Ituiutaba,2-1,Gama
+B,26/07/09,Salgueiro,1-1,Icasa
+D,26/07/09,GE Brasil,2-1,Marília
+D,26/07/09,Criciúma,0-1,Caxias
+A,26/07/09,Luverdense,2-0,Rio Branco-AC
+C,26/07/09,Mixto,2-0,Americana
+B,29/07/09,ASA,2-1,CRB
+C,02/08/09,Gama,2-0,América Mineiro
+C,02/08/09,Americana,2-1,Ituiutaba
+A,02/08/09,Sampaio Corrêa,0-0,Paysandu
+B,02/08/09,Icasa,4-0,Confiança
+B,02/08/09,CRB,3-1,Salgueiro
+D,02/08/09,Caxias,4-1,Marcílio Dias
+D,02/08/09,Marília,2-0,Criciúma
+A,02/08/09,Rio Branco-AC,2-1,Águia
+QF,09/08/09,ASA,1-1,Rio Branco-AC
+QF,09/08/09,Paysandu,1-1,Icasa
+QF,09/08/09,GE Brasil,0-0,América Mineiro
+QF,09/08/09,Americana,2-0,Caxias
+QF,16/08/09,América Mineiro,3-1,GE Brasil
+QF,16/08/09,Caxias,1-1,Americana
+QF,16/08/09,Icasa,6-2,Paysandu
+QF,16/08/09,Rio Branco-AC,2-2,ASA
+SF,23/08/09,Americana,2-1,América Mineiro
+SF,23/08/09,ASA,1-1,Icasa
+SF,30/08/09,América Mineiro,2-1(7-6 Pen.),Americana
+SF,30/08/09,Icasa,2-3,ASA
+F,13/09/09,ASA,1-3,América Mineiro
+F,19/09/09,América Mineiro,1-0,ASA

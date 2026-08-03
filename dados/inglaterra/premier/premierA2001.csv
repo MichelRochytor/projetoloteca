@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,18/08/01,Liverpool,2-1,West Ham
+1,18/08/01,Leeds United,2-0,Southampton
+1,18/08/01,Tottenham,0-0,Aston Villa
+1,18/08/01,Middlesbrough,0-4,Arsenal
+1,18/08/01,Charlton Athletic,1-2,Everton
+1,18/08/01,Sunderland,1-0,Ipswich Town
+1,18/08/01,Derby County,2-1,Blackburn Rovers
+1,18/08/01,Leicester City,0-5,Bolton
+1,19/08/01,Chelsea,1-1,Newcastle
+1,19/08/01,Manchester United,3-2,Fulham
+2,20/08/01,Everton,1-1,Tottenham
+2,21/08/01,Ipswich Town,3-1,Derby County
+2,21/08/01,Arsenal,1-2,Leeds United
+2,21/08/01,Bolton,1-0,Middlesbrough
+2,22/08/01,Fulham,2-0,Sunderland
+2,22/08/01,Blackburn Rovers,2-2,Manchester United
+3,25/08/01,Arsenal,4-0,Leicester City
+3,25/08/01,West Ham,0-0,Leeds United
+3,25/08/01,Blackburn Rovers,2-1,Tottenham
+3,25/08/01,Southampton,0-2,Chelsea
+3,25/08/01,Fulham,0-0,Derby County
+3,25/08/01,Everton,2-0,Middlesbrough
+3,25/08/01,Ipswich Town,0-1,Charlton Athletic
+3,26/08/01,Aston Villa,1-1,Manchester United
+3,26/08/01,Newcastle,1-1,Sunderland
+3,27/08/01,Bolton,2-1,Liverpool
+4,08/09/01,Liverpool,1-3,Aston Villa
+4,08/09/01,Manchester United,4-1,Everton
+4,08/09/01,Leeds United,0-0,Bolton
+4,08/09/01,Chelsea,1-1,Arsenal
+4,08/09/01,Middlesbrough,1-4,Newcastle
+4,08/09/01,Sunderland,1-0,Blackburn Rovers
+4,08/09/01,Derby County,0-0,West Ham
+4,08/09/01,Leicester City,1-1,Ipswich Town
+4,09/09/01,Tottenham,2-0,Southampton
+4,09/09/01,Charlton Athletic,1-1,Fulham
+5,15/09/01,Everton,1-3,Liverpool
+5,15/09/01,Newcastle,4-3,Manchester United
+5,15/09/01,Middlesbrough,2-0,West Ham
+5,15/09/01,Fulham,1-3,Arsenal
+5,15/09/01,Bolton,0-1,Southampton
+5,15/09/01,Derby County,2-3,Leicester City
+5,16/09/01,Tottenham,2-3,Chelsea
+5,16/09/01,Charlton Athletic,0-2,Leeds United
+5,16/09/01,Aston Villa,0-0,Sunderland
+5,16/09/01,Ipswich Town,1-1,Blackburn Rovers
+6,17/09/01,Leicester City,1-2,Middlesbrough
+6,18/09/01,Blackburn Rovers,1-1,Bolton
+6,19/09/01,Sunderland,1-2,Tottenham
+7,22/09/01,Arsenal,1-1,Bolton
+7,22/09/01,Liverpool,1-0,Tottenham
+7,22/09/01,Manchester United,4-0,Ipswich Town
+7,22/09/01,Blackburn Rovers,1-0,Everton
+7,22/09/01,Sunderland,2-2,Charlton Athletic
+7,22/09/01,Leicester City,0-0,Fulham
+7,23/09/01,Leeds United,3-0,Derby County
+7,23/09/01,Chelsea,2-2,Middlesbrough
+7,23/09/01,West Ham,3-0,Newcastle
+7,24/09/01,Southampton,1-3,Aston Villa
+2,25/09/01,Newcastle,1-0,Leicester City
+8,29/09/01,Tottenham,3-5,Manchester United
+8,29/09/01,Middlesbrough,1-3,Southampton
+8,29/09/01,Charlton Athletic,2-0,Leicester City
+8,29/09/01,Everton,5-0,West Ham
+8,29/09/01,Bolton,0-2,Sunderland
+8,29/09/01,Derby County,0-2,Arsenal
+8,30/09/01,Fulham,1-1,Chelsea
+8,30/09/01,Newcastle,0-2,Liverpool
+8,30/09/01,Aston Villa,2-0,Blackburn Rovers
+8,30/09/01,Ipswich Town,1-2,Leeds United
+9,13/10/01,Liverpool,1-1,Leeds United
+9,13/10/01,Chelsea,2-0,Leicester City
+9,13/10/01,Southampton,0-2,Arsenal
+9,13/10/01,Charlton Athletic,0-0,Middlesbrough
+9,13/10/01,Bolton,0-4,Newcastle
+9,13/10/01,Sunderland,1-3,Manchester United
+9,13/10/01,Ipswich Town,0-0,Everton
+9,14/10/01,Blackburn Rovers,7-1,West Ham
+9,14/10/01,Aston Villa,2-0,Fulham
+9,15/10/01,Tottenham,3-1,Derby County
+10,20/10/01,Arsenal,3-3,Blackburn Rovers
+10,20/10/01,Manchester United,1-2,Bolton
+10,20/10/01,West Ham,2-0,Southampton
+10,20/10/01,Everton,3-2,Aston Villa
+10,20/10/01,Derby County,1-1,Charlton Athletic
+10,20/10/01,Leicester City,1-4,Liverpool
+10,21/10/01,Fulham,1-1,Ipswich Town
+10,21/10/01,Newcastle,0-2,Tottenham
+10,21/10/01,Leeds United,0-0,Chelsea
+10,22/10/01,Middlesbrough,2-0,Sunderland
+2,24/10/01,West Ham,2-1,Chelsea
+2,24/10/01,Aston Villa,1-0,Charlton Athletic
+6,24/10/01,Southampton,3-3,Ipswich Town
+11,27/10/01,Manchester United,1-1,Leeds United
+11,27/10/01,Aston Villa,3-2,Bolton
+11,27/10/01,Tottenham,2-1,Middlesbrough
+11,27/10/01,Fulham,2-1,Southampton
+11,27/10/01,Charlton Athletic,0-2,Liverpool
+11,27/10/01,Everton,1-3,Newcastle
+11,27/10/01,Sunderland,1-1,Arsenal
+11,28/10/01,Ipswich Town,2-3,West Ham
+11,28/10/01,Derby County,1-1,Chelsea
+11,29/10/01,Blackburn Rovers,0-0,Leicester City
+12,03/11/01,Leicester City,1-0,Sunderland
+12,03/11/01,Newcastle,3-0,Aston Villa
+12,03/11/01,West Ham,0-2,Fulham
+12,03/11/01,Southampton,1-2,Blackburn Rovers
+12,03/11/01,Middlesbrough,5-1,Derby County
+12,03/11/01,Bolton,2-2,Everton
+12,04/11/01,Liverpool,3-1,Manchester United
+12,04/11/01,Leeds United,2-1,Tottenham
+12,04/11/01,Arsenal,2-4,Charlton Athletic
+12,04/11/01,Chelsea,2-1,Ipswich Town
+13,17/11/01,Blackburn Rovers,1-1,Liverpool
+13,17/11/01,Manchester United,2-0,Leicester City
+13,17/11/01,Aston Villa,0-0,Middlesbrough
+13,17/11/01,Tottenham,1-1,Arsenal
+13,17/11/01,Fulham,3-1,Newcastle
+13,17/11/01,Derby County,1-0,Southampton
+13,18/11/01,Everton,0-0,Chelsea
+13,18/11/01,Sunderland,2-0,Leeds United
+13,18/11/01,Ipswich Town,1-2,Bolton
+13,19/11/01,Charlton Athletic,4-4,West Ham
+14,24/11/01,Newcastle,1-0,Derby County
+14,24/11/01,Chelsea,0-0,Blackburn Rovers
+14,24/11/01,West Ham,0-1,Tottenham
+14,24/11/01,Southampton,1-0,Charlton Athletic
+14,24/11/01,Bolton,0-0,Fulham
+14,24/11/01,Leicester City,0-0,Everton
+14,25/11/01,Liverpool,1-0,Sunderland
+14,25/11/01,Leeds United,1-1,Aston Villa
+14,25/11/01,Middlesbrough,0-0,Ipswich Town
+14,25/11/01,Arsenal,3-1,Manchester United
+15,01/12/01,Manchester United,0-3,Chelsea
+15,01/12/01,Aston Villa,0-2,Leicester City
+15,01/12/01,Blackburn Rovers,0-1,Middlesbrough
+15,01/12/01,Charlton Athletic,1-1,Newcastle
+15,01/12/01,Sunderland,1-0,West Ham
+15,01/12/01,Ipswich Town,0-2,Arsenal
+15,01/12/01,Derby County,0-1,Liverpool
+15,02/12/01,Fulham,0-0,Leeds United
+15,02/12/01,Everton,2-0,Southampton
+15,03/12/01,Tottenham,3-2,Bolton
+6,05/12/01,Chelsea,0-1,Charlton Athletic
+6,05/12/01,West Ham,1-1,Aston Villa
+16,08/12/01,Liverpool,2-0,Middlesbrough
+16,08/12/01,Manchester United,0-1,West Ham
+16,08/12/01,Fulham,2-0,Everton
+16,08/12/01,Charlton Athletic,3-1,Tottenham
+16,08/12/01,Derby County,1-0,Bolton
+16,08/12/01,Leicester City,0-4,Southampton
+16,09/12/01,Blackburn Rovers,1-2,Leeds United
+16,09/12/01,Sunderland,0-0,Chelsea
+16,09/12/01,Ipswich Town,0-1,Newcastle
+16,09/12/01,Arsenal,3-2,Aston Villa
+6,12/12/01,Liverpool,0-0,Fulham
+6,12/12/01,Manchester United,5-0,Derby County
+17,15/12/01,Newcastle,2-1,Blackburn Rovers
+17,15/12/01,West Ham,1-1,Arsenal
+17,15/12/01,Tottenham,4-0,Fulham
+17,15/12/01,Southampton,2-0,Sunderland
+17,15/12/01,Middlesbrough,0-1,Manchester United
+17,15/12/01,Everton,1-0,Derby County
+17,15/12/01,Bolton,0-0,Charlton Athletic
+17,16/12/01,Leeds United,2-2,Leicester City
+17,16/12/01,Chelsea,4-0,Liverpool
+17,17/12/01,Aston Villa,2-1,Ipswich Town
+6,18/12/01,Arsenal,1-3,Newcastle
+6,19/12/01,Leeds United,3-2,Everton
+18,22/12/01,Derby County,3-1,Aston Villa
+18,22/12/01,Manchester United,6-1,Southampton
+18,22/12/01,Leeds United,3-4,Newcastle
+18,22/12/01,Tottenham,1-2,Ipswich Town
+18,22/12/01,Charlton Athletic,0-2,Blackburn Rovers
+18,22/12/01,Sunderland,1-0,Everton
+18,22/12/01,Leicester City,1-1,West Ham
+18,23/12/01,Chelsea,5-1,Bolton
+18,23/12/01,Liverpool,1-2,Arsenal
+19,26/12/01,Arsenal,2-1,Chelsea
+19,26/12/01,West Ham,4-0,Derby County
+19,26/12/01,Southampton,1-0,Tottenham
+19,26/12/01,Fulham,0-0,Charlton Athletic
+19,26/12/01,Bolton,0-3,Leeds United
+19,26/12/01,Newcastle,3-0,Middlesbrough
+19,26/12/01,Aston Villa,1-2,Liverpool
+19,26/12/01,Blackburn Rovers,0-3,Sunderland
+19,26/12/01,Everton,0-2,Manchester United
+19,26/12/01,Ipswich Town,2-0,Leicester City
+20,29/12/01,Arsenal,2-1,Middlesbrough
+20,29/12/01,Newcastle,1-2,Chelsea
+20,29/12/01,West Ham,1-1,Liverpool
+20,29/12/01,Aston Villa,1-1,Tottenham
+20,29/12/01,Blackburn Rovers,0-1,Derby County
+20,29/12/01,Southampton,0-1,Leeds United
+20,29/12/01,Everton,0-3,Charlton Athletic
+20,29/12/01,Bolton,2-2,Leicester City
+20,29/12/01,Ipswich Town,5-0,Sunderland
+20,30/12/01,Fulham,2-3,Manchester United
+21,01/01/02,Liverpool,1-1,Bolton
+21,01/01/02,Chelsea,2-4,Southampton
+21,01/01/02,Tottenham,1-0,Blackburn Rovers
+21,01/01/02,Middlesbrough,1-0,Everton
+21,01/01/02,Charlton Athletic,3-2,Ipswich Town
+21,01/01/02,Sunderland,1-1,Aston Villa
+21,01/01/02,Leeds United,3-0,West Ham
+21,02/01/02,Derby County,0-1,Fulham
+21,02/01/02,Manchester United,3-1,Newcastle
+2,09/01/02,Southampton,2-0,Liverpool
+22,12/01/02,Newcastle,3-1,Leeds United
+22,12/01/02,West Ham,1-0,Leicester City
+22,12/01/02,Aston Villa,2-1,Derby County
+22,12/01/02,Blackburn Rovers,4-1,Charlton Athletic
+22,12/01/02,Fulham,2-1,Middlesbrough
+22,12/01/02,Everton,1-0,Sunderland
+22,12/01/02,Bolton,2-2,Chelsea
+22,12/01/02,Ipswich Town,2-1,Tottenham
+22,13/01/02,Southampton,1-3,Manchester United
+22,13/01/02,Arsenal,1-1,Liverpool
+23,19/01/02,Liverpool,1-1,Southampton
+23,19/01/02,Manchester United,2-1,Blackburn Rovers
+23,19/01/02,Tottenham,1-1,Everton
+23,19/01/02,Middlesbrough,1-1,Bolton
+23,19/01/02,Sunderland,1-1,Fulham
+23,19/01/02,Derby County,1-3,Ipswich Town
+23,19/01/02,Leicester City,0-0,Newcastle
+23,20/01/02,Chelsea,5-1,West Ham
+23,20/01/02,Leeds United,1-1,Arsenal
+23,21/01/02,Charlton Athletic,1-2,Aston Villa
+33,22/01/02,Manchester United,0-1,Liverpool
+21,23/01/02,Leicester City,1-3,Arsenal
+24,29/01/02,Charlton Athletic,1-0,Derby County
+24,29/01/02,Bolton,0-4,Manchester United
+24,29/01/02,Sunderland,0-1,Middlesbrough
+24,30/01/02,Liverpool,1-0,Leicester City
+24,30/01/02,Aston Villa,0-0,Everton
+24,30/01/02,Tottenham,1-3,Newcastle
+24,30/01/02,Blackburn Rovers,2-3,Arsenal
+24,30/01/02,Southampton,2-0,West Ham
+24,30/01/02,Ipswich Town,1-0,Fulham
+24,30/01/02,Chelsea,2-0,Leeds United
+25,01/02/02,Arsenal,1-1,Southampton
+25,01/02/02,Manchester United,4-1,Sunderland
+25,01/02/02,Newcastle,3-2,Bolton
+25,01/02/02,West Ham,2-0,Blackburn Rovers
+25,01/02/02,Fulham,0-0,Aston Villa
+25,01/02/02,Derby County,1-0,Tottenham
+25,01/02/02,Leicester City,2-3,Chelsea
+25,02/02/02,Everton,1-2,Ipswich Town
+25,02/02/02,Leeds United,0-4,Liverpool
+25,02/02/02,Middlesbrough,0-0,Charlton Athletic
+26,09/02/02,Newcastle,3-1,Southampton
+26,09/02/02,Aston Villa,1-1,Chelsea
+26,09/02/02,Tottenham,2-1,Leicester City
+26,09/02/02,Middlesbrough,2-2,Leeds United
+26,09/02/02,Fulham,2-0,Blackburn Rovers
+26,09/02/02,Bolton,1-0,West Ham
+26,09/02/02,Ipswich Town,0-6,Liverpool
+26,09/02/02,Derby County,0-1,Sunderland
+26,10/02/02,Charlton Athletic,0-2,Manchester United
+26,10/02/02,Everton,0-1,Arsenal
+18,19/02/02,Middlesbrough,2-1,Fulham
+27,23/02/02,Manchester United,1-0,Aston Villa
+27,23/02/02,Arsenal,4-1,Fulham
+27,23/02/02,Liverpool,1-1,Everton
+27,23/02/02,West Ham,1-0,Middlesbrough
+27,23/02/02,Southampton,0-0,Bolton
+27,23/02/02,Leicester City,0-3,Derby County
+27,24/02/02,Sunderland,0-1,Newcastle
+27,24/02/02,Leeds United,0-0,Charlton Athletic
+28,02/03/02,Aston Villa,2-1,West Ham
+28,02/03/02,Tottenham,2-1,Sunderland
+28,02/03/02,Middlesbrough,1-0,Leicester City
+28,02/03/02,Fulham,0-2,Liverpool
+28,02/03/02,Charlton Athletic,2-1,Chelsea
+28,02/03/02,Bolton,1-1,Blackburn Rovers
+28,02/03/02,Ipswich Town,1-3,Southampton
+28,02/03/02,Newcastle,0-2,Arsenal
+28,03/03/02,Everton,0-0,Leeds United
+28,03/03/02,Derby County,2-2,Manchester United
+29,05/03/02,Arsenal,1-0,Derby County
+29,05/03/02,Blackburn Rovers,3-0,Aston Villa
+29,05/03/02,Sunderland,1-0,Bolton
+29,06/03/02,Leeds United,2-0,Ipswich Town
+29,06/03/02,Chelsea,3-2,Fulham
+29,06/03/02,West Ham,1-0,Everton
+29,06/03/02,Southampton,1-1,Middlesbrough
+29,06/03/02,Liverpool,3-0,Newcastle
+29,06/03/02,Manchester United,4-0,Tottenham
+29,09/03/02,Leicester City,1-1,Charlton Athletic
+27,13/03/02,Chelsea,4-0,Tottenham
+27,13/03/02,Blackburn Rovers,2-1,Ipswich Town
+30,16/03/02,Middlesbrough,1-2,Liverpool
+30,16/03/02,Newcastle,2-2,Ipswich Town
+30,16/03/02,Chelsea,4-0,Sunderland
+30,16/03/02,West Ham,3-5,Manchester United
+30,16/03/02,Southampton,2-2,Leicester City
+30,16/03/02,Everton,2-1,Fulham
+30,16/03/02,Bolton,1-3,Derby County
+30,17/03/02,Leeds United,3-1,Blackburn Rovers
+30,17/03/02,Aston Villa,1-2,Arsenal

@@ -1,0 +1,195 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,21/05/16,Cuiabá,1-1,Remo
+B,22/05/16,Guarani,4-0,Guaratinguetá
+A,22/05/16,ASA,1-1,Confiança
+B,22/05/16,Boa Esporte,1-1,Tombense
+A,22/05/16,América-RN,1-0,ABC
+B,22/05/16,Botafogo-SP,1-0,Mogi Mirim
+B,23/05/16,Portuguesa,1-2,Macaé
+A,23/05/16,Fortaleza,1-1,River-PI
+B,23/05/16,Juventude,1-1,Ypiranga-RS
+A,25/05/16,Salgueiro,1-0,Botafogo-PB
+B,28/05/16,Tombense,1-1,Guarani
+B,28/05/16,Macaé,1-5,Boa Esporte
+A,28/05/16,Botafogo-PB,1-0,Cuiabá
+A,28/05/16,ABC,2-0,Salgueiro
+B,29/05/16,Mogi Mirim,0-0,Portuguesa
+B,29/05/16,Guaratinguetá,0-5,Juventude
+A,29/05/16,River-PI,2-3,América-RN
+B,29/05/16,Ypiranga-RS,2-1,Botafogo-SP
+A,29/05/16,Confiança,0-2,Fortaleza
+A,30/05/16,Remo,0-1,ASA
+B,04/06/16,Tombense,1-0,Macaé
+B,04/06/16,Portuguesa,3-1,Ypiranga-RS
+B,04/06/16,Juventude,0-2,Guarani
+B,05/06/16,Guaratinguetá,0-1,Mogi Mirim
+A,05/06/16,Botafogo-PB,2-0,ABC
+A,05/06/16,ASA,0-0,Salgueiro
+B,05/06/16,Botafogo-SP,2-0,Boa Esporte
+A,05/06/16,Cuiabá,3-0,Confiança
+A,05/06/16,River-PI,1-2,Remo
+A,06/06/16,América-RN,0-3,Fortaleza
+B,11/06/16,Mogi Mirim,1-1,Tombense
+A,11/06/16,Remo,0-0,Botafogo-PB
+A,11/06/16,ABC,0-0,Confiança
+B,12/06/16,Portuguesa,0-5,Botafogo-SP
+B,12/06/16,Ypiranga-RS,3-2,Guaratinguetá
+A,12/06/16,ASA,0-0,River-PI
+B,12/06/16,Guarani,1-0,Macaé
+A,12/06/16,Fortaleza,2-0,Cuiabá
+A,12/06/16,Salgueiro,2-0,América-RN
+B,13/06/16,Boa Esporte,2-1,Juventude
+B,18/06/16,Tombense,4-0,Ypiranga-RS
+B,18/06/16,Macaé,0-1,Mogi Mirim
+A,18/06/16,Fortaleza,0-1,ABC
+B,18/06/16,Juventude,1-2,Portuguesa
+B,19/06/16,Guarani,2-1,Boa Esporte
+A,19/06/16,América-RN,1-2,ASA
+A,19/06/16,Botafogo-PB,2-1,River-PI
+A,19/06/16,Cuiabá,0-0,Salgueiro
+A,19/06/16,Confiança,3-5,Remo
+B,20/06/16,Botafogo-SP,6-2,Guaratinguetá
+A,25/06/16,Remo,1-1,ABC
+A,25/06/16,América-RN,1-1,Botafogo-PB
+B,26/06/16,Botafogo-SP,1-1,Juventude
+B,26/06/16,Guaratinguetá,2-2,Tombense
+A,26/06/16,River-PI,1-2,Confiança
+A,26/06/16,ASA,1-0,Cuiabá
+B,26/06/16,Boa Esporte,1-1,Mogi Mirim
+B,26/06/16,Ypiranga-RS,2-0,Macaé
+A,26/06/16,Salgueiro,1-1,Fortaleza
+B,27/06/16,Portuguesa,0-0,Guarani
+B,02/07/16,Mogi Mirim,3-1,Ypiranga-RS
+B,02/07/16,Macaé,3-1,Guaratinguetá
+A,02/07/16,ABC,4-0,River-PI
+B,02/07/16,Guarani,0-0,Botafogo-SP
+B,03/07/16,Boa Esporte,1-0,Portuguesa
+A,03/07/16,Confiança,1-1,Botafogo-PB
+B,03/07/16,Juventude,3-0,Tombense
+A,03/07/16,Fortaleza,2-1,ASA
+A,03/07/16,Cuiabá,2-2,América-RN
+A,04/07/16,Salgueiro,1-0,Remo
+B,09/07/16,Macaé,1-2,Juventude
+B,09/07/16,Guaratinguetá,2-1,Portuguesa
+B,10/07/16,Tombense,3-1,Botafogo-SP
+B,10/07/16,Ypiranga-RS,1-0,Boa Esporte
+A,10/07/16,ABC,2-1,Cuiabá
+A,10/07/16,River-PI,1-0,Salgueiro
+A,10/07/16,Botafogo-PB,2-0,ASA
+A,10/07/16,Remo,2-0,Fortaleza
+A,10/07/16,Confiança,0-2,América-RN
+B,11/07/16,Mogi Mirim,1-0,Guarani
+A,16/07/16,América-RN,1-1,Remo
+B,16/07/16,Boa Esporte,4-0,Guaratinguetá
+A,16/07/16,ASA,2-1,ABC
+B,17/07/16,Guarani,2-1,Ypiranga-RS
+B,17/07/16,Juventude,2-1,Mogi Mirim
+A,17/07/16,Cuiabá,0-1,River-PI
+A,17/07/16,Salgueiro,1-1,Confiança
+B,17/07/16,Botafogo-SP,1-1,Macaé
+A,17/07/16,Fortaleza,1-0,Botafogo-PB
+B,18/07/16,Portuguesa,0-2,Tombense
+B,23/07/16,Mogi Mirim,0-0,Botafogo-SP
+A,23/07/16,River-PI,1-1,Fortaleza
+B,23/07/16,Macaé,1-0,Portuguesa
+A,23/07/16,ABC,1-0,América-RN
+B,24/07/16,Tombense,0-1,Boa Esporte
+B,24/07/16,Ypiranga-RS,0-0,Juventude
+A,24/07/16,Confiança,1-0,ASA
+B,24/07/16,Guaratinguetá,0-1,Guarani
+A,24/07/16,Botafogo-PB,2-0,Salgueiro
+A,25/07/16,Remo,2-0,Cuiabá
+B,30/07/16,Portuguesa,1-0,Mogi Mirim
+A,30/07/16,ASA,2-2,Remo
+B,31/07/16,Boa Esporte,2-0,Macaé
+B,31/07/16,Guarani,2-0,Tombense
+A,31/07/16,América-RN,1-1,River-PI
+A,31/07/16,Cuiabá,2-0,Botafogo-PB
+B,31/07/16,Juventude,4-0,Guaratinguetá
+A,31/07/16,Fortaleza,2-2,Confiança
+B,31/07/16,Botafogo-SP,1-0,Ypiranga-RS
+A,01/08/16,Salgueiro,1-0,ABC
+B,06/08/16,Macaé,0-0,Tombense
+A,06/08/16,Remo,1-0,River-PI
+B,07/08/16,Boa Esporte,0-0,Botafogo-SP
+B,07/08/16,Ypiranga-RS,1-0,Portuguesa
+B,07/08/16,Mogi Mirim,2-1,Guaratinguetá
+A,07/08/16,ABC,1-1,Botafogo-PB
+A,07/08/16,Salgueiro,0-1,ASA
+A,07/08/16,Confiança,1-1,Cuiabá
+A,07/08/16,Fortaleza,2-1,América-RN
+B,08/08/16,Guarani,1-1,Juventude
+A,13/08/16,América-RN,2-0,Salgueiro
+B,13/08/16,Macaé,2-4,Guarani
+A,13/08/16,Botafogo-PB,2-0,Remo
+B,14/08/16,Tombense,4-0,Mogi Mirim
+B,14/08/16,Guaratinguetá,1-3,Ypiranga-RS
+B,14/08/16,Juventude,1-1,Boa Esporte
+A,14/08/16,River-PI,0-0,ASA
+A,14/08/16,Confiança,1-1,ABC
+A,14/08/16,Cuiabá,2-0,Fortaleza
+B,15/08/16,Botafogo-SP,2-1,Portuguesa
+B,20/08/16,Portuguesa,1-2,Juventude
+B,20/08/16,Mogi Mirim,0-0,Macaé
+A,20/08/16,River-PI,2-2,Botafogo-PB
+A,20/08/16,ABC,2-1,Fortaleza
+B,21/08/16,Guaratinguetá,0-4,Botafogo-SP
+A,21/08/16,Salgueiro,2-2,Cuiabá
+B,21/08/16,Ypiranga-RS,2-1,Tombense
+A,21/08/16,ASA,2-0,América-RN
+B,21/08/16,Boa Esporte,1-0,Guarani
+A,22/08/16,Remo,2-0,Confiança
+B,27/08/16,Mogi Mirim,0-0,Boa Esporte
+A,27/08/16,Fortaleza,3-1,Salgueiro
+B,27/08/16,Macaé,0-2,Ypiranga-RS
+A,27/08/16,Botafogo-PB,1-2,América-RN
+B,28/08/16,Tombense,2-1,Guaratinguetá
+A,28/08/16,Cuiabá,2-0,ASA
+A,28/08/16,Confiança,4-1,River-PI
+B,28/08/16,Juventude,0-0,Botafogo-SP
+B,28/08/16,Guarani,1-0,Portuguesa
+A,29/08/16,ABC,2-0,Remo
+B,03/09/16,Tombense,3-0,Juventude
+B,04/09/16,Portuguesa,0-2,Boa Esporte
+B,04/09/16,Guaratinguetá,0-3,Macaé
+A,04/09/16,América-RN,0-1,Cuiabá
+A,04/09/16,Botafogo-PB,2-1,Confiança
+A,04/09/16,ASA,1-1,Fortaleza
+B,04/09/16,Ypiranga-RS,0-0,Mogi Mirim
+A,04/09/16,Remo,1-1,Salgueiro
+A,05/09/16,River-PI,0-2,ABC
+B,05/09/16,Botafogo-SP,1-2,Guarani
+A,10/09/16,América-RN,0-2,Confiança
+B,10/09/16,Botafogo-SP,1-0,Tombense
+A,10/09/16,Fortaleza,4-1,Remo
+B,11/09/16,Boa Esporte,2-0,Ypiranga-RS
+B,11/09/16,Juventude,2-1,Macaé
+A,11/09/16,Cuiabá,2-2,ABC
+A,11/09/16,Salgueiro,1-0,River-PI
+A,11/09/16,ASA,0-0,Botafogo-PB
+B,11/09/16,Portuguesa,3-1,Guaratinguetá
+B,12/09/16,Guarani,1-0,Mogi Mirim
+B,18/09/16,Mogi Mirim,1-2,Juventude
+B,18/09/16,Macaé,1-1,Botafogo-SP
+B,18/09/16,Tombense,2-0,Portuguesa
+B,18/09/16,Guaratinguetá,0-4,Boa Esporte
+B,18/09/16,Ypiranga-RS,2-2,Guarani
+A,18/09/16,ABC,2-2,ASA
+A,18/09/16,Remo,0-0,América-RN
+A,18/09/16,River-PI,0-0,Cuiabá
+A,18/09/16,Botafogo-PB,0-0,Fortaleza
+A,18/09/16,Confiança,2-1,Salgueiro
+QF,30/09/16,Botafogo-SP,0-0,ABC
+QF,30/09/16,Botafogo-PB,0-0,Boa Esporte
+QF,01/10/16,ASA,3-1,Guarani
+QF,03/10/16,Juventude,0-0,Fortaleza
+QF,07/10/16,ABC,1-0,Botafogo-SP
+QF,08/10/16,Guarani,3-0,ASA
+QF,09/10/16,Boa Esporte,1-0,Botafogo-PB
+QF,09/10/16,Fortaleza,1-1,Juventude
+SF,15/10/16,Juventude,1-2,Boa Esporte
+SF,16/10/16,ABC,4-0,Guarani
+SF,22/10/16,Boa Esporte,2-1,Juventude
+SF,23/10/16,Guarani,6-0,ABC
+F,29/10/16,Guarani,1-1,Boa Esporte
+F,05/11/16,Boa Esporte,3-0,Guarani

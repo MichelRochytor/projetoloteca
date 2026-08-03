@@ -1,0 +1,203 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/01/13,São Paulo,2-0,Mirassol
+1,19/01/13,União Barbarense,1-1,XV de Piracicaba
+1,19/01/13,Linense,2-1,Guarani
+1,19/01/13,Atlético Sorocaba,1-2,São Caetano
+1,19/01/13,Penapolense,3-0,Ituano
+1,19/01/13,São Bernardo,1-3,Santos
+1,20/01/13,Paulista,1-1,Corinthians
+1,20/01/13,Palmeiras,0-0,Bragantino
+1,20/01/13,Ponte Preta,0-0,Mogi Mirim
+1,20/01/13,Botafogo-SP,2-0,Oeste
+2,23/01/13,Bragantino,2-2,Linense
+2,23/01/13,Corinthians,0-1,Ponte Preta
+2,23/01/13,Guarani,0-0,São Bernardo
+2,23/01/13,Ituano,0-0,Atlético Sorocaba
+2,23/01/13,Santos,3-0,Botafogo-SP
+2,23/01/13,Oeste,1-3,Palmeiras
+2,24/01/13,Mirassol,1-2,União Barbarense
+2,24/01/13,Mogi Mirim,3-0,Penapolense
+2,24/01/13,XV de Piracicaba,2-1,Paulista
+3,26/01/13,São Paulo,2-1,Atlético Sorocaba
+3,26/01/13,Guarani,1-3,Ponte Preta
+3,26/01/13,Linense,0-0,Ituano
+3,26/01/13,Oeste,1-1,São Caetano
+3,27/01/13,Mirassol,0-1,Corinthians
+3,27/01/13,Palmeiras,2-3,Penapolense
+3,27/01/13,Bragantino,2-2,Santos
+3,27/01/13,Botafogo-SP,2-0,São Bernardo
+3,27/01/13,Paulista,1-0,União Barbarense
+3,27/01/13,Mogi Mirim,4-2,XV de Piracicaba
+4,30/01/13,Paulista,1-1,Mirassol
+4,30/01/13,São Caetano,0-2,Linense
+4,30/01/13,Penapolense,2-0,XV de Piracicaba
+4,30/01/13,Ponte Preta,1-0,Oeste
+4,30/01/13,Ituano,0-1,Santos
+4,30/01/13,Corinthians,2-1,Mogi Mirim
+4,31/01/13,Palmeiras,3-0,São Bernardo
+4,31/01/13,Guarani,1-3,Bragantino
+4,31/01/13,Atlético Sorocaba,2-2,Botafogo-SP
+5,02/02/13,Mirassol,0-1,Ituano
+5,02/02/13,Linense,3-0,Paulista
+5,02/02/13,Ponte Preta,2-0,Penapolense
+5,03/02/13,Santos,3-1,São Paulo
+5,03/02/13,Corinthians,5-0,Oeste
+5,03/02/13,XV de Piracicaba,3-3,Palmeiras
+5,03/02/13,Mogi Mirim,4-1,Bragantino
+5,03/02/13,Botafogo-SP,3-1,Guarani
+5,03/02/13,São Bernardo,4-1,São Caetano
+5,03/02/13,Atlético Sorocaba,4-0,União Barbarense
+6,06/02/13,Penapolense,2-1,União Barbarense
+6,06/02/13,Mogi Mirim,0-1,Ituano
+6,06/02/13,Bragantino,1-2,Mirassol
+6,06/02/13,Linense,2-2,Santos
+6,06/02/13,São Bernardo,0-3,XV de Piracicaba
+6,06/02/13,Guarani,3-1,São Caetano
+6,06/02/13,Paulista,0-0,Oeste
+6,06/02/13,Botafogo-SP,0-0,Corinthians
+6,06/02/13,São Paulo,0-0,Ponte Preta
+6,07/02/13,Palmeiras,2-0,Atlético Sorocaba
+7,09/02/13,Corinthians,2-2,São Caetano
+7,09/02/13,Guarani,1-2,São Paulo
+7,09/02/13,Bragantino,3-2,São Bernardo
+7,09/02/13,Ituano,3-3,Ponte Preta
+7,09/02/13,União Barbarense,1-1,Botafogo-SP
+7,09/02/13,Oeste,2-1,Mirassol
+7,10/02/13,Santos,1-3,Paulista
+7,10/02/13,Penapolense,1-1,Atlético Sorocaba
+7,10/02/13,Mogi Mirim,2-2,Palmeiras
+7,13/02/13,XV de Piracicaba,1-1,Linense
+8,16/02/13,XV de Piracicaba,2-3,Guarani
+8,16/02/13,União Barbarense,1-2,Mogi Mirim
+8,16/02/13,São Paulo,3-2,Ituano
+8,16/02/13,São Caetano,1-2,Bragantino
+8,16/02/13,Mirassol,4-3,Botafogo-SP
+8,16/02/13,São Bernardo,0-0,Paulista
+8,17/02/13,Corinthians,2-2,Palmeiras
+8,17/02/13,Ponte Preta,3-1,Santos
+8,17/02/13,Oeste,2-0,Penapolense
+8,17/02/13,Atlético Sorocaba,2-3,Linense
+2,20/02/13,São Caetano,2-4,São Paulo
+9,22/02/13,Mogi Mirim,1-0,Oeste
+9,22/02/13,Paulista,3-1,Atlético Sorocaba
+9,23/02/13,São Paulo,3-0,Linense
+9,23/02/13,Mirassol,3-0,São Caetano
+9,23/02/13,Botafogo-SP,1-0,Penapolense
+9,24/02/13,Bragantino,2-2,Corinthians
+9,24/02/13,Palmeiras,1-0,União Barbarense
+9,24/02/13,Santos,2-1,XV de Piracicaba
+9,24/02/13,Ituano,2-2,Guarani
+9,24/02/13,Ponte Preta,1-1,São Bernardo
+10,01/03/13,Oeste,2-0,União Barbarense
+10,01/03/13,XV de Piracicaba,2-2,Mirassol
+10,02/03/13,Bragantino,1-2,Atlético Sorocaba
+10,02/03/13,Linense,0-0,Ponte Preta
+10,02/03/13,São Caetano,0-1,Botafogo-SP
+10,03/03/13,Santos,0-0,Corinthians
+10,03/03/13,Penapolense,0-2,São Paulo
+10,03/03/13,Guarani,0-2,Mogi Mirim
+10,03/03/13,São Bernardo,2-0,Ituano
+11,08/03/13,União Barbarense,0-0,Bragantino
+11,08/03/13,Oeste,3-0,XV de Piracicaba
+11,09/03/13,Corinthians,3-2,Ituano
+11,09/03/13,Penapolense,2-0,Paulista
+11,09/03/13,Botafogo-SP,2-0,Mogi Mirim
+11,10/03/13,São Paulo,0-0,Palmeiras
+11,10/03/13,São Bernardo,2-0,Linense
+11,10/03/13,Atlético Sorocaba,1-2,Santos
+11,10/03/13,Ponte Preta,3-1,São Caetano
+11,10/03/13,Mirassol,1-1,Guarani
+10,14/03/13,Palmeiras,2-1,Paulista
+12,15/03/13,Ituano,2-1,XV de Piracicaba
+12,15/03/13,Mogi Mirim,2-3,Linense
+12,16/03/13,Santos,2-1,Guarani
+12,16/03/13,Mirassol,3-4,São Bernardo
+12,16/03/13,Bragantino,3-2,Penapolense
+12,16/03/13,Corinthians,3-0,União Barbarense
+12,17/03/13,São Caetano,1-1,Palmeiras
+12,17/03/13,São Paulo,3-2,Oeste
+12,17/03/13,Ponte Preta,2-1,Atlético Sorocaba
+12,17/03/13,Paulista,1-1,Botafogo-SP
+13,20/03/13,Atlético Sorocaba,1-3,Mogi Mirim
+13,20/03/13,Palmeiras,2-0,Botafogo-SP
+13,20/03/13,Oeste,2-2,Bragantino
+13,20/03/13,Linense,1-1,Penapolense
+13,20/03/13,XV de Piracicaba,1-1,Corinthians
+13,20/03/13,São Bernardo,1-2,São Paulo
+13,21/03/13,União Barbarense,1-1,Ponte Preta
+13,21/03/13,São Caetano,3-0,Ituano
+13,21/03/13,Guarani,1-2,Paulista
+13,21/03/13,Santos,2-1,Mirassol
+14,23/03/13,Penapolense,3-0,São Bernardo
+14,23/03/13,Botafogo-SP,3-0,Linense
+14,23/03/13,São Paulo,2-0,Bragantino
+14,23/03/13,Atlético Sorocaba,0-1,XV de Piracicaba
+14,24/03/13,Palmeiras,0-0,Santos
+14,24/03/13,Guarani,0-1,Corinthians
+14,24/03/13,Paulista,0-1,Ponte Preta
+14,24/03/13,Mogi Mirim,3-1,Mirassol
+14,24/03/13,Ituano,1-2,Oeste
+14,24/03/13,União Barbarense,0-0,São Caetano
+15,27/03/13,Mirassol,6-2,Palmeiras
+15,27/03/13,São Caetano,2-2,XV de Piracicaba
+15,27/03/13,Ponte Preta,1-0,Botafogo-SP
+15,27/03/13,Bragantino,1-0,Ituano
+15,27/03/13,Linense,2-3,União Barbarense
+15,27/03/13,Corinthians,1-1,Penapolense
+15,27/03/13,Paulista,0-2,São Paulo
+15,28/03/13,Santos,2-2,Mogi Mirim
+15,28/03/13,São Bernardo,2-2,Atlético Sorocaba
+15,28/03/13,Oeste,2-2,Guarani
+16,30/03/13,Bragantino,2-1,Paulista
+16,30/03/13,XV de Piracicaba,2-2,Ponte Preta
+16,30/03/13,Palmeiras,2-1,Linense
+16,30/03/13,Mirassol,0-1,Penapolense
+16,30/03/13,Ituano,1-2,Botafogo-SP
+16,31/03/13,São Paulo,1-2,Corinthians
+16,31/03/13,Guarani,0-3,Atlético Sorocaba
+16,31/03/13,Oeste,1-2,Santos
+16,31/03/13,São Caetano,0-2,Mogi Mirim
+16,31/03/13,União Barbarense,0-0,São Bernardo
+17,03/04/13,XV de Piracicaba,2-0,Bragantino
+17,03/04/13,Ituano,0-0,União Barbarense
+17,04/04/13,Santos,1-1,São Caetano
+17,06/04/13,Penapolense,3-0,Guarani
+17,06/04/13,Linense,3-1,Oeste
+17,06/04/13,Mogi Mirim,2-0,Paulista
+17,07/04/13,Corinthians,2-0,São Bernardo
+17,07/04/13,Ponte Preta,1-2,Palmeiras
+17,07/04/13,Botafogo-SP,1-3,São Paulo
+17,07/04/13,Atlético Sorocaba,3-2,Mirassol
+4,10/04/13,União Barbarense,1-2,São Paulo
+18,12/04/13,Paulista,2-3,Ituano
+18,12/04/13,Atlético Sorocaba,1-0,Oeste
+18,13/04/13,Penapolense,1-1,São Caetano
+18,13/04/13,União Barbarense,0-4,Santos
+18,13/04/13,São Paulo,0-1,XV de Piracicaba
+18,14/04/13,Palmeiras,4-1,Guarani
+18,14/04/13,Linense,2-1,Corinthians
+18,14/04/13,Botafogo-SP,1-0,Bragantino
+18,14/04/13,Ponte Preta,2-0,Mirassol
+18,14/04/13,São Bernardo,1-2,Mogi Mirim
+19,21/04/13,Santos,2-1,Penapolense
+19,21/04/13,Corinthians,2-0,Atlético Sorocaba
+19,21/04/13,Ituano,2-1,Palmeiras
+19,21/04/13,Mogi Mirim,1-0,São Paulo
+19,21/04/13,Bragantino,0-0,Ponte Preta
+19,21/04/13,Mirassol,3-0,Linense
+19,21/04/13,Oeste,0-4,São Bernardo
+19,21/04/13,São Caetano,0-2,Paulista
+19,21/04/13,Guarani,1-3,União Barbarense
+19,21/04/13,XV de Piracicaba,4-1,Botafogo-SP
+QF,27/04/13,Santos,1-1(4-2 Pen.),Palmeiras
+QF,27/04/13,Mogi Mirim,6-0,Botafogo-SP
+QF,28/04/13,Ponte Preta,0-4,Corinthians
+QF,28/04/13,São Paulo,1-0,Penapolense
+SF,04/05/13,Botafogo-SP,1-4,Penapolense
+SF,04/05/13,Mogi Mirim,1-1(4-5 Pen.),Santos
+SF,05/05/13,São Paulo,0-0(3-4 Pen.),Corinthians
+SF,05/05/13,Ponte Preta,1-0,Linense
+F,12/05/13,Corinthians,2-1,Santos
+,12/05/13,Penapolense,0-0,Ponte Preta
+,18/05/13,Ponte Preta,4-2,Penapolense
+F,19/05/13,Santos,1-1,Corinthians

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,03/09/93,Osasuna,1-4,Real Madrid
+1,04/09/93,Barcelona,3-0,Real Sociedad
+1,04/09/93,Deportivo,0-0,Celta de Vigo
+1,04/09/93,Real Zaragoza,1-2,Sevilla
+1,04/09/93,Athletic Bilbao,4-1,Albacete
+1,04/09/93,Racing Santander,1-0,Rayo Vallecano
+1,04/09/93,Real Oviedo,0-3,Valencia
+1,04/09/93,Tenerife,1-0,Lleida
+1,04/09/93,Atlético de Madrid,1-0,CD Logroñés
+1,04/09/93,Valladolid,0-1,Sporting Gijón
+2,10/09/93,Valencia,2-2,Atlético de Madrid
+2,10/09/93,Albacete,0-0,Barcelona
+2,10/09/93,Sporting Gijón,0-2,Deportivo
+2,11/09/93,Real Madrid,1-3,Valladolid
+2,11/09/93,Sevilla,1-1,Osasuna
+2,11/09/93,Real Sociedad,2-2,Real Zaragoza
+2,11/09/93,Celta de Vigo,1-1,Real Oviedo
+2,11/09/93,CD Logroñés,0-1,Racing Santander
+2,11/09/93,Rayo Vallecano,4-3,Tenerife
+2,11/09/93,Lleida,1-2,Athletic Bilbao
+3,17/09/93,Deportivo,4-0,Real Madrid
+3,17/09/93,Valladolid,2-2,Sevilla
+3,18/09/93,Real Zaragoza,1-1,Albacete
+3,18/09/93,Athletic Bilbao,0-0,Barcelona
+3,18/09/93,Racing Santander,0-1,Valencia
+3,18/09/93,Real Oviedo,0-1,Sporting Gijón
+3,18/09/93,Tenerife,2-0,CD Logroñés
+3,18/09/93,Atlético de Madrid,3-2,Celta de Vigo
+3,18/09/93,Lleida,0-1,Rayo Vallecano
+3,18/09/93,Osasuna,0-2,Real Sociedad
+4,24/09/93,Sevilla,0-0,Deportivo
+4,24/09/93,Valencia,3-2,Tenerife
+4,24/09/93,Sporting Gijón,1-1,Atlético de Madrid
+4,24/09/93,CD Logroñés,2-1,Lleida
+4,25/09/93,Barcelona,4-1,Real Zaragoza
+4,25/09/93,Real Madrid,0-1,Real Oviedo
+4,25/09/93,Real Sociedad,1-0,Valladolid
+4,25/09/93,Albacete,2-1,Osasuna
+4,25/09/93,Celta de Vigo,0-0,Racing Santander
+4,25/09/93,Rayo Vallecano,1-2,Athletic Bilbao
+5,01/10/93,Atlético de Madrid,0-0,Real Madrid
+5,02/10/93,Deportivo,0-1,Real Sociedad
+5,02/10/93,Athletic Bilbao,2-1,Real Zaragoza
+5,02/10/93,Racing Santander,2-0,Sporting Gijón
+5,02/10/93,Real Oviedo,0-2,Sevilla
+5,02/10/93,Tenerife,0-0,Celta de Vigo
+5,02/10/93,Rayo Vallecano,3-1,CD Logroñés
+5,02/10/93,Valladolid,1-0,Albacete
+5,02/10/93,Lleida,1-1,Valencia
+5,02/10/93,Osasuna,2-3,Barcelona
+6,05/10/93,Barcelona,3-0,Valladolid
+6,05/10/93,Real Zaragoza,2-1,Osasuna
+6,05/10/93,Real Madrid,2-1,Racing Santander
+6,05/10/93,Sevilla,2-1,Atlético de Madrid
+6,05/10/93,Valencia,3-1,Rayo Vallecano
+6,05/10/93,Real Sociedad,2-2,Real Oviedo
+6,05/10/93,Albacete,0-0,Deportivo
+6,05/10/93,Sporting Gijón,1-2,Tenerife
+6,05/10/93,Celta de Vigo,1-0,Lleida
+6,06/10/93,CD Logroñés,4-2,Athletic Bilbao
+7,15/10/93,Deportivo,1-0,Barcelona
+7,15/10/93,Tenerife,0-0,Real Madrid
+7,15/10/93,Atlético de Madrid,1-2,Real Sociedad
+7,16/10/93,Athletic Bilbao,1-2,Osasuna
+7,16/10/93,Racing Santander,1-0,Sevilla
+7,16/10/93,Real Oviedo,1-1,Albacete
+7,16/10/93,CD Logroñés,2-0,Valencia
+7,16/10/93,Rayo Vallecano,1-1,Celta de Vigo
+7,16/10/93,Valladolid,0-0,Real Zaragoza
+7,16/10/93,Lleida,1-1,Sporting Gijón
+8,22/10/93,Valencia,1-0,Athletic Bilbao
+8,23/10/93,Barcelona,1-0,Real Oviedo
+8,23/10/93,Real Zaragoza,0-1,Deportivo
+8,23/10/93,Real Madrid,5-0,Lleida
+8,23/10/93,Sevilla,4-0,Tenerife
+8,23/10/93,Real Sociedad,2-0,Racing Santander
+8,23/10/93,Albacete,2-2,Atlético de Madrid
+8,23/10/93,Sporting Gijón,2-0,Rayo Vallecano
+8,23/10/93,Celta de Vigo,2-0,CD Logroñés
+8,23/10/93,Osasuna,2-0,Valladolid
+9,29/10/93,Deportivo,3-1,Osasuna
+9,29/10/93,Valencia,3-0,Celta de Vigo
+9,29/10/93,Atlético de Madrid,4-3,Barcelona
+9,30/10/93,Athletic Bilbao,3-0,Valladolid
+9,30/10/93,Racing Santander,1-1,Albacete
+9,30/10/93,Real Oviedo,2-1,Real Zaragoza
+9,30/10/93,Tenerife,2-1,Real Sociedad
+9,30/10/93,CD Logroñés,1-2,Sporting Gijón
+9,30/10/93,Rayo Vallecano,0-2,Real Madrid
+9,30/10/93,Lleida,0-3,Sevilla
+10,05/11/93,Real Zaragoza,2-1,Atlético de Madrid
+10,06/11/93,Barcelona,2-1,Racing Santander
+10,06/11/93,Real Madrid,2-1,CD Logroñés
+10,06/11/93,Sevilla,3-1,Rayo Vallecano
+10,06/11/93,Real Sociedad,1-3,Lleida
+10,06/11/93,Albacete,2-3,Tenerife
+10,06/11/93,Sporting Gijón,2-0,Valencia
+10,06/11/93,Celta de Vigo,1-1,Athletic Bilbao
+10,06/11/93,Valladolid,0-0,Deportivo
+10,06/11/93,Osasuna,2-0,Real Oviedo
+11,09/11/93,Athletic Bilbao,3-1,Deportivo
+11,09/11/93,Racing Santander,2-0,Real Zaragoza
+11,09/11/93,Real Oviedo,1-0,Valladolid
+11,09/11/93,Tenerife,2-3,Barcelona
+11,09/11/93,Atlético de Madrid,3-0,Osasuna
+11,09/11/93,Celta de Vigo,0-2,Sporting Gijón
+11,09/11/93,CD Logroñés,1-1,Sevilla
+11,09/11/93,Rayo Vallecano,4-1,Real Sociedad
+11,09/11/93,Lleida,0-1,Albacete
+11,10/11/93,Valencia,0-3,Real Madrid
+12,19/11/93,Barcelona,0-1,Lleida
+12,19/11/93,Deportivo,4-0,Real Oviedo
+12,19/11/93,Real Zaragoza,6-2,Tenerife
+12,19/11/93,Sevilla,0-1,Valencia
+12,20/11/93,Real Madrid,2-1,Celta de Vigo
+12,20/11/93,Real Sociedad,2-2,CD Logroñés
+12,20/11/93,Albacete,1-1,Rayo Vallecano
+12,20/11/93,Sporting Gijón,0-1,Athletic Bilbao
+12,20/11/93,Valladolid,1-1,Atlético de Madrid
+12,20/11/93,Osasuna,0-0,Racing Santander
+13,26/11/93,Atlético de Madrid,0-1,Deportivo
+13,27/11/93,Athletic Bilbao,1-1,Real Oviedo
+13,27/11/93,Valencia,0-0,Real Sociedad
+13,27/11/93,Racing Santander,5-1,Valladolid
+13,27/11/93,Tenerife,1-0,Osasuna
+13,27/11/93,Sporting Gijón,2-1,Real Madrid
+13,27/11/93,Celta de Vigo,2-1,Sevilla
+13,27/11/93,CD Logroñés,2-2,Albacete
+13,27/11/93,Rayo Vallecano,2-4,Barcelona
+13,27/11/93,Lleida,0-1,Real Zaragoza
+14,03/12/93,Barcelona,2-2,CD Logroñés
+14,03/12/93,Deportivo,1-0,Racing Santander
+14,03/12/93,Real Oviedo,1-1,Atlético de Madrid
+14,03/12/93,Valladolid,2-0,Tenerife
+14,04/12/93,Real Zaragoza,4-1,Rayo Vallecano
+14,04/12/93,Real Madrid,2-1,Athletic Bilbao
+14,04/12/93,Sevilla,1-2,Sporting Gijón
+14,04/12/93,Real Sociedad,2-1,Celta de Vigo
+14,04/12/93,Albacete,3-1,Valencia
+14,04/12/93,Osasuna,1-0,Lleida
+15,10/12/93,Valencia,0-4,Barcelona
+15,11/12/93,Real Madrid,0-0,Sevilla
+15,11/12/93,Athletic Bilbao,3-2,Atlético de Madrid
+15,11/12/93,Racing Santander,1-2,Real Oviedo
+15,11/12/93,Tenerife,0-1,Deportivo
+15,11/12/93,Sporting Gijón,3-2,Real Sociedad
+15,11/12/93,Celta de Vigo,1-4,Albacete
+15,11/12/93,CD Logroñés,2-2,Real Zaragoza
+15,11/12/93,Rayo Vallecano,1-0,Osasuna
+15,11/12/93,Lleida,1-0,Valladolid
+16,17/12/93,Sevilla,1-3,Athletic Bilbao
+16,18/12/93,Barcelona,1-0,Celta de Vigo
+16,18/12/93,Deportivo,2-0,Lleida
+16,18/12/93,Real Zaragoza,1-0,Valencia
+16,18/12/93,Real Oviedo,1-0,Tenerife
+16,18/12/93,Real Sociedad,2-0,Real Madrid
+16,18/12/93,Atlético de Madrid,4-0,Racing Santander
+16,18/12/93,Albacete,3-1,Sporting Gijón
+16,18/12/93,Valladolid,1-3,Rayo Vallecano
+16,18/12/93,Osasuna,1-3,CD Logroñés
+17,31/12/93,Rayo Vallecano,0-0,Deportivo
+17,01/01/94,Real Madrid,2-0,Albacete
+17,01/01/94,Athletic Bilbao,1-2,Racing Santander
+17,01/01/94,Sevilla,1-0,Real Sociedad
+17,01/01/94,Valencia,0-0,Osasuna
+17,01/01/94,Tenerife,1-1,Atlético de Madrid
+17,01/01/94,Sporting Gijón,2-0,Barcelona
+17,01/01/94,Celta de Vigo,1-0,Real Zaragoza
+17,01/01/94,CD Logroñés,0-0,Valladolid
+17,01/01/94,Lleida,1-1,Real Oviedo
+18,08/01/94,Barcelona,5-0,Real Madrid
+18,08/01/94,Deportivo,3-0,CD Logroñés
+18,08/01/94,Real Zaragoza,3-0,Sporting Gijón
+18,08/01/94,Athletic Bilbao,0-0,Real Sociedad
+18,08/01/94,Racing Santander,1-0,Tenerife
+18,08/01/94,Real Oviedo,5-0,Rayo Vallecano
+18,08/01/94,Atlético de Madrid,0-0,Lleida
+18,08/01/94,Albacete,2-2,Sevilla
+18,08/01/94,Valladolid,1-1,Valencia
+18,08/01/94,Osasuna,0-1,Celta de Vigo
+19,14/01/94,Valencia,1-3,Deportivo
+19,15/01/94,Real Madrid,3-2,Real Zaragoza
+19,15/01/94,Sevilla,0-0,Barcelona
+19,15/01/94,Tenerife,2-1,Athletic Bilbao
+19,15/01/94,Real Sociedad,1-1,Albacete
+19,15/01/94,Sporting Gijón,7-1,Osasuna
+19,15/01/94,Celta de Vigo,1-2,Valladolid
+19,15/01/94,CD Logroñés,2-2,Real Oviedo
+19,15/01/94,Rayo Vallecano,2-1,Atlético de Madrid
+19,15/01/94,Lleida,0-0,Racing Santander
+20,21/01/94,Real Sociedad,2-1,Barcelona
+20,22/01/94,Real Madrid,0-0,Osasuna
+20,22/01/94,Sevilla,0-1,Real Zaragoza
+20,22/01/94,Valencia,2-2,Real Oviedo
+20,22/01/94,Albacete,1-0,Athletic Bilbao
+20,22/01/94,Sporting Gijón,2-0,Valladolid
+20,22/01/94,Celta de Vigo,0-0,Deportivo
+20,22/01/94,CD Logroñés,1-0,Atlético de Madrid
+20,22/01/94,Rayo Vallecano,1-1,Racing Santander
+20,22/01/94,Lleida,1-1,Tenerife
+21,28/01/94,Atlético de Madrid,2-0,Valencia
+21,29/01/94,Barcelona,2-1,Albacete
+21,29/01/94,Deportivo,2-1,Sporting Gijón
+21,29/01/94,Real Zaragoza,3-0,Real Sociedad
+21,29/01/94,Athletic Bilbao,4-0,Lleida
+21,29/01/94,Racing Santander,0-0,CD Logroñés
+21,29/01/94,Real Oviedo,1-0,Celta de Vigo
+21,29/01/94,Tenerife,3-1,Rayo Vallecano
+21,29/01/94,Valladolid,0-0,Real Madrid
+21,29/01/94,Osasuna,0-0,Sevilla
+22,04/02/94,Real Madrid,2-0,Deportivo
+22,05/02/94,Barcelona,2-3,Athletic Bilbao
+22,05/02/94,Sevilla,3-3,Valladolid
+22,05/02/94,Valencia,2-1,Racing Santander
+22,05/02/94,Real Sociedad,1-0,Osasuna
+22,05/02/94,Albacete,2-1,Real Zaragoza
+22,05/02/94,Sporting Gijón,0-0,Real Oviedo
+22,05/02/94,Celta de Vigo,3-2,Atlético de Madrid
+22,05/02/94,CD Logroñés,1-2,Tenerife
+22,05/02/94,Rayo Vallecano,1-2,Lleida
+23,11/02/94,Deportivo,2-0,Sevilla
+23,12/02/94,Real Zaragoza,6-3,Barcelona
+23,12/02/94,Athletic Bilbao,0-0,Rayo Vallecano
+23,12/02/94,Racing Santander,2-1,Celta de Vigo
+23,12/02/94,Real Oviedo,0-1,Real Madrid
+23,12/02/94,Tenerife,1-0,Valencia
+23,12/02/94,Atlético de Madrid,2-0,Sporting Gijón
+23,12/02/94,Valladolid,0-0,Real Sociedad
+23,12/02/94,Lleida,1-1,CD Logroñés
+23,12/02/94,Osasuna,3-1,Albacete
+24,18/02/94,Barcelona,8-1,Osasuna
+24,18/02/94,Real Madrid,1-0,Atlético de Madrid
+24,19/02/94,Real Zaragoza,1-0,Athletic Bilbao
+24,19/02/94,Sevilla,2-0,Real Oviedo
+24,19/02/94,Valencia,3-3,Lleida
+24,19/02/94,Real Sociedad,0-1,Deportivo
+24,19/02/94,Albacete,1-1,Valladolid
+24,19/02/94,Sporting Gijón,0-2,Racing Santander
+24,19/02/94,Celta de Vigo,1-0,Tenerife
+24,19/02/94,CD Logroñés,1-1,Rayo Vallecano
+25,21/02/94,Valladolid,1-3,Barcelona
+25,22/02/94,Deportivo,5-1,Albacete
+25,22/02/94,Athletic Bilbao,0-0,CD Logroñés
+25,22/02/94,Racing Santander,1-3,Real Madrid
+25,22/02/94,Real Oviedo,2-1,Real Sociedad
+25,22/02/94,Tenerife,3-0,Sporting Gijón
+25,22/02/94,Atlético de Madrid,2-4,Sevilla
+25,22/02/94,Lleida,0-0,Celta de Vigo
+25,22/02/94,Osasuna,0-0,Real Zaragoza
+25,23/02/94,Rayo Vallecano,1-1,Valencia
+26,25/02/94,Barcelona,3-0,Deportivo
+26,26/02/94,Real Zaragoza,2-0,Valladolid
+26,26/02/94,Real Madrid,1-1,Tenerife
+26,26/02/94,Sevilla,2-1,Racing Santander
+26,26/02/94,Valencia,3-1,CD Logroñés
+26,26/02/94,Real Sociedad,2-1,Atlético de Madrid
+26,26/02/94,Albacete,5-0,Real Oviedo
+26,26/02/94,Sporting Gijón,1-1,Lleida
+26,26/02/94,Celta de Vigo,0-0,Rayo Vallecano
+26,26/02/94,Osasuna,0-0,Athletic Bilbao
+27,04/03/94,Athletic Bilbao,2-1,Valencia
+27,04/03/94,Tenerife,2-1,Sevilla
+27,05/03/94,Deportivo,1-1,Real Zaragoza
+27,05/03/94,Racing Santander,4-1,Real Sociedad
+27,05/03/94,Real Oviedo,1-3,Barcelona
+27,05/03/94,Atlético de Madrid,0-0,Albacete
+27,05/03/94,CD Logroñés,1-1,Celta de Vigo
+27,05/03/94,Rayo Vallecano,2-1,Sporting Gijón
+27,05/03/94,Valladolid,2-1,Osasuna
+27,05/03/94,Lleida,2-1,Real Madrid
+28,11/03/94,Barcelona,5-3,Atlético de Madrid
+28,11/03/94,Real Madrid,5-2,Rayo Vallecano
+28,12/03/94,Real Zaragoza,2-1,Real Oviedo
+28,12/03/94,Sevilla,2-1,Lleida
+28,12/03/94,Real Sociedad,2-1,Tenerife
+28,12/03/94,Albacete,3-0,Racing Santander
+28,12/03/94,Sporting Gijón,1-2,CD Logroñés
+28,12/03/94,Celta de Vigo,1-2,Valencia
+28,12/03/94,Valladolid,1-1,Athletic Bilbao
+28,12/03/94,Osasuna,0-0,Deportivo
+29,18/03/94,Racing Santander,1-1,Barcelona
+29,19/03/94,Deportivo,0-0,Valladolid
+29,19/03/94,Athletic Bilbao,2-1,Celta de Vigo
+29,19/03/94,Valencia,1-0,Sporting Gijón
+29,19/03/94,Real Oviedo,1-0,Osasuna
+29,19/03/94,Tenerife,2-1,Albacete
+29,19/03/94,Atlético de Madrid,0-4,Real Zaragoza
+29,19/03/94,CD Logroñés,3-4,Real Madrid
+29,19/03/94,Rayo Vallecano,2-1,Sevilla
+29,19/03/94,Lleida,1-0,Real Sociedad
+30,25/03/94,Barcelona,2-1,Tenerife
+30,25/03/94,Real Madrid,3-2,Valencia
+30,25/03/94,Sevilla,4-1,CD Logroñés
+30,26/03/94,Deportivo,4-1,Athletic Bilbao
+30,26/03/94,Real Zaragoza,2-0,Racing Santander
+30,26/03/94,Real Sociedad,1-1,Rayo Vallecano
+30,26/03/94,Albacete,2-1,Lleida
+30,26/03/94,Sporting Gijón,2-1,Celta de Vigo
+30,26/03/94,Valladolid,0-0,Real Oviedo
+30,26/03/94,Osasuna,0-1,Atlético de Madrid

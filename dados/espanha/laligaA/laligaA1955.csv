@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/09/55,Athletic Bilbao,6-1,Sevilla
+1,11/09/55,Atlético de Madrid,9-0,Hércules
+1,11/09/55,Espanyol,4-3,Valladolid
+1,11/09/55,Real Sociedad,1-2,Barcelona
+1,11/09/55,Celta de Vigo,3-1,Real Madrid
+1,11/09/55,Las Palmas,2-0,Valencia
+1,11/09/55,Real Murcia,5-4,Deportivo
+1,11/09/55,Cultural Leonesa,4-1,Alavés
+2,18/09/55,Barcelona,2-2,Atlético de Madrid
+2,18/09/55,Real Madrid,2-1,Athletic Bilbao
+2,18/09/55,Sevilla,4-0,Espanyol
+2,18/09/55,Valencia,6-0,Celta de Vigo
+2,18/09/55,Valladolid,3-0,Cultural Leonesa
+2,18/09/55,Deportivo,1-2,Las Palmas
+2,18/09/55,Alavés,1-1,Real Sociedad
+2,18/09/55,Hércules,2-1,Real Murcia
+3,25/09/55,Athletic Bilbao,4-2,Valencia
+3,25/09/55,Atlético de Madrid,8-1,Alavés
+3,25/09/55,Espanyol,2-1,Real Madrid
+3,25/09/55,Real Sociedad,4-1,Valladolid
+3,25/09/55,Las Palmas,2-1,Celta de Vigo
+3,25/09/55,Deportivo,3-0,Hércules
+3,25/09/55,Real Murcia,0-1,Barcelona
+3,25/09/55,Cultural Leonesa,0-4,Sevilla
+4,02/10/55,Barcelona,4-1,Deportivo
+4,02/10/55,Real Madrid,2-1,Cultural Leonesa
+4,02/10/55,Sevilla,2-0,Real Sociedad
+4,02/10/55,Valencia,2-1,Espanyol
+4,02/10/55,Valladolid,3-1,Atlético de Madrid
+4,02/10/55,Celta de Vigo,2-0,Athletic Bilbao
+4,02/10/55,Las Palmas,6-1,Hércules
+4,02/10/55,Alavés,5-2,Real Murcia
+5,09/10/55,Athletic Bilbao,5-0,Las Palmas
+5,09/10/55,Atlético de Madrid,4-1,Sevilla
+5,09/10/55,Espanyol,6-1,Celta de Vigo
+5,09/10/55,Real Sociedad,1-0,Real Madrid
+5,09/10/55,Deportivo,5-3,Alavés
+5,09/10/55,Real Murcia,0-1,Valladolid
+5,09/10/55,Cultural Leonesa,3-0,Valencia
+5,09/10/55,Hércules,2-3,Barcelona
+6,16/10/55,Athletic Bilbao,2-1,Espanyol
+6,16/10/55,Barcelona,4-0,Las Palmas
+6,16/10/55,Real Madrid,3-2,Atlético de Madrid
+6,16/10/55,Sevilla,4-1,Real Murcia
+6,16/10/55,Valencia,1-1,Real Sociedad
+6,16/10/55,Valladolid,4-1,Deportivo
+6,16/10/55,Celta de Vigo,3-2,Cultural Leonesa
+6,16/10/55,Alavés,4-0,Hércules
+7,23/10/55,Barcelona,3-1,Alavés
+7,23/10/55,Atlético de Madrid,3-1,Valencia
+7,23/10/55,Real Sociedad,2-1,Celta de Vigo
+7,23/10/55,Las Palmas,1-2,Espanyol
+7,23/10/55,Deportivo,3-2,Sevilla
+7,23/10/55,Real Murcia,1-1,Real Madrid
+7,23/10/55,Cultural Leonesa,1-3,Athletic Bilbao
+7,23/10/55,Hércules,2-0,Valladolid
+8,30/10/55,Athletic Bilbao,3-0,Real Sociedad
+8,30/10/55,Real Madrid,1-2,Deportivo
+8,30/10/55,Sevilla,3-0,Hércules
+8,30/10/55,Valencia,4-1,Real Murcia
+8,30/10/55,Espanyol,1-1,Cultural Leonesa
+8,30/10/55,Valladolid,1-0,Barcelona
+8,30/10/55,Celta de Vigo,2-2,Atlético de Madrid
+8,30/10/55,Las Palmas,2-1,Alavés
+9,06/11/55,Barcelona,3-1,Sevilla
+9,06/11/55,Atlético de Madrid,2-3,Athletic Bilbao
+9,06/11/55,Real Sociedad,5-0,Espanyol
+9,06/11/55,Deportivo,3-3,Valencia
+9,06/11/55,Real Murcia,2-2,Celta de Vigo
+9,06/11/55,Alavés,3-0,Valladolid
+9,06/11/55,Cultural Leonesa,1-2,Las Palmas
+9,06/11/55,Hércules,0-4,Real Madrid
+10,13/11/55,Athletic Bilbao,7-1,Real Murcia
+10,13/11/55,Real Madrid,2-1,Barcelona
+10,13/11/55,Sevilla,3-0,Alavés
+10,13/11/55,Valencia,4-1,Hércules
+10,13/11/55,Espanyol,4-1,Atlético de Madrid
+10,13/11/55,Celta de Vigo,4-1,Deportivo
+10,13/11/55,Las Palmas,3-2,Valladolid
+10,13/11/55,Cultural Leonesa,0-0,Real Sociedad
+11,20/11/55,Barcelona,4-2,Valencia
+11,20/11/55,Atlético de Madrid,6-1,Cultural Leonesa
+11,20/11/55,Valladolid,3-1,Sevilla
+11,20/11/55,Las Palmas,2-0,Real Sociedad
+11,20/11/55,Deportivo,2-2,Athletic Bilbao
+11,20/11/55,Real Murcia,2-3,Espanyol
+11,20/11/55,Alavés,1-3,Real Madrid
+11,27/11/55,Hércules,0-2,Celta de Vigo
+12,04/12/55,Athletic Bilbao,3-1,Hércules
+12,04/12/55,Real Madrid,5-1,Valladolid
+12,04/12/55,Sevilla,3-0,Las Palmas
+12,04/12/55,Valencia,3-1,Alavés
+12,04/12/55,Espanyol,3-2,Deportivo
+12,04/12/55,Real Sociedad,3-1,Atlético de Madrid
+12,04/12/55,Celta de Vigo,0-0,Barcelona
+12,04/12/55,Cultural Leonesa,0-1,Real Murcia
+13,18/12/55,Barcelona,1-2,Athletic Bilbao
+13,18/12/55,Sevilla,2-0,Real Madrid
+13,18/12/55,Atlético de Madrid,1-1,Las Palmas
+13,18/12/55,Valladolid,1-1,Valencia
+13,18/12/55,Deportivo,4-3,Cultural Leonesa
+13,18/12/55,Real Murcia,6-1,Real Sociedad
+13,18/12/55,Alavés,5-1,Celta de Vigo
+13,18/12/55,Hércules,1-1,Espanyol
+14,01/01/56,Athletic Bilbao,3-2,Alavés
+14,01/01/56,Atlético de Madrid,4-0,Real Murcia
+14,01/01/56,Valencia,3-0,Sevilla
+14,01/01/56,Espanyol,0-3,Barcelona
+14,01/01/56,Real Sociedad,3-1,Deportivo
+14,01/01/56,Celta de Vigo,3-0,Valladolid
+14,01/01/56,Las Palmas,1-3,Real Madrid
+14,01/01/56,Cultural Leonesa,3-1,Hércules
+15,08/01/56,Barcelona,4-0,Cultural Leonesa
+15,08/01/56,Real Madrid,1-0,Valencia
+15,08/01/56,Sevilla,7-0,Celta de Vigo
+15,08/01/56,Valladolid,2-4,Athletic Bilbao
+15,08/01/56,Deportivo,3-0,Atlético de Madrid
+15,08/01/56,Real Murcia,2-1,Las Palmas
+15,08/01/56,Alavés,2-0,Espanyol
+15,08/01/56,Hércules,1-1,Real Sociedad
+16,15/01/56,Barcelona,2-0,Real Sociedad
+16,15/01/56,Real Madrid,8-3,Celta de Vigo
+16,15/01/56,Sevilla,1-2,Athletic Bilbao
+16,15/01/56,Valencia,4-2,Las Palmas
+16,15/01/56,Valladolid,2-0,Espanyol
+16,15/01/56,Deportivo,2-0,Real Murcia
+16,15/01/56,Alavés,1-0,Cultural Leonesa
+16,15/01/56,Hércules,0-2,Atlético de Madrid
+17,22/01/56,Athletic Bilbao,3-1,Real Madrid
+17,22/01/56,Atlético de Madrid,0-2,Barcelona
+17,22/01/56,Espanyol,2-1,Sevilla
+17,22/01/56,Real Sociedad,1-1,Alavés
+17,22/01/56,Celta de Vigo,2-0,Valencia
+17,22/01/56,Las Palmas,5-0,Deportivo
+17,22/01/56,Real Murcia,3-1,Hércules
+17,22/01/56,Cultural Leonesa,0-0,Valladolid
+18,29/01/56,Barcelona,1-0,Real Murcia
+18,29/01/56,Sevilla,3-1,Cultural Leonesa
+18,29/01/56,Valencia,1-0,Athletic Bilbao
+18,29/01/56,Valladolid,1-0,Real Sociedad
+18,29/01/56,Celta de Vigo,3-0,Las Palmas
+18,29/01/56,Alavés,0-0,Atlético de Madrid
+18,29/01/56,Hércules,5-1,Deportivo
+19,05/02/56,Athletic Bilbao,4-0,Celta de Vigo
+19,05/02/56,Atlético de Madrid,3-1,Valladolid
+19,05/02/56,Espanyol,0-1,Valencia
+19,05/02/56,Real Sociedad,2-2,Sevilla
+19,05/02/56,Deportivo,0-7,Barcelona
+19,05/02/56,Real Murcia,3-3,Alavés
+19,05/02/56,Cultural Leonesa,0-4,Real Madrid
+19,05/02/56,Hércules,0-5,Las Palmas
+18,09/02/56,Real Madrid,7-1,Espanyol
+20,12/02/56,Barcelona,6-4,Hércules
+20,12/02/56,Real Madrid,2-0,Real Sociedad
+20,12/02/56,Sevilla,4-0,Atlético de Madrid
+20,12/02/56,Valencia,1-1,Cultural Leonesa
+20,12/02/56,Valladolid,3-0,Real Murcia
+20,12/02/56,Celta de Vigo,2-3,Espanyol
+20,12/02/56,Las Palmas,1-1,Athletic Bilbao
+20,14/02/56,Alavés,4-2,Deportivo
+21,19/02/56,Atlético de Madrid,1-0,Real Madrid
+21,19/02/56,Espanyol,0-1,Athletic Bilbao
+21,19/02/56,Real Sociedad,3-1,Valencia
+21,19/02/56,Las Palmas,0-1,Barcelona
+21,19/02/56,Deportivo,1-1,Valladolid
+21,19/02/56,Real Murcia,2-0,Sevilla
+21,19/02/56,Cultural Leonesa,4-1,Celta de Vigo
+21,19/02/56,Hércules,1-1,Alavés
+22,26/02/56,Athletic Bilbao,3-0,Cultural Leonesa
+22,26/02/56,Real Madrid,7-1,Real Murcia
+22,26/02/56,Valencia,0-1,Atlético de Madrid
+22,26/02/56,Espanyol,2-2,Las Palmas
+22,26/02/56,Valladolid,3-0,Hércules
+22,28/02/56,Sevilla,5-0,Deportivo
+22,28/02/56,Celta de Vigo,2-1,Real Sociedad
+22,28/02/56,Alavés,1-3,Barcelona
+23,04/03/56,Barcelona,2-0,Valladolid
+23,04/03/56,Atlético de Madrid,3-2,Celta de Vigo
+23,04/03/56,Real Sociedad,2-2,Athletic Bilbao
+23,04/03/56,Deportivo,0-2,Real Madrid
+23,04/03/56,Real Murcia,0-0,Valencia
+23,04/03/56,Alavés,2-0,Las Palmas
+23,04/03/56,Cultural Leonesa,0-1,Espanyol
+23,04/03/56,Hércules,1-4,Sevilla
+24,11/03/56,Athletic Bilbao,2-1,Atlético de Madrid
+24,11/03/56,Real Madrid,4-1,Hércules
+24,11/03/56,Sevilla,0-0,Barcelona
+24,11/03/56,Valencia,4-0,Deportivo
+24,11/03/56,Espanyol,3-0,Real Sociedad
+24,11/03/56,Valladolid,4-0,Alavés
+24,11/03/56,Celta de Vigo,1-3,Real Murcia
+24,11/03/56,Las Palmas,1-2,Cultural Leonesa
+25,18/03/56,Barcelona,2-0,Real Madrid
+25,18/03/56,Atlético de Madrid,5-0,Espanyol
+25,18/03/56,Real Sociedad,2-1,Cultural Leonesa
+25,18/03/56,Valladolid,4-1,Las Palmas
+25,18/03/56,Deportivo,5-0,Celta de Vigo
+25,18/03/56,Real Murcia,2-1,Athletic Bilbao
+25,18/03/56,Alavés,2-1,Sevilla
+25,18/03/56,Hércules,4-0,Valencia
+26,25/03/56,Athletic Bilbao,2-2,Deportivo
+26,25/03/56,Real Madrid,5-0,Alavés
+26,25/03/56,Sevilla,4-1,Valladolid
+26,25/03/56,Valencia,4-2,Barcelona
+26,25/03/56,Espanyol,1-0,Real Murcia
+26,25/03/56,Real Sociedad,4-2,Las Palmas
+26,25/03/56,Celta de Vigo,2-1,Hércules
+26,25/03/56,Cultural Leonesa,2-4,Atlético de Madrid
+27,01/04/56,Barcelona,2-1,Celta de Vigo
+27,01/04/56,Atlético de Madrid,4-5,Real Sociedad
+27,01/04/56,Valladolid,2-2,Real Madrid
+27,01/04/56,Las Palmas,2-3,Sevilla
+27,01/04/56,Deportivo,3-1,Espanyol
+27,01/04/56,Real Murcia,3-1,Cultural Leonesa
+27,01/04/56,Alavés,3-3,Valencia
+27,01/04/56,Hércules,0-3,Athletic Bilbao
+28,08/04/56,Athletic Bilbao,1-0,Barcelona
+28,08/04/56,Real Madrid,3-4,Sevilla
+28,08/04/56,Valencia,5-1,Valladolid
+28,08/04/56,Espanyol,2-0,Hércules
+28,08/04/56,Real Sociedad,3-3,Real Murcia
+28,08/04/56,Celta de Vigo,3-0,Alavés
+28,08/04/56,Las Palmas,1-1,Atlético de Madrid
+28,08/04/56,Cultural Leonesa,1-2,Deportivo
+29,15/04/56,Barcelona,1-0,Espanyol
+29,15/04/56,Real Madrid,6-0,Las Palmas
+29,15/04/56,Sevilla,4-0,Valencia
+29,15/04/56,Valladolid,4-2,Celta de Vigo
+29,15/04/56,Deportivo,5-0,Real Sociedad
+29,15/04/56,Real Murcia,1-0,Atlético de Madrid
+29,15/04/56,Hércules,3-1,Cultural Leonesa
+29,17/04/56,Alavés,0-3,Athletic Bilbao
+30,22/04/56,Athletic Bilbao,3-0,Valladolid
+30,22/04/56,Atlético de Madrid,4-1,Deportivo
+30,22/04/56,Valencia,2-1,Real Madrid
+30,22/04/56,Espanyol,6-0,Alavés
+30,22/04/56,Real Sociedad,2-0,Hércules
+30,22/04/56,Celta de Vigo,3-1,Sevilla
+30,22/04/56,Las Palmas,2-0,Real Murcia
+30,22/04/56,Cultural Leonesa,0-1,Barcelona

@@ -1,0 +1,63 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/03/15,Atlético-AC,3-0,Náuas
+1,01/03/15,Vasco da Gama-AC,2-4,Galvez EC
+2,08/03/15,Náuas,2-0,Vasco da Gama-AC
+2,12/03/15,Galvez EC,2-0,Plácido de Castro
+2,13/03/15,Rio Branco-AC,1-1,Amax
+1,15/03/15,Plácido de Castro,1-0,Rio Branco-AC
+2,15/03/15,Alto Acre,2-5,Atlético-AC
+3,18/03/15,Plácido de Castro,1-0,Alto Acre
+3,18/03/15,Atlético-AC,1-3,Galvez EC
+3,22/03/15,Amax,3-1,Náuas
+3,22/03/15,Vasco da Gama-AC,2-3,Rio Branco-AC
+4,25/03/15,Alto Acre,3-3,Vasco da Gama-AC
+4,25/03/15,Rio Branco-AC,1-1,Atlético-AC
+5,29/03/15,Alto Acre,0-4,Rio Branco-AC
+4,29/03/15,Galvez EC,3-1,Amax
+4,29/03/15,Náuas,0-0,Plácido de Castro
+5,02/04/15,Amax,0-1,Plácido de Castro
+5,02/04/15,Galvez EC,1-0,Náuas
+5,05/04/15,Vasco da Gama-AC,0-3,Atlético-AC
+6,05/04/15,Rio Branco-AC,3-0,Galvez EC
+6,05/04/15,Náuas,1-0,Alto Acre
+6,08/04/15,Atlético-AC,3-0,Amax
+6,08/04/15,Plácido de Castro,2-3,Vasco da Gama-AC
+7,12/04/15,Vasco da Gama-AC,2-3,Amax
+7,12/04/15,Plácido de Castro,0-1,Atlético-AC
+7,15/04/15,Galvez EC,0-3,Alto Acre
+1,18/04/15,Amax,1-1,Alto Acre
+8,19/04/15,Galvez EC,3-0,Vasco da Gama-AC
+7,19/04/15,Rio Branco-AC,9-0,Náuas
+8,25/04/15,Alto Acre,0-2,Amax
+8,25/04/15,Náuas,1-5,Atlético-AC
+8,25/04/15,Rio Branco-AC,5-2,Plácido de Castro
+9,28/04/15,Plácido de Castro,3-0,Amax
+12,28/04/15,Rio Branco-AC,7-0,Alto Acre
+12,02/05/15,Atlético-AC,1-0,Vasco da Gama-AC
+10,02/05/15,Alto Acre,2-4,Plácido de Castro
+9,02/05/15,Náuas,0-2,Galvez EC
+10,09/05/15,Galvez EC,0-0,Atlético-AC
+10,09/05/15,Rio Branco-AC,4-1,Vasco da Gama-AC
+10,09/05/15,Náuas,0-2,Amax
+11,12/05/15,Vasco da Gama-AC,5-2,Alto Acre
+11,12/05/15,Atlético-AC,2-0,Rio Branco-AC
+11,16/05/15,Amax,3-2,Galvez EC
+11,16/05/15,Plácido de Castro,4-1,Náuas
+12,19/05/15,Vasco da Gama-AC,3-1,Náuas
+12,19/05/15,Plácido de Castro,1-1,Galvez EC
+9,23/05/15,Amax,1-1,Rio Branco-AC
+9,23/05/15,Atlético-AC,5-0,Alto Acre
+13,26/05/15,Vasco da Gama-AC,1-4,Plácido de Castro
+13,26/05/15,Amax,2-3,Atlético-AC
+13,30/05/15,Alto Acre,2-1,Náuas
+13,30/05/15,Galvez EC,0-3,Rio Branco-AC
+14,30/05/15,Amax,0-0,Vasco da Gama-AC
+14,02/06/15,Atlético-AC,3-0,Plácido de Castro
+14,06/06/15,Náuas,1-7,Rio Branco-AC
+14,06/06/15,Alto Acre,3-2,Galvez EC
+SF,13/06/15,Galvez EC,1-1,Atlético-AC
+SF,13/06/15,Plácido de Castro,0-2,Rio Branco-AC
+SF,16/06/15,Rio Branco-AC,2-1,Plácido de Castro
+SF,16/06/15,Atlético-AC,1-2,Galvez EC
+F,20/06/15,Galvez EC,1-2,Rio Branco-AC
+F,27/06/15,Rio Branco-AC,2-0,Galvez EC

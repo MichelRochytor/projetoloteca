@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,24/05/13,Oeste,1-1,Avaí
+1,24/05/13,São Caetano,0-0,Ceará
+1,24/05/13,Boa Esporte,1-4,Chapecoense
+1,24/05/13,Paysandu,1-1,ASA
+1,25/05/13,Figueirense,3-2,América-RN
+1,25/05/13,Joinville,3-0,Bragantino
+1,25/05/13,Icasa,2-1,Sport
+1,25/05/13,Palmeiras,1-0,Atlético Goianiense
+1,25/05/13,ABC,0-2,Paraná
+1,25/05/13,Guaratinguetá,1-0,América Mineiro
+2,28/05/13,Paraná,0-0,São Caetano
+2,28/05/13,Avaí,2-1,Guaratinguetá
+2,28/05/13,Ceará,1-0,Paysandu
+2,28/05/13,América-RN,1-1,Icasa
+2,28/05/13,Sport,1-0,ABC
+2,28/05/13,ASA,0-3,Palmeiras
+2,28/05/13,América Mineiro,2-4,Figueirense
+2,28/05/13,Chapecoense,1-1,Oeste
+2,28/05/13,Atlético Goianiense,2-1,Joinville
+2,28/05/13,Bragantino,0-1,Boa Esporte
+3,31/05/13,Joinville,2-0,ASA
+3,31/05/13,Icasa,3-4,Avaí
+3,31/05/13,Paysandu,1-1,América-RN
+3,31/05/13,Oeste,1-0,Paraná
+3,31/05/13,Figueirense,3-2,Sport
+3,31/05/13,ABC,1-1,Ceará
+3,01/06/13,Palmeiras,0-1,América Mineiro
+3,01/06/13,Bragantino,2-0,Guaratinguetá
+3,01/06/13,Boa Esporte,0-0,Atlético Goianiense
+3,01/06/13,São Caetano,0-1,Chapecoense
+4,04/06/13,Oeste,2-1,Ceará
+4,04/06/13,Boa Esporte,1-2,ASA
+4,04/06/13,Figueirense,0-2,Chapecoense
+4,04/06/13,Palmeiras,2-1,Avaí
+4,04/06/13,Paysandu,2-0,Paraná
+4,04/06/13,Joinville,3-1,América-RN
+4,04/06/13,Icasa,1-2,América Mineiro
+4,04/06/13,ABC,1-1,Bragantino
+4,04/06/13,São Caetano,4-2,Atlético Goianiense
+4,04/06/13,Guaratinguetá,1-4,Sport
+5,07/06/13,ASA,3-1,Icasa
+5,07/06/13,América Mineiro,4-3,Oeste
+5,07/06/13,Atlético Goianiense,1-0,Paysandu
+5,07/06/13,Avaí,0-2,Joinville
+5,07/06/13,Chapecoense,5-1,ABC
+5,07/06/13,América-RN,2-2,Guaratinguetá
+5,08/06/13,Paraná,1-0,Figueirense
+5,08/06/13,Sport,1-0,Palmeiras
+5,08/06/13,Ceará,2-2,Boa Esporte
+5,08/06/13,Bragantino,1-0,São Caetano
+6,11/06/13,Oeste,0-3,São Caetano
+6,11/06/13,Chapecoense,3-2,Paysandu
+6,11/06/13,Ceará,1-1,Figueirense
+6,11/06/13,Guaratinguetá,1-3,Joinville
+6,11/06/13,Sport,0-2,Bragantino
+6,11/06/13,Boa Esporte,1-0,ABC
+6,11/06/13,Avaí,1-2,América Mineiro
+6,11/06/13,América-RN,0-2,Palmeiras
+6,11/06/13,Paraná,1-0,ASA
+6,11/06/13,Atlético Goianiense,0-3,Icasa
+7,02/07/13,Bragantino,0-1,América-RN
+7,02/07/13,Paysandu,4-3,Guaratinguetá
+7,05/07/13,ASA,0-2,Chapecoense
+7,05/07/13,América Mineiro,2-2,Paraná
+7,06/07/13,Joinville,2-3,Sport
+7,06/07/13,ABC,0-1,Atlético Goianiense
+7,06/07/13,Palmeiras,4-0,Oeste
+7,06/07/13,São Caetano,0-0,Avaí
+7,06/07/13,Figueirense,3-0,Boa Esporte
+7,06/07/13,Icasa,1-0,Ceará
+8,09/07/13,Paysandu,2-2,São Caetano
+8,09/07/13,Oeste,0-0,Boa Esporte
+8,12/07/13,Palmeiras,4-1,ABC
+8,12/07/13,Atlético Goianiense,2-3,Figueirense
+8,13/07/13,América Mineiro,2-2,Bragantino
+8,13/07/13,Avaí,2-2,Paraná
+8,13/07/13,Joinville,2-2,Chapecoense
+8,13/07/13,América-RN,2-4,Sport
+8,13/07/13,Ceará,4-1,ASA
+8,13/07/13,Guaratinguetá,3-0,Icasa
+9,16/07/13,Icasa,0-3,Oeste
+9,16/07/13,Sport,2-0,Avaí
+9,19/07/13,Paraná,4-0,América-RN
+9,19/07/13,São Caetano,0-1,Guaratinguetá
+9,20/07/13,Boa Esporte,1-0,Paysandu
+9,20/07/13,Figueirense,2-3,Palmeiras
+9,20/07/13,Bragantino,2-0,Ceará
+9,20/07/13,ASA,0-1,Atlético Goianiense
+9,20/07/13,ABC,0-0,Joinville
+10,23/07/13,ASA,2-1,Bragantino
+10,23/07/13,Icasa,2-1,Joinville
+10,26/07/13,Atlético Goianiense,0-1,América-RN
+10,26/07/13,Sport,2-0,Oeste
+10,27/07/13,Boa Esporte,1-1,América Mineiro
+10,27/07/13,Chapecoense,3-1,Avaí
+10,27/07/13,Paraná,3-0,Ceará
+10,27/07/13,Guaratinguetá,1-1,Palmeiras
+10,27/07/13,Figueirense,3-1,São Caetano
+10,27/07/13,ABC,3-0,Paysandu
+11,30/07/13,Oeste,1-0,Guaratinguetá
+11,30/07/13,Avaí,1-0,Atlético Goianiense
+11,30/07/13,Joinville,2-3,Boa Esporte
+11,30/07/13,Ceará,3-1,Chapecoense
+11,30/07/13,América-RN,2-0,ASA
+11,30/07/13,América Mineiro,5-0,Sport
+11,30/07/13,Palmeiras,4-0,Icasa
+11,30/07/13,São Caetano,2-1,ABC
+11,30/07/13,Bragantino,0-0,Paraná
+11,30/07/13,Paysandu,2-1,Figueirense
+12,02/08/13,América-RN,0-0,Boa Esporte
+12,02/08/13,Palmeiras,2-1,Bragantino
+12,02/08/13,Oeste,1-2,ASA
+12,02/08/13,América Mineiro,2-2,Ceará
+12,03/08/13,Avaí,2-0,Paysandu
+12,03/08/13,Joinville,3-1,Figueirense
+12,03/08/13,Icasa,3-2,São Caetano
+12,03/08/13,Sport,1-2,Chapecoense
+12,03/08/13,Atlético Goianiense,0-2,Paraná
+12,03/08/13,Guaratinguetá,3-1,ABC
+13,06/08/13,ASA,2-4,Sport
+13,06/08/13,Figueirense,3-0,Icasa
+13,06/08/13,Chapecoense,3-0,Atlético Goianiense
+13,06/08/13,Ceará,2-1,América-RN
+13,06/08/13,São Caetano,1-2,Palmeiras
+13,06/08/13,Boa Esporte,2-0,Guaratinguetá
+13,06/08/13,ABC,0-0,Oeste
+13,06/08/13,Paraná,1-1,Joinville
+13,06/08/13,Bragantino,1-1,Avaí
+13,06/08/13,Paysandu,0-2,América Mineiro
+14,09/08/13,ASA,2-0,América Mineiro
+14,09/08/13,Ceará,0-1,Atlético Goianiense
+14,09/08/13,Boa Esporte,1-0,Icasa
+14,09/08/13,Paysandu,2-1,Joinville
+14,10/08/13,Figueirense,1-3,Avaí
+14,10/08/13,América-RN,0-0,ABC
+14,10/08/13,Palmeiras,2-1,Paraná
+14,10/08/13,São Caetano,2-1,Sport
+14,10/08/13,Bragantino,2-0,Oeste
+14,11/08/13,Chapecoense,1-0,Guaratinguetá
+15,13/08/13,Oeste,1-0,Paysandu
+15,13/08/13,América Mineiro,2-1,São Caetano
+15,13/08/13,Avaí,2-0,ASA
+15,13/08/13,Paraná,3-1,Boa Esporte
+15,13/08/13,Sport,2-1,Ceará
+15,13/08/13,Joinville,0-1,Palmeiras
+15,13/08/13,Icasa,2-1,ABC
+15,13/08/13,Atlético Goianiense,0-1,Bragantino
+15,14/08/13,Guaratinguetá,1-1,Figueirense
+16,16/08/13,Avaí,1-1,Ceará
+16,16/08/13,São Caetano,0-1,Boa Esporte
+16,16/08/13,Oeste,0-2,Joinville
+16,16/08/13,Sport,3-2,Atlético Goianiense
+16,17/08/13,América Mineiro,1-1,América-RN
+16,17/08/13,Chapecoense,2-2,Paraná
+16,17/08/13,ABC,3-2,Figueirense
+16,17/08/13,Palmeiras,3-2,Paysandu
+16,17/08/13,Icasa,4-1,Bragantino
+16,17/08/13,Guaratinguetá,2-1,ASA
+9,20/08/13,Chapecoense,2-0,América Mineiro
+17,20/08/13,Ceará,2-0,Guaratinguetá
+17,20/08/13,ASA,4-0,ABC
+17,23/08/13,Joinville,1-0,São Caetano
+17,23/08/13,América-RN,2-3,Avaí
+17,24/08/13,Boa Esporte,1-0,Palmeiras
+17,24/08/13,Paraná,1-0,Sport
+17,24/08/13,Atlético Goianiense,1-1,América Mineiro
+17,24/08/13,Bragantino,1-0,Chapecoense
+17,24/08/13,Figueirense,3-0,Oeste
+17,24/08/13,Paysandu,1-2,Icasa
+15,27/08/13,América-RN,0-1,Chapecoense
+18,27/08/13,ASA,3-1,Figueirense
+18,27/08/13,América Mineiro,0-2,Joinville
+18,30/08/13,Avaí,2-0,ABC
+18,30/08/13,Atlético Goianiense,4-0,Oeste
+18,31/08/13,Chapecoense,1-2,Icasa
+18,31/08/13,América-RN,2-1,São Caetano
+18,31/08/13,Paraná,4-0,Guaratinguetá
+18,31/08/13,Bragantino,0-0,Paysandu
+18,31/08/13,Ceará,2-2,Palmeiras
+18,31/08/13,Sport,2-2,Boa Esporte
+19,03/09/13,Oeste,4-1,América-RN
+19,03/09/13,Boa Esporte,0-0,Avaí
+19,03/09/13,Figueirense,2-1,Bragantino
+19,03/09/13,Joinville,1-1,Ceará
+19,03/09/13,Icasa,0-3,Paraná
+19,03/09/13,ABC,2-1,América Mineiro
+19,03/09/13,Palmeiras,0-0,Chapecoense
+19,03/09/13,São Caetano,3-0,ASA
+19,03/09/13,Guaratinguetá,2-0,Atlético Goianiense
+19,03/09/13,Paysandu,2-0,Sport
+20,06/09/13,Avaí,2-2,Oeste
+20,06/09/13,Ceará,4-2,São Caetano
+20,06/09/13,América-RN,2-0,Figueirense
+20,06/09/13,ASA,1-1,Paysandu
+20,06/09/13,América Mineiro,1-0,Guaratinguetá
+20,06/09/13,Chapecoense,1-0,Boa Esporte
+20,06/09/13,Bragantino,1-2,Joinville
+20,07/09/13,Atlético Goianiense,1-3,Palmeiras
+20,07/09/13,Paraná,1-0,ABC
+20,07/09/13,Sport,0-2,Icasa
+21,09/09/13,Figueirense,1-2,América Mineiro
+21,09/09/13,Boa Esporte,0-0,Bragantino
+21,10/09/13,Oeste,1-0,Chapecoense
+21,10/09/13,São Caetano,2-1,Paraná
+21,10/09/13,Guaratinguetá,1-0,Avaí
+21,10/09/13,Paysandu,2-1,Ceará
+21,10/09/13,Joinville,2-1,Atlético Goianiense
+21,10/09/13,Icasa,1-1,América-RN
+21,10/09/13,ABC,4-2,Sport
+21,10/09/13,Palmeiras,3-0,ASA
+22,13/09/13,ASA,0-1,Joinville
+22,13/09/13,Paraná,1-2,Oeste
+22,13/09/13,Atlético Goianiense,3-1,Boa Esporte
+22,13/09/13,Chapecoense,6-2,São Caetano
+22,14/09/13,América Mineiro,1-1,Palmeiras
+22,14/09/13,Avaí,3-1,Icasa
+22,14/09/13,Ceará,4-0,ABC
+22,14/09/13,Sport,1-0,Figueirense
+22,14/09/13,América-RN,3-0,Paysandu
+22,14/09/13,Guaratinguetá,1-0,Bragantino
+23,17/09/13,América Mineiro,1-2,Icasa
+23,17/09/13,Ceará,1-0,Oeste
+23,17/09/13,Atlético Goianiense,1-1,São Caetano
+23,17/09/13,Sport,1-0,Guaratinguetá
+23,17/09/13,ASA,0-1,Boa Esporte
+23,17/09/13,Avaí,2-4,Palmeiras
+23,17/09/13,América-RN,1-1,Joinville
+23,17/09/13,Paraná,3-1,Paysandu
+23,17/09/13,Bragantino,2-1,ABC
+24,20/09/13,Oeste,1-1,América Mineiro
+24,20/09/13,Icasa,5-2,ASA
+24,20/09/13,São Caetano,0-1,Bragantino
+24,20/09/13,Joinville,1-2,Avaí
+24,21/09/13,Boa Esporte,1-2,Ceará
+24,21/09/13,Figueirense,1-0,Paraná
+24,21/09/13,ABC,2-0,Chapecoense
+24,21/09/13,Palmeiras,2-1,Sport
+24,21/09/13,Guaratinguetá,2-0,América-RN
+24,21/09/13,Paysandu,0-0,Atlético Goianiense
+25,24/09/13,Figueirense,2-1,Ceará
+25,24/09/13,Paysandu,2-1,Chapecoense
+25,27/09/13,Joinville,1-1,Guaratinguetá
+25,27/09/13,São Caetano,2-2,Oeste
+25,28/09/13,América Mineiro,0-0,Avaí
+25,28/09/13,Icasa,0-0,Atlético Goianiense
+25,28/09/13,Palmeiras,0-0,América-RN
+25,28/09/13,Bragantino,1-2,Sport
+25,28/09/13,ASA,1-4,Paraná
+25,28/09/13,ABC,3-1,Boa Esporte
+26,01/10/13,Chapecoense,4-0,ASA
+26,01/10/13,Ceará,1-0,Icasa
+26,01/10/13,Atlético Goianiense,0-1,ABC
+26,01/10/13,Guaratinguetá,1-1,Paysandu
+26,01/10/13,Sport,3-2,Joinville
+26,01/10/13,Oeste,0-2,Palmeiras
+26,01/10/13,Boa Esporte,0-2,Figueirense
+26,01/10/13,Avaí,2-1,São Caetano
+26,01/10/13,América-RN,0-2,Bragantino
+26,01/10/13,Paraná,0-1,América Mineiro
+27,04/10/13,Boa Esporte,0-4,Oeste
+27,04/10/13,Icasa,3-2,Guaratinguetá
+27,04/10/13,Sport,3-0,América-RN
+27,04/10/13,Paraná,0-1,Avaí
+27,05/10/13,ASA,2-3,Ceará
+27,05/10/13,Figueirense,1-1,Atlético Goianiense
+27,05/10/13,Chapecoense,2-1,Joinville
+27,05/10/13,ABC,3-2,Palmeiras
+27,05/10/13,São Caetano,3-1,Paysandu
+27,05/10/13,Bragantino,0-1,América Mineiro
+28,08/10/13,Oeste,0-0,Icasa
+28,08/10/13,América Mineiro,1-1,Chapecoense
+28,08/10/13,Palmeiras,4-0,Figueirense
+28,08/10/13,Atlético Goianiense,5-1,ASA
+28,08/10/13,Guaratinguetá,3-2,São Caetano
+28,08/10/13,Avaí,1-0,Sport
+28,08/10/13,Joinville,1-2,ABC
+28,08/10/13,Ceará,5-3,Bragantino
+28,08/10/13,América-RN,4-1,Paraná
+28,08/10/13,Paysandu,0-0,Boa Esporte
+29,11/10/13,América Mineiro,0-0,Boa Esporte
+29,11/10/13,Joinville,0-0,Icasa
+29,11/10/13,Palmeiras,1-0,Guaratinguetá
+29,12/10/13,Oeste,0-3,Sport
+29,12/10/13,Avaí,1-2,Chapecoense
+29,12/10/13,Ceará,1-1,Paraná
+29,12/10/13,América-RN,2-1,Atlético Goianiense
+29,12/10/13,São Caetano,0-2,Figueirense
+29,12/10/13,Bragantino,2-0,ASA
+30,15/10/13,ASA,1-2,América-RN
+30,15/10/13,Boa Esporte,1-0,Joinville
+30,15/10/13,Chapecoense,1-1,Ceará
+30,15/10/13,Guaratinguetá,0-0,Oeste
+30,15/10/13,Sport,1-3,América Mineiro
+30,15/10/13,Figueirense,3-2,Paysandu
+30,15/10/13,Icasa,1-0,Palmeiras
+30,15/10/13,ABC,2-0,São Caetano
+30,15/10/13,Paraná,1-0,Bragantino
+31,18/10/13,ASA,3-0,Oeste
+31,18/10/13,Boa Esporte,3-2,América-RN
+31,18/10/13,Paysandu,0-2,Avaí

@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,03/07/49,Vasco,11-0,São Cristóvão
+C,03/07/49,Canto do Rio,2-2,Madureira
+C,03/07/49,America-RJ,2-1,Flamengo
+C,03/07/49,Botafogo,4-0,Olaria
+C,03/07/49,Bangu,1-1,Fluminense
+C,10/07/49,Canto do Rio,0-6,Flamengo
+C,10/07/49,Fluminense,4-0,São Cristóvão
+C,10/07/49,Bonsucesso,1-2,Vasco
+C,10/07/49,Bangu,5-1,America-RJ
+C,17/07/49,Botafogo,4-0,Bonsucesso
+C,17/07/49,São Cristóvão,0-6,Flamengo
+C,17/07/49,Fluminense,5-4,America-RJ
+C,17/07/49,Olaria,3-0,Canto do Rio
+C,17/07/49,Bangu,2-2,Vasco
+C,24/07/49,Olaria,7-2,São Cristóvão
+C,24/07/49,America-RJ,0-4,Botafogo
+C,24/07/49,Canto do Rio,3-3,Fluminense
+C,24/07/49,Madureira,2-3,Bonsucesso
+C,31/07/49,Madureira,1-2,Olaria
+C,31/07/49,Bonsucesso,2-6,Fluminense
+C,31/07/49,America-RJ,2-1,São Cristóvão
+C,31/07/49,Vasco,6-0,Canto do Rio
+C,31/07/49,Flamengo,3-0,Bangu
+C,07/08/49,Bonsucesso,1-3,Flamengo
+C,07/08/49,Canto do Rio,1-3,Botafogo
+C,07/08/49,Fluminense,3-5,Vasco
+C,07/08/49,Bangu,2-1,Madureira
+C,13/08/49,São Cristóvão,2-1,Canto do Rio
+C,14/08/49,Flamengo,1-0,Madureira
+C,14/08/49,Botafogo,1-0,Bangu
+C,14/08/49,Fluminense,3-0,Olaria
+C,14/08/49,Vasco,8-2,America-RJ
+C,20/08/49,São Cristóvão,4-2,Bonsucesso
+C,21/08/49,Madureira,1-1,Botafogo
+C,21/08/49,Vasco,5-2,Flamengo
+C,21/08/49,Olaria,0-3,Bangu
+C,27/08/49,America-RJ,4-2,Canto do Rio
+C,28/08/49,Botafogo,0-1,Fluminense
+C,28/08/49,Bonsucesso,1-1,Olaria
+C,28/08/49,Vasco,2-1,Madureira
+C,28/08/49,Bangu,2-0,São Cristóvão
+C,04/09/49,Canto do Rio,5-2,Bonsucesso
+C,04/09/49,Olaria,3-3,America-RJ
+C,04/09/49,Flamengo,1-2,Botafogo
+C,04/09/49,São Cristóvão,2-2,Madureira
+C,11/09/49,Vasco,3-0,Olaria
+C,11/09/49,Madureira,2-4,America-RJ
+C,11/09/49,Fluminense,2-1,Flamengo
+C,11/09/49,São Cristóvão,2-2,Botafogo
+C,11/09/49,Bonsucesso,4-3,Bangu
+C,18/09/49,America-RJ,4-4,Bonsucesso
+C,18/09/49,Olaria,2-2,Flamengo
+C,18/09/49,Madureira,1-4,Fluminense
+C,18/09/49,Botafogo,2-2,Vasco
+C,18/09/49,Bangu,3-1,Canto do Rio
+C,25/09/49,Fluminense,2-2,Bangu
+C,25/09/49,Flamengo,3-2,America-RJ
+C,25/09/49,São Cristóvão,1-4,Vasco
+C,25/09/49,Olaria,3-1,Botafogo
+C,25/09/49,Madureira,3-0,Canto do Rio
+C,02/10/49,Vasco,8-1,Bonsucesso
+C,02/10/49,America-RJ,2-2,Bangu
+C,02/10/49,São Cristóvão,1-3,Fluminense
+C,02/10/49,Flamengo,3-2,Canto do Rio
+C,08/10/49,America-RJ,2-3,Fluminense
+C,08/10/49,Flamengo,7-0,São Cristóvão
+C,09/10/49,Vasco,4-2,Bangu
+C,09/10/49,Canto do Rio,1-1,Olaria
+C,09/10/49,Bonsucesso,0-2,Botafogo
+C,16/10/49,São Cristóvão,1-1,Olaria
+C,16/10/49,Botafogo,3-0,America-RJ
+C,16/10/49,Bonsucesso,1-1,Madureira
+C,16/10/49,Fluminense,8-1,Canto do Rio
+C,23/10/49,Olaria,2-1,Madureira
+C,23/10/49,Fluminense,3-1,Bonsucesso
+C,23/10/49,São Cristóvão,2-6,America-RJ
+C,23/10/49,Canto do Rio,0-4,Vasco
+C,29/10/49,Bangu,1-2,Flamengo
+C,30/10/49,Vasco,2-0,Fluminense
+C,30/10/49,Botafogo,7-1,Canto do Rio
+C,01/11/49,Flamengo,3-1,Bonsucesso
+C,01/11/49,Madureira,2-3,Bangu
+C,06/11/49,America-RJ,2-4,Vasco
+C,06/11/49,Madureira,2-2,Flamengo
+C,06/11/49,Canto do Rio,5-1,São Cristóvão
+C,06/11/49,Olaria,3-4,Fluminense
+C,06/11/49,Bangu,1-1,Botafogo
+C,13/11/49,Flamengo,1-2,Vasco
+C,13/11/49,Botafogo,5-2,Madureira
+C,13/11/49,Bangu,2-1,Olaria
+C,15/11/49,Bonsucesso,2-2,São Cristóvão
+C,20/11/49,Fluminense,2-1,Botafogo
+C,20/11/49,Canto do Rio,0-3,America-RJ
+C,20/11/49,Olaria,6-2,Bonsucesso
+C,20/11/49,Madureira,1-3,Vasco
+C,20/11/49,São Cristóvão,0-2,Bangu
+C,27/11/49,Madureira,1-3,São Cristóvão
+C,27/11/49,Botafogo,1-2,Flamengo
+C,27/11/49,Bonsucesso,4-1,Canto do Rio
+C,27/11/49,America-RJ,4-2,Olaria
+C,03/12/49,America-RJ,3-2,Madureira
+C,04/12/49,Botafogo,2-0,São Cristóvão
+C,04/12/49,Olaria,2-5,Vasco
+C,04/12/49,Flamengo,1-1,Fluminense
+C,04/12/49,Bangu,4-1,Bonsucesso
+C,10/12/49,Fluminense,1-1,Madureira
+C,11/12/49,Vasco,2-1,Botafogo
+C,11/12/49,Flamengo,3-2,Olaria
+C,11/12/49,Bonsucesso,0-2,America-RJ
+C,11/12/49,Canto do Rio,2-4,Bangu

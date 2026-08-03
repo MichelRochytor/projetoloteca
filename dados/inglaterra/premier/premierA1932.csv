@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,27/08/32,Birmingham City,0-1,Arsenal
+1,27/08/32,Bolton Wanderers,2-2,Newcastle
+1,27/08/32,Chelsea,2-2,Blackburn Rovers
+1,27/08/32,Leeds United,0-2,Derby County
+1,27/08/32,Leicester City,1-1,Sheffield United
+1,27/08/32,Liverpool,5-1,Wolverhampton
+1,27/08/32,Middlesbrough,0-2,Aston Villa
+1,27/08/32,Portsmouth,1-0,Huddersfield Town
+1,27/08/32,Sheffield Wed.,4-1,Blackpool
+1,27/08/32,Sunderland,3-2,Manchester City
+1,27/08/32,West Bromwich,3-1,Everton
+2,29/08/32,Aston Villa,1-0,Sunderland
+2,29/08/32,Blackpool,2-1,Leeds United
+2,29/08/32,Huddersfield Town,4-1,Leicester City
+2,29/08/32,Sheffield United,6-2,Liverpool
+2,29/08/32,Wolverhampton,4-1,Bolton Wanderers
+2,31/08/32,Arsenal,1-2,West Bromwich
+2,31/08/32,Derby County,2-1,Blackburn Rovers
+2,31/08/32,Everton,2-1,Sheffield Wed.
+2,31/08/32,Manchester City,1-0,Birmingham City
+2,31/08/32,Newcastle,5-1,Middlesbrough
+2,31/08/32,Portsmouth,2-0,Chelsea
+3,03/09/32,Arsenal,6-1,Sunderland
+3,03/09/32,Aston Villa,6-1,Bolton Wanderers
+3,03/09/32,Blackburn Rovers,1-1,Leeds United
+3,03/09/32,Blackpool,2-4,West Bromwich
+3,03/09/32,Derby County,2-0,Sheffield Wed.
+3,03/09/32,Everton,4-1,Birmingham City
+3,03/09/32,Huddersfield Town,2-0,Chelsea
+3,03/09/32,Manchester City,2-3,Middlesbrough
+3,03/09/32,Newcastle,4-3,Liverpool
+3,03/09/32,Sheffield United,2-3,Portsmouth
+3,03/09/32,Wolverhampton,1-1,Leicester City
+4,05/09/32,Bolton Wanderers,2-0,Wolverhampton
+4,05/09/32,Leeds United,3-1,Blackpool
+4,05/09/32,Leicester City,3-1,Huddersfield Town
+4,05/09/32,Sheffield Wed.,3-1,Everton
+4,07/09/32,Birmingham City,3-0,Manchester City
+4,07/09/32,Chelsea,4-4,Portsmouth
+4,07/09/32,Liverpool,2-2,Sheffield United
+4,07/09/32,Sunderland,1-1,Aston Villa
+4,10/09/32,Manchester City,2-3,Arsenal
+4,10/09/32,West Bromwich,2-0,Derby County
+5,10/09/32,Birmingham City,2-1,Blackpool
+5,10/09/32,Bolton Wanderers,4-3,Middlesbrough
+5,10/09/32,Chelsea,3-0,Sheffield United
+5,10/09/32,Leeds United,1-1,Huddersfield Town
+5,10/09/32,Leicester City,0-3,Newcastle
+5,10/09/32,Liverpool,0-0,Aston Villa
+5,10/09/32,Portsmouth,2-0,Wolverhampton
+5,10/09/32,Sheffield Wed.,1-1,Blackburn Rovers
+5,10/09/32,Sunderland,3-1,Everton
+5,14/09/32,West Bromwich,1-1,Arsenal
+6,17/09/32,Arsenal,3-2,Bolton Wanderers
+6,17/09/32,Aston Villa,4-2,Leicester City
+6,17/09/32,Blackburn Rovers,4-4,West Bromwich
+6,17/09/32,Blackpool,3-1,Sunderland
+6,17/09/32,Derby County,2-2,Birmingham City
+6,17/09/32,Everton,2-1,Manchester City
+6,17/09/32,Leeds United,3-2,Sheffield Wed.
+6,17/09/32,Middlesbrough,0-1,Liverpool
+6,17/09/32,Newcastle,1-1,Portsmouth
+6,17/09/32,Sheffield United,1-2,Huddersfield Town
+6,17/09/32,Wolverhampton,1-2,Chelsea
+6,19/09/32,Blackburn Rovers,3-3,Derby County
+7,24/09/32,Arsenal,2-1,Everton
+7,24/09/32,Birmingham City,3-1,Blackburn Rovers
+7,24/09/32,Chelsea,0-1,Newcastle
+7,24/09/32,Huddersfield Town,3-2,Wolverhampton
+7,24/09/32,Leicester City,1-1,Middlesbrough
+7,24/09/32,Liverpool,0-1,Bolton Wanderers
+7,24/09/32,Manchester City,5-1,Blackpool
+7,24/09/32,Portsmouth,2-4,Aston Villa
+7,24/09/32,Sheffield Wed.,3-3,Sheffield United
+7,24/09/32,Sunderland,0-2,Derby County
+7,24/09/32,West Bromwich,0-1,Leeds United
+7,01/10/32,Middlesbrough,5-4,Portsmouth
+8,01/10/32,Aston Villa,3-1,Chelsea
+8,01/10/32,Blackburn Rovers,1-3,Sunderland
+8,01/10/32,Blackpool,1-2,Arsenal
+8,01/10/32,Bolton Wanderers,5-0,Leicester City
+8,01/10/32,Derby County,4-0,Manchester City
+8,01/10/32,Everton,3-1,Liverpool
+8,01/10/32,Leeds United,1-1,Birmingham City
+8,01/10/32,Newcastle,0-4,Huddersfield Town
+8,01/10/32,Sheffield Wed.,3-1,West Bromwich
+8,01/10/32,Wolverhampton,5-1,Sheffield United
+9,08/10/32,Arsenal,3-3,Derby County
+9,08/10/32,Birmingham City,2-1,Sheffield Wed.
+9,08/10/32,Chelsea,2-1,Middlesbrough
+9,08/10/32,Everton,2-0,Blackpool
+9,08/10/32,Huddersfield Town,0-0,Aston Villa
+9,08/10/32,Leicester City,1-2,Liverpool
+9,08/10/32,Manchester City,2-3,Blackburn Rovers
+9,08/10/32,Portsmouth,2-1,Bolton Wanderers
+9,08/10/32,Sheffield United,3-1,Newcastle
+9,08/10/32,Sunderland,0-0,Leeds United
+9,08/10/32,West Bromwich,4-1,Wolverhampton
+9,15/10/32,Middlesbrough,1-1,Huddersfield Town
+10,15/10/32,Aston Villa,3-0,Sheffield United
+10,15/10/32,Blackburn Rovers,2-3,Arsenal
+10,15/10/32,Blackpool,2-1,Leicester City
+10,15/10/32,Bolton Wanderers,2-3,Chelsea
+10,15/10/32,Derby County,2-0,Everton
+10,15/10/32,Leeds United,2-1,Manchester City
+10,15/10/32,Liverpool,4-3,Portsmouth
+10,15/10/32,Newcastle,3-2,Wolverhampton
+10,15/10/32,Sheffield Wed.,3-1,Sunderland
+10,15/10/32,West Bromwich,1-0,Birmingham City
+10,22/10/32,Middlesbrough,1-2,Sunderland
+11,22/10/32,Aston Villa,1-0,Birmingham City
+11,22/10/32,Bolton Wanderers,2-1,Manchester City
+11,22/10/32,Chelsea,1-3,Derby County
+11,22/10/32,Huddersfield Town,0-3,Blackburn Rovers
+11,22/10/32,Leicester City,2-2,Everton
+11,22/10/32,Liverpool,2-3,Arsenal
+11,22/10/32,Newcastle,3-0,West Bromwich
+11,22/10/32,Portsmouth,2-1,Blackpool
+11,22/10/32,Sheffield United,0-0,Leeds United
+11,22/10/32,Wolverhampton,3-5,Sheffield Wed.
+12,29/10/32,Arsenal,8-2,Leicester City
+12,29/10/32,Birmingham City,1-4,Middlesbrough
+12,29/10/32,Blackburn Rovers,3-0,Sheffield United
+12,29/10/32,Blackpool,4-0,Chelsea
+12,29/10/32,Derby County,2-3,Huddersfield Town
+12,29/10/32,Everton,1-1,Portsmouth
+12,29/10/32,Leeds United,2-0,Wolverhampton
+12,29/10/32,Manchester City,1-1,Liverpool
+12,29/10/32,Sheffield Wed.,2-0,Newcastle
+12,29/10/32,Sunderland,7-4,Bolton Wanderers
+12,29/10/32,West Bromwich,3-1,Aston Villa
+12,05/11/32,Middlesbrough,0-3,Derby County
+13,05/11/32,Aston Villa,6-2,Blackpool
+13,05/11/32,Bolton Wanderers,4-2,Blackburn Rovers
+13,05/11/32,Chelsea,4-2,Birmingham City
+13,05/11/32,Huddersfield Town,2-1,Sunderland
+13,05/11/32,Leicester City,0-0,Sheffield Wed.
+13,05/11/32,Liverpool,0-1,Leeds United
+13,05/11/32,Newcastle,1-2,Everton
+13,05/11/32,Portsmouth,3-0,West Bromwich
+13,05/11/32,Sheffield United,2-5,Manchester City
+13,05/11/32,Wolverhampton,1-7,Arsenal
+13,12/11/32,Blackpool,3-1,Middlesbrough
+14,12/11/32,Arsenal,1-0,Newcastle
+14,12/11/32,Birmingham City,0-2,Huddersfield Town
+14,12/11/32,Blackburn Rovers,2-2,Liverpool
+14,12/11/32,Derby County,4-1,Bolton Wanderers
+14,12/11/32,Everton,3-3,Aston Villa
+14,12/11/32,Leeds United,1-1,Leicester City
+14,12/11/32,Manchester City,4-1,Wolverhampton
+14,12/11/32,Sheffield Wed.,2-1,Portsmouth
+14,12/11/32,Sunderland,2-2,Sheffield United
+14,12/11/32,West Bromwich,3-2,Chelsea
+14,19/11/32,Middlesbrough,0-2,Everton
+15,19/11/32,Aston Villa,5-3,Arsenal
+15,19/11/32,Bolton Wanderers,1-0,Blackpool
+15,19/11/32,Chelsea,0-2,Sheffield Wed.
+15,19/11/32,Huddersfield Town,2-1,West Bromwich
+15,19/11/32,Leicester City,1-1,Blackburn Rovers
+15,19/11/32,Liverpool,6-1,Derby County
+15,19/11/32,Newcastle,2-0,Manchester City
+15,19/11/32,Portsmouth,3-3,Leeds United
+15,19/11/32,Sheffield United,2-1,Birmingham City
+15,19/11/32,Wolverhampton,0-2,Sunderland
+15,26/11/32,Arsenal,4-2,Middlesbrough
+16,26/11/32,Birmingham City,0-0,Wolverhampton
+16,26/11/32,Blackburn Rovers,3-2,Portsmouth
+16,26/11/32,Blackpool,4-1,Liverpool
+16,26/11/32,Derby County,3-2,Leicester City
+16,26/11/32,Everton,2-2,Bolton Wanderers
+16,26/11/32,Leeds United,2-0,Chelsea
+16,26/11/32,Manchester City,5-2,Aston Villa
+16,26/11/32,Sheffield Wed.,2-1,Huddersfield Town
+16,26/11/32,Sunderland,0-2,Newcastle
+16,26/11/32,West Bromwich,0-1,Sheffield United
+16,03/12/32,Middlesbrough,3-1,West Bromwich
+17,03/12/32,Aston Villa,3-6,Sheffield Wed.
+17,03/12/32,Bolton Wanderers,2-2,Birmingham City
+17,03/12/32,Chelsea,1-0,Everton
+17,03/12/32,Huddersfield Town,0-1,Blackpool
+17,03/12/32,Leicester City,1-2,Manchester City
+17,03/12/32,Liverpool,3-3,Sunderland
+17,03/12/32,Newcastle,3-1,Leeds United
+17,03/12/32,Portsmouth,1-3,Arsenal
+17,03/12/32,Sheffield United,4-3,Derby County
+17,03/12/32,Wolverhampton,5-3,Blackburn Rovers
+17,10/12/32,Blackburn Rovers,2-1,Newcastle
+17,10/12/32,Sheffield Wed.,2-1,Middlesbrough
+18,10/12/32,Arsenal,4-1,Chelsea
+18,10/12/32,Birmingham City,3-0,Liverpool
+18,10/12/32,Blackpool,0-3,Sheffield United
+18,10/12/32,Derby County,4-4,Wolverhampton
+18,10/12/32,Everton,2-0,Huddersfield Town
+18,10/12/32,Leeds United,1-1,Aston Villa
+18,10/12/32,Manchester City,3-1,Portsmouth
+18,10/12/32,Sunderland,2-1,Leicester City
+18,10/12/32,West Bromwich,4-0,Bolton Wanderers
+19,17/12/32,Aston Villa,4-0,Blackburn Rovers
+19,17/12/32,Bolton Wanderers,3-0,Sheffield Wed.
+19,17/12/32,Chelsea,3-1,Manchester City
+19,17/12/32,Huddersfield Town,0-1,Arsenal
+19,17/12/32,Leicester City,2-2,Birmingham City
+19,17/12/32,Liverpool,2-0,West Bromwich
+19,17/12/32,Middlesbrough,0-1,Leeds United
+19,17/12/32,Newcastle,0-0,Derby County
+19,17/12/32,Portsmouth,1-3,Sunderland
+19,17/12/32,Sheffield United,3-2,Everton
+19,17/12/32,Wolverhampton,2-3,Blackpool
+19,24/12/32,Blackburn Rovers,4-2,Middlesbrough
+20,24/12/32,Arsenal,9-2,Sheffield United
+20,24/12/32,Birmingham City,4-0,Portsmouth
+20,24/12/32,Blackpool,0-4,Newcastle
+20,24/12/32,Derby County,0-0,Aston Villa
+20,24/12/32,Everton,5-1,Wolverhampton
+20,24/12/32,Leeds United,4-3,Bolton Wanderers
+20,24/12/32,Manchester City,3-0,Huddersfield Town
+20,24/12/32,Sheffield Wed.,3-0,Liverpool
+20,24/12/32,Sunderland,2-1,Chelsea
+20,24/12/32,West Bromwich,4-3,Leicester City
+21,26/12/32,Arsenal,1-2,Leeds United
+21,26/12/32,Aston Villa,1-3,Wolverhampton
+21,26/12/32,Blackburn Rovers,3-1,Everton
+21,26/12/32,Bolton Wanderers,2-1,Huddersfield Town
+21,26/12/32,Derby County,1-1,Blackpool
+21,26/12/32,Liverpool,3-0,Chelsea
+21,26/12/32,Manchester City,2-2,Sheffield Wed.
+21,26/12/32,Newcastle,2-1,Birmingham City
+21,26/12/32,Portsmouth,2-1,Leicester City
+21,26/12/32,West Bromwich,5-1,Sunderland
+20,27/12/32,Middlesbrough,2-2,Sheffield United
+22,27/12/32,Birmingham City,1-2,Newcastle
+22,27/12/32,Blackpool,4-1,Derby County
+22,27/12/32,Chelsea,0-2,Liverpool
+22,27/12/32,Everton,6-1,Blackburn Rovers
+22,27/12/32,Huddersfield Town,2-1,Bolton Wanderers
+22,27/12/32,Leeds United,0-0,Arsenal
+22,27/12/32,Leicester City,2-1,Portsmouth
+22,27/12/32,Sheffield Wed.,2-1,Manchester City
+22,27/12/32,Wolverhampton,2-4,Aston Villa
+21,31/12/32,Aston Villa,3-1,Middlesbrough
+22,31/12/32,Everton,1-2,West Bromwich
+22,31/12/32,Manchester City,2-4,Sunderland
+23,31/12/32,Arsenal,3-0,Birmingham City
+23,31/12/32,Blackburn Rovers,1-3,Chelsea
+23,31/12/32,Blackpool,3-4,Sheffield Wed.
+23,31/12/32,Derby County,5-1,Leeds United
+23,31/12/32,Huddersfield Town,2-2,Portsmouth
+23,31/12/32,Newcastle,3-1,Bolton Wanderers
+23,31/12/32,Sheffield United,5-2,Leicester City
+23,31/12/32,Wolverhampton,3-1,Liverpool
+22,02/01/33,Middlesbrough,2-3,Newcastle
+23,02/01/33,Sunderland,2-2,West Bromwich
+24,02/01/33,Blackburn Rovers,6-5,Blackpool
+24,02/01/33,Bolton Wanderers,3-3,Sheffield United
+24,02/01/33,Sheffield Wed.,3-2,Arsenal
+23,07/01/33,Middlesbrough,2-0,Manchester City
+24,07/01/33,Birmingham City,4-0,Everton
+24,07/01/33,Chelsea,0-1,Huddersfield Town
+24,07/01/33,Leeds United,3-1,Blackburn Rovers
+24,07/01/33,Leicester City,2-2,Wolverhampton
+24,07/01/33,Liverpool,3-0,Newcastle
+24,07/01/33,Portsmouth,1-0,Sheffield United
+24,07/01/33,Sunderland,3-2,Arsenal
+24,07/01/33,West Bromwich,2-1,Blackpool
+25,07/01/33,Bolton Wanderers,0-1,Aston Villa
+25,07/01/33,Sheffield Wed.,0-0,Derby County
+25,21/01/33,Aston Villa,5-2,Liverpool
+25,21/01/33,Blackpool,0-1,Birmingham City
+25,21/01/33,Derby County,2-2,West Bromwich
+25,21/01/33,Everton,6-1,Sunderland
+25,21/01/33,Huddersfield Town,2-2,Leeds United
+25,21/01/33,Newcastle,2-1,Leicester City
+25,21/01/33,Sheffield United,4-1,Chelsea
+25,21/01/33,Wolverhampton,5-2,Portsmouth
+26,21/01/33,Arsenal,2-1,Manchester City
+26,21/01/33,Blackburn Rovers,1-1,Sheffield Wed.
+26,21/01/33,Middlesbrough,2-1,Bolton Wanderers
+26,28/01/33,Chelsea,3-1,Wolverhampton
+26,28/01/33,Portsmouth,2-0,Newcastle
+26,01/02/33,Birmingham City,3-1,Derby County
+26,01/02/33,Huddersfield Town,1-0,Sheffield United
+26,01/02/33,Liverpool,1-3,Middlesbrough
+26,01/02/33,Manchester City,3-0,Everton
+26,01/02/33,Sunderland,1-1,Blackpool
+27,01/02/33,Bolton Wanderers,0-4,Arsenal
+26,04/02/33,Leeds United,1-1,West Bromwich
+26,04/02/33,Middlesbrough,1-1,Leicester City
+27,04/02/33,Aston Villa,4-1,Portsmouth
+27,04/02/33,Blackburn Rovers,2-0,Birmingham City
+27,04/02/33,Derby County,3-0,Sunderland
+27,04/02/33,Newcastle,2-0,Chelsea
+27,04/02/33,Sheffield United,2-3,Sheffield Wed.
+27,04/02/33,Wolverhampton,6-4,Huddersfield Town
+28,04/02/33,Blackpool,1-0,Manchester City
+28,04/02/33,Bolton Wanderers,3-3,Liverpool
+28,04/02/33,Everton,1-1,Arsenal
+27,08/02/33,Sheffield Wed.,2-0,Leeds United
+27,08/02/33,West Bromwich,1-3,Blackburn Rovers
+27,09/02/33,Leicester City,3-0,Aston Villa
+27,11/02/33,Portsmouth,2-0,Middlesbrough

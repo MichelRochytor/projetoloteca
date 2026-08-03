@@ -1,0 +1,511 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+2,17/04/22,Castanhal,3-0,Moto Club
+3,17/04/22,São Paulo Crystal,1-0,Afogados da Ingazeira
+5,17/04/22,Ceilândia,1-0,Costa Rica EC
+6,17/04/22,Nova Venécia FC,0-0,Bahia de Feira
+7,17/04/22,Nova Iguaçu,1-3,Cianorte
+7,17/04/22,Pérolas Negras,1-2,Santo André
+8,17/04/22,Aimoré,3-2,Marcílio Dias
+2,17/04/22,Juventude-MA,2-4,Fluminense-PI
+5,17/04/22,Iporá,0-1,CEOV Operário
+1,17/04/22,São Raimundo-AM,2-1,São Raimundo-RR
+2,17/04/22,4 de Julho,1-1,Pacajus
+2,17/04/22,Tocantinópolis,3-1,Tuna Luso
+3,17/04/22,América-RN,2-1,Sousa
+3,17/04/22,Retrô FC,2-0,Crato
+3,17/04/22,Icasa,1-0,Globo FC
+4,17/04/22,Lagarto-SE,0-0,Santa Cruz
+4,17/04/22,Juazeirense,1-1,CSE
+4,17/04/22,ASA,1-0,Atlético-BA
+4,17/04/22,Jacuipense,1-1,Sergipe
+5,17/04/22,Ação,1-3,Grêmio Anápolis
+5,17/04/22,Anápolis,0-2,Brasiliense
+6,17/04/22,Caldense,0-0,Inter de Limeira
+7,17/04/22,Oeste,0-0,Paraná
+7,17/04/22,São Bernardo,0-0,Portuguesa-RJ
+8,17/04/22,Juventus Jaraguá,1-1,São Luiz
+8,17/04/22,FC Cascavel,1-0,Próspera
+6,17/04/22,Ferroviária,8-0,URT
+6,17/04/22,Pouso Alegre,2-1,Real Noroeste
+1,17/04/22,SC Humaitá,0-1,Amazonas FC
+1,18/04/22,Trem,2-2,Rio Branco-AC
+1,18/04/22,Náutico-RR,0-3,Porto Velho Esporte Clube
+2,22/04/22,Pacajus,1-0,Castanhal
+7,23/04/22,Santo André,0-1,Nova Iguaçu
+8,23/04/22,Caxias,1-0,Juventus Jaraguá
+8,23/04/22,Marcílio Dias,1-1,FC Cascavel
+4,23/04/22,CSE,3-3,Jacuipense
+4,23/04/22,Santa Cruz,1-2,ASA
+5,23/04/22,Grêmio Anápolis,0-0,Ceilândia
+5,23/04/22,CEOV Operário,0-0,Anápolis
+6,23/04/22,URT,0-3,Nova Venécia FC
+6,23/04/22,Inter de Limeira,3-0,Pouso Alegre
+8,23/04/22,São Luiz,2-0,Azuriz Futebol
+1,23/04/22,Porto Velho Esporte Clube,3-2,SC Humaitá
+2,24/04/22,Tuna Luso,0-3,Juventude-MA
+3,24/04/22,Crato,0-0,América-RN
+8,24/04/22,Próspera,0-1,Aimoré
+5,24/04/22,Brasiliense,2-2,Iporá
+1,24/04/22,São Raimundo-RR,2-1,Trem
+1,24/04/22,Amazonas FC,3-0,Náutico-RR
+2,24/04/22,Fluminense-PI,4-0,Tocantinópolis
+3,24/04/22,Afogados da Ingazeira,1-0,Icasa
+3,24/04/22,Sousa,0-3,Retrô FC
+3,24/04/22,Globo FC,1-2,São Paulo Crystal
+4,24/04/22,Atlético-BA,1-1,Lagarto-SE
+4,24/04/22,Sergipe,1-1,Juazeirense
+6,24/04/22,Bahia de Feira,0-0,Ferroviária
+6,24/04/22,Real Noroeste,2-1,Caldense
+7,24/04/22,Paraná,0-0,São Bernardo
+7,24/04/22,Cianorte,2-2,Pérolas Negras
+2,24/04/22,Moto Club,3-0,4 de Julho
+1,24/04/22,Rio Branco-AC,1-0,São Raimundo-AM
+7,24/04/22,Portuguesa-RJ,1-1,Oeste
+8,27/04/22,Azuriz Futebol,1-0,Caxias
+5,27/04/22,Costa Rica EC,2-0,Ação
+3,30/04/22,São Paulo Crystal,2-3,Sousa
+3,30/04/22,Crato,0-1,Icasa
+7,30/04/22,Nova Iguaçu,1-1,Paraná
+7,30/04/22,Santo André,0-1,São Bernardo
+5,30/04/22,Ceilândia,3-0,CEOV Operário
+2,30/04/22,4 de Julho,3-0,Tuna Luso
+2,30/04/22,Tocantinópolis,1-1,Pacajus
+5,30/04/22,Grêmio Anápolis,1-3,Anápolis
+6,30/04/22,URT,0-1,Pouso Alegre
+3,30/04/22,América-RN,0-1,Afogados da Ingazeira
+6,30/04/22,Ferroviária,1-2,Real Noroeste
+1,30/04/22,Náutico-RR,1-1,São Raimundo-RR
+6,30/04/22,Caldense,0-2,Bahia de Feira
+6,01/05/22,Nova Venécia FC,2-2,Inter de Limeira
+7,01/05/22,Pérolas Negras,1-1,Portuguesa-RJ
+8,01/05/22,Azuriz Futebol,1-0,Marcílio Dias
+8,01/05/22,Caxias,4-2,Aimoré
+5,01/05/22,Iporá,1-2,Costa Rica EC
+1,01/05/22,São Raimundo-AM,0-1,Porto Velho Esporte Clube
+4,01/05/22,Lagarto-SE,3-3,CSE
+4,01/05/22,ASA,1-0,Sergipe
+4,01/05/22,Atlético-BA,0-1,Jacuipense
+5,01/05/22,Ação,0-2,Brasiliense
+8,01/05/22,Juventus Jaraguá,0-1,Próspera
+8,01/05/22,FC Cascavel,2-1,São Luiz
+1,01/05/22,Rio Branco-AC,2-0,SC Humaitá
+2,02/05/22,Moto Club,3-0,Juventude-MA
+7,02/05/22,Oeste,2-1,Cianorte
+1,03/05/22,Trem,0-2,Amazonas FC
+2,03/05/22,Castanhal,2-2,Fluminense-PI
+3,04/05/22,Retrô FC,1-0,Globo FC
+4,04/05/22,Juazeirense,1-0,Santa Cruz
+2,06/05/22,Pacajus,0-2,Moto Club
+2,07/05/22,Tuna Luso,1-1,Fluminense-PI
+4,07/05/22,Lagarto-SE,4-0,ASA
+7,07/05/22,Nova Iguaçu,1-1,Pérolas Negras
+8,07/05/22,Juventus Jaraguá,2-2,Azuriz Futebol
+8,07/05/22,Aimoré,0-1,FC Cascavel
+2,07/05/22,Juventude-MA,0-0,Tocantinópolis
+5,07/05/22,Ceilândia,1-0,Ação
+3,07/05/22,Sousa,2-0,Crato
+5,07/05/22,CEOV Operário,0-2,Brasiliense
+6,07/05/22,Inter de Limeira,1-3,Real Noroeste
+7,07/05/22,São Bernardo,3-0,Oeste
+1,07/05/22,Porto Velho Esporte Clube,1-3,Amazonas FC
+3,07/05/22,América-RN,0-0,Retrô FC
+6,07/05/22,Pouso Alegre,1-0,Caldense
+1,07/05/22,São Raimundo-RR,1-0,Rio Branco-AC
+8,07/05/22,São Luiz,1-1,Caxias
+4,07/05/22,CSE,2-2,Sergipe
+4,08/05/22,Jacuipense,1-2,Juazeirense
+6,08/05/22,Nova Venécia FC,2-1,Ferroviária
+8,08/05/22,Próspera,0-1,Marcílio Dias
+1,08/05/22,São Raimundo-AM,3-1,Trem
+2,08/05/22,4 de Julho,0-3,Castanhal
+3,08/05/22,Afogados da Ingazeira,1-1,Globo FC
+4,08/05/22,Santa Cruz,3-2,Atlético-BA
+5,08/05/22,Costa Rica EC,1-1,Grêmio Anápolis
+5,08/05/22,Anápolis,1-0,Iporá
+6,08/05/22,Bahia de Feira,0-1,URT
+7,08/05/22,Paraná,2-0,Portuguesa-RJ
+7,08/05/22,Cianorte,1-1,Santo André
+3,08/05/22,Icasa,1-0,São Paulo Crystal
+1,08/05/22,SC Humaitá,1-1,Náutico-RR
+4,11/05/22,Sergipe,0-0,Lagarto-SE
+3,14/05/22,São Paulo Crystal,2-0,Crato
+8,14/05/22,Aimoré,2-1,São Luiz
+2,14/05/22,Castanhal,0-0,Tuna Luso
+2,14/05/22,Juventude-MA,0-1,Pacajus
+2,14/05/22,Tocantinópolis,2-0,Moto Club
+6,14/05/22,Real Noroeste,1-0,Nova Venécia FC
+7,14/05/22,São Bernardo,1-0,Cianorte
+8,14/05/22,Marcílio Dias,2-1,Juventus Jaraguá
+8,14/05/22,FC Cascavel,2-0,Caxias
+6,14/05/22,Pouso Alegre,0-0,Bahia de Feira
+6,14/05/22,Ferroviária,1-1,Inter de Limeira
+1,14/05/22,Náutico-RR,1-4,Rio Branco-AC
+3,15/05/22,Globo FC,0-2,América-RN
+7,15/05/22,Pérolas Negras,0-1,Paraná
+5,15/05/22,Brasiliense,2-1,Ceilândia
+5,15/05/22,Iporá,0-0,Grêmio Anápolis
+2,15/05/22,Fluminense-PI,0-0,4 de Julho
+4,15/05/22,ASA,2-3,CSE
+4,15/05/22,Jacuipense,2-0,Santa Cruz
+4,15/05/22,Juazeirense,0-2,Atlético-BA
+5,15/05/22,Ação,1-2,CEOV Operário
+6,15/05/22,Caldense,1-1,URT
+7,15/05/22,Oeste,2-0,Santo André
+1,15/05/22,Amazonas FC,2-2,São Raimundo-AM
+3,15/05/22,Icasa,2-2,Sousa
+7,15/05/22,Portuguesa-RJ,1-1,Nova Iguaçu
+1,15/05/22,SC Humaitá,2-1,São Raimundo-RR
+3,15/05/22,Retrô FC,1-1,Afogados da Ingazeira
+8,16/05/22,Azuriz Futebol,0-0,Próspera
+5,16/05/22,Anápolis,1-0,Costa Rica EC
+1,16/05/22,Trem,2-2,Porto Velho Esporte Clube
+2,20/05/22,Pacajus,2-0,Tuna Luso
+3,21/05/22,Crato,2-1,Globo FC
+4,21/05/22,Lagarto-SE,2-0,Juazeirense
+7,21/05/22,Nova Iguaçu,2-1,Oeste
+7,21/05/22,Santo André,1-0,Portuguesa-RJ
+8,21/05/22,Juventus Jaraguá,1-1,FC Cascavel
+8,21/05/22,Caxias,3-1,Marcílio Dias
+2,21/05/22,Castanhal,0-0,Juventude-MA
+5,21/05/22,Ceilândia,0-0,Iporá
+1,21/05/22,São Raimundo-AM,5-1,Náutico-RR
+2,21/05/22,4 de Julho,2-2,Tocantinópolis
+3,21/05/22,Sousa,3-2,Afogados da Ingazeira
+3,21/05/22,Retrô FC,3-0,Icasa
+6,21/05/22,URT,1-0,Real Noroeste
+3,21/05/22,América-RN,0-0,São Paulo Crystal
+6,21/05/22,Ferroviária,0-1,Pouso Alegre
+1,21/05/22,São Raimundo-RR,2-2,Porto Velho Esporte Clube
+1,21/05/22,Rio Branco-AC,2-2,Amazonas FC
+6,22/05/22,Nova Venécia FC,3-1,Caldense
+7,22/05/22,Pérolas Negras,0-0,São Bernardo
+8,22/05/22,Azuriz Futebol,3-0,Aimoré
+8,22/05/22,São Luiz,3-2,Próspera
+4,22/05/22,Santa Cruz,2-1,CSE
+4,22/05/22,ASA,1-1,Jacuipense
+4,22/05/22,Atlético-BA,0-0,Sergipe
+5,22/05/22,Ação,2-3,Anápolis
+6,22/05/22,Bahia de Feira,0-1,Inter de Limeira
+7,22/05/22,Cianorte,0-1,Paraná
+5,22/05/22,Costa Rica EC,1-0,CEOV Operário
+2,22/05/22,Moto Club,3-2,Fluminense-PI
+1,23/05/22,Trem,2-1,SC Humaitá
+5,25/05/22,Grêmio Anápolis,1-2,Brasiliense
+2,28/05/22,Tuna Luso,0-2,Moto Club
+7,28/05/22,Paraná,1-0,Santo André
+7,28/05/22,Portuguesa-RJ,0-0,Cianorte
+8,28/05/22,Aimoré,2-0,Juventus Jaraguá
+2,28/05/22,Juventude-MA,0-0,4 de Julho
+5,28/05/22,Brasiliense,0-2,Costa Rica EC
+2,28/05/22,Fluminense-PI,1-2,Pacajus
+6,28/05/22,Inter de Limeira,1-0,URT
+6,28/05/22,Caldense,1-2,Ferroviária
+6,28/05/22,Real Noroeste,1-1,Bahia de Feira
+7,28/05/22,São Bernardo,1-0,Nova Iguaçu
+7,28/05/22,Oeste,0-1,Pérolas Negras
+8,28/05/22,Marcílio Dias,1-1,São Luiz
+1,28/05/22,Porto Velho Esporte Clube,0-1,Rio Branco-AC
+3,28/05/22,Icasa,1-1,América-RN
+1,28/05/22,Náutico-RR,3-5,Trem
+4,28/05/22,Juazeirense,0-0,ASA
+2,28/05/22,Tocantinópolis,4-1,Castanhal
+4,28/05/22,CSE,2-1,Atlético-BA
+5,29/05/22,CEOV Operário,1-0,Grêmio Anápolis
+3,29/05/22,São Paulo Crystal,1-4,Retrô FC
+3,29/05/22,Globo FC,0-0,Sousa
+6,29/05/22,Pouso Alegre,1-1,Nova Venécia FC
+8,29/05/22,Próspera,1-2,Caxias
+5,29/05/22,Iporá,3-0,Ação
+8,29/05/22,FC Cascavel,0-2,Azuriz Futebol
+1,29/05/22,Amazonas FC,1-1,São Raimundo-RR
+3,29/05/22,Afogados da Ingazeira,2-0,Crato
+4,29/05/22,Jacuipense,2-2,Lagarto-SE
+4,29/05/22,Sergipe,1-1,Santa Cruz
+1,29/05/22,SC Humaitá,0-1,São Raimundo-AM
+5,30/05/22,Anápolis,2-0,Ceilândia
+2,03/06/22,Pacajus,0-0,Fluminense-PI
+7,04/06/22,Nova Iguaçu,0-0,São Bernardo
+3,04/06/22,Crato,0-2,Afogados da Ingazeira
+4,04/06/22,Lagarto-SE,2-1,Jacuipense
+7,04/06/22,Santo André,1-1,Paraná
+8,04/06/22,Juventus Jaraguá,0-0,Aimoré
+8,04/06/22,Caxias,1-0,Próspera
+2,04/06/22,Castanhal,2-1,Tocantinópolis
+5,04/06/22,Ceilândia,1-2,Anápolis
+1,04/06/22,São Raimundo-AM,0-0,SC Humaitá
+2,04/06/22,4 de Julho,2-2,Juventude-MA
+3,04/06/22,Retrô FC,3-0,São Paulo Crystal
+5,04/06/22,Grêmio Anápolis,0-0,CEOV Operário
+6,04/06/22,URT,2-2,Inter de Limeira
+6,04/06/22,Bahia de Feira,2-2,Real Noroeste
+3,04/06/22,América-RN,3-0,Icasa
+6,04/06/22,Ferroviária,1-0,Caldense
+6,05/06/22,Nova Venécia FC,1-1,Pouso Alegre
+7,05/06/22,Pérolas Negras,2-2,Oeste
+8,05/06/22,Azuriz Futebol,3-2,FC Cascavel
+8,05/06/22,São Luiz,1-0,Marcílio Dias
+3,05/06/22,Sousa,2-1,Globo FC
+4,05/06/22,Atlético-BA,2-1,CSE
+4,05/06/22,ASA,1-0,Juazeirense
+4,05/06/22,Santa Cruz,1-0,Sergipe
+5,05/06/22,Ação,1-2,Iporá
+7,05/06/22,Cianorte,1-1,Portuguesa-RJ
+5,05/06/22,Costa Rica EC,0-1,Brasiliense
+2,05/06/22,Moto Club,2-0,Tuna Luso
+1,05/06/22,Rio Branco-AC,1-0,Porto Velho Esporte Clube
+1,05/06/22,São Raimundo-RR,1-2,Amazonas FC
+1,06/06/22,Trem,10-2,Náutico-RR
+2,11/06/22,Tuna Luso,1-0,Pacajus
+3,11/06/22,São Paulo Crystal,1-1,América-RN
+3,11/06/22,Globo FC,3-0,Crato
+7,11/06/22,Portuguesa-RJ,1-0,Santo André
+2,11/06/22,Juventude-MA,1-0,Castanhal
+5,11/06/22,Brasiliense,2-0,Grêmio Anápolis
+2,11/06/22,Fluminense-PI,2-3,Moto Club
+4,11/06/22,Sergipe,2-1,Atlético-BA
+6,11/06/22,Caldense,1-2,Nova Venécia FC
+6,11/06/22,Inter de Limeira,0-1,Bahia de Feira
+6,11/06/22,Real Noroeste,0-0,URT
+7,11/06/22,Paraná,1-2,Cianorte
+7,11/06/22,São Bernardo,4-0,Pérolas Negras
+1,11/06/22,Porto Velho Esporte Clube,0-1,São Raimundo-RR
+6,11/06/22,Pouso Alegre,0-0,Ferroviária
+1,11/06/22,Náutico-RR,1-2,São Raimundo-AM
+4,11/06/22,Juazeirense,1-0,Lagarto-SE
+2,11/06/22,Tocantinópolis,0-0,4 de Julho
+4,11/06/22,CSE,0-0,Santa Cruz
+7,11/06/22,Oeste,1-1,Nova Iguaçu
+5,12/06/22,CEOV Operário,1-0,Costa Rica EC
+8,12/06/22,FC Cascavel,1-0,Juventus Jaraguá
+8,12/06/22,Próspera,2-2,São Luiz
+8,12/06/22,Aimoré,0-0,Azuriz Futebol
+8,12/06/22,Marcílio Dias,2-1,Caxias
+5,12/06/22,Iporá,2-1,Ceilândia
+1,12/06/22,Amazonas FC,3-1,Rio Branco-AC
+3,12/06/22,Afogados da Ingazeira,0-1,Sousa
+4,12/06/22,Jacuipense,0-0,ASA
+3,12/06/22,Icasa,1-0,Retrô FC
+1,12/06/22,SC Humaitá,0-0,Trem
+5,13/06/22,Anápolis,2-0,Ação
+4,16/06/22,Atlético-BA,1-1,Juazeirense
+2,17/06/22,Pacajus,0-1,Juventude-MA
+7,18/06/22,Nova Iguaçu,0-2,Portuguesa-RJ
+2,18/06/22,Tuna Luso,0-3,Castanhal
+3,18/06/22,Crato,1-1,São Paulo Crystal
+4,18/06/22,Lagarto-SE,2-1,Sergipe
+7,18/06/22,Santo André,2-0,Oeste
+8,18/06/22,Juventus Jaraguá,1-0,Marcílio Dias
+8,18/06/22,Caxias,0-0,FC Cascavel
+5,18/06/22,Ceilândia,0-1,Brasiliense
+8,18/06/22,São Luiz,0-1,Aimoré
+2,18/06/22,4 de Julho,1-2,Fluminense-PI
+5,18/06/22,Grêmio Anápolis,0-0,Iporá
+6,18/06/22,Inter de Limeira,0-1,Ferroviária
+6,18/06/22,Bahia de Feira,2-0,Pouso Alegre
+6,18/06/22,URT,3-2,Caldense
+7,18/06/22,Paraná,2-0,Pérolas Negras
+1,18/06/22,Porto Velho Esporte Clube,1-4,Trem
+3,18/06/22,América-RN,1-0,Globo FC
+1,18/06/22,São Raimundo-RR,5-0,SC Humaitá
+5,19/06/22,CEOV Operário,1-1,Ação
+6,19/06/22,Nova Venécia FC,2-1,Real Noroeste
+1,19/06/22,São Raimundo-AM,1-1,Amazonas FC
+3,19/06/22,Afogados da Ingazeira,1-1,Retrô FC
+3,19/06/22,Sousa,1-2,Icasa
+4,19/06/22,CSE,0-1,ASA
+4,19/06/22,Santa Cruz,0-2,Jacuipense
+7,19/06/22,Cianorte,0-1,São Bernardo
+5,19/06/22,Costa Rica EC,1-1,Anápolis
+2,19/06/22,Moto Club,1-2,Tocantinópolis
+1,19/06/22,Rio Branco-AC,5-0,Náutico-RR
+8,20/06/22,Próspera,1-3,Azuriz Futebol
+3,25/06/22,Crato,0-1,Sousa
+6,25/06/22,Real Noroeste,2-2,Inter de Limeira
+7,25/06/22,Portuguesa-RJ,1-0,Paraná
+7,25/06/22,Santo André,1-1,Cianorte
+8,25/06/22,Caxias,2-1,São Luiz
+2,25/06/22,Castanhal,0-0,4 de Julho
+1,25/06/22,Amazonas FC,1-2,Porto Velho Esporte Clube
+2,25/06/22,Tocantinópolis,0-1,Juventude-MA
+4,25/06/22,Sergipe,2-1,CSE
+5,25/06/22,Grêmio Anápolis,1-2,Costa Rica EC
+6,25/06/22,URT,2-5,Bahia de Feira
+6,25/06/22,Caldense,0-1,Pouso Alegre
+8,25/06/22,FC Cascavel,0-1,Aimoré
+6,25/06/22,Ferroviária,0-0,Nova Venécia FC
+1,25/06/22,Náutico-RR,4-2,SC Humaitá
+4,25/06/22,Juazeirense,0-2,Jacuipense
+3,26/06/22,Globo FC,2-0,Afogados da Ingazeira
+7,26/06/22,Pérolas Negras,0-1,Nova Iguaçu
+8,26/06/22,Azuriz Futebol,0-2,Juventus Jaraguá
+8,26/06/22,Marcílio Dias,2-0,Próspera
+5,26/06/22,Brasiliense,2-1,CEOV Operário
+5,26/06/22,Iporá,1-1,Anápolis
+2,26/06/22,Fluminense-PI,0-0,Tuna Luso
+3,26/06/22,Retrô FC,1-0,América-RN
+4,26/06/22,ASA,1-1,Lagarto-SE
+5,26/06/22,Ação,2-1,Ceilândia
+7,26/06/22,Oeste,0-0,São Bernardo
+2,26/06/22,Moto Club,1-1,Pacajus
+1,26/06/22,Rio Branco-AC,0-0,São Raimundo-RR
+1,27/06/22,Trem,0-0,São Raimundo-AM
+4,27/06/22,Atlético-BA,1-4,Santa Cruz
+2,01/07/22,Pacajus,2-3,Tocantinópolis
+2,02/07/22,Tuna Luso,2-1,4 de Julho
+3,02/07/22,Globo FC,1-2,Retrô FC
+6,02/07/22,Real Noroeste,3-0,Ferroviária
+2,02/07/22,Juventude-MA,0-1,Moto Club
+5,02/07/22,Brasiliense,2-1,Ação
+8,02/07/22,São Luiz,0-0,FC Cascavel
+2,02/07/22,Fluminense-PI,3-1,Castanhal
+6,02/07/22,Inter de Limeira,2-1,Nova Venécia FC
+6,02/07/22,Bahia de Feira,1-0,Caldense
+7,02/07/22,Paraná,2-1,Nova Iguaçu
+7,02/07/22,São Bernardo,1-0,Santo André
+1,02/07/22,Porto Velho Esporte Clube,1-1,São Raimundo-AM
+1,02/07/22,São Raimundo-RR,2-1,Náutico-RR
+4,02/07/22,CSE,0-1,Lagarto-SE
+5,03/07/22,CEOV Operário,1-2,Ceilândia
+7,03/07/22,Portuguesa-RJ,2-1,Pérolas Negras
+8,03/07/22,Marcílio Dias,0-1,Azuriz Futebol
+8,03/07/22,Aimoré,1-1,Caxias
+6,03/07/22,Pouso Alegre,2-0,URT
+1,03/07/22,Amazonas FC,4-1,Trem
+3,03/07/22,Afogados da Ingazeira,0-0,América-RN
+3,03/07/22,Sousa,1-0,São Paulo Crystal
+4,03/07/22,Sergipe,2-0,ASA
+4,03/07/22,Santa Cruz,1-0,Juazeirense
+4,03/07/22,Jacuipense,1-1,Atlético-BA
+5,03/07/22,Anápolis,0-1,Grêmio Anápolis
+7,03/07/22,Cianorte,1-2,Oeste
+5,03/07/22,Costa Rica EC,1-0,Iporá
+3,03/07/22,Icasa,3-0,Crato
+1,03/07/22,SC Humaitá,1-2,Rio Branco-AC
+8,04/07/22,Próspera,1-1,Juventus Jaraguá
+3,06/07/22,São Paulo Crystal,1-1,Icasa
+7,09/07/22,Nova Iguaçu,2-1,Santo André
+3,09/07/22,São Paulo Crystal,2-3,Globo FC
+8,09/07/22,Juventus Jaraguá,0-3,Caxias
+2,09/07/22,Juventude-MA,2-2,Tuna Luso
+5,09/07/22,Ceilândia,1-0,Grêmio Anápolis
+2,09/07/22,4 de Julho,2-1,Moto Club
+2,09/07/22,Tocantinópolis,2-1,Fluminense-PI
+3,09/07/22,Retrô FC,1-0,Sousa
+6,09/07/22,Caldense,0-1,Real Noroeste
+7,09/07/22,São Bernardo,1-1,Paraná
+8,09/07/22,FC Cascavel,3-0,Marcílio Dias
+3,09/07/22,Icasa,2-5,Afogados da Ingazeira
+4,09/07/22,Lagarto-SE,4-1,Atlético-BA
+6,09/07/22,Ferroviária,0-2,Bahia de Feira
+1,09/07/22,Náutico-RR,0-6,Amazonas FC
+4,09/07/22,Juazeirense,1-0,Sergipe
+6,10/07/22,Nova Venécia FC,1-1,URT
+7,10/07/22,Pérolas Negras,0-2,Cianorte
+8,10/07/22,Aimoré,1-0,Próspera
+8,10/07/22,Azuriz Futebol,1-2,São Luiz
+2,10/07/22,Castanhal,1-1,Pacajus
+5,10/07/22,Iporá,1-1,Brasiliense
+1,10/07/22,São Raimundo-AM,1-0,Rio Branco-AC
+4,10/07/22,Jacuipense,2-1,CSE
+4,10/07/22,ASA,2-0,Santa Cruz
+5,10/07/22,Anápolis,0-1,CEOV Operário
+5,10/07/22,Ação,2-2,Costa Rica EC
+7,10/07/22,Oeste,2-1,Portuguesa-RJ
+6,10/07/22,Pouso Alegre,2-1,Inter de Limeira
+1,10/07/22,SC Humaitá,2-4,Porto Velho Esporte Clube
+3,10/07/22,América-RN,8-1,Crato
+1,11/07/22,Trem,1-2,São Raimundo-RR
+3,16/07/22,Sousa,1-2,América-RN
+3,16/07/22,Afogados da Ingazeira,7-0,São Paulo Crystal
+3,16/07/22,Crato,1-5,Retrô FC
+3,16/07/22,Globo FC,1-1,Icasa
+8,16/07/22,Caxias,1-0,Azuriz Futebol
+8,16/07/22,Próspera,1-2,FC Cascavel
+8,16/07/22,São Luiz,2-2,Juventus Jaraguá
+8,16/07/22,Marcílio Dias,2-3,Aimoré
+4,16/07/22,Santa Cruz,1-1,Lagarto-SE
+4,16/07/22,CSE,1-0,Juazeirense
+4,16/07/22,Atlético-BA,0-3,ASA
+4,16/07/22,Sergipe,2-0,Jacuipense
+6,16/07/22,Bahia de Feira,1-1,Nova Venécia FC
+6,16/07/22,Inter de Limeira,0-1,Caldense
+6,16/07/22,URT,2-0,Ferroviária
+6,16/07/22,Real Noroeste,0-0,Pouso Alegre
+1,16/07/22,Porto Velho Esporte Clube,8-0,Náutico-RR
+2,17/07/22,Pacajus,3-1,4 de Julho
+2,17/07/22,Tuna Luso,5-3,Tocantinópolis
+2,17/07/22,Moto Club,2-0,Castanhal
+2,17/07/22,Fluminense-PI,1-2,Juventude-MA
+7,17/07/22,Cianorte,0-1,Nova Iguaçu
+7,17/07/22,Paraná,0-1,Oeste
+7,17/07/22,Santo André,3-0,Pérolas Negras
+7,17/07/22,Portuguesa-RJ,2-0,São Bernardo
+1,17/07/22,Amazonas FC,6-0,SC Humaitá
+5,17/07/22,Costa Rica EC,0-3,Ceilândia
+5,17/07/22,CEOV Operário,1-0,Iporá
+5,17/07/22,Grêmio Anápolis,4-1,Ação
+5,17/07/22,Brasiliense,1-1,Anápolis
+1,17/07/22,São Raimundo-RR,1-1,São Raimundo-AM
+1,17/07/22,Rio Branco-AC,3-0,Trem
+2F,23/07/22,Portuguesa-RJ,0-1,Aimoré
+2F,23/07/22,Real Noroeste,5-2,Anápolis
+2F,23/07/22,Afogados da Ingazeira,1-2,ASA
+2F,23/07/22,FC Cascavel,0-0,Paraná
+2F,23/07/22,Juventude-MA,0-0,Amazonas FC
+2F,23/07/22,São Raimundo-AM,2-2,Tocantinópolis
+2F,23/07/22,São Raimundo-RR,0-0,Moto Club
+2F,23/07/22,Azuriz Futebol,1-1,São Bernardo
+2F,24/07/22,CEOV Operário,0-0,Pouso Alegre
+2F,24/07/22,Nova Venécia FC,3-1,Brasiliense
+2F,24/07/22,Santa Cruz,0-0,Retrô FC
+2F,24/07/22,Pacajus,1-1,Rio Branco-AC
+2F,24/07/22,Oeste,1-1,Caxias
+2F,24/07/22,Sousa,0-1,Lagarto-SE
+2F,24/07/22,Jacuipense,0-1,América-RN
+2F,24/07/22,Costa Rica EC,0-0,Bahia de Feira
+2F,30/07/22,Caxias,1-1(6-5 Pen.),Oeste
+2F,30/07/22,Aimoré,0-1(3-4 Pen.),Portuguesa-RJ
+2F,30/07/22,Paraná,0-0(5-4 Pen.),FC Cascavel
+2F,30/07/22,Tocantinópolis,4-1,São Raimundo-AM
+2F,30/07/22,Bahia de Feira,2-1,Costa Rica EC
+2F,30/07/22,São Bernardo,2-0,Azuriz Futebol
+2F,30/07/22,Pouso Alegre,2-0,CEOV Operário
+2F,31/07/22,Lagarto-SE,2-1,Sousa
+2F,31/07/22,Brasiliense,1-1,Nova Venécia FC
+2F,31/07/22,ASA,2-0,Afogados da Ingazeira
+2F,31/07/22,Anápolis,3-0(1-3 Pen.),Real Noroeste
+2F,31/07/22,Amazonas FC,2-1,Juventude-MA
+2F,31/07/22,América-RN,0-0,Jacuipense
+2F,31/07/22,Moto Club,1-1(8-7 Pen.),São Raimundo-RR
+2F,31/07/22,Rio Branco-AC,0-0(5-4 Pen.),Pacajus
+2F,01/08/22,Retrô FC,1-2,Santa Cruz
+1/8,06/08/22,Portuguesa-RJ,2-1,Nova Venécia FC
+1/8,06/08/22,Bahia de Feira,0-1,São Bernardo
+1/8,07/08/22,Lagarto-SE,1-1,Amazonas FC
+1/8,07/08/22,Real Noroeste,1-1,Caxias
+1/8,07/08/22,América-RN,2-1,Moto Club
+1/8,07/08/22,Paraná,1-1,Pouso Alegre
+1/8,07/08/22,Santa Cruz,0-0,Tocantinópolis
+1/8,07/08/22,Rio Branco-AC,0-0,ASA
+1/8,13/08/22,Caxias,0-0(3-0 Pen.),Real Noroeste
+1/8,13/08/22,São Bernardo,1-1,Bahia de Feira
+1/8,13/08/22,Pouso Alegre,1-0,Paraná
+1/8,13/08/22,Moto Club,0-1,América-RN
+1/8,14/08/22,Nova Venécia FC,2-2,Portuguesa-RJ
+1/8,14/08/22,Amazonas FC,2-1,Lagarto-SE
+1/8,14/08/22,ASA,0-0(5-4 Pen.),Rio Branco-AC
+1/8,14/08/22,Tocantinópolis,1-0,Santa Cruz
+QF,20/08/22,Portuguesa-RJ,1-1,Amazonas FC
+QF,20/08/22,Caxias,1-0,América-RN
+QF,21/08/22,Tocantinópolis,0-3,São Bernardo
+QF,21/08/22,ASA,0-2,Pouso Alegre
+QF,27/08/22,São Bernardo,2-0,Tocantinópolis
+QF,27/08/22,Pouso Alegre,1-0,ASA
+QF,28/08/22,Amazonas FC,3-2,Portuguesa-RJ
+QF,28/08/22,América-RN,3-1,Caxias
+SF,03/09/22,Pouso Alegre,1-0,Amazonas FC
+SF,04/09/22,América-RN,2-0,São Bernardo
+SF,10/09/22,São Bernardo,0-1,América-RN
+SF,11/09/22,Amazonas FC,0-1,Pouso Alegre
+F,18/09/22,América-RN,2-0,Pouso Alegre
+F,25/09/22,Pouso Alegre,1-0,América-RN

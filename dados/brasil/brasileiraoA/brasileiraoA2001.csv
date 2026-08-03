@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/08/01,Guarani,1-3,Palmeiras
+1,01/08/01,Botafogo,1-1,América Mineiro
+1,01/08/01,Portuguesa,0-1,Goiás
+1,01/08/01,Flamengo,0-0,Ponte Preta
+1,01/08/01,Corinthians,2-0,Vitória
+1,01/08/01,Paraná,1-0,Cruzeiro
+1,01/08/01,Internacional,0-2,Juventude
+1,01/08/01,Sport,1-1,Fluminense
+1,01/08/01,Bahia,5-0,São Caetano
+1,01/08/01,Botafogo-SP,2-2,São Paulo
+1,01/08/01,Gama,0-0,Vasco
+1,01/08/01,Atlético Mineiro,1-1,Coritiba
+1,02/08/01,Santos,1-1,Santa Cruz
+1,02/08/01,Atlético Paranaense,2-0,Grêmio
+2,04/08/01,Palmeiras,2-1,Bahia
+2,04/08/01,Fluminense,2-0,Botafogo-SP
+2,04/08/01,América Mineiro,0-0,Portuguesa
+2,04/08/01,Juventude,1-4,Atlético Mineiro
+2,05/08/01,Ponte Preta,2-2,Corinthians
+2,05/08/01,Vasco,7-1,Guarani
+2,05/08/01,São Paulo,0-0,Gama
+2,05/08/01,Cruzeiro,1-2,Atlético Paranaense
+2,05/08/01,Coritiba,3-2,Internacional
+2,05/08/01,Grêmio,2-1,Paraná
+2,05/08/01,Santa Cruz,0-4,Botafogo
+2,05/08/01,Vitória,1-1,Santos
+2,05/08/01,São Caetano,2-0,Sport
+2,05/08/01,Goiás,2-0,Flamengo
+3,08/08/01,Juventude,0-0,Palmeiras
+3,08/08/01,Coritiba,1-0,Vasco
+3,08/08/01,Vitória,2-1,São Paulo
+3,08/08/01,Corinthians,3-2,Botafogo-SP
+3,08/08/01,Cruzeiro,0-0,Ponte Preta
+3,08/08/01,Grêmio,0-0,Goiás
+3,08/08/01,Santa Cruz,1-2,Internacional
+3,08/08/01,Flamengo,0-1,Paraná
+3,08/08/01,Gama,1-1,Santos
+3,08/08/01,São Caetano,0-0,Atlético Paranaense
+3,09/08/01,Botafogo,3-2,Bahia
+3,09/08/01,Guarani,1-1,Fluminense
+3,09/08/01,Portuguesa,2-1,Sport
+3,09/08/01,América Mineiro,0-1,Atlético Mineiro
+4,11/08/01,Vasco,1-1,Juventude
+4,11/08/01,São Paulo,3-1,Santa Cruz
+4,11/08/01,Atlético Paranaense,4-0,Flamengo
+4,11/08/01,Botafogo-SP,1-4,Cruzeiro
+4,12/08/01,Paraná,3-1,Corinthians
+4,12/08/01,Ponte Preta,3-1,Botafogo
+4,12/08/01,Fluminense,1-1,Vitória
+4,12/08/01,Atlético Mineiro,3-0,Guarani
+4,12/08/01,Internacional,2-0,Gama
+4,12/08/01,Sport,2-1,Grêmio
+4,12/08/01,Bahia,2-1,Portuguesa
+4,12/08/01,Goiás,0-0,São Caetano
+4,12/08/01,Santos,2-0,Coritiba
+4,12/08/01,Palmeiras,3-1,América Mineiro
+5,15/08/01,Flamengo,2-1,Sport
+5,15/08/01,Corinthians,0-0,Juventude
+5,15/08/01,Cruzeiro,0-3,América Mineiro
+5,15/08/01,Paraná,1-2,Ponte Preta
+5,15/08/01,Santa Cruz,3-2,Palmeiras
+5,15/08/01,Vitória,1-0,Vasco
+5,15/08/01,São Caetano,1-1,Fluminense
+5,16/08/01,Internacional,2-0,Bahia
+5,16/08/01,Botafogo,0-1,Goiás
+5,16/08/01,Portuguesa,1-0,Coritiba
+5,16/08/01,Atlético Paranaense,1-0,Atlético Mineiro
+5,16/08/01,Guarani,1-2,São Paulo
+5,16/08/01,Botafogo-SP,0-1,Santos
+5,16/08/01,Gama,2-1,Grêmio
+6,18/08/01,Vasco,1-1,Santa Cruz
+6,18/08/01,Palmeiras,3-1,Paraná
+6,18/08/01,América Mineiro,0-1,São Caetano
+6,19/08/01,Sport,2-1,Corinthians
+6,19/08/01,Bahia,0-2,Flamengo
+6,19/08/01,Fluminense,4-3,Gama
+6,19/08/01,São Paulo,2-1,Atlético Paranaense
+6,19/08/01,Atlético Mineiro,2-0,Botafogo-SP
+6,19/08/01,Coritiba,3-2,Cruzeiro
+6,19/08/01,Grêmio,0-0,Vitória
+6,19/08/01,Ponte Preta,2-1,Portuguesa
+6,19/08/01,Goiás,0-1,Internacional
+6,19/08/01,Santos,0-0,Botafogo
+6,19/08/01,Juventude,1-0,Guarani
+7,25/08/01,Fluminense,3-2,Santa Cruz
+7,25/08/01,Palmeiras,3-2,Goiás
+7,25/08/01,Paraná,0-1,Portuguesa
+7,26/08/01,Bahia,1-0,Corinthians
+7,26/08/01,Botafogo-SP,1-0,Flamengo
+7,26/08/01,Vasco,4-0,Atlético Paranaense
+7,26/08/01,São Paulo,4-0,Ponte Preta
+7,26/08/01,Atlético Mineiro,3-0,Vitória
+7,26/08/01,Coritiba,1-1,São Caetano
+7,26/08/01,Grêmio,3-1,América Mineiro
+7,26/08/01,Sport,0-1,Cruzeiro
+7,26/08/01,Guarani,2-2,Internacional
+7,26/08/01,Gama,0-0,Botafogo
+7,26/08/01,Santos,2-2,Juventude
+8,29/08/01,Corinthians,2-2,Gama
+8,29/08/01,América Mineiro,1-1,Vasco
+8,29/08/01,Atlético Paranaense,1-1,Santos
+8,29/08/01,Internacional,2-0,Botafogo-SP
+8,29/08/01,Santa Cruz,1-1,Atlético Mineiro
+8,29/08/01,Vitória,1-3,Palmeiras
+8,29/08/01,Ponte Preta,3-2,Grêmio
+8,29/08/01,Goiás,2-0,Fluminense
+8,29/08/01,São Caetano,4-1,Paraná
+8,29/08/01,Juventude,3-3,São Paulo
+8,29/08/01,Botafogo,3-1,Sport
+8,30/08/01,Flamengo,0-1,Coritiba
+8,30/08/01,Portuguesa,1-2,Guarani
+8,30/08/01,Cruzeiro,1-1,Bahia
+9,01/09/01,Fluminense,2-1,Juventude
+9,01/09/01,Palmeiras,2-0,Atlético Paranaense
+9,01/09/01,Paraná,3-0,Internacional
+9,01/09/01,Atlético Mineiro,3-0,Sport
+9,02/09/01,Santa Cruz,2-1,Flamengo
+9,02/09/01,América Mineiro,4-4,Corinthians
+9,02/09/01,Vasco,2-2,Botafogo-SP
+9,02/09/01,São Paulo,0-1,Bahia
+9,02/09/01,Coritiba,2-3,Botafogo
+9,02/09/01,Grêmio,1-0,Guarani
+9,02/09/01,Vitória,2-2,Cruzeiro
+9,02/09/01,Gama,0-1,Portuguesa
+9,02/09/01,Santos,1-2,Goiás
+9,02/09/01,Ponte Preta,3-6,São Caetano
+9,06/09/01,Flamengo,2-0,Santos
+9,06/09/01,São Caetano,1-0,Palmeiras
+10,08/09/01,Botafogo,0-2,Paraná
+10,08/09/01,Corinthians,3-2,Coritiba
+10,08/09/01,Cruzeiro,4-1,Santa Cruz
+10,09/09/01,Atlético Paranaense,1-2,Fluminense
+10,09/09/01,Goiás,2-3,São Paulo
+10,09/09/01,Flamengo,1-1,América Mineiro
+10,09/09/01,Internacional,2-2,Ponte Preta
+10,09/09/01,Sport,3-3,Vasco
+10,09/09/01,Bahia,4-0,Atlético Mineiro
+10,09/09/01,Guarani,1-1,Santos
+10,09/09/01,Botafogo-SP,0-1,Palmeiras
+10,09/09/01,São Caetano,3-2,Gama
+10,09/09/01,Juventude,1-2,Grêmio
+10,09/09/01,Portuguesa,3-2,Vitória
+11,15/09/01,Fluminense,2-0,Ponte Preta
+11,15/09/01,São Paulo,1-3,Paraná
+11,15/09/01,Guarani,2-0,Cruzeiro
+11,15/09/01,Vitória,2-0,Internacional
+11,16/09/01,Palmeiras,3-0,Sport
+11,16/09/01,Goiás,2-3,Corinthians
+11,16/09/01,Juventude,1-1,Flamengo
+11,16/09/01,Vasco,0-1,Bahia
+11,16/09/01,Atlético Mineiro,2-1,Gama
+11,16/09/01,Atlético Paranaense,3-1,Portuguesa
+11,16/09/01,Grêmio,2-0,Coritiba
+11,16/09/01,Santa Cruz,0-1,São Caetano
+11,16/09/01,Botafogo-SP,0-2,Botafogo
+11,16/09/01,Santos,3-0,América Mineiro
+12,19/09/01,Botafogo,0-2,Guarani
+12,19/09/01,Corinthians,2-2,Santa Cruz
+12,19/09/01,Cruzeiro,1-2,Goiás
+12,19/09/01,Paraná,2-0,Vasco
+12,19/09/01,Internacional,4-4,Atlético Paranaense
+12,19/09/01,Sport,0-2,Santos
+12,19/09/01,Ponte Preta,4-3,Atlético Mineiro
+12,19/09/01,Gama,1-1,Palmeiras
+12,19/09/01,São Caetano,0-1,Botafogo-SP
+12,20/09/01,Bahia,1-1,Grêmio
+12,20/09/01,Flamengo,1-1,Vitória
+12,20/09/01,Portuguesa,1-2,Juventude
+12,20/09/01,América Mineiro,1-0,Fluminense
+12,20/09/01,Coritiba,0-1,São Paulo
+13,22/09/01,Vasco,2-1,Goiás
+13,22/09/01,Palmeiras,0-2,Ponte Preta
+13,22/09/01,Gama,1-1,Cruzeiro
+13,23/09/01,Atlético Paranaense,3-2,Corinthians
+13,23/09/01,Guarani,1-3,Flamengo
+13,23/09/01,Fluminense,3-1,Coritiba
+13,23/09/01,São Paulo,4-1,América Mineiro
+13,23/09/01,Atlético Mineiro,4-0,Paraná
+13,23/09/01,Internacional,2-0,Sport
+13,23/09/01,Santa Cruz,0-0,Portuguesa
+13,23/09/01,Vitória,3-1,Botafogo
+13,23/09/01,Botafogo-SP,1-2,Grêmio
+13,23/09/01,Santos,5-1,Bahia
+13,23/09/01,Juventude,0-3,São Caetano
+14,29/09/01,Botafogo,1-3,Atlético Paranaense
+14,29/09/01,Paraná,1-0,Santos
+14,29/09/01,Portuguesa,1-0,Botafogo-SP
+14,29/09/01,América Mineiro,0-2,Internacional
+14,30/09/01,Flamengo,1-2,Gama
+14,30/09/01,Corinthians,0-3,Guarani
+14,30/09/01,Cruzeiro,3-0,Juventude
+14,30/09/01,Coritiba,4-1,Palmeiras
+14,30/09/01,Bahia,1-1,Fluminense
+14,30/09/01,Ponte Preta,2-2,Vasco
+14,30/09/01,Sport,1-0,São Paulo
+14,30/09/01,Goiás,1-2,Atlético Mineiro
+14,30/09/01,São Caetano,0-2,Vitória
+15,02/10/01,Portuguesa,3-0,Internacional
+15,02/10/01,Paraná,1-2,América Mineiro
+15,03/10/01,Vasco,3-0,Cruzeiro
+15,03/10/01,Corinthians,4-2,Palmeiras
+15,03/10/01,Atlético Mineiro,4-0,Botafogo
+15,03/10/01,Coritiba,1-1,Juventude
+15,03/10/01,Grêmio,1-1,Fluminense
+15,03/10/01,Santa Cruz,1-5,Atlético Paranaense
+15,03/10/01,Vitória,1-0,Sport
+15,03/10/01,Ponte Preta,1-1,Gama
+15,03/10/01,Botafogo-SP,1-1,Guarani
+15,03/10/01,Goiás,3-0,Bahia
+15,03/10/01,Santos,1-0,São Paulo
+16,06/10/01,Corinthians,3-1,Portuguesa
+16,06/10/01,Botafogo,1-2,Fluminense
+16,06/10/01,São Paulo,0-1,Palmeiras
+16,06/10/01,Cruzeiro,2-2,Atlético Mineiro
+16,06/10/01,América Mineiro,1-4,Ponte Preta
+16,06/10/01,Atlético Paranaense,1-1,Paraná
+16,06/10/01,Grêmio,1-0,Internacional
+16,06/10/01,Sport,1-1,Coritiba
+16,06/10/01,Guarani,1-0,Goiás
+16,06/10/01,Gama,1-1,Vitória
+16,06/10/01,Santos,1-2,São Caetano
+16,06/10/01,Juventude,0-2,Botafogo-SP
+16,06/10/01,Bahia,2-1,Santa Cruz
+16,06/10/01,Vasco,5-1,Flamengo
+17,09/10/01,América Mineiro,2-0,Gama
+17,10/10/01,Botafogo,2-2,Flamengo
+17,10/10/01,Cruzeiro,1-0,Corinthians
+17,10/10/01,Coritiba,0-0,Botafogo-SP
+17,10/10/01,Internacional,2-0,Vasco
+17,10/10/01,Santa Cruz,3-2,Paraná
+17,10/10/01,Vitória,4-1,Guarani
+17,10/10/01,Ponte Preta,1-5,Atlético Paranaense
+17,10/10/01,Goiás,2-3,Sport
+17,10/10/01,São Caetano,2-0,Portuguesa
+17,10/10/01,Juventude,2-2,Bahia
+17,10/10/01,Palmeiras,2-1,Santos
+17,11/10/01,São Paulo,1-1,Grêmio
+17,11/10/01,Fluminense,3-2,Atlético Mineiro
+18,13/10/01,Vasco,3-1,Botafogo
+18,13/10/01,Portuguesa,2-0,Palmeiras
+18,13/10/01,Paraná,2-1,Vitória
+18,13/10/01,Gama,2-0,Santa Cruz
+18,14/10/01,Fluminense,1-1,São Paulo
+18,14/10/01,Corinthians,1-2,Flamengo
+18,14/10/01,Atlético Mineiro,0-1,Santos
+18,14/10/01,Atlético Paranaense,3-2,América Mineiro
+18,14/10/01,Grêmio,2-0,Cruzeiro
+18,14/10/01,Sport,1-1,Juventude
+18,14/10/01,Bahia,3-2,Ponte Preta
+18,14/10/01,Guarani,1-0,Coritiba
+18,14/10/01,Botafogo-SP,0-0,Goiás
+18,14/10/01,São Caetano,3-1,Internacional
+14,18/10/01,Grêmio,1-0,Santa Cruz
+19,20/10/01,Vasco,1-2,São Caetano
+19,20/10/01,América Mineiro,2-2,Botafogo-SP
+19,21/10/01,São Paulo,1-0,Portuguesa
+19,21/10/01,Corinthians,1-2,Grêmio
+19,21/10/01,Cruzeiro,1-0,Fluminense
+19,21/10/01,Coritiba,0-0,Atlético Paranaense
+19,21/10/01,Internacional,2-2,Botafogo
+19,21/10/01,Sport,1-2,Santa Cruz
+19,21/10/01,Vitória,1-1,Bahia
+19,21/10/01,Ponte Preta,1-1,Guarani
+19,21/10/01,Goiás,2-0,Gama
+19,21/10/01,Juventude,1-1,Paraná
+19,21/10/01,Flamengo,1-2,Atlético Mineiro
+20,27/10/01,São Paulo,0-0,São Caetano
+20,27/10/01,Paraná,0-1,Sport
+20,28/10/01,Grêmio,2-0,Flamengo
+20,28/10/01,Santos,0-2,Corinthians
+20,28/10/01,Botafogo,3-0,Cruzeiro
+20,28/10/01,Vasco,2-2,Fluminense
+20,28/10/01,Palmeiras,1-2,Internacional
+20,28/10/01,Atlético Mineiro,1-0,Portuguesa
+20,28/10/01,Coritiba,1-0,Gama
+20,28/10/01,Santa Cruz,1-3,Ponte Preta
+20,28/10/01,Vitória,1-0,América Mineiro
+20,28/10/01,Guarani,2-1,Bahia
+20,28/10/01,Botafogo-SP,0-2,Atlético Paranaense
+20,28/10/01,Goiás,2-1,Juventude
+21,02/11/01,Flamengo,0-1,Fluminense
+21,02/11/01,São Paulo,1-1,Corinthians
+21,02/11/01,América Mineiro,1-2,Coritiba
+21,02/11/01,Gama,3-2,Paraná
+21,04/11/01,Botafogo,3-1,Palmeiras
+21,04/11/01,Portuguesa,5-4,Vasco
+21,04/11/01,Cruzeiro,1-0,São Caetano
+21,04/11/01,Atlético Paranaense,2-1,Goiás
+21,04/11/01,Internacional,1-0,Atlético Mineiro
+21,04/11/01,Sport,0-1,Guarani
+21,04/11/01,Bahia,1-0,Botafogo-SP
+21,04/11/01,Ponte Preta,5-2,Vitória
+21,04/11/01,Juventude,2-0,Santa Cruz
+21,04/11/01,Santos,4-2,Grêmio
+22,07/11/01,Botafogo,1-3,Grêmio
+22,07/11/01,Palmeiras,2-6,Fluminense
+22,07/11/01,América Mineiro,3-1,Sport
+22,07/11/01,Atlético Paranaense,6-3,Bahia
+22,07/11/01,Internacional,1-4,São Paulo
+22,07/11/01,Gama,5-0,Guarani

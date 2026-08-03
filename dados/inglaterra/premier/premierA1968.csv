@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,10/08/68,Ipswich Town,1-0,Wolverhampton
+1,10/08/68,Liverpool,2-1,Manchester City
+1,10/08/68,Manchester United,2-1,Everton
+1,10/08/68,Newcastle,1-1,West Ham
+1,10/08/68,Nottingham Forest,2-2,Burnley
+1,10/08/68,QPR,1-1,Leicester City
+1,10/08/68,Southampton,1-3,Leeds United
+1,10/08/68,Stoke City,2-1,Sunderland
+1,10/08/68,Tottenham,1-2,Arsenal
+1,10/08/68,West Bromwich,0-0,Sheffield Wed.
+2,13/08/68,Arsenal,3-0,Leicester City
+2,13/08/68,Everton,3-0,Burnley
+1,14/08/68,Chelsea,1-1,Nottingham Forest
+2,14/08/68,Leeds United,4-1,QPR
+2,14/08/68,Manchester City,3-2,Wolverhampton
+2,14/08/68,Sheffield Wed.,1-1,Newcastle
+2,14/08/68,Southampton,2-0,Liverpool
+2,14/08/68,Stoke City,0-2,West Ham
+2,14/08/68,Sunderland,3-0,Ipswich Town
+2,14/08/68,West Bromwich,3-1,Manchester United
+1,17/08/68,Sheffield Wed.,3-0,Coventry City
+2,17/08/68,Chelsea,3-1,West Bromwich
+2,17/08/68,Everton,0-2,Tottenham
+3,17/08/68,Arsenal,1-1,Liverpool
+3,17/08/68,Burnley,1-0,Newcastle
+3,17/08/68,Leeds United,2-0,Stoke City
+3,17/08/68,Leicester City,1-3,Ipswich Town
+3,17/08/68,Manchester City,0-0,Manchester United
+3,17/08/68,Sunderland,1-0,Southampton
+3,17/08/68,West Ham,1-0,Nottingham Forest
+3,17/08/68,Wolverhampton,3-1,QPR
+4,19/08/68,West Ham,1-4,Everton
+4,20/08/68,Burnley,3-1,Southampton
+4,20/08/68,Ipswich Town,2-3,Leeds United
+4,20/08/68,Liverpool,2-1,Stoke City
+4,20/08/68,Nottingham Forest,0-0,Sheffield Wed.
+4,20/08/68,QPR,2-2,Sunderland
+2,21/08/68,Manchester United,1-0,Coventry City
+3,21/08/68,Newcastle,3-2,Chelsea
+3,21/08/68,Tottenham,1-1,West Bromwich
+4,21/08/68,Leicester City,3-0,Manchester City
+4,21/08/68,Wolverhampton,0-0,Arsenal
+4,24/08/68,Manchester United,0-4,Chelsea
+4,24/08/68,Tottenham,1-2,Sheffield Wed.
+5,24/08/68,Coventry City,1-2,West Ham
+5,24/08/68,Ipswich Town,1-2,Arsenal
+5,24/08/68,Liverpool,4-1,Sunderland
+5,24/08/68,Newcastle,0-0,Everton
+5,24/08/68,QPR,1-1,Manchester City
+5,24/08/68,Southampton,2-1,Wolverhampton
+5,24/08/68,Stoke City,1-0,Leicester City
+5,24/08/68,West Bromwich,3-2,Burnley
+6,26/08/68,West Ham,5-0,Burnley
+4,27/08/68,Coventry City,4-2,West Bromwich
+6,27/08/68,Arsenal,4-1,Manchester City
+6,27/08/68,Everton,0-0,Liverpool
+6,27/08/68,Ipswich Town,3-0,QPR
+5,28/08/68,Chelsea,1-0,Sheffield Wed.
+5,28/08/68,Manchester United,3-1,Tottenham
+5,28/08/68,Newcastle,1-1,Nottingham Forest
+6,28/08/68,Leeds United,1-1,Sunderland
+6,28/08/68,Southampton,2-0,Stoke City
+6,28/08/68,Wolverhampton,1-0,Leicester City
+5,31/08/68,Burnley,1-1,Coventry City
+6,31/08/68,Chelsea,2-2,Tottenham
+6,31/08/68,Everton,2-1,Nottingham Forest
+7,31/08/68,Arsenal,2-1,QPR
+7,31/08/68,Leeds United,1-0,Liverpool
+7,31/08/68,Leicester City,3-1,Southampton
+7,31/08/68,Manchester City,1-1,Ipswich Town
+7,31/08/68,Sheffield Wed.,5-4,Manchester United
+7,31/08/68,Sunderland,1-1,Newcastle
+7,31/08/68,West Ham,4-0,West Bromwich
+7,31/08/68,Wolverhampton,1-1,Stoke City
+6,07/09/68,Coventry City,2-1,Newcastle
+7,07/09/68,Chelsea,1-1,Everton
+7,07/09/68,Tottenham,7-0,Burnley
+7,07/09/68,West Bromwich,2-5,Nottingham Forest
+8,07/09/68,Leeds United,2-1,Wolverhampton
+8,07/09/68,Liverpool,2-0,QPR
+8,07/09/68,Manchester United,1-1,West Ham
+8,07/09/68,Sheffield Wed.,2-1,Ipswich Town
+8,07/09/68,Southampton,1-2,Arsenal
+8,07/09/68,Stoke City,1-0,Manchester City
+8,07/09/68,Sunderland,2-0,Leicester City
+8,10/09/68,Coventry City,0-1,Chelsea
+8,14/09/68,Nottingham Forest,0-0,Coventry City
+8,14/09/68,West Ham,2-2,Tottenham
+9,14/09/68,Arsenal,1-0,Stoke City
+9,14/09/68,Burnley,1-0,Manchester United
+9,14/09/68,Everton,3-0,Sheffield Wed.
+9,14/09/68,Ipswich Town,0-2,Liverpool
+9,14/09/68,Leicester City,1-1,Leeds United
+9,14/09/68,Manchester City,1-1,Southampton
+9,14/09/68,Newcastle,2-3,West Bromwich
+9,14/09/68,QPR,0-4,Chelsea
+9,14/09/68,Wolverhampton,1-1,Sunderland
+9,17/09/68,Coventry City,1-2,Tottenham
+9,21/09/68,Leeds United,2-0,Arsenal
+10,21/09/68,Chelsea,1-1,West Ham
+10,21/09/68,Coventry City,2-2,Everton
+10,21/09/68,Liverpool,4-0,Leicester City
+10,21/09/68,Manchester United,3-1,Newcastle
+10,21/09/68,Sheffield Wed.,1-0,Burnley
+10,21/09/68,Southampton,2-2,Ipswich Town
+10,21/09/68,Stoke City,1-1,QPR
+10,21/09/68,Sunderland,0-4,Manchester City
+10,21/09/68,Tottenham,2-1,Nottingham Forest
+10,21/09/68,West Bromwich,0-0,Wolverhampton
+10,28/09/68,Manchester City,3-1,Leeds United
+11,28/09/68,Arsenal,0-0,Sunderland
+11,28/09/68,Burnley,2-1,Chelsea
+11,28/09/68,Everton,4-0,West Bromwich
+11,28/09/68,Ipswich Town,3-1,Stoke City
+11,28/09/68,Leicester City,1-1,Coventry City
+11,28/09/68,Newcastle,2-2,Tottenham
+11,28/09/68,QPR,1-1,Southampton
+11,28/09/68,West Ham,1-1,Sheffield Wed.
+11,28/09/68,Wolverhampton,0-6,Liverpool
+11,05/10/68,Newcastle,0-1,Leeds United
+12,05/10/68,Burnley,0-4,Liverpool
+12,05/10/68,Chelsea,3-1,Ipswich Town
+12,05/10/68,Coventry City,0-1,Wolverhampton
+12,05/10/68,Everton,2-0,Manchester City
+12,05/10/68,Manchester United,0-0,Arsenal
+12,05/10/68,Nottingham Forest,3-3,Stoke City
+12,05/10/68,Sheffield Wed.,1-1,Sunderland
+12,05/10/68,Tottenham,3-2,Leicester City
+12,05/10/68,West Bromwich,3-1,QPR
+12,05/10/68,West Ham,0-0,Southampton
+11,08/10/68,Nottingham Forest,2-4,Newcastle
+13,08/10/68,Burnley,3-1,West Ham
+13,08/10/68,Liverpool,1-1,Everton
+13,08/10/68,QPR,2-1,Ipswich Town
+13,09/10/68,Leicester City,2-0,Wolverhampton
+13,09/10/68,Manchester City,1-1,Arsenal
+13,09/10/68,Sheffield Wed.,1-1,Chelsea
+13,09/10/68,Stoke City,1-0,Southampton
+13,09/10/68,Sunderland,0-1,Leeds United
+13,09/10/68,Tottenham,2-2,Manchester United
+13,09/10/68,West Bromwich,6-1,Coventry City
+13,12/10/68,Leeds United,2-0,West Ham
+14,12/10/68,Arsenal,2-1,Coventry City
+14,12/10/68,Ipswich Town,1-4,Newcastle
+14,12/10/68,Leicester City,0-2,West Bromwich
+14,12/10/68,Liverpool,2-0,Manchester United
+14,12/10/68,Manchester City,4-0,Tottenham
+14,12/10/68,QPR,3-2,Sheffield Wed.
+14,12/10/68,Southampton,2-5,Everton
+14,12/10/68,Stoke City,1-3,Burnley
+14,12/10/68,Sunderland,3-1,Nottingham Forest
+14,12/10/68,Wolverhampton,1-1,Chelsea
+13,19/10/68,Nottingham Forest,1-2,Ipswich Town
+14,19/10/68,Burnley,5-1,Leeds United
+15,19/10/68,Chelsea,3-0,Leicester City
+15,19/10/68,Coventry City,1-1,Manchester City
+15,19/10/68,Everton,2-1,Stoke City
+15,19/10/68,Manchester United,1-2,Southampton
+15,19/10/68,Newcastle,3-2,QPR
+15,19/10/68,Sheffield Wed.,0-2,Wolverhampton
+15,19/10/68,Tottenham,2-1,Liverpool
+15,19/10/68,West Bromwich,1-0,Arsenal
+15,19/10/68,West Ham,8-0,Sunderland
+14,26/10/68,Manchester City,3-3,Nottingham Forest
+15,26/10/68,Leeds United,0-0,West Bromwich
+16,26/10/68,Arsenal,0-0,West Ham
+16,26/10/68,Ipswich Town,0-1,Tottenham
+16,26/10/68,Leicester City,0-2,Burnley
+16,26/10/68,Liverpool,2-1,Newcastle
+16,26/10/68,QPR,2-3,Manchester United
+16,26/10/68,Southampton,1-1,Sheffield Wed.
+16,26/10/68,Stoke City,2-0,Chelsea
+16,26/10/68,Sunderland,3-0,Coventry City
+16,26/10/68,Wolverhampton,1-2,Everton
+16,02/11/68,Manchester United,0-0,Leeds United
+17,02/11/68,Burnley,1-0,Ipswich Town
+17,02/11/68,Chelsea,2-0,Manchester City
+17,02/11/68,Coventry City,1-1,Southampton
+17,02/11/68,Everton,2-0,Sunderland
+17,02/11/68,Newcastle,0-0,Leicester City
+17,02/11/68,Nottingham Forest,0-0,Wolverhampton
+17,02/11/68,Tottenham,1-1,Stoke City
+17,02/11/68,West Bromwich,0-0,Liverpool
+17,02/11/68,West Ham,4-3,QPR
+17,09/11/68,Arsenal,0-0,Newcastle
+17,09/11/68,Leeds United,0-0,Tottenham
+17,09/11/68,Manchester City,0-1,Sheffield Wed.
+18,09/11/68,Ipswich Town,2-2,Everton
+18,09/11/68,Leicester City,2-2,Nottingham Forest
+18,09/11/68,Liverpool,2-1,Chelsea
+18,09/11/68,QPR,0-2,Burnley
+18,09/11/68,Southampton,2-0,West Bromwich
+18,09/11/68,Stoke City,0-3,Coventry City
+18,09/11/68,Sunderland,1-1,Manchester United
+18,09/11/68,Wolverhampton,2-0,West Ham
+18,16/11/68,Coventry City,0-1,Leeds United
+18,16/11/68,Manchester United,0-0,Ipswich Town
+18,16/11/68,Nottingham Forest,0-2,Arsenal
+19,16/11/68,Burnley,1-1,Wolverhampton
+19,16/11/68,Chelsea,2-3,Southampton
+19,16/11/68,Everton,4-0,QPR
+19,16/11/68,Newcastle,1-0,Manchester City
+19,16/11/68,Sheffield Wed.,1-2,Liverpool
+19,16/11/68,Tottenham,5-1,Sunderland
+19,16/11/68,West Bromwich,2-1,Stoke City
+19,16/11/68,West Ham,4-0,Leicester City
+19,23/11/68,Arsenal,0-1,Chelsea
+19,23/11/68,Leeds United,2-1,Everton
+20,23/11/68,Ipswich Town,2-2,West Ham
+20,23/11/68,Leicester City,1-1,Sheffield Wed.
+20,23/11/68,Liverpool,2-0,Coventry City
+20,23/11/68,Manchester City,5-1,West Bromwich
+20,23/11/68,QPR,2-1,Nottingham Forest
+20,23/11/68,Southampton,2-1,Tottenham
+20,23/11/68,Stoke City,0-0,Manchester United
+20,23/11/68,Sunderland,2-0,Burnley
+20,23/11/68,Wolverhampton,5-0,Newcastle
+20,30/11/68,Burnley,0-1,Arsenal
+20,30/11/68,Chelsea,1-1,Leeds United
+21,30/11/68,Coventry City,0-2,Ipswich Town
+21,30/11/68,Everton,7-1,Leicester City
+21,30/11/68,Manchester United,2-0,Wolverhampton
+21,30/11/68,Newcastle,4-1,Southampton
+21,30/11/68,Nottingham Forest,0-1,Liverpool
+21,30/11/68,Sheffield Wed.,2-1,Stoke City
+21,30/11/68,West Bromwich,3-0,Sunderland
+21,30/11/68,West Ham,2-1,Manchester City
+22,03/12/68,Liverpool,1-0,Southampton
+21,07/12/68,Arsenal,3-1,Everton
+21,07/12/68,Leeds United,2-0,Sheffield Wed.
+21,07/12/68,QPR,0-1,Coventry City
+22,07/12/68,Ipswich Town,4-1,West Bromwich
+22,07/12/68,Leicester City,2-1,Manchester United
+22,07/12/68,Manchester City,7-0,Burnley
+22,07/12/68,Stoke City,1-0,Newcastle
+22,07/12/68,Sunderland,3-2,Chelsea
+22,07/12/68,Wolverhampton,2-0,Tottenham
+23,07/12/68,Liverpool,2-0,West Ham
+23,07/12/68,Southampton,1-1,Nottingham Forest
+22,14/12/68,Coventry City,0-1,Arsenal
+22,14/12/68,Sheffield Wed.,4-0,QPR
+22,14/12/68,Tottenham,1-1,Manchester City
+22,14/12/68,West Ham,1-1,Leeds United
+23,14/12/68,Burnley,1-1,Stoke City
+23,14/12/68,Chelsea,1-1,Wolverhampton
+23,14/12/68,Newcastle,2-1,Ipswich Town
+23,14/12/68,Nottingham Forest,1-0,Sunderland
+23,14/12/68,West Bromwich,1-1,Leicester City
+24,14/12/68,Everton,1-0,Southampton
+24,14/12/68,Manchester United,1-0,Liverpool
+22,21/12/68,Ipswich Town,2-3,Nottingham Forest
+23,21/12/68,Arsenal,2-0,West Bromwich
+23,21/12/68,Leeds United,6-1,Burnley
+23,21/12/68,QPR,1-1,Newcastle
+24,21/12/68,Leicester City,1-4,Chelsea
+24,21/12/68,Manchester City,4-2,Coventry City
+24,21/12/68,Stoke City,0-0,Everton
+24,21/12/68,Sunderland,2-1,West Ham
+24,21/12/68,Wolverhampton,0-3,Sheffield Wed.
+25,21/12/68,Liverpool,1-0,Tottenham
+25,21/12/68,Southampton,2-0,Manchester United
+24,26/12/68,Arsenal,3-0,Manchester United
+24,26/12/68,Leeds United,2-1,Newcastle
+24,26/12/68,QPR,0-4,West Bromwich
+25,26/12/68,Ipswich Town,1-3,Chelsea
+25,26/12/68,Manchester City,1-3,Everton
+25,26/12/68,Stoke City,3-1,Nottingham Forest
+25,26/12/68,Sunderland,0-0,Sheffield Wed.
+26,26/12/68,Liverpool,1-1,Burnley
+26,26/12/68,Southampton,2-2,West Ham
+25,28/12/68,Burnley,2-1,Leicester City
+27,28/12/68,Sheffield Wed.,0-0,Southampton
+25,11/01/69,Arsenal,2-0,Sheffield Wed.
+25,11/01/69,Leeds United,2-1,Manchester United
+25,11/01/69,QPR,1-1,West Ham
+25,11/01/69,Wolverhampton,1-0,Nottingham Forest
+26,11/01/69,Leicester City,2-1,Newcastle
+26,11/01/69,Manchester City,4-1,Chelsea
+26,11/01/69,Stoke City,1-1,Tottenham
+26,11/01/69,Sunderland,1-3,Everton
+27,11/01/69,Ipswich Town,2-0,Burnley
+27,11/01/69,Liverpool,1-0,West Bromwich
+28,11/01/69,Southampton,1-0,Coventry City
+26,18/01/69,Burnley,2-2,QPR
+26,18/01/69,Newcastle,2-1,Arsenal
+26,18/01/69,Tottenham,0-0,Leeds United
+27,18/01/69,Everton,2-2,Ipswich Town
+27,18/01/69,Manchester United,4-1,Sunderland
+27,18/01/69,Nottingham Forest,0-0,Leicester City
+27,18/01/69,Sheffield Wed.,1-1,Manchester City
+28,18/01/69,Chelsea,1-2,Liverpool
+29,18/01/69,West Bromwich,1-2,Southampton
+27,24/01/69,QPR,0-1,Leeds United
+26,28/01/69,Everton,4-0,Wolverhampton
+28,29/01/69,Tottenham,3-2,QPR
+27,01/02/69,Arsenal,1-1,Nottingham Forest
+27,01/02/69,Ipswich Town,1-0,Manchester United
+27,01/02/69,Stoke City,1-1,West Bromwich
+27,01/02/69,Wolverhampton,1-1,Burnley
+28,01/02/69,Leeds United,3-0,Coventry City

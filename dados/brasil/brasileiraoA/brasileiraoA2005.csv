@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,23/04/05,Paraná,0-2,Goiás
+1,23/04/05,Atlético Mineiro,4-1,Figueirense
+1,23/04/05,São Caetano,2-2,Palmeiras
+1,23/04/05,Flamengo,1-1,Cruzeiro
+1,24/04/05,Internacional,0-2,Botafogo
+1,24/04/05,Fortaleza,0-1,Coritiba
+1,24/04/05,Fluminense,2-1,São Paulo
+1,24/04/05,Corinthians,2-2,Juventude
+1,24/04/05,Santos,4-1,Paysandu
+1,24/04/05,Atlético Paranaense,0-1,Ponte Preta
+1,24/04/05,Brasiliense,0-1,Vasco
+2,30/04/05,Vasco,0-0,Fortaleza
+2,30/04/05,Palmeiras,2-1,Brasiliense
+2,30/04/05,Goiás,0-0,São Caetano
+2,30/04/05,São Paulo,1-1,Paraná
+2,30/04/05,Ponte Preta,3-3,Atlético Mineiro
+2,01/05/05,Juventude,1-0,Atlético Paranaense
+2,01/05/05,Figueirense,0-1,Flamengo
+2,01/05/05,Botafogo,3-1,Corinthians
+2,01/05/05,Cruzeiro,3-2,Internacional
+2,01/05/05,Paysandu,1-2,Fluminense
+2,01/05/05,Coritiba,2-3,Santos
+3,07/05/05,Paraná,2-2,Juventude
+3,07/05/05,Goiás,0-0,Figueirense
+3,07/05/05,Santos,2-1,Atlético Paranaense
+3,07/05/05,Ponte Preta,2-0,Paysandu
+3,08/05/05,Internacional,1-0,Flamengo
+3,08/05/05,Coritiba,1-0,Palmeiras
+3,08/05/05,Corinthians,1-5,São Paulo
+3,08/05/05,São Caetano,2-1,Fortaleza
+3,08/05/05,Fluminense,2-1,Cruzeiro
+3,08/05/05,Atlético Mineiro,0-1,Brasiliense
+4,14/05/05,Fortaleza,2-1,Ponte Preta
+4,14/05/05,São Paulo,1-0,Coritiba
+4,14/05/05,Figueirense,1-2,Internacional
+4,14/05/05,Botafogo,2-1,Atlético Mineiro
+4,15/05/05,Juventude,4-1,Vasco
+4,15/05/05,Paysandu,3-2,São Caetano
+4,15/05/05,Atlético Paranaense,1-2,Corinthians
+4,15/05/05,Cruzeiro,3-1,Goiás
+4,15/05/05,Flamengo,2-1,Santos
+4,15/05/05,Palmeiras,1-2,Paraná
+4,15/05/05,Brasiliense,0-3,Fluminense
+5,21/05/05,Juventude,2-0,Paysandu
+5,21/05/05,Paraná,1-1,Ponte Preta
+5,21/05/05,Fortaleza,2-0,Brasiliense
+5,21/05/05,Fluminense,2-4,Coritiba
+5,21/05/05,Goiás,4-0,Botafogo
+5,22/05/05,Santos,3-0,Atlético Mineiro
+5,22/05/05,São Caetano,1-0,Flamengo
+5,22/05/05,Vasco,3-1,São Paulo
+5,22/05/05,Atlético Paranaense,1-3,Internacional
+5,22/05/05,Cruzeiro,2-0,Palmeiras
+5,22/05/05,Corinthians,2-1,Figueirense
+6,28/05/05,Paysandu,1-0,Goiás
+6,28/05/05,São Paulo,1-1,Cruzeiro
+6,28/05/05,Figueirense,2-0,São Caetano
+6,29/05/05,Ponte Preta,4-2,Vasco
+6,29/05/05,Flamengo,0-0,Fluminense
+6,29/05/05,Atlético Mineiro,0-1,Corinthians
+6,29/05/05,Palmeiras,2-1,Santos
+6,29/05/05,Brasiliense,1-0,Paraná
+6,29/05/05,Internacional,1-0,Fortaleza
+6,29/05/05,Coritiba,1-2,Juventude
+6,29/05/05,Botafogo,2-0,Atlético Paranaense
+7,11/06/05,Paraná,3-0,Fortaleza
+7,11/06/05,São Caetano,2-0,Brasiliense
+7,11/06/05,Atlético Paranaense,0-0,Figueirense
+7,11/06/05,Cruzeiro,1-2,Ponte Preta
+7,11/06/05,Botafogo,3-2,Juventude
+7,11/06/05,Goiás,2-1,Palmeiras
+7,12/06/05,Santos,1-1,Fluminense
+7,12/06/05,Internacional,1-1,Atlético Mineiro
+7,12/06/05,Corinthians,4-2,Flamengo
+7,12/06/05,Paysandu,2-2,São Paulo
+7,12/06/05,Vasco,2-2,Coritiba
+8,18/06/05,Figueirense,3-3,Paysandu
+8,18/06/05,Palmeiras,5-2,Vasco
+8,18/06/05,Brasiliense,2-4,Corinthians
+8,18/06/05,Ponte Preta,2-0,Goiás
+8,18/06/05,Flamengo,1-1,Atlético Paranaense
+8,18/06/05,Atlético Mineiro,2-3,São Caetano
+8,19/06/05,São Paulo,1-0,Botafogo
+8,19/06/05,Juventude,0-0,Cruzeiro
+8,19/06/05,Fortaleza,0-0,Santos
+8,19/06/05,Coritiba,2-1,Paraná
+8,19/06/05,Fluminense,3-0,Internacional
+9,25/06/05,Juventude,1-3,Ponte Preta
+9,25/06/05,Paraná,1-0,Atlético Mineiro
+9,25/06/05,São Paulo,1-3,Internacional
+9,25/06/05,Flamengo,3-4,Brasiliense
+9,26/06/05,São Caetano,1-3,Santos
+9,26/06/05,Botafogo,0-1,Figueirense
+9,26/06/05,Corinthians,0-1,Fluminense
+9,26/06/05,Goiás,2-1,Coritiba
+9,26/06/05,Paysandu,2-1,Palmeiras
+9,26/06/05,Atlético Paranaense,0-0,Fortaleza
+9,26/06/05,Cruzeiro,3-3,Vasco
+10,02/07/05,Vasco,1-2,Goiás
+10,03/07/05,Figueirense,0-0,Cruzeiro
+10,03/07/05,Fortaleza,2-1,Corinthians
+10,03/07/05,Coritiba,3-1,Paysandu
+10,03/07/05,Fluminense,0-1,Paraná
+10,03/07/05,Atlético Mineiro,3-1,Flamengo
+10,03/07/05,Santos,0-0,Juventude
+10,03/07/05,Internacional,2-1,São Caetano
+10,03/07/05,Palmeiras,4-1,Botafogo
+10,03/07/05,Brasiliense,2-1,Atlético Paranaense
+11,09/07/05,Juventude,2-1,Brasiliense
+11,09/07/05,Paraná,3-0,Figueirense
+11,09/07/05,São Paulo,2-0,Flamengo
+11,09/07/05,São Caetano,2-1,Ponte Preta
+11,09/07/05,Paysandu,1-2,Fortaleza
+11,10/07/05,Botafogo,1-2,Fluminense
+11,10/07/05,Corinthians,3-1,Palmeiras
+11,10/07/05,Goiás,3-4,Santos
+11,10/07/05,Vasco,2-4,Internacional
+11,10/07/05,Atlético Paranaense,1-0,Coritiba
+11,10/07/05,Cruzeiro,2-1,Atlético Mineiro
+12,16/07/05,Ponte Preta,2-1,Figueirense
+12,16/07/05,Goiás,1-3,Brasiliense
+12,16/07/05,Paraná,2-3,Corinthians
+12,16/07/05,Fluminense,0-1,São Caetano
+12,17/07/05,Santos,2-1,São Paulo
+12,17/07/05,Flamengo,1-0,Vasco
+12,17/07/05,Coritiba,0-3,Botafogo
+12,17/07/05,Atlético Mineiro,2-3,Atlético Paranaense
+12,17/07/05,Internacional,5-2,Juventude
+12,17/07/05,Palmeiras,1-2,Fortaleza
+13,20/07/05,Internacional,2-3,Goiás
+13,20/07/05,São Caetano,1-1,Paraná
+13,20/07/05,Fortaleza,1-4,Atlético Mineiro
+13,20/07/05,Atlético Paranaense,3-2,Fluminense
+13,20/07/05,Botafogo,4-2,Ponte Preta
+13,20/07/05,Santos,2-3,Vasco
+13,20/07/05,Figueirense,1-4,Palmeiras
+13,20/07/05,Brasiliense,3-3,São Paulo
+13,21/07/05,Flamengo,3-4,Juventude
+13,21/07/05,Cruzeiro,2-2,Coritiba
+13,21/07/05,Corinthians,3-2,Paysandu
+14,23/07/05,Paraná,2-0,Atlético Paranaense
+14,23/07/05,Botafogo,1-1,Brasiliense
+14,23/07/05,Goiás,2-1,Fortaleza
+14,23/07/05,São Paulo,0-1,São Caetano
+14,24/07/05,Vasco,2-3,Corinthians
+14,24/07/05,Coritiba,3-2,Flamengo
+14,24/07/05,Palmeiras,1-0,Atlético Mineiro
+14,24/07/05,Ponte Preta,2-1,Fluminense
+14,24/07/05,Paysandu,1-2,Internacional
+14,24/07/05,Cruzeiro,3-2,Santos
+15,27/07/05,São Caetano,0-1,Botafogo
+15,27/07/05,Fortaleza,2-0,Juventude
+15,27/07/05,Fluminense,1-1,Goiás
+15,27/07/05,Corinthians,4-3,Cruzeiro
+15,27/07/05,Santos,0-1,Ponte Preta
+15,27/07/05,Atlético Paranaense,7-2,Vasco
+15,27/07/05,Atlético Mineiro,0-0,São Paulo
+15,28/07/05,Internacional,0-2,Paraná
+15,28/07/05,Figueirense,0-0,Coritiba
+15,28/07/05,Flamengo,0-0,Palmeiras
+15,28/07/05,Brasiliense,0-0,Paysandu
+16,30/07/05,Vasco,3-2,São Caetano
+16,30/07/05,Cruzeiro,3-0,Fortaleza
+16,30/07/05,Goiás,3-1,Atlético Mineiro
+16,31/07/05,Juventude,2-1,São Paulo
+16,31/07/05,Figueirense,1-1,Fluminense
+16,31/07/05,Ponte Preta,1-1,Internacional
+16,31/07/05,Paysandu,3-4,Paraná
+16,31/07/05,Coritiba,1-1,Brasiliense
+16,31/07/05,Botafogo,0-2,Flamengo
+16,31/07/05,Palmeiras,1-1,Atlético Paranaense
+17,03/08/05,São Caetano,1-1,Juventude
+17,03/08/05,Brasiliense,1-2,Cruzeiro
+17,03/08/05,Atlético Paranaense,1-0,Goiás
+17,03/08/05,Atlético Mineiro,2-2,Paysandu
+17,03/08/05,Corinthians,3-0,Coritiba
+17,03/08/05,Internacional,0-1,Santos
+17,03/08/05,Paraná,2-0,Botafogo
+17,03/08/05,Flamengo,1-0,Ponte Preta
+17,04/08/05,São Paulo,3-3,Palmeiras
+17,04/08/05,Fortaleza,5-2,Figueirense
+17,04/08/05,Fluminense,3-2,Vasco
+18,06/08/05,Atlético Paranaense,5-4,Cruzeiro
+18,06/08/05,Botafogo,2-0,Paysandu
+18,06/08/05,Corinthians,0-2,São Caetano
+18,07/08/05,Juventude,1-2,Palmeiras
+18,07/08/05,Paraná,1-1,Santos
+18,07/08/05,Fortaleza,2-1,Flamengo
+18,07/08/05,São Paulo,0-1,Goiás
+18,07/08/05,Ponte Preta,0-3,Coritiba
+18,07/08/05,Atlético Mineiro,1-2,Fluminense
+18,07/08/05,Brasiliense,0-0,Internacional
+19,10/08/05,São Caetano,3-2,Atlético Paranaense
+19,10/08/05,Paysandu,0-2,Vasco
+19,10/08/05,Coritiba,1-0,Atlético Mineiro
+19,10/08/05,Palmeiras,2-1,Ponte Preta
+19,10/08/05,Internacional,0-0,Corinthians
+19,10/08/05,Figueirense,3-1,São Paulo
+19,11/08/05,Santos,1-1,Brasiliense
+19,11/08/05,Flamengo,1-1,Paraná
+19,11/08/05,Fluminense,2-0,Fortaleza
+19,11/08/05,Goiás,1-0,Juventude
+20,13/08/05,Coritiba,2-2,São Caetano
+20,13/08/05,Palmeiras,3-2,Internacional
+20,13/08/05,Paysandu,2-1,Atlético Paranaense
+20,14/08/05,Figueirense,2-2,Brasiliense
+20,14/08/05,Ponte Preta,3-5,Corinthians
+20,14/08/05,Vasco,2-1,Atlético Mineiro
+20,14/08/05,Cruzeiro,0-1,Paraná
+20,14/08/05,Goiás,2-0,Flamengo
+20,14/08/05,São Paulo,3-2,Fortaleza
+20,14/08/05,Botafogo,3-3,Santos
+21,20/08/05,Atlético Mineiro,2-1,Juventude
+21,20/08/05,São Caetano,0-1,Cruzeiro
+21,20/08/05,Atlético Paranaense,4-2,São Paulo
+21,21/08/05,Paraná,0-0,Vasco
+21,21/08/05,Fluminense,2-2,Palmeiras
+21,21/08/05,Corinthians,1-1,Goiás
+21,21/08/05,Brasiliense,4-0,Ponte Preta
+21,21/08/05,Santos,4-3,Figueirense
+21,21/08/05,Fortaleza,3-1,Botafogo
+21,21/08/05,Flamengo,2-1,Paysandu
+22,24/08/05,Ponte Preta,0-2,Atlético Paranaense
+22,24/08/05,Palmeiras,2-1,São Caetano
+22,24/08/05,Vasco,1-0,Brasiliense
+22,24/08/05,Goiás,1-1,Paraná
+22,24/08/05,São Paulo,1-1,Fluminense
+22,24/08/05,Juventude,1-0,Corinthians
+22,24/08/05,Paysandu,2-3,Santos
+22,24/08/05,Cruzeiro,0-0,Flamengo
+22,25/08/05,Figueirense,0-1,Atlético Mineiro
+22,25/08/05,Coritiba,2-0,Fortaleza
+22,25/08/05,Botafogo,0-1,Internacional
+23,27/08/05,São Caetano,0-1,Goiás
+23,27/08/05,Atlético Paranaense,2-2,Juventude
+23,27/08/05,Brasiliense,3-2,Palmeiras
+23,28/08/05,Internacional,4-1,Cruzeiro
+23,28/08/05,Paraná,0-4,São Paulo
+23,28/08/05,Flamengo,2-2,Figueirense
+23,28/08/05,Atlético Mineiro,1-0,Ponte Preta
+23,28/08/05,Corinthians,3-3,Botafogo
+23,28/08/05,Santos,2-0,Coritiba
+23,28/08/05,Fortaleza,4-2,Vasco
+23,28/08/05,Fluminense,5-2,Paysandu
+24,07/09/05,Figueirense,3-0,Goiás
+24,07/09/05,Fortaleza,5-2,São Caetano
+24,07/09/05,Botafogo,2-2,Vasco
+24,07/09/05,Brasiliense,1-2,Atlético Mineiro
+24,07/09/05,Juventude,2-0,Paraná
+24,07/09/05,Paysandu,2-2,Ponte Preta
+24,07/09/05,Atlético Paranaense,3-3,Santos
+24,07/09/05,Cruzeiro,2-6,Fluminense
+24,08/09/05,Flamengo,1-1,Internacional
+24,08/09/05,Palmeiras,1-1,Coritiba
+25,10/09/05,São Caetano,1-2,Paysandu
+25,10/09/05,Goiás,1-0,Cruzeiro
+25,11/09/05,Santos,0-0,Flamengo
+25,11/09/05,Internacional,3-0,Figueirense
+25,11/09/05,Paraná,1-3,Palmeiras
+25,11/09/05,Vasco,5-2,Juventude
+25,11/09/05,Corinthians,2-0,Atlético Paranaense
+25,11/09/05,Ponte Preta,2-1,Fortaleza
+25,11/09/05,Coritiba,1-4,São Paulo
+25,11/09/05,Atlético Mineiro,0-2,Botafogo
+26,17/09/05,Ponte Preta,1-0,Paraná
+26,17/09/05,Paysandu,3-0,Juventude
+26,17/09/05,Flamengo,2-0,São Caetano
+26,17/09/05,Palmeiras,2-1,Cruzeiro
+26,18/09/05,São Paulo,4-2,Vasco
+26,18/09/05,Internacional,3-2,Atlético Paranaense
+26,18/09/05,Figueirense,2-3,Corinthians
+26,18/09/05,Botafogo,3-1,Goiás
+26,18/09/05,Brasiliense,0-2,Fortaleza
+26,18/09/05,Coritiba,0-0,Fluminense
+26,18/09/05,Atlético Mineiro,3-0,Santos
+27,21/09/05,São Caetano,0-1,Figueirense
+27,21/09/05,Fortaleza,1-2,Internacional
+27,21/09/05,Paraná,4-1,Brasiliense
+27,21/09/05,Goiás,4-1,Paysandu
+27,21/09/05,Santos,2-1,Palmeiras
+27,21/09/05,Fluminense,2-2,Flamengo
+27,21/09/05,Cruzeiro,2-3,São Paulo
+27,22/09/05,Juventude,0-0,Coritiba
+27,22/09/05,Vasco,0-0,Ponte Preta
+27,22/09/05,Atlético Paranaense,2-0,Botafogo
+27,22/09/05,Corinthians,1-1,Atlético Mineiro
+28,24/09/05,São Paulo,4-1,Paysandu
+28,24/09/05,Brasiliense,1-1,São Caetano
+28,24/09/05,Fortaleza,2-2,Paraná
+28,25/09/05,Juventude,0-0,Botafogo
+28,25/09/05,Figueirense,2-0,Atlético Paranaense
+28,25/09/05,Ponte Preta,2-3,Cruzeiro
+28,25/09/05,Flamengo,1-3,Corinthians
+28,25/09/05,Coritiba,2-0,Vasco
+28,25/09/05,Fluminense,4-3,Santos
+28,25/09/05,Atlético Mineiro,1-1,Internacional
+28,25/09/05,Palmeiras,3-1,Goiás
+29,01/10/05,Paraná,3-2,Coritiba
+29,01/10/05,Cruzeiro,2-0,Juventude
+29,01/10/05,Goiás,4-1,Ponte Preta

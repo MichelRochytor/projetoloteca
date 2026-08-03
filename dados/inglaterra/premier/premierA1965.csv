@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/08/65,Arsenal,2-1,Stoke City
+1,21/08/65,Blackpool,2-2,Fulham
+1,21/08/65,Chelsea,1-1,Burnley
+1,21/08/65,Everton,5-2,Northampton Town
+1,21/08/65,Leeds United,1-0,Sunderland
+1,21/08/65,Leicester City,1-3,Liverpool
+1,21/08/65,Manchester United,1-0,Sheffield Wed.
+1,21/08/65,Newcastle,2-2,Nottingham Forest
+1,21/08/65,Sheffield United,1-0,Aston Villa
+1,21/08/65,West Bromwich,3-0,West Ham
+2,23/08/65,Aston Villa,0-2,Leeds United
+2,23/08/65,West Ham,1-1,Sunderland
+2,24/08/65,Burnley,3-1,Blackpool
+2,24/08/65,Nottingham Forest,4-2,Manchester United
+2,25/08/65,Fulham,5-2,Blackburn Rovers
+2,25/08/65,Liverpool,0-1,Sheffield United
+2,25/08/65,Newcastle,0-1,West Bromwich
+2,25/08/65,Northampton Town,1-1,Arsenal
+2,25/08/65,Sheffield Wed.,3-1,Everton
+2,25/08/65,Stoke City,2-2,Chelsea
+2,25/08/65,Tottenham,4-2,Leicester City
+3,27/08/65,Tottenham,4-0,Blackpool
+3,28/08/65,Aston Villa,2-2,Leicester City
+3,28/08/65,Burnley,2-2,Arsenal
+3,28/08/65,Fulham,0-3,Chelsea
+3,28/08/65,Northampton Town,1-1,Manchester United
+3,28/08/65,Nottingham Forest,3-2,West Bromwich
+3,28/08/65,Sheffield Wed.,1-0,Newcastle
+3,28/08/65,Stoke City,1-1,Everton
+3,28/08/65,Sunderland,4-1,Sheffield United
+3,28/08/65,West Ham,2-1,Leeds United
+4,30/08/65,Blackpool,1-3,Burnley
+4,31/08/65,Everton,5-1,Sheffield Wed.
+4,01/09/65,Blackburn Rovers,3-2,Fulham
+4,01/09/65,Chelsea,1-2,Stoke City
+4,01/09/65,Leeds United,2-0,Aston Villa
+4,01/09/65,Leicester City,2-2,Tottenham
+4,01/09/65,Manchester United,0-0,Nottingham Forest
+4,01/09/65,Sheffield United,0-0,Liverpool
+4,01/09/65,Sunderland,2-1,West Ham
+4,01/09/65,West Bromwich,1-2,Newcastle
+4,04/09/65,Arsenal,1-3,Chelsea
+5,04/09/65,Blackburn Rovers,0-2,Aston Villa
+5,04/09/65,Blackpool,2-3,Liverpool
+5,04/09/65,Everton,1-0,Burnley
+5,04/09/65,Fulham,0-2,Tottenham
+5,04/09/65,Leeds United,2-1,Nottingham Forest
+5,04/09/65,Leicester City,4-1,Sunderland
+5,04/09/65,Manchester United,1-1,Stoke City
+5,04/09/65,Newcastle,2-0,Northampton Town
+5,04/09/65,Sheffield United,5-3,West Ham
+5,04/09/65,West Bromwich,4-2,Sheffield Wed.
+6,06/09/65,Aston Villa,3-1,Sunderland
+6,06/09/65,Blackpool,4-0,Leicester City
+6,06/09/65,West Ham,1-5,Liverpool
+5,07/09/65,Nottingham Forest,0-1,Arsenal
+6,07/09/65,Burnley,4-1,Northampton Town
+6,07/09/65,Everton,2-3,West Bromwich
+6,08/09/65,Fulham,0-0,Sheffield United
+6,08/09/65,Newcastle,1-2,Manchester United
+6,08/09/65,Stoke City,3-2,Blackburn Rovers
+6,08/09/65,Tottenham,3-2,Leeds United
+7,10/09/65,Northampton Town,3-4,West Bromwich
+6,11/09/65,Chelsea,3-1,Everton
+6,11/09/65,Tottenham,2-2,Arsenal
+7,11/09/65,Aston Villa,3-0,Blackpool
+7,11/09/65,Burnley,3-0,Manchester United
+7,11/09/65,Leeds United,2-2,Sheffield United
+7,11/09/65,Liverpool,2-1,Fulham
+7,11/09/65,Sheffield Wed.,3-1,Nottingham Forest
+7,11/09/65,Stoke City,4-0,Newcastle
+7,11/09/65,Sunderland,1-0,Blackburn Rovers
+7,11/09/65,West Ham,2-5,Leicester City
+7,14/09/65,Arsenal,1-0,Nottingham Forest
+8,14/09/65,Leicester City,0-3,Blackpool
+7,15/09/65,Chelsea,1-1,Sheffield Wed.
+8,15/09/65,Blackburn Rovers,0-1,Stoke City
+8,15/09/65,Leeds United,2-0,Tottenham
+8,15/09/65,Liverpool,1-1,West Ham
+8,15/09/65,Manchester United,1-1,Newcastle
+8,15/09/65,Northampton Town,1-2,Burnley
+8,15/09/65,Sheffield United,2-0,Fulham
+8,15/09/65,Sunderland,2-0,Aston Villa
+8,15/09/65,West Bromwich,1-1,Everton
+8,18/09/65,Everton,3-1,Arsenal
+8,18/09/65,Manchester United,4-1,Chelsea
+8,18/09/65,Tottenham,2-1,Liverpool
+9,18/09/65,Blackburn Rovers,1-2,West Ham
+9,18/09/65,Blackpool,1-2,Sunderland
+9,18/09/65,Fulham,3-6,Aston Villa
+9,18/09/65,Leicester City,3-3,Leeds United
+9,18/09/65,Newcastle,3-2,Burnley
+9,18/09/65,Nottingham Forest,1-1,Northampton Town
+9,18/09/65,Sheffield United,1-0,Sheffield Wed.
+9,18/09/65,West Bromwich,6-2,Stoke City
+9,25/09/65,Arsenal,4-2,Manchester United
+9,25/09/65,Chelsea,1-1,Newcastle
+9,25/09/65,Northampton Town,0-0,Sheffield Wed.
+10,25/09/65,Aston Villa,3-2,Tottenham
+10,25/09/65,Burnley,2-0,West Bromwich
+10,25/09/65,Leeds United,3-0,Blackburn Rovers
+10,25/09/65,Liverpool,5-0,Everton
+10,25/09/65,Sheffield United,2-2,Leicester City
+10,25/09/65,Stoke City,1-0,Nottingham Forest
+10,25/09/65,Sunderland,2-2,Fulham
+10,25/09/65,West Ham,1-1,Blackpool
+10,28/09/65,Arsenal,1-1,Northampton Town
+10,02/10/65,West Bromwich,1-2,Chelsea
+11,02/10/65,Blackburn Rovers,0-0,Sheffield United
+11,02/10/65,Fulham,3-0,West Ham
+11,02/10/65,Leicester City,1-1,Northampton Town
+11,02/10/65,Liverpool,3-1,Aston Villa
+11,02/10/65,Newcastle,0-1,Arsenal
+11,05/10/65,Everton,2-2,Blackburn Rovers
+10,06/10/65,Tottenham,3-0,Sunderland
+11,09/10/65,Burnley,1-4,Blackburn Rovers
+11,09/10/65,Chelsea,0-1,Blackpool
+11,09/10/65,Manchester United,2-0,Liverpool
+11,09/10/65,Sheffield Wed.,0-0,Leeds United
+12,09/10/65,Arsenal,2-1,Fulham
+12,09/10/65,Everton,3-1,Tottenham
+12,09/10/65,Newcastle,1-0,Aston Villa
+12,09/10/65,Northampton Town,0-1,Sheffield United
+12,09/10/65,Nottingham Forest,5-0,West Ham
+12,09/10/65,Stoke City,1-0,Leicester City
+12,09/10/65,West Bromwich,4-1,Sunderland
+12,16/10/65,Blackburn Rovers,0-1,Chelsea
+12,16/10/65,Leeds United,6-1,Northampton Town
+12,16/10/65,Sunderland,3-2,Nottingham Forest
+12,16/10/65,Tottenham,5-1,Manchester United
+13,16/10/65,Aston Villa,1-1,West Bromwich
+13,16/10/65,Blackpool,5-3,Arsenal
+13,16/10/65,Fulham,3-2,Everton
+13,16/10/65,Leicester City,0-1,Burnley
+13,16/10/65,Liverpool,2-0,Newcastle
+13,16/10/65,Sheffield United,3-2,Stoke City
+13,16/10/65,West Ham,4-2,Sheffield Wed.
+12,23/10/65,Sheffield Wed.,3-1,Sunderland
+13,23/10/65,Chelsea,0-2,Leicester City
+13,23/10/65,Everton,0-0,Blackpool
+13,23/10/65,Manchester United,4-1,Fulham
+13,23/10/65,Stoke City,1-2,Leeds United
+14,23/10/65,Arsenal,2-2,Blackburn Rovers
+14,23/10/65,Burnley,2-0,Sheffield United
+14,23/10/65,Newcastle,0-0,Tottenham
+14,23/10/65,Northampton Town,2-1,West Ham
+14,23/10/65,Nottingham Forest,1-2,Aston Villa
+14,23/10/65,West Bromwich,3-0,Liverpool
+14,30/10/65,Blackpool,1-2,Manchester United
+14,30/10/65,Leeds United,1-1,Burnley
+14,30/10/65,Liverpool,4-0,Nottingham Forest
+14,30/10/65,Sheffield United,1-2,Chelsea
+15,30/10/65,Aston Villa,2-0,Sheffield Wed.
+15,30/10/65,Blackburn Rovers,1-2,Everton
+15,30/10/65,Fulham,2-0,Newcastle
+15,30/10/65,Leicester City,3-1,Arsenal
+15,30/10/65,Sunderland,3-0,Northampton Town
+15,30/10/65,Tottenham,2-1,West Bromwich
+15,30/10/65,West Ham,0-0,Stoke City
+15,06/11/65,Chelsea,1-0,Leeds United
+15,06/11/65,Manchester United,2-2,Blackburn Rovers
+15,06/11/65,Newcastle,2-0,Blackpool
+15,06/11/65,Nottingham Forest,1-0,Tottenham
+15,06/11/65,Sheffield Wed.,0-2,Liverpool
+15,06/11/65,Stoke City,1-1,Sunderland
+16,06/11/65,Arsenal,6-2,Sheffield United
+16,06/11/65,Burnley,3-1,West Ham
+16,06/11/65,Everton,1-2,Leicester City
+16,06/11/65,Northampton Town,2-1,Aston Villa
+16,06/11/65,West Bromwich,6-2,Fulham
+15,13/11/65,Tottenham,2-3,Sheffield Wed.
+16,13/11/65,Blackpool,1-1,West Bromwich
+16,13/11/65,Fulham,1-1,Nottingham Forest
+16,13/11/65,Liverpool,5-0,Northampton Town
+16,13/11/65,Sunderland,0-4,Burnley
+16,13/11/65,West Ham,2-1,Chelsea
+17,13/11/65,Aston Villa,0-1,Stoke City
+17,13/11/65,Blackburn Rovers,4-2,Newcastle
+17,13/11/65,Leeds United,2-0,Arsenal
+17,13/11/65,Leicester City,0-5,Manchester United
+17,13/11/65,Sheffield United,2-0,Everton
+17,17/11/65,Liverpool,5-2,Blackburn Rovers
+17,20/11/65,Manchester United,3-1,Sheffield United
+17,20/11/65,Nottingham Forest,2-1,Blackpool
+18,20/11/65,Arsenal,3-2,West Ham
+18,20/11/65,Burnley,3-1,Aston Villa
+18,20/11/65,Everton,0-0,Leeds United
+18,20/11/65,Newcastle,1-5,Leicester City
+18,20/11/65,Northampton Town,0-2,Tottenham
+18,20/11/65,Sheffield Wed.,1-0,Fulham
+18,20/11/65,Stoke City,0-0,Liverpool
+18,20/11/65,West Bromwich,2-1,Blackburn Rovers
+17,27/11/65,Aston Villa,2-4,Chelsea
+18,27/11/65,Blackburn Rovers,5-0,Nottingham Forest
+18,27/11/65,Blackpool,2-1,Sheffield Wed.
+18,27/11/65,Liverpool,2-1,Burnley
+18,27/11/65,Tottenham,2-2,Stoke City
+19,27/11/65,Fulham,1-4,Northampton Town
+19,27/11/65,Leicester City,2-1,West Bromwich
+19,27/11/65,Sheffield United,3-2,Newcastle
+19,27/11/65,West Ham,3-0,Everton
+18,04/12/65,Chelsea,0-1,Liverpool
+18,04/12/65,Manchester United,0-0,West Ham
+18,04/12/65,Sheffield Wed.,2-1,Blackburn Rovers
+19,04/12/65,Arsenal,3-3,Aston Villa
+19,04/12/65,Burnley,1-1,Tottenham
+19,04/12/65,Northampton Town,2-1,Blackpool
+20,04/12/65,Everton,2-0,Sunderland
+20,04/12/65,Nottingham Forest,2-0,Leicester City
+20,04/12/65,Stoke City,3-2,Fulham
+20,04/12/65,West Bromwich,1-1,Sheffield United
+18,11/12/65,Leeds United,4-0,West Bromwich
+19,11/12/65,Sunderland,2-3,Manchester United
+19,11/12/65,Tottenham,4-2,Chelsea
+20,11/12/65,Blackpool,1-1,Stoke City
+20,11/12/65,Fulham,2-5,Burnley
+20,11/12/65,Liverpool,4-2,Arsenal
+20,11/12/65,West Ham,4-3,Newcastle
+21,11/12/65,Aston Villa,3-2,Everton
+21,11/12/65,Blackburn Rovers,6-1,Northampton Town
+21,11/12/65,Leicester City,4-1,Sheffield Wed.
+21,11/12/65,Sheffield United,1-1,Nottingham Forest
+22,15/12/65,Manchester United,3-0,Everton
+21,18/12/65,Manchester United,5-1,Tottenham
+21,18/12/65,Newcastle,0-0,Liverpool
+21,18/12/65,Nottingham Forest,0-0,Sunderland
+22,18/12/65,Burnley,4-2,Leicester City
+22,18/12/65,Sheffield Wed.,0-0,West Ham
+23,18/12/65,Everton,2-0,Fulham
+21,25/12/65,Blackpool,4-2,Blackburn Rovers
+19,27/12/65,Liverpool,0-1,Leeds United
+20,27/12/65,Northampton Town,2-3,Chelsea
+21,27/12/65,Sheffield Wed.,4-0,Arsenal
+22,27/12/65,Manchester United,1-1,West Bromwich
+22,27/12/65,Stoke City,3-1,Burnley
+22,27/12/65,Tottenham,1-0,Sheffield United
+24,27/12/65,Nottingham Forest,1-0,Everton
+20,28/12/65,Leeds United,0-1,Liverpool
+21,28/12/65,Chelsea,1-0,Northampton Town
+22,28/12/65,Arsenal,5-2,Sheffield Wed.
+23,28/12/65,Burnley,4-1,Stoke City
+23,28/12/65,Leicester City,5-0,Fulham
+23,28/12/65,Sheffield United,1-3,Tottenham
+21,01/01/66,Leeds United,3-0,Sheffield Wed.
+22,01/01/66,Aston Villa,4-2,Newcastle
+22,01/01/66,Blackpool,1-2,Chelsea
+23,01/01/66,Fulham,1-0,Arsenal
+23,01/01/66,Liverpool,2-1,Manchester United
+23,01/01/66,Sunderland,1-5,West Bromwich
+23,01/01/66,West Ham,0-3,Nottingham Forest
+24,01/01/66,Blackburn Rovers,0-2,Burnley
+24,01/01/66,Leicester City,1-0,Stoke City
+24,01/01/66,Sheffield United,2-2,Northampton Town
+25,01/01/66,Tottenham,2-2,Everton
+23,03/01/66,Sunderland,2-0,Newcastle
+22,08/01/66,West Bromwich,1-2,Leeds United
+23,08/01/66,Chelsea,2-1,Tottenham
+23,08/01/66,Stoke City,4-1,Blackpool
+24,08/01/66,Arsenal,0-1,Liverpool
+24,08/01/66,Manchester United,1-1,Sunderland
+24,08/01/66,Newcastle,2-1,West Ham
+25,08/01/66,Burnley,1-0,Fulham
+25,08/01/66,Northampton Town,2-1,Blackburn Rovers
+25,08/01/66,Nottingham Forest,1-0,Sheffield United
+25,08/01/66,Sheffield Wed.,1-2,Leicester City
+26,08/01/66,Everton,2-0,Aston Villa
+27,11/01/66,Everton,2-2,West Ham
+23,12/01/66,Leeds United,1-1,Manchester United
+24,15/01/66,Aston Villa,3-0,Nottingham Forest
+24,15/01/66,Blackpool,2-0,Everton
+24,15/01/66,Leeds United,2-2,Stoke City
+25,15/01/66,Blackburn Rovers,2-1,Arsenal
+25,15/01/66,Liverpool,2-2,West Bromwich
+25,15/01/66,Tottenham,2-2,Newcastle
+26,15/01/66,Fulham,0-1,Manchester United
+26,15/01/66,Sheffield United,2-1,Burnley
+26,15/01/66,West Ham,1-1,Northampton Town
+25,26/01/66,Sunderland,0-2,Sheffield Wed.
+24,29/01/66,Burnley,1-2,Chelsea
+25,29/01/66,Fulham,0-0,Blackpool
+25,29/01/66,Sunderland,2-0,Leeds United
+26,29/01/66,Liverpool,1-0,Leicester City
+26,29/01/66,Nottingham Forest,1-2,Newcastle
+26,29/01/66,Stoke City,1-3,Arsenal
+26,29/01/66,West Ham,4-0,West Bromwich
+27,29/01/66,Aston Villa,0-2,Sheffield United
+27,29/01/66,Sheffield Wed.,0-0,Manchester United
+27,29/01/66,Tottenham,4-0,Blackburn Rovers
+29,29/01/66,Northampton Town,0-2,Everton
+25,05/02/66,Chelsea,2-1,Fulham
+26,05/02/66,Blackpool,0-0,Tottenham
+26,05/02/66,Leeds United,5-0,West Ham
+27,05/02/66,Arsenal,1-1,Burnley
+27,05/02/66,Leicester City,2-1,Aston Villa
+27,05/02/66,Newcastle,2-0,Sheffield Wed.
+27,05/02/66,West Bromwich,5-3,Nottingham Forest
+28,05/02/66,Manchester United,6-2,Northampton Town
+28,05/02/66,Sheffield United,2-2,Sunderland
+29,05/02/66,Blackburn Rovers,1-4,Liverpool
+30,05/02/66,Everton,2-1,Stoke City

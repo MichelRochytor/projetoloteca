@@ -1,0 +1,200 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,11/01/81,Flamengo-PI,1-2,Tuna Luso
+A,11/01/81,Maranhão,2-2,Ceará
+A,11/01/81,Remo,3-0,Tiradentes-PI
+A,11/01/81,Rio Negro-AM,1-0,Guarany de Sobral
+B,11/01/81,ABC,2-2,Náutico
+B,11/01/81,ASA,0-1,Confiança
+B,11/01/81,Botafogo-PB,2-0,Treze
+B,11/01/81,Central,0-1,América-PE
+C,11/01/81,Anapolina,0-0,Itabuna
+C,11/01/81,Atlético Goianiense,1-1,Gama
+C,11/01/81,Bahia,0-1,Leônico
+C,11/01/81,União Rondonópolis,0-0,Anápolis
+D,11/01/81,Botafogo-SP,1-0,Cascavel EC
+D,11/01/81,Campo Grande-RJ,0-0,Juventus-SP
+D,11/01/81,Guarani,1-0,Coritiba
+D,11/01/81,Serrano-RJ,0-0,Grêmio Maringá
+E,11/01/81,América Mineiro,1-0,America-RJ
+E,11/01/81,Americano,2-0,Volta Redonda
+E,11/01/81,São Bento,1-0,Vitória
+E,11/01/81,Uberaba,3-0,Comercial
+F,11/01/81,Criciúma,2-1,Novo Hamburgo
+F,11/01/81,Inter SM,2-4,Ferroviária
+F,11/01/81,Palmeiras,2-1,América-SP
+F,11/01/81,São Paulo-RS,2-2,Comercial-MS
+A,14/01/81,Ceará,1-0,Flamengo-PI
+A,14/01/81,Guarany de Sobral,2-2,Remo
+A,14/01/81,Tiradentes-PI,1-2,Rio Negro-AM
+A,14/01/81,Tuna Luso,3-1,Maranhão
+B,14/01/81,ABC,2-2,Confiança
+B,14/01/81,Botafogo-PB,2-1,Central
+B,14/01/81,Náutico,2-1,ASA
+B,14/01/81,Treze,0-0,América-PE
+C,14/01/81,Anápolis,0-0,Gama
+C,14/01/81,Atlético Goianiense,1-2,Anapolina
+C,14/01/81,Bahia,1-0,União Rondonópolis
+C,14/01/81,Itabuna,0-3,Leônico
+D,14/01/81,Coritiba,1-1,Serrano-RJ
+D,14/01/81,Guarani,1-1,Grêmio Maringá
+D,14/01/81,Juventus-SP,3-3,Cascavel EC
+E,14/01/81,America-RJ,0-1,Uberaba
+E,14/01/81,Comercial,3-1,América Mineiro
+E,14/01/81,Vitória,2-6,Americano
+E,14/01/81,Volta Redonda,2-2,São Bento
+F,14/01/81,América-SP,1-1,Comercial-MS
+F,14/01/81,Criciúma,1-3,Inter SM
+F,14/01/81,Novo Hamburgo,0-0,Ferroviária
+F,14/01/81,Palmeiras,3-1,São Paulo-RS
+D,15/01/81,Botafogo-SP,0-1,Campo Grande-RJ
+A,17/01/81,Ceará,3-0,Guarany de Sobral
+A,17/01/81,Maranhão,0-1,Remo
+A,17/01/81,Rio Negro-AM,0-0,Tuna Luso
+B,17/01/81,América-PE,0-0,Botafogo-PB
+C,17/01/81,Gama,2-3,Bahia
+E,17/01/81,Comercial,1-0,Volta Redonda
+F,17/01/81,Comercial-MS,2-1,Criciúma
+A,18/01/81,Flamengo-PI,1-0,Tiradentes-PI
+B,18/01/81,ASA,0-0,Central
+B,18/01/81,Confiança,0-2,Náutico
+B,18/01/81,Treze,2-0,ABC
+C,18/01/81,Anápolis,2-1,Itabuna
+C,18/01/81,Leônico,1-0,Atlético Goianiense
+C,18/01/81,União Rondonópolis,3-2,Anapolina
+D,18/01/81,Cascavel EC,0-1,Campo Grande-RJ
+D,18/01/81,Grêmio Maringá,2-1,Coritiba
+D,18/01/81,Juventus-SP,2-0,Guarani
+D,18/01/81,Serrano-RJ,0-1,Botafogo-SP
+E,18/01/81,América Mineiro,1-0,Vitória
+E,18/01/81,America-RJ,3-1,Americano
+E,18/01/81,São Bento,2-0,Uberaba
+F,18/01/81,América-SP,0-1,Novo Hamburgo
+F,18/01/81,Ferroviária,1-1,Palmeiras
+F,18/01/81,São Paulo-RS,0-1,Inter SM
+A,21/01/81,Maranhão,1-2,Guarany de Sobral
+A,21/01/81,Remo,2-2,Ceará
+B,21/01/81,Botafogo-PB,2-1,Confiança
+B,21/01/81,Central,2-1,Treze
+B,21/01/81,Náutico,1-1,América-PE
+C,21/01/81,Anapolina,2-0,Bahia
+C,21/01/81,Atlético Goianiense,1-2,Anápolis
+C,21/01/81,Itabuna,1-2,União Rondonópolis
+C,21/01/81,Leônico,1-1,Gama
+D,21/01/81,Botafogo-SP,1-0,Juventus-SP
+D,21/01/81,Campo Grande-RJ,0-0,Grêmio Maringá
+D,21/01/81,Coritiba,1-0,Cascavel EC
+D,21/01/81,Guarani,6-0,Serrano-RJ
+E,21/01/81,Americano,0-0,América Mineiro
+E,21/01/81,America-RJ,1-0,Vitória
+E,21/01/81,São Bento,3-1,Comercial
+E,21/01/81,Uberaba,3-2,Volta Redonda
+F,21/01/81,Criciúma,0-0,Palmeiras
+F,21/01/81,Ferroviária,1-2,São Paulo-RS
+F,21/01/81,Inter SM,1-1,América-SP
+F,21/01/81,Novo Hamburgo,3-2,Comercial-MS
+A,22/01/81,Flamengo-PI,3-1,Rio Negro-AM
+A,22/01/81,Tuna Luso,1-0,Tiradentes-PI
+B,22/01/81,ABC,0-0,ASA
+B,24/01/81,Confiança,0-1,Central
+B,24/01/81,Náutico,3-0,Treze
+C,24/01/81,Bahia,2-1,Atlético Goianiense
+D,24/01/81,Coritiba,3-0,Juventus-SP
+F,24/01/81,Comercial-MS,0-0,Ferroviária
+A,25/01/81,Ceará,1-0,Rio Negro-AM
+A,25/01/81,Guarany de Sobral,0-0,Flamengo-PI
+A,25/01/81,Remo,2-0,Tuna Luso
+A,25/01/81,Tiradentes-PI,4-1,Maranhão
+B,25/01/81,América-PE,2-1,ABC
+B,25/01/81,ASA,2-2,Botafogo-PB
+C,25/01/81,Anápolis,2-2,Anapolina
+C,25/01/81,Gama,0-0,Itabuna
+C,25/01/81,União Rondonópolis,1-0,Leônico
+D,25/01/81,Cascavel EC,1-2,Guarani
+D,25/01/81,Grêmio Maringá,1-1,Botafogo-SP
+D,25/01/81,Serrano-RJ,0-1,Campo Grande-RJ
+E,25/01/81,América Mineiro,0-0,São Bento
+E,25/01/81,Americano,1-1,Uberaba
+E,25/01/81,Vitória,1-1,Comercial
+E,25/01/81,Volta Redonda,0-1,America-RJ
+F,25/01/81,América-SP,1-2,Criciúma
+F,25/01/81,Palmeiras,1-0,Inter SM
+F,25/01/81,São Paulo-RS,2-2,Novo Hamburgo
+A,27/01/81,Flamengo-PI,ANU,Remo
+A,28/01/81,Rio Negro-AM,1-2,Maranhão
+A,28/01/81,Tuna Luso,2-1,Ceará
+B,28/01/81,América-PE,2-1,Confiança
+B,28/01/81,Botafogo-PB,1-2,ABC
+B,28/01/81,Central,1-1,Náutico
+B,28/01/81,Treze,2-0,ASA
+C,28/01/81,Bahia,2-1,Itabuna
+C,28/01/81,Gama,1-1,Anapolina
+C,28/01/81,Leônico,0-0,Anápolis
+D,28/01/81,Botafogo-SP,0-2,Coritiba
+D,28/01/81,Campo Grande-RJ,1-2,Guarani
+D,28/01/81,Cascavel EC,2-1,Grêmio Maringá
+D,28/01/81,Juventus-SP,4-1,Serrano-RJ
+E,28/01/81,Comercial,1-2,Americano
+E,28/01/81,São Bento,3-0,America-RJ
+E,28/01/81,Uberaba,4-0,América Mineiro
+E,28/01/81,Volta Redonda,3-0,Vitória
+F,28/01/81,Comercial-MS,3-1,Inter SM
+F,28/01/81,Ferroviária,1-0,Criciúma
+F,28/01/81,Novo Hamburgo,0-2,Palmeiras
+F,28/01/81,São Paulo-RS,1-0,América-SP
+A,29/01/81,Tiradentes-PI,2-1,Guarany de Sobral
+C,29/01/81,Atlético Goianiense,1-1,União Rondonópolis
+B,31/01/81,Maranhão,2-0,Flamengo-PI
+B,31/01/81,ABC,3-2,Central
+B,31/01/81,Confiança,2-1,Treze
+C,31/01/81,Anapolina,4-1,Leônico
+E,31/01/81,Vitória,1-3,Uberaba
+B,02/02/81,Ceará,2-2,Tiradentes-PI
+B,02/02/81,Guarany de Sobral,1-0,Tuna Luso
+B,02/02/81,Remo,2-0,Rio Negro-AM
+B,02/02/81,ASA,2-0,América-PE
+B,02/02/81,Náutico,1-1,Botafogo-PB
+C,02/02/81,Anápolis,0-5,Bahia
+C,02/02/81,Itabuna,2-1,Atlético Goianiense
+C,02/02/81,União Rondonópolis,0-2,Gama
+D,02/02/81,Coritiba,1-0,Campo Grande-RJ
+D,02/02/81,Grêmio Maringá,1-2,Juventus-SP
+D,02/02/81,Guarani,4-1,Botafogo-SP
+D,02/02/81,Serrano-RJ,1-1,Cascavel EC
+E,02/02/81,América Mineiro,2-1,Volta Redonda
+E,02/02/81,Americano,5-0,São Bento
+E,02/02/81,America-RJ,1-1,Comercial
+F,02/02/81,América-SP,3-1,Ferroviária
+F,02/02/81,Criciúma,2-2,São Paulo-RS
+F,02/02/81,Inter SM,3-1,Novo Hamburgo
+F,02/02/81,Palmeiras,1-1,Comercial-MS
+A,03/02/81,Flamengo-PI,2-2,Remo
+G,07/02/81,Botafogo-PB,0-0,Remo
+H,07/02/81,Tuna Luso,1-2,Anapolina
+I,07/02/81,Americano,1-0,Guarani
+J,07/02/81,Coritiba,4-0,Comercial-MS
+G,10/02/81,Bahia,1-0,Botafogo-PB
+H,10/02/81,Náutico,0-0,Tuna Luso
+I,10/02/81,Palmeiras,2-1,Americano
+J,10/02/81,Uberaba,0-0,Coritiba
+G,14/02/81,Remo,1-2,Bahia
+H,14/02/81,Anapolina,2-2,Náutico
+I,14/02/81,Guarani,2-1,Palmeiras
+J,14/02/81,Comercial-MS,1-1,Uberaba
+G,17/02/81,Remo,5-1,Botafogo-PB
+H,17/02/81,Anapolina,2-0,Tuna Luso
+I,17/02/81,Guarani,4-1,Americano
+J,17/02/81,Comercial-MS,2-0,Coritiba
+G,21/02/81,Botafogo-PB,1-1,Bahia
+H,21/02/81,Tuna Luso,2-3,Náutico
+I,21/02/81,Americano,0-0,Palmeiras
+J,21/02/81,Coritiba,0-1,Uberaba
+G,24/02/81,Bahia,2-0,Remo
+H,24/02/81,Náutico,2-1,Anapolina
+I,24/02/81,Palmeiras,2-0,Guarani
+J,24/02/81,Uberaba,1-1,Comercial-MS
+SF,07/03/81,Comercial-MS,1-2,Guarani
+SF,07/03/81,Remo,2-3,Anapolina
+SF,14/03/81,Guarani,3-0,Comercial-MS
+SF,14/03/81,Anapolina,4-3,Remo
+F,21/03/81,Anapolina,2-4,Guarani
+F,27/03/81,Guarani,1-1,Anapolina

@@ -1,0 +1,71 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,02/02/22,Dourados AC,1-1,Coxim
+B,02/02/22,Aquidauanense,3-1,Naviraiense
+A,02/02/22,Costa Rica EC,2-1,Operário-MS
+A,02/02/22,Comercial-MS,0-1,União-MS
+B,06/02/22,Coxim,2-0,Aquidauanense
+A,06/02/22,Operário-MS,0-0,Comercial-MS
+B,06/02/22,Águia Negra,0-0,Dourados AC
+A,09/02/22,União-MS,0-5,Operário-MS
+A,09/02/22,Naviraiense,5-1,Coxim
+B,09/02/22,Aquidauanense,1-1,Águia Negra
+A,09/02/22,Comercial-MS,3-1,SERC
+A,13/02/22,SERC,1-0,União-MS
+A,13/02/22,Costa Rica EC,4-0,Comercial-MS
+B,13/02/22,Dourados AC,1-0,Aquidauanense
+B,13/02/22,Águia Negra,0-3,Naviraiense
+B,16/02/22,Coxim,3-1,Águia Negra
+A,16/02/22,Operário-MS,2-1,SERC
+A,16/02/22,União-MS,0-1,Costa Rica EC
+B,16/02/22,Naviraiense,0-0,Dourados AC
+A,19/02/22,União-MS,1-3,Comercial-MS
+A,20/02/22,Operário-MS,0-1,Costa Rica EC
+B,20/02/22,Coxim,1-2,Dourados AC
+B,20/02/22,Naviraiense,1-0,Aquidauanense
+A,23/02/22,SERC,1-0,Costa Rica EC
+B,26/02/22,Aquidauanense,5-1,Coxim
+A,26/02/22,Costa Rica EC,1-0,SERC
+B,26/02/22,Dourados AC,1-0,Águia Negra
+A,02/03/22,SERC,1-0,Comercial-MS
+A,02/03/22,Coxim,2-0,Naviraiense
+A,02/03/22,Operário-MS,2-0,União-MS
+B,02/03/22,Águia Negra,1-2,Aquidauanense
+B,05/03/22,Aquidauanense,1-0,Dourados AC
+A,05/03/22,União-MS,1-3,SERC
+A,06/03/22,Comercial-MS,1-1,Operário-MS
+B,06/03/22,Naviraiense,0-0,Águia Negra
+A,09/03/22,Comercial-MS,2-3,Costa Rica EC
+B,13/03/22,Águia Negra,5-0,Coxim
+A,13/03/22,Costa Rica EC,4-0,União-MS
+A,13/03/22,SERC,2-2,Operário-MS
+B,13/03/22,Dourados AC,1-1,Naviraiense
+HXF,19/03/22,Aquidauanense,1-2,Costa Rica EC
+HXF,19/03/22,Dourados AC,1-3,Naviraiense
+HXF,20/03/22,Operário-MS,4-0,SERC
+HXF,23/03/22,SERC,1-1,Aquidauanense
+HXF,23/03/22,Naviraiense,0-1,Operário-MS
+HXF,23/03/22,Costa Rica EC,1-0,Dourados AC
+HXF,27/03/22,Dourados AC,2-3,Aquidauanense
+HXF,27/03/22,Operário-MS,1-0,Costa Rica EC
+HXF,27/03/22,Naviraiense,2-1,SERC
+HXF,30/03/22,Dourados AC,1-1,Operário-MS
+HXF,30/03/22,Aquidauanense,2-3,Naviraiense
+HXF,30/03/22,Costa Rica EC,1-2,SERC
+HXF,03/04/22,SERC,0-1,Dourados AC
+HXF,03/04/22,Operário-MS,1-1,Aquidauanense
+HXF,03/04/22,Naviraiense,0-0,Costa Rica EC
+HXF,06/04/22,SERC,1-1,Operário-MS
+HXF,06/04/22,Naviraiense,4-1,Dourados AC
+HXF,06/04/22,Costa Rica EC,2-1,Aquidauanense
+HXF,10/04/22,Aquidauanense,2-2,SERC
+HXF,10/04/22,Dourados AC,1-5,Costa Rica EC
+HXF,10/04/22,Operário-MS,1-0,Naviraiense
+HXF,13/04/22,SERC,3-2,Naviraiense
+HXF,13/04/22,Aquidauanense,2-3,Dourados AC
+HXF,13/04/22,Costa Rica EC,1-1,Operário-MS
+HXF,17/04/22,Operário-MS,1-0,Dourados AC
+HXF,17/04/22,Naviraiense,2-0,Aquidauanense
+HXF,20/04/22,SERC,0-1,Costa Rica EC
+HXF,24/04/22,Costa Rica EC,0-1,Naviraiense
+HXF,24/04/22,Aquidauanense,1-3,Operário-MS
+HXF,24/04/22,Dourados AC,2-0,SERC

@@ -1,0 +1,357 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,06/09/74,Real Sociedad,3-2,Barcelona
+1,06/09/74,Hércules,2-2,Real Murcia
+1,06/09/74,Espanyol,2-0,Celta de Vigo
+1,06/09/74,Valencia,1-2,Real Madrid
+1,06/09/74,Las Palmas,3-1,Real Betis
+1,06/09/74,Sporting Gijón,2-0,Real Zaragoza
+1,06/09/74,Málaga,2-0,Athletic Bilbao
+1,07/09/74,Atlético de Madrid,0-0,Granada
+1,07/09/74,Salamanca,2-0,Elche
+2,13/09/74,Real Madrid,2-1,Hércules
+2,13/09/74,Barcelona,5-0,Málaga
+2,13/09/74,Elche,1-0,Atlético de Madrid
+2,14/09/74,Real Zaragoza,3-1,Valencia
+2,14/09/74,Real Betis,0-0,Espanyol
+2,14/09/74,Athletic Bilbao,1-4,Sporting Gijón
+2,14/09/74,Granada,1-1,Las Palmas
+2,14/09/74,Celta de Vigo,1-0,Real Sociedad
+2,14/09/74,Real Murcia,2-1,Salamanca
+3,27/09/74,Real Sociedad,2-0,Málaga
+3,27/09/74,Atlético de Madrid,1-0,Real Murcia
+3,27/09/74,Salamanca,0-0,Real Madrid
+3,27/09/74,Las Palmas,1-1,Elche
+3,28/09/74,Hércules,0-1,Real Zaragoza
+3,28/09/74,Espanyol,1-0,Granada
+3,28/09/74,Valencia,3-0,Athletic Bilbao
+3,28/09/74,Sporting Gijón,0-1,Barcelona
+3,28/09/74,Celta de Vigo,1-1,Real Betis
+4,05/10/74,Real Madrid,1-0,Atlético de Madrid
+4,05/10/74,Real Zaragoza,1-1,Salamanca
+4,05/10/74,Barcelona,5-2,Valencia
+4,05/10/74,Elche,2-4,Espanyol
+4,05/10/74,Real Betis,3-0,Real Sociedad
+4,05/10/74,Athletic Bilbao,2-2,Hércules
+4,05/10/74,Granada,1-0,Celta de Vigo
+4,05/10/74,Málaga,3-1,Sporting Gijón
+4,05/10/74,Real Murcia,1-1,Las Palmas
+5,18/10/74,Hércules,0-0,Barcelona
+5,18/10/74,Las Palmas,1-2,Real Madrid
+5,19/10/74,Real Sociedad,1-1,Sporting Gijón
+5,19/10/74,Atlético de Madrid,4-0,Real Zaragoza
+5,19/10/74,Salamanca,0-0,Athletic Bilbao
+5,19/10/74,Real Betis,1-1,Granada
+5,19/10/74,Espanyol,2-1,Real Murcia
+5,19/10/74,Valencia,2-0,Málaga
+5,19/10/74,Celta de Vigo,1-2,Elche
+6,26/10/74,Real Madrid,5-0,Espanyol
+6,26/10/74,Real Zaragoza,3-1,Las Palmas
+6,26/10/74,Barcelona,3-1,Salamanca
+6,26/10/74,Elche,2-0,Real Betis
+6,26/10/74,Athletic Bilbao,3-0,Atlético de Madrid
+6,26/10/74,Sporting Gijón,2-1,Valencia
+6,26/10/74,Granada,1-0,Real Sociedad
+6,26/10/74,Málaga,0-1,Hércules
+6,26/10/74,Real Murcia,1-0,Celta de Vigo
+7,31/10/74,Atlético de Madrid,3-3,Barcelona
+7,31/10/74,Espanyol,2-1,Real Zaragoza
+7,01/11/74,Las Palmas,2-0,Athletic Bilbao
+7,02/11/74,Real Sociedad,1-0,Valencia
+7,02/11/74,Hércules,2-0,Sporting Gijón
+7,02/11/74,Salamanca,1-0,Málaga
+7,02/11/74,Real Betis,1-0,Real Murcia
+7,02/11/74,Granada,5-0,Elche
+7,02/11/74,Celta de Vigo,3-3,Real Madrid
+8,09/11/74,Real Madrid,3-2,Real Betis
+8,09/11/74,Real Zaragoza,4-2,Celta de Vigo
+8,09/11/74,Barcelona,3-2,Las Palmas
+8,09/11/74,Elche,3-0,Real Sociedad
+8,09/11/74,Athletic Bilbao,1-0,Espanyol
+8,09/11/74,Valencia,1-0,Hércules
+8,09/11/74,Sporting Gijón,2-1,Salamanca
+8,09/11/74,Málaga,0-0,Atlético de Madrid
+8,09/11/74,Real Murcia,0-0,Granada
+9,22/11/74,Las Palmas,1-0,Málaga
+9,23/11/74,Real Sociedad,2-2,Hércules
+9,23/11/74,Atlético de Madrid,2-2,Sporting Gijón
+9,23/11/74,Salamanca,0-1,Valencia
+9,23/11/74,Elche,3-0,Real Murcia
+9,23/11/74,Real Betis,1-0,Real Zaragoza
+9,23/11/74,Espanyol,5-2,Barcelona
+9,23/11/74,Granada,3-3,Real Madrid
+9,23/11/74,Celta de Vigo,1-0,Athletic Bilbao
+10,30/11/74,Real Zaragoza,4-1,Granada
+10,30/11/74,Barcelona,4-0,Celta de Vigo
+10,30/11/74,Hércules,2-1,Salamanca
+10,30/11/74,Athletic Bilbao,0-1,Real Betis
+10,30/11/74,Valencia,1-1,Atlético de Madrid
+10,30/11/74,Sporting Gijón,0-0,Las Palmas
+10,30/11/74,Málaga,2-0,Espanyol
+10,30/11/74,Real Murcia,2-2,Real Sociedad
+10,01/12/74,Real Madrid,5-1,Elche
+11,06/12/74,Las Palmas,1-1,Valencia
+11,07/12/74,Real Sociedad,1-1,Salamanca
+11,07/12/74,Atlético de Madrid,2-0,Hércules
+11,07/12/74,Elche,1-1,Real Zaragoza
+11,07/12/74,Real Betis,1-0,Barcelona
+11,07/12/74,Espanyol,0-0,Sporting Gijón
+11,07/12/74,Granada,1-1,Athletic Bilbao
+11,07/12/74,Celta de Vigo,2-0,Málaga
+11,07/12/74,Real Murcia,2-2,Real Madrid
+12,14/12/74,Real Madrid,1-1,Real Sociedad
+12,14/12/74,Real Zaragoza,5-0,Real Murcia
+12,14/12/74,Barcelona,2-1,Granada
+12,14/12/74,Hércules,3-1,Las Palmas
+12,14/12/74,Salamanca,1-1,Atlético de Madrid
+12,14/12/74,Athletic Bilbao,3-0,Elche
+12,14/12/74,Valencia,1-1,Espanyol
+12,14/12/74,Sporting Gijón,1-1,Celta de Vigo
+12,14/12/74,Málaga,1-0,Real Betis
+13,20/12/74,Las Palmas,1-1,Salamanca
+13,21/12/74,Real Madrid,1-0,Real Zaragoza
+13,21/12/74,Real Sociedad,1-1,Atlético de Madrid
+13,21/12/74,Elche,1-0,Barcelona
+13,21/12/74,Real Betis,2-0,Sporting Gijón
+13,21/12/74,Espanyol,2-1,Hércules
+13,21/12/74,Granada,1-0,Málaga
+13,21/12/74,Celta de Vigo,1-1,Valencia
+13,21/12/74,Real Murcia,2-4,Athletic Bilbao
+14,28/12/74,Real Zaragoza,1-1,Real Sociedad
+14,28/12/74,Barcelona,3-1,Real Murcia
+14,28/12/74,Hércules,0-0,Celta de Vigo
+14,28/12/74,Atlético de Madrid,4-0,Las Palmas
+14,28/12/74,Salamanca,2-0,Espanyol
+14,28/12/74,Athletic Bilbao,1-0,Real Madrid
+14,28/12/74,Valencia,3-1,Real Betis
+14,28/12/74,Sporting Gijón,5-1,Granada
+14,28/12/74,Málaga,1-0,Elche
+15,04/01/75,Real Madrid,1-0,Barcelona
+15,04/01/75,Real Zaragoza,1-0,Athletic Bilbao
+15,04/01/75,Real Sociedad,2-0,Las Palmas
+15,04/01/75,Elche,1-0,Sporting Gijón
+15,04/01/75,Real Betis,3-0,Hércules
+15,04/01/75,Espanyol,1-0,Atlético de Madrid
+15,04/01/75,Granada,2-1,Valencia
+15,04/01/75,Celta de Vigo,2-0,Salamanca
+15,04/01/75,Real Murcia,2-0,Málaga
+16,10/01/75,Las Palmas,2-0,Espanyol
+16,11/01/75,Barcelona,2-2,Real Zaragoza
+16,11/01/75,Real Sociedad,3-0,Athletic Bilbao
+16,11/01/75,Hércules,0-1,Granada
+16,11/01/75,Atlético de Madrid,0-0,Celta de Vigo
+16,11/01/75,Salamanca,2-0,Real Betis
+16,11/01/75,Valencia,0-0,Elche
+16,11/01/75,Sporting Gijón,1-0,Real Murcia
+16,11/01/75,Málaga,1-3,Real Madrid
+17,18/01/75,Real Madrid,0-0,Sporting Gijón
+17,18/01/75,Real Zaragoza,1-0,Málaga
+17,18/01/75,Elche,0-1,Hércules
+17,18/01/75,Real Betis,2-1,Atlético de Madrid
+17,18/01/75,Athletic Bilbao,1-0,Barcelona
+17,18/01/75,Espanyol,0-1,Real Sociedad
+17,18/01/75,Granada,1-1,Salamanca
+17,18/01/75,Celta de Vigo,1-0,Las Palmas
+17,18/01/75,Real Murcia,1-5,Valencia
+18,24/01/75,Elche,0-1,Salamanca
+18,25/01/75,Real Madrid,3-2,Valencia
+18,25/01/75,Real Zaragoza,3-1,Sporting Gijón
+18,25/01/75,Barcelona,2-0,Real Sociedad
+18,25/01/75,Real Betis,1-0,Las Palmas
+18,25/01/75,Athletic Bilbao,3-1,Málaga
+18,25/01/75,Granada,0-0,Atlético de Madrid
+18,25/01/75,Celta de Vigo,2-0,Espanyol
+18,25/01/75,Real Murcia,1-1,Hércules
+19,07/02/75,Las Palmas,4-0,Granada
+19,08/02/75,Real Sociedad,1-1,Celta de Vigo
+19,08/02/75,Hércules,1-1,Real Madrid
+19,08/02/75,Atlético de Madrid,3-0,Elche
+19,08/02/75,Salamanca,3-0,Real Murcia
+19,08/02/75,Espanyol,1-0,Real Betis
+19,08/02/75,Valencia,0-0,Real Zaragoza
+19,08/02/75,Sporting Gijón,1-1,Athletic Bilbao
+19,08/02/75,Málaga,3-2,Barcelona
+20,15/02/75,Real Madrid,1-0,Salamanca
+20,15/02/75,Real Zaragoza,2-2,Hércules
+20,15/02/75,Barcelona,1-1,Sporting Gijón
+20,15/02/75,Elche,1-1,Las Palmas
+20,15/02/75,Real Betis,1-0,Celta de Vigo
+20,15/02/75,Athletic Bilbao,1-1,Valencia
+20,15/02/75,Granada,0-0,Espanyol
+20,15/02/75,Málaga,2-0,Real Sociedad
+20,15/02/75,Real Murcia,3-1,Atlético de Madrid
+21,21/02/75,Las Palmas,5-0,Real Murcia
+21,22/02/75,Real Sociedad,2-0,Real Betis
+21,22/02/75,Hércules,0-0,Athletic Bilbao
+21,22/02/75,Atlético de Madrid,1-1,Real Madrid
+21,22/02/75,Salamanca,3-3,Real Zaragoza
+21,22/02/75,Espanyol,2-1,Elche
+21,22/02/75,Valencia,1-0,Barcelona
+21,22/02/75,Sporting Gijón,1-1,Málaga
+21,22/02/75,Celta de Vigo,3-0,Granada
+22,28/02/75,Barcelona,0-0,Hércules
+22,01/03/75,Real Madrid,4-1,Las Palmas
+22,01/03/75,Real Zaragoza,3-1,Atlético de Madrid
+22,01/03/75,Elche,2-0,Celta de Vigo
+22,01/03/75,Athletic Bilbao,0-0,Salamanca
+22,01/03/75,Sporting Gijón,0-2,Real Sociedad
+22,01/03/75,Granada,2-0,Real Betis
+22,01/03/75,Málaga,1-0,Valencia
+22,01/03/75,Real Murcia,0-0,Espanyol
+23,07/03/75,Atlético de Madrid,2-0,Athletic Bilbao
+23,07/03/75,Las Palmas,2-0,Real Zaragoza
+23,08/03/75,Real Sociedad,2-0,Granada
+23,08/03/75,Hércules,1-1,Málaga
+23,08/03/75,Salamanca,1-0,Barcelona
+23,08/03/75,Real Betis,1-1,Elche
+23,08/03/75,Espanyol,0-2,Real Madrid
+23,08/03/75,Valencia,2-0,Sporting Gijón
+23,08/03/75,Celta de Vigo,1-1,Real Murcia
+24,14/03/75,Real Madrid,4-1,Celta de Vigo
+24,15/03/75,Real Zaragoza,1-0,Espanyol
+24,15/03/75,Barcelona,1-0,Atlético de Madrid
+24,15/03/75,Elche,2-1,Granada
+24,15/03/75,Athletic Bilbao,2-1,Las Palmas
+24,15/03/75,Valencia,1-0,Real Sociedad
+24,15/03/75,Sporting Gijón,2-1,Hércules
+24,15/03/75,Málaga,1-1,Salamanca
+24,15/03/75,Real Murcia,0-0,Real Betis
+25,21/03/75,Las Palmas,1-0,Barcelona
+25,22/03/75,Real Sociedad,0-0,Elche
+25,22/03/75,Hércules,2-1,Valencia
+25,22/03/75,Atlético de Madrid,2-1,Málaga
+25,22/03/75,Salamanca,1-0,Sporting Gijón
+25,22/03/75,Real Betis,1-3,Real Madrid
+25,22/03/75,Espanyol,4-3,Athletic Bilbao
+25,22/03/75,Granada,2-1,Real Murcia
+25,22/03/75,Celta de Vigo,2-0,Real Zaragoza
+26,29/03/75,Real Madrid,1-0,Granada
+26,29/03/75,Real Zaragoza,2-1,Real Betis
+26,29/03/75,Barcelona,4-1,Espanyol
+26,29/03/75,Hércules,1-1,Real Sociedad
+26,29/03/75,Athletic Bilbao,3-0,Celta de Vigo
+26,29/03/75,Valencia,2-2,Salamanca
+26,29/03/75,Sporting Gijón,2-2,Atlético de Madrid
+26,29/03/75,Málaga,1-0,Las Palmas
+26,29/03/75,Real Murcia,2-0,Elche
+27,05/04/75,Real Sociedad,2-0,Real Murcia
+27,05/04/75,Atlético de Madrid,5-2,Valencia
+27,05/04/75,Salamanca,0-1,Hércules
+27,05/04/75,Real Betis,2-1,Athletic Bilbao
+27,05/04/75,Espanyol,1-2,Málaga
+27,05/04/75,Las Palmas,1-0,Sporting Gijón
+27,05/04/75,Granada,3-0,Real Zaragoza
+27,05/04/75,Celta de Vigo,1-0,Barcelona
+27,06/04/75,Elche,1-0,Real Madrid
+28,18/04/75,Barcelona,3-0,Real Betis
+28,19/04/75,Real Madrid,4-0,Real Murcia
+28,19/04/75,Real Zaragoza,3-3,Elche
+28,19/04/75,Hércules,3-2,Atlético de Madrid
+28,19/04/75,Salamanca,1-1,Real Sociedad
+28,19/04/75,Athletic Bilbao,1-0,Granada
+28,19/04/75,Valencia,2-1,Las Palmas
+28,19/04/75,Sporting Gijón,2-1,Espanyol
+28,19/04/75,Málaga,3-0,Celta de Vigo
+29,25/04/75,Las Palmas,0-0,Hércules
+29,26/04/75,Real Sociedad,1-1,Real Madrid
+29,26/04/75,Atlético de Madrid,0-0,Salamanca
+29,26/04/75,Elche,1-0,Athletic Bilbao
+29,26/04/75,Real Betis,1-0,Málaga
+29,26/04/75,Espanyol,5-3,Valencia
+29,26/04/75,Granada,1-2,Barcelona
+29,26/04/75,Celta de Vigo,2-0,Sporting Gijón
+29,26/04/75,Real Murcia,1-5,Real Zaragoza
+30,29/04/75,Real Zaragoza,6-1,Real Madrid
+30,29/04/75,Barcelona,0-0,Elche
+30,29/04/75,Valencia,2-0,Celta de Vigo
+30,30/04/75,Hércules,2-1,Espanyol
+30,30/04/75,Atlético de Madrid,1-0,Real Sociedad
+30,30/04/75,Salamanca,2-1,Las Palmas
+30,30/04/75,Athletic Bilbao,2-0,Real Murcia
+30,30/04/75,Sporting Gijón,2-0,Real Betis
+30,30/04/75,Málaga,1-1,Granada
+31,03/05/75,Real Madrid,2-0,Athletic Bilbao
+31,03/05/75,Real Sociedad,1-0,Real Zaragoza
+31,03/05/75,Elche,2-1,Málaga
+31,03/05/75,Real Betis,2-0,Valencia
+31,03/05/75,Espanyol,1-0,Salamanca
+31,03/05/75,Las Palmas,1-0,Atlético de Madrid
+31,03/05/75,Granada,2-1,Sporting Gijón
+31,03/05/75,Celta de Vigo,0-1,Hércules
+31,03/05/75,Real Murcia,0-2,Barcelona
+32,09/05/75,Atlético de Madrid,2-0,Espanyol
+32,09/05/75,Valencia,7-1,Granada
+32,09/05/75,Las Palmas,1-0,Real Sociedad
+32,10/05/75,Barcelona,0-0,Real Madrid
+32,10/05/75,Hércules,2-3,Real Betis
+32,10/05/75,Salamanca,0-0,Celta de Vigo
+32,10/05/75,Athletic Bilbao,4-0,Real Zaragoza
+32,10/05/75,Sporting Gijón,3-1,Elche
+32,10/05/75,Málaga,3-1,Real Murcia
+33,17/05/75,Real Madrid,4-0,Málaga
+33,17/05/75,Real Zaragoza,2-1,Barcelona
+33,17/05/75,Elche,2-1,Valencia
+33,17/05/75,Real Betis,1-1,Salamanca
+33,17/05/75,Athletic Bilbao,2-1,Real Sociedad
+33,17/05/75,Espanyol,1-0,Las Palmas
+33,17/05/75,Granada,1-1,Hércules
+33,17/05/75,Celta de Vigo,0-0,Atlético de Madrid
+33,17/05/75,Real Murcia,2-1,Sporting Gijón
+34,24/05/75,Barcelona,4-0,Athletic Bilbao
+34,24/05/75,Real Sociedad,2-0,Espanyol
+34,24/05/75,Hércules,1-0,Elche
+28,19/04/75,Sporting Gijón,2-1,Espanyol
+28,19/04/75,Málaga,3-0,Celta de Vigo
+29,25/04/75,Las Palmas,0-0,Hércules
+29,26/04/75,Real Sociedad,1-1,Real Madrid
+29,26/04/75,Atlético de Madrid,0-0,Salamanca
+29,26/04/75,Elche,1-0,Athletic Bilbao
+29,26/04/75,Real Betis,1-0,Málaga
+29,26/04/75,Espanyol,5-3,Valencia
+29,26/04/75,Granada,1-2,Barcelona
+29,26/04/75,Celta de Vigo,2-0,Sporting Gijón
+29,26/04/75,Real Murcia,1-5,Real Zaragoza
+30,29/04/75,Real Zaragoza,6-1,Real Madrid
+30,29/04/75,Barcelona,0-0,Elche
+30,29/04/75,Valencia,2-0,Celta de Vigo
+30,30/04/75,Hércules,2-1,Espanyol
+30,30/04/75,Atlético de Madrid,1-0,Real Sociedad
+30,30/04/75,Salamanca,2-1,Las Palmas
+30,30/04/75,Athletic Bilbao,2-0,Real Murcia
+30,30/04/75,Sporting Gijón,2-0,Real Betis
+30,30/04/75,Málaga,1-1,Granada
+31,03/05/75,Real Madrid,2-0,Athletic Bilbao
+31,03/05/75,Real Sociedad,1-0,Real Zaragoza
+31,03/05/75,Elche,2-1,Málaga
+31,03/05/75,Real Betis,2-0,Valencia
+31,03/05/75,Espanyol,1-0,Salamanca
+31,03/05/75,Las Palmas,1-0,Atlético de Madrid
+31,03/05/75,Granada,2-1,Sporting Gijón
+31,03/05/75,Celta de Vigo,0-1,Hércules
+31,03/05/75,Real Murcia,0-2,Barcelona
+32,09/05/75,Atlético de Madrid,2-0,Espanyol
+32,09/05/75,Valencia,7-1,Granada
+32,09/05/75,Las Palmas,1-0,Real Sociedad
+32,10/05/75,Barcelona,0-0,Real Madrid
+32,10/05/75,Hércules,2-3,Real Betis
+32,10/05/75,Salamanca,0-0,Celta de Vigo
+32,10/05/75,Athletic Bilbao,4-0,Real Zaragoza
+32,10/05/75,Sporting Gijón,3-1,Elche
+32,10/05/75,Málaga,3-1,Real Murcia
+33,17/05/75,Real Madrid,4-0,Málaga
+33,17/05/75,Real Zaragoza,2-1,Barcelona
+33,17/05/75,Elche,2-1,Valencia
+33,17/05/75,Real Betis,1-1,Salamanca
+33,17/05/75,Athletic Bilbao,2-1,Real Sociedad
+33,17/05/75,Espanyol,1-0,Las Palmas
+33,17/05/75,Granada,1-1,Hércules
+33,17/05/75,Celta de Vigo,0-0,Atlético de Madrid
+33,17/05/75,Real Murcia,2-1,Sporting Gijón
+34,24/05/75,Barcelona,4-0,Athletic Bilbao
+34,24/05/75,Real Sociedad,2-0,Espanyol
+34,24/05/75,Hércules,1-0,Elche
+34,24/05/75,Atlético de Madrid,4-1,Real Betis
+34,24/05/75,Salamanca,1-0,Granada
+34,24/05/75,Valencia,1-2,Real Murcia
+34,24/05/75,Las Palmas,3-1,Celta de Vigo
+34,24/05/75,Sporting Gijón,2-0,Real Madrid
+34,24/05/75,Málaga,1-0,Real Zaragoza

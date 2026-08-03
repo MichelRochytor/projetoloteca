@@ -1,0 +1,87 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,19/01/19,Vila Nova,1-0,Aparecidense
+B,20/01/19,Atlético Goianiense,2-0,Goianésia
+B,20/01/19,Iporá,1-1,Itumbiara
+B,20/01/19,Novo Horizonte,0-1,CRAC
+B,20/01/19,Goiânia,0-3,Goiás
+B,20/01/19,Grêmio Anápolis,2-1,Anapolina
+B,23/01/19,Goianésia,1-0,Grêmio Anápolis
+B,23/01/19,Aparecidense,1-1,Iporá
+B,23/01/19,Itumbiara,1-1,Atlético Goianiense
+B,23/01/19,CRAC,1-0,Goiânia
+B,23/01/19,Anapolina,1-1,Vila Nova
+B,24/01/19,Goiás,1-0,Novo Horizonte
+B,26/01/19,Aparecidense,1-2,Atlético Goianiense
+B,27/01/19,Anapolina,1-1,Iporá
+B,27/01/19,CRAC,0-1,Grêmio Anápolis
+B,27/01/19,Goianésia,4-1,Novo Horizonte
+B,27/01/19,Goiás,2-0,Vila Nova
+B,27/01/19,Itumbiara,0-1,Goiânia
+B,30/01/19,Iporá,0-0,Goianésia
+B,30/01/19,Novo Horizonte,3-0,Itumbiara
+B,30/01/19,Goiânia,1-1,Aparecidense
+B,30/01/19,Atlético Goianiense,3-0,Anapolina
+B,30/01/19,Grêmio Anápolis,0-1,Goiás
+B,31/01/19,Vila Nova,3-0,CRAC
+B,02/02/19,Aparecidense,1-0,Grêmio Anápolis
+B,03/02/19,Anapolina,0-0,Novo Horizonte
+B,03/02/19,CRAC,2-0,Iporá
+B,03/02/19,Goianésia,1-2,Goiânia
+B,03/02/19,Goiás,3-0,Atlético Goianiense
+B,03/02/19,Itumbiara,0-1,Vila Nova
+B,08/02/19,Novo Horizonte,1-2,Aparecidense
+B,09/02/19,Iporá,1-2,Goiás
+B,09/02/19,Atlético Goianiense,3-1,CRAC
+B,10/02/19,Grêmio Anápolis,0-0,Itumbiara
+B,10/02/19,Vila Nova,2-2,Goianésia
+B,10/02/19,Goiânia,3-0,Anapolina
+B,16/02/19,Aparecidense,1-2,Vila Nova
+B,17/02/19,Anapolina,2-1,Grêmio Anápolis
+B,17/02/19,CRAC,1-0,Novo Horizonte
+B,17/02/19,Goianésia,3-1,Atlético Goianiense
+B,17/02/19,Itumbiara,2-0,Iporá
+B,17/02/19,Goiás,2-1,Goiânia
+B,22/02/19,Atlético Goianiense,2-1,Aparecidense
+B,23/02/19,Goiânia,1-0,Itumbiara
+B,24/02/19,Iporá,1-2,Anapolina
+B,24/02/19,Novo Horizonte,1-4,Goianésia
+B,24/02/19,Grêmio Anápolis,0-0,CRAC
+B,24/02/19,Vila Nova,0-1,Goiás
+B,02/03/19,Anapolina,1-2,Atlético Goianiense
+B,02/03/19,Aparecidense,1-0,Goiânia
+B,02/03/19,CRAC,2-2,Vila Nova
+B,02/03/19,Goiás,2-1,Grêmio Anápolis
+B,02/03/19,Itumbiara,1-1,Novo Horizonte
+B,06/03/19,Goianésia,1-2,Iporá
+B,09/03/19,Goiânia,1-2,CRAC
+B,10/03/19,Atlético Goianiense,2-1,Itumbiara
+B,10/03/19,Iporá,1-0,Aparecidense
+B,10/03/19,Novo Horizonte,1-1,Goiás
+B,10/03/19,Grêmio Anápolis,1-2,Goianésia
+B,10/03/19,Vila Nova,3-2,Anapolina
+B,16/03/19,Vila Nova,1-1,Itumbiara
+B,16/03/19,Goiânia,3-1,Goianésia
+B,16/03/19,Grêmio Anápolis,4-2,Aparecidense
+B,17/03/19,Iporá,0-1,CRAC
+B,17/03/19,Novo Horizonte,1-3,Anapolina
+B,17/03/19,Atlético Goianiense,2-1,Goiás
+B,20/03/19,Anapolina,2-1,Goiânia
+B,20/03/19,Aparecidense,1-0,Novo Horizonte
+B,20/03/19,CRAC,1-2,Atlético Goianiense
+B,20/03/19,Goianésia,1-0,Vila Nova
+B,20/03/19,Goiás,2-1,Iporá
+B,20/03/19,Itumbiara,2-2,Grêmio Anápolis
+QF,23/03/19,Vila Nova,2-0,CRAC
+QF,23/03/19,Anapolina,0-3,Atlético Goianiense
+QF,24/03/19,Aparecidense,1-3,Goiás
+QF,24/03/19,Goiânia,1-1,Goianésia
+QF,26/03/19,Atlético Goianiense,4-1,Anapolina
+QF,27/03/19,Goianésia,2-3,Goiânia
+QF,27/03/19,CRAC,1-0,Vila Nova
+QF,27/03/19,Goiás,1-2,Aparecidense
+SF,30/03/19,Goiânia,0-3,Goiás
+SF,31/03/19,Vila Nova,1-1,Atlético Goianiense
+SF,06/04/19,Goiás,3-1,Goiânia
+SF,07/04/19,Atlético Goianiense,1-0,Vila Nova
+F,14/04/19,Atlético Goianiense,3-0,Goiás
+F,21/04/19,Goiás,0-1,Atlético Goianiense

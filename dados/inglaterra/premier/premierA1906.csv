@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/06,Aston Villa,4-2,Blackburn Rovers
+1,01/09/06,Bristol City,1-2,Manchester United
+1,01/09/06,Bury,0-0,The Wednesday
+1,01/09/06,Liverpool,1-0,Stoke City
+1,01/09/06,Manchester City,1-4,Woolwich Arsenal
+1,01/09/06,Middlesbrough,2-2,Everton
+1,01/09/06,Newcastle,4-2,Sunderland
+1,01/09/06,Notts County,0-0,Bolton Wanderers
+1,01/09/06,Preston North End,2-0,Birmingham City
+1,01/09/06,Sheffield United,2-0,Derby County
+2,03/09/06,Birmingham City,2-2,Bristol City
+2,03/09/06,Bury,4-1,Woolwich Arsenal
+2,03/09/06,Derby County,2-2,Manchester United
+2,03/09/06,Everton,9-1,Manchester City
+2,03/09/06,The Wednesday,2-2,Newcastle
+2,03/09/06,Stoke City,0-2,Aston Villa
+2,08/09/06,Woolwich Arsenal,2-0,Middlesbrough
+2,08/09/06,Blackburn Rovers,1-1,Liverpool
+2,08/09/06,Bolton Wanderers,6-1,Sheffield United
+2,08/09/06,Everton,1-0,Preston North End
+2,08/09/06,Manchester United,0-0,Notts County
+3,08/09/06,Birmingham City,2-4,Newcastle
+3,08/09/06,Derby County,2-1,Bury
+3,08/09/06,The Wednesday,3-1,Manchester City
+3,08/09/06,Stoke City,0-3,Bristol City
+3,08/09/06,Sunderland,2-1,Aston Villa
+4,10/09/06,Aston Villa,1-0,Stoke City
+4,10/09/06,Liverpool,2-2,Bury
+3,15/09/06,Middlesbrough,1-3,The Wednesday
+3,15/09/06,Notts County,2-2,Stoke City
+3,15/09/06,Preston North End,0-3,Woolwich Arsenal
+3,15/09/06,Sheffield United,0-2,Manchester United
+4,15/09/06,Bolton Wanderers,1-0,Derby County
+4,15/09/06,Bristol City,3-0,Blackburn Rovers
+4,15/09/06,Liverpool,1-2,Sunderland
+4,15/09/06,Newcastle,1-0,Everton
+5,15/09/06,Aston Villa,4-1,Birmingham City
+5,15/09/06,Manchester City,2-2,Bury
+4,17/09/06,Everton,2-2,Notts County
+4,22/09/06,Manchester United,1-2,Bolton Wanderers
+4,22/09/06,The Wednesday,2-1,Preston North End
+4,22/09/06,Stoke City,1-1,Sheffield United
+5,22/09/06,Woolwich Arsenal,2-0,Newcastle
+5,22/09/06,Birmingham City,2-1,Liverpool
+5,22/09/06,Blackburn Rovers,0-2,Notts County
+5,22/09/06,Derby County,2-2,Manchester City
+5,22/09/06,Sunderland,3-3,Bristol City
+6,22/09/06,Bury,1-1,Middlesbrough
+6,22/09/06,Everton,1-2,Aston Villa
+5,29/09/06,Sheffield United,3-0,Blackburn Rovers
+6,29/09/06,Bristol City,0-0,Birmingham City
+6,29/09/06,Liverpool,1-2,Everton
+6,29/09/06,Manchester United,1-1,Derby County
+6,29/09/06,Middlesbrough,2-3,Manchester City
+6,29/09/06,Newcastle,5-1,The Wednesday
+6,29/09/06,Notts County,0-0,Sunderland
+7,29/09/06,Aston Villa,2-2,Woolwich Arsenal
+7,29/09/06,Bolton Wanderers,1-1,Stoke City
+7,29/09/06,Preston North End,3-2,Bury
+6,06/10/06,Blackburn Rovers,2-3,Bolton Wanderers
+6,06/10/06,Derby County,1-0,Middlesbrough
+6,06/10/06,Sunderland,1-2,Sheffield United
+7,06/10/06,Woolwich Arsenal,2-1,Liverpool
+7,06/10/06,Birmingham City,2-0,Notts County
+7,06/10/06,Everton,2-0,Bristol City
+7,06/10/06,Manchester City,1-1,Preston North End
+8,06/10/06,Bury,3-2,Newcastle
+8,06/10/06,The Wednesday,2-1,Aston Villa
+8,06/10/06,Stoke City,1-2,Manchester United
+7,13/10/06,Bolton Wanderers,1-0,Sunderland
+7,13/10/06,Manchester United,1-1,Blackburn Rovers
+7,13/10/06,Preston North End,4-2,Middlesbrough
+7,13/10/06,Sheffield United,2-0,Birmingham City
+8,13/10/06,Bristol City,1-3,Woolwich Arsenal
+8,13/10/06,Liverpool,1-2,The Wednesday
+8,13/10/06,Newcastle,2-0,Manchester City
+8,13/10/06,Notts County,0-1,Everton
+8,13/10/06,Stoke City,2-1,Derby County
+9,13/10/06,Aston Villa,3-1,Bury
+8,20/10/06,Derby County,3-0,Preston North End
+8,20/10/06,Everton,4-2,Sheffield United
+8,20/10/06,Middlesbrough,0-3,Newcastle
+9,20/10/06,Woolwich Arsenal,1-0,Notts County
+9,20/10/06,Birmingham City,4-2,Bolton Wanderers
+9,20/10/06,The Wednesday,3-0,Bristol City
+9,20/10/06,Sunderland,4-1,Manchester United
+10,20/10/06,Blackburn Rovers,3-1,Stoke City
+10,20/10/06,Bury,1-3,Liverpool
+10,20/10/06,Manchester City,4-2,Aston Villa
+9,27/10/06,Sheffield United,4-2,Woolwich Arsenal
+10,27/10/06,Blackburn Rovers,5-1,Derby County
+10,27/10/06,Bristol City,2-0,Bury
+10,27/10/06,Liverpool,5-4,Manchester City
+10,27/10/06,Manchester United,2-1,Birmingham City
+10,27/10/06,Newcastle,2-1,Preston North End
+10,27/10/06,Notts County,2-2,The Wednesday
+11,27/10/06,Aston Villa,2-3,Middlesbrough
+11,27/10/06,Bolton Wanderers,1-3,Everton
+11,27/10/06,Stoke City,2-2,Sunderland
+10,03/11/06,The Wednesday,2-2,Sheffield United
+10,03/11/06,Sunderland,1-0,Blackburn Rovers
+11,03/11/06,Woolwich Arsenal,2-2,Bolton Wanderers
+11,03/11/06,Birmingham City,2-1,Stoke City
+11,03/11/06,Derby County,0-0,Newcastle
+11,03/11/06,Manchester City,0-1,Bristol City
+11,03/11/06,Middlesbrough,0-1,Liverpool
+12,03/11/06,Bury,3-0,Notts County
+12,03/11/06,Everton,3-0,Manchester United
+12,03/11/06,Preston North End,2-0,Aston Villa
+12,10/11/06,Blackburn Rovers,1-0,Birmingham City
+12,10/11/06,Bolton Wanderers,0-0,The Wednesday
+12,10/11/06,Bristol City,3-0,Middlesbrough
+12,10/11/06,Liverpool,6-1,Preston North End
+12,10/11/06,Manchester United,1-0,Woolwich Arsenal
+12,10/11/06,Notts County,0-0,Manchester City
+12,10/11/06,Sunderland,0-2,Derby County
+13,10/11/06,Aston Villa,0-0,Newcastle
+13,10/11/06,Sheffield United,3-0,Bury
+13,10/11/06,Stoke City,2-0,Everton
+14,12/11/06,Stoke City,1-1,Blackburn Rovers
+12,17/11/06,Middlesbrough,2-0,Notts County
+13,17/11/06,Birmingham City,2-0,Sunderland
+13,17/11/06,Manchester City,0-2,Sheffield United
+13,17/11/06,Newcastle,2-0,Liverpool
+13,17/11/06,Preston North End,3-1,Bristol City
+13,17/11/06,The Wednesday,5-2,Manchester United
+14,17/11/06,Bury,2-3,Bolton Wanderers
+14,17/11/06,Derby County,0-1,Aston Villa
+14,17/11/06,Everton,2-0,Blackburn Rovers
+15,17/11/06,Woolwich Arsenal,2-1,Stoke City
+13,24/11/06,Sheffield United,1-1,Middlesbrough
+14,24/11/06,Birmingham City,2-1,Derby County
+14,24/11/06,Blackburn Rovers,2-3,Woolwich Arsenal
+14,24/11/06,Bolton Wanderers,1-1,Manchester City
+14,24/11/06,Bristol City,2-1,Newcastle
+14,24/11/06,Notts County,0-0,Preston North End
+14,24/11/06,Stoke City,1-1,The Wednesday
+15,24/11/06,Liverpool,5-2,Aston Villa
+15,24/11/06,Manchester United,2-4,Bury
+15,24/11/06,Sunderland,1-0,Everton
+14,01/12/06,Middlesbrough,0-0,Bolton Wanderers
+14,01/12/06,Preston North End,2-1,Sheffield United
+15,01/12/06,Woolwich Arsenal,0-1,Sunderland
+15,01/12/06,Derby County,0-1,Liverpool
+15,01/12/06,Everton,3-0,Birmingham City
+15,01/12/06,Manchester City,3-0,Manchester United
+15,01/12/06,Newcastle,4-3,Notts County
+15,01/12/06,The Wednesday,3-1,Blackburn Rovers
+16,01/12/06,Aston Villa,3-2,Bristol City
+16,01/12/06,Bury,2-0,Stoke City
+15,08/12/06,Manchester United,3-1,Middlesbrough
+15,08/12/06,Preston North End,3-1,Bolton Wanderers
+16,08/12/06,Birmingham City,5-1,Woolwich Arsenal
+16,08/12/06,Bristol City,3-1,Liverpool
+16,08/12/06,Everton,2-0,Derby County
+16,08/12/06,Sheffield United,0-0,Newcastle
+16,08/12/06,Stoke City,3-0,Manchester City
+16,08/12/06,Sunderland,1-1,The Wednesday
+17,08/12/06,Blackburn Rovers,4-1,Bury
+17,08/12/06,Notts County,1-1,Aston Villa
+16,15/12/06,Middlesbrough,5-0,Stoke City
+16,15/12/06,Preston North End,2-0,Manchester United
+17,15/12/06,Bristol City,3-0,Derby County
+17,15/12/06,Liverpool,5-1,Notts County
+17,15/12/06,Manchester City,0-0,Blackburn Rovers
+17,15/12/06,Newcastle,4-0,Bolton Wanderers
+17,15/12/06,The Wednesday,0-1,Birmingham City
+18,15/12/06,Woolwich Arsenal,3-1,Everton
+18,15/12/06,Aston Villa,5-1,Sheffield United
+18,15/12/06,Bury,2-3,Sunderland
+17,22/12/06,Blackburn Rovers,4-1,Middlesbrough
+17,22/12/06,Stoke City,0-2,Preston North End
+18,22/12/06,Derby County,0-0,Woolwich Arsenal
+18,22/12/06,Manchester United,1-3,Newcastle
+18,22/12/06,Notts County,2-3,Bristol City
+18,22/12/06,Sheffield United,1-0,Liverpool
+18,22/12/06,Sunderland,1-1,Manchester City
+19,22/12/06,Birmingham City,3-1,Bury
+19,22/12/06,Bolton Wanderers,1-2,Aston Villa
+19,22/12/06,Everton,2-0,The Wednesday
+19,24/12/06,Bristol City,3-3,Sheffield United
+19,24/12/06,Derby County,3-0,Notts County
+20,24/12/06,Aston Villa,3-0,Preston North End
+21,24/12/06,Stoke City,3-0,Bolton Wanderers
+18,25/12/06,Middlesbrough,2-1,Sunderland
+19,25/12/06,Blackburn Rovers,4-0,Newcastle
+19,25/12/06,Manchester City,1-0,Birmingham City
+19,25/12/06,Manchester United,0-0,Liverpool
+20,25/12/06,Bury,1-2,Everton
+20,25/12/06,The Wednesday,1-1,Derby County
+19,26/12/06,Birmingham City,0-0,Middlesbrough
+19,26/12/06,Preston North End,1-0,Blackburn Rovers
+20,26/12/06,Liverpool,0-2,Bolton Wanderers
+20,26/12/06,Manchester City,3-1,Everton
+20,26/12/06,Sheffield United,2-1,Notts County
+20,26/12/06,Stoke City,1-2,Newcastle
+21,26/12/06,Woolwich Arsenal,3-1,Bury
+21,26/12/06,Aston Villa,2-0,Manchester United
+20,29/12/06,Birmingham City,3-0,Preston North End
+20,29/12/06,Derby County,3-0,Sheffield United
+20,29/12/06,Everton,5-1,Middlesbrough
+20,29/12/06,Manchester United,0-0,Bristol City
+21,29/12/06,Woolwich Arsenal,4-1,Manchester City
+21,29/12/06,Bolton Wanderers,0-0,Notts County
+22,29/12/06,Blackburn Rovers,2-1,Aston Villa
+22,29/12/06,The Wednesday,1-2,Bury
+21,31/12/06,Sheffield United,1-1,Bristol City
+21,01/01/07,Blackburn Rovers,1-1,Preston North End
+21,01/01/07,Bolton Wanderers,3-0,Liverpool
+21,01/01/07,Middlesbrough,1-0,Birmingham City
+21,01/01/07,Newcastle,2-0,Derby County
+21,01/01/07,The Wednesday,1-1,Woolwich Arsenal
+23,01/01/07,Everton,1-0,Bury
+23,01/01/07,Manchester United,1-0,Aston Villa
+22,02/01/07,Bolton Wanderers,3-0,Preston North End
+22,02/01/07,Manchester City,3-1,Middlesbrough
+22,05/01/07,Bristol City,4-0,Stoke City
+22,05/01/07,Liverpool,0-2,Blackburn Rovers
+22,05/01/07,Newcastle,2-0,Birmingham City
+22,05/01/07,Notts County,3-0,Manchester United
+22,05/01/07,Sheffield United,2-1,Bolton Wanderers
+23,05/01/07,Manchester City,0-1,The Wednesday
+23,05/01/07,Middlesbrough,5-3,Woolwich Arsenal
+23,05/01/07,Preston North End,1-1,Everton
+24,05/01/07,Aston Villa,2-2,Sunderland
+24,05/01/07,Bury,1-0,Derby County
+23,19/01/07,Blackburn Rovers,0-1,Bristol City
+23,19/01/07,Everton,3-0,Newcastle
+23,19/01/07,Manchester United,2-0,Sheffield United
+23,19/01/07,Stoke City,1-1,Notts County
+23,19/01/07,Sunderland,5-5,Liverpool
+24,19/01/07,Woolwich Arsenal,1-0,Preston North End
+24,19/01/07,Derby County,0-1,Bolton Wanderers
+24,19/01/07,The Wednesday,0-2,Middlesbrough
+25,19/01/07,Birmingham City,3-2,Aston Villa
+25,19/01/07,Bury,3-1,Manchester City
+24,26/01/07,Bristol City,1-1,Sunderland
+24,26/01/07,Liverpool,2-0,Birmingham City
+24,26/01/07,Newcastle,1-0,Woolwich Arsenal
+24,26/01/07,Notts County,1-2,Blackburn Rovers
+24,26/01/07,Sheffield United,2-0,Stoke City
+25,26/01/07,Bolton Wanderers,0-1,Manchester United
+25,26/01/07,Manchester City,2-2,Derby County
+25,26/01/07,Preston North End,1-0,The Wednesday
+26,26/01/07,Aston Villa,2-1,Everton
+26,26/01/07,Middlesbrough,3-1,Bury
+25,02/02/07,Newcastle,5-0,Manchester United
+26,02/02/07,Sheffield United,3-1,Preston North End
+25,09/02/07,Bristol City,2-1,Everton
+25,09/02/07,Liverpool,4-0,Woolwich Arsenal
+25,09/02/07,Notts County,2-2,Birmingham City
+26,09/02/07,Bolton Wanderers,5-2,Blackburn Rovers
+26,09/02/07,Manchester United,4-1,Stoke City
+26,09/02/07,Middlesbrough,4-1,Derby County
+26,09/02/07,Preston North End,1-3,Manchester City
+26,09/02/07,Sheffield United,3-2,Sunderland
+27,09/02/07,Aston Villa,8-1,The Wednesday
+27,09/02/07,Newcastle,3-2,Bury
+28,13/02/07,Sunderland,1-0,Preston North End
+26,16/02/07,Woolwich Arsenal,1-2,Bristol City
+26,16/02/07,The Wednesday,2-3,Liverpool
+27,16/02/07,Birmingham City,0-0,Sheffield United
+27,16/02/07,Blackburn Rovers,2-4,Manchester United
+27,16/02/07,Derby County,2-1,Stoke City
+27,16/02/07,Manchester City,1-1,Newcastle
+27,16/02/07,Middlesbrough,2-1,Preston North End
+27,16/02/07,Sunderland,1-2,Bolton Wanderers
+28,16/02/07,Bury,0-3,Aston Villa
+28,23/02/07,Newcastle,4-0,Middlesbrough
+29,23/02/07,Aston Villa,4-1,Manchester City
+30,23/02/07,Manchester United,3-0,Preston North End
+26,02/03/07,The Wednesday,1-3,Notts County
+27,02/03/07,Bury,1-1,Bristol City
+27,02/03/07,Manchester City,1-0,Liverpool
+28,02/03/07,Woolwich Arsenal,0-1,Sheffield United
+28,02/03/07,Birmingham City,1-1,Manchester United
+28,02/03/07,Derby County,2-3,Blackburn Rovers
+28,02/03/07,Everton,1-0,Bolton Wanderers
+28,02/03/07,Sunderland,3-1,Stoke City
+29,02/03/07,Preston North End,2-2,Newcastle
+30,02/03/07,Middlesbrough,1-0,Aston Villa
+29,04/03/07,Sheffield United,4-1,Everton
+28,09/03/07,Bristol City,2-0,Manchester City
+29,09/03/07,Blackburn Rovers,2-1,Sunderland
+29,09/03/07,Stoke City,3-0,Birmingham City
+30,09/03/07,Bolton Wanderers,1-0,Bury
+32,09/03/07,Preston North End,1-0,Derby County
+28,11/03/07,Stoke City,1-1,Liverpool
+30,11/03/07,Bolton Wanderers,2-3,Birmingham City
+31,13/03/07,Notts County,1-2,Bury
+28,16/03/07,Woolwich Arsenal,4-0,Manchester United
+28,16/03/07,The Wednesday,2-0,Bolton Wanderers
+29,16/03/07,Middlesbrough,1-0,Bristol City
+29,16/03/07,Preston North End,3-1,Liverpool
+30,16/03/07,Derby County,1-1,Sunderland
+30,16/03/07,Everton,3-0,Stoke City
+31,16/03/07,Birmingham City,2-0,Blackburn Rovers
+31,16/03/07,Manchester City,2-1,Notts County
+31,16/03/07,Newcastle,3-2,Aston Villa
+32,16/03/07,Bury,2-1,Sheffield United

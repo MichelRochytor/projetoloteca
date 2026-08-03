@@ -1,0 +1,387 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+8,23/08/95,Gama,0-0,Planaltina
+10,23/08/95,Brasília,1-0,CR Guará
+31,26/08/95,Caxias,3-0,GE Brasil
+11,26/08/95,Ferroviário,2-2,Fortaleza
+22,27/08/95,Nacional-AM,1-1,Fast Clube
+1,27/08/95,Matsubara,1-0,União Bandeirante
+2,27/08/95,São Mateus,1-1,Linhares EC
+5,27/08/95,Bayer,0-1,Volta Redonda
+6,27/08/95,Rio Branco-ES,1-3,Estrela do Norte
+13,27/08/95,Sete de Setembro-AL,0-0,CSA
+17,27/08/95,Batalhense,2-2,Confiança
+30,27/08/95,Ypiranga-RS,1-3,Chapecoense
+28,27/08/95,Avaí,4-2,Joinville
+3,27/08/95,Valeriodoce,1-2,Villa Nova-MG
+4,27/08/95,URT,0-1,Uberlândia
+6,27/08/95,Campo Grande-RJ,1-0,Barra FC
+7,27/08/95,Gurupi,1-0,Paraíso
+9,27/08/95,Ceilandense,1-0,Vila Nova
+15,27/08/95,Itabaiana,5-2,Maruinense
+23,27/08/95,Ji-Paraná,2-2,Ariquemes
+32,27/08/95,Figueirense,1-1,Marcílio Dias
+2,27/08/95,Itaperuna,0-1,Vitória-ES
+8,27/08/95,Caldas,1-0,Itumbiara
+9,27/08/95,Anápolis,3-0,Tiradentes-DF
+10,27/08/95,Rio Verde-GO,0-0,Atlético Goianiense
+11,27/08/95,Potiguar,0-0,Alecrim
+12,27/08/95,Botafogo-PB,0-0,Santa Cruz-PB
+12,27/08/95,Coríntians-RN,0-0,ABC
+13,27/08/95,Vitória-PE,2-1,Porto-PE
+15,27/08/95,Fluminense de Feira,1-0,Galícia
+16,27/08/95,Bacabal,7-1,Imperatriz
+18,27/08/95,Ypiranga-PE,1-2,Icasa
+19,27/08/95,Sampaio Corrêa,1-0,Duque de Caxias-MA
+20,27/08/95,Corisabbá,0-1,Picos
+21,27/08/95,Atlético Roraima,1-1,Baré
+14,30/08/95,Rio Branco-AC,1-1,Vasco da Gama-AC
+14,30/08/95,Independência-AC,1-1,Atlético-AC
+3,30/08/95,Rio Branco-SP,1-3,Inter de Limeira
+27,30/08/95,Ituano,1-0,Santo André
+26,31/08/95,Taveirópolis,0-2,Marília
+25,31/08/95,America-RJ,2-0,Caldense
+2,31/08/95,Linhares EC,2-0,Itaperuna
+16,31/08/95,Imperatriz,1-1,União Atlética Araguainense
+9,31/08/95,Tiradentes-DF,0-3,Ceilandense
+15,31/08/95,Galícia,1-1,Itabaiana
+19,31/08/95,Duque de Caxias-MA,0-0,Flamengo-PI
+6,31/08/95,Rio Branco-ES,0-2,Barra FC
+10,31/08/95,Brasília,2-0,Rio Verde-GO
+13,31/08/95,Porto-PE,1-1,Sete de Setembro-AL
+20,31/08/95,Picos,1-1,Coroatá
+4,31/08/95,Botafogo-SP,1-0,Mirassol
+6,31/08/95,Estrela do Norte,1-1,Campo Grande-RJ
+8,31/08/95,Caldas,0-1,Gama
+9,31/08/95,Vila Nova,0-0,Anápolis
+10,31/08/95,CR Guará,2-0,Atlético Goianiense
+11,31/08/95,Ferroviário,3-1,Potiguar
+11,31/08/95,Fortaleza,1-0,Alecrim
+18,31/08/95,Icasa,0-1,Sousa
+32,31/08/95,Marcílio Dias,1-0,Batel
+29,01/09/95,Paulista,2-2,XV de Piracicaba
+1,01/09/95,União Bandeirante,1-0,Caçadorense
+2,01/09/95,Vitória-ES,2-0,São Mateus
+12,01/09/95,ABC,3-0,Botafogo-PB
+12,01/09/95,Coríntians-RN,3-1,Santa Cruz-PB
+13,01/09/95,Vitória-PE,1-1,CSA
+15,01/09/95,Fluminense de Feira,1-0,Maruinense
+17,01/09/95,Confiança,1-1,Catuense
+23,01/09/95,Ariquemes,1-0,Andirá-AC
+30,01/09/95,Chapecoense,1-0,Cascavel EC
+21,01/09/95,Baré,1-2,Progresso-RR
+14,02/09/95,Vasco da Gama-AC,0-1,Independência-AC
+14,02/09/95,Atlético-AC,1-5,Rio Branco-AC
+9,02/09/95,Ceilandense,0-1,Anápolis
+15,02/09/95,Galícia,1-0,Maruinense
+24,02/09/95,União Rondonópolis,1-1,CEOV Operário
+5,03/09/95,Bayer,1-0,Nacional-SP
+28,03/09/95,Joinville,3-0,Atlético Sorocaba
+31,03/09/95,Caxias,2-0,Pelotas
+1,03/09/95,Matsubara,2-0,Caçadorense
+2,03/09/95,Linhares EC,1-0,Vitória-ES
+2,03/09/95,São Mateus,1-1,Itaperuna
+6,03/09/95,Rio Branco-ES,2-1,Campo Grande-RJ
+17,03/09/95,Batalhense,1-0,Catuense
+30,03/09/95,Ypiranga-RS,4-0,Cascavel EC
+3,03/09/95,Inter de Limeira,0-1,Valeriodoce
+3,03/09/95,Rio Branco-SP,1-0,Villa Nova-MG
+4,03/09/95,Uberlândia,1-1,Botafogo-SP
+4,03/09/95,URT,2-0,Mirassol
+25,03/09/95,Caldense,2-0,Francana
+26,03/09/95,Marília,2-0,Araçatuba
+27,03/09/95,Santo André,2-1,Juventus Jaraguá
+29,03/09/95,Paulista,6-0,Democrata-SL
+6,03/09/95,Estrela do Norte,1-1,Barra FC
+9,03/09/95,Tiradentes-DF,0-2,Vila Nova
+10,03/09/95,Brasília,0-1,Atlético Goianiense
+10,03/09/95,CR Guará,1-0,Rio Verde-GO
+12,03/09/95,ABC,1-2,Santa Cruz-PB
+13,03/09/95,Porto-PE,2-0,CSA
+32,03/09/95,Figueirense,3-2,Batel
+11,03/09/95,Ferroviário,3-0,Alecrim
+11,03/09/95,Fortaleza,3-0,Potiguar
+7,03/09/95,Gurupi,2-0,Kaburé
+22,03/09/95,Fast Clube,0-1,Rio Negro-AM
+8,03/09/95,Caldas,2-0,Planaltina
+8,03/09/95,Itumbiara,1-2,Gama
+12,03/09/95,Coríntians-RN,2-2,Botafogo-PB
+13,03/09/95,Vitória-PE,4-1,Sete de Setembro-AL
+15,03/09/95,Fluminense de Feira,2-2,Itabaiana
+16,03/09/95,Bacabal,1-1,União Atlética Araguainense
+18,03/09/95,Ypiranga-PE,3-1,Sousa
+19,03/09/95,Sampaio Corrêa,1-0,Flamengo-PI
+20,03/09/95,Corisabbá,1-2,Coroatá
+23,03/09/95,Ji-Paraná,5-1,Andirá-AC
+21,03/09/95,Progresso-RR,2-2,Atlético Roraima
+8,04/09/95,Itumbiara,2-0,Planaltina
+22,05/09/95,Rio Negro-AM,1-0,Nacional-AM
+29,05/09/95,XV de Piracicaba,2-0,Democrata-SL
+14,06/09/95,Rio Branco-AC,2-0,Independência-AC
+14,06/09/95,Atlético-AC,0-3,Vasco da Gama-AC
+28,06/09/95,Avaí,2-1,Atlético Sorocaba
+22,07/09/95,Fast Clube,0-2,Nacional-AM
+25,07/09/95,America-RJ,1-0,Francana
+27,07/09/95,Ituano,1-1,Juventus Jaraguá
+31,07/09/95,GE Brasil,2-2,Pelotas
+3,07/09/95,Inter de Limeira,0-2,Villa Nova-MG
+3,07/09/95,Rio Branco-SP,2-1,Valeriodoce
+4,07/09/95,Uberlândia,3-0,Mirassol
+4,07/09/95,URT,0-0,Botafogo-SP
+5,07/09/95,Volta Redonda,2-0,Nacional-SP
+7,07/09/95,Paraíso,1-0,Kaburé
+26,07/09/95,Araçatuba,1-0,Taveirópolis
+21,07/09/95,Baré,0-0,Atlético Roraima
+14,09/09/95,Atlético-AC,0-2,Independência-AC
+14,09/09/95,Vasco da Gama-AC,0-1,Rio Branco-AC
+15,09/09/95,Galícia,2-0,Fluminense de Feira
+32,09/09/95,Marcílio Dias,0-0,Figueirense
+11,09/09/95,Alecrim,0-2,Potiguar
+12,10/09/95,ABC,1-0,Coríntians-RN
+24,10/09/95,CEOV Operário,2-1,União Rondonópolis
+10,10/09/95,Atlético Goianiense,4-2,Rio Verde-GO
+6,10/09/95,Barra FC,2-0,Campo Grande-RJ
+13,10/09/95,Porto-PE,1-2,Vitória-PE
+28,10/09/95,Atlético Sorocaba,1-0,Joinville
+8,10/09/95,Planaltina,0-1,Gama
+20,10/09/95,Picos,0-0,Corisabbá
+1,10/09/95,Caçadorense,1-2,União Bandeirante
+3,10/09/95,Inter de Limeira,1-0,Rio Branco-SP
+3,10/09/95,Villa Nova-MG,0-2,Valeriodoce
+4,10/09/95,Mirassol,0-0,Botafogo-SP
+4,10/09/95,Uberlândia,3-2,URT
+5,10/09/95,Volta Redonda,0-1,Bayer
+7,10/09/95,Paraíso,1-0,Gurupi
+10,10/09/95,CR Guará,3-0,Brasília
+12,10/09/95,Santa Cruz-PB,1-0,Botafogo-PB
+15,10/09/95,Maruinense,0-3,Itabaiana
+16,10/09/95,Imperatriz,1-0,Bacabal
+17,10/09/95,Confiança,2-2,Batalhense
+19,10/09/95,Duque de Caxias-MA,2-2,Sampaio Corrêa
+23,10/09/95,Ariquemes,0-0,Ji-Paraná
+25,10/09/95,Caldense,2-2,America-RJ
+26,10/09/95,Marília,1-2,Taveirópolis
+27,10/09/95,Santo André,2-0,Ituano
+29,10/09/95,XV de Piracicaba,0-1,Paulista
+30,10/09/95,Chapecoense,2-2,Ypiranga-RS
+31,10/09/95,GE Brasil,1-0,Caxias
+11,10/09/95,Fortaleza,1-0,Ferroviário
+18,10/09/95,Icasa,2-2,Ypiranga-PE
+2,10/09/95,Itaperuna,2-2,São Mateus
+2,10/09/95,Vitória-ES,1-1,Linhares EC
+6,10/09/95,Estrela do Norte,2-1,Rio Branco-ES
+8,10/09/95,Itumbiara,0-1,Caldas
+9,10/09/95,Anápolis,3-1,Ceilandense
+9,10/09/95,Vila Nova,1-1,Tiradentes-DF
+13,10/09/95,CSA,5-4,Sete de Setembro-AL
+22,10/09/95,Rio Negro-AM,1-0,Fast Clube
+19,12/09/95,Flamengo-PI,0-0,Sampaio Corrêa
+14,13/09/95,Rio Branco-AC,1-0,Atlético-AC
+14,13/09/95,Independência-AC,3-1,Vasco da Gama-AC
+20,13/09/95,Coroatá,2-0,Corisabbá
+32,13/09/95,Batel,3-0,Marcílio Dias
+29,13/09/95,Democrata-SL,0-1,Paulista
+17,13/09/95,Catuense,2-1,Batalhense
+18,13/09/95,Sousa,2-0,Ypiranga-PE
+25,13/09/95,Francana,4-0,America-RJ
+26,13/09/95,Araçatuba,1-0,Marília
+30,13/09/95,Cascavel EC,0-3,Ypiranga-RS
+2,14/09/95,Itaperuna,2-0,Linhares EC
+7,14/09/95,Kaburé,2-1,Gurupi
+16,14/09/95,União Atlética Araguainense,2-0,Bacabal
+21,14/09/95,Progresso-RR,0-1,Baré
+23,14/09/95,Andirá-AC,1-3,Ji-Paraná
+2,14/09/95,São Mateus,0-0,Vitória-ES
+5,14/09/95,Nacional-SP,3-1,Bayer
+6,14/09/95,Barra FC,0-1,Rio Branco-ES
+13,14/09/95,Sete de Setembro-AL,1-2,Porto-PE
+8,14/09/95,Planaltina,2-2,Itumbiara
+6,14/09/95,Campo Grande-RJ,0-0,Estrela do Norte
+9,14/09/95,Ceilandense,4-2,Tiradentes-DF
+10,14/09/95,Atlético Goianiense,3-1,Brasília
+3,14/09/95,Valeriodoce,1-1,Inter de Limeira
+4,14/09/95,Botafogo-SP,1-0,Uberlândia
+4,14/09/95,Mirassol,1-2,URT
+8,14/09/95,Gama,3-0,Caldas
+9,14/09/95,Anápolis,1-2,Vila Nova
+10,14/09/95,Rio Verde-GO,1-2,CR Guará
+11,14/09/95,Alecrim,0-3,Fortaleza
+12,14/09/95,Santa Cruz-PB,3-0,Coríntians-RN
+13,14/09/95,CSA,1-0,Vitória-PE
+15,14/09/95,Itabaiana,0-1,Galícia
+15,14/09/95,Maruinense,0-1,Fluminense de Feira
+27,14/09/95,Juventus Jaraguá,1-1,Ituano
+28,14/09/95,Joinville,1-0,Avaí
+1,15/09/95,União Bandeirante,0-0,Matsubara
+3,15/09/95,Villa Nova-MG,3-2,Rio Branco-SP
+11,15/09/95,Potiguar,3-2,Ferroviário
+12,15/09/95,Botafogo-PB,0-1,ABC
+31,15/09/95,Pelotas,0-1,GE Brasil
+14,16/09/95,Vasco da Gama-AC,2-0,Atlético-AC
+14,16/09/95,Independência-AC,1-1,Rio Branco-AC
+8,16/09/95,Planaltina,3-1,Caldas
+23,16/09/95,Andirá-AC,0-2,Ariquemes
+12,17/09/95,Botafogo-PB,0-0,Coríntians-RN
+12,17/09/95,Santa Cruz-PB,0-0,ABC
+10,17/09/95,Atlético Goianiense,2-0,CR Guará
+29,17/09/95,Democrata-SL,1-0,XV de Piracicaba
+2,17/09/95,Linhares EC,2-1,São Mateus
+5,17/09/95,Nacional-SP,0-1,Volta Redonda
+20,17/09/95,Coroatá,2-0,Picos
+27,17/09/95,Juventus Jaraguá,2-0,Santo André
+28,17/09/95,Atlético Sorocaba,0-0,Avaí
+13,17/09/95,Sete de Setembro-AL,2-2,Vitória-PE
+6,17/09/95,Barra FC,1-0,Estrela do Norte
+31,17/09/95,Pelotas,1-1,Caxias
+32,17/09/95,Batel,2-1,Figueirense
+1,17/09/95,Caçadorense,0-4,Matsubara
+3,17/09/95,Valeriodoce,1-0,Rio Branco-SP
+3,17/09/95,Villa Nova-MG,1-2,Inter de Limeira
+4,17/09/95,Botafogo-SP,2-2,URT
+4,17/09/95,Mirassol,1-2,Uberlândia
+6,17/09/95,Campo Grande-RJ,0-1,Rio Branco-ES
+8,17/09/95,Gama,0-0,Itumbiara
+9,17/09/95,Tiradentes-DF,0-1,Anápolis
+9,17/09/95,Vila Nova,1-0,Ceilandense
+11,17/09/95,Alecrim,0-2,Ferroviário
+15,17/09/95,Itabaiana,2-1,Fluminense de Feira
+15,17/09/95,Maruinense,0-0,Galícia
+25,17/09/95,Francana,4-2,Caldense
+30,17/09/95,Cascavel EC,1-0,Chapecoense
+19,17/09/95,Flamengo-PI,1-0,Duque de Caxias-MA
+2,17/09/95,Vitória-ES,1-0,Itaperuna
+7,17/09/95,Kaburé,0-0,Paraíso
+10,17/09/95,Rio Verde-GO,2-1,Brasília
+11,17/09/95,Potiguar,1-1,Fortaleza
+13,17/09/95,CSA,4-1,Porto-PE
+16,17/09/95,União Atlética Araguainense,0-0,Imperatriz
+17,17/09/95,Catuense,2-1,Confiança
+22,17/09/95,Nacional-AM,1-3,Rio Negro-AM
+26,17/09/95,Taveirópolis,1-1,Araçatuba
+21,17/09/95,Atlético Roraima,3-0,Progresso-RR
+18,19/09/95,Sousa,3-2,Icasa
+2F,24/09/95,Atlético Goianiense,2-0,CEOV Operário
+2F,24/09/95,Linhares EC,1-1,Valeriodoce
+2F,24/09/95,Barra FC,0-0,Vitória-ES
+2F,24/09/95,Bayer,0-5,Paulista
+2F,24/09/95,Caxias,2-0,Avaí
+2F,24/09/95,Joinville,4-1,União Bandeirante
+2F,24/09/95,Rio Branco-ES,1-0,America-RJ
+2F,24/09/95,Batalhense,1-0,Galícia
+2F,24/09/95,Batel,0-0,Chapecoense
+2F,24/09/95,Ypiranga-RS,1-2,Juventus Jaraguá
+2F,24/09/95,Botafogo-SP,2-0,Francana
+2F,24/09/95,Figueirense,1-3,GE Brasil
+2F,24/09/95,Gama,5-0,União Atlética Araguainense
+2F,24/09/95,Paraíso,4-0,Imperatriz
+2F,24/09/95,Marília,2-2,Anápolis
+2F,24/09/95,Matsubara,1-1,Araçatuba
+2F,24/09/95,Santo André,1-0,Volta Redonda
+2F,24/09/95,XV de Piracicaba,1-0,Inter de Limeira
+2F,24/09/95,Flamengo-PI,2-0,Coroatá
+2F,24/09/95,Ariquemes,2-2,Ji-Paraná
+2F,24/09/95,Caldas,1-2,Uberlândia
+2F,24/09/95,Catuense,1-0,Itabaiana
+2F,24/09/95,Gurupi,3-1,CR Guará
+2F,24/09/95,Nacional-AM,4-0,Atlético Roraima
+2F,24/09/95,Sampaio Corrêa,0-0,Picos
+2F,24/09/95,Sousa,0-0,CSA
+2F,24/09/95,Vitória-PE,1-0,Icasa
+2F,24/09/95,União Rondonópolis,3-2,Vila Nova
+2F,26/09/95,Ferroviário,3-3,ABC
+2F,27/09/95,Santa Cruz-PB,2-2,Fortaleza
+2F,27/09/95,Baré,2-0,Rio Negro-AM
+2F,27/09/95,Independência-AC,1-2,Rio Branco-AC
+2F,30/09/95,Rio Branco-AC,3-2,Independência-AC
+2F,30/09/95,Inter de Limeira,0-0,XV de Piracicaba
+2F,30/09/95,Atlético Roraima,0-0,Nacional-AM
+2F,01/10/95,Avaí,1-2,Caxias
+2F,01/10/95,Galícia,6-1,Batalhense
+2F,01/10/95,GE Brasil,2-1,Figueirense
+2F,01/10/95,Juventus Jaraguá,2-0,Ypiranga-RS
+2F,01/10/95,America-RJ,1-0(3-4 Pen.),Rio Branco-ES
+2F,01/10/95,ABC,1-1,Ferroviário
+2F,01/10/95,Araçatuba,2-1,Matsubara
+2F,01/10/95,Chapecoense,2-1,Batel
+2F,01/10/95,Coroatá,1-1,Flamengo-PI
+2F,01/10/95,CR Guará,3-0,Gurupi
+2F,01/10/95,CSA,1-2,Sousa
+2F,01/10/95,Francana,2-1,Botafogo-SP
+2F,01/10/95,Imperatriz,1-1,Paraíso
+2F,01/10/95,Itabaiana,2-2,Catuense
+2F,01/10/95,Paulista,7-0,Bayer
+2F,01/10/95,Picos,1-0,Sampaio Corrêa
+2F,01/10/95,Uberlândia,3-0,Caldas
+2F,01/10/95,União Bandeirante,2-0,Joinville
+2F,01/10/95,Valeriodoce,1-1(3-4 Pen.),Linhares EC
+2F,01/10/95,Vila Nova,2-0,União Rondonópolis
+2F,01/10/95,Vitória-ES,2-2,Barra FC
+2F,01/10/95,Volta Redonda,2-0,Santo André
+2F,01/10/95,Fortaleza,2-1,Santa Cruz-PB
+2F,01/10/95,Icasa,1-0(5-4 Pen.),Vitória-PE
+2F,01/10/95,Rio Negro-AM,3-3,Baré
+2F,01/10/95,Anápolis,0-1,Marília
+2F,01/10/95,Ji-Paraná,0-0,Ariquemes
+2F,01/10/95,União Atlética Araguainense,1-1,Gama
+2F,01/10/95,CEOV Operário,4-2,Atlético Goianiense
+3F,07/10/95,Picos,2-1,ABC
+3F,07/10/95,Galícia,0-1,Rio Branco-ES
+3F,07/10/95,Fortaleza,2-0,Flamengo-PI
+3F,08/10/95,Araçatuba,WO,Atlético Goianiense
+3F,08/10/95,Linhares EC,1-1,Catuense
+3F,08/10/95,Juventus Jaraguá,2-2,Caxias
+3F,08/10/95,Paraíso,1-0,Vila Nova
+3F,08/10/95,Marília,0-0,CR Guará
+3F,08/10/95,Nacional-AM,2-0,Baré
+3F,08/10/95,Paulista,1-1,Joinville
+3F,08/10/95,Volta Redonda,0-0,Botafogo-SP
+3F,08/10/95,XV de Piracicaba,4-0,Barra FC
+3F,08/10/95,Icasa,1-0,Sousa
+3F,08/10/95,GE Brasil,2-0,Chapecoense
+3F,08/10/95,Ji-Paraná,1-1,Rio Branco-AC
+3F,10/10/95,Gama,1-0,Uberlândia
+3F,14/10/95,Rio Branco-AC,2-2,Ji-Paraná
+3F,14/10/95,Joinville,3-2,Paulista
+3F,14/10/95,Baré,0-0,Nacional-AM
+3F,15/10/95,Rio Branco-ES,1-1,Galícia
+3F,15/10/95,ABC,2-0,Picos
+3F,15/10/95,Atlético Goianiense,0-0,Araçatuba
+3F,15/10/95,Barra FC,0-1,XV de Piracicaba
+3F,15/10/95,Caxias,2-1,Juventus Jaraguá
+3F,15/10/95,CR Guará,0-0(3-1 Pen.),Marília
+3F,15/10/95,Botafogo-SP,0-0(4-5 Pen.),Volta Redonda
+3F,15/10/95,Catuense,0-1,Linhares EC
+3F,15/10/95,Chapecoense,1-1,GE Brasil
+3F,15/10/95,Flamengo-PI,0-0,Fortaleza
+3F,15/10/95,Uberlândia,2-2,Gama
+3F,15/10/95,Vila Nova,2-1,Paraíso
+3F,15/10/95,Sousa,1-1,Icasa
+1/8,22/10/95,Nacional-AM,0-0,Ji-Paraná
+1/8,22/10/95,Paraíso,2-2,Atlético Goianiense
+1/8,22/10/95,Linhares EC,1-2,Volta Redonda
+1/8,22/10/95,Caxias,1-1,Joinville
+1/8,22/10/95,GE Brasil,1-1,XV de Piracicaba
+1/8,22/10/95,CR Guará,2-2,Rio Branco-ES
+1/8,22/10/95,Fortaleza,3-2,ABC
+1/8,22/10/95,Icasa,1-1,Gama
+1/8,28/10/95,Joinville,4-0,Caxias
+1/8,29/10/95,Atlético Goianiense,1-1,Paraíso
+1/8,29/10/95,XV de Piracicaba,2-0,GE Brasil
+1/8,29/10/95,Ji-Paraná,1-0,Nacional-AM
+1/8,29/10/95,Rio Branco-ES,0-0,CR Guará
+1/8,29/10/95,ABC,3-1,Fortaleza
+1/8,29/10/95,Gama,2-0,Icasa
+1/8,29/10/95,Volta Redonda,1-1,Linhares EC
+QF,05/11/95,Atlético Goianiense,1-0,Ji-Paraná
+QF,05/11/95,Joinville,1-0,XV de Piracicaba
+QF,05/11/95,Rio Branco-ES,0-1,Volta Redonda
+QF,05/11/95,Gama,1-0,ABC
+QF,12/11/95,XV de Piracicaba,1-0(4-2 Pen.),Joinville
+QF,12/11/95,ABC,2-1,Gama
+QF,12/11/95,Volta Redonda,1-1,Rio Branco-ES
+QF,12/11/95,Ji-Paraná,1-1,Atlético Goianiense
+SF,19/11/95,XV de Piracicaba,2-0,Gama
+SF,19/11/95,Atlético Goianiense,1-2,Volta Redonda
+SF,26/11/95,Gama,1-0,XV de Piracicaba
+SF,26/11/95,Volta Redonda,2-0,Atlético Goianiense
+F,03/12/95,XV de Piracicaba,2-0,Volta Redonda
+F,10/12/95,Volta Redonda,0-1,XV de Piracicaba

@@ -1,0 +1,203 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,15/01/11,Linense,1-4,Santos
+1,15/01/11,São Bernardo,3-1,Grêmio Barueri
+1,15/01/11,Oeste,3-0,São Caetano
+1,15/01/11,Palmeiras,0-0,Botafogo-SP
+1,16/01/11,Mogi Mirim,0-2,São Paulo
+1,16/01/11,Corinthians,2-0,Portuguesa
+1,16/01/11,Guaratinguetá,1-0,Bragantino
+1,16/01/11,Paulista,2-1,Ituano
+1,16/01/11,Noroeste,2-2,Santo André
+1,16/01/11,Mirassol,2-1,Ponte Preta
+2,19/01/11,Ponte Preta,0-2,Mogi Mirim
+2,19/01/11,Portuguesa,1-0,Oeste
+2,19/01/11,Santo André,1-1,Linense
+2,19/01/11,Santos,3-0,Mirassol
+2,19/01/11,São Caetano,0-1,Guaratinguetá
+2,19/01/11,São Paulo,3-0,São Bernardo
+2,19/01/11,Bragantino,1-1,Corinthians
+2,20/01/11,Grêmio Barueri,1-2,Paulista
+2,20/01/11,Botafogo-SP,2-2,Noroeste
+2,20/01/11,Ituano,1-4,Palmeiras
+3,22/01/11,Bragantino,2-1,Santo André
+3,22/01/11,São Paulo,0-1,Ponte Preta
+3,22/01/11,Mogi Mirim,0-1,Mirassol
+3,22/01/11,Linense,1-3,Portuguesa
+3,23/01/11,Corinthians,1-1,Noroeste
+3,23/01/11,Paulista,1-1,São Bernardo
+3,23/01/11,Grêmio Barueri,2-4,Santos
+3,23/01/11,Oeste,0-1,Palmeiras
+3,23/01/11,São Caetano,0-1,Ituano
+3,23/01/11,Guaratinguetá,2-1,Botafogo-SP
+4,26/01/11,Ituano,3-3,Linense
+4,26/01/11,São Bernardo,0-2,Oeste
+4,26/01/11,Noroeste,2-2,Bragantino
+4,26/01/11,Santos,3-3,São Caetano
+4,26/01/11,Mirassol,1-1,Santo André
+4,26/01/11,Portuguesa,1-3,Ponte Preta
+4,26/01/11,Guaratinguetá,3-4,São Paulo
+4,27/01/11,Grêmio Barueri,1-1,Botafogo-SP
+4,27/01/11,Palmeiras,3-1,Paulista
+5,29/01/11,Santo André,1-1,Ituano
+5,29/01/11,Ponte Preta,0-0,São Caetano
+5,29/01/11,Oeste,0-1,Mirassol
+5,29/01/11,Noroeste,1-5,Guaratinguetá
+5,30/01/11,Santos,2-0,São Paulo
+5,30/01/11,Portuguesa,0-2,Palmeiras
+5,30/01/11,Linense,3-2,Paulista
+5,30/01/11,São Bernardo,2-2,Corinthians
+5,30/01/11,Botafogo-SP,1-1,Bragantino
+5,30/01/11,Mogi Mirim,3-1,Grêmio Barueri
+6,02/02/11,Paulista,0-0,Noroeste
+6,02/02/11,Oeste,1-0,Botafogo-SP
+6,02/02/11,Ponte Preta,2-2,Santos
+6,02/02/11,Portuguesa,1-0,Guaratinguetá
+6,02/02/11,Mogi Mirim,1-1,Santo André
+6,02/02/11,Mirassol,0-1,Palmeiras
+6,03/02/11,São Paulo,3-2,Linense
+6,03/02/11,Bragantino,3-0,São Bernardo
+6,03/02/11,São Caetano,1-0,Grêmio Barueri
+7,05/02/11,Santo André,1-1,Santos
+7,05/02/11,Noroeste,4-1,Mogi Mirim
+7,05/02/11,Guaratinguetá,1-1,Oeste
+7,06/02/11,Palmeiras,0-1,Corinthians
+7,06/02/11,Ituano,2-0,São Bernardo
+7,06/02/11,Botafogo-SP,2-1,São Paulo
+7,06/02/11,Bragantino,1-2,Mirassol
+7,06/02/11,São Caetano,2-1,Paulista
+7,09/02/11,Grêmio Barueri,3-3,Portuguesa
+7,09/02/11,Ponte Preta,1-1,Linense
+6,09/02/11,Corinthians,4-0,Ituano
+8,11/02/11,Santos,2-0,Noroeste
+8,12/02/11,Linense,0-1,Grêmio Barueri
+8,12/02/11,Palmeiras,1-0,Guaratinguetá
+8,12/02/11,Botafogo-SP,2-0,Santo André
+8,13/02/11,Paulista,0-0,Corinthians
+8,13/02/11,Portuguesa,2-3,São Paulo
+8,13/02/11,Bragantino,2-1,Ituano
+8,13/02/11,Mirassol,3-1,São Caetano
+8,13/02/11,São Bernardo,0-1,Ponte Preta
+8,13/02/11,Oeste,1-1,Mogi Mirim
+4,17/02/11,Corinthians,2-0,Mogi Mirim
+9,19/02/11,Guaratinguetá,2-0,Ituano
+9,19/02/11,Santo André,0-4,Paulista
+9,19/02/11,São Paulo,4-0,Bragantino
+9,19/02/11,São Caetano,1-0,Portuguesa
+9,19/02/11,Grêmio Barueri,0-2,Oeste
+9,20/02/11,Corinthians,3-1,Santos
+9,20/02/11,Mogi Mirim,0-0,Palmeiras
+9,20/02/11,Ponte Preta,3-1,Botafogo-SP
+9,20/02/11,Mirassol,2-0,Linense
+9,20/02/11,São Bernardo,2-0,Noroeste
+10,26/02/11,Oeste,1-0,Linense
+10,26/02/11,Corinthians,4-0,Grêmio Barueri
+10,26/02/11,Guaratinguetá,0-1,Mogi Mirim
+10,26/02/11,Santo André,0-2,Ponte Preta
+10,26/02/11,Santos,1-1,São Bernardo
+10,27/02/11,São Paulo,1-1,Palmeiras
+10,27/02/11,Ituano,3-1,Botafogo-SP
+10,27/02/11,Paulista,0-2,Mirassol
+10,27/02/11,Portuguesa,0-0,Bragantino
+10,27/02/11,Noroeste,0-0,São Caetano
+11,04/03/11,São Bernardo,2-4,Mogi Mirim
+11,04/03/11,Mirassol,2-2,Noroeste
+11,04/03/11,Grêmio Barueri,1-0,Ituano
+11,05/03/11,Linense,0-2,Corinthians
+11,05/03/11,Bragantino,0-1,Paulista
+11,05/03/11,São Caetano,0-2,São Paulo
+11,05/03/11,Botafogo-SP,1-4,Portuguesa
+11,05/03/11,Palmeiras,0-0,Santo André
+11,05/03/11,Ponte Preta,1-0,Guaratinguetá
+11,05/03/11,Oeste,0-2,Santos
+12,09/03/11,Santo André,1-0,Guaratinguetá
+12,09/03/11,Mogi Mirim,0-1,Linense
+12,09/03/11,Botafogo-SP,1-1,São Caetano
+12,09/03/11,São Bernardo,4-1,Mirassol
+12,09/03/11,Noroeste,1-2,Palmeiras
+12,09/03/11,Grêmio Barueri,2-4,Bragantino
+12,09/03/11,Santos,3-0,Portuguesa
+12,09/03/11,Corinthians,0-1,Ponte Preta
+12,10/03/11,Paulista,1-0,Oeste
+12,10/03/11,São Paulo,2-0,Ituano
+13,12/03/11,Ponte Preta,1-1,Grêmio Barueri
+13,12/03/11,Linense,2-0,Noroeste
+13,12/03/11,Santos,2-1,Botafogo-SP
+13,12/03/11,Palmeiras,2-0,São Bernardo
+13,12/03/11,Mogi Mirim,1-2,São Caetano
+13,13/03/11,São Paulo,3-0,Santo André
+13,13/03/11,Mirassol,2-3,Corinthians
+13,13/03/11,Guaratinguetá,0-2,Paulista
+13,13/03/11,Oeste,2-0,Bragantino
+13,13/03/11,Ituano,0-0,Portuguesa
+14,19/03/11,Noroeste,1-0,Ponte Preta
+14,19/03/11,Portuguesa,4-1,Mirassol
+14,19/03/11,Bragantino,2-1,Santos
+14,19/03/11,Botafogo-SP,2-1,Paulista
+14,19/03/11,Santo André,2-2,Oeste
+14,20/03/11,Corinthians,1-0,Guaratinguetá
+14,20/03/11,São Caetano,1-1,Palmeiras
+14,20/03/11,Grêmio Barueri,0-1,São Paulo
+14,20/03/11,Ituano,0-1,Mogi Mirim
+14,20/03/11,Linense,0-2,São Bernardo
+15,23/03/11,São Caetano,2-0,Bragantino
+15,23/03/11,Mirassol,2-0,Guaratinguetá
+15,23/03/11,Santos,3-1,Mogi Mirim
+15,23/03/11,Noroeste,2-2,Grêmio Barueri
+15,23/03/11,Palmeiras,3-0,Linense
+15,23/03/11,Portuguesa,0-0,Santo André
+15,23/03/11,Paulista,3-2,São Paulo
+15,23/03/11,Corinthians,3-0,Oeste
+15,24/03/11,São Bernardo,0-2,Botafogo-SP
+15,24/03/11,Ponte Preta,1-2,Ituano
+16,26/03/11,Oeste,4-0,Noroeste
+16,26/03/11,Palmeiras,3-0,Bragantino
+16,26/03/11,Mogi Mirim,1-3,Portuguesa
+16,26/03/11,Santo André,1-0,São Caetano
+16,26/03/11,Grêmio Barueri,1-1,Mirassol
+16,27/03/11,São Paulo,2-1,Corinthians
+16,27/03/11,Botafogo-SP,0-4,Linense
+16,27/03/11,Ponte Preta,0-0,Paulista
+16,27/03/11,Ituano,2-3,Santos
+16,27/03/11,Guaratinguetá,3-1,São Bernardo
+17,02/04/11,Ituano,2-3,Oeste
+17,02/04/11,Portuguesa,0-2,Noroeste
+17,02/04/11,Paulista,2-3,Mogi Mirim
+17,02/04/11,São Caetano,6-1,São Bernardo
+17,02/04/11,Linense,0-2,Guaratinguetá
+17,03/04/11,Santos,0-1,Palmeiras
+17,03/04/11,São Paulo,1-0,Mirassol
+17,03/04/11,Botafogo-SP,0-0,Corinthians
+17,03/04/11,Bragantino,0-1,Ponte Preta
+17,03/04/11,Santo André,1-3,Grêmio Barueri
+18,09/04/11,Mogi Mirim,1-1,Botafogo-SP
+18,09/04/11,São Bernardo,2-1,Santo André
+18,09/04/11,Mirassol,3-0,Ituano
+18,09/04/11,Palmeiras,2-0,Grêmio Barueri
+18,09/04/11,Paulista,0-1,Portuguesa
+18,10/04/11,Corinthians,1-2,São Caetano
+18,10/04/11,Noroeste,1-4,São Paulo
+18,10/04/11,Guaratinguetá,0-0,Santos
+18,10/04/11,Linense,2-1,Bragantino
+18,10/04/11,Oeste,2-1,Ponte Preta
+19,17/04/11,Santos,3-0,Paulista
+19,17/04/11,São Paulo,1-1,Oeste
+19,17/04/11,Santo André,0-2,Corinthians
+19,17/04/11,Ponte Preta,2-1,Palmeiras
+19,17/04/11,Portuguesa,1-0,São Bernardo
+19,17/04/11,Botafogo-SP,3-0,Mirassol
+19,17/04/11,Grêmio Barueri,1-0,Guaratinguetá
+19,17/04/11,São Caetano,0-2,Linense
+19,17/04/11,Ituano,2-0,Noroeste
+19,17/04/11,Bragantino,2-3,Mogi Mirim
+QF,23/04/11,Santos,1-0,Ponte Preta
+QF,23/04/11,Corinthians,2-1,Oeste
+QF,24/04/11,São Paulo,2-0,Portuguesa
+QF,24/04/11,Palmeiras,2-1,Mirassol
+SF,29/04/11,Oeste,1-0,Mirassol
+SF,30/04/11,São Paulo,0-2,Santos
+SF,30/04/11,Ponte Preta,0-0(4-1 Pen.),São Caetano
+SF,01/05/11,Palmeiras,1-1(5-6 Pen.),Corinthians
+,04/05/11,Ponte Preta,2-1,Oeste
+,07/05/11,Oeste,3-0,Ponte Preta
+F,08/05/11,Corinthians,0-0,Santos
+F,15/05/11,Santos,2-1,Corinthians

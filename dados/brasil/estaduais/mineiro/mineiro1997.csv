@@ -1,0 +1,187 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1T,04/02/96,América Mineiro,5-0,Paraisense
+1T,04/02/96,Democrata-GV,2-1,Guarani-MG
+1T,04/02/96,Uberlândia,4-0,Rio Branco de Andradas
+1T,04/02/96,URT,1-1,Caldense
+1T,04/02/96,Valeriodoce,0-2,Mamoré
+1T,04/02/96,Villa Nova-MG,0-1,Cruzeiro
+1T,11/02/96,Caldense,2-0,Uberlândia
+1T,11/02/96,Cruzeiro,2-0,URT
+1T,11/02/96,Guarani-MG,1-1,Villa Nova-MG
+1T,11/02/96,Paraisense,1-0,Valeriodoce
+1T,11/02/96,Rio Branco de Andradas,2-1,Democrata-GV
+1T,14/02/96,Cruzeiro,3-1,Mamoré
+1T,17/02/96,Atlético Mineiro,1-0,Rio Branco de Andradas
+1T,17/02/96,Democrata-GV,1-2,Cruzeiro
+1T,17/02/96,Uberlândia,3-2,Paraisense
+1T,17/02/96,URT,2-2,Guarani-MG
+1T,17/02/96,Valeriodoce,2-1,América Mineiro
+1T,17/02/96,Villa Nova-MG,2-1,Mamoré
+1T,22/02/96,América Mineiro,1-1,URT
+1T,22/02/96,Cruzeiro,1-1,Caldense
+1T,22/02/96,Guarani-MG,0-1,Atlético Mineiro
+1T,22/02/96,Mamoré,2-3,Uberlândia
+1T,22/02/96,Rio Branco de Andradas,0-0,Villa Nova-MG
+1T,25/02/96,Atlético Mineiro,1-0,Paraisense
+1T,25/02/96,Caldense,2-0,Valeriodoce
+1T,25/02/96,Democrata-GV,3-0,URT
+1T,25/02/96,Mamoré,3-2,Rio Branco de Andradas
+1T,25/02/96,Uberlândia,0-2,Cruzeiro
+1T,25/02/96,Villa Nova-MG,1-0,América Mineiro
+1T,29/02/96,Paraisense,2-2,Democrata-GV
+1T,29/02/96,Atlético Mineiro,4-0,URT
+1T,02/03/96,Atlético Mineiro,0-0,Villa Nova-MG
+1T,03/03/96,Guarani-MG,1-2,Caldense
+1T,03/03/96,Mamoré,0-1,Democrata-GV
+1T,03/03/96,Uberlândia,2-0,URT
+1T,03/03/96,Valeriodoce,1-1,Rio Branco de Andradas
+1T,03/03/96,Cruzeiro,0-3,América Mineiro
+1T,10/03/96,América Mineiro,1-1,Democrata-GV
+1T,10/03/96,Caldense,0-6,Atlético Mineiro
+1T,10/03/96,Rio Branco de Andradas,2-0,Paraisense
+1T,10/03/96,URT,0-0,Villa Nova-MG
+1T,10/03/96,Valeriodoce,1-1,Guarani-MG
+1T,13/03/96,Uberlândia,0-2,Atlético Mineiro
+1T,16/03/96,Atlético Mineiro,3-0,Valeriodoce
+1T,16/03/96,Caldense,0-0,América Mineiro
+1T,16/03/96,Democrata-GV,1-1,Uberlândia
+1T,16/03/96,Paraisense,0-5,Cruzeiro
+1T,16/03/96,Rio Branco de Andradas,2-1,Guarani-MG
+1T,16/03/96,URT,0-1,Mamoré
+1T,20/03/96,América Mineiro,2-0,Rio Branco de Andradas
+1T,20/03/96,Mamoré,1-2,Caldense
+1T,20/03/96,Paraisense,1-0,Guarani-MG
+1T,20/03/96,Valeriodoce,1-0,URT
+1T,20/03/96,Villa Nova-MG,0-0,Democrata-GV
+1T,24/03/96,Caldense,1-3,Rio Branco de Andradas
+1T,24/03/96,Cruzeiro,1-0,Guarani-MG
+1T,24/03/96,Mamoré,1-3,América Mineiro
+1T,24/03/96,Uberlândia,3-2,Valeriodoce
+1T,24/03/96,Villa Nova-MG,3-1,Paraisense
+1T,24/03/96,Democrata-GV,0-5,Atlético Mineiro
+1T,27/03/96,Mamoré,2-1,Atlético Mineiro
+1T,27/03/96,América Mineiro,5-0,Uberlândia
+1T,27/03/96,Cruzeiro,1-0,Valeriodoce
+1T,27/03/96,URT,1-1,Paraisense
+1T,31/03/96,Atlético Mineiro,3-0,América Mineiro
+1T,31/03/96,Democrata-GV,2-1,Caldense
+1T,31/03/96,Paraisense,1-1,Mamoré
+1T,31/03/96,Rio Branco de Andradas,0-2,Cruzeiro
+1T,31/03/96,Uberlândia,1-0,Guarani-MG
+1T,31/03/96,Valeriodoce,0-1,Villa Nova-MG
+1T,03/04/96,Caldense,3-1,Villa Nova-MG
+1T,03/04/96,Guarani-MG,2-0,Mamoré
+1T,07/04/96,Caldense,1-0,Paraisense
+1T,07/04/96,Cruzeiro,1-2,Atlético Mineiro
+1T,07/04/96,Guarani-MG,0-4,América Mineiro
+1T,07/04/96,URT,0-0,Rio Branco de Andradas
+1T,07/04/96,Valeriodoce,0-0,Democrata-GV
+1T,07/04/96,Villa Nova-MG,0-1,Uberlândia
+2T,10/04/96,Caldense,1-0,URT
+2T,10/04/96,Cruzeiro,2-1,Villa Nova-MG
+2T,10/04/96,Guarani-MG,0-0,Democrata-GV
+2T,10/04/96,Mamoré,2-1,Valeriodoce
+2T,10/04/96,Paraisense,0-0,América Mineiro
+2T,10/04/96,Rio Branco de Andradas,2-1,Uberlândia
+2T,14/04/96,Atlético Mineiro,4-3,Mamoré
+2T,14/04/96,Democrata-GV,1-0,Rio Branco de Andradas
+2T,14/04/96,Uberlândia,2-1,Caldense
+2T,14/04/96,URT,1-4,Cruzeiro
+2T,14/04/96,Valeriodoce,0-3,Paraisense
+2T,14/04/96,Villa Nova-MG,2-0,Guarani-MG
+2T,17/04/96,América Mineiro,0-1,Valeriodoce
+2T,17/04/96,Guarani-MG,6-0,URT
+2T,17/04/96,Mamoré,2-2,Villa Nova-MG
+2T,17/04/96,Paraisense,0-2,Uberlândia
+2T,21/04/96,Atlético Mineiro,2-0,Guarani-MG
+2T,21/04/96,Caldense,1-4,Cruzeiro
+2T,21/04/96,Democrata-GV,2-1,Paraisense
+2T,21/04/96,Uberlândia,1-0,Mamoré
+2T,21/04/96,URT,0-0,América Mineiro
+2T,21/04/96,Villa Nova-MG,1-0,Rio Branco de Andradas
+2T,24/04/96,América Mineiro,0-1,Villa Nova-MG
+2T,24/04/96,Cruzeiro,1-0,Uberlândia
+2T,24/04/96,Paraisense,1-2,Atlético Mineiro
+2T,24/04/96,Rio Branco de Andradas,1-0,Mamoré
+2T,24/04/96,URT,2-0,Democrata-GV
+2T,24/04/96,Valeriodoce,0-0,Caldense
+2T,28/04/96,América Mineiro,2-2,Cruzeiro
+2T,28/04/96,Caldense,0-1,Guarani-MG
+2T,28/04/96,Democrata-GV,2-0,Mamoré
+2T,28/04/96,Rio Branco de Andradas,1-0,Valeriodoce
+2T,28/04/96,URT,0-2,Uberlândia
+2T,28/04/96,Villa Nova-MG,0-1,Atlético Mineiro
+2T,01/05/96,Atlético Mineiro,1-1,Caldense
+2T,01/05/96,Democrata-GV,0-0,América Mineiro
+2T,01/05/96,Guarani-MG,0-1,Valeriodoce
+2T,01/05/96,Mamoré,0-5,Cruzeiro
+2T,01/05/96,Paraisense,2-0,Rio Branco de Andradas
+2T,01/05/96,Villa Nova-MG,2-1,URT
+2T,05/05/96,América Mineiro,0-0,Caldense
+2T,05/05/96,Cruzeiro,4-0,Paraisense
+2T,05/05/96,Guarani-MG,3-1,Rio Branco de Andradas
+2T,05/05/96,Mamoré,2-1,URT
+2T,05/05/96,Uberlândia,1-0,Democrata-GV
+2T,05/05/96,Valeriodoce,1-1,Atlético Mineiro
+2T,08/05/96,Atlético Mineiro,1-2,Uberlândia
+2T,08/05/96,Caldense,2-3,Mamoré
+2T,08/05/96,Democrata-GV,1-1,Villa Nova-MG
+2T,08/05/96,Guarani-MG,3-0,Paraisense
+2T,08/05/96,Rio Branco de Andradas,1-2,América Mineiro
+2T,08/05/96,URT,1-1,Valeriodoce
+2T,12/05/96,América Mineiro,1-1,Mamoré
+2T,12/05/96,Guarani-MG,0-3,Cruzeiro
+2T,12/05/96,Paraisense,1-2,Villa Nova-MG
+2T,12/05/96,Rio Branco de Andradas,0-1,Caldense
+2T,12/05/96,URT,0-0,Atlético Mineiro
+2T,12/05/96,Valeriodoce,3-2,Uberlândia
+2T,15/05/96,Atlético Mineiro,1-1,Democrata-GV
+2T,15/05/96,Mamoré,0-1,Guarani-MG
+2T,15/05/96,Paraisense,2-0,URT
+2T,15/05/96,Uberlândia,2-1,América Mineiro
+2T,15/05/96,Valeriodoce,2-0,Cruzeiro
+2T,15/05/96,Villa Nova-MG,2-1,Caldense
+2T,19/05/96,América Mineiro,4-3,Atlético Mineiro
+2T,19/05/96,Caldense,2-0,Democrata-GV
+2T,19/05/96,Cruzeiro,3-0,Rio Branco de Andradas
+2T,19/05/96,Guarani-MG,2-1,Uberlândia
+2T,19/05/96,Mamoré,1-0,Paraisense
+2T,19/05/96,Villa Nova-MG,2-0,Valeriodoce
+2T,22/05/96,Rio Branco de Andradas,1-6,Atlético Mineiro
+2T,22/05/96,Cruzeiro,2-0,Democrata-GV
+2T,26/05/96,América Mineiro,1-1,Guarani-MG
+2T,26/05/96,Atlético Mineiro,0-0,Cruzeiro
+2T,26/05/96,Democrata-GV,3-0,Valeriodoce
+2T,26/05/96,Paraisense,1-1,Caldense
+2T,26/05/96,Rio Branco de Andradas,2-1,URT
+2T,26/05/96,Uberlândia,0-0,Villa Nova-MG
+HXF,01/06/96,Atlético Mineiro,2-1,Villa Nova-MG
+HXF,02/06/96,Cruzeiro,2-0,Caldense
+HXF,02/06/96,Uberlândia,1-1,América Mineiro
+HXF,08/06/96,Cruzeiro,3-0,Uberlândia
+HXF,09/06/96,Atlético Mineiro,2-2,América Mineiro
+HXF,09/06/96,Villa Nova-MG,0-0,Caldense
+HXF,16/06/96,Caldense,0-4,Atlético Mineiro
+HXF,16/06/96,Uberlândia,3-0,Villa Nova-MG
+HXF,22/06/96,Atlético Mineiro,6-1,Uberlândia
+HXF,23/06/96,América Mineiro,0-0,Caldense
+HXF,23/06/96,Villa Nova-MG,0-0,Cruzeiro
+HXF,25/06/96,América Mineiro,2-1,Cruzeiro
+HXF,29/06/96,América Mineiro,0-0,Villa Nova-MG
+HXF,30/06/96,Caldense,2-0,Uberlândia
+HXF,30/06/96,Cruzeiro,0-1,Atlético Mineiro
+HXF,07/07/96,América Mineiro,1-3,Atlético Mineiro
+HXF,07/07/96,Cruzeiro,5-0,Villa Nova-MG
+HXF,07/07/96,Uberlândia,1-3,Caldense
+HXF,10/07/96,América Mineiro,2-0,Uberlândia
+HXF,10/07/96,Villa Nova-MG,0-0,Atlético Mineiro
+HXF,11/07/96,Caldense,1-2,Cruzeiro
+HXF,14/07/96,Atlético Mineiro,0-2,Cruzeiro
+HXF,14/07/96,Caldense,2-1,América Mineiro
+HXF,14/07/96,Villa Nova-MG,2-2,Uberlândia
+HXF,17/07/96,Atlético Mineiro,4-0,Caldense
+HXF,17/07/96,Uberlândia,0-2,Cruzeiro
+HXF,17/07/96,Villa Nova-MG,2-1,América Mineiro
+HXF,21/07/96,Caldense,0-1,Villa Nova-MG
+HXF,21/07/96,Cruzeiro,1-0,América Mineiro
+HXF,21/07/96,Uberlândia,0-0,Atlético Mineiro

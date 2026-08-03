@@ -1,0 +1,95 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/07/10,Paysandu,6-2,Rio Branco-AC
+D,17/07/10,GE Brasil,1-0,Caxias
+A,18/07/10,Fortaleza,0-0,Águia
+B,18/07/10,Salgueiro,2-2,Alecrim
+C,18/07/10,Gama,1-4,Macaé
+D,18/07/10,Juventude,1-1,Criciúma
+B,18/07/10,ABC,3-1,CRB
+C,18/07/10,Luverdense,2-1,Ituiutaba
+D,24/07/10,Caxias,2-1,Chapecoense
+A,24/07/10,Águia,1-1,São Raimundo-PA
+B,24/07/10,CRB,1-1,Salgueiro
+C,25/07/10,Macaé,1-1,Luverdense
+C,25/07/10,Ituiutaba,2-0,Marília
+D,25/07/10,Criciúma,2-0,GE Brasil
+B,25/07/10,Alecrim,1-0,Campinense
+A,25/07/10,Rio Branco-AC,0-0,Fortaleza
+C,28/07/10,Marília,1-0,Luverdense
+A,28/07/10,São Raimundo-PA,2-3,Fortaleza
+D,01/08/10,Chapecoense,3-2,GE Brasil
+A,01/08/10,Paysandu,2-0,Águia
+B,01/08/10,Campinense,2-0,Salgueiro
+C,01/08/10,Gama,0-0,Ituiutaba
+D,01/08/10,Juventude,0-0,Caxias
+B,01/08/10,ABC,1-1,Alecrim
+C,07/08/10,Macaé,3-1,Marília
+A,07/08/10,Fortaleza,1-1,Paysandu
+B,07/08/10,CRB,2-1,Campinense
+D,07/08/10,GE Brasil,0-0,Juventude
+B,08/08/10,Salgueiro,0-3,ABC
+D,08/08/10,Criciúma,2-0,Chapecoense
+C,08/08/10,Luverdense,2-0,Gama
+A,08/08/10,Rio Branco-AC,3-3,São Raimundo-PA
+A,14/08/10,Águia,4-0,Rio Branco-AC
+D,15/08/10,Chapecoense,2-0,Juventude
+D,15/08/10,Caxias,1-0,Criciúma
+B,15/08/10,Campinense,1-0,ABC
+C,15/08/10,Marília,2-2,Gama
+C,15/08/10,Ituiutaba,1-0,Macaé
+A,15/08/10,São Raimundo-PA,0-2,Paysandu
+B,15/08/10,Alecrim,3-2,CRB
+A,18/08/10,São Raimundo-PA,1-1,Rio Branco-AC
+C,21/08/10,Marília,0-1,Macaé
+D,22/08/10,Chapecoense,1-0,Criciúma
+A,22/08/10,Paysandu,1-1,Fortaleza
+B,22/08/10,Campinense,0-1,CRB
+C,22/08/10,Gama,1-1,Luverdense
+D,22/08/10,Juventude,0-1,GE Brasil
+B,22/08/10,ABC,3-1,Salgueiro
+A,28/08/10,Águia,2-1,Paysandu
+D,29/08/10,Caxias,2-2,Juventude
+A,29/08/10,Fortaleza,2-1,São Raimundo-PA
+B,29/08/10,Salgueiro,2-1,Campinense
+C,29/08/10,Ituiutaba,0-0,Gama
+D,29/08/10,GE Brasil,0-0,Chapecoense
+B,29/08/10,Alecrim,1-1,ABC
+C,29/08/10,Luverdense,2-2,Marília
+C,01/09/10,Gama,0-0,Marília
+C,04/09/10,Macaé,0-0,Ituiutaba
+B,05/09/10,CRB,0-0,Alecrim
+D,05/09/10,Juventude,2-1,Chapecoense
+D,05/09/10,Criciúma,1-0,Caxias
+A,05/09/10,Paysandu,1-0,São Raimundo-PA
+B,05/09/10,ABC,0-0,Campinense
+A,05/09/10,Rio Branco-AC,2-1,Águia
+A,11/09/10,Fortaleza,1-1,Rio Branco-AC
+A,11/09/10,São Raimundo-PA,0-2,Águia
+B,12/09/10,Salgueiro,3-0,CRB
+B,12/09/10,Campinense,2-1,Alecrim
+C,12/09/10,Luverdense,3-1,Macaé
+C,12/09/10,Marília,1-2,Ituiutaba
+D,12/09/10,GE Brasil,0-0,Criciúma
+D,12/09/10,Chapecoense,1-1,Caxias
+A,19/09/10,Rio Branco-AC,3-1,Paysandu
+A,19/09/10,Águia,1-1,Fortaleza
+B,19/09/10,CRB,1-0,ABC
+B,19/09/10,Alecrim,0-2,Salgueiro
+C,19/09/10,Macaé,2-1,Gama
+C,19/09/10,Ituiutaba,3-1,Luverdense
+D,19/09/10,Criciúma,1-1,Juventude
+D,19/09/10,Caxias,0-0,GE Brasil
+QF,09/10/10,Salgueiro,1-1,Paysandu
+QF,09/10/10,Chapecoense,1-1,Ituiutaba
+QF,10/10/10,Macaé,3-2,Criciúma
+QF,16/10/10,Ituiutaba,0-0,Chapecoense
+QF,16/10/10,Águia,0-1,ABC
+QF,17/10/10,Paysandu,2-3,Salgueiro
+QF,23/10/10,Criciúma,2-0,Macaé
+QF,24/10/10,ABC,3-1,Águia
+SF,30/10/10,Salgueiro,1-1,ABC
+SF,30/10/10,Criciúma,1-1,Ituiutaba
+SF,06/11/10,ABC,2-0,Salgueiro
+SF,07/11/10,Ituiutaba,1-1(4-2 Pen.),Criciúma
+F,13/11/10,Ituiutaba,0-1,ABC
+F,20/11/10,ABC,0-0,Ituiutaba

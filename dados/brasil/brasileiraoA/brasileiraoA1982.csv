@@ -1,0 +1,292 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,16/01/82,São Paulo,5-0,Treze
+A,17/01/82,Santos,1-0,Vasco
+A,17/01/82,Moto Club,0-0,Paysandu
+B,17/01/82,Botafogo,1-2,Guarani
+B,17/01/82,América-RN,1-2,Ceará
+C,17/01/82,Ferroviário,1-2,Náutico
+D,17/01/82,Itabaiana,0-1,Inter de Limeira
+D,17/01/82,CSA,1-2,Sport
+E,17/01/82,Bahia,3-2,Mixto
+E,17/01/82,Bangu,3-0,Cruzeiro
+F,17/01/82,Desportiva Ferroviária,0-2,Atlético Mineiro
+F,17/01/82,São José,1-0,Grêmio
+G,17/01/82,Ponte Preta,1-0,Goiás
+G,17/01/82,Internacional,3-0,Grêmio Maringá
+H,17/01/82,Londrina,3-0,Joinville
+H,17/01/82,Anapolina,1-1,XV de Jaú
+A,20/01/82,Santos,4-1,Moto Club
+A,20/01/82,Paysandu,1-1,Nacional-AM
+B,20/01/82,Guarani,4-2,América-RN
+B,20/01/82,Ceará,3-1,River-PI
+C,20/01/82,Flamengo,3-2,São Paulo
+C,20/01/82,Treze,1-1,Náutico
+D,20/01/82,Sport,4-0,Itabaiana
+D,20/01/82,Inter de Limeira,2-2,Fluminense
+E,20/01/82,Bangu,0-0,Bahia
+E,20/01/82,Mixto,1-2,Operário-MS
+F,20/01/82,Grêmio,2-0,Desportiva Ferroviária
+F,20/01/82,Atlético Mineiro,1-0,Vitória
+G,20/01/82,Goiás,3-0,Taguatinga
+G,20/01/82,Grêmio Maringá,0-0,Ponte Preta
+H,20/01/82,Joinville,0-3,Inter SM
+H,20/01/82,XV de Jaú,3-0,Londrina
+A,24/01/82,Vasco,7-0,Moto Club
+A,24/01/82,Nacional-AM,2-2,Santos
+B,24/01/82,River-PI,1-3,Guarani
+B,24/01/82,Botafogo,2-0,América-RN
+C,24/01/82,Náutico,3-4,Flamengo
+C,24/01/82,Ferroviário,0-2,Treze
+D,24/01/82,Fluminense,1-2,Sport
+D,24/01/82,CSA,2-0,Itabaiana
+E,24/01/82,Cruzeiro,2-0,Bahia
+E,24/01/82,Operário-MS,2-3,Bangu
+F,24/01/82,Vitória,0-2,Grêmio
+F,24/01/82,São José,2-1,Desportiva Ferroviária
+G,24/01/82,Taguatinga,1-2,Grêmio Maringá
+G,24/01/82,Internacional,1-1,Ponte Preta
+H,24/01/82,Anapolina,3-1,Londrina
+H,24/01/82,Inter SM,2-1,XV de Jaú
+A,28/01/82,Nacional-AM,0-1,Vasco
+A,28/01/82,Paysandu,0-0,Santos
+B,28/01/82,Ceará,1-1,Guarani
+B,28/01/82,River-PI,1-3,Botafogo
+C,28/01/82,Flamengo,5-0,Treze
+C,28/01/82,São Paulo,4-0,Ferroviário
+D,28/01/82,Fluminense,2-0,CSA
+D,28/01/82,Inter de Limeira,2-3,Sport
+E,28/01/82,Mixto,2-1,Bangu
+E,28/01/82,Operário-MS,1-0,Cruzeiro
+F,28/01/82,Atlético Mineiro,1-1,Grêmio
+F,28/01/82,Vitória,1-0,São José
+G,28/01/82,Taguatinga,1-2,Internacional
+G,28/01/82,Goiás,1-1,Grêmio Maringá
+H,28/01/82,Inter SM,0-0,Anapolina
+H,28/01/82,Joinville,3-0,XV de Jaú
+A,31/01/82,Moto Club,0-0,Nacional-AM
+A,31/01/82,Paysandu,1-3,Vasco
+B,31/01/82,América-RN,1-0,River-PI
+B,31/01/82,Ceará,0-0,Botafogo
+C,31/01/82,Náutico,1-4,São Paulo
+C,31/01/82,Flamengo,3-0,Ferroviário
+D,31/01/82,Inter de Limeira,2-2,CSA
+D,31/01/82,Itabaiana,0-4,Fluminense
+E,31/01/82,Mixto,4-2,Cruzeiro
+E,31/01/82,Bahia,1-1,Operário-MS
+F,31/01/82,Desportiva Ferroviária,3-1,Vitória
+F,31/01/82,Atlético Mineiro,0-0,São José
+G,31/01/82,Ponte Preta,3-1,Taguatinga
+G,31/01/82,Goiás,1-0,Internacional
+H,31/01/82,Londrina,3-0,Inter SM
+H,31/01/82,Joinville,0-1,Anapolina
+A,03/02/82,Santos,3-1,Nacional-AM
+A,03/02/82,Moto Club,1-2,Vasco
+B,03/02/82,América-RN,0-3,Botafogo
+C,03/02/82,Treze,0-3,São Paulo
+D,03/02/82,Sport,0-0,Fluminense
+E,03/02/82,Bangu,3-0,Operário-MS
+E,03/02/82,Bahia,3-0,Cruzeiro
+F,03/02/82,Grêmio,0-1,Vitória
+F,03/02/82,Desportiva Ferroviária,0-1,São José
+G,03/02/82,Ponte Preta,0-0,Internacional
+G,03/02/82,Grêmio Maringá,2-0,Taguatinga
+H,03/02/82,Londrina,1-0,Anapolina
+H,03/02/82,XV de Jaú,1-1,Inter SM
+B,04/02/82,Guarani,8-0,River-PI
+C,04/02/82,Náutico,2-3,Ferroviário
+D,04/02/82,Itabaiana,0-0,CSA
+G,06/02/82,Internacional,6-1,Taguatinga
+A,07/02/82,Santos,4-1,Paysandu
+A,07/02/82,Vasco,4-0,Nacional-AM
+B,07/02/82,Guarani,8-1,Ceará
+B,07/02/82,Botafogo,5-2,River-PI
+C,07/02/82,Treze,1-3,Flamengo
+C,07/02/82,Ferroviário,1-2,São Paulo
+D,07/02/82,CSA,3-3,Fluminense
+D,07/02/82,Sport,1-0,Inter de Limeira
+E,07/02/82,Cruzeiro,1-3,Operário-MS
+E,07/02/82,Bangu,3-1,Mixto
+F,07/02/82,São José,2-1,Vitória
+F,07/02/82,Grêmio,2-0,Atlético Mineiro
+G,07/02/82,Grêmio Maringá,2-2,Goiás
+H,07/02/82,XV de Jaú,1-0,Joinville
+H,07/02/82,Anapolina,3-1,Inter SM
+A,10/02/82,Vasco,2-0,Paysandu
+A,10/02/82,Nacional-AM,0-1,Moto Club
+B,10/02/82,Botafogo,1-0,Ceará
+B,10/02/82,River-PI,0-1,América-RN
+C,10/02/82,São Paulo,1-1,Náutico
+C,10/02/82,Ferroviário,1-2,Flamengo
+D,10/02/82,Fluminense,2-0,Itabaiana
+D,10/02/82,CSA,1-1,Inter de Limeira
+E,10/02/82,Cruzeiro,3-0,Mixto
+E,10/02/82,Operário-MS,0-0,Bahia
+F,10/02/82,São José,0-0,Atlético Mineiro
+F,10/02/82,Vitória,2-4,Desportiva Ferroviária
+G,10/02/82,Internacional,5-0,Goiás
+G,10/02/82,Taguatinga,0-2,Ponte Preta
+H,10/02/82,Inter SM,2-2,Londrina
+H,10/02/82,Anapolina,4-2,Joinville
+C,13/02/82,Flamengo,1-1,Náutico
+E,13/02/82,Cruzeiro,2-1,Bangu
+A,14/02/82,Paysandu,0-0,Moto Club
+A,14/02/82,Vasco,3-0,Santos
+B,14/02/82,Guarani,4-1,Botafogo
+B,14/02/82,Ceará,3-2,América-RN
+C,14/02/82,Treze,2-0,Ferroviário
+D,14/02/82,Sport,3-0,CSA
+D,14/02/82,Inter de Limeira,5-1,Itabaiana
+E,14/02/82,Mixto,0-1,Bahia
+F,14/02/82,Atlético Mineiro,7-1,Desportiva Ferroviária
+F,14/02/82,Grêmio,1-0,São José
+G,14/02/82,Goiás,1-1,Ponte Preta
+G,14/02/82,Grêmio Maringá,2-0,Internacional
+H,14/02/82,XV de Jaú,2-3,Anapolina
+H,14/02/82,Joinville,3-1,Londrina
+C,16/02/82,São Paulo,3-4,Flamengo
+A,17/02/82,Moto Club,2-1,Santos
+A,17/02/82,Nacional-AM,1-1,Paysandu
+B,17/02/82,River-PI,1-2,Ceará
+B,17/02/82,América-RN,1-2,Guarani
+C,17/02/82,Náutico,0-0,Treze
+D,17/02/82,Itabaiana,1-0,Sport
+D,17/02/82,Fluminense,0-0,Inter de Limeira
+E,17/02/82,Operário-MS,2-0,Mixto
+E,17/02/82,Bahia,1-1,Bangu
+G,17/02/82,Ponte Preta,1-0,Grêmio Maringá
+G,17/02/82,Taguatinga,3-1,Goiás
+H,17/02/82,Londrina,0-1,XV de Jaú
+H,17/02/82,Inter SM,3-3,Joinville
+F,18/02/82,Vitória,1-0,Atlético Mineiro
+F,18/02/82,Desportiva Ferroviária,1-0,Grêmio
+1F,20/02/82,Paysandu,3-1,América-RN
+1F,20/02/82,Náutico,6-2,CSA
+1F,20/02/82,Londrina,1-0(Pro.),Goiás
+1F,24/02/82,Cruzeiro,1-0,Desportiva Ferroviária
+K,27/02/82,Corinthians,1-1,Flamengo
+I,28/02/82,America-RJ,1-3,Vasco
+I,28/02/82,Inter SM,1-0,Operário-MS
+J,28/02/82,Guarani,2-0,Grêmio
+J,28/02/82,Náutico,3-0,Grêmio Maringá
+K,28/02/82,Internacional,1-1,Atlético Mineiro
+L,28/02/82,Paysandu,0-2,Sport
+L,28/02/82,Bahia,1-2,XV de Jaú
+M,28/02/82,Santos,1-0,Inter de Limeira
+M,28/02/82,São Paulo-RS,1-0,Bangu
+N,28/02/82,Londrina,1-1,São José
+N,28/02/82,Treze,0-2,Botafogo
+O,28/02/82,Atlético Paranaense,1-3,São Paulo
+O,28/02/82,Ceará,2-3,Ponte Preta
+P,28/02/82,Moto Club,1-0,Anapolina
+P,28/02/82,Cruzeiro,2-2,Fluminense
+I,06/03/82,Operário-MS,2-0,Vasco
+I,06/03/82,America-RJ,3-0,Inter SM
+J,07/03/82,Grêmio Maringá,2-2,Grêmio
+J,07/03/82,Guarani,2-0,Náutico
+K,07/03/82,Internacional,0-2,Corinthians
+K,07/03/82,Flamengo,2-1,Atlético Mineiro
+L,07/03/82,Sport,4-0,XV de Jaú
+L,07/03/82,Bahia,2-3,Paysandu
+M,07/03/82,Santos,6-1,São Paulo-RS
+M,07/03/82,Bangu,2-0,Inter de Limeira
+N,07/03/82,São José,0-0,Botafogo
+N,07/03/82,Treze,0-0,Londrina
+O,07/03/82,São Paulo,2-1,Ponte Preta
+O,07/03/82,Ceará,1-0,Atlético Paranaense
+P,07/03/82,Anapolina,3-1,Fluminense
+P,07/03/82,Cruzeiro,1-0,Moto Club
+I,10/03/82,Vasco,7-0,Inter SM
+K,10/03/82,Atlético Mineiro,1-3,Corinthians
+P,10/03/82,Fluminense,3-0,Moto Club
+P,10/03/82,Anapolina,1-0,Cruzeiro
+I,11/03/82,Operário-MS,1-0,America-RJ
+J,11/03/82,Grêmio Maringá,3-4,Guarani
+J,11/03/82,Grêmio,0-0,Náutico
+K,11/03/82,Flamengo,1-1,Internacional
+L,11/03/82,Sport,0-2,Bahia
+L,11/03/82,XV de Jaú,1-1,Paysandu
+M,11/03/82,Inter de Limeira,3-0,São Paulo-RS
+N,11/03/82,Botafogo,1-3,Londrina
+N,11/03/82,São José,3-1,Treze
+O,11/03/82,Ponte Preta,1-1,Atlético Paranaense
+O,11/03/82,São Paulo,5-2,Ceará
+M,11/03/82,Bangu,2-0,Santos
+P,13/03/82,Fluminense,6-1,Anapolina
+I,14/03/82,Vasco,7-1,Operário-MS
+I,14/03/82,Inter SM,0-1,America-RJ
+J,14/03/82,Náutico,2-2,Guarani
+J,14/03/82,Grêmio,4-1,Grêmio Maringá
+K,14/03/82,Corinthians,1-0,Internacional
+K,14/03/82,Atlético Mineiro,3-1,Flamengo
+L,14/03/82,XV de Jaú,2-2,Sport
+L,14/03/82,Paysandu,1-3,Bahia
+M,14/03/82,Inter de Limeira,2-2,Bangu
+M,14/03/82,São Paulo-RS,0-0,Santos
+N,14/03/82,Botafogo,0-1,São José
+N,14/03/82,Londrina,3-1,Treze
+O,14/03/82,Atlético Paranaense,0-3,Ceará
+O,14/03/82,Ponte Preta,1-0,São Paulo
+P,14/03/82,Moto Club,0-1,Cruzeiro
+I,17/03/82,Vasco,2-2,America-RJ
+I,17/03/82,Operário-MS,0-0,Inter SM
+J,17/03/82,Náutico,0-1,Grêmio
+J,17/03/82,Guarani,3-1,Grêmio Maringá
+K,17/03/82,Corinthians,2-1,Atlético Mineiro
+K,17/03/82,Internacional,2-3,Flamengo
+L,17/03/82,Paysandu,1-1,XV de Jaú
+L,17/03/82,Bahia,0-0,Sport
+M,17/03/82,Santos,1-0,Bangu
+M,17/03/82,São Paulo-RS,2-2,Inter de Limeira
+N,17/03/82,Londrina,1-1,Botafogo
+N,17/03/82,Treze,0-3,São José
+O,17/03/82,Ceará,2-3,São Paulo
+O,17/03/82,Atlético Paranaense,0-0,Ponte Preta
+P,17/03/82,Moto Club,0-3,Fluminense
+P,17/03/82,Cruzeiro,0-1,Anapolina
+J,23/03/82,Grêmio,2-0,Guarani
+N,24/03/82,Botafogo,1-3,Treze
+N,24/03/82,São José,0-0,Londrina
+P,24/03/82,Fluminense,4-0,Cruzeiro
+P,24/03/82,Anapolina,3-1,Moto Club
+I,25/03/82,Inter SM,3-0,Vasco
+I,25/03/82,America-RJ,0-1,Operário-MS
+J,25/03/82,Grêmio Maringá,0-0,Náutico
+K,25/03/82,Atlético Mineiro,2-1,Internacional
+K,25/03/82,Flamengo,2-0,Corinthians
+L,25/03/82,XV de Jaú,1-1,Bahia
+L,25/03/82,Sport,3-0,Paysandu
+M,25/03/82,Inter de Limeira,0-1,Santos
+M,25/03/82,Bangu,1-0,São Paulo-RS
+O,25/03/82,Ponte Preta,0-1,Ceará
+O,25/03/82,São Paulo,1-0,Atlético Paranaense
+1/8,28/03/82,Vasco,1-1,Grêmio
+1/8,28/03/82,Operário-MS,1-1,Guarani
+1/8,28/03/82,Flamengo,2-0,Sport
+1/8,28/03/82,Londrina,0-0,Santos
+1/8,28/03/82,Bangu,3-1,São José
+1/8,28/03/82,Bahia,1-1,Corinthians
+1/8,28/03/82,Ceará,1-2,Fluminense
+1/8,28/03/82,Anapolina,3-1,São Paulo
+1/8,31/03/82,Grêmio,1-0,Vasco
+1/8,31/03/82,Guarani,1-0,Operário-MS
+1/8,31/03/82,São Paulo,4-0,Anapolina
+1/8,31/03/82,Sport,2-1,Flamengo
+1/8,31/03/82,Santos,1-0,Londrina
+1/8,31/03/82,São José,2-2,Bangu
+1/8,31/03/82,Corinthians,5-2,Bahia
+1/8,31/03/82,Fluminense,2-0,Ceará
+QF,03/04/82,Flamengo,2-1,Santos
+QF,04/04/82,Grêmio,1-1,Fluminense
+QF,04/04/82,São Paulo,0-1,Guarani
+QF,04/04/82,Bangu,0-1,Corinthians
+QF,06/04/82,Santos,1-1,Flamengo
+QF,07/04/82,Fluminense,1-2,Grêmio
+QF,07/04/82,Guarani,2-0,São Paulo
+QF,07/04/82,Corinthians,1-2,Bangu
+SF,11/04/82,Corinthians,1-2,Grêmio
+SF,11/04/82,Flamengo,2-1,Guarani
+SF,14/04/82,Grêmio,3-1,Corinthians
+SF,15/04/82,Guarani,2-3,Flamengo
+F,18/04/82,Flamengo,1-1,Grêmio
+F,21/04/82,Grêmio,0-0,Flamengo
+F,25/04/82,Grêmio,0-1,Flamengo

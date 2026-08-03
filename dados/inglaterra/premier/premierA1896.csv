@@ -1,0 +1,249 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/96,Blackburn Rovers,1-2,West Bromwich
+1,01/09/96,The Wednesday,1-2,Liverpool
+1,01/09/96,Sunderland,0-1,Bury
+1,01/09/96,Wolverhampton,1-0,Derby County
+1,02/09/96,Aston Villa,2-1,Stoke City
+1,05/09/96,Sheffield United,1-0,Burnley
+2,05/09/96,Blackburn Rovers,1-0,Liverpool
+2,05/09/96,Bury,0-0,Preston North End
+2,05/09/96,Derby County,1-1,Nottingham Forest
+2,05/09/96,Everton,2-1,The Wednesday
+2,05/09/96,Stoke City,2-1,Wolverhampton
+2,05/09/96,Sunderland,1-1,Bolton Wanderers
+2,05/09/96,West Bromwich,3-1,Aston Villa
+3,07/09/96,Burnley,1-1,Sunderland
+3,07/09/96,Liverpool,0-2,Bolton Wanderers
+3,12/09/96,Aston Villa,2-2,Sheffield United
+3,12/09/96,Bolton Wanderers,0-0,Blackburn Rovers
+3,12/09/96,Burnley,1-0,Bury
+3,12/09/96,Liverpool,2-0,Derby County
+3,12/09/96,Nottingham Forest,4-0,Stoke City
+3,12/09/96,The Wednesday,3-1,West Bromwich
+3,12/09/96,Wolverhampton,0-1,Everton
+4,12/09/96,Preston North End,5-3,Sunderland
+4,19/09/96,Blackburn Rovers,4-0,The Wednesday
+4,19/09/96,Burnley,2-2,Nottingham Forest
+4,19/09/96,Bury,1-2,Liverpool
+4,19/09/96,Derby County,4-3,Wolverhampton
+4,19/09/96,Everton,2-3,Aston Villa
+4,19/09/96,Stoke City,2-3,Bolton Wanderers
+4,19/09/96,West Bromwich,1-1,Preston North End
+5,19/09/96,Sheffield United,3-0,Sunderland
+4,26/09/96,Nottingham Forest,2-2,Sheffield United
+5,26/09/96,Aston Villa,1-2,Everton
+5,26/09/96,Derby County,7-2,Bury
+5,26/09/96,Liverpool,0-0,West Bromwich
+5,26/09/96,Preston North End,5-3,Burnley
+5,26/09/96,The Wednesday,4-3,Stoke City
+5,26/09/96,Wolverhampton,1-1,Blackburn Rovers
+6,26/09/96,Bolton Wanderers,1-0,Sunderland
+5,03/10/96,Everton,2-1,Liverpool
+6,03/10/96,Blackburn Rovers,3-2,Burnley
+6,03/10/96,Bolton Wanderers,3-1,Preston North End
+6,03/10/96,Sheffield United,0-0,Aston Villa
+6,03/10/96,West Bromwich,0-2,The Wednesday
+7,03/10/96,Sunderland,0-3,Wolverhampton
+6,10/10/96,Bolton Wanderers,2-0,Bury
+6,10/10/96,Burnley,2-1,Everton
+6,10/10/96,Derby County,1-3,Sheffield United
+7,10/10/96,Aston Villa,2-0,West Bromwich
+7,10/10/96,Preston North End,3-1,Blackburn Rovers
+7,10/10/96,The Wednesday,0-0,Sunderland
+7,10/10/96,Wolverhampton,1-2,Stoke City
+8,10/10/96,Liverpool,3-0,Nottingham Forest
+7,17/10/96,Everton,1-2,Sheffield United
+7,17/10/96,Stoke City,3-0,Nottingham Forest
+8,17/10/96,Blackburn Rovers,1-0,Bolton Wanderers
+8,17/10/96,Burnley,2-2,Preston North End
+8,17/10/96,Bury,1-1,The Wednesday
+8,17/10/96,Derby County,1-3,Aston Villa
+8,17/10/96,West Bromwich,1-0,Wolverhampton
+9,17/10/96,Sunderland,4-3,Liverpool
+8,19/10/96,Sheffield United,1-1,Liverpool
+8,24/10/96,Bolton Wanderers,4-0,Stoke City
+8,24/10/96,West Bromwich,0-0,Bury
+9,24/10/96,Aston Villa,2-1,Derby County
+9,24/10/96,Liverpool,4-0,Blackburn Rovers
+9,24/10/96,Nottingham Forest,4-1,Burnley
+9,24/10/96,Preston North End,1-0,Sheffield United
+9,24/10/96,The Wednesday,4-1,Everton
+10,24/10/96,Wolverhampton,0-1,Sunderland
+9,31/10/96,Bury,2-2,Bolton Wanderers
+9,31/10/96,Sheffield United,2-2,Derby County
+10,31/10/96,Blackburn Rovers,0-4,Preston North End
+10,31/10/96,Everton,0-0,Wolverhampton
+10,31/10/96,Nottingham Forest,2-2,The Wednesday
+10,31/10/96,Stoke City,0-2,Aston Villa
+10,31/10/96,West Bromwich,0-1,Liverpool
+11,02/11/96,West Bromwich,1-0,Bolton Wanderers
+9,07/11/96,Preston North End,3-2,Nottingham Forest
+10,07/11/96,Derby County,5-1,Stoke City
+11,07/11/96,Aston Villa,1-1,Bury
+11,07/11/96,Burnley,0-1,Blackburn Rovers
+11,07/11/96,Liverpool,3-0,Sunderland
+11,09/11/96,Stoke City,2-1,Preston North End
+10,14/11/96,Everton,2-3,Bolton Wanderers
+11,14/11/96,Bury,4-2,Stoke City
+11,14/11/96,Derby County,3-2,Burnley
+11,14/11/96,The Wednesday,1-3,Aston Villa
+11,14/11/96,West Bromwich,0-1,Sheffield United
+12,14/11/96,Blackburn Rovers,0-0,Nottingham Forest
+14,14/11/96,Preston North End,1-1,Liverpool
+12,18/11/96,Nottingham Forest,1-2,Derby County
+11,21/11/96,Liverpool,0-0,Everton
+11,21/11/96,Wolverhampton,2-0,Burnley
+12,21/11/96,Aston Villa,4-0,The Wednesday
+12,21/11/96,Nottingham Forest,2-1,Sunderland
+12,21/11/96,Sheffield United,2-2,Bury
+13,21/11/96,Derby County,6-0,Blackburn Rovers
+13,21/11/96,Preston North End,2-3,Bolton Wanderers
+13,21/11/96,Stoke City,2-2,West Bromwich
+12,28/11/96,Bury,3-2,Wolverhampton
+12,28/11/96,Everton,6-0,Burnley
+13,28/11/96,The Wednesday,2-0,Derby County
+13,28/11/96,West Bromwich,1-0,Sunderland
+14,28/11/96,Blackburn Rovers,1-5,Aston Villa
+14,28/11/96,Preston North End,3-0,Stoke City
+16,28/11/96,Nottingham Forest,2-0,Liverpool
+13,05/12/96,Sheffield United,0-1,West Bromwich
+13,05/12/96,Wolverhampton,4-1,Nottingham Forest
+14,05/12/96,Sunderland,0-0,The Wednesday
+15,05/12/96,Stoke City,2-2,Derby County
+13,07/12/96,Bolton Wanderers,2-0,Everton
+14,12/12/96,Liverpool,3-1,Bury
+15,12/12/96,Nottingham Forest,2-1,Blackburn Rovers
+15,12/12/96,The Wednesday,0-0,Wolverhampton
+15,12/12/96,Sunderland,1-1,Everton
+16,12/12/96,West Bromwich,1-2,Stoke City
+15,19/12/96,Aston Villa,3-2,Nottingham Forest
+15,19/12/96,Everton,4-2,Stoke City
+15,19/12/96,Wolverhampton,1-1,Preston North End
+16,19/12/96,Burnley,1-1,The Wednesday
+16,19/12/96,Derby County,3-2,Liverpool
+16,19/12/96,Sunderland,0-1,Blackburn Rovers
+17,19/12/96,Bolton Wanderers,2-2,West Bromwich
+15,25/12/96,Bury,2-0,Nottingham Forest
+16,25/12/96,Liverpool,3-3,Aston Villa
+17,25/12/96,Blackburn Rovers,1-2,Sunderland
+17,25/12/96,Derby County,8-1,West Bromwich
+15,26/12/96,Burnley,4-1,Liverpool
+16,26/12/96,Preston North End,2-2,Bury
+16,26/12/96,Wolverhampton,1-2,Aston Villa
+17,26/12/96,Sheffield United,2-0,The Wednesday
+18,26/12/96,Derby County,1-0,Bolton Wanderers
+18,26/12/96,Everton,5-2,Sunderland
+18,26/12/96,West Bromwich,1-0,Blackburn Rovers
+17,28/12/96,Nottingham Forest,3-0,Bury
+17,28/12/96,Wolverhampton,6-1,West Bromwich
+19,28/12/96,The Wednesday,6-0,Blackburn Rovers
+15,29/12/96,Sheffield United,1-0,Bolton Wanderers
+17,01/01/97,Sheffield United,1-2,Everton
+18,01/01/97,Bury,1-1,Burnley
+19,01/01/97,Sunderland,1-1,Preston North End
+21,01/01/97,Bolton Wanderers,1-4,Liverpool
+17,02/01/97,Liverpool,0-0,Sheffield United
+18,02/01/97,Aston Villa,0-3,Burnley
+18,02/01/97,Stoke City,2-3,Everton
+19,02/01/97,The Wednesday,1-0,Preston North End
+20,02/01/97,Blackburn Rovers,2-0,Wolverhampton
+20,02/01/97,Sunderland,1-2,Derby County
+21,02/01/97,Nottingham Forest,0-1,West Bromwich
+19,09/01/97,Burnley,1-3,Stoke City
+19,09/01/97,Everton,3-1,Nottingham Forest
+19,09/01/97,Wolverhampton,1-2,Liverpool
+20,09/01/97,Derby County,2-1,The Wednesday
+21,09/01/97,Sheffield United,7-0,Blackburn Rovers
+21,09/01/97,Sunderland,4-2,Aston Villa
+19,16/01/97,Burnley,1-1,Sheffield United
+19,16/01/97,Nottingham Forest,2-0,Bolton Wanderers
+20,16/01/97,Liverpool,1-0,Stoke City
+20,16/01/97,Preston North End,4-0,Wolverhampton
+20,16/01/97,West Bromwich,1-4,Everton
+22,16/01/97,Aston Villa,2-1,Sunderland
+22,16/01/97,Blackburn Rovers,5-2,Derby County
+21,23/01/97,Sheffield United,1-3,Wolverhampton
+21,23/01/97,Stoke City,0-0,The Wednesday
+23,23/01/97,Derby County,1-0,Sunderland
+23,23/01/97,West Bromwich,4-0,Nottingham Forest
+20,06/02/97,Burnley,0-2,Bolton Wanderers
+21,06/02/97,Bury,0-2,Aston Villa
+21,06/02/97,Everton,3-4,Preston North End
+22,06/02/97,Stoke City,6-1,Liverpool
+23,06/02/97,Blackburn Rovers,1-3,Sheffield United
+23,06/02/97,West Bromwich,1-4,Derby County
+22,08/02/97,Burnley,3-4,Aston Villa
+22,20/02/97,Preston North End,2-2,The Wednesday
+22,20/02/97,Sheffield United,0-3,Nottingham Forest
+24,20/02/97,Blackburn Rovers,1-2,Bury
+24,20/02/97,Sunderland,4-1,Stoke City
+23,22/02/97,Aston Villa,3-1,Preston North End
+22,27/02/97,Wolverhampton,1-1,Bury
+23,27/02/97,The Wednesday,0-0,Bolton Wanderers
+24,27/02/97,Stoke City,3-2,Burnley
+25,27/02/97,Sunderland,0-1,Sheffield United
+22,02/03/97,Bury,3-1,Everton
+24,02/03/97,The Wednesday,1-1,Sheffield United
+26,02/03/97,Sunderland,1-1,Burnley
+23,04/03/97,Liverpool,3-0,Wolverhampton
+24,06/03/97,Bolton Wanderers,1-3,Derby County
+24,06/03/97,Nottingham Forest,2-4,Aston Villa
+24,06/03/97,Wolverhampton,1-1,Sheffield United
+25,06/03/97,Blackburn Rovers,4-2,Everton
+25,06/03/97,The Wednesday,1-0,Burnley
+27,06/03/97,Sunderland,2-1,West Bromwich
+24,10/03/97,Nottingham Forest,3-0,Everton
+23,13/03/97,Bury,3-0,West Bromwich
+25,13/03/97,Aston Villa,0-0,Liverpool
+25,13/03/97,Bolton Wanderers,2-1,Burnley
+26,13/03/97,Everton,0-3,Blackburn Rovers
+26,13/03/97,Sheffield United,0-2,Preston North End
+26,13/03/97,Wolverhampton,2-0,The Wednesday
+28,13/03/97,Sunderland,2-2,Nottingham Forest
+24,20/03/97,Bolton Wanderers,0-0,Nottingham Forest
+24,20/03/97,Bury,0-1,Sheffield United
+26,20/03/97,Burnley,0-3,Wolverhampton
+27,20/03/97,Blackburn Rovers,2-1,Stoke City
+26,22/03/97,Aston Villa,6-2,Bolton Wanderers
+25,27/03/97,Derby County,2-2,Preston North End
+27,27/03/97,Bolton Wanderers,1-2,Aston Villa
+27,27/03/97,Liverpool,1-2,Burnley
+28,27/03/97,Bury,3-0,Blackburn Rovers
+28,27/03/97,Sheffield United,1-0,Stoke City
+26,03/04/97,Preston North End,4-1,Everton
+27,03/04/97,Liverpool,2-2,The Wednesday
+27,03/04/97,West Bromwich,3-0,Burnley
+29,03/04/97,Stoke City,0-1,Sunderland
+26,05/04/97,Burnley,2-3,Derby County
+27,05/04/97,Bolton Wanderers,1-2,Wolverhampton
+28,05/04/97,The Wednesday,3-0,Nottingham Forest
+29,08/04/97,Nottingham Forest,0-0,Preston North End
+26,10/04/97,Bury,1-0,Derby County
+28,10/04/97,Burnley,5-0,West Bromwich
+28,10/04/97,Nottingham Forest,1-2,Wolverhampton
+29,10/04/97,Bolton Wanderers,2-1,The Wednesday
+29,10/04/97,Stoke City,1-0,Blackburn Rovers
+30,10/04/97,Liverpool,0-0,Preston North End
+27,12/04/97,Stoke City,3-0,Bury
+29,15/04/97,Stoke City,2-0,Sheffield United
+28,16/04/97,Everton,5-2,Derby County
+29,16/04/97,Preston North End,0-0,West Bromwich
+30,16/04/97,Bolton Wanderers,0-2,Sheffield United
+30,16/04/97,Bury,1-1,Sunderland
+,17/04/97,Notts County,1-0,Sunderland
+,17/04/97,Burnley,2-0,Manchester United
+28,17/04/97,Everton,6-3,West Bromwich
+30,17/04/97,Aston Villa,3-0,Blackburn Rovers
+30,17/04/97,The Wednesday,2-0,Bury
+,19/04/97,Sunderland,0-0,Notts County
+29,19/04/97,Aston Villa,5-0,Wolverhampton
+29,19/04/97,Preston North End,0-2,Derby County
+30,20/04/97,Derby County,0-1,Everton
+30,20/04/97,Wolverhampton,4-0,Bolton Wanderers
+,21/04/97,Manchester United,2-0,Burnley
+,24/04/97,Burnley,0-1,Notts County
+,24/04/97,Manchester United,1-1,Sunderland
+30,24/04/97,Everton,1-2,Bury
+,26/04/97,Notts County,1-1,Burnley
+,26/04/97,Sunderland,2-0,Manchester United
+30,26/04/97,Preston North End,0-1,Aston Villa

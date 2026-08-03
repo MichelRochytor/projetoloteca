@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,06/02/08,Sport,4-1,Imperatriz
+1F,06/02/08,Remo,0-2,Central
+1F,13/02/08,Ituiutaba,0-0,Atlético Goianiense
+1F,13/02/08,Linhares FC,0-0,Juventude
+1F,13/02/08,Roma Apucarana,0-2,Volta Redonda
+1F,13/02/08,Itabaiana,0-1,Vasco
+1F,13/02/08,Chapecoense,3-1,Guarani
+1F,13/02/08,Sousa,1-4,Vitória
+1F,13/02/08,Trem,0-0,Paraná
+1F,13/02/08,Barras,0-6,Corinthians
+1F,13/02/08,Fast Clube,3-1,Santa Cruz
+1F,13/02/08,Grêmio Jaciara,0-1,Grêmio
+1F,13/02/08,Ulbra-RO,1-1,Portuguesa
+1F,13/02/08,CENE,0-2,Palmeiras
+1F,14/02/08,Baraúnas,2-2,Criciúma
+1F,14/02/08,Águia Negra,3-4,Paranavaí
+1F,14/02/08,Maranhão,1-2,São Caetano
+1F,14/02/08,Tuna Luso,0-0,Coritiba
+1F,15/02/08,Atlético Roraima,1-7,Náutico
+1F,27/02/08,Vitória,ANU,Sousa
+1F,27/02/08,Corinthians,ANU,Barras
+1F,27/02/08,Palmeiras,ANU,CENE
+1F,27/02/08,Atlético Goianiense,3-2,Ituiutaba
+1F,27/02/08,Paraná,4-0,Trem
+1F,27/02/08,Santa Cruz,1-0,Fast Clube
+1F,27/02/08,Grêmio,6-0,Grêmio Jaciara
+1F,27/02/08,Portuguesa,3-1,Ulbra-RO
+1F,27/02/08,Palmas,0-7,Atlético Mineiro
+1F,27/02/08,Corinthians-AL,1-1,Atlético Paranaense
+1F,28/02/08,Volta Redonda,ANU,Roma Apucarana
+1F,28/02/08,Náutico,ANU,Atlético Roraima
+1F,28/02/08,São Caetano,ANU,Maranhão
+1F,28/02/08,Juventude,0-0(5-4 Pen.),Linhares FC
+1F,28/02/08,Coritiba,6-0,Tuna Luso
+1F,28/02/08,Coruripe,4-1,Juventus-SP
+1F,28/02/08,Botafogo-DF,1-3,Nacional-AM
+1F,28/02/08,Central,0-0,Remo
+1F,28/02/08,Nacional-PB,0-4,Internacional
+1F,28/02/08,Imperatriz,2-2,Sport
+1F,28/02/08,Icasa,3-2,Bahia
+1F,28/02/08,Cacerense,1-4,Goiás
+1F,28/02/08,Rio Branco-AC,1-3,Botafogo
+1F,28/02/08,Democrata-GV,3-2,Bragantino
+1F,28/02/08,América-SE,0-0,Fortaleza
+1F,28/02/08,Madureira,1-1,ABC
+1F,28/02/08,Ulbra,1-1,Brasiliense
+1F,28/02/08,Vasco,3-2,Itabaiana
+1F,28/02/08,Paranavaí,3-3,Águia Negra
+1F,28/02/08,Jaguaré,3-2,River-PI
+1F,05/03/08,Juventus-SP,5-1,Coruripe
+1F,06/03/08,Nacional-AM,ANU,Botafogo-DF
+1F,06/03/08,Internacional,ANU,Nacional-PB
+1F,06/03/08,Atlético Mineiro,ANU,Palmas
+1F,06/03/08,Goiás,ANU,Cacerense
+1F,06/03/08,Botafogo,ANU,Rio Branco-AC
+1F,06/03/08,Guarani,0-0,Chapecoense
+1F,06/03/08,Bahia,2-2,Icasa
+1F,06/03/08,Bragantino,2-1,Democrata-GV
+1F,06/03/08,Fortaleza,4-0,América-SE
+1F,06/03/08,Criciúma,2-0,Baraúnas
+1F,06/03/08,ABC,1-1(3-4 Pen.),Madureira
+1F,06/03/08,Brasiliense,1-0,Ulbra
+1F,06/03/08,River-PI,2-0,Jaguaré
+1F,07/03/08,Atlético Paranaense,1-1(3-4 Pen.),Corinthians-AL
+2F,20/03/08,Fortaleza,1-2,Corinthians
+2F,20/03/08,Paraná,1-0,Vitória
+2F,20/03/08,Chapecoense,0-2,Internacional
+2F,20/03/08,Volta Redonda,0-0,Portuguesa
+2F,20/03/08,Juventus-SP,2-0,Náutico
+2F,20/03/08,Fast Clube,1-3,Goiás
+2F,20/03/08,Nacional-AM,2-2,Atlético Mineiro
+2F,20/03/08,River-PI,2-1,Botafogo
+2F,21/03/08,Bragantino,2-2,Vasco
+2F,02/04/08,Madureira,0-3,Juventude
+2F,03/04/08,Internacional,ANU,Chapecoense
+2F,03/04/08,Portuguesa,2-0,Volta Redonda
+2F,03/04/08,Central,1-5,Palmeiras
+2F,03/04/08,Paranavaí,0-1,Corinthians-AL
+2F,03/04/08,São Caetano,1-0,Coritiba
+2F,03/04/08,Brasiliense,1-2,Sport
+2F,03/04/08,Atlético Goianiense,2-1,Grêmio
+2F,03/04/08,Vitória,2-1,Paraná
+2F,03/04/08,Icasa,1-6,Criciúma
+2F,04/04/08,Goiás,ANU,Fast Clube
+2F,04/04/08,Corinthians,2-0,Fortaleza
+2F,04/04/08,Náutico,3-0,Juventus-SP
+2F,04/04/08,Vasco,2-1,Bragantino
+2F,04/04/08,Botafogo,2-0,River-PI
+2F,09/04/08,Corinthians-AL,4-1,Paranavaí
+2F,10/04/08,Juventude,ANU,Madureira
+2F,10/04/08,Criciúma,ANU,Icasa
+2F,10/04/08,Palmeiras,ANU,Central
+2F,10/04/08,Coritiba,0-0,São Caetano
+2F,10/04/08,Sport,4-1,Brasiliense
+2F,10/04/08,Grêmio,2-1(3-4 Pen.),Atlético Goianiense
+2F,10/04/08,Atlético Mineiro,4-1,Nacional-AM
+3F,17/04/08,São Caetano,2-1,Atlético Goianiense
+3F,17/04/08,Portuguesa,1-1,Botafogo
+3F,17/04/08,Goiás,3-1,Corinthians
+3F,17/04/08,Paraná,2-0,Internacional
+3F,17/04/08,Vasco,1-0,Criciúma
+3F,23/04/08,Botafogo,2-1,Portuguesa
+3F,23/04/08,Corinthians-AL,2-0,Juventude
+3F,24/04/08,Criciúma,2-2,Vasco
+3F,24/04/08,Internacional,5-1,Paraná
+3F,24/04/08,Náutico,3-2,Atlético Mineiro
+3F,25/04/08,Palmeiras,0-0,Sport
+3F,01/05/08,Atlético Goianiense,1-2,São Caetano
+3F,01/05/08,Corinthians,4-0,Goiás
+3F,01/05/08,Juventude,3-1,Corinthians-AL
+3F,01/05/08,Sport,4-1,Palmeiras
+3F,01/05/08,Atlético Mineiro,1-0,Náutico
+QF,05/05/08,Corinthians,2-1,São Caetano
+QF,07/05/08,Vasco,5-1,Corinthians-AL
+QF,07/05/08,Internacional,1-0,Sport
+QF,08/05/08,Atlético Mineiro,0-0,Botafogo
+QF,13/05/08,São Caetano,1-3,Corinthians
+QF,14/05/08,Corinthians-AL,1-3,Vasco
+QF,14/05/08,Sport,3-1,Internacional
+QF,14/05/08,Botafogo,2-0,Atlético Mineiro
+SF,21/05/08,Botafogo,2-1,Corinthians
+SF,22/05/08,Sport,2-0,Vasco
+SF,29/05/08,Corinthians,2-1(5-4 Pen.),Botafogo
+SF,29/05/08,Vasco,2-0(4-5 Pen.),Sport
+F,04/06/08,Corinthians,3-1,Sport
+F,11/06/08,Sport,2-0,Corinthians

@@ -1,0 +1,137 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,01/07/67,América Mineiro,1-0,Villa Nova-MG
+C,02/07/67,Atlético Mineiro,1-0,Democrata-SL
+C,02/07/67,Nacional Uberaba,2-3,Uberlândia
+C,02/07/67,Valeriodoce,1-1,Formiga
+C,02/07/67,Araxá,4-1,Uberaba
+C,08/07/67,América Mineiro,4-0,Usipa
+C,08/07/67,Formiga,0-2,Villa Nova-MG
+C,08/07/67,Uberaba,2-2,Uberlândia
+C,08/07/67,Atlético Mineiro,4-3,Valeriodoce
+C,08/07/67,Araxá,2-0,Nacional Uberaba
+C,12/07/67,Cruzeiro,1-3,Usipa
+C,13/07/67,América Mineiro,3-0,Formiga
+C,15/07/67,Atlético Mineiro,3-0,Usipa
+C,15/07/67,Cruzeiro,6-2,Valeriodoce
+C,15/07/67,Villa Nova-MG,1-0,Democrata-SL
+C,15/07/67,Nacional Uberaba,1-0,Uberaba
+C,15/07/67,Uberlândia,1-1,Araxá
+C,19/07/67,Cruzeiro,5-0,Democrata-SL
+C,20/07/67,América Mineiro,0-1,Uberaba
+C,22/07/67,Villa Nova-MG,0-3,Uberlândia
+C,23/07/67,Atlético Mineiro,5-2,Nacional Uberaba
+C,23/07/67,Democrata-SL,2-1,Araxá
+C,23/07/67,Valeriodoce,1-1,Usipa
+C,23/07/67,Formiga,1-3,Cruzeiro
+C,29/07/67,Cruzeiro,3-1,Uberlândia
+C,30/07/67,Atlético Mineiro,3-1,Araxá
+C,30/07/67,Valeriodoce,1-3,América Mineiro
+C,30/07/67,Nacional Uberaba,0-0,Formiga
+C,30/07/67,Usipa,4-3,Villa Nova-MG
+C,30/07/67,Democrata-SL,1-0,Uberaba
+C,05/08/67,América Mineiro,3-0,Democrata-SL
+C,06/08/67,Atlético Mineiro,2-0,Villa Nova-MG
+C,06/08/67,Valeriodoce,2-0,Araxá
+C,06/08/67,Uberlândia,4-2,Formiga
+C,06/08/67,Usipa,2-1,Nacional Uberaba
+C,06/08/67,Uberaba,0-0,Cruzeiro
+C,09/08/67,Democrata-SL,2-1,Nacional Uberaba
+C,12/08/67,Cruzeiro,5-1,Villa Nova-MG
+C,13/08/67,América Mineiro,0-1,Atlético Mineiro
+C,13/08/67,Formiga,0-1,Araxá
+C,13/08/67,Uberaba,0-1,Usipa
+C,13/08/67,Uberlândia,2-2,Valeriodoce
+C,18/08/67,Atlético Mineiro,1-1,Formiga
+C,19/08/67,Cruzeiro,4-0,Araxá
+C,20/08/67,América Mineiro,4-2,Uberlândia
+C,20/08/67,Villa Nova-MG,1-0,Uberaba
+C,20/08/67,Usipa,1-0,Democrata-SL
+C,20/08/67,Nacional Uberaba,2-2,Valeriodoce
+C,24/08/67,Cruzeiro,0-0,Nacional Uberaba
+C,26/08/67,Atlético Mineiro,0-0,Uberaba
+C,27/08/67,Araxá,1-2,América Mineiro
+C,27/08/67,Valeriodoce,2-1,Villa Nova-MG
+C,27/08/67,Formiga,3-0,Usipa
+C,27/08/67,Uberlândia,5-1,Democrata-SL
+C,02/09/67,Atlético Mineiro,2-0,Uberlândia
+C,03/09/67,Cruzeiro,1-2,América Mineiro
+C,03/09/67,Valeriodoce,0-0,Uberaba
+C,03/09/67,Usipa,2-0,Araxá
+C,03/09/67,Democrata-SL,1-1,Formiga
+C,03/09/67,Nacional Uberaba,4-0,Villa Nova-MG
+C,07/09/67,América Mineiro,4-3,Nacional Uberaba
+C,09/09/67,Uberlândia,2-2,Usipa
+C,10/09/67,Cruzeiro,0-0,Atlético Mineiro
+C,10/09/67,Villa Nova-MG,2-1,Araxá
+C,10/09/67,Valeriodoce,2-0,Democrata-SL
+C,10/09/67,Uberaba,1-2,Formiga
+C,28/09/67,América Mineiro,1-3,Democrata-SL
+C,30/09/67,Atlético Mineiro,2-0,Formiga
+C,01/10/67,Cruzeiro,2-0,Uberlândia
+C,01/10/67,Uberaba,0-0,Nacional Uberaba
+C,01/10/67,Villa Nova-MG,2-0,Valeriodoce
+C,01/10/67,Araxá,3-0,Usipa
+C,05/10/67,Cruzeiro,4-0,Uberaba
+C,07/10/67,América Mineiro,1-1,Villa Nova-MG
+C,08/10/67,Democrata-SL,3-1,Valeriodoce
+C,08/10/67,Formiga,2-0,Uberlândia
+C,08/10/67,Araxá,3-0,Nacional Uberaba
+C,08/10/67,Atlético Mineiro,2-0,Usipa
+C,12/10/67,Cruzeiro,2-1,Villa Nova-MG
+C,14/10/67,América Mineiro,2-0,Usipa
+C,14/10/67,Atlético Mineiro,3-1,Araxá
+C,14/10/67,Democrata-SL,0-0,Uberlândia
+C,14/10/67,Uberaba,2-0,Valeriodoce
+C,14/10/67,Formiga,3-0,Nacional Uberaba
+C,19/10/67,América Mineiro,3-0,Araxá
+C,22/10/67,Atlético Mineiro,1-0,Democrata-SL
+C,22/10/67,Usipa,4-0,Uberlândia
+C,22/10/67,Villa Nova-MG,4-0,Nacional Uberaba
+C,22/10/67,Formiga,0-0,Uberaba
+C,22/10/67,Cruzeiro,4-2,Valeriodoce
+C,28/10/67,Atlético Mineiro,1-0,Nacional Uberaba
+C,29/10/67,Cruzeiro,4-0,Democrata-SL
+C,29/10/67,Uberaba,2-1,América Mineiro
+C,29/10/67,Valeriodoce,0-1,Uberlândia
+C,29/10/67,Villa Nova-MG,1-0,Usipa
+C,29/10/67,Araxá,2-1,Formiga
+C,04/11/67,Cruzeiro,7-1,Araxá
+C,05/11/67,Atlético Mineiro,5-0,Uberlândia
+C,05/11/67,Formiga,2-2,América Mineiro
+C,05/11/67,Valeriodoce,2-1,Nacional Uberaba
+C,05/11/67,Uberaba,2-1,Villa Nova-MG
+C,05/11/67,Democrata-SL,1-0,Usipa
+C,11/11/67,Atlético Mineiro,1-2,Valeriodoce
+C,12/11/67,Cruzeiro,0-0,América Mineiro
+C,12/11/67,Uberaba,0-1,Democrata-SL
+C,12/11/67,Uberlândia,0-2,Nacional Uberaba
+C,12/11/67,Araxá,1-0,Villa Nova-MG
+C,12/11/67,Usipa,2-2,Formiga
+C,18/11/67,Atlético Mineiro,0-2,Uberaba
+C,19/11/67,Cruzeiro,6-1,Usipa
+C,19/11/67,Uberlândia,3-3,América Mineiro
+C,19/11/67,Villa Nova-MG,2-2,Formiga
+C,19/11/67,Araxá,3-2,Valeriodoce
+C,19/11/67,Nacional Uberaba,1-0,Democrata-SL
+C,25/11/67,América Mineiro,0-1,Nacional Uberaba
+C,26/11/67,Cruzeiro,3-3,Atlético Mineiro
+C,26/11/67,Usipa,2-0,Uberaba
+C,26/11/67,Araxá,1-1,Uberlândia
+C,26/11/67,Formiga,4-1,Valeriodoce
+C,26/11/67,Democrata-SL,2-1,Villa Nova-MG
+C,02/12/67,América Mineiro,3-0,Valeriodoce
+C,03/12/67,Cruzeiro,2-0,Formiga
+C,03/12/67,Uberlândia,0-1,Uberaba
+C,03/12/67,Araxá,1-0,Democrata-SL
+C,03/12/67,Nacional Uberaba,2-1,Usipa
+C,07/12/67,Atlético Mineiro,1-1,Villa Nova-MG
+C,09/12/67,Cruzeiro,4-1,Nacional Uberaba
+C,10/12/67,Atlético Mineiro,4-0,América Mineiro
+C,10/12/67,Uberlândia,1-1,Villa Nova-MG
+C,10/12/67,Formiga,1-0,Democrata-SL
+C,10/12/67,Uberaba,2-0,Araxá
+C,10/12/67,Valeriodoce,1-0,Usipa
+F,14/01/68,Cruzeiro,3-1,Atlético Mineiro
+F,21/01/68,Atlético Mineiro,0-3,Cruzeiro
+POff,31/03/68,Nacional Uberaba,1-3,Independente-MG
+POff,02/04/68,Independente-MG,1-0,Nacional Uberaba

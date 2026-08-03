@@ -1,0 +1,77 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,29/08/71,Maranhão,0-2,Sampaio Corrêa
+C,29/08/71,River-PI,3-2,Flamengo-PI
+C,05/09/71,Flamengo-PI,2-2,Guarany de Sobral
+C,05/09/71,Sampaio Corrêa,2-1,River-PI
+C,08/09/71,Flamengo-PI,1-0,Sampaio Corrêa
+C,08/09/71,Maranhão,2-3,Guarany de Sobral
+A,12/09/71,Ferroviário,1-1,Ferroviário Recife
+B,12/09/71,CRB,6-1,Náutico
+C,12/09/71,Maranhão,0-1,Flamengo-PI
+C,12/09/71,River-PI,1-0,Guarany de Sobral
+A,19/09/71,ABC,ANU,Ferroviário Recife
+B,19/09/71,Itabaiana,3-0,CRB
+C,19/09/71,Guarany de Sobral,3-2,Sampaio Corrêa
+C,19/09/71,River-PI,1-0,Maranhão
+A,26/09/71,ABC,0-1,Ferroviário
+B,26/09/71,Náutico,0-1,Itabaiana
+C,26/09/71,Flamengo-PI,1-0,River-PI
+C,26/09/71,Sampaio Corrêa,5-0,Maranhão
+B,03/10/71,Itabaiana,2-2,Náutico
+C,03/10/71,Guarany de Sobral,0-1,Flamengo-PI
+C,03/10/71,Maranhão,0-1,River-PI
+A,06/10/71,Ferroviário,5-3,ABC
+C,06/10/71,Flamengo-PI,3-1,Maranhão
+C,06/10/71,Sampaio Corrêa,1-0,Guarany de Sobral
+A,10/10/71,Campinense,3-3,ABC
+B,10/10/71,CRB,3-1,Itabaiana
+C,10/10/71,Guarany de Sobral,0-0,Maranhão
+C,10/10/71,River-PI,2-3,Sampaio Corrêa
+B,16/10/71,Náutico,2-0,CRB
+C,16/10/71,Paysandu,0-1,Sport Belém
+D,16/10/71,Remo,0-0,Tuna Luso
+A,17/10/71,Campinense,2-1,Ferroviário
+C,17/10/71,Guarany de Sobral,0-3,River-PI
+C,17/10/71,Sampaio Corrêa,1-1,Flamengo-PI
+A,20/10/71,Ferroviário Recife,1-1,ABC
+A,20/10/71,Ferroviário,2-0,Campinense
+A,24/10/71,Campinense,2-0,Ferroviário Recife
+D,24/10/71,Paysandu,1-0,Remo
+D,24/10/71,Tuna Luso,3-0,Sport Belém
+E,24/10/71,Ponte Preta,4-0,Londrina
+A,27/10/71,Ferroviário Recife,ANU,Campinense
+A,27/10/71,ABC,2-0,Campinense
+A,27/10/71,Ferroviário Recife,1-2,Ferroviário
+D,27/10/71,Sport Belém,0-4,Remo
+D,27/10/71,Tuna Luso,1-1,Paysandu
+E,27/10/71,América-SC,0-0,Ponte Preta
+E,30/10/71,Londrina,1-1,América-SC
+D,31/10/71,Remo,1-0,Sport Belém
+D,03/11/71,Paysandu,0-0,Tuna Luso
+D,07/11/71,Sport Belém,0-1,Tuna Luso
+E,07/11/71,América-SC,2-1,Londrina
+4,07/11/71,Ferroviário,1-1,Itabaiana
+D,10/11/71,Sport Belém,1-1,Paysandu
+E,10/11/71,Ponte Preta,1-0,América-SC
+4,10/11/71,Flamengo-PI,2-0,Itabaiana
+D,14/11/71,Tuna Luso,0-0,Remo
+E,14/11/71,Londrina,1-1,Ponte Preta
+4,14/11/71,Flamengo-PI,0-0,Ferroviário
+D,17/11/71,Remo,2-0,Paysandu
+1,21/11/71,Mixto,0-2,Ponte Preta
+2,21/11/71,Central-RJ,2-2,Villa Nova-MG
+4,21/11/71,Itabaiana,5-1,Flamengo-PI
+4,24/11/71,Itabaiana,1-0,Ferroviário
+3,25/11/71,Remo,1-0,Rodoviária
+1,28/11/71,Ponte Preta,3-0,Mixto
+2,28/11/71,Villa Nova-MG,1-0,Central-RJ
+3,28/11/71,Rodoviária,2-4,Remo
+4,28/11/71,Ferroviário,2-1,Flamengo-PI
+SF,05/12/71,Ponte Preta,1-0,Villa Nova-MG
+SF,05/12/71,Itabaiana,0-2,Remo
+SF,08/12/71,Villa Nova-MG,1-0,Ponte Preta
+SF,08/12/71,Remo,2-0,Itabaiana
+SF,11/12/71,Villa Nova-MG,0-0(6-5 Pen.),Ponte Preta
+F,15/12/71,Remo,1-0,Villa Nova-MG
+F,19/12/71,Villa Nova-MG,3-0,Remo
+F,22/12/71,Villa Nova-MG,2-1,Remo

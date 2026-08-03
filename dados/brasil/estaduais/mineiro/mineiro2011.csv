@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,20/01/10,Cruzeiro,6-0,Uberlândia
+1,23/01/10,Tupi,1-0,Ipatinga
+1,24/01/10,Ituiutaba,0-3,Uberaba
+1,24/01/10,América Mineiro,1-1,Atlético Mineiro
+1,24/01/10,Caldense,0-0,Democrata-GV
+1,24/01/10,Villa Nova-MG,1-1,América T.O.
+2,30/01/10,Ipatinga,3-0,Cruzeiro
+2,31/01/10,América T.O.,0-0,Ituiutaba
+2,31/01/10,Uberlândia,1-3,América Mineiro
+2,31/01/10,Atlético Mineiro,3-2,Tupi
+2,31/01/10,Democrata-GV,1-0,Villa Nova-MG
+2,31/01/10,Uberaba,0-0,Caldense
+3,06/02/10,Tupi,5-1,Caldense
+3,06/02/10,Cruzeiro,4-2,Villa Nova-MG
+3,07/02/10,Ituiutaba,1-2,Democrata-GV
+3,07/02/10,Uberlândia,4-1,Uberaba
+3,07/02/10,América T.O.,0-0,América Mineiro
+3,07/02/10,Atlético Mineiro,1-1,Ipatinga
+4,11/02/10,Villa Nova-MG,1-0,Ituiutaba
+4,12/02/10,Ipatinga,2-1,Uberlândia
+4,12/02/10,América Mineiro,0-1,Tupi
+4,13/02/10,Democrata-GV,2-1,América T.O.
+4,13/02/10,Caldense,0-2,Cruzeiro
+4,13/02/10,Uberaba,2-2,Atlético Mineiro
+5,17/02/10,Uberlândia,2-3,Democrata-GV
+5,17/02/10,Villa Nova-MG,1-0,Tupi
+5,17/02/10,Ipatinga,3-2,América Mineiro
+6,20/02/10,Atlético Mineiro,1-3,Cruzeiro
+6,20/02/10,Tupi,3-0,Ituiutaba
+6,21/02/10,Caldense,1-1,Uberlândia
+6,21/02/10,Uberaba,3-2,América T.O.
+6,21/02/10,América Mineiro,1-2,Villa Nova-MG
+6,21/02/10,Democrata-GV,1-4,Ipatinga
+7,27/02/10,Ituiutaba,0-1,Cruzeiro
+7,27/02/10,Ipatinga,1-0,América T.O.
+7,28/02/10,Democrata-GV,4-2,Tupi
+7,28/02/10,Villa Nova-MG,0-0,Uberaba
+7,28/02/10,Uberlândia,2-5,Atlético Mineiro
+7,28/02/10,América Mineiro,4-0,Caldense
+5,03/03/10,Cruzeiro,5-0,Uberaba
+8,04/03/10,América Mineiro,3-1,Ituiutaba
+8,06/03/10,Atlético Mineiro,1-0,Democrata-GV
+8,06/03/10,Uberaba,2-0,Ipatinga
+8,07/03/10,América T.O.,2-0,Uberlândia
+8,07/03/10,Caldense,4-0,Villa Nova-MG
+8,07/03/10,Tupi,3-2,Cruzeiro
+9,13/03/10,Atlético Mineiro,4-0,Caldense
+9,13/03/10,Ituiutaba,0-4,Ipatinga
+9,14/03/10,América T.O.,0-1,Tupi
+9,14/03/10,Democrata-GV,5-0,Uberaba
+9,14/03/10,Uberlândia,0-1,Villa Nova-MG
+9,14/03/10,Cruzeiro,3-2,América Mineiro
+10,20/03/10,Cruzeiro,2-1,América T.O.
+10,20/03/10,Tupi,1-2,Uberaba
+10,21/03/10,Ituiutaba,1-1,Uberlândia
+10,21/03/10,Villa Nova-MG,1-3,Atlético Mineiro
+10,21/03/10,Ipatinga,2-2,Caldense
+10,22/03/10,América Mineiro,1-1,Democrata-GV
+5,24/03/10,América T.O.,2-2,Atlético Mineiro
+5,24/03/10,Ituiutaba,1-0,Caldense
+11,28/03/10,Atlético Mineiro,6-0,Ituiutaba
+11,28/03/10,Caldense,4-3,América T.O.
+11,28/03/10,Democrata-GV,3-1,Cruzeiro
+11,28/03/10,Ipatinga,1-1,Villa Nova-MG
+11,28/03/10,Tupi,2-1,Uberlândia
+11,28/03/10,Uberaba,1-2,América Mineiro
+QF,03/04/10,Ipatinga,2-1,Tupi
+QF,03/04/10,Cruzeiro,2-2,Uberaba
+QF,04/04/10,América Mineiro,3-3,Atlético Mineiro
+QF,04/04/10,Villa Nova-MG,2-4,Democrata-GV
+QF,07/04/10,Atlético Mineiro,2-2,América Mineiro
+QF,07/04/10,Uberaba,0-3,Cruzeiro
+QF,08/04/10,Democrata-GV,0-0,Villa Nova-MG
+QF,08/04/10,Tupi,1-1,Ipatinga
+SF,10/04/10,Democrata-GV,1-2,Atlético Mineiro
+SF,11/04/10,Ipatinga,0-0,Cruzeiro
+SF,17/04/10,Atlético Mineiro,0-0,Democrata-GV
+SF,18/04/10,Cruzeiro,1-3,Ipatinga
+F,25/04/10,Ipatinga,2-3,Atlético Mineiro
+F,02/05/10,Atlético Mineiro,2-0,Ipatinga

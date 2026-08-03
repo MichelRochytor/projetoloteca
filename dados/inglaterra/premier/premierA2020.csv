@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/09/20,Fulham,0-3,Arsenal
+1,12/09/20,Crystal Palace,1-0,Southampton
+1,12/09/20,Liverpool,4-3,Leeds United
+1,12/09/20,West Ham,0-2,Newcastle
+1,13/09/20,West Bromwich,0-3,Leicester City
+1,13/09/20,Tottenham,0-1,Everton
+1,14/09/20,Sheffield United,0-2,Wolverhampton
+1,14/09/20,Brighton & Hove Albion,1-3,Chelsea
+2,19/09/20,Everton,5-2,West Bromwich
+2,19/09/20,Leeds United,4-3,Fulham
+2,19/09/20,Manchester United,1-3,Crystal Palace
+2,19/09/20,Arsenal,2-1,West Ham
+2,20/09/20,Southampton,2-5,Tottenham
+2,20/09/20,Newcastle,0-3,Brighton & Hove Albion
+2,20/09/20,Chelsea,0-2,Liverpool
+2,20/09/20,Leicester City,4-2,Burnley
+2,21/09/20,Aston Villa,1-0,Sheffield United
+2,21/09/20,Wolverhampton,1-3,Manchester City
+3,26/09/20,Brighton & Hove Albion,2-3,Manchester United
+3,26/09/20,Crystal Palace,1-2,Everton
+3,26/09/20,West Bromwich,3-3,Chelsea
+3,26/09/20,Burnley,0-1,Southampton
+3,27/09/20,Sheffield United,0-1,Leeds United
+3,27/09/20,Tottenham,1-1,Newcastle
+3,27/09/20,Manchester City,2-5,Leicester City
+3,27/09/20,West Ham,4-0,Wolverhampton
+3,28/09/20,Fulham,0-3,Aston Villa
+3,28/09/20,Liverpool,3-1,Arsenal
+4,03/10/20,Chelsea,4-0,Crystal Palace
+4,03/10/20,Everton,4-2,Brighton & Hove Albion
+4,03/10/20,Leeds United,1-1,Manchester City
+4,03/10/20,Newcastle,3-1,Burnley
+4,04/10/20,Leicester City,0-3,West Ham
+4,04/10/20,Southampton,2-0,West Bromwich
+4,04/10/20,Arsenal,2-1,Sheffield United
+4,04/10/20,Wolverhampton,1-0,Fulham
+4,04/10/20,Manchester United,1-6,Tottenham
+4,04/10/20,Aston Villa,7-2,Liverpool
+5,17/10/20,Everton,2-2,Liverpool
+5,17/10/20,Chelsea,3-3,Southampton
+5,17/10/20,Manchester City,1-0,Arsenal
+5,17/10/20,Newcastle,1-4,Manchester United
+5,18/10/20,Sheffield United,1-1,Fulham
+5,18/10/20,Crystal Palace,1-1,Brighton & Hove Albion
+5,18/10/20,Tottenham,3-3,West Ham
+5,18/10/20,Leicester City,0-1,Aston Villa
+5,19/10/20,West Bromwich,0-0,Burnley
+5,19/10/20,Leeds United,0-1,Wolverhampton
+6,23/10/20,Aston Villa,0-3,Leeds United
+6,24/10/20,West Ham,1-1,Manchester City
+6,24/10/20,Fulham,1-2,Crystal Palace
+6,24/10/20,Manchester United,0-0,Chelsea
+6,24/10/20,Liverpool,2-1,Sheffield United
+6,25/10/20,Southampton,2-0,Everton
+6,25/10/20,Wolverhampton,1-1,Newcastle
+6,25/10/20,Arsenal,0-1,Leicester City
+6,26/10/20,Brighton & Hove Albion,1-1,West Bromwich
+6,26/10/20,Burnley,0-1,Tottenham
+7,30/10/20,Wolverhampton,2-0,Crystal Palace
+7,31/10/20,Sheffield United,0-1,Manchester City
+7,31/10/20,Burnley,0-3,Chelsea
+7,31/10/20,Liverpool,2-1,West Ham
+7,01/11/20,Aston Villa,3-4,Southampton
+7,01/11/20,Newcastle,2-1,Everton
+7,01/11/20,Manchester United,0-1,Arsenal
+7,01/11/20,Tottenham,2-1,Brighton & Hove Albion
+7,02/11/20,Fulham,2-0,West Bromwich
+7,02/11/20,Leeds United,1-4,Leicester City
+8,06/11/20,Brighton & Hove Albion,0-0,Burnley
+8,06/11/20,Southampton,2-0,Newcastle
+8,07/11/20,Everton,1-3,Manchester United
+8,07/11/20,Crystal Palace,4-1,Leeds United
+8,07/11/20,Chelsea,4-1,Sheffield United
+8,07/11/20,West Ham,1-0,Fulham
+8,08/11/20,West Bromwich,0-1,Tottenham
+8,08/11/20,Leicester City,1-0,Wolverhampton
+8,08/11/20,Manchester City,1-1,Liverpool
+8,08/11/20,Arsenal,0-3,Aston Villa
+9,21/11/20,Newcastle,0-2,Chelsea
+9,21/11/20,Aston Villa,1-2,Brighton & Hove Albion
+9,21/11/20,Tottenham,2-0,Manchester City
+9,21/11/20,Manchester United,1-0,West Bromwich
+9,22/11/20,Fulham,2-3,Everton
+9,22/11/20,Sheffield United,0-1,West Ham
+9,22/11/20,Leeds United,0-0,Arsenal
+9,22/11/20,Liverpool,3-0,Leicester City
+9,23/11/20,Burnley,1-0,Crystal Palace
+9,23/11/20,Wolverhampton,1-1,Southampton
+10,27/11/20,Crystal Palace,0-2,Newcastle
+10,28/11/20,Brighton & Hove Albion,1-1,Liverpool
+10,28/11/20,Manchester City,5-0,Burnley
+10,28/11/20,Everton,0-1,Leeds United
+10,28/11/20,West Bromwich,1-0,Sheffield United
+10,29/11/20,Southampton,2-3,Manchester United
+10,29/11/20,Chelsea,0-0,Tottenham
+10,29/11/20,Arsenal,1-2,Wolverhampton
+10,30/11/20,Leicester City,1-2,Fulham
+10,30/11/20,West Ham,2-1,Aston Villa
+11,05/12/20,Burnley,1-1,Everton
+11,05/12/20,Manchester City,2-0,Fulham
+11,05/12/20,West Ham,1-3,Manchester United
+11,05/12/20,Chelsea,3-1,Leeds United
+11,06/12/20,West Bromwich,1-5,Crystal Palace
+11,06/12/20,Sheffield United,1-2,Leicester City
+11,06/12/20,Tottenham,2-0,Arsenal
+11,06/12/20,Liverpool,4-0,Wolverhampton
+11,07/12/20,Brighton & Hove Albion,1-2,Southampton
+12,11/12/20,Leeds United,1-2,West Ham
+12,12/12/20,Wolverhampton,0-1,Aston Villa
+12,12/12/20,Newcastle,2-1,West Bromwich
+12,12/12/20,Manchester United,0-0,Manchester City
+12,12/12/20,Everton,1-0,Chelsea
+12,13/12/20,Southampton,3-0,Sheffield United
+12,13/12/20,Crystal Palace,1-1,Tottenham
+12,13/12/20,Fulham,1-1,Liverpool
+12,13/12/20,Arsenal,0-1,Burnley
+12,13/12/20,Leicester City,3-0,Brighton & Hove Albion
+13,15/12/20,Wolverhampton,2-1,Chelsea
+13,15/12/20,Manchester City,1-1,West Bromwich
+13,16/12/20,Arsenal,1-1,Southampton
+13,16/12/20,Leeds United,5-2,Newcastle
+13,16/12/20,Leicester City,0-2,Everton
+13,16/12/20,Fulham,0-0,Brighton & Hove Albion
+13,16/12/20,West Ham,1-1,Crystal Palace
+13,16/12/20,Liverpool,2-1,Tottenham
+13,17/12/20,Aston Villa,0-0,Burnley
+13,17/12/20,Sheffield United,2-3,Manchester United
+14,19/12/20,Crystal Palace,0-7,Liverpool
+14,19/12/20,Southampton,0-1,Manchester City
+14,19/12/20,Everton,2-1,Arsenal
+14,19/12/20,Newcastle,1-1,Fulham
+14,20/12/20,Brighton & Hove Albion,1-1,Sheffield United
+14,20/12/20,Tottenham,0-2,Leicester City
+14,20/12/20,Manchester United,6-2,Leeds United
+14,20/12/20,West Bromwich,0-3,Aston Villa
+14,21/12/20,Burnley,2-1,Wolverhampton
+14,21/12/20,Chelsea,3-0,West Ham
+15,26/12/20,Leicester City,2-2,Manchester United
+15,26/12/20,Aston Villa,3-0,Crystal Palace
+15,26/12/20,Fulham,0-0,Southampton
+15,26/12/20,Arsenal,3-1,Chelsea
+15,26/12/20,Manchester City,2-0,Newcastle
+15,26/12/20,Sheffield United,0-1,Everton
+15,27/12/20,Leeds United,1-0,Burnley
+15,27/12/20,West Ham,2-2,Brighton & Hove Albion
+15,27/12/20,Liverpool,1-1,West Bromwich
+15,27/12/20,Wolverhampton,1-1,Tottenham
+16,28/12/20,Crystal Palace,1-1,Leicester City
+16,28/12/20,Chelsea,1-1,Aston Villa
+16,29/12/20,Brighton & Hove Albion,0-1,Arsenal
+16,29/12/20,Burnley,1-0,Sheffield United
+16,29/12/20,Southampton,0-0,West Ham
+16,29/12/20,West Bromwich,0-5,Leeds United
+16,29/12/20,Manchester United,1-0,Wolverhampton
+16,30/12/20,Newcastle,0-0,Liverpool
+17,01/01/21,Everton,0-1,West Ham
+17,01/01/21,Manchester United,2-1,Aston Villa
+17,02/01/21,Tottenham,3-0,Leeds United
+17,02/01/21,Crystal Palace,2-0,Sheffield United
+17,02/01/21,Brighton & Hove Albion,3-3,Wolverhampton
+17,02/01/21,West Bromwich,0-4,Arsenal
+17,03/01/21,Newcastle,1-2,Leicester City
+17,03/01/21,Chelsea,1-3,Manchester City
+17,04/01/21,Southampton,1-0,Liverpool
+18,12/01/21,Sheffield United,1-0,Newcastle
+1,12/01/21,Burnley,0-1,Manchester United
+18,12/01/21,Wolverhampton,1-2,Everton
+18,13/01/21,Manchester City,1-0,Brighton & Hove Albion
+16,13/01/21,Tottenham,1-1,Fulham
+18,14/01/21,Arsenal,0-0,Crystal Palace
+19,16/01/21,Wolverhampton,2-3,West Bromwich
+19,16/01/21,Leeds United,0-1,Brighton & Hove Albion
+19,16/01/21,West Ham,1-0,Burnley
+19,16/01/21,Fulham,0-1,Chelsea
+19,16/01/21,Leicester City,2-0,Southampton
+19,17/01/21,Sheffield United,1-3,Tottenham
+19,17/01/21,Liverpool,0-0,Manchester United
+19,17/01/21,Manchester City,4-0,Crystal Palace
+19,18/01/21,Arsenal,3-0,Newcastle
+18,19/01/21,West Ham,2-1,West Bromwich
+18,19/01/21,Leicester City,2-0,Chelsea
+1,20/01/21,Manchester City,2-0,Aston Villa
+18,20/01/21,Fulham,1-2,Manchester United
+18,21/01/21,Liverpool,0-1,Burnley
+11,23/01/21,Aston Villa,2-0,Newcastle
+20,26/01/21,Newcastle,1-2,Leeds United
+20,26/01/21,Crystal Palace,2-3,West Ham
+20,26/01/21,West Bromwich,0-5,Manchester City
+20,26/01/21,Southampton,1-3,Arsenal
+20,27/01/21,Burnley,3-2,Aston Villa
+20,27/01/21,Chelsea,0-0,Wolverhampton
+20,27/01/21,Brighton & Hove Albion,0-0,Fulham
+20,27/01/21,Everton,1-1,Leicester City
+20,27/01/21,Manchester United,1-2,Sheffield United
+20,28/01/21,Tottenham,1-3,Liverpool
+21,30/01/21,Everton,0-2,Newcastle
+21,30/01/21,Crystal Palace,1-0,Wolverhampton
+21,30/01/21,Manchester City,1-0,Sheffield United
+21,30/01/21,West Bromwich,2-2,Fulham
+21,30/01/21,Arsenal,0-0,Manchester United
+21,30/01/21,Southampton,0-1,Aston Villa
+21,31/01/21,Chelsea,2-0,Burnley
+21,31/01/21,Leicester City,1-3,Leeds United
+21,31/01/21,West Ham,1-3,Liverpool
+21,31/01/21,Brighton & Hove Albion,1-0,Tottenham
+22,02/02/21,Sheffield United,2-1,West Bromwich
+22,02/02/21,Wolverhampton,2-1,Arsenal
+22,02/02/21,Manchester United,9-0,Southampton
+22,02/02/21,Newcastle,1-2,Crystal Palace
+22,03/02/21,Burnley,0-2,Manchester City
+22,03/02/21,Fulham,0-2,Leicester City
+22,03/02/21,Leeds United,1-2,Everton
+22,03/02/21,Aston Villa,1-3,West Ham
+22,03/02/21,Liverpool,0-1,Brighton & Hove Albion
+22,04/02/21,Tottenham,0-1,Chelsea
+23,06/02/21,Aston Villa,1-0,Arsenal
+23,06/02/21,Burnley,1-1,Brighton & Hove Albion
+23,06/02/21,Newcastle,3-2,Southampton
+23,06/02/21,Fulham,0-0,West Ham
+23,06/02/21,Manchester United,3-3,Everton
+23,07/02/21,Tottenham,2-0,West Bromwich
+23,07/02/21,Wolverhampton,0-0,Leicester City
+23,07/02/21,Liverpool,1-4,Manchester City
+23,07/02/21,Sheffield United,1-2,Chelsea
+23,08/02/21,Leeds United,2-0,Crystal Palace
+24,13/02/21,Leicester City,3-1,Liverpool
+24,13/02/21,Crystal Palace,0-3,Burnley
+24,13/02/21,Manchester City,3-0,Tottenham
+24,13/02/21,Brighton & Hove Albion,0-0,Aston Villa
+24,14/02/21,Southampton,1-2,Wolverhampton
+24,14/02/21,West Bromwich,1-1,Manchester United
+24,14/02/21,Arsenal,4-2,Leeds United
+24,14/02/21,Everton,0-2,Fulham
+24,15/02/21,West Ham,3-0,Sheffield United
+24,15/02/21,Chelsea,2-0,Newcastle
+17,17/02/21,Burnley,1-1,Fulham
+16,17/02/21,Everton,1-3,Manchester City
+25,19/02/21,Wolverhampton,1-0,Leeds United
+25,20/02/21,Southampton,1-1,Chelsea
+25,20/02/21,Burnley,0-0,West Bromwich
+25,20/02/21,Liverpool,0-2,Everton
+25,20/02/21,Fulham,1-0,Sheffield United
+25,21/02/21,West Ham,2-1,Tottenham
+25,21/02/21,Aston Villa,1-2,Leicester City
+25,21/02/21,Arsenal,0-1,Manchester City
+25,21/02/21,Manchester United,3-1,Newcastle
+25,22/02/21,Brighton & Hove Albion,1-2,Crystal Palace
+18,23/02/21,Leeds United,3-0,Southampton
+26,27/02/21,Manchester City,2-1,West Ham
+26,27/02/21,West Bromwich,1-0,Brighton & Hove Albion
+26,27/02/21,Leeds United,0-1,Aston Villa
+26,27/02/21,Newcastle,1-1,Wolverhampton
+26,28/02/21,Crystal Palace,0-0,Fulham
+26,28/02/21,Leicester City,1-3,Arsenal
+26,28/02/21,Tottenham,4-0,Burnley
+26,28/02/21,Chelsea,0-0,Manchester United
+26,28/02/21,Sheffield United,0-2,Liverpool
+26,01/03/21,Everton,1-0,Southampton
+29,02/03/21,Manchester City,4-1,Wolverhampton
+29,03/03/21,Burnley,1-1,Leicester City
+29,03/03/21,Sheffield United,1-0,Aston Villa
+29,03/03/21,Crystal Palace,0-0,Manchester United
+29,04/03/21,West Bromwich,0-1,Everton
+33,04/03/21,Fulham,0-1,Tottenham
+29,04/03/21,Liverpool,0-1,Chelsea
+27,06/03/21,Burnley,1-1,Arsenal
+27,06/03/21,Sheffield United,0-2,Southampton
+27,06/03/21,Aston Villa,0-0,Wolverhampton
+27,06/03/21,Brighton & Hove Albion,1-2,Leicester City
+27,07/03/21,West Bromwich,0-0,Newcastle
+27,07/03/21,Liverpool,0-1,Fulham
+27,07/03/21,Manchester City,0-2,Manchester United
+27,07/03/21,Tottenham,4-1,Crystal Palace
+27,08/03/21,Chelsea,2-0,Everton
+27,08/03/21,West Ham,2-0,Leeds United
+33,10/03/21,Manchester City,5-2,Southampton
+28,12/03/21,Newcastle,1-1,Aston Villa
+28,13/03/21,Leeds United,0-0,Chelsea
+28,13/03/21,Crystal Palace,1-0,West Bromwich
+28,13/03/21,Everton,1-2,Burnley
+28,13/03/21,Fulham,0-3,Manchester City
+28,14/03/21,Southampton,1-2,Brighton & Hove Albion
+28,14/03/21,Leicester City,5-0,Sheffield United
+28,14/03/21,Arsenal,2-1,Tottenham
+28,14/03/21,Manchester United,1-0,West Ham
+28,15/03/21,Wolverhampton,0-1,Liverpool
+29,19/03/21,Fulham,1-2,Leeds United
+29,20/03/21,Brighton & Hove Albion,3-0,Newcastle
+29,21/03/21,West Ham,3-3,Arsenal
+18,21/03/21,Aston Villa,0-2,Tottenham
+30,03/04/21,Chelsea,2-5,West Bromwich
+30,03/04/21,Leeds United,2-1,Sheffield United
+30,03/04/21,Leicester City,0-2,Manchester City
+30,03/04/21,Arsenal,0-3,Liverpool
+30,04/04/21,Southampton,3-2,Burnley
+30,04/04/21,Newcastle,2-2,Tottenham
+30,04/04/21,Aston Villa,3-1,Fulham
+30,04/04/21,Manchester United,2-1,Brighton & Hove Albion
+30,05/04/21,Everton,1-1,Crystal Palace
+30,05/04/21,Wolverhampton,2-3,West Ham

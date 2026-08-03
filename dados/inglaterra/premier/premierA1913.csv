@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/13,Aston Villa,1-1,Manchester City
+1,01/09/13,Blackburn Rovers,3-0,Newcastle
+1,01/09/13,Bolton Wanderers,0-1,The Wednesday
+1,01/09/13,Derby County,1-1,Liverpool
+1,01/09/13,Everton,1-1,Burnley
+1,01/09/13,Preston North End,2-2,Sunderland
+1,01/09/13,Sheffield United,1-4,Tottenham
+1,06/09/13,Chelsea,1-3,Tottenham
+1,06/09/13,West Bromwich,4-1,Burnley
+2,06/09/13,Blackburn Rovers,6-2,Liverpool
+2,06/09/13,Bolton Wanderers,6-2,Oldham Athletic
+2,06/09/13,Bradford City,0-0,Aston Villa
+2,06/09/13,Derby County,3-5,Sheffield United
+2,06/09/13,Everton,2-0,Preston North End
+2,06/09/13,Manchester City,1-1,Middlesbrough
+2,06/09/13,The Wednesday,1-3,Manchester United
+2,06/09/13,Sunderland,1-2,Newcastle
+2,08/09/13,Chelsea,1-1,West Bromwich
+3,08/09/13,Burnley,1-2,Blackburn Rovers
+3,08/09/13,Manchester United,3-1,Sunderland
+3,08/09/13,Tottenham,2-1,Sheffield United
+3,10/09/13,Derby County,2-2,Middlesbrough
+2,13/09/13,Middlesbrough,1-1,Bradford City
+3,13/09/13,Aston Villa,1-3,Blackburn Rovers
+3,13/09/13,Burnley,3-0,The Wednesday
+3,13/09/13,Manchester United,0-1,Bolton Wanderers
+3,13/09/13,Newcastle,0-1,Everton
+3,13/09/13,Oldham Athletic,3-2,Chelsea
+3,13/09/13,Preston North End,0-2,West Bromwich
+4,13/09/13,Liverpool,1-3,Sunderland
+4,13/09/13,Sheffield United,1-3,Manchester City
+4,13/09/13,Tottenham,1-1,Derby County
+4,17/09/13,Bradford City,0-0,Preston North End
+4,20/09/13,Bolton Wanderers,0-0,Burnley
+4,20/09/13,Chelsea,0-2,Manchester United
+4,20/09/13,Everton,1-2,Liverpool
+4,20/09/13,Sunderland,2-0,Aston Villa
+4,20/09/13,West Bromwich,1-1,Newcastle
+5,20/09/13,Blackburn Rovers,6-0,Middlesbrough
+5,20/09/13,Bradford City,2-1,Sheffield United
+5,20/09/13,Manchester City,1-2,Derby County
+5,20/09/13,Oldham Athletic,3-0,Tottenham
+5,20/09/13,The Wednesday,2-1,Preston North End
+5,22/09/13,The Wednesday,1-2,Oldham Athletic
+5,27/09/13,Aston Villa,3-1,Everton
+5,27/09/13,Burnley,6-1,Chelsea
+5,27/09/13,Liverpool,0-0,West Bromwich
+5,27/09/13,Manchester United,4-1,Oldham Athletic
+5,27/09/13,Preston North End,1-1,Bolton Wanderers
+5,27/09/13,Tottenham,3-1,Manchester City
+6,27/09/13,Derby County,3-1,Bradford City
+6,27/09/13,Middlesbrough,3-4,Sunderland
+6,27/09/13,Newcastle,3-1,The Wednesday
+6,27/09/13,Sheffield United,1-1,Blackburn Rovers
+6,04/10/13,Bolton Wanderers,3-1,Newcastle
+6,04/10/13,Bradford City,3-2,Manchester City
+6,04/10/13,Everton,2-0,Middlesbrough
+6,04/10/13,Manchester United,3-1,Tottenham
+6,04/10/13,West Bromwich,1-0,Aston Villa
+7,04/10/13,Blackburn Rovers,3-1,Derby County
+7,04/10/13,Chelsea,2-0,Preston North End
+7,04/10/13,Oldham Athletic,1-1,Burnley
+7,04/10/13,The Wednesday,4-1,Liverpool
+7,04/10/13,Sunderland,1-2,Sheffield United
+7,11/10/13,Aston Villa,2-0,The Wednesday
+7,11/10/13,Liverpool,2-1,Bolton Wanderers
+7,11/10/13,Middlesbrough,3-0,West Bromwich
+7,11/10/13,Newcastle,1-0,Chelsea
+7,11/10/13,Sheffield United,4-1,Everton
+7,11/10/13,Tottenham,0-0,Bradford City
+8,11/10/13,Burnley,1-2,Manchester United
+8,11/10/13,Derby County,1-1,Sunderland
+8,11/10/13,Manchester City,1-2,Blackburn Rovers
+8,11/10/13,Preston North End,0-1,Oldham Athletic
+8,18/10/13,Bolton Wanderers,3-0,Aston Villa
+8,18/10/13,Chelsea,3-0,Liverpool
+8,18/10/13,Oldham Athletic,3-0,Newcastle
+8,18/10/13,Sunderland,0-0,Manchester City
+9,18/10/13,Blackburn Rovers,0-0,Bradford City
+9,18/10/13,Burnley,3-1,Tottenham
+9,18/10/13,Everton,5-0,Derby County
+9,18/10/13,Manchester United,3-0,Preston North End
+9,18/10/13,The Wednesday,2-0,Middlesbrough
+9,18/10/13,West Bromwich,2-1,Sheffield United
+9,25/10/13,Aston Villa,1-2,Chelsea
+9,25/10/13,Bradford City,0-2,Sunderland
+9,25/10/13,Liverpool,0-3,Oldham Athletic
+9,25/10/13,Manchester City,1-1,Everton
+9,25/10/13,Middlesbrough,2-3,Bolton Wanderers
+9,25/10/13,Newcastle,0-1,Manchester United
+10,25/10/13,Derby County,1-2,West Bromwich
+10,25/10/13,Preston North End,2-1,Burnley
+10,25/10/13,Sheffield United,0-1,The Wednesday
+10,25/10/13,Tottenham,3-3,Blackburn Rovers
+10,01/11/13,Bolton Wanderers,3-1,Sheffield United
+10,01/11/13,Chelsea,3-2,Middlesbrough
+10,01/11/13,Everton,1-1,Bradford City
+10,01/11/13,Manchester United,3-0,Liverpool
+10,01/11/13,Oldham Athletic,0-1,Aston Villa
+10,01/11/13,West Bromwich,0-0,Manchester City
+11,01/11/13,Burnley,1-0,Newcastle
+11,01/11/13,Preston North End,1-2,Tottenham
+11,01/11/13,The Wednesday,1-3,Derby County
+11,01/11/13,Sunderland,2-1,Blackburn Rovers
+11,08/11/13,Aston Villa,3-1,Manchester United
+11,08/11/13,Bradford City,1-0,West Bromwich
+11,08/11/13,Derby County,3-3,Bolton Wanderers
+11,08/11/13,Manchester City,1-2,The Wednesday
+11,08/11/13,Middlesbrough,0-0,Oldham Athletic
+12,08/11/13,Blackburn Rovers,6-0,Everton
+12,08/11/13,Liverpool,1-1,Burnley
+12,08/11/13,Newcastle,2-0,Preston North End
+12,08/11/13,Sheffield United,3-2,Chelsea
+12,08/11/13,Tottenham,1-4,Sunderland
+12,15/11/13,Bolton Wanderers,3-0,Manchester City
+12,15/11/13,Burnley,4-0,Aston Villa
+12,15/11/13,Everton,1-5,Sunderland
+12,15/11/13,Manchester United,0-1,Middlesbrough
+12,15/11/13,The Wednesday,1-3,Bradford City
+13,15/11/13,Chelsea,2-1,Derby County
+13,15/11/13,Newcastle,2-0,Tottenham
+13,15/11/13,Oldham Athletic,1-2,Sheffield United
+13,15/11/13,Preston North End,0-1,Liverpool
+13,15/11/13,West Bromwich,2-0,Blackburn Rovers
+13,22/11/13,Aston Villa,3-0,Preston North End
+13,22/11/13,Bradford City,5-1,Bolton Wanderers
+13,22/11/13,Liverpool,0-0,Newcastle
+13,22/11/13,Manchester City,2-1,Chelsea
+13,22/11/13,Tottenham,4-1,Everton
+14,22/11/13,Blackburn Rovers,3-2,The Wednesday
+14,22/11/13,Derby County,1-2,Oldham Athletic
+14,22/11/13,Middlesbrough,2-1,Burnley
+14,22/11/13,Sheffield United,2-0,Manchester United
+14,22/11/13,Sunderland,0-0,West Bromwich
+14,29/11/13,Chelsea,2-1,Bradford City
+14,29/11/13,Newcastle,2-2,Aston Villa
+14,29/11/13,Oldham Athletic,1-3,Manchester City
+14,29/11/13,West Bromwich,1-1,Everton
+15,29/11/13,Bolton Wanderers,1-0,Blackburn Rovers
+15,29/11/13,Burnley,0-0,Sheffield United
+15,29/11/13,Liverpool,2-1,Tottenham
+15,29/11/13,Manchester United,3-3,Derby County
+15,29/11/13,Preston North End,4-1,Middlesbrough
+15,29/11/13,The Wednesday,2-1,Sunderland
+15,06/12/13,Aston Villa,2-1,Liverpool
+15,06/12/13,Bradford City,0-1,Oldham Athletic
+15,06/12/13,Everton,1-1,The Wednesday
+15,06/12/13,Manchester City,0-2,Manchester United
+15,06/12/13,Middlesbrough,3-0,Newcastle
+15,06/12/13,Sunderland,3-2,Bolton Wanderers
+15,06/12/13,Tottenham,3-0,West Bromwich
+16,06/12/13,Blackburn Rovers,3-1,Chelsea
+16,06/12/13,Derby County,3-1,Burnley
+16,06/12/13,Sheffield United,2-0,Preston North End
+16,13/12/13,Aston Villa,3-3,Tottenham
+16,13/12/13,Bolton Wanderers,0-0,Everton
+16,13/12/13,Burnley,2-0,Manchester City
+16,13/12/13,Chelsea,1-1,Sunderland
+16,13/12/13,Liverpool,2-1,Middlesbrough
+16,13/12/13,Manchester United,1-1,Bradford City
+17,13/12/13,Newcastle,2-1,Sheffield United
+17,13/12/13,Oldham Athletic,1-1,Blackburn Rovers
+17,13/12/13,Preston North End,2-0,Derby County
+17,13/12/13,The Wednesday,1-4,West Bromwich
+17,20/12/13,Bradford City,1-1,Burnley
+17,20/12/13,Everton,0-0,Chelsea
+17,20/12/13,Middlesbrough,5-2,Aston Villa
+17,20/12/13,West Bromwich,1-1,Bolton Wanderers
+18,20/12/13,Blackburn Rovers,0-1,Manchester United
+18,20/12/13,Derby County,2-0,Newcastle
+18,20/12/13,Manchester City,1-1,Preston North End
+18,20/12/13,Sheffield United,0-1,Liverpool
+18,20/12/13,Sunderland,2-0,Oldham Athletic
+18,20/12/13,Tottenham,1-1,The Wednesday
+18,25/12/13,Chelsea,2-1,The Wednesday
+18,25/12/13,Derby County,0-2,Aston Villa
+18,25/12/13,Liverpool,4-2,Manchester City
+18,25/12/13,Manchester United,0-1,Everton
+18,25/12/13,Newcastle,0-0,Bradford City
+18,25/12/13,Oldham Athletic,2-0,West Bromwich
+19,25/12/13,Blackburn Rovers,5-0,Preston North End
+19,25/12/13,Burnley,0-1,Sunderland
+19,25/12/13,Sheffield United,3-1,Middlesbrough
+19,26/12/13,Aston Villa,3-0,Sheffield United
+19,26/12/13,Bradford City,2-0,Newcastle
+19,26/12/13,Everton,5-0,Manchester United
+19,26/12/13,Manchester City,1-0,Liverpool
+19,26/12/13,The Wednesday,3-0,Chelsea
+19,26/12/13,Tottenham,0-1,Middlesbrough
+19,26/12/13,West Bromwich,2-2,Oldham Athletic
+20,26/12/13,Preston North End,1-5,Blackburn Rovers
+20,26/12/13,Sunderland,1-1,Burnley
+18,27/12/13,Oldham Athletic,2-0,Bolton Wanderers
+20,27/12/13,Aston Villa,0-1,Bradford City
+20,27/12/13,Burnley,0-0,West Bromwich
+20,27/12/13,Middlesbrough,2-0,Manchester City
+20,27/12/13,Preston North End,1-0,Everton
+20,27/12/13,Sheffield United,2-2,Derby County
+20,27/12/13,Tottenham,1-2,Chelsea
+21,27/12/13,Liverpool,3-3,Blackburn Rovers
+21,27/12/13,Manchester United,2-1,The Wednesday
+21,27/12/13,Newcastle,2-1,Sunderland
+19,29/12/13,The Wednesday,1-1,Bolton Wanderers
+20,01/01/14,Bolton Wanderers,3-0,Tottenham
+21,01/01/14,Liverpool,0-1,Bradford City
+21,01/01/14,Manchester United,1-0,West Bromwich
+21,01/01/14,Middlesbrough,3-2,Derby County
+21,01/01/14,Newcastle,0-1,Manchester City
+21,01/01/14,Oldham Athletic,2-0,Everton
+21,01/01/14,Sheffield United,3-0,Aston Villa
+22,01/01/14,Blackburn Rovers,0-0,Burnley
+22,01/01/14,Sunderland,3-1,Preston North End
+21,03/01/14,Bolton Wanderers,6-1,Manchester United
+21,03/01/14,Chelsea,2-1,Oldham Athletic
+22,03/01/14,Blackburn Rovers,0-0,Aston Villa
+22,03/01/14,Bradford City,2-3,Middlesbrough
+22,03/01/14,Derby County,4-0,Tottenham
+22,03/01/14,Everton,2-0,Newcastle
+23,03/01/14,Manchester City,2-1,Sheffield United
+23,03/01/14,The Wednesday,2-6,Burnley
+23,03/01/14,Sunderland,1-2,Liverpool
+23,03/01/14,West Bromwich,1-0,Preston North End
+22,17/01/14,Burnley,2-2,Bolton Wanderers
+22,17/01/14,Manchester United,0-1,Chelsea
+23,17/01/14,Aston Villa,5-0,Sunderland
+23,17/01/14,Derby County,2-4,Manchester City
+23,17/01/14,Liverpool,1-2,Everton
+23,17/01/14,Newcastle,3-3,West Bromwich
+23,17/01/14,Tottenham,3-1,Oldham Athletic
+24,17/01/14,Middlesbrough,3-0,Blackburn Rovers
+24,17/01/14,Preston North End,5-0,The Wednesday
+24,17/01/14,Sheffield United,1-1,Bradford City
+23,24/01/14,Bolton Wanderers,0-3,Preston North End
+23,24/01/14,Chelsea,0-0,Burnley
+24,24/01/14,Bradford City,0-0,Derby County
+24,24/01/14,Everton,1-4,Aston Villa
+24,24/01/14,Manchester City,2-1,Tottenham
+24,24/01/14,Oldham Athletic,2-2,Manchester United
+24,24/01/14,West Bromwich,0-1,Liverpool
+25,24/01/14,Blackburn Rovers,3-2,Sheffield United
+25,24/01/14,The Wednesday,0-0,Newcastle
+25,24/01/14,Sunderland,4-2,Middlesbrough
+24,07/02/14,Newcastle,4-3,Bolton Wanderers
+25,07/02/14,Aston Villa,2-0,West Bromwich
+25,07/02/14,Manchester City,1-0,Bradford City
+25,07/02/14,Middlesbrough,2-0,Everton
+25,07/02/14,Tottenham,2-1,Manchester United
+26,07/02/14,Burnley,2-0,Oldham Athletic
+26,07/02/14,Derby County,2-3,Blackburn Rovers
+26,07/02/14,Liverpool,1-2,The Wednesday
+26,07/02/14,Preston North End,3-3,Chelsea
+26,07/02/14,Sheffield United,1-0,Sunderland
+25,10/02/14,Bolton Wanderers,1-1,Chelsea
+26,14/02/14,Bolton Wanderers,2-1,Liverpool
+26,14/02/14,Bradford City,2-1,Tottenham
+26,14/02/14,Chelsea,0-1,Newcastle
+26,14/02/14,Everton,5-0,Sheffield United
+26,14/02/14,The Wednesday,2-3,Aston Villa
+26,14/02/14,Sunderland,1-0,Derby County
+26,14/02/14,West Bromwich,2-1,Middlesbrough
+27,14/02/14,Blackburn Rovers,2-1,Manchester City
+27,14/02/14,Manchester United,0-1,Burnley
+27,14/02/14,Oldham Athletic,1-0,Preston North End
+27,21/02/14,Derby County,1-0,Everton
+27,21/02/14,Middlesbrough,3-1,Manchester United
+27,21/02/14,Newcastle,0-0,Oldham Athletic
+28,23/02/14,Tottenham,2-0,Burnley
+27,25/02/14,Aston Villa,1-0,Bolton Wanderers
+28,25/02/14,Bradford City,0-2,Blackburn Rovers
+27,28/02/14,Oldham Athletic,2-2,Liverpool
+28,28/02/14,Bolton Wanderers,1-1,Middlesbrough
+28,28/02/14,Burnley,3-4,Preston North End
+28,28/02/14,Chelsea,0-3,Aston Villa
+28,28/02/14,Everton,1-0,Manchester City
+28,28/02/14,Manchester United,2-2,Newcastle
+28,28/02/14,The Wednesday,2-1,Sheffield United
+28,28/02/14,Sunderland,0-1,Bradford City
+28,28/02/14,West Bromwich,2-1,Derby County
+29,28/02/14,Blackburn Rovers,1-1,Tottenham
+29,05/03/14,Preston North End,4-2,Manchester United
+28,07/03/14,Middlesbrough,2-0,Chelsea
+29,07/03/14,Bolton Wanderers,1-0,West Bromwich
+29,07/03/14,Bradford City,0-1,Everton
+30,07/03/14,Tottenham,1-0,Preston North End
+29,11/03/14,Derby County,1-1,The Wednesday
+28,14/03/14,The Wednesday,2-2,Manchester City
+29,14/03/14,Chelsea,2-0,Sheffield United
+29,14/03/14,Manchester United,0-6,Aston Villa
+29,14/03/14,Sunderland,2-0,Tottenham
+30,14/03/14,Bolton Wanderers,3-1,Derby County
+30,14/03/14,Burnley,5-2,Liverpool
+30,14/03/14,Everton,0-0,Blackburn Rovers
+30,14/03/14,Oldham Athletic,3-0,Middlesbrough
+30,14/03/14,West Bromwich,2-1,Bradford City
+31,14/03/14,Preston North End,4-1,Newcastle
+29,18/03/14,Manchester City,3-1,Sunderland
+30,18/03/14,Aston Villa,0-0,Oldham Athletic
+30,18/03/14,Liverpool,3-0,Chelsea
+31,18/03/14,Middlesbrough,5-2,The Wednesday
+31,18/03/14,Newcastle,3-1,Burnley

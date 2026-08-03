@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,25/02/81,São José,4-1,Juventus-SP
+A,25/02/81,Taubaté,1-2,XV de Jaú
+A,25/02/81,Marília,3-3,São Bento
+B,25/02/81,Botafogo-SP,0-3,Ferroviária
+B,25/02/81,América-SP,1-1,Francana
+B,25/02/81,Noroeste,0-1,Comercial
+A,01/03/81,Taubaté,1-3,São Bento
+A,01/03/81,Marília,0-1,Juventus-SP
+A,01/03/81,São José,3-0,XV de Jaú
+B,01/03/81,Francana,1-2,Comercial
+B,01/03/81,Botafogo-SP,1-1,América-SP
+B,01/03/81,Noroeste,0-1,Ferroviária
+B,05/03/81,Noroeste,1-2,Botafogo-SP
+A,05/03/81,Taubaté,3-4,Marília
+A,05/03/81,Juventus-SP,2-2,XV de Jaú
+B,05/03/81,Ferroviária,4-2,Francana
+B,05/03/81,Comercial,0-1,América-SP
+A,05/03/81,São José,0-1,São Bento
+B,08/03/81,Comercial,2-2,Botafogo-SP
+A,08/03/81,Taubaté,5-2,Juventus-SP
+A,08/03/81,XV de Jaú,2-4,São Bento
+B,08/03/81,América-SP,0-0,Ferroviária
+B,08/03/81,Francana,3-0,Noroeste
+A,08/03/81,Marília,2-1,São José
+A,11/03/81,São José,0-0,Taubaté
+B,11/03/81,Francana,0-0,Botafogo-SP
+B,11/03/81,Comercial,4-1,Ferroviária
+A,11/03/81,XV de Jaú,1-1,Marília
+B,11/03/81,Noroeste,3-2,América-SP
+A,11/03/81,São Bento,2-1,Juventus-SP
+B,15/03/81,Comercial,4-1,Noroeste
+A,15/03/81,São Bento,0-2,Marília
+B,15/03/81,Francana,0-1,América-SP
+A,15/03/81,Juventus-SP,2-2,São José
+B,15/03/81,Ferroviária,2-1,Botafogo-SP
+A,15/03/81,XV de Jaú,4-1,Taubaté
+B,18/03/81,Botafogo-SP,0-0,Francana
+B,18/03/81,Ferroviária,0-1,Comercial
+A,18/03/81,Taubaté,0-1,São Bento
+B,18/03/81,América-SP,2-0,Noroeste
+A,18/03/81,São José,1-1,XV de Jaú
+A,18/03/81,Marília,1-3,Juventus-SP
+B,21/03/81,América-SP,1-0,Botafogo-SP
+B,21/03/81,Noroeste,2-1,Ferroviária
+B,21/03/81,Comercial,2-0,Francana
+A,21/03/81,XV de Jaú,1-0,Juventus-SP
+A,21/03/81,São Bento,3-2,São José
+A,21/03/81,Marília,2-2,Taubaté
+B,25/03/81,Botafogo-SP,4-1,Noroeste
+B,25/03/81,Francana,2-0,Ferroviária
+B,25/03/81,América-SP,1-1,Comercial
+A,25/03/81,Juventus-SP,1-1,Taubaté
+A,25/03/81,São Bento,2-1,XV de Jaú
+A,25/03/81,São José,1-2,Marília
+B,28/03/81,Botafogo-SP,1-0,Comercial
+A,28/03/81,Juventus-SP,3-1,São Bento
+B,28/03/81,Noroeste,1-1,Francana
+B,28/03/81,Ferroviária,3-0,América-SP
+A,28/03/81,Taubaté,0-1,São José
+A,28/03/81,Marília,2-1,XV de Jaú
+1T,05/04/81,Marília,1-0,Comercial
+1T,05/04/81,América-SP,1-0,São Bento
+1T,12/04/81,Comercial,2-0,Marília
+1T,12/04/81,São Bento,1-1,América-SP
+1T,25/04/81,Santos,2-3,Inter de Limeira
+1T,25/04/81,XV de Jaú,2-0,Noroeste
+1T,25/04/81,Marília,3-1,Taubaté
+1T,25/04/81,São José,1-1,Portuguesa
+1T,25/04/81,Guarani,3-1,Ferroviária
+1T,25/04/81,Juventus-SP,0-1,Botafogo-SP
+1T,25/04/81,Comercial,1-1,América-SP
+1T,26/04/81,São Bento,0-1,Palmeiras
+1T,28/04/81,Comercial,1-0,Ferroviária
+1T,29/04/81,Noroeste,1-0,Juventus-SP
+1T,29/04/81,América-SP,0-0,Francana
+1T,29/04/81,Taubaté,1-1,São Bento
+1T,29/04/81,Inter de Limeira,1-2,Guarani
+1T,29/04/81,Corinthians,1-1,São José
+1T,29/04/81,Santos,2-0,Portuguesa
+1T,29/04/81,Palmeiras,1-1,XV de Jaú
+1T,29/04/81,Botafogo-SP,1-0,Marília
+1T,02/05/81,Botafogo-SP,3-0,Palmeiras
+1T,02/05/81,Noroeste,1-1,São José
+1T,02/05/81,Francana,3-1,Comercial
+1T,02/05/81,Taubaté,1-1,Corinthians
+1T,02/05/81,Juventus-SP,2-0,Inter de Limeira
+1T,02/05/81,Santos,1-1,Guarani
+1T,02/05/81,Ferroviária,0-0,XV de Jaú
+1T,03/05/81,América-SP,0-0,Marília
+1T,03/05/81,Portuguesa,1-0,São Bento
+1T,06/05/81,São Bento,0-3,XV de Jaú
+1T,06/05/81,Botafogo-SP,1-0,São Paulo
+1T,06/05/81,Taubaté,1-0,Ferroviária
+1T,06/05/81,Guarani,1-1,São José
+1T,06/05/81,Ponte Preta,1-1,Juventus-SP
+1T,06/05/81,Marília,1-2,Santos
+1T,06/05/81,Palmeiras,1-1,Comercial
+1T,06/05/81,Corinthians,2-2,Francana
+1T,06/05/81,Inter de Limeira,1-0,América-SP
+1T,09/05/81,Juventus-SP,0-0,América-SP
+1T,09/05/81,São Paulo,0-0,Portuguesa
+1T,09/05/81,São José,1-0,Francana
+1T,10/05/81,Santos,2-0,Noroeste
+1T,10/05/81,Inter de Limeira,1-0,Ferroviária
+1T,10/05/81,XV de Jaú,2-2,Taubaté
+1T,10/05/81,Guarani,2-0,Botafogo-SP
+1T,10/05/81,Comercial,0-0,Corinthians
+1T,10/05/81,Palmeiras,4-0,Marília
+1T,10/05/81,São Bento,2-2,Ponte Preta
+1T,12/05/81,Francana,0-3,São Paulo
+1T,13/05/81,Portuguesa,4-2,Botafogo-SP
+1T,13/05/81,América-SP,1-1,Ponte Preta
+1T,13/05/81,Marília,1-2,São Bento
+1T,13/05/81,Palmeiras,2-2,Inter de Limeira
+1T,13/05/81,Corinthians,2-1,Juventus-SP
+1T,13/05/81,São José,2-0,XV de Jaú
+1T,14/05/81,Santos,1-0,Taubaté
+1T,14/05/81,São Paulo,0-0,Noroeste
+1T,16/05/81,Corinthians,2-2,Inter de Limeira
+1T,16/05/81,Ferroviária,0-1,Juventus-SP
+1T,17/05/81,Ponte Preta,1-0,Santos
+1T,17/05/81,XV de Jaú,0-1,América-SP
+1T,17/05/81,Noroeste,0-0,Comercial
+1T,17/05/81,Botafogo-SP,1-0,São José
+1T,17/05/81,Francana,1-1,Guarani
+1T,17/05/81,Portuguesa,0-0,Marília
+1T,17/05/81,Palmeiras,3-0,São Paulo
+1T,20/05/81,São Bento,1-0,Noroeste
+1T,20/05/81,Marília,2-0,Francana
+1T,20/05/81,Comercial,2-2,Taubaté
+1T,20/05/81,Ponte Preta,1-0,XV de Jaú
+1T,20/05/81,Ferroviária,0-0,Palmeiras
+1T,20/05/81,Inter de Limeira,3-1,São José
+1T,21/05/81,Portuguesa,1-0,Corinthians
+1T,21/05/81,Santos,1-0,América-SP
+1T,24/05/81,Taubaté,1-2,Guarani
+1T,24/05/81,Portuguesa,1-1,Ferroviária
+1T,24/05/81,São José,1-0,Marília
+1T,24/05/81,América-SP,0-0,Palmeiras
+1T,24/05/81,São Bento,1-1,Botafogo-SP
+1T,24/05/81,XV de Jaú,0-0,Juventus-SP
+1T,24/05/81,Corinthians,1-1,Ponte Preta
+1T,24/05/81,Comercial,2-1,Santos
+1T,24/05/81,Noroeste,0-1,Francana
+1T,27/05/81,XV de Jaú,1-0,Francana
+1T,27/05/81,Santos,2-0,Botafogo-SP
+1T,27/05/81,Taubaté,2-2,Palmeiras
+1T,27/05/81,América-SP,2-0,Noroeste
+1T,27/05/81,Comercial,0-0,Juventus-SP
+1T,27/05/81,Ponte Preta,1-0,Inter de Limeira
+1T,27/05/81,Corinthians,4-1,Marília
+1T,27/05/81,Ferroviária,2-2,São José
+1T,28/05/81,Guarani,3-1,São Bento
+1T,30/05/81,Portuguesa,1-1,Palmeiras
+1T,30/05/81,Francana,3-1,Ferroviária
+1T,30/05/81,Ponte Preta,4-1,São José
+1T,31/05/81,São Bento,1-1,América-SP
+1T,31/05/81,Marília,1-2,Comercial
+1T,31/05/81,Botafogo-SP,0-0,Inter de Limeira
+1T,31/05/81,Noroeste,1-3,Taubaté
+1T,31/05/81,Corinthians,2-0,Santos
+1T,31/05/81,Guarani,2-5,XV de Jaú
+1T,02/06/81,Ferroviária,1-2,Ponte Preta
+1T,03/06/81,Taubaté,3-0,América-SP
+1T,03/06/81,Botafogo-SP,1-0,Noroeste
+1T,03/06/81,São José,2-0,Comercial
+1T,03/06/81,Santos,4-0,São Bento
+1T,03/06/81,Inter de Limeira,2-0,Portuguesa
+1T,03/06/81,Corinthians,2-0,XV de Jaú
+1T,03/06/81,Palmeiras,2-2,Juventus-SP
+1T,04/06/81,Ponte Preta,0-0,Marília
+1T,07/06/81,Ferroviária,0-0,Botafogo-SP
+1T,07/06/81,XV de Jaú,1-1,Santos
+1T,07/06/81,Palmeiras,0-1,Ponte Preta
+1T,07/06/81,Guarani,2-1,Corinthians
+1T,07/06/81,Comercial,2-3,Portuguesa
+1T,07/06/81,São José,0-0,São Paulo
+1T,07/06/81,Francana,2-1,Taubaté
+1T,07/06/81,Inter de Limeira,3-0,São Bento
+1T,07/06/81,Marília,1-0,Noroeste
+1T,09/06/81,Juventus-SP,0-0,São Paulo
+1T,10/06/81,Francana,2-2,Santos
+1T,10/06/81,Corinthians,2-0,Botafogo-SP
+1T,10/06/81,Portuguesa,0-1,Ponte Preta
+1T,10/06/81,Comercial,1-0,São Bento
+1T,10/06/81,Noroeste,2-2,Guarani
+1T,10/06/81,Marília,1-2,Inter de Limeira
+1T,11/06/81,São Paulo,1-2,Ferroviária
+1T,13/06/81,Inter de Limeira,4-0,Comercial
+1T,14/06/81,Taubaté,1-0,Juventus-SP
+1T,14/06/81,Botafogo-SP,0-1,XV de Jaú
+1T,14/06/81,Marília,2-2,Guarani
+1T,14/06/81,Ponte Preta,5-1,Francana
+1T,14/06/81,Ferroviária,1-3,Corinthians
+1T,14/06/81,Noroeste,0-0,Palmeiras
+1T,14/06/81,São Paulo,3-0,Santos
+1T,14/06/81,América-SP,0-0,Portuguesa
+1T,14/06/81,São Bento,0-0,São José
+1T,16/06/81,São Paulo,0-1,Comercial
+1T,17/06/81,Santos,4-1,Ferroviária
+1T,17/06/81,Botafogo-SP,2-1,Ponte Preta
+1T,17/06/81,Guarani,5-0,América-SP
+1T,18/06/81,São José,2-0,Palmeiras
+1T,18/06/81,XV de Jaú,1-1,São Paulo
+1T,18/06/81,Juventus-SP,0-1,Portuguesa
+1T,18/06/81,Noroeste,1-0,Corinthians
+1T,18/06/81,Inter de Limeira,3-1,Taubaté
+1T,18/06/81,Francana,0-0,São Bento
+1T,20/06/81,América-SP,1-0,Botafogo-SP
+1T,21/06/81,Francana,1-2,Inter de Limeira
+1T,21/06/81,Juventus-SP,1-1,São Bento
+1T,21/06/81,XV de Jaú,0-2,Marília
+1T,21/06/81,Portuguesa,1-0,Taubaté
+1T,21/06/81,Ferroviária,2-2,Noroeste
+1T,21/06/81,Palmeiras,2-1,Corinthians
+1T,21/06/81,Comercial,0-5,Guarani
+1T,21/06/81,Ponte Preta,2-1,São Paulo
+1T,23/06/81,São Paulo,0-1,América-SP
+1T,24/06/81,Palmeiras,2-2,Francana
+1T,24/06/81,Taubaté,0-0,Botafogo-SP
+1T,24/06/81,Guarani,2-1,Portuguesa
+1T,24/06/81,Noroeste,0-2,Ponte Preta
+1T,24/06/81,Juventus-SP,1-1,São José
+1T,25/06/81,Inter de Limeira,0-3,São Paulo
+1T,27/06/81,Portuguesa,1-0,Noroeste
+1T,27/06/81,Taubaté,1-2,Ponte Preta
+1T,28/06/81,São Paulo,2-1,Corinthians
+1T,28/06/81,Guarani,1-1,Palmeiras
+1T,28/06/81,América-SP,3-0,São José
+1T,28/06/81,Botafogo-SP,2-1,Francana
+1T,28/06/81,XV de Jaú,1-0,Comercial
+1T,28/06/81,São Bento,0-0,Ferroviária
+1T,28/06/81,Marília,0-1,Juventus-SP
+1T,30/06/81,São Paulo,0-1,Taubaté
+1T,01/07/81,Inter de Limeira,1-1,XV de Jaú
+1T,01/07/81,América-SP,0-0,Corinthians
+1T,01/07/81,Ponte Preta,1-1,Comercial
+1T,01/07/81,Francana,1-3,Portuguesa
+1T,01/07/81,Juventus-SP,3-0,Guarani
+1T,01/07/81,Ferroviária,2-0,Marília
+1T,02/07/81,São José,1-0,Santos
+1T,02/07/81,São Paulo,1-0,São Bento
+1T,04/07/81,Portuguesa,0-1,XV de Jaú
+1T,05/07/81,Marília,1-4,São Paulo
+1T,05/07/81,Francana,0-2,Juventus-SP
+1T,05/07/81,Ferroviária,1-0,América-SP
+1T,05/07/81,São Bento,2-3,Corinthians
+1T,05/07/81,Botafogo-SP,1-0,Comercial
+1T,05/07/81,Ponte Preta,0-0,Guarani
+1T,05/07/81,Santos,1-0,Palmeiras
+1T,05/07/81,São José,3-4,Taubaté
+1T,05/07/81,Noroeste,2-1,Inter de Limeira
+1T,07/07/81,Juventus-SP,2-0,Santos
+1T,07/07/81,São Paulo,1-0,Guarani
+A,11/07/81,Ponte Preta,5-0,Santos
+B,12/07/81,Portuguesa,2-1,Inter de Limeira
+B,12/07/81,Guarani,3-0,Comercial
+A,12/07/81,Botafogo-SP,0-0,América-SP
+B,12/07/81,Noroeste,1-1,Taubaté
+C,12/07/81,São José,1-1,Corinthians
+B,12/07/81,Francana,1-4,São Paulo
+C,12/07/81,Juventus-SP,3-0,Marília
+A,12/07/81,São Bento,0-1,Palmeiras
+A,12/07/81,Ferroviária,1-1,XV de Jaú
+A,15/07/81,Santos,0-0,Botafogo-SP
+A,15/07/81,América-SP,0-0,Ponte Preta
+B,15/07/81,Comercial,2-1,Portuguesa
+B,15/07/81,Inter de Limeira,1-1,Guarani
+B,15/07/81,Taubaté,1-2,Francana
+B,15/07/81,São Paulo,4-1,Noroeste
+A,15/07/81,XV de Jaú,0-2,São Bento
+A,15/07/81,Palmeiras,1-1,Ferroviária
+C,15/07/81,Marília,1-1,São José
+C,15/07/81,Corinthians,3-3,Juventus-SP
+B,18/07/81,Guarani,2-1,Portuguesa
+A,18/07/81,XV de Jaú,0-0,Palmeiras
+A,19/07/81,Ponte Preta,2-1,Botafogo-SP
+A,19/07/81,América-SP,2-1,Santos
+B,19/07/81,Comercial,3-0,Inter de Limeira
+B,19/07/81,Taubaté,1-0,São Paulo
+C,19/07/81,Marília,1-1,Corinthians
+C,19/07/81,Juventus-SP,1-0,São José
+B,19/07/81,Noroeste,2-1,Francana
+A,19/07/81,Ferroviária,0-2,São Bento
+A,22/07/81,Botafogo-SP,0-0,Ponte Preta
+B,22/07/81,Portuguesa,0-2,Guarani
+B,22/07/81,Inter de Limeira,1-1,Comercial
+A,22/07/81,Santos,2-0,América-SP
+B,22/07/81,Francana,0-0,Noroeste
+C,22/07/81,São José,0-0,Juventus-SP
+A,22/07/81,Palmeiras,0-0,XV de Jaú
+C,22/07/81,Corinthians,2-1,Marília
+A,22/07/81,São Bento,0-0,Ferroviária
+B,22/07/81,São Paulo,0-1,Taubaté
+A,25/07/81,Botafogo-SP,1-0,Santos
+B,25/07/81,Noroeste,1-2,São Paulo
+B,26/07/81,Comercial,0-2,Guarani
+A,26/07/81,Ponte Preta,0-0,América-SP
+B,26/07/81,Inter de Limeira,1-2,Portuguesa
+C,26/07/81,Juventus-SP,0-1,Corinthians

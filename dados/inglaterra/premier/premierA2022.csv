@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,05/08/22,Crystal Palace,0-2,Arsenal
+1,06/08/22,Fulham,2-2,Liverpool
+1,06/08/22,Bournemouth,2-0,Aston Villa
+1,06/08/22,Leeds United,2-1,Wolverhampton
+1,06/08/22,Newcastle,2-0,Nottingham Forest
+1,06/08/22,Tottenham,4-1,Southampton
+1,06/08/22,Everton,0-1,Chelsea
+1,07/08/22,Leicester City,2-2,Brentford
+1,07/08/22,Manchester United,1-2,Brighton & Hove Albion
+1,07/08/22,West Ham,0-2,Manchester City
+2,13/08/22,Aston Villa,2-1,Everton
+2,13/08/22,Arsenal,4-2,Leicester City
+2,13/08/22,Brighton & Hove Albion,0-0,Newcastle
+2,13/08/22,Manchester City,4-0,Bournemouth
+2,13/08/22,Southampton,2-2,Leeds United
+2,13/08/22,Wolverhampton,0-0,Fulham
+2,13/08/22,Brentford,4-0,Manchester United
+2,14/08/22,Nottingham Forest,1-0,West Ham
+2,14/08/22,Chelsea,2-2,Tottenham
+2,15/08/22,Liverpool,1-1,Crystal Palace
+3,20/08/22,Tottenham,1-0,Wolverhampton
+3,20/08/22,Crystal Palace,3-1,Aston Villa
+3,20/08/22,Everton,1-1,Nottingham Forest
+3,20/08/22,Fulham,3-2,Brentford
+3,20/08/22,Leicester City,1-2,Southampton
+3,20/08/22,Bournemouth,0-3,Arsenal
+3,21/08/22,Leeds United,3-0,Chelsea
+3,21/08/22,West Ham,0-2,Brighton & Hove Albion
+3,21/08/22,Newcastle,3-3,Manchester City
+3,22/08/22,Manchester United,2-1,Liverpool
+4,27/08/22,Southampton,0-1,Manchester United
+4,27/08/22,Brentford,1-1,Everton
+4,27/08/22,Brighton & Hove Albion,1-0,Leeds United
+4,27/08/22,Chelsea,2-1,Leicester City
+4,27/08/22,Liverpool,9-0,Bournemouth
+4,27/08/22,Manchester City,4-2,Crystal Palace
+4,27/08/22,Arsenal,2-1,Fulham
+4,28/08/22,Aston Villa,0-1,West Ham
+4,28/08/22,Wolverhampton,1-1,Newcastle
+4,28/08/22,Nottingham Forest,0-2,Tottenham
+5,30/08/22,Fulham,2-1,Brighton & Hove Albion
+5,30/08/22,Crystal Palace,1-1,Brentford
+5,30/08/22,Southampton,2-1,Chelsea
+5,30/08/22,Leeds United,1-1,Everton
+5,31/08/22,Bournemouth,0-0,Wolverhampton
+5,31/08/22,Arsenal,2-1,Aston Villa
+5,31/08/22,Manchester City,6-0,Nottingham Forest
+5,31/08/22,West Ham,1-1,Tottenham
+5,31/08/22,Liverpool,2-1,Newcastle
+5,01/09/22,Leicester City,0-1,Manchester United
+6,03/09/22,Everton,0-0,Liverpool
+6,03/09/22,Brentford,5-2,Leeds United
+6,03/09/22,Chelsea,2-1,West Ham
+6,03/09/22,Newcastle,0-0,Crystal Palace
+6,03/09/22,Nottingham Forest,2-3,Bournemouth
+6,03/09/22,Tottenham,2-1,Fulham
+6,03/09/22,Wolverhampton,1-0,Southampton
+6,03/09/22,Aston Villa,1-1,Manchester City
+6,04/09/22,Brighton & Hove Albion,5-2,Leicester City
+6,04/09/22,Manchester United,3-1,Arsenal
+8,16/09/22,Aston Villa,1-0,Southampton
+8,16/09/22,Nottingham Forest,2-3,Fulham
+8,17/09/22,Wolverhampton,0-3,Manchester City
+8,17/09/22,Newcastle,1-1,Bournemouth
+8,17/09/22,Tottenham,6-2,Leicester City
+8,18/09/22,Brentford,0-3,Arsenal
+8,18/09/22,Everton,1-0,West Ham
+9,01/10/22,Arsenal,3-1,Tottenham
+9,01/10/22,Bournemouth,0-0,Brentford
+9,01/10/22,Crystal Palace,1-2,Chelsea
+9,01/10/22,Fulham,1-4,Newcastle
+9,01/10/22,Liverpool,3-3,Brighton & Hove Albion
+9,01/10/22,Southampton,1-2,Everton
+9,01/10/22,West Ham,2-0,Wolverhampton
+9,02/10/22,Manchester City,6-3,Manchester United
+9,02/10/22,Leeds United,0-0,Aston Villa
+9,03/10/22,Leicester City,4-0,Nottingham Forest
+10,08/10/22,Bournemouth,2-1,Leicester City
+10,08/10/22,Chelsea,3-0,Wolverhampton
+10,08/10/22,Manchester City,4-0,Southampton
+10,08/10/22,Newcastle,5-1,Brentford
+10,08/10/22,Brighton & Hove Albion,0-1,Tottenham
+10,09/10/22,Crystal Palace,2-1,Leeds United
+10,09/10/22,West Ham,3-1,Fulham
+10,09/10/22,Arsenal,3-2,Liverpool
+10,09/10/22,Everton,1-2,Manchester United
+10,10/10/22,Nottingham Forest,1-1,Aston Villa
+11,14/10/22,Brentford,2-0,Brighton & Hove Albion
+11,15/10/22,Leicester City,0-0,Crystal Palace
+11,15/10/22,Fulham,2-2,Bournemouth
+11,15/10/22,Wolverhampton,1-0,Nottingham Forest
+11,15/10/22,Tottenham,2-0,Everton
+11,16/10/22,Aston Villa,0-2,Chelsea
+11,16/10/22,Leeds United,0-1,Arsenal
+11,16/10/22,Manchester United,0-0,Newcastle
+11,16/10/22,Southampton,1-1,West Ham
+11,16/10/22,Liverpool,1-0,Manchester City
+12,18/10/22,Brighton & Hove Albion,0-0,Nottingham Forest
+12,18/10/22,Crystal Palace,2-1,Wolverhampton
+12,19/10/22,Bournemouth,0-1,Southampton
+12,19/10/22,Brentford,0-0,Chelsea
+12,19/10/22,Newcastle,1-0,Everton
+12,19/10/22,Liverpool,1-0,West Ham
+12,19/10/22,Manchester United,2-0,Tottenham
+12,20/10/22,Fulham,3-0,Aston Villa
+12,20/10/22,Leicester City,2-0,Leeds United
+13,22/10/22,Nottingham Forest,1-0,Liverpool
+13,22/10/22,Everton,3-0,Crystal Palace
+13,22/10/22,Manchester City,3-1,Brighton & Hove Albion
+13,22/10/22,Chelsea,1-1,Manchester United
+13,23/10/22,Aston Villa,4-0,Brentford
+13,23/10/22,Leeds United,2-3,Fulham
+13,23/10/22,Southampton,1-1,Arsenal
+13,23/10/22,Wolverhampton,0-4,Leicester City
+13,23/10/22,Tottenham,1-2,Newcastle
+13,24/10/22,West Ham,2-0,Bournemouth
+14,29/10/22,Leicester City,0-1,Manchester City
+14,29/10/22,Bournemouth,2-3,Tottenham
+14,29/10/22,Brentford,1-1,Wolverhampton
+14,29/10/22,Brighton & Hove Albion,4-1,Chelsea
+14,29/10/22,Crystal Palace,1-0,Southampton
+14,29/10/22,Newcastle,4-0,Aston Villa
+14,29/10/22,Fulham,0-0,Everton
+14,29/10/22,Liverpool,1-2,Leeds United
+14,30/10/22,Arsenal,5-0,Nottingham Forest
+14,30/10/22,Manchester United,1-0,West Ham
+15,05/11/22,Leeds United,4-3,Bournemouth
+15,05/11/22,Manchester City,2-1,Fulham
+15,05/11/22,Nottingham Forest,2-2,Brentford
+15,05/11/22,Wolverhampton,2-3,Brighton & Hove Albion
+15,05/11/22,Everton,0-2,Leicester City
+15,06/11/22,Chelsea,0-1,Arsenal
+15,06/11/22,Aston Villa,3-1,Manchester United
+15,06/11/22,Southampton,1-4,Newcastle
+15,06/11/22,West Ham,1-2,Crystal Palace
+15,06/11/22,Tottenham,1-2,Liverpool
+16,12/11/22,Manchester City,1-2,Brentford
+16,12/11/22,Bournemouth,3-0,Everton
+16,12/11/22,Liverpool,3-1,Southampton
+16,12/11/22,Nottingham Forest,1-0,Crystal Palace
+16,12/11/22,Tottenham,4-3,Leeds United
+16,12/11/22,West Ham,0-2,Leicester City
+16,12/11/22,Newcastle,1-0,Chelsea
+16,12/11/22,Wolverhampton,0-2,Arsenal
+16,13/11/22,Brighton & Hove Albion,1-2,Aston Villa
+16,13/11/22,Fulham,1-2,Manchester United
+17,26/12/22,Brentford,2-2,Tottenham
+17,26/12/22,Crystal Palace,0-3,Fulham
+17,26/12/22,Everton,1-2,Wolverhampton
+17,26/12/22,Leicester City,0-3,Newcastle
+17,26/12/22,Southampton,1-3,Brighton & Hove Albion
+17,26/12/22,Aston Villa,1-3,Liverpool
+17,26/12/22,Arsenal,3-1,West Ham
+17,27/12/22,Chelsea,2-0,Bournemouth
+17,27/12/22,Manchester United,3-0,Nottingham Forest
+17,28/12/22,Leeds United,1-3,Manchester City
+18,30/12/22,West Ham,0-2,Brentford
+18,30/12/22,Liverpool,2-1,Leicester City
+18,31/12/22,Wolverhampton,0-1,Manchester United
+18,31/12/22,Bournemouth,0-2,Crystal Palace
+18,31/12/22,Fulham,2-1,Southampton
+18,31/12/22,Manchester City,1-1,Everton
+18,31/12/22,Newcastle,0-0,Leeds United
+18,31/12/22,Brighton & Hove Albion,2-4,Arsenal
+18,01/01/23,Tottenham,0-2,Aston Villa
+18,01/01/23,Nottingham Forest,1-1,Chelsea
+19,02/01/23,Brentford,3-1,Liverpool
+19,03/01/23,Arsenal,0-0,Newcastle
+19,03/01/23,Everton,1-4,Brighton & Hove Albion
+19,03/01/23,Leicester City,0-1,Fulham
+19,03/01/23,Manchester United,3-0,Bournemouth
+19,04/01/23,Southampton,0-1,Nottingham Forest
+19,04/01/23,Leeds United,2-2,West Ham
+19,04/01/23,Aston Villa,1-1,Wolverhampton
+19,04/01/23,Crystal Palace,0-4,Tottenham
+19,05/01/23,Chelsea,0-1,Manchester City
+7,12/01/23,Fulham,2-1,Chelsea
+20,13/01/23,Aston Villa,2-1,Leeds United
+20,14/01/23,Manchester United,2-1,Manchester City
+20,14/01/23,Brighton & Hove Albion,3-0,Liverpool
+20,14/01/23,Everton,1-2,Southampton
+20,14/01/23,Nottingham Forest,2-0,Leicester City
+20,14/01/23,Wolverhampton,1-0,West Ham
+20,14/01/23,Brentford,2-0,Bournemouth
+20,15/01/23,Chelsea,1-0,Crystal Palace
+20,15/01/23,Newcastle,1-0,Fulham
+20,15/01/23,Tottenham,0-2,Arsenal
+7,18/01/23,Crystal Palace,1-1,Manchester United
+7,19/01/23,Manchester City,4-2,Tottenham
+21,21/01/23,Liverpool,0-0,Chelsea
+21,21/01/23,Bournemouth,1-1,Nottingham Forest
+21,21/01/23,Leicester City,2-2,Brighton & Hove Albion
+21,21/01/23,Southampton,0-1,Aston Villa
+21,21/01/23,West Ham,2-0,Everton
+21,21/01/23,Crystal Palace,0-0,Newcastle
+21,22/01/23,Leeds United,0-0,Brentford
+21,22/01/23,Manchester City,3-0,Wolverhampton
+21,22/01/23,Arsenal,3-2,Manchester United
+21,23/01/23,Fulham,0-1,Tottenham
+22,03/02/23,Chelsea,0-0,Fulham
+22,04/02/23,Everton,1-0,Arsenal
+22,04/02/23,Aston Villa,2-4,Leicester City
+22,04/02/23,Brentford,3-0,Southampton
+22,04/02/23,Brighton & Hove Albion,1-0,Bournemouth
+22,04/02/23,Manchester United,2-1,Crystal Palace
+22,04/02/23,Wolverhampton,3-0,Liverpool
+22,04/02/23,Newcastle,1-1,West Ham
+22,05/02/23,Nottingham Forest,1-0,Leeds United
+22,05/02/23,Tottenham,1-0,Manchester City
+8,08/02/23,Manchester United,2-2,Leeds United
+23,11/02/23,West Ham,1-1,Chelsea
+23,11/02/23,Arsenal,1-1,Brentford
+23,11/02/23,Crystal Palace,1-1,Brighton & Hove Albion
+23,11/02/23,Fulham,2-0,Nottingham Forest
+23,11/02/23,Leicester City,4-1,Tottenham
+23,11/02/23,Southampton,1-2,Wolverhampton
+23,11/02/23,Bournemouth,1-1,Newcastle
+23,12/02/23,Leeds United,0-2,Manchester United
+23,12/02/23,Manchester City,3-1,Aston Villa
+23,13/02/23,Liverpool,2-0,Everton
+12,15/02/23,Arsenal,1-3,Manchester City
+24,18/02/23,Aston Villa,2-4,Arsenal
+24,18/02/23,Brentford,1-1,Crystal Palace
+24,18/02/23,Brighton & Hove Albion,0-1,Fulham
+24,18/02/23,Chelsea,0-1,Southampton
+24,18/02/23,Everton,1-0,Leeds United
+24,18/02/23,Nottingham Forest,1-1,Manchester City
+24,18/02/23,Wolverhampton,0-1,Bournemouth
+24,18/02/23,Newcastle,0-2,Liverpool
+24,19/02/23,Manchester United,3-0,Leicester City
+24,19/02/23,Tottenham,2-0,West Ham
+25,24/02/23,Fulham,1-1,Wolverhampton
+25,25/02/23,Everton,0-2,Aston Villa
+25,25/02/23,Leeds United,1-0,Southampton
+25,25/02/23,Leicester City,0-1,Arsenal
+25,25/02/23,West Ham,4-0,Nottingham Forest
+25,25/02/23,Bournemouth,1-4,Manchester City
+25,25/02/23,Crystal Palace,0-0,Liverpool
+25,26/02/23,Tottenham,2-0,Chelsea
+7,01/03/23,Arsenal,4-0,Everton
+7,01/03/23,Liverpool,2-0,Wolverhampton
+26,04/03/23,Manchester City,2-0,Newcastle
+26,04/03/23,Arsenal,3-2,Bournemouth
+26,04/03/23,Aston Villa,1-0,Crystal Palace
+26,04/03/23,Brighton & Hove Albion,4-0,West Ham
+26,04/03/23,Chelsea,1-0,Leeds United
+26,04/03/23,Wolverhampton,1-0,Tottenham
+26,04/03/23,Southampton,1-0,Leicester City
+26,05/03/23,Nottingham Forest,2-2,Everton
+26,05/03/23,Liverpool,7-0,Manchester United
+26,06/03/23,Brentford,3-2,Fulham
+27,11/03/23,Bournemouth,1-0,Liverpool
+27,11/03/23,Everton,1-0,Brentford
+27,11/03/23,Leeds United,2-2,Brighton & Hove Albion
+27,11/03/23,Leicester City,1-3,Chelsea
+27,11/03/23,Tottenham,3-1,Nottingham Forest
+27,11/03/23,Crystal Palace,0-1,Manchester City
+27,12/03/23,Fulham,0-3,Arsenal
+27,12/03/23,Manchester United,0-0,Southampton
+27,12/03/23,West Ham,1-1,Aston Villa
+27,12/03/23,Newcastle,2-1,Wolverhampton
+7,15/03/23,Southampton,0-2,Brentford
+8,15/03/23,Brighton & Hove Albion,1-0,Crystal Palace
+28,17/03/23,Nottingham Forest,1-2,Newcastle
+28,18/03/23,Aston Villa,3-0,Bournemouth
+28,18/03/23,Brentford,1-1,Leicester City
+28,18/03/23,Southampton,3-3,Tottenham
+28,18/03/23,Wolverhampton,2-4,Leeds United
+28,18/03/23,Chelsea,2-2,Everton
+28,19/03/23,Arsenal,4-1,Crystal Palace
+29,01/04/23,Manchester City,4-1,Liverpool
+29,01/04/23,Bournemouth,2-1,Fulham
+29,01/04/23,Arsenal,4-1,Leeds United
+29,01/04/23,Brighton & Hove Albion,3-3,Brentford
+29,01/04/23,Crystal Palace,2-1,Leicester City
+29,01/04/23,Nottingham Forest,1-1,Wolverhampton
+29,01/04/23,Chelsea,0-2,Aston Villa
+29,02/04/23,West Ham,1-0,Southampton
+29,02/04/23,Newcastle,2-0,Manchester United
+29,03/04/23,Everton,1-1,Tottenham
+7,04/04/23,Bournemouth,0-2,Brighton & Hove Albion
+7,04/04/23,Leeds United,2-1,Nottingham Forest
+7,04/04/23,Leicester City,1-2,Aston Villa
+8,04/04/23,Chelsea,0-0,Liverpool
+7,05/04/23,West Ham,1-5,Newcastle
+25,05/04/23,Manchester United,1-0,Brentford
+30,08/04/23,Manchester United,2-0,Everton
+30,08/04/23,Aston Villa,2-0,Nottingham Forest
+30,08/04/23,Brentford,1-2,Newcastle
+30,08/04/23,Fulham,0-1,West Ham
+30,08/04/23,Leicester City,0-1,Bournemouth
+30,08/04/23,Tottenham,2-1,Brighton & Hove Albion
+30,08/04/23,Wolverhampton,1-0,Chelsea
+30,08/04/23,Southampton,1-4,Manchester City
+30,09/04/23,Leeds United,1-5,Crystal Palace
+30,09/04/23,Liverpool,2-2,Arsenal
+31,15/04/23,Aston Villa,3-0,Newcastle
+31,15/04/23,Chelsea,1-2,Brighton & Hove Albion
+31,15/04/23,Everton,1-3,Fulham
+31,15/04/23,Southampton,0-2,Crystal Palace

@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,19/01/08,Grêmio,3-0,15 de Novembro
+A,19/01/08,Caxias,2-0,Santa Cruz-RS
+A,20/01/08,Novo Hamburgo,1-2,Esportivo
+A,20/01/08,Ulbra,3-2,Sapucaiense
+B,20/01/08,São Luiz,3-1,GE Brasil
+B,20/01/08,São José-RS,2-0,Juventude
+B,20/01/08,Inter SM,2-2,Internacional
+B,20/01/08,Veranópolis,4-1,Guarany de Bagé
+A,22/01/08,15 de Novembro,0-1,Caxias
+A,23/01/08,Sapucaiense,1-1,Grêmio
+A,23/01/08,Santa Cruz-RS,2-0,Novo Hamburgo
+A,23/01/08,Esportivo,2-1,Ulbra
+B,23/01/08,GE Brasil,4-1,São José-RS
+B,24/01/08,Internacional,2-0,Veranópolis
+B,24/01/08,Juventude,2-2,Inter SM
+B,24/01/08,Guarany de Bagé,1-3,São Luiz
+A,26/01/08,Grêmio,1-0,Santa Cruz-RS
+A,26/01/08,Novo Hamburgo,0-0,Caxias
+A,26/01/08,Ulbra,3-2,15 de Novembro
+A,27/01/08,Sapucaiense,0-0,Esportivo
+B,27/01/08,São José-RS,1-4,Internacional
+B,27/01/08,Inter SM,3-2,Guarany de Bagé
+B,27/01/08,Juventude,2-1,GE Brasil
+B,28/01/08,São Luiz,1-0,Veranópolis
+A,30/01/08,15 de Novembro,1-3,Esportivo
+B,30/01/08,Guarany de Bagé,1-3,São José-RS
+A,01/02/08,Santa Cruz-RS,2-2,Ulbra
+B,01/02/08,Veranópolis,2-1,GE Brasil
+B,01/02/08,Inter SM,1-0,São Luiz
+B,01/02/08,Internacional,0-1,Juventude
+A,02/02/08,Novo Hamburgo,1-3,Sapucaiense
+A,02/02/08,Caxias,2-2,Grêmio
+A,06/02/08,Caxias,0-0,Ulbra
+B,08/02/08,Guarany de Bagé,1-0,Juventude
+A,09/02/08,Grêmio,2-0,Novo Hamburgo
+A,10/02/08,Esportivo,1-0,Santa Cruz-RS
+A,10/02/08,Sapucaiense,1-0,15 de Novembro
+B,10/02/08,GE Brasil,0-5,Internacional
+B,10/02/08,Veranópolis,2-3,Inter SM
+B,11/02/08,São Luiz,0-0,São José-RS
+A,13/02/08,15 de Novembro,0-3,Novo Hamburgo
+B,16/02/08,Internacional,2-0,Guarany de Bagé
+B,16/02/08,Juventude,2-0,São Luiz
+B,16/02/08,São José-RS,1-1,Veranópolis
+A,17/02/08,Ulbra,0-1,Grêmio
+A,17/02/08,Esportivo,0-1,Caxias
+A,17/02/08,Sapucaiense,0-1,Santa Cruz-RS
+B,17/02/08,GE Brasil,2-3,Inter SM
+B,19/02/08,Veranópolis,2-1,Juventude
+A,20/02/08,Caxias,2-2,Sapucaiense
+A,20/02/08,Novo Hamburgo,1-2,Ulbra
+B,20/02/08,Guarany de Bagé,0-3,GE Brasil
+B,20/02/08,São Luiz,1-1,Internacional
+A,21/02/08,Santa Cruz-RS,1-0,15 de Novembro
+A,21/02/08,Grêmio,2-1,Esportivo
+B,21/02/08,Inter SM,1-0,São José-RS
+B,22/02/08,Juventude,2-0,Veranópolis
+A,23/02/08,Sapucaiense,1-1,Caxias
+B,23/02/08,Internacional,3-0,São Luiz
+A,24/02/08,Ulbra,2-5,Novo Hamburgo
+A,24/02/08,Esportivo,1-2,Grêmio
+B,24/02/08,GE Brasil,2-0,Guarany de Bagé
+A,25/02/08,15 de Novembro,3-1,Santa Cruz-RS
+B,25/02/08,São José-RS,1-0,Inter SM
+A,28/02/08,Novo Hamburgo,1-1,15 de Novembro
+B,29/02/08,Inter SM,3-2,GE Brasil
+A,01/03/08,Grêmio,4-0,Ulbra
+A,01/03/08,Caxias,2-0,Esportivo
+B,02/03/08,Veranópolis,2-2,São José-RS
+B,02/03/08,Guarany de Bagé,0-6,Internacional
+B,02/03/08,São Luiz,4-0,Juventude
+A,03/03/08,Santa Cruz-RS,2-5,Sapucaiense
+A,06/03/08,15 de Novembro,1-2,Sapucaiense
+B,06/03/08,Inter SM,1-1,Veranópolis
+A,08/03/08,Santa Cruz-RS,1-2,Esportivo
+B,08/03/08,Internacional,2-0,GE Brasil
+B,08/03/08,Juventude,2-0,Guarany de Bagé
+B,08/03/08,São José-RS,1-1,São Luiz
+A,09/03/08,Ulbra,1-0,Caxias
+A,09/03/08,Novo Hamburgo,0-1,Grêmio
+A,12/03/08,Ulbra,1-0,Santa Cruz-RS
+A,12/03/08,Esportivo,1-0,15 de Novembro
+A,12/03/08,Sapucaiense,1-4,Novo Hamburgo
+B,12/03/08,São Luiz,2-2,Inter SM
+B,12/03/08,São José-RS,3-2,Guarany de Bagé
+B,12/03/08,Juventude,3-0,Internacional
+A,13/03/08,Grêmio,0-0,Caxias
+B,13/03/08,GE Brasil,2-1,Veranópolis
+A,15/03/08,Esportivo,1-3,Sapucaiense
+B,15/03/08,Internacional,2-0,São José-RS
+B,15/03/08,Guarany de Bagé,1-3,Inter SM
+A,16/03/08,15 de Novembro,2-3,Ulbra
+A,16/03/08,Santa Cruz-RS,2-3,Grêmio
+A,16/03/08,Caxias,4-1,Novo Hamburgo
+B,16/03/08,GE Brasil,1-0,Juventude
+B,18/03/08,Veranópolis,3-1,São Luiz
+A,20/03/08,Grêmio,2-0,Sapucaiense
+B,21/03/08,São José-RS,2-1,GE Brasil
+A,22/03/08,Caxias,3-0,15 de Novembro
+A,22/03/08,Ulbra,1-1,Esportivo
+A,22/03/08,Novo Hamburgo,3-2,Santa Cruz-RS
+B,22/03/08,Inter SM,1-1,Juventude
+B,23/03/08,São Luiz,4-1,Guarany de Bagé
+B,23/03/08,Veranópolis,1-3,Internacional
+A,26/03/08,Sapucaiense,2-1,Ulbra
+A,26/03/08,Santa Cruz-RS,2-0,Caxias
+A,26/03/08,Esportivo,2-3,Novo Hamburgo
+A,26/03/08,15 de Novembro,1-4,Grêmio
+B,27/03/08,Guarany de Bagé,2-3,Veranópolis
+B,27/03/08,Juventude,1-2,São José-RS
+B,27/03/08,GE Brasil,2-2,São Luiz
+B,27/03/08,Internacional,2-0,Inter SM
+QF,29/03/08,Juventude,1-2,Grêmio
+QF,29/03/08,São José-RS,1-1,Caxias
+QF,29/03/08,Sapucaiense,2-1,Inter SM
+QF,30/03/08,Ulbra,1-4,Internacional
+QF,05/04/08,Internacional,3-2,Ulbra
+QF,05/04/08,Caxias,1-0,São José-RS
+QF,06/04/08,Grêmio,2-3,Juventude
+QF,06/04/08,Inter SM,2-0,Sapucaiense
+SF,13/04/08,Caxias,0-1,Internacional
+SF,15/04/08,Juventude,0-1,Inter SM
+SF,20/04/08,Internacional,2-1,Caxias
+SF,20/04/08,Inter SM,2-4,Juventude
+F,27/04/08,Juventude,1-0,Internacional
+F,04/05/08,Internacional,8-1,Juventude

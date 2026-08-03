@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,10/02/10,Corinthians-PR,1-0,Juventude
+1F,10/02/10,Votoraty,4-0,Treze
+1F,10/02/10,Cerâmica,1-1,Paraná
+1F,10/02/10,Araguaia,1-3,Grêmio
+1F,10/02/10,ASSU,0-3,Atlético Goianiense
+1F,10/02/10,Potyguar Seridoense,0-0,Paysandu
+1F,10/02/10,Vilhena,2-2,Atlético Paranaense
+1F,10/02/10,São Domingos,1-1,Sampaio Corrêa
+1F,10/02/10,JV Lideral,0-0,Ponte Preta
+1F,10/02/10,Sousa,1-2,Vasco
+1F,10/02/10,Vitória-ES,0-2,Bahia
+1F,10/02/10,Flamengo-PI,0-1,Palmeiras
+1F,10/02/10,Tigres do Brasil,2-2,Fortaleza
+1F,10/02/10,São Raimundo-PA,1-0,Botafogo
+1F,24/02/10,Corinthians-AL,3-1,Vitória
+1F,24/02/10,Ivinhema,1-1,Náutico
+1F,24/02/10,ASA,0-0,Nacional-AM
+1F,24/02/10,Ituiutaba,2-3,Goiás
+1F,24/02/10,São José-AP,1-1,América-RN
+1F,24/02/10,Uberaba,1-0,Londrina
+1F,24/02/10,Luverdense,0-1,Coritiba
+1F,24/02/10,São Mateus,1-2,Remo
+1F,24/02/10,Araguaína,0-1,Guarani
+1F,24/02/10,Chapecoense,3-0,Brasiliense
+1F,24/02/10,Juventude,0-1,Corinthians-PR
+1F,24/02/10,Atlético Paranaense,4-0,Vilhena
+1F,24/02/10,Ponte Preta,4-0,JV Lideral
+1F,24/02/10,Paraná,6-1,Cerâmica
+1F,24/02/10,Juventus-AC,0-7,Atlético Mineiro
+1F,24/02/10,Picos,0-5,Ceará
+1F,24/02/10,Confiança,1-1,Fluminense
+1F,24/02/10,Ypiranga-RS,0-3,Avaí
+1F,24/02/10,Naviraiense,0-1,Santos
+1F,24/02/10,Brasília,2-4,Sport
+1F,24/02/10,América-AM,0-1,Santa Cruz
+1F,24/02/10,Atlético Roraima,0-7,Portuguesa
+1F,24/02/10,Paysandu,3-1,Potyguar Seridoense
+1F,24/02/10,Treze,2-1,Votoraty
+1F,24/02/10,Fortaleza,3-2,Tigres do Brasil
+1F,25/02/10,Bahia,ANU,Vitória-ES
+1F,25/02/10,Atlético Goianiense,ANU,ASSU
+1F,25/02/10,Grêmio,ANU,Araguaia
+1F,25/02/10,Vasco,0-0,Sousa
+1F,25/02/10,Sampaio Corrêa,2-1,São Domingos
+1F,25/02/10,Palmeiras,4-0,Flamengo-PI
+1F,10/03/10,Atlético Mineiro,ANU,Juventus-AC
+1F,10/03/10,Ceará,ANU,Picos
+1F,10/03/10,Portuguesa,ANU,Atlético Roraima
+1F,10/03/10,Avaí,ANU,Ypiranga-RS
+1F,10/03/10,Sport,ANU,Brasília
+1F,10/03/10,Fluminense,2-0,Confiança
+1F,10/03/10,Náutico,3-1,Ivinhema
+1F,10/03/10,Goiás,0-0,Ituiutaba
+1F,10/03/10,América-RN,0-1,São José-AP
+1F,10/03/10,Vitória,4-0,Corinthians-AL
+1F,10/03/10,Santa Cruz,3-0,América-AM
+1F,10/03/10,Londrina,0-2,Uberaba
+1F,10/03/10,Coritiba,1-0,Luverdense
+1F,10/03/10,Remo,4-1,São Mateus
+1F,10/03/10,Guarani,2-1,Araguaína
+1F,10/03/10,Brasiliense,2-1,Chapecoense
+1F,10/03/10,Santos,10-0,Naviraiense
+1F,10/03/10,Nacional-AM,2-2,ASA
+1F,11/03/10,Botafogo,4-3,São Raimundo-PA
+2F,17/03/10,ASA,1-1,Vasco
+2F,17/03/10,Corinthians-PR,2-1,Ceará
+2F,17/03/10,Votoraty,0-1,Grêmio
+2F,17/03/10,Santa Cruz,0-1,Botafogo
+2F,17/03/10,Chapecoense,1-0,Atlético Mineiro
+2F,17/03/10,São José-AP,0-1,Goiás
+2F,17/03/10,Náutico,0-1,Vitória
+2F,17/03/10,Sampaio Corrêa,1-1,Atlético Paranaense
+2F,17/03/10,Ponte Preta,1-1,Portuguesa
+2F,17/03/10,Fortaleza,2-0,Guarani
+2F,17/03/10,Atlético Goianiense,2-0,Bahia
+2F,17/03/10,Paysandu,1-2,Palmeiras
+2F,17/03/10,Uberaba,0-2,Fluminense
+2F,17/03/10,Avaí,1-1,Coritiba
+2F,17/03/10,Paraná,1-1,Sport
+2F,18/03/10,Remo,0-4,Santos
+2F,31/03/10,Ceará,1-1,Corinthians-PR
+2F,31/03/10,Goiás,7-0,São José-AP
+2F,31/03/10,Portuguesa,2-1,Ponte Preta
+2F,31/03/10,Fluminense,ANU,Uberaba
+2F,31/03/10,Santos,ANU,Remo
+2F,31/03/10,Vasco,3-1,ASA
+2F,31/03/10,Vitória,5-0,Náutico
+2F,31/03/10,Bahia,1-0,Atlético Goianiense
+2F,31/03/10,Palmeiras,1-0,Paysandu
+2F,31/03/10,Coritiba,0-1,Avaí
+2F,31/03/10,Guarani,2-0(4-3 Pen.),Fortaleza
+2F,31/03/10,Sport,1-0,Paraná
+2F,01/04/10,Grêmio,3-0,Votoraty
+2F,01/04/10,Atlético Paranaense,2-0,Sampaio Corrêa
+2F,01/04/10,Botafogo,2-3,Santa Cruz
+2F,01/04/10,Atlético Mineiro,6-0,Chapecoense
+1/8,14/04/10,Portuguesa,0-1,Fluminense
+1/8,14/04/10,Santa Cruz,1-2,Atlético Goianiense
+1/8,14/04/10,Corinthians-PR,0-1,Vasco
+1/8,14/04/10,Grêmio,3-1,Avaí
+1/8,14/04/10,Santos,8-1,Guarani
+1/8,14/04/10,Atlético Mineiro,1-0,Sport
+1/8,15/04/10,Palmeiras,1-0,Atlético Paranaense
+1/8,15/04/10,Vitória,4-0,Goiás
+1/8,21/04/10,Vasco,2-1,Corinthians-PR
+1/8,21/04/10,Guarani,3-2,Santos
+1/8,21/04/10,Atlético Paranaense,1-1,Palmeiras
+1/8,21/04/10,Avaí,3-2,Grêmio
+1/8,21/04/10,Sport,0-2,Atlético Mineiro
+1/8,21/04/10,Goiás,2-2,Vitória
+1/8,22/04/10,Atlético Goianiense,2-0,Santa Cruz
+1/8,22/04/10,Fluminense,3-2,Portuguesa
+QF,28/04/10,Vitória,2-0,Vasco
+QF,28/04/10,Atlético Mineiro,3-2,Santos
+QF,29/04/10,Palmeiras,1-0,Atlético Goianiense
+QF,29/04/10,Fluminense,2-3,Grêmio
+QF,05/05/10,Vasco,3-1,Vitória
+QF,05/05/10,Atlético Goianiense,1-0(2-1 Pen.),Palmeiras
+QF,05/05/10,Santos,3-1,Atlético Mineiro
+QF,05/05/10,Grêmio,2-0,Fluminense
+SF,12/05/10,Atlético Goianiense,1-0,Vitória
+SF,12/05/10,Grêmio,4-3,Santos
+SF,19/05/10,Vitória,4-0,Atlético Goianiense
+SF,19/05/10,Santos,3-1,Grêmio
+F,28/07/10,Santos,2-0,Vitória
+F,04/08/10,Vitória,2-1,Santos

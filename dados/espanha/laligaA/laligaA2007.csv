@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,25/08/07,Real Madrid,2-1,Atlético de Madrid
+1,25/08/07,Real Murcia,2-1,Real Zaragoza
+1,25/08/07,Sevilla,4-1,Getafe
+1,26/08/07,Athletic Bilbao,0-0,Osasuna
+1,26/08/07,Racing Santander,0-0,Barcelona
+1,26/08/07,Mallorca,3-0,Levante
+1,26/08/07,Deportivo,0-3,Almería
+1,26/08/07,Recreativo,1-1,Real Betis
+1,26/08/07,Valencia,0-3,Villarreal
+1,26/08/07,Espanyol,0-1,Valladolid
+2,01/09/07,Real Zaragoza,1-1,Racing Santander
+2,01/09/07,Levante,0-0,Real Murcia
+2,02/09/07,Barcelona,3-1,Athletic Bilbao
+2,02/09/07,Almería,1-2,Valencia
+2,02/09/07,Valladolid,2-2,Deportivo
+2,02/09/07,Real Betis,2-2,Espanyol
+2,02/09/07,Getafe,1-1,Recreativo
+2,02/09/07,Atlético de Madrid,1-1,Mallorca
+2,02/09/07,Villarreal,0-5,Real Madrid
+3,15/09/07,Real Madrid,3-1,Almería
+3,15/09/07,Valencia,2-1,Valladolid
+3,15/09/07,Athletic Bilbao,1-1,Real Zaragoza
+3,16/09/07,Racing Santander,1-0,Levante
+3,16/09/07,Real Murcia,1-1,Atlético de Madrid
+3,16/09/07,Mallorca,0-1,Villarreal
+3,16/09/07,Deportivo,1-0,Real Betis
+3,16/09/07,Espanyol,1-0,Getafe
+3,16/09/07,Sevilla,4-1,Recreativo
+3,16/09/07,Osasuna,0-0,Barcelona
+4,22/09/07,Recreativo,2-1,Espanyol
+4,22/09/07,Barcelona,2-1,Sevilla
+4,23/09/07,Real Zaragoza,2-1,Osasuna
+4,23/09/07,Levante,1-2,Athletic Bilbao
+4,23/09/07,Villarreal,2-0,Real Murcia
+4,23/09/07,Almería,1-1,Mallorca
+4,23/09/07,Real Betis,1-2,Valencia
+4,23/09/07,Getafe,0-0,Deportivo
+4,23/09/07,Atlético de Madrid,4-0,Racing Santander
+4,23/09/07,Valladolid,1-1,Real Madrid
+5,25/09/07,Sevilla,2-3,Espanyol
+5,26/09/07,Osasuna,4-1,Levante
+5,26/09/07,Racing Santander,0-2,Villarreal
+5,26/09/07,Real Murcia,0-1,Almería
+5,26/09/07,Mallorca,4-2,Valladolid
+5,26/09/07,Valencia,2-1,Getafe
+5,26/09/07,Deportivo,0-2,Recreativo
+5,26/09/07,Athletic Bilbao,0-2,Atlético de Madrid
+5,26/09/07,Barcelona,4-1,Real Zaragoza
+5,27/09/07,Real Madrid,2-0,Real Betis
+6,29/09/07,Real Zaragoza,2-0,Sevilla
+6,29/09/07,Levante,1-4,Barcelona
+6,30/09/07,Atlético de Madrid,2-0,Osasuna
+6,30/09/07,Villarreal,1-0,Athletic Bilbao
+6,30/09/07,Almería,0-1,Racing Santander
+6,30/09/07,Valladolid,1-4,Real Murcia
+6,30/09/07,Real Betis,3-0,Mallorca
+6,30/09/07,Espanyol,1-0,Deportivo
+6,30/09/07,Getafe,0-1,Real Madrid
+6,30/09/07,Recreativo,0-1,Valencia
+7,06/10/07,Valencia,1-2,Espanyol
+7,07/10/07,Real Zaragoza,3-0,Levante
+7,07/10/07,Barcelona,3-0,Atlético de Madrid
+7,07/10/07,Osasuna,3-2,Villarreal
+7,07/10/07,Athletic Bilbao,1-1,Almería
+7,07/10/07,Real Murcia,0-0,Real Betis
+7,07/10/07,Mallorca,4-2,Getafe
+7,07/10/07,Real Madrid,2-0,Recreativo
+7,07/10/07,Sevilla,0-1,Deportivo
+7,07/10/07,Racing Santander,2-0,Valladolid
+8,20/10/07,Levante,0-2,Sevilla
+8,20/10/07,Villarreal,3-1,Barcelona
+8,20/10/07,Deportivo,2-4,Valencia
+8,20/10/07,Espanyol,2-1,Real Madrid
+8,21/10/07,Almería,2-0,Osasuna
+8,21/10/07,Valladolid,1-2,Athletic Bilbao
+8,21/10/07,Real Betis,1-1,Racing Santander
+8,21/10/07,Getafe,2-0,Real Murcia
+8,21/10/07,Recreativo,0-2,Mallorca
+8,21/10/07,Atlético de Madrid,4-0,Real Zaragoza
+9,27/10/07,Mallorca,2-2,Espanyol
+9,27/10/07,Athletic Bilbao,0-0,Real Betis
+9,28/10/07,Levante,0-1,Atlético de Madrid
+9,28/10/07,Real Zaragoza,4-1,Villarreal
+9,28/10/07,Osasuna,2-2,Valladolid
+9,28/10/07,Racing Santander,2-0,Getafe
+9,28/10/07,Real Murcia,1-0,Recreativo
+9,28/10/07,Real Madrid,3-1,Deportivo
+9,28/10/07,Barcelona,2-0,Almería
+9,28/10/07,Sevilla,3-0,Valencia
+10,31/10/07,Villarreal,3-0,Levante
+10,31/10/07,Almería,0-1,Real Zaragoza
+10,31/10/07,Real Betis,0-3,Osasuna
+10,31/10/07,Getafe,2-0,Athletic Bilbao
+10,31/10/07,Recreativo,0-0,Racing Santander
+10,31/10/07,Deportivo,1-1,Mallorca
+10,31/10/07,Valencia,1-5,Real Madrid
+10,31/10/07,Atlético de Madrid,4-3,Sevilla
+10,01/11/07,Valladolid,1-1,Barcelona
+10,01/11/07,Espanyol,0-0,Real Murcia
+11,03/11/07,Mallorca,0-2,Valencia
+11,03/11/07,Sevilla,2-0,Real Madrid
+11,04/11/07,Atlético de Madrid,3-4,Villarreal
+11,04/11/07,Levante,3-0,Almería
+11,04/11/07,Real Zaragoza,2-3,Valladolid
+11,04/11/07,Osasuna,0-2,Getafe
+11,04/11/07,Racing Santander,1-1,Espanyol
+11,04/11/07,Real Murcia,0-2,Deportivo
+11,04/11/07,Barcelona,3-0,Real Betis
+11,04/11/07,Athletic Bilbao,2-0,Recreativo
+12,10/11/07,Getafe,2-0,Barcelona
+12,10/11/07,Valencia,3-0,Real Murcia
+12,11/11/07,Almería,0-0,Atlético de Madrid
+12,11/11/07,Valladolid,1-0,Levante
+12,11/11/07,Real Betis,2-1,Real Zaragoza
+12,11/11/07,Recreativo,1-0,Osasuna
+12,11/11/07,Espanyol,2-1,Athletic Bilbao
+12,11/11/07,Deportivo,0-1,Racing Santander
+12,11/11/07,Real Madrid,4-3,Mallorca
+12,11/11/07,Villarreal,3-2,Sevilla
+13,24/11/07,Barcelona,3-0,Recreativo
+13,24/11/07,Sevilla,1-2,Mallorca
+13,24/11/07,Real Murcia,1-1,Real Madrid
+13,25/11/07,Villarreal,1-1,Almería
+13,25/11/07,Atlético de Madrid,4-3,Valladolid
+13,25/11/07,Levante,4-3,Real Betis
+13,25/11/07,Osasuna,1-2,Espanyol
+13,25/11/07,Athletic Bilbao,2-2,Deportivo
+13,25/11/07,Racing Santander,1-0,Valencia
+13,25/11/07,Real Zaragoza,1-1,Getafe
+14,01/12/07,Almería,1-0,Sevilla
+14,01/12/07,Real Madrid,3-1,Racing Santander
+14,01/12/07,Espanyol,1-1,Barcelona
+14,02/12/07,Valladolid,2-0,Villarreal
+14,02/12/07,Getafe,2-1,Levante
+14,02/12/07,Recreativo,2-1,Real Zaragoza
+14,02/12/07,Deportivo,1-2,Osasuna
+14,02/12/07,Mallorca,1-1,Real Murcia
+14,02/12/07,Real Betis,0-2,Atlético de Madrid
+14,02/12/07,Valencia,0-3,Athletic Bilbao
+2,05/12/07,Osasuna,1-1,Sevilla
+15,08/12/07,Osasuna,0-0,Valencia
+15,08/12/07,Athletic Bilbao,0-1,Real Madrid
+15,09/12/07,Almería,1-0,Valladolid
+15,09/12/07,Villarreal,0-1,Real Betis
+15,09/12/07,Levante,0-2,Recreativo
+15,09/12/07,Real Zaragoza,3-3,Espanyol
+15,09/12/07,Racing Santander,3-1,Mallorca
+15,09/12/07,Sevilla,3-1,Real Murcia
+15,09/12/07,Atlético de Madrid,1-0,Getafe
+15,09/12/07,Barcelona,2-1,Deportivo
+16,15/12/07,Espanyol,1-0,Levante
+16,15/12/07,Valencia,0-3,Barcelona
+16,16/12/07,Valladolid,0-0,Sevilla
+16,16/12/07,Real Betis,3-1,Almería
+16,16/12/07,Getafe,1-3,Villarreal
+16,16/12/07,Deportivo,1-1,Real Zaragoza
+16,16/12/07,Mallorca,0-0,Athletic Bilbao
+16,16/12/07,Real Murcia,2-1,Racing Santander
+16,16/12/07,Recreativo,0-0,Atlético de Madrid
+16,16/12/07,Real Madrid,2-0,Osasuna
+17,22/12/07,Almería,0-2,Getafe
+17,22/12/07,Real Zaragoza,2-2,Valencia
+17,22/12/07,Sevilla,4-1,Racing Santander
+17,23/12/07,Valladolid,0-0,Real Betis
+17,23/12/07,Villarreal,1-1,Recreativo
+17,23/12/07,Atlético de Madrid,1-2,Espanyol
+17,23/12/07,Levante,0-1,Deportivo
+17,23/12/07,Osasuna,3-1,Mallorca
+17,23/12/07,Barcelona,0-1,Real Madrid
+17,23/12/07,Athletic Bilbao,1-1,Real Murcia
+18,05/01/08,Mallorca,0-2,Barcelona
+18,05/01/08,Espanyol,3-0,Villarreal
+18,06/01/08,Getafe,0-3,Valladolid
+18,06/01/08,Recreativo,1-1,Almería
+18,06/01/08,Deportivo,0-3,Atlético de Madrid
+18,06/01/08,Valencia,0-0,Levante
+18,06/01/08,Real Murcia,2-0,Osasuna
+18,06/01/08,Racing Santander,1-0,Athletic Bilbao
+18,06/01/08,Real Madrid,2-0,Real Zaragoza
+18,06/01/08,Sevilla,3-0,Real Betis
+19,12/01/08,Athletic Bilbao,2-0,Sevilla
+19,13/01/08,Real Betis,3-2,Getafe
+19,13/01/08,Valladolid,3-1,Recreativo
+19,13/01/08,Almería,1-0,Espanyol
+19,13/01/08,Villarreal,4-3,Deportivo
+19,13/01/08,Real Zaragoza,2-2,Mallorca
+19,13/01/08,Barcelona,4-0,Real Murcia
+19,13/01/08,Osasuna,0-2,Racing Santander
+19,13/01/08,Levante,0-2,Real Madrid
+19,13/01/08,Atlético de Madrid,1-0,Valencia
+20,19/01/08,Getafe,3-2,Sevilla
+20,19/01/08,Villarreal,3-0,Valencia
+20,20/01/08,Osasuna,2-0,Athletic Bilbao
+20,20/01/08,Real Zaragoza,3-1,Real Murcia
+20,20/01/08,Levante,2-2,Mallorca
+20,20/01/08,Almería,1-0,Deportivo
+20,20/01/08,Valladolid,2-1,Espanyol
+20,20/01/08,Real Betis,1-1,Recreativo
+20,20/01/08,Atlético de Madrid,0-2,Real Madrid
+20,20/01/08,Barcelona,1-0,Racing Santander
+21,26/01/08,Sevilla,2-1,Osasuna
+21,27/01/08,Racing Santander,2-2,Real Zaragoza
+21,27/01/08,Real Murcia,2-3,Levante
+21,27/01/08,Mallorca,1-0,Atlético de Madrid
+21,27/01/08,Valencia,0-1,Almería
+21,27/01/08,Deportivo,3-1,Valladolid
+21,27/01/08,Espanyol,1-2,Real Betis
+21,27/01/08,Recreativo,1-3,Getafe
+21,27/01/08,Athletic Bilbao,1-1,Barcelona
+21,27/01/08,Real Madrid,3-2,Villarreal
+22,02/02/08,Almería,2-0,Real Madrid
+22,02/02/08,Real Betis,0-1,Deportivo
+22,03/02/08,Real Zaragoza,1-0,Athletic Bilbao
+22,03/02/08,Levante,1-1,Racing Santander
+22,03/02/08,Atlético de Madrid,1-1,Real Murcia
+22,03/02/08,Villarreal,1-1,Mallorca
+22,03/02/08,Valladolid,0-2,Valencia
+22,03/02/08,Recreativo,1-2,Sevilla
+22,03/02/08,Barcelona,1-0,Osasuna
+22,03/02/08,Getafe,0-1,Espanyol
+23,09/02/08,Real Murcia,0-1,Villarreal
+23,09/02/08,Deportivo,1-1,Getafe
+23,09/02/08,Sevilla,1-1,Barcelona
+23,10/02/08,Osasuna,1-0,Real Zaragoza
+23,10/02/08,Athletic Bilbao,1-0,Levante
+23,10/02/08,Racing Santander,0-2,Atlético de Madrid
+23,10/02/08,Mallorca,0-0,Almería
+23,10/02/08,Espanyol,1-2,Recreativo
+23,10/02/08,Real Madrid,7-0,Valladolid
+23,10/02/08,Valencia,3-1,Real Betis
+24,16/02/08,Real Betis,2-1,Real Madrid
+24,16/02/08,Espanyol,2-4,Sevilla
+24,16/02/08,Real Zaragoza,1-2,Barcelona
+24,17/02/08,Levante,2-1,Osasuna
+24,17/02/08,Villarreal,0-0,Racing Santander
+24,17/02/08,Almería,1-0,Real Murcia
+24,17/02/08,Valladolid,1-1,Mallorca
+24,17/02/08,Recreativo,3-2,Deportivo
+24,17/02/08,Getafe,0-0,Valencia
+24,17/02/08,Atlético de Madrid,1-2,Athletic Bilbao
+25,23/02/08,Valencia,1-1,Recreativo
+25,23/02/08,Sevilla,5-0,Real Zaragoza
+25,24/02/08,Osasuna,3-1,Atlético de Madrid
+25,24/02/08,Athletic Bilbao,1-2,Villarreal
+25,24/02/08,Racing Santander,1-0,Almería
+25,24/02/08,Real Murcia,0-1,Valladolid
+25,24/02/08,Mallorca,1-1,Real Betis
+25,24/02/08,Deportivo,2-0,Espanyol
+25,24/02/08,Barcelona,5-1,Levante
+25,24/02/08,Real Madrid,0-1,Getafe
+26,01/03/08,Atlético de Madrid,4-2,Barcelona
+26,01/03/08,Recreativo,2-3,Real Madrid
+26,01/03/08,Deportivo,2-1,Sevilla
+26,01/03/08,Espanyol,2-0,Valencia
+26,02/03/08,Levante,2-1,Real Zaragoza
+26,02/03/08,Valladolid,0-1,Racing Santander
+26,02/03/08,Real Betis,4-0,Real Murcia
+26,02/03/08,Getafe,3-3,Mallorca
+26,02/03/08,Villarreal,0-0,Osasuna
+26,02/03/08,Almería,1-1,Athletic Bilbao
+27,08/03/08,Real Madrid,2-1,Espanyol
+27,08/03/08,Real Zaragoza,2-1,Atlético de Madrid
+27,09/03/08,Sevilla,2-1,Levante
+27,09/03/08,Osasuna,2-1,Almería
+27,09/03/08,Athletic Bilbao,2-0,Valladolid
+27,09/03/08,Racing Santander,3-0,Real Betis
+27,09/03/08,Real Murcia,0-3,Getafe
+27,09/03/08,Mallorca,7-1,Recreativo
+27,09/03/08,Valencia,2-2,Deportivo
+27,09/03/08,Barcelona,1-2,Villarreal
+28,15/03/08,Real Betis,1-2,Athletic Bilbao
+28,15/03/08,Recreativo,4-2,Real Murcia
+28,15/03/08,Deportivo,1-0,Real Madrid
+28,15/03/08,Valencia,1-2,Sevilla
+28,16/03/08,Villarreal,2-0,Real Zaragoza
+28,16/03/08,Valladolid,0-0,Osasuna
+28,16/03/08,Getafe,2-1,Racing Santander
+28,16/03/08,Espanyol,2-1,Mallorca
+28,16/03/08,Almería,2-2,Barcelona
+28,16/03/08,Atlético de Madrid,3-0,Levante
+29,22/03/08,Mallorca,1-0,Deportivo
+29,22/03/08,Sevilla,1-2,Atlético de Madrid
+29,23/03/08,Levante,1-2,Villarreal
+29,23/03/08,Real Zaragoza,1-1,Almería
+29,23/03/08,Barcelona,4-1,Valladolid
+29,23/03/08,Osasuna,0-1,Real Betis
+29,23/03/08,Racing Santander,2-0,Recreativo
+29,23/03/08,Real Murcia,4-0,Espanyol
+29,23/03/08,Real Madrid,2-3,Valencia
+29,23/03/08,Athletic Bilbao,1-0,Getafe
+30,29/03/08,Real Betis,3-2,Barcelona
+30,29/03/08,Villarreal,3-0,Atlético de Madrid
+30,30/03/08,Almería,2-1,Levante
+30,30/03/08,Valladolid,2-1,Real Zaragoza
+30,30/03/08,Getafe,0-2,Osasuna
+30,30/03/08,Recreativo,1-1,Athletic Bilbao
+30,30/03/08,Espanyol,0-3,Racing Santander
+30,30/03/08,Valencia,0-3,Mallorca
+30,30/03/08,Deportivo,3-1,Real Murcia
+30,30/03/08,Real Madrid,3-1,Sevilla

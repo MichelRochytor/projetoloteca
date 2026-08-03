@@ -1,0 +1,96 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,21/01/01,Fluminense de Feira,2-1,Juazeiro
+1F,21/01/01,Colo Colo-BA,1-0,Cruzeiro-BA
+1F,21/01/01,Barreiras,3-2,Poções
+1F,21/01/01,Atlético-BA,1-2,Camaçari
+1F,28/01/01,Cruzeiro-BA,0-1,Fluminense de Feira
+1F,28/01/01,Poções,2-2,Colo Colo-BA
+1F,28/01/01,Camaçari,2-0,Barreiras
+1F,28/01/01,Juazeiro,4-2,Atlético-BA
+1F,04/02/01,Fluminense de Feira,2-0,Barreiras
+1F,04/02/01,Colo Colo-BA,2-1,Camaçari
+1F,04/02/01,Poções,2-2,Juazeiro
+1F,04/02/01,Atlético-BA,3-1,Cruzeiro-BA
+1F,11/02/01,Barreiras,3-0,Atlético-BA
+1F,11/02/01,Camaçari,2-3,Poções
+1F,11/02/01,Cruzeiro-BA,1-3,Juazeiro
+1F,17/02/01,Colo Colo-BA,4-1,Barreiras
+1F,18/02/01,Poções,3-2,Cruzeiro-BA
+1F,18/02/01,Atlético-BA,1-1,Fluminense de Feira
+1F,25/02/01,Fluminense de Feira,2-2,Colo Colo-BA
+1F,25/02/01,Juazeiro,3-0,Camaçari
+1F,04/03/01,Colo Colo-BA,5-4,Atlético-BA
+1F,04/03/01,Barreiras,1-1,Juazeiro
+1F,04/03/01,Cruzeiro-BA,2-3,Camaçari
+1F,07/03/01,Fluminense de Feira,2-1,Poções
+1F,11/03/01,Poções,4-2,Atlético-BA
+1F,11/03/01,Juazeiro,5-2,Colo Colo-BA
+1F,11/03/01,Cruzeiro-BA,3-3,Barreiras
+1F,14/03/01,Camaçari,2-2,Fluminense de Feira
+1F,18/03/01,Colo Colo-BA,4-4,Juazeiro
+1F,18/03/01,Barreiras,0-0,Cruzeiro-BA
+1F,18/03/01,Atlético-BA,0-3,Poções
+1F,21/03/01,Fluminense de Feira,1-0,Camaçari
+1F,25/03/01,Camaçari,2-0,Cruzeiro-BA
+1F,25/03/01,Atlético-BA,2-1,Colo Colo-BA
+1F,25/03/01,Juazeiro,1-1,Barreiras
+1F,28/03/01,Poções,3-2,Fluminense de Feira
+1F,01/04/01,Barreiras,2-1,Colo Colo-BA
+1F,01/04/01,Cruzeiro-BA,2-4,Poções
+1F,01/04/01,Camaçari,6-2,Juazeiro
+1F,04/04/01,Fluminense de Feira,1-1,Atlético-BA
+1F,08/04/01,Atlético-BA,1-0,Barreiras
+1F,08/04/01,Poções,1-1,Camaçari
+1F,08/04/01,Juazeiro,3-1,Cruzeiro-BA
+1F,11/04/01,Colo Colo-BA,0-0,Fluminense de Feira
+1F,15/04/01,Camaçari,2-2,Colo Colo-BA
+1F,15/04/01,Juazeiro,3-2,Poções
+1F,15/04/01,Cruzeiro-BA,1-0,Atlético-BA
+1F,18/04/01,Barreiras,2-0,Fluminense de Feira
+1F,22/04/01,Colo Colo-BA,1-2,Poções
+1F,22/04/01,Barreiras,1-1,Camaçari
+1F,22/04/01,Atlético-BA,0-1,Juazeiro
+1F,24/04/01,Fluminense de Feira,2-2,Cruzeiro-BA
+1F,26/04/01,Juazeiro,2-1,Fluminense de Feira
+1F,26/04/01,Cruzeiro-BA,1-2,Colo Colo-BA
+1F,26/04/01,Poções,1-1,Barreiras
+1F,26/04/01,Camaçari,4-1,Atlético-BA
+F,29/04/01,Juazeiro,2-0,Poções
+B,06/05/01,Vitória,3-1,Fluminense de Feira
+B,06/05/01,Bahia,5-2,Juazeiro
+B,06/05/01,Barreiras,3-1,Camaçari
+B,06/05/01,Colo Colo-BA,1-1,Poções
+B,09/05/01,Juazeiro,2-1,Barreiras
+B,09/05/01,Poções,3-1,Fluminense de Feira
+B,11/05/01,Camaçari,2-1,Bahia
+B,11/05/01,Colo Colo-BA,2-1,Vitória
+B,13/05/01,Bahia,0-1,Vitória
+B,13/05/01,Fluminense de Feira,1-3,Camaçari
+B,13/05/01,Juazeiro,1-2,Colo Colo-BA
+B,13/05/01,Barreiras,0-0,Poções
+B,16/05/01,Fluminense de Feira,2-3,Juazeiro
+B,16/05/01,Camaçari,1-0,Colo Colo-BA
+B,16/05/01,Vitória,3-0,Barreiras
+B,16/05/01,Poções,2-3,Bahia
+B,20/05/01,Bahia,6-0,Poções
+B,20/05/01,Barreiras,0-3,Vitória
+B,20/05/01,Colo Colo-BA,1-1,Camaçari
+B,20/05/01,Juazeiro,3-0,Fluminense de Feira
+B,23/05/01,Juazeiro,4-1,Bahia
+B,23/05/01,Vitória,1-1,Colo Colo-BA
+B,23/05/01,Fluminense de Feira,0-0,Poções
+B,23/05/01,Camaçari,0-2,Barreiras
+B,27/05/01,Vitória,3-0,Bahia
+B,27/05/01,Poções,2-2,Barreiras
+B,27/05/01,Camaçari,1-2,Fluminense de Feira
+B,28/05/01,Colo Colo-BA,2-2,Juazeiro
+B,30/05/01,Bahia,5-1,Camaçari
+B,30/05/01,Fluminense de Feira,2-1,Vitória
+B,30/05/01,Barreiras,2-3,Juazeiro
+B,30/05/01,Poções,1-1,Colo Colo-BA
+SF,03/06/01,Juazeiro,2-1,Vitória
+SF,03/06/01,Colo Colo-BA,0-3,Bahia
+SF,06/06/01,Vitória,0-1,Juazeiro
+SF,06/06/01,Bahia,3-0,Colo Colo-BA
+F,10/06/01,Bahia,1-1,Juazeiro
+F,14/06/01,Juazeiro,1-3,Bahia

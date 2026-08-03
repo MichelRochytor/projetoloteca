@@ -1,0 +1,307 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/03,Derby County,4-1,Small Heath
+1,01/09/03,Everton,3-1,Blackburn Rovers
+1,01/09/03,Stoke City,4-1,Bury
+1,01/09/03,Sunderland,4-1,Notts County
+1,02/09/03,Newcastle,1-1,Aston Villa
+1,02/09/03,West Bromwich,0-1,The Wednesday
+1,05/09/03,Nottingham Forest,2-1,Liverpool
+2,05/09/03,Small Heath,1-3,Sheffield United
+2,05/09/03,Blackburn Rovers,2-2,Bury
+2,05/09/03,Derby County,2-1,Wolverhampton
+2,05/09/03,Everton,3-1,Notts County
+2,05/09/03,The Wednesday,4-1,Middlesbrough
+2,05/09/03,Stoke City,1-2,Manchester City
+2,05/09/03,Sunderland,6-1,Aston Villa
+2,05/09/03,West Bromwich,1-2,Newcastle
+3,07/09/03,Small Heath,3-3,Nottingham Forest
+3,12/09/03,Wolverhampton,1-0,Blackburn Rovers
+3,12/09/03,Sheffield United,2-1,Everton
+3,12/09/03,Notts County,1-0,Stoke City
+3,12/09/03,Newcastle,3-1,Small Heath
+3,12/09/03,Middlesbrough,2-3,Sunderland
+3,12/09/03,Manchester City,2-1,Derby County
+3,12/09/03,Liverpool,1-3,The Wednesday
+3,12/09/03,Bury,2-2,Nottingham Forest
+3,12/09/03,Aston Villa,3-1,West Bromwich
+3,19/09/03,Manchester City,4-1,Wolverhampton
+4,19/09/03,Derby County,0-1,Notts County
+4,19/09/03,Everton,4-1,Newcastle
+4,19/09/03,Nottingham Forest,0-1,Blackburn Rovers
+4,19/09/03,The Wednesday,1-1,Bury
+4,19/09/03,Stoke City,3-4,Sheffield United
+4,19/09/03,Sunderland,2-1,Liverpool
+4,19/09/03,West Bromwich,0-0,Middlesbrough
+5,19/09/03,Small Heath,2-2,Aston Villa
+4,26/09/03,Notts County,0-3,Manchester City
+5,26/09/03,Wolverhampton,3-2,Nottingham Forest
+5,26/09/03,Sheffield United,3-2,Derby County
+5,26/09/03,Newcastle,1-0,Stoke City
+5,26/09/03,Liverpool,1-3,West Bromwich
+5,26/09/03,Bury,3-1,Sunderland
+5,26/09/03,Blackburn Rovers,0-0,The Wednesday
+5,26/09/03,Aston Villa,3-1,Everton
+6,26/09/03,Middlesbrough,3-1,Small Heath
+5,01/10/03,Notts County,4-2,Liverpool
+5,03/10/03,Manchester City,0-1,Sheffield United
+6,03/10/03,Derby County,1-3,Newcastle
+6,03/10/03,Everton,2-0,Middlesbrough
+6,03/10/03,The Wednesday,2-1,Nottingham Forest
+6,03/10/03,Stoke City,2-0,Aston Villa
+6,03/10/03,Sunderland,2-0,Blackburn Rovers
+6,03/10/03,West Bromwich,3-2,Bury
+7,03/10/03,Small Heath,1-2,Liverpool
+7,03/10/03,Notts County,0-2,Wolverhampton
+7,10/10/03,Wolverhampton,2-1,The Wednesday
+7,10/10/03,Nottingham Forest,3-0,Sunderland
+7,10/10/03,Newcastle,1-0,Manchester City
+7,10/10/03,Middlesbrough,2-0,Stoke City
+7,10/10/03,Liverpool,2-2,Everton
+7,10/10/03,Blackburn Rovers,2-0,West Bromwich
+7,10/10/03,Aston Villa,3-0,Derby County
+8,10/10/03,Bury,1-0,Small Heath
+8,10/10/03,Sheffield United,3-1,Notts County
+7,17/10/03,Sheffield United,7-2,Wolverhampton
+8,17/10/03,West Bromwich,1-1,Nottingham Forest
+8,17/10/03,Sunderland,0-1,The Wednesday
+8,17/10/03,Stoke City,5-2,Liverpool
+8,17/10/03,Notts County,3-2,Newcastle
+8,17/10/03,Manchester City,1-0,Aston Villa
+8,17/10/03,Everton,2-1,Bury
+8,17/10/03,Derby County,2-2,Middlesbrough
+9,17/10/03,Small Heath,2-1,Blackburn Rovers
+8,24/10/03,Middlesbrough,6-0,Manchester City
+9,24/10/03,Aston Villa,4-0,Notts County
+9,24/10/03,Blackburn Rovers,0-2,Everton
+9,24/10/03,Bury,2-2,Stoke City
+9,24/10/03,Liverpool,3-1,Derby County
+9,24/10/03,Newcastle,0-1,Sheffield United
+9,24/10/03,The Wednesday,1-0,West Bromwich
+9,24/10/03,Wolverhampton,2-1,Sunderland
+10,24/10/03,Nottingham Forest,0-1,Small Heath
+9,31/10/03,Notts County,3-2,Middlesbrough
+10,31/10/03,Derby County,2-2,Bury
+10,31/10/03,Everton,0-2,Nottingham Forest
+10,31/10/03,Manchester City,3-2,Liverpool
+10,31/10/03,Newcastle,3-0,Wolverhampton
+10,31/10/03,Sheffield United,1-2,Aston Villa
+10,31/10/03,Stoke City,6-2,Blackburn Rovers
+10,31/10/03,West Bromwich,1-1,Sunderland
+11,31/10/03,Small Heath,0-0,The Wednesday
+10,07/11/03,Middlesbrough,4-1,Sheffield United
+11,07/11/03,Aston Villa,3-1,Newcastle
+11,07/11/03,Blackburn Rovers,2-1,Derby County
+11,07/11/03,Bury,1-3,Manchester City
+11,07/11/03,Liverpool,2-1,Notts County
+11,07/11/03,The Wednesday,1-0,Everton
+11,07/11/03,Sunderland,3-1,Small Heath
+11,07/11/03,Wolverhampton,1-0,West Bromwich
+11,14/11/03,Stoke City,3-1,The Wednesday
+12,14/11/03,Aston Villa,2-0,Wolverhampton
+12,14/11/03,Sheffield United,2-1,Liverpool
+12,14/11/03,Notts County,0-0,Bury
+12,14/11/03,Newcastle,2-1,Middlesbrough
+12,14/11/03,Manchester City,1-0,Blackburn Rovers
+12,14/11/03,Everton,0-1,Sunderland
+12,14/11/03,Derby County,2-6,Nottingham Forest
+12,14/11/03,Small Heath,0-1,West Bromwich
+12,21/11/03,Nottingham Forest,0-3,Manchester City
+12,21/11/03,Sunderland,3-0,Stoke City
+13,21/11/03,Blackburn Rovers,3-0,Notts County
+13,21/11/03,Bury,0-1,Sheffield United
+13,21/11/03,Liverpool,1-0,Newcastle
+13,21/11/03,Middlesbrough,2-1,Aston Villa
+13,21/11/03,The Wednesday,1-0,Derby County
+13,21/11/03,West Bromwich,0-0,Everton
+14,21/11/03,Wolverhampton,1-0,Small Heath
+13,25/11/03,Nottingham Forest,4-2,Stoke City
+13,28/11/03,Middlesbrough,1-2,Wolverhampton
+14,28/11/03,Aston Villa,2-1,Liverpool
+14,28/11/03,Derby County,7-2,Sunderland
+14,28/11/03,Everton,5-1,Small Heath
+14,28/11/03,Manchester City,1-1,The Wednesday
+14,28/11/03,Newcastle,3-2,Bury
+14,28/11/03,Notts County,1-3,Nottingham Forest
+14,28/11/03,Sheffield United,2-2,Blackburn Rovers
+14,28/11/03,Stoke City,5-0,West Bromwich
+15,05/12/03,Small Heath,1-0,Stoke City
+15,05/12/03,Wolverhampton,2-2,Everton
+15,05/12/03,Sunderland,1-1,Manchester City
+15,05/12/03,Nottingham Forest,1-1,Sheffield United
+15,05/12/03,Bury,2-2,Aston Villa
+15,05/12/03,Blackburn Rovers,4-0,Newcastle
+15,12/12/03,Liverpool,1-2,Wolverhampton
+15,12/12/03,Manchester City,6-3,West Bromwich
+15,12/12/03,Sheffield United,1-1,The Wednesday
+16,12/12/03,Aston Villa,2-3,Blackburn Rovers
+16,12/12/03,Middlesbrough,1-0,Bury
+16,12/12/03,Newcastle,3-1,Nottingham Forest
+16,12/12/03,Notts County,2-1,Sunderland
+16,12/12/03,Stoke City,2-3,Everton
+15,14/12/03,West Bromwich,0-0,Derby County
+16,19/12/03,Everton,0-1,Derby County
+17,19/12/03,Small Heath,0-3,Manchester City
+17,19/12/03,West Bromwich,0-0,Notts County
+17,19/12/03,Sunderland,2-1,Sheffield United
+17,19/12/03,Stoke City,5-1,Wolverhampton
+17,19/12/03,The Wednesday,1-1,Newcastle
+17,19/12/03,Nottingham Forest,3-7,Aston Villa
+17,19/12/03,Bury,2-2,Liverpool
+17,19/12/03,Blackburn Rovers,1-1,Middlesbrough
+17,25/12/03,Derby County,2-0,Liverpool
+18,25/12/03,Blackburn Rovers,2-0,Stoke City
+18,25/12/03,Nottingham Forest,0-1,Notts County
+18,25/12/03,Sheffield United,2-2,Newcastle
+17,26/12/03,Aston Villa,2-1,The Wednesday
+18,26/12/03,Wolverhampton,0-0,Bury
+18,26/12/03,Sheffield United,4-0,West Bromwich
+18,26/12/03,Notts County,2-0,Small Heath
+18,26/12/03,Newcastle,1-3,Sunderland
+18,26/12/03,Manchester City,1-3,Everton
+18,26/12/03,Derby County,5-0,Stoke City
+19,26/12/03,Liverpool,1-2,Blackburn Rovers
+19,26/12/03,Middlesbrough,1-1,Nottingham Forest
+18,28/12/03,Sheffield United,5-3,Manchester City
+19,28/12/03,Derby County,2-2,Aston Villa
+19,28/12/03,West Bromwich,2-1,Blackburn Rovers
+19,28/12/03,Wolverhampton,4-2,Liverpool
+20,28/12/03,Stoke City,0-0,Middlesbrough
+18,01/01/04,The Wednesday,4-0,Wolverhampton
+19,01/01/04,Sunderland,1-1,Newcastle
+19,01/01/04,Manchester City,1-1,Middlesbrough
+19,01/01/04,Bury,3-0,Notts County
+21,01/01/04,Blackburn Rovers,3-1,Nottingham Forest
+19,02/01/04,Middlesbrough,0-1,The Wednesday
+19,02/01/04,Notts County,0-3,Everton
+19,02/01/04,Sheffield United,1-1,Small Heath
+20,02/01/04,Aston Villa,2-0,Sunderland
+20,02/01/04,Wolverhampton,2-2,Derby County
+21,02/01/04,Liverpool,0-0,Nottingham Forest
+21,02/01/04,Manchester City,2-2,Stoke City
+21,02/01/04,Newcastle,1-0,West Bromwich
+22,02/01/04,Bury,3-0,Blackburn Rovers
+20,09/01/04,Everton,2-0,Sheffield United
+20,09/01/04,The Wednesday,2-1,Liverpool
+21,09/01/04,West Bromwich,1-3,Aston Villa
+21,09/01/04,Sunderland,3-1,Middlesbrough
+21,09/01/04,Derby County,2-3,Manchester City
+22,09/01/04,Small Heath,3-0,Newcastle
+22,09/01/04,Nottingham Forest,2-2,Bury
+22,09/01/04,Stoke City,0-2,Notts County
+23,09/01/04,Blackburn Rovers,1-1,Wolverhampton
+21,16/01/04,Aston Villa,1-1,Small Heath
+21,16/01/04,Bury,1-0,The Wednesday
+21,16/01/04,Newcastle,1-0,Everton
+22,16/01/04,Notts County,2-2,Derby County
+22,16/01/04,Middlesbrough,2-2,West Bromwich
+22,16/01/04,Liverpool,2-1,Sunderland
+23,16/01/04,Sheffield United,1-1,Stoke City
+22,23/01/04,Small Heath,2-2,Middlesbrough
+22,23/01/04,Everton,1-0,Aston Villa
+22,23/01/04,Manchester City,3-0,Notts County
+23,23/01/04,Derby County,3-5,Sheffield United
+23,23/01/04,Nottingham Forest,5-0,Wolverhampton
+23,23/01/04,Sunderland,6-0,Bury
+23,23/01/04,West Bromwich,2-2,Liverpool
+24,23/01/04,The Wednesday,3-1,Blackburn Rovers
+24,23/01/04,Stoke City,2-3,Newcastle
+23,30/01/04,Liverpool,0-2,Small Heath
+23,30/01/04,Middlesbrough,3-0,Everton
+24,30/01/04,Blackburn Rovers,1-3,Sunderland
+24,30/01/04,Bury,2-1,West Bromwich
+24,30/01/04,Newcastle,0-0,Derby County
+24,30/01/04,Nottingham Forest,0-1,The Wednesday
+25,30/01/04,Aston Villa,3-1,Stoke City
+25,30/01/04,Wolverhampton,1-1,Notts County
+24,13/02/04,Blackburn Rovers,1-1,Small Heath
+24,13/02/04,Bury,0-0,Everton
+24,13/02/04,Wolverhampton,1-0,Sheffield United
+25,13/02/04,Aston Villa,0-1,Manchester City
+25,13/02/04,Middlesbrough,0-0,Derby County
+25,13/02/04,The Wednesday,0-0,Sunderland
+26,13/02/04,Liverpool,0-0,Stoke City
+26,13/02/04,Newcastle,4-1,Notts County
+25,20/02/04,Notts County,2-3,West Bromwich
+25,22/02/04,The Wednesday,2-0,Notts County
+26,22/02/04,Liverpool,1-0,Middlesbrough
+25,27/02/04,Nottingham Forest,0-4,Everton
+25,27/02/04,The Wednesday,3-2,Small Heath
+26,27/02/04,Aston Villa,6-1,Sheffield United
+26,27/02/04,Bury,2-2,Derby County
+26,27/02/04,Middlesbrough,1-0,Notts County
+26,27/02/04,Sunderland,1-1,West Bromwich
+27,27/02/04,Liverpool,2-2,Manchester City
+27,27/02/04,Wolverhampton,3-2,Newcastle
+27,05/03/04,Small Heath,2-1,Sunderland
+27,05/03/04,Stoke City,2-3,Nottingham Forest
+27,05/03/04,West Bromwich,1-2,Wolverhampton
+26,12/03/04,Sunderland,2-0,Everton
+27,12/03/04,Wolverhampton,3-2,Aston Villa
+27,12/03/04,Nottingham Forest,5-1,Derby County
+27,12/03/04,Blackburn Rovers,2-5,Manchester City
+28,12/03/04,Liverpool,3-0,Sheffield United
+28,12/03/04,Middlesbrough,1-3,Newcastle
+28,12/03/04,The Wednesday,1-0,Stoke City
+28,12/03/04,West Bromwich,0-1,Small Heath
+27,19/03/04,Sheffield United,0-0,Bury
+28,19/03/04,Notts County,4-2,Blackburn Rovers
+28,19/03/04,Small Heath,3-0,Wolverhampton
+28,19/03/04,Aston Villa,2-1,Middlesbrough
+29,19/03/04,Newcastle,1-1,Liverpool
+29,19/03/04,Stoke City,3-1,Sunderland
+26,21/03/04,Wolverhampton,1-6,Manchester City
+27,26/03/04,Small Heath,1-1,Everton
+28,26/03/04,The Wednesday,1-0,Manchester City
+28,26/03/04,Sunderland,0-3,Derby County
+29,26/03/04,Blackburn Rovers,3-0,Sheffield United
+29,26/03/04,Liverpool,1-1,Aston Villa
+29,26/03/04,Wolverhampton,2-2,Middlesbrough
+30,26/03/04,Bury,0-3,Newcastle
+30,26/03/04,West Bromwich,3-0,Stoke City
+30,28/03/04,Sheffield United,3-0,Middlesbrough
+30,30/03/04,Nottingham Forest,2-0,West Bromwich
+28,01/04/04,Everton,5-2,Liverpool
+30,01/04/04,Notts County,0-0,Aston Villa
+31,01/04/04,Manchester City,1-3,Newcastle
+31,01/04/04,Sunderland,2-1,Wolverhampton
+29,02/04/04,Derby County,4-2,West Bromwich
+29,02/04/04,Everton,2-0,Wolverhampton
+29,02/04/04,Notts County,1-0,The Wednesday
+29,02/04/04,Sheffield United,2-0,Nottingham Forest
+31,02/04/04,Aston Villa,0-2,Bury
+31,02/04/04,Stoke City,1-0,Small Heath
+32,02/04/04,Manchester City,2-1,Sunderland
+32,02/04/04,Middlesbrough,1-0,Liverpool
+32,02/04/04,Newcastle,2-1,Blackburn Rovers
+30,04/04/04,Everton,2-0,The Wednesday
+31,04/04/04,Small Heath,1-0,Bury
+32,04/04/04,Wolverhampton,0-0,Stoke City
+33,04/04/04,Notts County,2-1,Sheffield United
+33,04/04/04,Sunderland,3-1,Nottingham Forest
+30,09/04/04,Small Heath,1-0,Derby County
+31,09/04/04,The Wednesday,3-0,Sheffield United
+31,09/04/04,Everton,0-1,Stoke City
+31,09/04/04,Bury,1-1,Middlesbrough
+31,09/04/04,Blackburn Rovers,0-3,Aston Villa
+32,09/04/04,West Bromwich,2-1,Manchester City
+33,09/04/04,Nottingham Forest,1-0,Newcastle
+31,11/04/04,Derby County,3-0,Blackburn Rovers
+32,11/04/04,Manchester City,3-0,Bury
+32,13/04/04,Manchester City,0-0,Nottingham Forest
+32,16/04/04,Derby County,0-1,Everton
+33,16/04/04,Middlesbrough,0-2,Blackburn Rovers
+33,16/04/04,Manchester City,4-0,Small Heath
+33,16/04/04,Liverpool,3-0,Bury
+33,16/04/04,Aston Villa,3-1,Nottingham Forest
+34,16/04/04,Newcastle,4-0,The Wednesday
+34,16/04/04,Sheffield United,1-2,Sunderland
+33,18/04/04,Everton,4-0,West Bromwich
+33,23/04/04,The Wednesday,4-2,Aston Villa
+33,23/04/04,Stoke City,1-1,Derby County
+34,23/04/04,Small Heath,2-0,Notts County
+34,23/04/04,Blackburn Rovers,2-3,Liverpool
+34,23/04/04,Bury,0-0,Wolverhampton
+34,23/04/04,Nottingham Forest,1-1,Middlesbrough
+34,23/04/04,West Bromwich,2-2,Sheffield United
+34,25/04/04,Everton,1-0,Manchester City
+34,30/04/04,Derby County,0-2,The Wednesday

@@ -1,0 +1,107 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,16/07/11,Guarany de Sobral,2-0,Campinense
+C,16/07/11,Brasiliense,1-0,Madureira
+C,16/07/11,Macaé,2-2,Marília
+B,16/07/11,CRB,1-0,Fortaleza
+A,16/07/11,Águia,1-0,Luverdense
+D,17/07/11,Caxias,2-2,Chapecoense
+D,17/07/11,Santo André,2-3,GE Brasil
+A,18/07/11,Araguaína,0-1,Paysandu
+C,23/07/11,Madureira,0-1,Ipatinga
+B,23/07/11,Campinense,2-0,CRB
+B,23/07/11,Fortaleza,1-3,América-RN
+C,23/07/11,Marília,1-0,Brasiliense
+D,24/07/11,Chapecoense,3-0,Santo André
+D,24/07/11,GE Brasil,1-1,Joinville
+A,24/07/11,Luverdense,4-0,Araguaína
+A,25/07/11,Paysandu,1-1,Rio Branco-AC
+B,30/07/11,América-RN,1-0,Campinense
+B,30/07/11,CRB,2-0,Guarany de Sobral
+C,30/07/11,Brasiliense,2-0,Macaé
+C,30/07/11,Ipatinga,4-1,Marília
+D,31/07/11,Joinville,2-1,Chapecoense
+D,31/07/11,Santo André,1-0,Caxias
+A,31/07/11,Rio Branco-AC,2-3,Luverdense
+A,01/08/11,Araguaína,1-1,Águia
+C,06/08/11,Madureira,1-1,Macaé
+B,06/08/11,América-RN,4-0,CRB
+B,06/08/11,Fortaleza,3-1,Guarany de Sobral
+C,06/08/11,Ipatinga,0-2,Brasiliense
+A,07/08/11,Paysandu,2-1,Águia
+D,07/08/11,Joinville,2-0,Santo André
+D,07/08/11,GE Brasil,2-0,Caxias
+A,07/08/11,Rio Branco-AC,2-1,Araguaína
+B,13/08/11,Guarany de Sobral,3-0,América-RN
+C,13/08/11,Macaé,1-2,Ipatinga
+C,13/08/11,Marília,3-2,Madureira
+A,13/08/11,Águia,3-0,Rio Branco-AC
+A,13/08/11,Luverdense,1-1,Paysandu
+D,14/08/11,Caxias,2-2,Joinville
+B,14/08/11,Campinense,1-1,Fortaleza
+D,14/08/11,Chapecoense,3-1,GE Brasil
+B,20/08/11,CRB,2-1,América-RN
+C,20/08/11,Brasiliense,2-0,Ipatinga
+C,20/08/11,Macaé,0-1,Madureira
+A,20/08/11,Águia,2-1,Paysandu
+D,21/08/11,Caxias,2-1,GE Brasil
+D,21/08/11,Santo André,1-1,Joinville
+B,21/08/11,Guarany de Sobral,1-1,Fortaleza
+A,21/08/11,Araguaína,0-2,Rio Branco-AC
+C,27/08/11,Madureira,1-0,Marília
+B,27/08/11,América-RN,1-1,Guarany de Sobral
+B,27/08/11,Fortaleza,1-1,Campinense
+C,27/08/11,Ipatinga,4-2,Macaé
+A,28/08/11,Paysandu,1-0,Luverdense
+D,28/08/11,GE Brasil,0-1,Chapecoense
+D,28/08/11,Joinville,2-4,Caxias
+A,28/08/11,Rio Branco-AC,2-1,Águia
+B,03/09/11,Guarany de Sobral,1-1,CRB
+C,03/09/11,Macaé,2-1,Brasiliense
+C,03/09/11,Marília,0-2,Ipatinga
+A,03/09/11,Águia,2-1,Araguaína
+D,04/09/11,Caxias,1-3,Santo André
+D,04/09/11,Chapecoense,0-2,Joinville
+B,04/09/11,Campinense,1-2,América-RN
+A,04/09/11,Luverdense,0-1,Rio Branco-AC
+B,10/09/11,América-RN,4-0,Fortaleza
+B,10/09/11,CRB,1-1,Campinense
+C,11/09/11,Brasiliense,0-0,Marília
+C,11/09/11,Ipatinga,2-0,Madureira
+D,11/09/11,Joinville,5-2,GE Brasil
+D,11/09/11,Santo André,0-2,Chapecoense
+A,11/09/11,Araguaína,0-2,Luverdense
+A,11/09/11,Rio Branco-AC,2-1,Paysandu
+B,17/09/11,Campinense,1-0,Guarany de Sobral
+B,17/09/11,Fortaleza,4-0,CRB
+A,18/09/11,Luverdense,1-0,Águia
+A,18/09/11,Paysandu,5-0,Araguaína
+C,18/09/11,Madureira,2-0,Brasiliense
+C,18/09/11,Marília,4-6,Macaé
+D,18/09/11,GE Brasil,1-1,Santo André
+D,18/09/11,Chapecoense,1-0,Caxias
+E,25/09/11,Paysandu,1-0,América-RN
+F,25/09/11,Joinville,1-0,Ipatinga
+F,26/09/11,Brasiliense,2-2,Chapecoense
+E,01/10/11,América-RN,1-1,CRB
+F,02/10/11,Ipatinga,2-1,Brasiliense
+F,02/10/11,Chapecoense,1-1,Joinville
+E,08/10/11,CRB,3-0,Paysandu
+F,09/10/11,Chapecoense,2-3,Ipatinga
+F,09/10/11,Joinville,4-1,Brasiliense
+E,16/10/11,Paysandu,0-1,CRB
+F,16/10/11,Ipatinga,3-2,Chapecoense
+F,17/10/11,Brasiliense,1-4,Joinville
+F,23/10/11,Joinville,3-2,Chapecoense
+F,24/10/11,Brasiliense,4-1,Ipatinga
+F,30/10/11,Ipatinga,0-1,Joinville
+F,30/10/11,Chapecoense,3-0,Brasiliense
+E,02/11/11,CRB,1-0,Luverdense
+E,06/11/11,Luverdense,1-1,Paysandu
+E,09/11/11,América-RN,1-1,Luverdense
+E,13/11/11,Luverdense,0-2,América-RN
+E,16/11/11,CRB,0-0,América-RN
+E,16/11/11,Paysandu,2-1,Luverdense
+E,20/11/11,América-RN,2-1,Paysandu
+E,20/11/11,Luverdense,1-1,CRB
+F,26/11/11,CRB,1-3,Joinville
+F,03/12/11,Joinville,4-0,CRB

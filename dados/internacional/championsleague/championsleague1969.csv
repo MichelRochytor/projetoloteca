@@ -1,0 +1,62 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,10/09/69,Milan,5-0,Avenir
+1,17/09/69,Leeds United,10-0,Lyn
+1,17/09/69,CSKA Sofia,2-1,Ferencváros
+1,17/09/69,Standard Liège,3-0,17 Nëntori
+1,17/09/69,FC Basel,0-0,Celtic
+1,17/09/69,Austria Wien,1-2,Dynamo Kyiv
+1,17/09/69,Fiorentina,1-0,Osters IF
+1,17/09/69,Galatasaray,2-0,Waterford
+1,17/09/69,Hibernians,2-2,Spartak Trnava
+1,17/09/69,UTA Arad,1-2,Legia Warszawa
+1,17/09/69,Bayern München,2-0,Saint-Étienne
+1,17/09/69,FC Vorwärts Berlin,2-0,Panathinaikos
+1,17/09/69,Crvena Zvezda,8-0,Linfield
+1,17/09/69,SC Feijenoord,12-2,KR
+1,17/09/69,Benfica,2-0,KB
+1,24/09/69,Real Madrid,8-0,Olympiakos Nicosia
+1,24/09/69,Avenir,0-3,Milan
+1,30/09/69,Olympiakos Nicosia,1-6,Real Madrid
+1,30/09/69,KR,0-4,SC Feijenoord
+1,01/10/69,Lyn,0-6,Leeds United
+1,01/10/69,Ferencváros,4-1,CSKA Sofia
+1,01/10/69,17 Nëntori,1-1,Standard Liège
+1,01/10/69,Celtic,2-0,FC Basel
+1,01/10/69,KB,2-3,Benfica
+1,01/10/69,Dynamo Kyiv,3-1,Austria Wien
+1,01/10/69,Osters IF,1-2,Fiorentina
+1,01/10/69,Waterford,2-3,Galatasaray
+1,01/10/69,Spartak Trnava,4-0,Hibernians
+1,01/10/69,Legia Warszawa,8-0,UTA Arad
+1,01/10/69,Saint-Étienne,3-0,Bayern München
+1,01/10/69,Panathinaikos,1-1,FC Vorwärts Berlin
+1,01/10/69,Linfield,2-4,Crvena Zvezda
+2,12/11/69,Leeds United,3-0,Ferencváros
+2,12/11/69,Celtic,3-0,Benfica
+2,12/11/69,Dynamo Kyiv,1-2,Fiorentina
+2,12/11/69,Spartak Trnava,1-0,Galatasaray
+2,12/11/69,Legia Warszawa,2-1,Saint-Étienne
+2,12/11/69,FC Vorwärts Berlin,2-1,Crvena Zvezda
+2,12/11/69,Milan,1-0,SC Feijenoord
+2,19/11/69,Standard Liège,1-0,Real Madrid
+2,26/11/69,Ferencváros,0-3,Leeds United
+2,26/11/69,Fiorentina,0-0,Dynamo Kyiv
+2,26/11/69,Galatasaray,1-0,Spartak Trnava
+2,26/11/69,Saint-Étienne,0-1,Legia Warszawa
+2,26/11/69,Crvena Zvezda,3-2,FC Vorwärts Berlin
+2,26/11/69,SC Feijenoord,2-0,Milan
+2,26/11/69,Benfica,3-0,Celtic
+2,03/12/69,Real Madrid,2-3,Standard Liège
+QF,03/03/70,Standard Liège,0-1,Leeds United
+QF,03/03/70,Celtic,3-0,Fiorentina
+QF,03/03/70,Galatasaray,1-1,Legia Warszawa
+QF,03/03/70,FC Vorwärts Berlin,1-0,SC Feijenoord
+QF,17/03/70,Leeds United,1-0,Standard Liège
+QF,17/03/70,Fiorentina,1-0,Celtic
+QF,17/03/70,Legia Warszawa,2-0,Galatasaray
+QF,17/03/70,SC Feijenoord,2-0,FC Vorwärts Berlin
+SF,31/03/70,Leeds United,0-1,Celtic
+SF,31/03/70,Legia Warszawa,0-0,SC Feijenoord
+SF,14/04/70,Celtic,2-1,Leeds United
+SF,14/04/70,SC Feijenoord,2-0,Legia Warszawa
+F,06/05/70,SC Feijenoord,2-1(Pro.),Celtic

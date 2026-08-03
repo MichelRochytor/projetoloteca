@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,31/08/29,Arsenal,4-0,Leeds United
+1,31/08/29,Aston Villa,2-1,Birmingham City
+1,31/08/29,Blackburn Rovers,3-3,West Ham
+1,31/08/29,Derby County,3-0,Sunderland
+1,31/08/29,Everton,3-3,Bolton Wanderers
+1,31/08/29,Huddersfield Town,3-2,Leicester City
+1,31/08/29,Manchester City,2-2,Burnley
+1,31/08/29,Middlesbrough,5-0,Liverpool
+1,31/08/29,Newcastle,4-1,Manchester United
+1,31/08/29,Portsmouth,0-4,Sheffield Wed.
+1,31/08/29,Sheffield United,2-3,Grimsby Town
+2,02/09/29,Burnley,1-1,Everton
+2,02/09/29,Leicester City,4-1,Manchester United
+2,02/09/29,Sheffield Wed.,1-0,Bolton Wanderers
+2,04/09/29,Birmingham City,4-2,West Ham
+2,04/09/29,Derby County,4-0,Aston Villa
+2,04/09/29,Grimsby Town,1-1,Portsmouth
+2,04/09/29,Liverpool,3-0,Huddersfield Town
+2,04/09/29,Manchester City,3-1,Arsenal
+2,04/09/29,Middlesbrough,3-1,Sheffield United
+2,04/09/29,Newcastle,5-1,Blackburn Rovers
+3,07/09/29,Birmingham City,4-1,Huddersfield Town
+3,07/09/29,Bolton Wanderers,1-2,Derby County
+3,07/09/29,Burnley,4-0,Portsmouth
+3,07/09/29,Grimsby Town,4-0,Newcastle
+3,07/09/29,Leeds United,4-1,Aston Villa
+3,07/09/29,Leicester City,3-3,Sheffield United
+3,07/09/29,Liverpool,0-3,Everton
+3,07/09/29,Manchester United,1-0,Blackburn Rovers
+3,07/09/29,Sheffield Wed.,0-2,Arsenal
+3,07/09/29,Sunderland,5-2,Manchester City
+3,07/09/29,West Ham,5-3,Middlesbrough
+4,09/09/29,Aston Villa,2-2,Derby County
+4,09/09/29,Sheffield United,1-3,Middlesbrough
+4,09/09/29,West Ham,5-1,Newcastle
+4,10/09/29,Burnley,2-0,Sunderland
+4,11/09/29,Arsenal,3-2,Manchester City
+4,11/09/29,Everton,1-1,Leeds United
+4,11/09/29,Manchester United,2-1,Leicester City
+4,11/09/29,Portsmouth,1-1,Grimsby Town
+4,14/09/29,Blackburn Rovers,4-1,Grimsby Town
+4,14/09/29,Huddersfield Town,1-0,Leeds United
+4,14/09/29,Liverpool,3-1,West Ham
+5,14/09/29,Arsenal,6-1,Burnley
+5,14/09/29,Aston Villa,1-3,Sheffield Wed.
+5,14/09/29,Derby County,2-1,Everton
+5,14/09/29,Manchester City,2-0,Bolton Wanderers
+5,14/09/29,Middlesbrough,2-3,Manchester United
+5,14/09/29,Newcastle,2-1,Leicester City
+5,14/09/29,Portsmouth,1-1,Sunderland
+5,14/09/29,Sheffield United,4-2,Birmingham City
+5,16/09/29,Blackburn Rovers,4-2,Newcastle
+5,16/09/29,Huddersfield Town,3-0,Liverpool
+5,16/09/29,West Ham,0-1,Birmingham City
+6,16/09/29,Leeds United,2-1,Everton
+6,18/09/29,Bolton Wanderers,2-2,Middlesbrough
+5,21/09/29,Sheffield Wed.,1-2,Leeds United
+6,21/09/29,Bolton Wanderers,2-1,Portsmouth
+6,21/09/29,Burnley,1-4,Aston Villa
+6,21/09/29,Huddersfield Town,2-2,Sheffield United
+6,21/09/29,Leicester City,1-1,Blackburn Rovers
+6,21/09/29,Manchester United,1-2,Liverpool
+6,21/09/29,Sunderland,0-1,Arsenal
+6,21/09/29,West Ham,2-0,Derby County
+7,21/09/29,Birmingham City,5-1,Newcastle
+7,21/09/29,Everton,2-3,Manchester City
+7,21/09/29,Grimsby Town,0-3,Middlesbrough
+7,23/09/29,Leeds United,1-0,Portsmouth
+7,24/09/29,Grimsby Town,4-2,Huddersfield Town
+6,25/09/29,Bolton Wanderers,1-3,Sheffield Wed.
+7,25/09/29,Aston Villa,5-2,Arsenal
+7,25/09/29,Derby County,1-3,Burnley
+7,28/09/29,Blackburn Rovers,7-5,Birmingham City
+7,28/09/29,Sheffield United,2-2,Sheffield Wed.
+7,28/09/29,West Ham,2-1,Manchester United
+8,28/09/29,Arsenal,1-2,Bolton Wanderers
+8,28/09/29,Aston Villa,2-1,Sunderland
+8,28/09/29,Leeds United,3-0,Burnley
+8,28/09/29,Liverpool,2-0,Grimsby Town
+8,28/09/29,Manchester City,3-0,Derby County
+8,28/09/29,Middlesbrough,0-2,Leicester City
+8,28/09/29,Newcastle,5-2,Huddersfield Town
+8,28/09/29,Portsmouth,1-4,Everton
+9,02/10/29,Sunderland,2-2,Everton
+8,05/10/29,Huddersfield Town,0-0,Blackburn Rovers
+8,05/10/29,Leicester City,2-1,Liverpool
+8,05/10/29,Manchester United,1-3,Manchester City
+9,05/10/29,Birmingham City,1-1,Middlesbrough
+9,05/10/29,Bolton Wanderers,3-0,Aston Villa
+9,05/10/29,Burnley,2-4,Sheffield Wed.
+9,05/10/29,Derby County,3-2,Portsmouth
+9,05/10/29,Everton,1-1,Arsenal
+9,05/10/29,Grimsby Town,2-2,West Ham
+9,05/10/29,Sheffield United,1-0,Newcastle
+9,05/10/29,Sunderland,1-4,Leeds United
+9,07/10/29,Sheffield United,3-1,Manchester United
+9,09/10/29,Liverpool,1-1,Blackburn Rovers
+9,12/10/29,Liverpool,1-1,Birmingham City
+9,12/10/29,Portsmouth,2-2,Manchester City
+9,12/10/29,Sheffield Wed.,1-1,Sunderland
+9,12/10/29,West Ham,1-2,Leicester City
+10,12/10/29,Arsenal,1-1,Derby County
+10,12/10/29,Aston Villa,5-2,Everton
+10,12/10/29,Blackburn Rovers,0-1,Sheffield United
+10,12/10/29,Leeds United,2-1,Bolton Wanderers
+10,12/10/29,Manchester United,2-5,Grimsby Town
+10,12/10/29,Middlesbrough,1-3,Huddersfield Town
+10,12/10/29,Newcastle,2-1,Burnley
+10,17/10/29,Leicester City,2-1,Birmingham City
+10,19/10/29,Manchester City,4-3,West Ham
+11,19/10/29,Arsenal,4-1,Grimsby Town
+11,19/10/29,Aston Villa,3-0,Leicester City
+11,19/10/29,Bolton Wanderers,2-1,Blackburn Rovers
+11,19/10/29,Burnley,5-0,Sheffield United
+11,19/10/29,Derby County,2-2,Liverpool
+11,19/10/29,Leeds United,1-0,Birmingham City
+11,19/10/29,Portsmouth,3-0,Manchester United
+11,19/10/29,Sheffield Wed.,3-1,Huddersfield Town
+11,19/10/29,Sunderland,1-0,Newcastle
+12,19/10/29,Everton,3-2,Middlesbrough
+11,26/10/29,Birmingham City,1-0,Sheffield Wed.
+11,26/10/29,Liverpool,1-6,Manchester City
+12,26/10/29,Blackburn Rovers,3-1,Everton
+12,26/10/29,Grimsby Town,0-2,Aston Villa
+12,26/10/29,Huddersfield Town,3-0,Burnley
+12,26/10/29,Leicester City,2-2,Leeds United
+12,26/10/29,Manchester United,1-0,Arsenal
+12,26/10/29,Middlesbrough,4-0,Derby County
+12,26/10/29,Newcastle,2-3,Bolton Wanderers
+12,26/10/29,Sheffield United,4-2,Sunderland
+12,26/10/29,West Ham,0-1,Portsmouth
+12,02/11/29,Manchester City,3-1,Middlesbrough
+13,02/11/29,Arsenal,0-1,West Ham
+13,02/11/29,Aston Villa,1-0,Manchester United
+13,02/11/29,Bolton Wanderers,2-1,Sheffield United
+13,02/11/29,Burnley,3-1,Birmingham City
+13,02/11/29,Derby County,4-3,Blackburn Rovers
+13,02/11/29,Leeds United,6-0,Grimsby Town
+13,02/11/29,Portsmouth,3-3,Liverpool
+13,02/11/29,Sheffield Wed.,4-0,Leicester City
+13,02/11/29,Sunderland,1-0,Huddersfield Town
+14,02/11/29,Everton,5-2,Newcastle
+13,09/11/29,Grimsby Town,2-2,Manchester City
+14,09/11/29,Birmingham City,2-3,Arsenal
+14,09/11/29,Blackburn Rovers,8-3,Burnley
+14,09/11/29,Huddersfield Town,1-1,Aston Villa
+14,09/11/29,Leicester City,0-5,Portsmouth
+14,09/11/29,Liverpool,3-0,Bolton Wanderers
+14,09/11/29,Manchester United,3-2,Derby County
+14,09/11/29,Middlesbrough,3-0,Sunderland
+14,09/11/29,Newcastle,1-3,Sheffield Wed.
+14,09/11/29,Sheffield United,3-2,Leeds United
+15,09/11/29,West Ham,3-1,Everton
+14,16/11/29,Manchester City,3-0,Newcastle
+14,16/11/29,Sheffield Wed.,7-2,Manchester United
+15,16/11/29,Aston Villa,2-3,Liverpool
+15,16/11/29,Bolton Wanderers,0-0,Birmingham City
+15,16/11/29,Burnley,3-1,Grimsby Town
+15,16/11/29,Derby County,2-1,Sheffield United
+15,16/11/29,Leeds United,1-3,West Ham
+15,16/11/29,Portsmouth,4-0,Blackburn Rovers
+15,16/11/29,Sunderland,2-1,Leicester City
+16,16/11/29,Everton,0-2,Huddersfield Town
+15,23/11/29,Blackburn Rovers,1-1,Arsenal
+15,23/11/29,Sheffield United,1-2,Manchester City
+15,23/11/29,West Ham,1-1,Sheffield Wed.
+16,23/11/29,Grimsby Town,0-1,Sunderland
+16,23/11/29,Huddersfield Town,0-1,Derby County
+16,23/11/29,Leicester City,5-2,Bolton Wanderers
+16,23/11/29,Liverpool,1-0,Leeds United
+16,23/11/29,Manchester United,1-0,Burnley
+16,23/11/29,Middlesbrough,2-3,Aston Villa
+16,23/11/29,Newcastle,4-1,Portsmouth
+17,23/11/29,Birmingham City,0-0,Everton
+16,27/11/29,Arsenal,1-2,Middlesbrough
+16,30/11/29,Sheffield Wed.,2-1,Liverpool
+17,30/11/29,Arsenal,0-1,Newcastle
+17,30/11/29,Aston Villa,3-0,Blackburn Rovers
+17,30/11/29,Bolton Wanderers,2-3,Grimsby Town
+17,30/11/29,Burnley,1-1,West Ham
+17,30/11/29,Derby County,3-1,Birmingham City
+17,30/11/29,Leeds United,1-2,Middlesbrough
+17,30/11/29,Manchester City,1-1,Huddersfield Town
+17,30/11/29,Portsmouth,3-1,Sheffield United
+17,30/11/29,Sunderland,2-4,Manchester United
+18,30/11/29,Everton,4-5,Leicester City
+17,07/12/29,Birmingham City,3-0,Manchester City
+17,07/12/29,West Ham,1-1,Sunderland
+18,07/12/29,Blackburn Rovers,2-1,Leeds United
+18,07/12/29,Huddersfield Town,2-1,Portsmouth
+18,07/12/29,Leicester City,0-0,Derby County
+18,07/12/29,Liverpool,1-3,Burnley
+18,07/12/29,Manchester United,1-1,Bolton Wanderers
+18,07/12/29,Middlesbrough,4-1,Sheffield Wed.
+18,07/12/29,Newcastle,2-2,Aston Villa
+19,07/12/29,Grimsby Town,0-3,Everton
+18,14/12/29,Arsenal,2-0,Huddersfield Town
+18,14/12/29,Manchester City,3-2,Leicester City
+19,14/12/29,Aston Villa,5-1,Sheffield United
+19,14/12/29,Bolton Wanderers,4-1,West Ham
+19,14/12/29,Burnley,4-1,Middlesbrough
+19,14/12/29,Derby County,5-4,Grimsby Town
+19,14/12/29,Leeds United,5-2,Newcastle
+19,14/12/29,Portsmouth,2-1,Birmingham City
+19,14/12/29,Sheffield Wed.,4-0,Blackburn Rovers
+19,14/12/29,Sunderland,2-3,Liverpool
+20,14/12/29,Everton,0-0,Manchester United
+19,16/12/29,Sheffield United,4-1,Arsenal
+20,21/12/29,Birmingham City,3-1,Sunderland
+20,21/12/29,Blackburn Rovers,1-3,Manchester City
+20,21/12/29,Huddersfield Town,0-2,Bolton Wanderers
+20,21/12/29,Leicester City,4-3,Burnley
+20,21/12/29,Liverpool,1-0,Arsenal
+20,21/12/29,Manchester United,3-1,Leeds United
+20,21/12/29,Middlesbrough,2-0,Portsmouth
+20,21/12/29,Newcastle,2-3,Derby County
+20,21/12/29,West Ham,5-2,Aston Villa
+21,21/12/29,Sheffield United,2-0,Everton
+21,25/12/29,Aston Villa,0-2,Manchester City
+21,25/12/29,Blackburn Rovers,5-3,Sunderland
+21,25/12/29,Bolton Wanderers,1-1,Burnley
+21,25/12/29,Grimsby Town,1-4,Leicester City
+21,25/12/29,Leeds United,2-1,Derby County
+21,25/12/29,Manchester United,0-0,Birmingham City
+21,25/12/29,Newcastle,3-2,Middlesbrough
+21,25/12/29,Portsmouth,0-1,Arsenal
+21,25/12/29,Sheffield United,4-0,Liverpool
+21,25/12/29,West Ham,2-3,Huddersfield Town
+22,25/12/29,Everton,1-4,Sheffield Wed.
+22,26/12/29,Arsenal,1-2,Portsmouth
+22,26/12/29,Birmingham City,0-1,Manchester United
+22,26/12/29,Burnley,2-2,Bolton Wanderers
+22,26/12/29,Derby County,3-0,Leeds United
+22,26/12/29,Huddersfield Town,3-0,West Ham
+22,26/12/29,Leicester City,1-0,Grimsby Town
+22,26/12/29,Liverpool,2-0,Sheffield United
+22,26/12/29,Manchester City,1-2,Aston Villa
+22,26/12/29,Middlesbrough,2-2,Newcastle
+22,26/12/29,Sunderland,3-1,Blackburn Rovers
+23,26/12/29,Sheffield Wed.,4-0,Everton
+22,28/12/29,Burnley,4-2,Manchester City
+23,28/12/29,Birmingham City,1-1,Aston Villa
+23,28/12/29,Grimsby Town,4-1,Sheffield United
+23,28/12/29,Leeds United,2-0,Arsenal
+23,28/12/29,Leicester City,1-2,Huddersfield Town
+23,28/12/29,Liverpool,5-2,Middlesbrough
+23,28/12/29,Manchester United,5-0,Newcastle
+23,28/12/29,Sheffield Wed.,1-1,Portsmouth
+23,28/12/29,Sunderland,3-1,Derby County
+23,28/12/29,West Ham,2-3,Blackburn Rovers
+24,28/12/29,Bolton Wanderers,5-0,Everton
+23,01/01/30,Manchester City,3-3,Sheffield Wed.
+24,01/01/30,Blackburn Rovers,7-0,Middlesbrough
+24,01/01/30,Bolton Wanderers,7-1,Huddersfield Town
+24,01/01/30,Sheffield United,4-2,West Ham
+24,01/01/30,Sunderland,3-3,Burnley
+24,04/01/30,Arsenal,2-3,Sheffield Wed.
+24,04/01/30,Aston Villa,3-4,Leeds United
+24,04/01/30,Derby County,2-1,Bolton Wanderers
+24,04/01/30,Manchester City,2-2,Sunderland
+24,04/01/30,Newcastle,3-1,Grimsby Town
+24,04/01/30,Portsmouth,7-1,Burnley
+25,04/01/30,Blackburn Rovers,5-4,Manchester United
+25,04/01/30,Everton,3-3,Liverpool
+25,04/01/30,Huddersfield Town,1-1,Birmingham City
+25,04/01/30,Middlesbrough,2-0,West Ham
+25,04/01/30,Sheffield United,7-1,Leicester City
+25,18/01/30,Bolton Wanderers,1-2,Manchester City
+25,18/01/30,Burnley,2-2,Arsenal
+25,18/01/30,Everton,4-0,Derby County
+25,18/01/30,Leicester City,6-1,Newcastle
+25,18/01/30,Sheffield Wed.,3-0,Aston Villa
+25,18/01/30,Sunderland,1-1,Portsmouth
+25,18/01/30,West Ham,4-1,Liverpool
+26,18/01/30,Birmingham City,2-1,Sheffield United
+26,18/01/30,Grimsby Town,5-3,Blackburn Rovers
+26,18/01/30,Leeds United,0-1,Huddersfield Town
+26,18/01/30,Manchester United,0-3,Middlesbrough
+26,25/01/30,Liverpool,1-0,Manchester United
+27,27/01/30,Blackburn Rovers,3-1,Leicester City
+25,01/02/30,Grimsby Town,3-2,Liverpool
+26,01/02/30,Bolton Wanderers,0-0,Arsenal
+26,01/02/30,Derby County,4-2,Manchester City
+26,01/02/30,Sunderland,4-1,Aston Villa
+27,01/02/30,Burnley,0-3,Leeds United
+27,01/02/30,Everton,1-1,Portsmouth
+27,01/02/30,Huddersfield Town,2-0,Newcastle
+27,01/02/30,Leicester City,4-1,Middlesbrough
+27,01/02/30,Manchester United,4-2,West Ham
+27,01/02/30,Sheffield Wed.,1-1,Sheffield United
+28,01/02/30,Birmingham City,1-2,Blackburn Rovers
+26,05/02/30,Grimsby Town,0-5,Sheffield Wed.
+27,05/02/30,Aston Villa,1-2,Burnley
+27,05/02/30,Derby County,4-3,West Ham
+27,05/02/30,Portsmouth,3-0,Bolton Wanderers
+28,05/02/30,Manchester City,1-2,Everton
+27,08/02/30,Arsenal,4-0,Everton
+27,08/02/30,Leeds United,5-0,Sunderland
+27,08/02/30,Newcastle,3-5,Sheffield United
+27,08/02/30,West Ham,2-0,Grimsby Town

@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,09/09/67,Valencia,2-1,Real Betis
+1,09/09/67,Atlético de Madrid,2-0,CE Sabadell
+1,09/09/67,Athletic Bilbao,3-0,Córdoba
+1,10/09/67,Las Palmas,1-1,Málaga
+1,10/09/67,Real Zaragoza,3-2,Barcelona
+1,10/09/67,Espanyol,1-1,Elche
+1,10/09/67,Real Sociedad,1-0,Pontevedra
+1,10/09/67,Sevilla,0-2,Real Madrid
+2,16/09/67,Real Madrid,9-1,Real Sociedad
+2,16/09/67,Elche,1-0,Athletic Bilbao
+2,17/09/67,Barcelona,1-0,Espanyol
+2,17/09/67,Pontevedra,1-0,Real Zaragoza
+2,17/09/67,Málaga,0-0,Sevilla
+2,17/09/67,CE Sabadell,2-0,Valencia
+2,17/09/67,Córdoba,0-1,Atlético de Madrid
+2,17/09/67,Real Betis,4-2,Las Palmas
+3,23/09/67,Valencia,5-0,Córdoba
+3,24/09/67,Las Palmas,4-1,Sevilla
+3,24/09/67,Real Zaragoza,0-0,Real Madrid
+3,24/09/67,Atlético de Madrid,2-1,Elche
+3,24/09/67,Athletic Bilbao,0-0,Barcelona
+3,24/09/67,Espanyol,4-1,Pontevedra
+3,24/09/67,Real Sociedad,0-0,Málaga
+3,24/09/67,Real Betis,2-3,CE Sabadell
+4,07/10/67,Real Madrid,2-2,Espanyol
+4,08/10/67,Barcelona,1-1,Atlético de Madrid
+4,08/10/67,Las Palmas,1-0,CE Sabadell
+4,08/10/67,Pontevedra,1-1,Athletic Bilbao
+4,08/10/67,Málaga,2-2,Real Zaragoza
+4,08/10/67,Elche,1-0,Valencia
+4,08/10/67,Córdoba,3-0,Real Betis
+4,08/10/67,Sevilla,0-0,Real Sociedad
+5,15/10/67,Valencia,1-2,Barcelona
+5,15/10/67,Real Zaragoza,1-1,Sevilla
+5,15/10/67,Atlético de Madrid,3-0,Pontevedra
+5,15/10/67,Athletic Bilbao,1-2,Real Madrid
+5,15/10/67,Espanyol,4-1,Málaga
+5,15/10/67,CE Sabadell,2-1,Córdoba
+5,15/10/67,Real Sociedad,0-1,Las Palmas
+5,15/10/67,Real Betis,1-0,Elche
+6,29/10/67,Real Madrid,0-0,Atlético de Madrid
+6,29/10/67,Barcelona,2-1,Real Betis
+6,29/10/67,Pontevedra,1-0,Valencia
+6,29/10/67,Málaga,2-2,Athletic Bilbao
+6,29/10/67,Elche,1-1,CE Sabadell
+6,29/10/67,Córdoba,2-1,Las Palmas
+6,29/10/67,Real Sociedad,2-0,Real Zaragoza
+6,29/10/67,Sevilla,3-0,Espanyol
+7,05/11/67,Las Palmas,2-1,Real Zaragoza
+7,05/11/67,Valencia,2-0,Real Madrid
+7,05/11/67,Atlético de Madrid,4-2,Málaga
+7,05/11/67,Athletic Bilbao,2-0,Sevilla
+7,05/11/67,Espanyol,2-0,Real Sociedad
+7,05/11/67,CE Sabadell,1-1,Barcelona
+7,05/11/67,Córdoba,3-0,Elche
+7,05/11/67,Real Betis,0-1,Pontevedra
+8,11/11/67,Real Madrid,3-0,Real Betis
+8,11/11/67,Real Zaragoza,4-2,Espanyol
+8,12/11/67,Barcelona,3-2,Córdoba
+8,12/11/67,Las Palmas,3-1,Elche
+8,12/11/67,Pontevedra,0-0,CE Sabadell
+8,12/11/67,Málaga,0-0,Valencia
+8,12/11/67,Real Sociedad,1-1,Athletic Bilbao
+8,12/11/67,Sevilla,0-2,Atlético de Madrid
+9,19/11/67,Valencia,4-2,Sevilla
+9,19/11/67,Atlético de Madrid,2-1,Real Sociedad
+9,19/11/67,Athletic Bilbao,2-0,Real Zaragoza
+9,19/11/67,Espanyol,3-2,Las Palmas
+9,19/11/67,Elche,0-2,Barcelona
+9,19/11/67,CE Sabadell,2-4,Real Madrid
+9,19/11/67,Córdoba,3-1,Pontevedra
+9,19/11/67,Real Betis,2-0,Málaga
+10,25/11/67,Real Madrid,4-0,Córdoba
+10,26/11/67,Las Palmas,4-1,Barcelona
+10,26/11/67,Real Zaragoza,1-1,Atlético de Madrid
+10,26/11/67,Pontevedra,1-0,Elche
+10,26/11/67,Espanyol,1-1,Athletic Bilbao
+10,26/11/67,Málaga,1-3,CE Sabadell
+10,26/11/67,Real Sociedad,2-0,Valencia
+10,26/11/67,Sevilla,2-3,Real Betis
+11,03/12/67,Barcelona,4-0,Pontevedra
+11,03/12/67,Las Palmas,1-0,Athletic Bilbao
+11,03/12/67,Valencia,3-1,Real Zaragoza
+11,03/12/67,Atlético de Madrid,0-0,Espanyol
+11,03/12/67,Elche,0-0,Real Madrid
+11,03/12/67,CE Sabadell,2-2,Sevilla
+11,03/12/67,Córdoba,2-3,Málaga
+11,03/12/67,Real Betis,4-1,Real Sociedad
+12,10/12/67,Real Madrid,1-1,Barcelona
+12,10/12/67,Real Zaragoza,1-0,Real Betis
+12,10/12/67,Athletic Bilbao,6-1,Atlético de Madrid
+12,10/12/67,Pontevedra,3-0,Las Palmas
+12,10/12/67,Espanyol,4-5,Valencia
+12,10/12/67,Málaga,2-0,Elche
+12,10/12/67,Real Sociedad,6-0,CE Sabadell
+12,10/12/67,Sevilla,1-0,Córdoba
+13,17/12/67,Barcelona,1-0,Málaga
+13,17/12/67,Valencia,3-3,Athletic Bilbao
+13,17/12/67,Atlético de Madrid,1-2,Las Palmas
+13,17/12/67,Pontevedra,3-0,Real Madrid
+13,17/12/67,Elche,4-2,Sevilla
+13,17/12/67,CE Sabadell,1-0,Real Zaragoza
+13,17/12/67,Córdoba,2-0,Real Sociedad
+13,17/12/67,Real Betis,1-4,Espanyol
+14,30/12/67,Las Palmas,2-2,Real Madrid
+14,31/12/67,Real Zaragoza,3-0,Córdoba
+14,31/12/67,Atlético de Madrid,0-0,Valencia
+14,31/12/67,Athletic Bilbao,8-0,Real Betis
+14,31/12/67,Espanyol,3-1,CE Sabadell
+14,31/12/67,Málaga,3-1,Pontevedra
+14,31/12/67,Real Sociedad,5-0,Elche
+14,31/12/67,Sevilla,2-1,Barcelona
+15,07/01/68,Real Madrid,3-0,Málaga
+15,07/01/68,Barcelona,0-0,Real Sociedad
+15,07/01/68,Valencia,2-2,Las Palmas
+15,07/01/68,Pontevedra,4-1,Sevilla
+15,07/01/68,Elche,0-1,Real Zaragoza
+15,07/01/68,CE Sabadell,1-2,Athletic Bilbao
+15,07/01/68,Córdoba,1-0,Espanyol
+15,07/01/68,Real Betis,0-2,Atlético de Madrid
+16,14/01/68,Real Madrid,1-0,Sevilla
+16,14/01/68,Barcelona,4-0,Real Zaragoza
+16,14/01/68,Pontevedra,2-0,Real Sociedad
+16,14/01/68,Málaga,2-0,Las Palmas
+16,14/01/68,Elche,1-0,Espanyol
+16,14/01/68,CE Sabadell,1-0,Atlético de Madrid
+16,14/01/68,Córdoba,2-1,Athletic Bilbao
+16,14/01/68,Real Betis,0-2,Valencia
+17,21/01/68,Las Palmas,3-1,Real Betis
+17,21/01/68,Valencia,1-0,CE Sabadell
+17,21/01/68,Real Zaragoza,2-1,Pontevedra
+17,21/01/68,Atlético de Madrid,5-0,Córdoba
+17,21/01/68,Athletic Bilbao,3-0,Elche
+17,21/01/68,Espanyol,1-0,Barcelona
+17,21/01/68,Real Sociedad,0-1,Real Madrid
+17,21/01/68,Sevilla,0-2,Málaga
+18,28/01/68,Real Madrid,3-2,Real Zaragoza
+18,28/01/68,Barcelona,1-0,Athletic Bilbao
+18,28/01/68,Pontevedra,3-0,Espanyol
+18,28/01/68,Málaga,2-0,Real Sociedad
+18,28/01/68,Elche,1-0,Atlético de Madrid
+18,28/01/68,CE Sabadell,3-1,Real Betis
+18,28/01/68,Córdoba,1-1,Valencia
+18,28/01/68,Sevilla,0-1,Las Palmas
+19,04/02/68,Valencia,1-1,Elche
+19,04/02/68,Real Zaragoza,0-0,Málaga
+19,04/02/68,Atlético de Madrid,0-1,Barcelona
+19,04/02/68,Athletic Bilbao,1-1,Pontevedra
+19,04/02/68,Espanyol,0-4,Real Madrid
+19,04/02/68,CE Sabadell,2-2,Las Palmas
+19,04/02/68,Real Sociedad,5-1,Sevilla
+19,04/02/68,Real Betis,1-0,Córdoba
+20,11/02/68,Real Madrid,0-0,Athletic Bilbao
+20,11/02/68,Barcelona,1-1,Valencia
+20,11/02/68,Las Palmas,2-1,Real Sociedad
+20,11/02/68,Pontevedra,1-1,Atlético de Madrid
+20,11/02/68,Málaga,1-0,Espanyol
+20,11/02/68,Elche,1-0,Real Betis
+20,11/02/68,Córdoba,2-1,CE Sabadell
+20,11/02/68,Sevilla,1-2,Real Zaragoza
+21,18/02/68,Las Palmas,4-1,Córdoba
+21,18/02/68,Valencia,6-2,Pontevedra
+21,18/02/68,Real Zaragoza,1-0,Real Sociedad
+21,18/02/68,Atlético de Madrid,1-1,Real Madrid
+21,18/02/68,Athletic Bilbao,4-0,Málaga
+21,18/02/68,Espanyol,4-0,Sevilla
+21,18/02/68,CE Sabadell,1-2,Elche
+21,18/02/68,Real Betis,4-3,Barcelona
+22,25/02/68,Real Madrid,0-2,Valencia
+22,25/02/68,Barcelona,3-1,CE Sabadell
+22,25/02/68,Real Zaragoza,4-1,Las Palmas
+22,25/02/68,Pontevedra,1-1,Real Betis
+22,25/02/68,Málaga,0-1,Atlético de Madrid
+22,25/02/68,Elche,3-0,Córdoba
+22,25/02/68,Real Sociedad,0-1,Espanyol
+22,25/02/68,Sevilla,2-3,Athletic Bilbao
+23,03/03/68,Valencia,2-1,Málaga
+23,03/03/68,Atlético de Madrid,3-3,Sevilla
+23,03/03/68,Athletic Bilbao,1-1,Real Sociedad
+23,03/03/68,Espanyol,1-1,Real Zaragoza
+23,03/03/68,Elche,2-0,Las Palmas
+23,03/03/68,CE Sabadell,1-0,Pontevedra
+23,03/03/68,Córdoba,0-1,Barcelona
+23,03/03/68,Real Betis,1-2,Real Madrid
+24,10/03/68,Real Madrid,2-0,CE Sabadell
+24,10/03/68,Barcelona,4-2,Elche
+24,10/03/68,Las Palmas,2-0,Espanyol
+24,10/03/68,Real Zaragoza,1-0,Athletic Bilbao
+24,10/03/68,Pontevedra,3-1,Córdoba
+24,10/03/68,Málaga,0-0,Real Betis
+24,10/03/68,Real Sociedad,2-0,Atlético de Madrid
+24,10/03/68,Sevilla,2-0,Valencia
+25,17/03/68,Barcelona,2-0,Las Palmas
+25,17/03/68,Valencia,3-2,Real Sociedad
+25,17/03/68,Atlético de Madrid,0-1,Real Zaragoza
+25,17/03/68,Athletic Bilbao,1-2,Espanyol
+25,17/03/68,Elche,0-0,Pontevedra
+25,17/03/68,CE Sabadell,1-2,Málaga
+25,17/03/68,Córdoba,3-3,Real Madrid
+25,17/03/68,Real Betis,0-0,Sevilla
+26,24/03/68,Real Madrid,2-0,Elche
+26,24/03/68,Real Zaragoza,0-0,Valencia
+26,24/03/68,Athletic Bilbao,0-1,Las Palmas
+26,24/03/68,Pontevedra,1-0,Barcelona
+26,24/03/68,Espanyol,0-1,Atlético de Madrid
+26,24/03/68,Málaga,0-1,Córdoba
+26,24/03/68,Real Sociedad,1-0,Real Betis
+26,24/03/68,Sevilla,1-0,CE Sabadell
+27,07/04/68,Las Palmas,5-0,Pontevedra
+27,07/04/68,Valencia,2-3,Espanyol
+27,07/04/68,Atlético de Madrid,2-0,Athletic Bilbao
+27,07/04/68,Elche,1-0,Málaga
+27,07/04/68,CE Sabadell,1-0,Real Sociedad
+27,07/04/68,Córdoba,1-1,Sevilla
+27,07/04/68,Real Betis,2-1,Real Zaragoza
+27,09/04/68,Barcelona,1-1,Real Madrid
+28,14/04/68,Real Madrid,1-0,Pontevedra
+28,14/04/68,Las Palmas,4-1,Atlético de Madrid
+28,14/04/68,Real Zaragoza,7-0,CE Sabadell
+28,14/04/68,Athletic Bilbao,1-0,Valencia
+28,14/04/68,Málaga,1-1,Barcelona
+28,14/04/68,Real Sociedad,5-1,Córdoba
+28,14/04/68,Sevilla,1-0,Elche
+28,15/04/68,Espanyol,4-0,Real Betis
+29,20/04/68,Real Madrid,2-1,Las Palmas
+29,21/04/68,Barcelona,3-0,Sevilla
+29,21/04/68,Valencia,3-1,Atlético de Madrid
+29,21/04/68,Pontevedra,1-0,Málaga
+29,21/04/68,Elche,5-0,Real Sociedad
+29,21/04/68,CE Sabadell,2-1,Espanyol
+29,21/04/68,Córdoba,1-0,Real Zaragoza
+29,21/04/68,Real Betis,0-3,Athletic Bilbao
+30,28/04/68,Las Palmas,2-1,Valencia
+30,28/04/68,Real Zaragoza,3-1,Elche
+30,28/04/68,Atlético de Madrid,0-0,Real Betis
+30,28/04/68,Athletic Bilbao,1-1,CE Sabadell
+30,28/04/68,Espanyol,1-2,Córdoba
+30,28/04/68,Málaga,1-0,Real Madrid
+30,28/04/68,Real Sociedad,1-1,Barcelona
+30,28/04/68,Sevilla,2-2,Pontevedra

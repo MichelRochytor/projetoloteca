@@ -1,0 +1,86 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,17/09/97,Sparta Praha,0-0,Parma
+A,17/09/97,Galatasaray,0-1,Borussia Dortmund
+B,17/09/97,FC VSS Kosice,0-3,Manchester United
+B,17/09/97,Juventus,5-1,Feyenoord
+C,17/09/97,PSV,1-3,Dynamo Kyiv
+C,17/09/97,Newcastle,3-2,Barcelona
+D,17/09/97,Real Madrid,4-1,Rosenborg
+D,17/09/97,Olympiacos,1-0,FC Porto
+E,17/09/97,Bayern München,2-0,Besiktas
+E,17/09/97,PSG,3-0,IFK Goteborg
+F,17/09/97,Sporting,3-0,Monaco
+F,17/09/97,Bayer Leverkusen,1-0,Lierse
+D,30/09/97,FC Porto,0-2,Real Madrid
+A,01/10/97,Borussia Dortmund,4-1,Sparta Praha
+A,01/10/97,Parma,2-0,Galatasaray
+B,01/10/97,Feyenoord,2-0,FC VSS Kosice
+B,01/10/97,Manchester United,3-2,Juventus
+C,01/10/97,Barcelona,2-2,PSV
+C,01/10/97,Dynamo Kyiv,2-2,Newcastle
+D,01/10/97,Rosenborg,5-1,Olympiacos
+E,01/10/97,IFK Goteborg,1-3,Bayern München
+E,01/10/97,Besiktas,3-1,PSG
+F,01/10/97,Lierse,1-1,Sporting
+F,01/10/97,Monaco,4-0,Bayer Leverkusen
+D,21/10/97,Rosenborg,2-0,FC Porto
+A,22/10/97,Parma,1-0,Borussia Dortmund
+A,22/10/97,Sparta Praha,3-0,Galatasaray
+B,22/10/97,Manchester United,2-1,Feyenoord
+B,22/10/97,FC VSS Kosice,0-1,Juventus
+C,22/10/97,Dynamo Kyiv,3-0,Barcelona
+C,22/10/97,PSV,1-0,Newcastle
+D,22/10/97,Real Madrid,5-1,Olympiacos
+E,22/10/97,Besiktas,1-0,IFK Goteborg
+E,22/10/97,Bayern München,5-1,PSG
+F,22/10/97,Monaco,5-1,Lierse
+F,22/10/97,Sporting,0-2,Bayer Leverkusen
+D,04/11/97,FC Porto,1-1,Rosenborg
+A,05/11/97,Borussia Dortmund,2-0,Parma
+A,05/11/97,Galatasaray,2-0,Sparta Praha
+B,05/11/97,Feyenoord,1-3,Manchester United
+B,05/11/97,Juventus,3-2,FC VSS Kosice
+C,05/11/97,Barcelona,0-4,Dynamo Kyiv
+C,05/11/97,Newcastle,0-2,PSV
+D,05/11/97,Olympiacos,0-0,Real Madrid
+E,05/11/97,IFK Goteborg,2-1,Besiktas
+E,05/11/97,PSG,3-1,Bayern München
+F,05/11/97,Lierse,0-1,Monaco
+F,05/11/97,Bayer Leverkusen,4-1,Sporting
+B,26/11/97,Feyenoord,2-0,Juventus
+C,26/11/97,Barcelona,1-0,Newcastle
+E,26/11/97,Besiktas,0-2,Bayern München
+E,26/11/97,IFK Goteborg,0-1,PSG
+F,26/11/97,Monaco,3-2,Sporting
+F,26/11/97,Lierse,0-2,Bayer Leverkusen
+D,26/11/97,FC Porto,2-1,Olympiacos
+A,27/11/97,Parma,2-2,Sparta Praha
+A,27/11/97,Borussia Dortmund,4-1,Galatasaray
+B,27/11/97,Manchester United,3-0,FC VSS Kosice
+C,27/11/97,Dynamo Kyiv,1-1,PSV
+D,27/11/97,Rosenborg,2-0,Real Madrid
+D,09/12/97,Real Madrid,4-0,FC Porto
+A,10/12/97,Sparta Praha,0-3,Borussia Dortmund
+A,10/12/97,Galatasaray,1-1,Parma
+B,10/12/97,FC VSS Kosice,0-1,Feyenoord
+B,10/12/97,Juventus,1-0,Manchester United
+C,10/12/97,PSV,2-2,Barcelona
+C,10/12/97,Newcastle,2-0,Dynamo Kyiv
+D,10/12/97,Olympiacos,2-2,Rosenborg
+E,10/12/97,Bayern München,0-1,IFK Goteborg
+E,10/12/97,PSG,2-1,Besiktas
+F,10/12/97,Sporting,2-1,Lierse
+F,10/12/97,Bayer Leverkusen,2-2,Monaco
+QF,04/03/98,Bayer Leverkusen,1-1,Real Madrid
+QF,04/03/98,Juventus,1-1,Dynamo Kyiv
+QF,04/03/98,Bayern München,0-0,Borussia Dortmund
+QF,04/03/98,Monaco,0-0,Manchester United
+QF,18/03/98,Real Madrid,3-0,Bayer Leverkusen
+QF,18/03/98,Dynamo Kyiv,1-4,Juventus
+QF,18/03/98,Borussia Dortmund,1-0(Pro.),Bayern München
+QF,18/03/98,Manchester United,1-1,Monaco
+SF,01/04/98,Juventus,4-1,Monaco
+SF,01/04/98,Real Madrid,2-0,Borussia Dortmund
+SF,15/04/98,Monaco,3-2,Juventus
+SF,15/04/98,Borussia Dortmund,0-0,Real Madrid
+F,20/05/98,Real Madrid,1-0,Juventus

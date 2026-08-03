@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+D,14/09/09,Chelsea,1-0,FC Porto
+A,15/09/09,Juventus,1-1,Bordeaux
+A,15/09/09,Maccabi Haifa,0-3,Bayern München
+B,15/09/09,Besiktas,0-1,Manchester United
+B,15/09/09,Wolfsburg,3-1,CSKA Moskva
+C,15/09/09,Marseille,1-2,Milan
+C,15/09/09,FC Zurich,2-5,Real Madrid
+D,15/09/09,Atlético de Madrid,0-0,APOEL
+E,16/09/09,Lyon,1-0,Fiorentina
+E,16/09/09,Liverpool,1-0,Debreceni
+F,16/09/09,Dynamo Kyiv,3-1,Rubin Kazan
+F,16/09/09,Internazionale,0-0,Barcelona
+G,16/09/09,Stuttgart,1-1,Rangers
+G,16/09/09,Sevilla,2-0,Unirea Urziceni
+H,16/09/09,Standard Liège,2-3,Arsenal
+H,16/09/09,Olympiacos,1-0,AZ Alkmaar
+F,29/09/09,Rubin Kazan,1-1,Internazionale
+E,29/09/09,Fiorentina,2-0,Liverpool
+E,29/09/09,Debreceni,0-4,Lyon
+F,29/09/09,Barcelona,2-0,Dynamo Kyiv
+G,29/09/09,Rangers,1-4,Sevilla
+G,29/09/09,Unirea Urziceni,1-1,Stuttgart
+H,29/09/09,AZ Alkmaar,1-1,Standard Liège
+H,29/09/09,Arsenal,2-0,Olympiacos
+B,30/09/09,CSKA Moskva,2-1,Besiktas
+A,30/09/09,Bayern München,0-0,Juventus
+A,30/09/09,Bordeaux,1-0,Maccabi Haifa
+B,30/09/09,Manchester United,2-1,Wolfsburg
+C,30/09/09,Real Madrid,3-0,Marseille
+C,30/09/09,Milan,0-1,FC Zurich
+D,30/09/09,FC Porto,2-0,Atlético de Madrid
+D,30/09/09,APOEL,0-1,Chelsea
+E,20/10/09,Liverpool,1-2,Lyon
+E,20/10/09,Debreceni,3-4,Fiorentina
+F,20/10/09,Internazionale,2-2,Dynamo Kyiv
+F,20/10/09,Barcelona,1-2,Rubin Kazan
+G,20/10/09,Stuttgart,1-3,Sevilla
+G,20/10/09,Rangers,1-4,Unirea Urziceni
+H,20/10/09,Olympiacos,2-1,Standard Liège
+H,20/10/09,AZ Alkmaar,1-1,Arsenal
+D,20/10/09,FC Porto,2-1,APOEL
+B,21/10/09,CSKA Moskva,0-1,Manchester United
+A,21/10/09,Bordeaux,2-1,Bayern München
+A,21/10/09,Juventus,1-0,Maccabi Haifa
+B,21/10/09,Wolfsburg,0-0,Besiktas
+C,21/10/09,Real Madrid,2-3,Milan
+C,21/10/09,FC Zurich,0-1,Marseille
+D,21/10/09,Chelsea,4-0,Atlético de Madrid
+D,02/11/09,APOEL,0-1,FC Porto
+A,03/11/09,Bayern München,0-2,Bordeaux
+A,03/11/09,Maccabi Haifa,0-1,Juventus
+B,03/11/09,Manchester United,3-3,CSKA Moskva
+B,03/11/09,Besiktas,0-3,Wolfsburg
+C,03/11/09,Milan,1-1,Real Madrid
+C,03/11/09,Marseille,6-1,FC Zurich
+D,03/11/09,Atlético de Madrid,2-2,Chelsea
+F,04/11/09,Rubin Kazan,0-0,Barcelona
+E,04/11/09,Fiorentina,5-2,Debreceni
+E,04/11/09,Lyon,1-1,Liverpool
+F,04/11/09,Dynamo Kyiv,1-2,Internazionale
+G,04/11/09,Sevilla,1-1,Stuttgart
+G,04/11/09,Unirea Urziceni,1-1,Rangers
+H,04/11/09,Arsenal,4-1,AZ Alkmaar
+H,04/11/09,Standard Liège,2-0,Olympiacos
+F,24/11/09,Rubin Kazan,0-0,Dynamo Kyiv
+E,24/11/09,Debreceni,0-1,Liverpool
+E,24/11/09,Fiorentina,1-0,Lyon
+F,24/11/09,Barcelona,2-0,Internazionale
+G,24/11/09,Rangers,0-2,Stuttgart
+G,24/11/09,Unirea Urziceni,1-0,Sevilla
+H,24/11/09,AZ Alkmaar,0-0,Olympiacos
+H,24/11/09,Arsenal,2-0,Standard Liège
+B,25/11/09,CSKA Moskva,2-1,Wolfsburg
+A,25/11/09,Bordeaux,2-0,Juventus
+A,25/11/09,Bayern München,1-0,Maccabi Haifa
+B,25/11/09,Manchester United,0-1,Besiktas
+C,25/11/09,Real Madrid,1-0,FC Zurich
+C,25/11/09,Milan,1-1,Marseille
+D,25/11/09,FC Porto,0-1,Chelsea
+D,25/11/09,APOEL,1-1,Atlético de Madrid
+D,07/12/09,Atlético de Madrid,0-3,FC Porto
+A,08/12/09,Juventus,1-4,Bayern München
+A,08/12/09,Maccabi Haifa,0-1,Bordeaux
+B,08/12/09,Wolfsburg,1-3,Manchester United
+B,08/12/09,Besiktas,1-2,CSKA Moskva
+C,08/12/09,FC Zurich,1-1,Milan
+C,08/12/09,Marseille,1-3,Real Madrid
+D,08/12/09,Chelsea,2-2,APOEL
+E,09/12/09,Lyon,4-0,Debreceni
+E,09/12/09,Liverpool,1-2,Fiorentina
+F,09/12/09,Dynamo Kyiv,1-2,Barcelona
+F,09/12/09,Internazionale,2-0,Rubin Kazan
+G,09/12/09,Sevilla,1-0,Rangers
+G,09/12/09,Stuttgart,3-1,Unirea Urziceni
+H,09/12/09,Olympiacos,1-0,Arsenal
+H,09/12/09,Standard Liège,1-1,AZ Alkmaar
+1/8,16/02/10,Lyon,1-0,Real Madrid
+1/8,16/02/10,Milan,2-3,Manchester United
+1/8,16/02/10,FC Porto,2-1,Arsenal
+1/8,17/02/10,Bayern München,2-1,Fiorentina
+1/8,23/02/10,Stuttgart,1-1,Barcelona
+1/8,23/02/10,Olympiacos,0-1,Bordeaux
+1/8,24/02/10,CSKA Moskva,1-1,Sevilla
+1/8,24/02/10,Internazionale,2-1,Chelsea
+1/8,09/03/10,Fiorentina,3-2,Bayern München
+1/8,09/03/10,Arsenal,5-0,FC Porto
+1/8,10/03/10,Real Madrid,1-1,Lyon
+1/8,10/03/10,Manchester United,4-0,Milan
+1/8,16/03/10,Chelsea,0-1,Internazionale
+1/8,16/03/10,Sevilla,1-2,CSKA Moskva
+1/8,17/03/10,Barcelona,4-0,Stuttgart
+1/8,17/03/10,Bordeaux,2-1,Olympiacos
+QF,30/03/10,Lyon,3-1,Bordeaux
+QF,30/03/10,Bayern München,2-1,Manchester United
+QF,31/03/10,Arsenal,2-2,Barcelona
+QF,31/03/10,Internazionale,1-0,CSKA Moskva
+QF,06/04/10,CSKA Moskva,0-1,Internazionale
+QF,06/04/10,Barcelona,4-1,Arsenal
+QF,07/04/10,Bordeaux,1-0,Lyon
+QF,07/04/10,Manchester United,3-2,Bayern München
+SF,20/04/10,Internazionale,3-1,Barcelona
+SF,21/04/10,Bayern München,1-0,Lyon
+SF,27/04/10,Lyon,0-3,Bayern München
+SF,28/04/10,Barcelona,1-0,Internazionale
+F,22/05/10,Bayern München,0-2,Internazionale

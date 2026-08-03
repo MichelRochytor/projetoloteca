@@ -1,0 +1,114 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,07/04/29,Vasco,9-1,Bangu
+C,07/04/29,Fluminense,1-3,Andarahy
+C,07/04/29,Flamengo,3-3,Bonsucesso
+C,07/04/29,America-RJ,5-1,SC Brasil
+C,07/04/29,Syrio e Libanez,2-3,Botafogo
+C,14/04/29,Flamengo,1-1,São Cristóvão
+C,14/04/29,America-RJ,6-0,Andarahy
+C,14/04/29,Syrio e Libanez,3-4,Vasco
+C,14/04/29,Bangu,3-2,Fluminense
+C,14/04/29,SC Brasil,2-3,Bonsucesso
+C,21/04/29,São Cristóvão,2-2,Vasco
+C,21/04/29,Andarahy,3-1,Bonsucesso
+C,21/04/29,Fluminense,4-1,SC Brasil
+C,21/04/29,Flamengo,3-1,Syrio e Libanez
+C,21/04/29,Bangu,3-3,Botafogo
+C,28/04/29,Bonsucesso,1-2,Vasco
+C,28/04/29,Andarahy,3-1,Syrio e Libanez
+C,28/04/29,São Cristóvão,5-0,SC Brasil
+C,28/04/29,Botafogo,2-3,America-RJ
+C,28/04/29,Flamengo,1-3,Bangu
+C,05/05/29,Vasco,5-0,SC Brasil
+C,05/05/29,Botafogo,2-4,Flamengo
+C,05/05/29,Bonsucesso,0-7,America-RJ
+C,05/05/29,Bangu,2-0,Syrio e Libanez
+C,05/05/29,São Cristóvão,2-1,Fluminense
+C,12/05/29,Andarahy,0-2,Vasco
+C,12/05/29,São Cristóvão,1-2,Bangu
+C,12/05/29,Fluminense,4-1,Bonsucesso
+C,12/05/29,America-RJ,3-1,Flamengo
+C,26/05/29,Vasco,1-2,Fluminense
+C,26/05/29,Botafogo,0-2,São Cristóvão
+C,26/05/29,Syrio e Libanez,2-3,America-RJ
+C,26/05/29,Andarahy,4-1,Flamengo
+C,26/05/29,Bonsucesso,2-1,Bangu
+C,02/06/29,Flamengo,2-1,SC Brasil
+C,02/06/29,Vasco,2-1,America-RJ
+C,02/06/29,Bonsucesso,3-4,São Cristóvão
+C,02/06/29,Botafogo,3-2,Andarahy
+C,02/06/29,Syrio e Libanez,3-6,Fluminense
+C,09/06/29,SC Brasil,0-1,Syrio e Libanez
+C,09/06/29,America-RJ,4-1,São Cristóvão
+C,09/06/29,Fluminense,1-0,Flamengo
+C,09/06/29,Bonsucesso,3-8,Botafogo
+C,09/06/29,Bangu,4-0,Andarahy
+C,16/06/29,America-RJ,3-1,Fluminense
+C,16/06/29,Botafogo,1-2,Vasco
+C,16/06/29,Andarahy,2-2,São Cristóvão
+C,16/06/29,Syrio e Libanez,2-2,Bonsucesso
+C,16/06/29,SC Brasil,1-5,Bangu
+C,14/07/29,Fluminense,1-0,Botafogo
+C,14/07/29,SC Brasil,3-2,Andarahy
+C,14/07/29,Vasco,3-2,Flamengo
+C,14/07/29,São Cristóvão,2-1,Syrio e Libanez
+C,14/07/29,Bangu,1-1,America-RJ
+C,21/07/29,Bonsucesso,2-2,Flamengo
+C,21/07/29,Andarahy,0-3,Fluminense
+C,21/07/29,SC Brasil,3-4,America-RJ
+C,21/07/29,Botafogo,2-1,Syrio e Libanez
+C,21/07/29,Bangu,2-2,Vasco
+C,28/07/29,São Cristóvão,2-1,Flamengo
+C,28/07/29,Fluminense,1-0,Bangu
+C,28/07/29,Andarahy,1-2,America-RJ
+C,28/07/29,Vasco,5-1,Syrio e Libanez
+C,28/07/29,Bonsucesso,5-1,SC Brasil
+C,04/08/29,SC Brasil,0-0,Fluminense
+C,04/08/29,Syrio e Libanez,3-0,Flamengo
+C,04/08/29,Bonsucesso,2-1,Andarahy
+C,04/08/29,Vasco,0-0,São Cristóvão
+C,04/08/29,Botafogo,3-5,Bangu
+C,11/08/29,Vasco,1-1,Bonsucesso
+C,11/08/29,Syrio e Libanez,8-0,Andarahy
+C,11/08/29,SC Brasil,1-3,São Cristóvão
+C,11/08/29,Bangu,1-0,Flamengo
+C,18/08/29,Flamengo,1-5,Botafogo
+C,18/08/29,SC Brasil,0-3,Vasco
+C,18/08/29,Fluminense,0-1,São Cristóvão
+C,18/08/29,America-RJ,2-0,Bonsucesso
+C,18/08/29,Syrio e Libanez,2-1,Bangu
+C,01/09/29,Vasco,4-3,Andarahy
+C,01/09/29,Botafogo,5-0,SC Brasil
+C,01/09/29,Bonsucesso,2-4,Fluminense
+C,01/09/29,Flamengo,1-3,America-RJ
+C,01/09/29,Bangu,1-1,São Cristóvão
+C,20/09/29,SC Brasil,3-4,Botafogo
+C,22/09/29,America-RJ,5-1,Syrio e Libanez
+C,22/09/29,São Cristóvão,2-2,Botafogo
+C,22/09/29,Fluminense,1-2,Vasco
+C,22/09/29,Flamengo,1-1,Andarahy
+C,22/09/29,Bangu,3-1,Bonsucesso
+C,26/09/29,Fluminense,1-1,Syrio e Libanez
+C,29/09/29,São Cristóvão,4-2,Bonsucesso
+C,29/09/29,SC Brasil,1-2,Flamengo
+C,29/09/29,Andarahy,3-6,Botafogo
+C,29/09/29,America-RJ,0-2,Vasco
+C,06/10/29,São Cristóvão,0-0,America-RJ
+C,06/10/29,Flamengo,0-1,Fluminense
+C,06/10/29,Botafogo,2-2,Bonsucesso
+C,06/10/29,Syrio e Libanez,2-2,SC Brasil
+C,06/10/29,Andarahy,1-1,Bangu
+C,12/10/29,Fluminense,0-0,America-RJ
+C,20/10/29,Bangu,6-0,SC Brasil
+C,20/10/29,São Cristóvão,2-2,Andarahy
+C,20/10/29,Vasco,2-2,Botafogo
+C,20/10/29,Bonsucesso,3-1,Syrio e Libanez
+C,26/10/29,Botafogo,0-2,Fluminense
+C,27/10/29,Syrio e Libanez,4-3,São Cristóvão
+C,27/10/29,Flamengo,0-1,Vasco
+C,27/10/29,Andarahy,5-1,SC Brasil
+C,27/10/29,America-RJ,3-0,Bangu
+C,03/11/29,America-RJ,11-2,Botafogo
+F,10/11/29,Vasco,0-0,America-RJ
+F,15/11/29,Vasco,1-1,America-RJ
+F,24/11/29,Vasco,5-0,America-RJ

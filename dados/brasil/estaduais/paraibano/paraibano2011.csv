@@ -1,0 +1,103 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,18/01/15,Lucena SC,3-2,Atlético-PB
+1F,18/01/15,Sousa,1-0,Auto Esporte
+1F,18/01/15,CSP,2-0,Santa Cruz-PB
+1F,25/01/15,Santa Cruz-PB,1-0,Atlético-PB
+1F,25/01/15,Sousa,2-1,Lucena SC
+1F,25/01/15,Auto Esporte,2-1,Miramar
+1F,28/01/15,Miramar,1-3,Santa Cruz-PB
+1F,28/01/15,Atlético-PB,0-0,Auto Esporte
+1F,28/01/15,CSP,1-0,Sousa
+1F,31/01/15,Botafogo-PB,2-0,Miramar
+1F,01/02/15,Campinense,2-1,CSP
+1F,01/02/15,Treze,1-1,Santa Cruz-PB
+1F,01/02/15,Sousa,1-1,Atlético-PB
+1F,01/02/15,Auto Esporte,2-0,Lucena SC
+1F,04/02/15,CSP,2-1,Miramar
+1F,04/02/15,Treze,2-0,Sousa
+1F,04/02/15,Auto Esporte,2-1,Santa Cruz-PB
+1F,07/02/15,Miramar,0-4,Campinense
+1F,07/02/15,Santa Cruz-PB,3-3,Sousa
+1F,07/02/15,Lucena SC,0-1,Botafogo-PB
+1F,08/02/15,Treze,2-0,Auto Esporte
+1F,08/02/15,Atlético-PB,2-2,CSP
+1F,11/02/15,Lucena SC,2-3,Treze
+1F,11/02/15,Sousa,1-1,Miramar
+1F,12/02/15,Auto Esporte,1-1,CSP
+1F,19/02/15,Treze,1-1,CSP
+1F,19/02/15,Lucena SC,2-2,Santa Cruz-PB
+1F,22/02/15,Botafogo-PB,0-1,Treze
+1F,22/02/15,Campinense,0-0,Auto Esporte
+1F,22/02/15,Atlético-PB,3-1,Miramar
+1F,25/02/15,Botafogo-PB,2-0,Santa Cruz-PB
+1F,25/02/15,Campinense,1-2,Sousa
+1F,28/02/15,CSP,0-0,Lucena SC
+1F,01/03/15,Campinense,2-2,Treze
+1F,01/03/15,Auto Esporte,1-1,Botafogo-PB
+1F,06/03/15,Miramar,1-2,Treze
+1F,08/03/15,Botafogo-PB,2-1,Sousa
+1F,09/03/15,Miramar,0-2,Lucena SC
+1F,09/03/15,Santa Cruz-PB,1-1,Campinense
+1F,10/03/15,Treze,1-1,Atlético-PB
+1F,15/03/15,Lucena SC,0-3,Campinense
+1F,15/03/15,Atlético-PB,1-1,Botafogo-PB
+1F,19/03/15,Santa Cruz-PB,0-1,CSP
+1F,22/03/15,Campinense,2-0,Botafogo-PB
+1F,22/03/15,Auto Esporte,4-0,Sousa
+1F,24/03/15,Lucena SC,1-1,Sousa
+1F,25/03/15,Botafogo-PB,1-0,CSP
+1F,29/03/15,Miramar,1-3,Botafogo-PB
+1F,31/03/15,Santa Cruz-PB,0-0,Treze
+1F,01/04/15,Atlético-PB,2-2,Lucena SC
+1F,04/04/15,Miramar,0-3,CSP
+1F,05/04/15,Treze,1-2,Botafogo-PB
+1F,05/04/15,Atlético-PB,7-2,Santa Cruz-PB
+1F,06/04/15,Auto Esporte,2-0,Campinense
+1F,08/04/15,Botafogo-PB,6-1,Lucena SC
+1F,08/04/15,Sousa,1-0,Treze
+1F,09/04/15,Campinense,3-2,Miramar
+1F,09/04/15,Auto Esporte,2-2,Atlético-PB
+1F,11/04/15,CSP,1-2,Treze
+1F,12/04/15,Botafogo-PB,4-1,Atlético-PB
+1F,12/04/15,Campinense,2-1,Lucena SC
+1F,12/04/15,Miramar,1-2,Auto Esporte
+1F,12/04/15,Sousa,1-0,Santa Cruz-PB
+1F,15/04/15,Atlético-PB,1-2,Treze
+1F,15/04/15,CSP,1-0,Auto Esporte
+1F,15/04/15,Lucena SC,0-1,Miramar
+1F,18/04/15,Lucena SC,4-0,CSP
+1F,18/04/15,Santa Cruz-PB,1-1,Miramar
+1F,19/04/15,Botafogo-PB,4-2,Auto Esporte
+1F,19/04/15,Treze,1-1,Campinense
+1F,19/04/15,Atlético-PB,1-0,Sousa
+1F,22/04/15,Atlético-PB,0-4,Campinense
+1F,22/04/15,Lucena SC,0-1,Auto Esporte
+1F,22/04/15,Sousa,2-4,Botafogo-PB
+1F,22/04/15,Treze,3-0,Miramar
+1F,26/04/15,Miramar,0-2,Atlético-PB
+1F,26/04/15,Botafogo-PB,0-2,Campinense
+1F,29/04/15,Sousa,1-2,Campinense
+1F,29/04/15,Santa Cruz-PB,1-2,Botafogo-PB
+1F,29/04/15,CSP,2-1,Atlético-PB
+1F,02/05/15,Auto Esporte,1-0,Treze
+1F,02/05/15,Sousa,3-2,CSP
+1F,02/05/15,Campinense,3-1,Santa Cruz-PB
+1F,05/05/15,CSP,0-1,Campinense
+1F,05/05/15,Santa Cruz-PB,1-1,Lucena SC
+1F,08/05/15,Campinense,5-1,Atlético-PB
+1F,08/05/15,CSP,1-2,Botafogo-PB
+1F,08/05/15,Miramar,0-2,Sousa
+1F,08/05/15,Santa Cruz-PB,2-1,Auto Esporte
+1F,08/05/15,Treze,3-1,Lucena SC
+Único,13/05/15,Auto Esporte,2-2,Botafogo-PB
+Único,14/05/15,Treze,1-3,Campinense
+Único,20/05/15,Botafogo-PB,1-1,Treze
+Único,21/05/15,Campinense,2-0,Auto Esporte
+Único,27/05/15,Campinense,1-1,Botafogo-PB
+Único,28/05/15,Auto Esporte,2-2,Treze
+Único,03/06/15,Botafogo-PB,2-1,Campinense
+Único,04/06/15,Treze,1-1,Auto Esporte
+Único,10/06/15,Treze,2-0,Botafogo-PB
+Único,10/06/15,Auto Esporte,0-2,Campinense
+Único,13/06/15,Botafogo-PB,3-1,Auto Esporte
+Único,13/06/15,Campinense,2-0,Treze

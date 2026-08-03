@@ -1,0 +1,97 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,07/01/17,Treze,1-0,Atlético-PB
+1F,08/01/17,Botafogo-PB,2-1,Internacional-PB
+1F,08/01/17,Auto Esporte,1-2,CSP
+1F,08/01/17,Campinense,4-1,Serrano-PB
+1F,08/01/17,Paraíba,0-0,Sousa
+1F,11/01/17,Internacional-PB,1-0,Paraíba
+1F,11/01/17,CSP,1-0,Treze
+1F,11/01/17,Serrano-PB,2-1,Auto Esporte
+1F,11/01/17,Sousa,1-1,Campinense
+1F,11/01/17,Atlético-PB,1-0,Botafogo-PB
+1F,14/01/17,Treze,1-0,Internacional-PB
+1F,15/01/17,Auto Esporte,1-1,Paraíba
+1F,15/01/17,Serrano-PB,3-2,CSP
+1F,15/01/17,Atlético-PB,2-0,Campinense
+1F,15/01/17,Sousa,0-1,Botafogo-PB
+1F,18/01/17,Botafogo-PB,3-1,CSP
+1F,18/01/17,Internacional-PB,0-0,Serrano-PB
+1F,18/01/17,Campinense,0-0,Auto Esporte
+1F,18/01/17,Paraíba,0-0,Atlético-PB
+1F,19/01/17,Treze,0-0,Sousa
+1F,21/01/17,Serrano-PB,1-0,Paraíba
+1F,21/01/17,CSP,0-0,Internacional-PB
+1F,22/01/17,Botafogo-PB,2-1,Auto Esporte
+1F,22/01/17,Atlético-PB,1-0,Sousa
+1F,22/01/17,Campinense,1-1,Treze
+1F,29/01/17,Internacional-PB,1-0,Campinense
+1F,29/01/17,Serrano-PB,1-2,Botafogo-PB
+1F,29/01/17,CSP,1-1,Atlético-PB
+1F,29/01/17,Sousa,1-2,Auto Esporte
+1F,29/01/17,Paraíba,1-2,Treze
+1F,01/02/17,Treze,1-1,Serrano-PB
+1F,01/02/17,Sousa,1-2,Internacional-PB
+1F,01/02/17,Atlético-PB,0-1,Auto Esporte
+1F,01/02/17,Botafogo-PB,1-2,Campinense
+1F,02/02/17,Paraíba,1-0,CSP
+1F,15/02/17,Atlético-PB,1-0,Serrano-PB
+1F,15/02/17,Auto Esporte,0-0,Internacional-PB
+1F,15/02/17,CSP,0-2,Sousa
+1F,15/02/17,Treze,0-1,Botafogo-PB
+1F,16/02/17,Campinense,3-0,Paraíba
+1F,18/02/17,Auto Esporte,2-1,Treze
+1F,18/02/17,Internacional-PB,0-0,Atlético-PB
+1F,19/02/17,Sousa,4-2,Serrano-PB
+1F,19/02/17,Campinense,1-0,CSP
+1F,19/02/17,Paraíba,0-1,Botafogo-PB
+1F,25/02/17,Internacional-PB,1-1,Botafogo-PB
+1F,01/03/17,Serrano-PB,1-2,Campinense
+1F,01/03/17,CSP,0-1,Auto Esporte
+1F,01/03/17,Sousa,2-2,Paraíba
+1F,01/03/17,Atlético-PB,0-0,Treze
+1F,05/03/17,Botafogo-PB,2-1,Atlético-PB
+1F,05/03/17,Auto Esporte,1-0,Serrano-PB
+1F,05/03/17,Campinense,2-1,Sousa
+1F,05/03/17,Treze,3-0,CSP
+1F,05/03/17,Paraíba,2-2,Internacional-PB
+1F,08/03/17,CSP,0-1,Serrano-PB
+1F,08/03/17,Paraíba,1-1,Auto Esporte
+1F,08/03/17,Botafogo-PB,4-1,Sousa
+1F,08/03/17,Campinense,0-0,Atlético-PB
+1F,15/03/17,CSP,1-0,Botafogo-PB
+1F,15/03/17,Atlético-PB,0-0,Paraíba
+1F,15/03/17,Sousa,0-0,Treze
+1F,15/03/17,Serrano-PB,3-2,Internacional-PB
+1F,16/03/17,Auto Esporte,3-5,Campinense
+1F,19/03/17,Auto Esporte,0-3,Botafogo-PB
+1F,19/03/17,Internacional-PB,1-2,CSP
+1F,19/03/17,Sousa,2-1,Atlético-PB
+1F,19/03/17,Paraíba,2-2,Serrano-PB
+1F,19/03/17,Treze,0-0,Campinense
+1F,26/03/17,Botafogo-PB,1-0,Serrano-PB
+1F,26/03/17,Auto Esporte,0-1,Sousa
+1F,26/03/17,Campinense,3-1,Internacional-PB
+1F,26/03/17,Treze,2-0,Paraíba
+1F,26/03/17,Atlético-PB,2-0,CSP
+1F,05/04/17,CSP,2-0,Paraíba
+1F,05/04/17,Auto Esporte,2-1,Atlético-PB
+1F,05/04/17,Campinense,1-2,Botafogo-PB
+1F,06/04/17,Serrano-PB,0-0,Treze
+1F,06/04/17,Internacional-PB,2-3,Sousa
+1F,08/04/17,CSP,0-2,Campinense
+1F,09/04/17,Botafogo-PB,3-0,Paraíba
+1F,09/04/17,Treze,2-0,Auto Esporte
+1F,09/04/17,Atlético-PB,2-1,Internacional-PB
+1F,09/04/17,Internacional-PB,1-1,Treze
+1F,09/04/17,Serrano-PB,3-2,Sousa
+1F,16/04/17,Internacional-PB,0-7,Auto Esporte
+1F,16/04/17,Botafogo-PB,0-1,Treze
+1F,16/04/17,Serrano-PB,1-4,Atlético-PB
+1F,16/04/17,Sousa,1-1,CSP
+1F,16/04/17,Paraíba,1-2,Campinense
+SF,19/04/17,Atlético-PB,0-3,Botafogo-PB
+SF,20/04/17,Treze,2-1,Campinense
+SF,23/04/17,Botafogo-PB,1-0,Atlético-PB
+SF,23/04/17,Campinense,0-0,Treze
+F,30/04/17,Treze,2-3,Botafogo-PB
+F,07/05/17,Botafogo-PB,1-1,Treze

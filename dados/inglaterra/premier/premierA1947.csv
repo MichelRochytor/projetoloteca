@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,23/08/47,Arsenal,3-1,Sunderland
+1,23/08/47,Blackburn Rovers,2-3,Everton
+1,23/08/47,Blackpool,3-0,Chelsea
+1,23/08/47,Bolton Wanderers,0-1,Stoke City
+1,23/08/47,Charlton Athletic,4-0,Sheffield United
+1,23/08/47,Derby County,0-0,Huddersfield Town
+1,23/08/47,Grimsby Town,3-0,Aston Villa
+1,23/08/47,Liverpool,3-1,Preston North End
+1,23/08/47,Manchester City,4-3,Wolverhampton
+1,23/08/47,Middlesbrough,2-2,Manchester United
+1,23/08/47,Portsmouth,0-1,Burnley
+2,25/08/47,Preston North End,1-0,Bolton Wanderers
+2,25/08/47,Sheffield United,1-1,Middlesbrough
+2,25/08/47,Stoke City,2-1,Portsmouth
+2,26/08/47,Burnley,0-2,Derby County
+2,27/08/47,Charlton Athletic,2-4,Arsenal
+2,27/08/47,Chelsea,1-0,Blackburn Rovers
+2,27/08/47,Everton,1-0,Manchester City
+2,27/08/47,Huddersfield Town,2-0,Blackpool
+2,27/08/47,Manchester United,2-0,Liverpool
+2,27/08/47,Sunderland,0-0,Aston Villa
+2,27/08/47,Wolverhampton,8-1,Grimsby Town
+3,30/08/47,Aston Villa,1-1,Manchester City
+3,30/08/47,Burnley,2-0,Bolton Wanderers
+3,30/08/47,Chelsea,1-0,Derby County
+3,30/08/47,Everton,1-2,Blackpool
+3,30/08/47,Huddersfield Town,0-2,Portsmouth
+3,30/08/47,Manchester United,6-2,Charlton Athletic
+3,30/08/47,Preston North End,2-1,Middlesbrough
+3,30/08/47,Sheffield United,1-2,Arsenal
+3,30/08/47,Stoke City,0-2,Liverpool
+3,30/08/47,Sunderland,4-2,Grimsby Town
+3,30/08/47,Wolverhampton,5-1,Blackburn Rovers
+4,01/09/47,Aston Villa,2-0,Sunderland
+4,01/09/47,Blackpool,4-0,Huddersfield Town
+4,01/09/47,Bolton Wanderers,1-2,Preston North End
+4,03/09/47,Arsenal,6-0,Charlton Athletic
+4,03/09/47,Derby County,1-1,Burnley
+4,03/09/47,Grimsby Town,0-4,Wolverhampton
+4,03/09/47,Liverpool,2-2,Manchester United
+4,03/09/47,Manchester City,0-1,Everton
+4,03/09/47,Middlesbrough,3-0,Sheffield United
+4,03/09/47,Portsmouth,3-0,Stoke City
+4,06/09/47,Blackburn Rovers,0-0,Aston Villa
+4,06/09/47,Huddersfield Town,3-1,Chelsea
+5,06/09/47,Arsenal,2-1,Manchester United
+5,06/09/47,Blackpool,2-2,Wolverhampton
+5,06/09/47,Bolton Wanderers,4-0,Portsmouth
+5,06/09/47,Charlton Athletic,1-2,Preston North End
+5,06/09/47,Derby County,1-0,Everton
+5,06/09/47,Grimsby Town,0-3,Sheffield United
+5,06/09/47,Liverpool,1-1,Burnley
+5,06/09/47,Manchester City,3-0,Sunderland
+5,06/09/47,Middlesbrough,2-1,Stoke City
+5,08/09/47,Blackpool,1-0,Blackburn Rovers
+6,08/09/47,Aston Villa,3-0,Everton
+6,08/09/47,Burnley,0-0,Manchester United
+6,08/09/47,Sheffield United,3-1,Liverpool
+6,08/09/47,Stoke City,0-1,Preston North End
+5,10/09/47,Chelsea,1-1,Sunderland
+6,10/09/47,Arsenal,2-0,Bolton Wanderers
+6,10/09/47,Derby County,0-0,Manchester City
+6,10/09/47,Huddersfield Town,5-1,Grimsby Town
+6,10/09/47,Wolverhampton,1-3,Middlesbrough
+6,13/09/47,Stoke City,0-1,Charlton Athletic
+6,13/09/47,Sunderland,0-1,Blackburn Rovers
+7,13/09/47,Aston Villa,0-1,Blackpool
+7,13/09/47,Burnley,3-0,Middlesbrough
+7,13/09/47,Chelsea,1-1,Bolton Wanderers
+7,13/09/47,Everton,1-1,Huddersfield Town
+7,13/09/47,Grimsby Town,1-0,Manchester City
+7,13/09/47,Manchester United,0-1,Sheffield United
+7,13/09/47,Portsmouth,1-0,Liverpool
+7,13/09/47,Preston North End,0-0,Arsenal
+7,13/09/47,Wolverhampton,1-0,Derby County
+7,15/09/47,Blackburn Rovers,1-1,Blackpool
+7,17/09/47,Charlton Athletic,2-0,Liverpool
+7,17/09/47,Portsmouth,6-0,Sheffield United
+7,17/09/47,Sunderland,2-3,Chelsea
+8,17/09/47,Everton,3-0,Aston Villa
+8,17/09/47,Grimsby Town,3-0,Huddersfield Town
+8,17/09/47,Manchester City,3-2,Derby County
+8,17/09/47,Preston North End,2-1,Stoke City
+8,20/09/47,Arsenal,3-0,Stoke City
+8,20/09/47,Blackburn Rovers,4-0,Grimsby Town
+8,20/09/47,Charlton Athletic,1-1,Burnley
+8,20/09/47,Chelsea,3-1,Everton
+8,20/09/47,Liverpool,0-0,Bolton Wanderers
+8,20/09/47,Middlesbrough,1-2,Portsmouth
+9,20/09/47,Blackpool,0-1,Sunderland
+9,20/09/47,Derby County,1-3,Aston Villa
+9,20/09/47,Huddersfield Town,0-1,Wolverhampton
+9,20/09/47,Manchester City,0-0,Manchester United
+9,20/09/47,Sheffield United,3-1,Preston North End
+9,27/09/47,Bolton Wanderers,1-3,Middlesbrough
+9,27/09/47,Burnley,0-1,Arsenal
+9,27/09/47,Manchester City,1-3,Blackburn Rovers
+9,27/09/47,Portsmouth,3-1,Charlton Athletic
+9,27/09/47,Wolverhampton,1-0,Chelsea
+10,27/09/47,Aston Villa,2-1,Huddersfield Town
+10,27/09/47,Everton,0-3,Liverpool
+10,27/09/47,Grimsby Town,0-1,Blackpool
+10,27/09/47,Preston North End,2-1,Manchester United
+10,27/09/47,Stoke City,1-1,Sheffield United
+10,27/09/47,Sunderland,1-1,Derby County
+10,04/10/47,Arsenal,0-0,Portsmouth
+10,04/10/47,Blackburn Rovers,2-3,Preston North End
+10,04/10/47,Charlton Athletic,2-1,Bolton Wanderers
+10,04/10/47,Chelsea,4-2,Aston Villa
+11,04/10/47,Blackpool,1-1,Manchester City
+11,04/10/47,Derby County,4-1,Grimsby Town
+11,04/10/47,Everton,1-1,Wolverhampton
+11,04/10/47,Huddersfield Town,2-2,Sunderland
+11,04/10/47,Manchester United,1-1,Stoke City
+11,04/10/47,Middlesbrough,3-1,Liverpool
+11,04/10/47,Sheffield United,1-1,Burnley
+11,11/10/47,Arsenal,1-0,Aston Villa
+11,11/10/47,Bolton Wanderers,1-5,Huddersfield Town
+11,11/10/47,Charlton Athletic,5-1,Wolverhampton
+11,11/10/47,Middlesbrough,0-1,Everton
+11,11/10/47,Stoke City,2-1,Blackburn Rovers
+12,11/10/47,Burnley,1-0,Blackpool
+12,11/10/47,Liverpool,3-0,Chelsea
+12,11/10/47,Manchester United,3-4,Grimsby Town
+12,11/10/47,Portsmouth,0-0,Derby County
+12,11/10/47,Preston North End,2-1,Manchester City
+12,11/10/47,Sheffield United,3-2,Sunderland
+12,18/10/47,Blackburn Rovers,1-2,Burnley
+12,18/10/47,Chelsea,4-2,Middlesbrough
+12,18/10/47,Derby County,2-1,Bolton Wanderers
+12,18/10/47,Everton,0-1,Charlton Athletic
+12,18/10/47,Sunderland,1-0,Manchester United
+12,18/10/47,Wolverhampton,1-1,Arsenal
+13,18/10/47,Aston Villa,2-0,Sheffield United
+13,18/10/47,Blackpool,1-0,Portsmouth
+13,18/10/47,Grimsby Town,1-1,Preston North End
+13,18/10/47,Huddersfield Town,1-1,Liverpool
+13,18/10/47,Manchester City,3-0,Stoke City
+13,25/10/47,Arsenal,1-1,Everton
+13,25/10/47,Charlton Athletic,3-1,Chelsea
+13,25/10/47,Manchester United,2-0,Aston Villa
+13,25/10/47,Middlesbrough,1-0,Huddersfield Town
+13,25/10/47,Portsmouth,1-1,Blackburn Rovers
+14,25/10/47,Bolton Wanderers,1-0,Blackpool
+14,25/10/47,Burnley,1-1,Manchester City
+14,25/10/47,Liverpool,2-2,Derby County
+14,25/10/47,Preston North End,2-2,Sunderland
+14,25/10/47,Sheffield United,2-2,Wolverhampton
+14,25/10/47,Stoke City,2-1,Grimsby Town
+14,01/11/47,Blackburn Rovers,4-0,Bolton Wanderers
+14,01/11/47,Chelsea,0-0,Arsenal
+14,01/11/47,Huddersfield Town,0-1,Charlton Athletic
+14,01/11/47,Wolverhampton,2-6,Manchester United
+15,01/11/47,Aston Villa,4-1,Preston North End
+15,01/11/47,Blackpool,2-0,Liverpool
+15,01/11/47,Derby County,4-2,Middlesbrough
+15,01/11/47,Everton,2-0,Sheffield United
+15,01/11/47,Grimsby Town,1-2,Burnley
+15,01/11/47,Manchester City,1-0,Portsmouth
+15,01/11/47,Sunderland,1-0,Stoke City
+15,08/11/47,Arsenal,2-1,Blackpool
+15,08/11/47,Bolton Wanderers,3-1,Sunderland
+15,08/11/47,Burnley,1-1,Wolverhampton
+15,08/11/47,Charlton Athletic,0-1,Blackburn Rovers
+15,08/11/47,Portsmouth,2-4,Aston Villa
+16,08/11/47,Liverpool,3-1,Grimsby Town
+16,08/11/47,Manchester United,4-4,Huddersfield Town
+16,08/11/47,Middlesbrough,2-1,Manchester City
+16,08/11/47,Preston North End,2-0,Chelsea
+16,08/11/47,Sheffield United,1-2,Derby County
+16,08/11/47,Stoke City,1-1,Everton
+16,15/11/47,Aston Villa,3-1,Bolton Wanderers
+16,15/11/47,Blackburn Rovers,0-1,Arsenal
+16,15/11/47,Everton,0-3,Burnley
+16,15/11/47,Manchester City,4-0,Charlton Athletic
+16,15/11/47,Wolverhampton,3-1,Portsmouth
+17,15/11/47,Blackpool,2-1,Sheffield United
+17,15/11/47,Chelsea,4-1,Stoke City
+17,15/11/47,Derby County,1-1,Manchester United
+17,15/11/47,Grimsby Town,0-5,Middlesbrough
+17,15/11/47,Huddersfield Town,1-0,Preston North End
+17,15/11/47,Sunderland,5-1,Liverpool
+17,22/11/47,Arsenal,2-0,Huddersfield Town
+17,22/11/47,Bolton Wanderers,2-1,Manchester City
+17,22/11/47,Burnley,4-0,Sunderland
+17,22/11/47,Charlton Athletic,1-5,Derby County
+17,22/11/47,Liverpool,2-1,Blackburn Rovers
+18,22/11/47,Manchester United,2-2,Everton
+18,22/11/47,Middlesbrough,4-0,Blackpool
+18,22/11/47,Portsmouth,4-0,Grimsby Town
+18,22/11/47,Preston North End,1-3,Wolverhampton
+18,22/11/47,Sheffield United,3-1,Chelsea
+18,22/11/47,Stoke City,1-2,Aston Villa
+18,29/11/47,Aston Villa,2-2,Burnley
+18,29/11/47,Blackburn Rovers,1-7,Middlesbrough
+18,29/11/47,Chelsea,0-4,Manchester United
+18,29/11/47,Derby County,1-0,Arsenal
+18,29/11/47,Grimsby Town,0-2,Bolton Wanderers
+18,29/11/47,Sunderland,4-1,Portsmouth
+19,29/11/47,Blackpool,3-1,Charlton Athletic
+19,29/11/47,Everton,2-1,Preston North End
+19,29/11/47,Huddersfield Town,2-1,Sheffield United
+19,29/11/47,Manchester City,2-0,Liverpool
+19,29/11/47,Wolverhampton,1-2,Stoke City
+19,06/12/47,Arsenal,1-1,Manchester City
+19,06/12/47,Bolton Wanderers,3-2,Wolverhampton
+19,06/12/47,Burnley,1-0,Chelsea
+19,06/12/47,Charlton Athletic,2-3,Grimsby Town
+19,06/12/47,Middlesbrough,2-2,Sunderland
+19,06/12/47,Portsmouth,3-0,Everton
+19,06/12/47,Sheffield United,4-1,Blackburn Rovers
+20,06/12/47,Liverpool,3-3,Aston Villa
+20,06/12/47,Manchester United,1-1,Blackpool
+20,06/12/47,Preston North End,7-4,Derby County
+20,06/12/47,Stoke City,1-1,Huddersfield Town
+20,13/12/47,Aston Villa,1-1,Middlesbrough
+20,13/12/47,Blackburn Rovers,1-1,Manchester United
+20,13/12/47,Chelsea,1-0,Portsmouth
+20,13/12/47,Everton,2-0,Bolton Wanderers
+20,13/12/47,Grimsby Town,0-4,Arsenal
+20,13/12/47,Huddersfield Town,0-1,Burnley
+20,13/12/47,Sunderland,0-1,Charlton Athletic
+21,13/12/47,Blackpool,0-1,Preston North End
+21,13/12/47,Derby County,1-1,Stoke City
+21,13/12/47,Manchester City,4-3,Sheffield United
+21,13/12/47,Wolverhampton,1-2,Liverpool
+21,20/12/47,Burnley,3-2,Portsmouth
+21,20/12/47,Everton,4-1,Blackburn Rovers
+21,20/12/47,Manchester United,2-1,Middlesbrough
+21,20/12/47,Sheffield United,1-1,Charlton Athletic
+21,20/12/47,Stoke City,2-0,Bolton Wanderers
+21,20/12/47,Sunderland,1-1,Arsenal
+22,20/12/47,Aston Villa,2-2,Grimsby Town
+22,20/12/47,Chelsea,2-2,Blackpool
+22,20/12/47,Huddersfield Town,2-1,Derby County
+22,20/12/47,Preston North End,3-3,Liverpool
+22,20/12/47,Wolverhampton,1-0,Manchester City
+22,25/12/47,Blackburn Rovers,3-4,Derby County
+22,25/12/47,Charlton Athletic,1-0,Middlesbrough
+22,25/12/47,Liverpool,1-3,Arsenal
+22,25/12/47,Manchester United,3-2,Portsmouth
+22,25/12/47,Sheffield United,2-1,Bolton Wanderers
+23,25/12/47,Blackpool,1-2,Stoke City
+23,25/12/47,Burnley,1-0,Preston North End
+23,25/12/47,Grimsby Town,0-0,Chelsea
+23,25/12/47,Sunderland,2-0,Everton
+22,26/12/47,Aston Villa,1-2,Wolverhampton
+23,26/12/47,Manchester City,1-1,Huddersfield Town
+24,26/12/47,Everton,3-0,Sunderland
+24,26/12/47,Preston North End,3-2,Burnley
+23,27/12/47,Arsenal,1-2,Liverpool
+23,27/12/47,Bolton Wanderers,2-3,Sheffield United
+23,27/12/47,Derby County,5-0,Blackburn Rovers
+23,27/12/47,Middlesbrough,1-2,Charlton Athletic
+23,27/12/47,Portsmouth,1-3,Manchester United
+23,27/12/47,Wolverhampton,4-1,Aston Villa
+24,27/12/47,Chelsea,2-3,Grimsby Town
+24,27/12/47,Huddersfield Town,1-1,Manchester City
+24,27/12/47,Stoke City,1-1,Blackpool
+24,01/01/48,Blackburn Rovers,1-1,Chelsea
+24,01/01/48,Bolton Wanderers,0-1,Arsenal
+24,01/01/48,Liverpool,2-3,Charlton Athletic
+24,01/01/48,Manchester United,5-0,Burnley
+24,01/01/48,Middlesbrough,2-4,Wolverhampton
+24,01/01/48,Sheffield United,1-2,Portsmouth
+25,03/01/48,Arsenal,3-2,Sheffield United
+25,03/01/48,Blackburn Rovers,1-0,Wolverhampton
+25,03/01/48,Blackpool,5-0,Everton
+25,03/01/48,Bolton Wanderers,1-1,Burnley
+25,03/01/48,Charlton Athletic,1-2,Manchester United
+25,03/01/48,Derby County,5-1,Chelsea
+25,03/01/48,Grimsby Town,1-2,Sunderland
+25,03/01/48,Manchester City,0-2,Aston Villa
+25,03/01/48,Middlesbrough,1-1,Preston North End
+25,03/01/48,Portsmouth,3-2,Huddersfield Town
+26,03/01/48,Liverpool,0-0,Stoke City
+26,17/01/48,Chelsea,2-4,Huddersfield Town
+26,17/01/48,Everton,1-3,Derby County
+26,17/01/48,Manchester United,1-1,Arsenal
+26,17/01/48,Portsmouth,2-0,Bolton Wanderers
+26,17/01/48,Preston North End,2-1,Charlton Athletic
+26,17/01/48,Sheffield United,4-0,Grimsby Town
+26,17/01/48,Stoke City,2-4,Middlesbrough
+26,17/01/48,Sunderland,0-1,Manchester City
+26,17/01/48,Wolverhampton,1-1,Blackpool
+27,17/01/48,Burnley,3-0,Liverpool
+27,24/01/48,Sunderland,1-2,Bolton Wanderers
+26,31/01/48,Blackburn Rovers,4-3,Sunderland
+27,31/01/48,Arsenal,3-0,Preston North End
+27,31/01/48,Blackpool,1-0,Aston Villa
+27,31/01/48,Charlton Athletic,0-1,Stoke City
+27,31/01/48,Manchester City,3-1,Grimsby Town
+27,31/01/48,Middlesbrough,1-2,Burnley
+28,31/01/48,Bolton Wanderers,2-1,Chelsea
+28,31/01/48,Liverpool,0-3,Portsmouth
+28,31/01/48,Sheffield United,2-1,Manchester United
+27,07/02/48,Grimsby Town,2-2,Blackburn Rovers
+27,07/02/48,Wolverhampton,2-1,Huddersfield Town
+28,07/02/48,Stoke City,0-0,Arsenal
+29,07/02/48,Bolton Wanderers,3-0,Liverpool

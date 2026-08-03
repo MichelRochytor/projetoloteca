@@ -1,0 +1,81 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,19/01/19,União-MS,1-0,Costa Rica EC
+1F,19/01/19,Comercial-MS,2-0,SERC
+1F,19/01/19,Aquidauanense,3-2,Operário AC
+1F,20/01/19,Novoperário,0-1,URSO Mundo Novo
+1F,20/01/19,Operário-MS,2-0,Corumbaense
+1F,20/01/19,7 de Setembro-MS,0-4,Águia Negra
+1F,22/01/19,Operário AC,1-3,SERC
+1F,23/01/19,Aquidauanense,1-1,URSO Mundo Novo
+1F,23/01/19,Costa Rica EC,1-0,7 de Setembro-MS
+1F,23/01/19,Águia Negra,3-0,Operário-MS
+1F,23/01/19,União-MS,1-1,Comercial-MS
+1F,27/01/19,SERC,1-2,Costa Rica EC
+1F,27/01/19,Comercial-MS,0-1,Aquidauanense
+1F,27/01/19,Águia Negra,2-1,Corumbaense
+1F,30/01/19,SERC,0-0,Aquidauanense
+1F,30/01/19,Corumbaense,4-1,Costa Rica EC
+1F,30/01/19,Águia Negra,6-1,Operário AC
+1F,30/01/19,Comercial-MS,1-0,URSO Mundo Novo
+1F,31/01/19,Novoperário,2-2,União-MS
+1F,02/02/19,Aquidauanense,0-2,7 de Setembro-MS
+1F,02/02/19,Operário AC,0-2,Corumbaense
+1F,02/02/19,União-MS,0-1,SERC
+1F,03/02/19,URSO Mundo Novo,2-2,Águia Negra
+1F,03/02/19,Operário-MS,3-1,Comercial-MS
+1F,03/02/19,Costa Rica EC,2-1,Novoperário
+1F,09/02/19,Aquidauanense,5-1,Novoperário
+1F,09/02/19,Comercial-MS,1-0,Águia Negra
+1F,10/02/19,União-MS,0-0,Corumbaense
+1F,10/02/19,URSO Mundo Novo,0-1,7 de Setembro-MS
+1F,10/02/19,Costa Rica EC,1-1,Operário AC
+1F,10/02/19,Operário-MS,3-0,SERC
+1F,13/02/19,7 de Setembro-MS,1-0,União-MS
+1F,13/02/19,Corumbaense,2-0,Novoperário
+1F,16/02/19,7 de Setembro-MS,0-2,Comercial-MS
+1F,16/02/19,Corumbaense,3-1,Aquidauanense
+1F,17/02/19,SERC,0-0,URSO Mundo Novo
+1F,17/02/19,Operário AC,1-1,União-MS
+1F,17/02/19,Novoperário,0-2,Operário-MS
+1F,17/02/19,Águia Negra,2-1,Costa Rica EC
+1F,20/02/19,7 de Setembro-MS,2-2,Operário-MS
+1F,20/02/19,Novoperário,4-0,Operário AC
+1F,23/02/19,Comercial-MS,0-2,Costa Rica EC
+1F,23/02/19,Corumbaense,1-1,SERC
+1F,24/02/19,7 de Setembro-MS,5-0,Operário AC
+1F,24/02/19,URSO Mundo Novo,2-2,União-MS
+1F,24/02/19,Operário-MS,1-1,Aquidauanense
+1F,24/02/19,Águia Negra,3-1,Novoperário
+1F,27/02/19,União-MS,0-1,Águia Negra
+1F,02/03/19,Novoperário,2-1,Comercial-MS
+1F,02/03/19,SERC,0-3,7 de Setembro-MS
+1F,02/03/19,Operário AC,2-2,Operário-MS
+1F,02/03/19,Costa Rica EC,1-0,Aquidauanense
+1F,02/03/19,Corumbaense,4-1,URSO Mundo Novo
+1F,09/03/19,Operário-MS,2-1,Costa Rica EC
+1F,09/03/19,Aquidauanense,2-0,União-MS
+1F,10/03/19,7 de Setembro-MS,4-2,Novoperário
+1F,10/03/19,URSO Mundo Novo,3-0,Operário AC
+1F,10/03/19,SERC,1-1,Águia Negra
+1F,10/03/19,Comercial-MS,1-0,Corumbaense
+1F,14/03/19,URSO Mundo Novo,1-3,Operário-MS
+1F,17/03/19,Costa Rica EC,1-1,URSO Mundo Novo
+1F,17/03/19,Novoperário,2-3,SERC
+1F,17/03/19,Águia Negra,1-2,Aquidauanense
+1F,17/03/19,União-MS,1-3,Operário-MS
+1F,17/03/19,Corumbaense,2-2,7 de Setembro-MS
+1F,17/03/19,Operário AC,1-8,Comercial-MS
+QF,23/03/19,Aquidauanense,1-0,Operário-MS
+QF,24/03/19,SERC,1-0,Águia Negra
+QF,24/03/19,Corumbaense,2-1,Comercial-MS
+QF,24/03/19,Costa Rica EC,0-2,7 de Setembro-MS
+QF,30/03/19,Operário-MS,1-1,Aquidauanense
+QF,31/03/19,7 de Setembro-MS,1-1,Costa Rica EC
+QF,31/03/19,Comercial-MS,1-0,Corumbaense
+QF,31/03/19,Águia Negra,2-0,SERC
+SF,03/04/19,Aquidauanense,0-0,Comercial-MS
+SF,03/04/19,7 de Setembro-MS,1-3,Águia Negra
+SF,07/04/19,Comercial-MS,1-2,Aquidauanense
+SF,07/04/19,Águia Negra,2-1,7 de Setembro-MS
+F,14/04/19,Aquidauanense,1-2,Águia Negra
+F,21/04/19,Águia Negra,0-1,Aquidauanense

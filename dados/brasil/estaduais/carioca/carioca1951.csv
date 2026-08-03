@@ -1,0 +1,91 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,08/07/45,Fluminense,2-2,São Cristóvão
+C,08/07/45,Bangu,1-5,Vasco
+C,08/07/45,Botafogo,6-0,Bonsucesso
+C,08/07/45,Flamengo,2-1,Canto do Rio
+C,15/07/45,America-RJ,3-2,Flamengo
+C,15/07/45,Canto do Rio,2-4,Botafogo
+C,15/07/45,Bonsucesso,1-5,Fluminense
+C,15/07/45,São Cristóvão,2-2,Madureira
+C,22/07/45,Madureira,0-4,Flamengo
+C,22/07/45,Botafogo,1-1,Fluminense
+C,22/07/45,Canto do Rio,1-2,America-RJ
+C,22/07/45,São Cristóvão,1-1,Bangu
+C,29/07/45,Bonsucesso,0-2,Canto do Rio
+C,29/07/45,São Cristóvão,0-1,Vasco
+C,29/07/45,Madureira,0-3,Botafogo
+C,29/07/45,America-RJ,2-0,Bangu
+C,05/08/45,Fluminense,2-1,America-RJ
+C,05/08/45,Vasco,1-1,Canto do Rio
+C,05/08/45,Flamengo,6-2,Bangu
+C,05/08/45,Madureira,3-2,Bonsucesso
+C,12/08/45,Bonsucesso,1-5,Flamengo
+C,12/08/45,São Cristóvão,1-0,Canto do Rio
+C,12/08/45,Vasco,1-0,Botafogo
+C,12/08/45,Bangu,1-2,Fluminense
+C,19/08/45,Madureira,2-3,America-RJ
+C,19/08/45,Flamengo,2-1,São Cristóvão
+C,19/08/45,Vasco,4-1,Bonsucesso
+C,19/08/45,Botafogo,6-1,Bangu
+C,26/08/45,Fluminense,3-2,Madureira
+C,26/08/45,Vasco,1-1,America-RJ
+C,26/08/45,Botafogo,3-1,Flamengo
+C,26/08/45,Bangu,2-0,Canto do Rio
+C,02/09/45,Canto do Rio,2-0,Madureira
+C,02/09/45,Fluminense,1-3,Vasco
+C,02/09/45,America-RJ,3-2,São Cristóvão
+C,02/09/45,Bangu,4-1,Bonsucesso
+C,09/09/45,Flamengo,2-1,Fluminense
+C,09/09/45,São Cristóvão,0-1,Botafogo
+C,09/09/45,Madureira,1-4,Vasco
+C,09/09/45,America-RJ,4-3,Bonsucesso
+C,16/09/45,Canto do Rio,3-1,Fluminense
+C,16/09/45,Botafogo,2-1,America-RJ
+C,16/09/45,Bonsucesso,1-3,São Cristóvão
+C,16/09/45,Madureira,1-2,Bangu
+C,16/09/45,Vasco,2-1,Flamengo
+C,23/09/45,America-RJ,4-1,Madureira
+C,23/09/45,Canto do Rio,0-5,Vasco
+C,23/09/45,São Cristóvão,1-0,Fluminense
+C,23/09/45,Bonsucesso,1-0,Botafogo
+C,23/09/45,Bangu,1-3,Flamengo
+C,29/09/45,Fluminense,5-2,Bonsucesso
+C,30/09/45,Flamengo,4-1,America-RJ
+C,30/09/45,Vasco,6-2,Bangu
+C,30/09/45,Madureira,3-2,São Cristóvão
+C,30/09/45,Botafogo,6-0,Canto do Rio
+C,06/10/45,Vasco,5-1,São Cristóvão
+C,07/10/45,Fluminense,0-1,Botafogo
+C,07/10/45,Flamengo,3-2,Madureira
+C,07/10/45,Canto do Rio,6-3,Bangu
+C,07/10/45,Bonsucesso,0-5,America-RJ
+C,13/10/45,Flamengo,10-1,Bonsucesso
+C,13/10/45,America-RJ,1-2,Fluminense
+C,14/10/45,Bangu,4-3,São Cristóvão
+C,14/10/45,Botafogo,2-2,Vasco
+C,14/10/45,Madureira,0-0,Canto do Rio
+C,20/10/45,Fluminense,5-0,Bangu
+C,21/10/45,Botafogo,2-0,Madureira
+C,21/10/45,Bonsucesso,0-9,Vasco
+C,21/10/45,São Cristóvão,1-6,Flamengo
+C,21/10/45,America-RJ,6-2,Canto do Rio
+C,27/10/45,Canto do Rio,2-3,São Cristóvão
+C,28/10/45,Flamengo,0-2,Botafogo
+C,28/10/45,America-RJ,0-2,Vasco
+C,28/10/45,Madureira,2-2,Fluminense
+C,28/10/45,Bonsucesso,2-0,Bangu
+C,03/11/45,São Cristóvão,1-3,America-RJ
+C,04/11/45,Vasco,1-1,Fluminense
+C,04/11/45,Canto do Rio,1-1,Flamengo
+C,04/11/45,Bonsucesso,3-2,Madureira
+C,04/11/45,Bangu,0-3,Botafogo
+C,10/11/45,Fluminense,1-1,Flamengo
+C,11/11/45,Bangu,1-5,America-RJ
+C,11/11/45,Vasco,4-0,Madureira
+C,11/11/45,Canto do Rio,5-2,Bonsucesso
+C,11/11/45,Botafogo,0-0,São Cristóvão
+C,17/11/45,Fluminense,3-1,Canto do Rio
+C,17/11/45,Bangu,4-0,Madureira
+C,18/11/45,America-RJ,4-1,Botafogo
+C,18/11/45,Flamengo,2-2,Vasco
+C,18/11/45,São Cristóvão,3-1,Bonsucesso

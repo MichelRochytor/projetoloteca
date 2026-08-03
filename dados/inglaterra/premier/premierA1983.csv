@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,26/08/83,Arsenal,2-1,Luton Town
+1,26/08/83,Aston Villa,4-3,West Bromwich
+1,26/08/83,Everton,1-0,Stoke City
+1,26/08/83,Ipswich Town,3-1,Tottenham
+1,26/08/83,Leicester City,0-4,Notts County
+1,26/08/83,Manchester United,3-1,QPR
+1,26/08/83,Nottingham Forest,0-1,Southampton
+1,26/08/83,Sunderland,1-1,Norwich City
+1,26/08/83,Watford,2-3,Coventry City
+1,26/08/83,West Ham,4-0,Birmingham City
+1,26/08/83,Wolverhampton,1-1,Liverpool
+2,28/08/83,Aston Villa,1-0,Sunderland
+2,28/08/83,Everton,0-1,West Ham
+2,28/08/83,Manchester United,1-2,Nottingham Forest
+2,28/08/83,Southampton,0-0,QPR
+2,28/08/83,Stoke City,3-1,West Bromwich
+2,28/08/83,Tottenham,1-1,Coventry City
+2,28/08/83,Wolverhampton,1-2,Arsenal
+2,29/08/83,Notts County,2-1,Birmingham City
+2,29/08/83,Watford,2-2,Ipswich Town
+2,30/08/83,Leicester City,0-3,Luton Town
+2,30/08/83,Norwich City,0-1,Liverpool
+3,02/09/83,Birmingham City,2-0,Watford
+3,02/09/83,Coventry City,1-1,Everton
+3,02/09/83,Liverpool,1-0,Nottingham Forest
+3,02/09/83,Luton Town,4-1,Sunderland
+3,02/09/83,Norwich City,3-0,Wolverhampton
+3,02/09/83,Notts County,0-2,Ipswich Town
+3,02/09/83,QPR,2-1,Aston Villa
+3,02/09/83,Southampton,1-0,Arsenal
+3,02/09/83,Stoke City,0-1,Manchester United
+3,02/09/83,Tottenham,0-2,West Ham
+3,02/09/83,West Bromwich,1-0,Leicester City
+4,05/09/83,Arsenal,2-3,Manchester United
+4,05/09/83,Birmingham City,1-0,Stoke City
+4,05/09/83,Coventry City,2-1,Notts County
+4,05/09/83,Ipswich Town,3-0,Everton
+4,05/09/83,Liverpool,1-1,Southampton
+4,05/09/83,Luton Town,2-2,Norwich City
+4,05/09/83,QPR,1-1,Watford
+4,05/09/83,West Ham,3-1,Leicester City
+4,06/09/83,Nottingham Forest,2-2,Aston Villa
+4,06/09/83,Sunderland,3-2,Wolverhampton
+4,06/09/83,West Bromwich,1-1,Tottenham
+5,09/09/83,Arsenal,0-2,Liverpool
+5,09/09/83,Aston Villa,1-0,Norwich City
+5,09/09/83,Everton,0-0,West Bromwich
+5,09/09/83,Ipswich Town,5-0,Stoke City
+5,09/09/83,Leicester City,0-3,Tottenham
+5,09/09/83,Manchester United,2-0,Luton Town
+5,09/09/83,Nottingham Forest,3-2,QPR
+5,09/09/83,Sunderland,0-2,Southampton
+5,09/09/83,Watford,3-1,Notts County
+5,09/09/83,West Ham,5-2,Coventry City
+5,09/09/83,Wolverhampton,1-1,Birmingham City
+6,16/09/83,Birmingham City,1-0,Ipswich Town
+6,16/09/83,Coventry City,2-1,Leicester City
+6,16/09/83,Liverpool,2-1,Aston Villa
+6,16/09/83,Luton Town,4-0,Wolverhampton
+6,16/09/83,Norwich City,2-3,Nottingham Forest
+6,16/09/83,Notts County,0-4,Arsenal
+6,16/09/83,QPR,3-0,Sunderland
+6,16/09/83,Southampton,3-0,Manchester United
+6,16/09/83,Stoke City,0-4,Watford
+6,16/09/83,Tottenham,1-2,Everton
+6,16/09/83,West Bromwich,1-0,West Ham
+7,23/09/83,Arsenal,3-0,Norwich City
+7,23/09/83,Aston Villa,1-0,Southampton
+7,23/09/83,Everton,1-1,Birmingham City
+7,23/09/83,Ipswich Town,3-4,West Bromwich
+7,23/09/83,Leicester City,2-2,Stoke City
+7,23/09/83,Manchester United,1-0,Liverpool
+7,23/09/83,Nottingham Forest,1-0,Luton Town
+7,23/09/83,Sunderland,1-0,Coventry City
+7,23/09/83,Watford,2-3,Tottenham
+7,23/09/83,West Ham,3-0,Notts County
+7,23/09/83,Wolverhampton,0-4,QPR
+8,30/09/83,Birmingham City,2-1,Leicester City
+8,30/09/83,Coventry City,1-2,Ipswich Town
+8,30/09/83,Liverpool,0-1,Sunderland
+8,30/09/83,Luton Town,1-0,Aston Villa
+8,30/09/83,Norwich City,3-3,Manchester United
+8,30/09/83,Notts County,0-1,Everton
+8,30/09/83,QPR,2-0,Arsenal
+8,30/09/83,Southampton,1-0,Wolverhampton
+8,30/09/83,Stoke City,3-1,West Ham
+8,30/09/83,West Bromwich,2-0,Watford
+8,01/10/83,Tottenham,2-1,Nottingham Forest
+9,14/10/83,Arsenal,0-1,Coventry City
+9,14/10/83,Aston Villa,1-0,Birmingham City
+9,14/10/83,Everton,0-1,Luton Town
+9,14/10/83,Ipswich Town,0-2,QPR
+9,14/10/83,Manchester United,3-0,West Bromwich
+9,14/10/83,Sunderland,2-2,Stoke City
+9,14/10/83,Watford,1-3,Norwich City
+9,14/10/83,West Ham,1-3,Liverpool
+9,14/10/83,Wolverhampton,2-3,Tottenham
+9,15/10/83,Nottingham Forest,3-1,Notts County
+9,18/10/83,Norwich City,3-1,Leicester City
+9,21/10/83,Luton Town,3-1,Southampton
+10,21/10/83,Arsenal,4-1,Nottingham Forest
+10,21/10/83,Birmingham City,0-1,Tottenham
+10,21/10/83,Coventry City,1-2,West Bromwich
+10,21/10/83,Everton,1-0,Watford
+10,21/10/83,Ipswich Town,0-0,Leicester City
+10,21/10/83,Notts County,1-1,Stoke City
+10,21/10/83,QPR,0-1,Liverpool
+10,21/10/83,Sunderland,0-1,Manchester United
+10,21/10/83,West Ham,0-0,Norwich City
+10,22/10/83,Wolverhampton,1-1,Aston Villa
+11,27/10/83,Watford,0-0,West Ham
+11,28/10/83,Aston Villa,2-6,Arsenal
+11,28/10/83,Leicester City,2-0,Everton
+11,28/10/83,Liverpool,6-0,Luton Town
+11,28/10/83,Manchester United,3-0,Wolverhampton
+11,28/10/83,Nottingham Forest,1-1,Sunderland
+11,28/10/83,Southampton,3-2,Ipswich Town
+11,28/10/83,Stoke City,1-3,Coventry City
+11,28/10/83,Tottenham,1-0,Notts County
+11,28/10/83,West Bromwich,1-2,Birmingham City
+12,28/10/83,Norwich City,0-3,QPR
+11,04/11/83,Norwich City,1-0,Southampton
+12,04/11/83,Arsenal,1-2,Sunderland
+12,04/11/83,Birmingham City,1-2,Coventry City
+12,04/11/83,Manchester United,1-2,Aston Villa
+12,04/11/83,Nottingham Forest,5-0,Wolverhampton
+12,04/11/83,QPR,0-1,Luton Town
+12,04/11/83,Stoke City,1-1,Tottenham
+12,04/11/83,Watford,3-3,Leicester City
+12,04/11/83,West Bromwich,2-0,Notts County
+12,04/11/83,West Ham,2-1,Ipswich Town
+12,05/11/83,Liverpool,3-0,Everton
+12,11/11/83,Southampton,1-0,West Bromwich
+13,11/11/83,Aston Villa,1-1,Stoke City
+13,11/11/83,Coventry City,1-0,QPR
+13,11/11/83,Everton,1-0,Nottingham Forest
+13,11/11/83,Ipswich Town,1-0,Arsenal
+13,11/11/83,Leicester City,1-1,Manchester United
+13,11/11/83,Luton Town,1-1,Birmingham City
+13,11/11/83,Notts County,1-1,Norwich City
+13,11/11/83,Sunderland,3-0,Watford
+13,11/11/83,Tottenham,2-2,Liverpool
+13,11/11/83,Wolverhampton,0-3,West Ham
+13,18/11/83,Southampton,0-2,Notts County
+14,18/11/83,Arsenal,2-1,Everton
+14,18/11/83,Aston Villa,3-1,Leicester City
+14,18/11/83,Liverpool,1-0,Stoke City
+14,18/11/83,Luton Town,2-4,Tottenham
+14,18/11/83,Manchester United,4-1,Watford
+14,18/11/83,Nottingham Forest,2-1,Ipswich Town
+14,18/11/83,QPR,2-1,Birmingham City
+14,18/11/83,Sunderland,0-1,West Ham
+14,18/11/83,Wolverhampton,0-0,Coventry City
+15,18/11/83,Norwich City,2-0,West Bromwich
+14,25/11/83,Coventry City,0-0,Southampton
+15,25/11/83,Birmingham City,0-1,Sunderland
+15,25/11/83,Everton,0-2,Norwich City
+15,25/11/83,Ipswich Town,1-1,Liverpool
+15,25/11/83,Leicester City,3-0,Arsenal
+15,25/11/83,Notts County,5-2,Aston Villa
+15,25/11/83,Stoke City,1-1,Nottingham Forest
+15,25/11/83,Tottenham,3-2,QPR
+15,25/11/83,Watford,1-2,Luton Town
+15,25/11/83,West Bromwich,1-3,Wolverhampton
+15,26/11/83,West Ham,1-1,Manchester United
+16,29/11/83,Leicester City,2-1,Southampton
+16,02/12/83,Arsenal,0-1,West Bromwich
+16,02/12/83,Aston Villa,1-0,West Ham
+16,02/12/83,Liverpool,1-0,Birmingham City
+16,02/12/83,Luton Town,2-4,Coventry City
+16,02/12/83,Manchester United,0-1,Everton
+16,02/12/83,Norwich City,2-1,Tottenham
+16,02/12/83,QPR,1-0,Notts County
+16,02/12/83,Southampton,3-1,Stoke City
+16,02/12/83,Sunderland,1-1,Ipswich Town
+16,02/12/83,Wolverhampton,0-5,Watford
+17,03/12/83,Nottingham Forest,3-2,Leicester City
+17,09/12/83,Coventry City,4-0,Liverpool
+17,09/12/83,Everton,1-1,Aston Villa
+17,09/12/83,Ipswich Town,0-2,Manchester United
+17,09/12/83,Notts County,6-1,Sunderland
+17,09/12/83,Stoke City,2-4,Luton Town
+17,09/12/83,Tottenham,0-0,Southampton
+17,09/12/83,Watford,3-2,Nottingham Forest
+17,09/12/83,West Bromwich,1-2,QPR
+17,09/12/83,West Ham,3-1,Arsenal
+18,09/12/83,Birmingham City,0-1,Norwich City
+18,09/12/83,Leicester City,5-1,Wolverhampton
+18,15/12/83,Manchester United,4-2,Tottenham
+18,16/12/83,Arsenal,3-1,Watford
+18,16/12/83,Aston Villa,4-0,Ipswich Town
+18,16/12/83,Liverpool,5-0,Notts County
+18,16/12/83,Nottingham Forest,3-0,West Ham
+18,16/12/83,QPR,2-0,Everton
+18,16/12/83,Southampton,2-1,Birmingham City
+18,16/12/83,Wolverhampton,0-0,Stoke City
+19,16/12/83,Norwich City,0-0,Coventry City
+18,17/12/83,Luton Town,2-0,West Bromwich
+19,17/12/83,Sunderland,1-1,Leicester City
+19,25/12/83,Birmingham City,1-2,Nottingham Forest
+19,25/12/83,Coventry City,1-1,Manchester United
+19,25/12/83,Everton,0-0,Sunderland
+19,25/12/83,Ipswich Town,3-1,Wolverhampton
+19,25/12/83,Notts County,0-3,Luton Town
+19,25/12/83,Stoke City,2-0,Norwich City
+19,25/12/83,Tottenham,2-4,Arsenal
+19,25/12/83,Watford,3-2,Aston Villa
+19,25/12/83,West Bromwich,1-2,Liverpool
+19,25/12/83,West Ham,0-1,Southampton
+20,25/12/83,Leicester City,2-1,QPR
+20,26/12/83,Arsenal,1-1,Birmingham City
+20,26/12/83,Aston Villa,0-0,Tottenham
+20,26/12/83,Luton Town,0-1,West Ham
+20,26/12/83,Manchester United,3-3,Notts County
+20,26/12/83,Norwich City,0-0,Ipswich Town
+20,26/12/83,Southampton,1-0,Watford
+20,26/12/83,Sunderland,3-0,West Bromwich
+20,26/12/83,Wolverhampton,3-0,Everton
+21,26/12/83,Liverpool,2-2,Leicester City
+20,27/12/83,Nottingham Forest,3-0,Coventry City
+21,30/12/83,Arsenal,2-2,Southampton
+21,30/12/83,Aston Villa,2-1,QPR
+21,30/12/83,Everton,0-0,Coventry City
+21,30/12/83,Ipswich Town,1-0,Notts County
+21,30/12/83,Manchester United,1-0,Stoke City
+21,30/12/83,Nottingham Forest,0-1,Liverpool
+21,30/12/83,Sunderland,2-0,Luton Town
+21,30/12/83,Watford,1-0,Birmingham City
+21,30/12/83,West Ham,4-1,Tottenham
+21,30/12/83,Wolverhampton,2-0,Norwich City
+22,30/12/83,Leicester City,1-1,West Bromwich
+22,01/01/84,Birmingham City,0-2,Everton
+22,01/01/84,Coventry City,2-1,Sunderland
+22,01/01/84,Liverpool,1-1,Manchester United
+22,01/01/84,Luton Town,2-3,Nottingham Forest
+22,01/01/84,Norwich City,1-1,Arsenal
+22,01/01/84,Notts County,2-2,West Ham
+22,01/01/84,QPR,2-1,Wolverhampton
+22,01/01/84,Southampton,2-2,Aston Villa
+22,01/01/84,Tottenham,2-3,Watford
+22,01/01/84,West Bromwich,2-1,Ipswich Town
+23,01/01/84,Stoke City,0-1,Leicester City
+23,12/01/84,QPR,1-1,Manchester United
+23,13/01/84,Birmingham City,3-0,West Ham
+23,13/01/84,Coventry City,1-2,Watford
+23,13/01/84,Liverpool,0-1,Wolverhampton
+23,13/01/84,Luton Town,1-2,Arsenal
+23,13/01/84,Norwich City,3-0,Sunderland
+23,13/01/84,Stoke City,1-1,Everton
+23,13/01/84,Tottenham,2-0,Ipswich Town
+23,13/01/84,West Bromwich,3-1,Aston Villa
+24,13/01/84,Notts County,2-5,Leicester City
+23,16/01/84,QPR,6-0,Stoke City
+24,19/01/84,Aston Villa,1-3,Liverpool
+23,20/01/84,Nottingham Forest,3-0,Norwich City
+24,20/01/84,Arsenal,1-1,Notts County
+24,20/01/84,Everton,2-1,Tottenham
+24,20/01/84,Ipswich Town,1-2,Birmingham City
+24,20/01/84,Manchester United,3-2,Southampton
+24,20/01/84,Watford,2-0,Stoke City
+24,20/01/84,West Ham,1-0,West Bromwich
+24,20/01/84,Wolverhampton,1-2,Luton Town
+25,20/01/84,Leicester City,1-1,Coventry City
+24,22/01/84,Southampton,0-1,Nottingham Forest
+25,27/01/84,Stoke City,1-0,Arsenal
+25,31/01/84,Liverpool,3-0,Watford
+24,03/02/84,Sunderland,0-0,Liverpool
+25,03/02/84,Aston Villa,0-0,Luton Town
+25,03/02/84,Everton,4-1,Notts County
+25,03/02/84,Ipswich Town,3-1,Coventry City
+25,03/02/84,Manchester United,0-0,Norwich City
+25,03/02/84,Nottingham Forest,2-2,Tottenham
+25,03/02/84,West Ham,3-0,Stoke City
+25,03/02/84,Wolverhampton,0-1,Southampton
+26,03/02/84,Arsenal,0-2,QPR
+26,03/02/84,Leicester City,2-3,Birmingham City
+26,03/02/84,Watford,3-1,West Bromwich
+26,06/02/84,Birmingham City,2-2,Manchester United
+26,06/02/84,QPR,1-1,West Ham
+25,07/02/84,Tottenham,3-0,Sunderland
+26,07/02/84,West Bromwich,0-5,Nottingham Forest
+26,10/02/84,Birmingham City,0-0,Wolverhampton
+26,10/02/84,Norwich City,3-1,Aston Villa
+26,10/02/84,Southampton,1-1,Sunderland
+26,10/02/84,Stoke City,1-0,Ipswich Town
+26,10/02/84,West Bromwich,1-1,Everton
+27,10/02/84,Coventry City,1-2,West Ham
+27,10/02/84,Liverpool,2-1,Arsenal
+27,10/02/84,Notts County,3-5,Watford
+27,10/02/84,QPR,0-1,Nottingham Forest
+27,10/02/84,Tottenham,3-2,Leicester City
+27,11/02/84,Luton Town,0-5,Manchester United
+28,13/02/84,QPR,2-0,Norwich City
+28,17/02/84,Arsenal,1-1,Aston Villa
+28,17/02/84,Coventry City,2-3,Stoke City
+28,17/02/84,Luton Town,0-0,Liverpool
+28,17/02/84,Sunderland,1-1,Nottingham Forest
+28,17/02/84,Wolverhampton,1-1,Manchester United
+27,20/02/84,Ipswich Town,0-3,Southampton
+28,20/02/84,Notts County,0-0,Tottenham

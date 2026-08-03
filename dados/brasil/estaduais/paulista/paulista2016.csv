@@ -1,0 +1,159 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+D,30/01/16,EC Água Santa,1-0,Ferroviária
+B,30/01/16,Santos,1-1,São Bernardo
+B,30/01/16,São Bento,1-1,Ituano
+B,30/01/16,Oeste,3-1,Ponte Preta
+D,30/01/16,Red Bull Brasil,1-1,São Paulo
+D,30/01/16,Rio Claro,2-2,Capivariano
+D,31/01/16,Mogi Mirim,1-2,Osasco Audax
+D,31/01/16,Corinthians,1-0,XV de Piracicaba
+B,31/01/16,Botafogo-SP,0-2,Palmeiras
+B,31/01/16,Linense,2-2,Grêmio Novorizontino
+B,02/02/16,São Bernardo,1-0,Oeste
+D,03/02/16,Capivariano,0-2,Red Bull Brasil
+B,03/02/16,Ituano,1-1,Linense
+B,03/02/16,Ponte Preta,0-2,Santos
+D,04/02/16,Ferroviária,2-1,Mogi Mirim
+B,04/02/16,Grêmio Novorizontino,1-1,Botafogo-SP
+D,04/02/16,Osasco Audax,0-1,Corinthians
+B,04/02/16,Palmeiras,2-2,São Bento
+B,06/02/16,Santos,2-1,Ituano
+D,06/02/16,São Paulo,4-0,EC Água Santa
+B,10/02/16,São Bento,1-0,Grêmio Novorizontino
+D,10/02/16,Osasco Audax,3-2,Red Bull Brasil
+B,10/02/16,Linense,2-2,Ponte Preta
+B,10/02/16,Oeste,0-0,Palmeiras
+D,10/02/16,Ferroviária,3-1,Rio Claro
+B,11/02/16,Botafogo-SP,1-1,São Bernardo
+D,11/02/16,XV de Piracicaba,0-0,EC Água Santa
+D,11/02/16,Corinthians,2-1,Capivariano
+B,13/02/16,Palmeiras,1-2,Linense
+B,13/02/16,Ituano,1-0,Oeste
+D,13/02/16,Rio Claro,0-2,Osasco Audax
+B,13/02/16,Grêmio Novorizontino,3-3,Santos
+D,13/02/16,Red Bull Brasil,0-3,Ferroviária
+B,14/02/16,São Bento,3-0,São Bernardo
+D,14/02/16,EC Água Santa,4-1,Capivariano
+D,14/02/16,Corinthians,2-0,São Paulo
+B,14/02/16,Ponte Preta,1-1,Botafogo-SP
+D,14/02/16,Mogi Mirim,0-0,XV de Piracicaba
+D,17/02/16,XV de Piracicaba,1-2,Rio Claro
+D,17/02/16,Mogi Mirim,3-1,Linense
+B,20/02/16,Palmeiras,0-0,Santos
+B,20/02/16,São Bernardo,1-1,Linense
+D,20/02/16,Capivariano,1-2,Mogi Mirim
+D,20/02/16,XV de Piracicaba,2-1,Red Bull Brasil
+B,20/02/16,Ponte Preta,0-0,São Bento
+D,20/02/16,Osasco Audax,1-2,EC Água Santa
+B,21/02/16,Grêmio Novorizontino,1-1,Oeste
+D,21/02/16,São Paulo,1-0,Rio Claro
+B,21/02/16,Botafogo-SP,4-0,Ituano
+D,21/02/16,Ferroviária,2-2,Corinthians
+D,24/02/16,Linense,4-0,EC Água Santa
+C,24/02/16,Capivariano,2-0,São Bernardo
+D,24/02/16,Botafogo-SP,0-2,Red Bull Brasil
+C,24/02/16,São Paulo,2-0,Grêmio Novorizontino
+D,24/02/16,São Bento,1-1,Corinthians
+D,24/02/16,Oeste,1-2,Rio Claro
+C,24/02/16,Osasco Audax,1-3,Ponte Preta
+C,25/02/16,Ituano,3-2,Ferroviária
+D,25/02/16,Santos,4-1,Mogi Mirim
+C,25/02/16,XV de Piracicaba,1-4,Palmeiras
+D,27/02/16,EC Água Santa,2-2,São Bento
+C,27/02/16,Grêmio Novorizontino,3-2,Osasco Audax
+C,27/02/16,Ponte Preta,1-0,São Paulo
+D,27/02/16,Corinthians,1-0,Oeste
+D,28/02/16,Rio Claro,0-0,Botafogo-SP
+C,28/02/16,Palmeiras,1-2,Ferroviária
+D,28/02/16,Red Bull Brasil,2-0,Santos
+C,28/02/16,Ituano,2-1,Capivariano
+C,28/02/16,São Bernardo,1-2,XV de Piracicaba
+D,01/03/16,São Paulo,2-0,Mogi Mirim
+D,05/03/16,Botafogo-SP,2-0,Mogi Mirim
+D,05/03/16,Oeste,1-0,EC Água Santa
+C,05/03/16,São Paulo,1-3,São Bernardo
+C,05/03/16,Ponte Preta,0-1,XV de Piracicaba
+C,05/03/16,Osasco Audax,2-0,Ituano
+D,06/03/16,Santos,2-0,Corinthians
+C,06/03/16,Palmeiras,4-1,Capivariano
+D,06/03/16,Rio Claro,0-1,Linense
+D,06/03/16,Red Bull Brasil,2-0,São Bento
+C,06/03/16,Ferroviária,1-2,Grêmio Novorizontino
+D,12/03/16,Linense,0-3,Red Bull Brasil
+D,12/03/16,São Bento,3-0,Rio Claro
+C,12/03/16,XV de Piracicaba,1-4,Ituano
+D,12/03/16,Santos,1-0,EC Água Santa
+C,12/03/16,Ponte Preta,2-1,Ferroviária
+C,13/03/16,São Paulo,0-2,Palmeiras
+D,13/03/16,Botafogo-SP,0-3,Corinthians
+C,13/03/16,Capivariano,2-2,Grêmio Novorizontino
+D,13/03/16,Mogi Mirim,0-0,Oeste
+C,13/03/16,São Bernardo,3-3,Osasco Audax
+C,15/03/16,XV de Piracicaba,0-1,Santos
+D,19/03/16,EC Água Santa,1-1,Botafogo-SP
+D,19/03/16,Corinthians,4-0,Linense
+C,19/03/16,Grêmio Novorizontino,1-1,XV de Piracicaba
+D,19/03/16,Red Bull Brasil,2-3,Oeste
+D,19/03/16,Mogi Mirim,0-3,São Bento
+C,19/03/16,Capivariano,0-0,Ponte Preta
+C,20/03/16,Ituano,1-1,São Paulo
+C,20/03/16,Osasco Audax,2-1,Palmeiras
+C,20/03/16,Ferroviária,0-2,São Bernardo
+D,20/03/16,Rio Claro,0-0,Santos
+C,23/03/16,Oeste,1-2,Capivariano
+C,23/03/16,Osasco Audax,0-0,Linense
+D,23/03/16,Ponte Preta,0-1,Mogi Mirim
+D,23/03/16,Ituano,2-1,Rio Claro
+C,23/03/16,São Bento,1-0,Ferroviária
+D,23/03/16,São Bernardo,0-3,Corinthians
+C,23/03/16,São Paulo,1-0,Botafogo-SP
+D,24/03/16,Palmeiras,1-2,Red Bull Brasil
+D,24/03/16,Grêmio Novorizontino,4-0,EC Água Santa
+C,26/03/16,Ferroviária,2-0,Oeste
+D,26/03/16,Rio Claro,1-4,São Bernardo
+C,26/03/16,Botafogo-SP,1-1,Osasco Audax
+C,26/03/16,Linense,5-0,Capivariano
+D,26/03/16,Corinthians,1-0,Ituano
+C,27/03/16,São Bento,1-0,XV de Piracicaba
+D,27/03/16,EC Água Santa,4-1,Palmeiras
+C,27/03/16,Santos,1-1,São Paulo
+D,27/03/16,Red Bull Brasil,0-3,Ponte Preta
+D,27/03/16,Mogi Mirim,0-3,Grêmio Novorizontino
+D,30/03/16,EC Água Santa,0-0,Ituano
+C,30/03/16,XV de Piracicaba,1-1,Botafogo-SP
+C,30/03/16,Linense,1-1,São Paulo
+C,30/03/16,Oeste,1-3,Osasco Audax
+C,30/03/16,Capivariano,1-1,São Bento
+D,30/03/16,Corinthians,2-1,Ponte Preta
+D,31/03/16,São Bernardo,1-1,Mogi Mirim
+D,31/03/16,Palmeiras,3-0,Rio Claro
+D,31/03/16,Red Bull Brasil,2-0,Grêmio Novorizontino
+C,31/03/16,Santos,4-1,Ferroviária
+C,02/04/16,Osasco Audax,2-1,São Bento
+D,02/04/16,Ponte Preta,7-2,EC Água Santa
+C,02/04/16,São Paulo,2-1,Oeste
+C,03/04/16,XV de Piracicaba,1-1,Linense
+D,03/04/16,Palmeiras,1-0,Corinthians
+D,03/04/16,São Bernardo,3-2,Red Bull Brasil
+C,03/04/16,Capivariano,3-5,Santos
+C,03/04/16,Ferroviária,0-1,Botafogo-SP
+D,03/04/16,Grêmio Novorizontino,2-0,Rio Claro
+D,03/04/16,Ituano,0-1,Mogi Mirim
+C,10/04/16,São Bento,1-0,São Paulo
+C,10/04/16,Santos,2-1,Osasco Audax
+C,10/04/16,Botafogo-SP,2-0,Capivariano
+C,10/04/16,Oeste,1-1,XV de Piracicaba
+C,10/04/16,Linense,0-0,Ferroviária
+D,10/04/16,Corinthians,3-0,Grêmio Novorizontino
+D,10/04/16,Mogi Mirim,1-2,Palmeiras
+D,10/04/16,Rio Claro,0-1,Ponte Preta
+D,10/04/16,Red Bull Brasil,1-3,Ituano
+D,10/04/16,EC Água Santa,0-1,São Bernardo
+QF,16/04/16,Corinthians,4-0,Red Bull Brasil
+QF,16/04/16,Santos,2-0,São Bento
+QF,17/04/16,Osasco Audax,4-1,São Paulo
+QF,18/04/16,Palmeiras,2-0,São Bernardo
+SF,23/04/16,Corinthians,2-2(1-4 Pen.),Osasco Audax
+SF,24/04/16,Santos,2-2(3-2 Pen.),Palmeiras
+F,01/05/16,Osasco Audax,1-1,Santos
+F,08/05/16,Santos,1-0,Osasco Audax

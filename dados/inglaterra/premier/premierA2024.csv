@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,16/08/24,Manchester United,1-0,Fulham
+1,17/08/24,Ipswich Town,0-2,Liverpool
+1,17/08/24,Arsenal,2-0,Wolverhampton
+1,17/08/24,Everton,0-3,Brighton & Hove Albion
+1,17/08/24,Newcastle,1-0,Southampton
+1,17/08/24,Nottingham Forest,1-1,Bournemouth
+1,17/08/24,West Ham,1-2,Aston Villa
+1,18/08/24,Brentford,2-1,Crystal Palace
+1,18/08/24,Chelsea,0-2,Manchester City
+1,19/08/24,Leicester City,1-1,Tottenham
+2,24/08/24,Brighton & Hove Albion,2-1,Manchester United
+2,24/08/24,Crystal Palace,0-2,West Ham
+2,24/08/24,Fulham,2-1,Leicester City
+2,24/08/24,Manchester City,4-1,Ipswich Town
+2,24/08/24,Southampton,0-1,Nottingham Forest
+2,24/08/24,Tottenham,4-0,Everton
+2,24/08/24,Aston Villa,0-2,Arsenal
+2,25/08/24,Bournemouth,1-1,Newcastle
+2,25/08/24,Wolverhampton,2-6,Chelsea
+2,25/08/24,Liverpool,2-0,Brentford
+3,31/08/24,Arsenal,1-1,Brighton & Hove Albion
+3,31/08/24,Brentford,3-1,Southampton
+3,31/08/24,Everton,2-3,Bournemouth
+3,31/08/24,Ipswich Town,1-1,Fulham
+3,31/08/24,Leicester City,1-2,Aston Villa
+3,31/08/24,Nottingham Forest,1-1,Wolverhampton
+3,31/08/24,West Ham,1-3,Manchester City
+3,01/09/24,Chelsea,1-1,Crystal Palace
+3,01/09/24,Newcastle,2-1,Tottenham
+3,01/09/24,Manchester United,0-3,Liverpool
+4,14/09/24,Southampton,0-3,Manchester United
+4,14/09/24,Brighton & Hove Albion,0-0,Ipswich Town
+4,14/09/24,Crystal Palace,2-2,Leicester City
+4,14/09/24,Fulham,1-1,West Ham
+4,14/09/24,Liverpool,0-1,Nottingham Forest
+4,14/09/24,Manchester City,2-1,Brentford
+4,14/09/24,Aston Villa,3-2,Everton
+4,14/09/24,Bournemouth,0-1,Chelsea
+4,15/09/24,Tottenham,0-1,Arsenal
+4,15/09/24,Wolverhampton,1-2,Newcastle
+5,21/09/24,West Ham,0-3,Chelsea
+5,21/09/24,Aston Villa,3-1,Wolverhampton
+5,21/09/24,Fulham,3-1,Newcastle
+5,21/09/24,Leicester City,1-1,Everton
+5,21/09/24,Liverpool,3-0,Bournemouth
+5,21/09/24,Southampton,1-1,Ipswich Town
+5,21/09/24,Tottenham,3-1,Brentford
+5,21/09/24,Crystal Palace,0-0,Manchester United
+5,22/09/24,Brighton & Hove Albion,2-2,Nottingham Forest
+5,22/09/24,Manchester City,2-2,Arsenal
+6,28/09/24,Newcastle,1-1,Manchester City
+6,28/09/24,Arsenal,4-2,Leicester City
+6,28/09/24,Brentford,1-1,West Ham
+6,28/09/24,Chelsea,4-2,Brighton & Hove Albion
+6,28/09/24,Everton,2-1,Crystal Palace
+6,28/09/24,Nottingham Forest,0-1,Fulham
+6,28/09/24,Wolverhampton,1-2,Liverpool
+6,29/09/24,Ipswich Town,2-2,Aston Villa
+6,29/09/24,Manchester United,0-3,Tottenham
+6,30/09/24,Bournemouth,3-1,Southampton
+7,05/10/24,Crystal Palace,0-1,Liverpool
+7,05/10/24,Arsenal,3-1,Southampton
+7,05/10/24,Brentford,5-3,Wolverhampton
+7,05/10/24,Leicester City,1-0,Bournemouth
+7,05/10/24,Manchester City,3-2,Fulham
+7,05/10/24,West Ham,4-1,Ipswich Town
+7,05/10/24,Everton,0-0,Newcastle
+7,06/10/24,Aston Villa,0-0,Manchester United
+7,06/10/24,Chelsea,1-1,Nottingham Forest
+7,06/10/24,Brighton & Hove Albion,3-2,Tottenham
+8,19/10/24,Tottenham,4-1,West Ham
+8,19/10/24,Fulham,1-3,Aston Villa
+8,19/10/24,Manchester United,2-1,Brentford
+8,19/10/24,Newcastle,0-1,Brighton & Hove Albion
+8,19/10/24,Southampton,2-3,Leicester City
+8,19/10/24,Ipswich Town,0-2,Everton
+8,19/10/24,Bournemouth,2-0,Arsenal
+8,20/10/24,Wolverhampton,1-2,Manchester City
+8,20/10/24,Liverpool,2-1,Chelsea
+8,21/10/24,Nottingham Forest,1-0,Crystal Palace
+9,25/10/24,Leicester City,1-3,Nottingham Forest
+9,26/10/24,Aston Villa,1-1,Bournemouth
+9,26/10/24,Brentford,4-3,Ipswich Town
+9,26/10/24,Brighton & Hove Albion,2-2,Wolverhampton
+9,26/10/24,Manchester City,1-0,Southampton
+9,26/10/24,Everton,1-1,Fulham
+9,27/10/24,Chelsea,2-1,Newcastle
+9,27/10/24,Crystal Palace,1-0,Tottenham
+9,27/10/24,West Ham,2-1,Manchester United
+9,27/10/24,Arsenal,2-2,Liverpool
+10,02/11/24,Newcastle,1-0,Arsenal
+10,02/11/24,Bournemouth,2-1,Manchester City
+10,02/11/24,Ipswich Town,1-1,Leicester City
+10,02/11/24,Liverpool,2-1,Brighton & Hove Albion
+10,02/11/24,Nottingham Forest,3-0,West Ham
+10,02/11/24,Southampton,1-0,Everton
+10,02/11/24,Wolverhampton,2-2,Crystal Palace
+10,03/11/24,Tottenham,4-1,Aston Villa
+10,03/11/24,Manchester United,1-1,Chelsea
+10,04/11/24,Fulham,2-1,Brentford
+11,09/11/24,Brentford,3-2,Bournemouth
+11,09/11/24,Crystal Palace,0-2,Fulham
+11,09/11/24,West Ham,0-0,Everton
+11,09/11/24,Wolverhampton,2-0,Southampton
+11,09/11/24,Brighton & Hove Albion,2-1,Manchester City
+11,09/11/24,Liverpool,2-0,Aston Villa
+11,10/11/24,Manchester United,3-0,Leicester City
+11,10/11/24,Nottingham Forest,1-3,Newcastle
+11,10/11/24,Tottenham,1-2,Ipswich Town
+11,10/11/24,Chelsea,1-1,Arsenal
+12,23/11/24,Leicester City,1-2,Chelsea
+12,23/11/24,Bournemouth,1-2,Brighton & Hove Albion
+12,23/11/24,Arsenal,3-0,Nottingham Forest
+12,23/11/24,Aston Villa,2-2,Crystal Palace
+12,23/11/24,Everton,0-0,Brentford
+12,23/11/24,Fulham,1-4,Wolverhampton
+12,23/11/24,Manchester City,0-4,Tottenham
+12,24/11/24,Southampton,2-3,Liverpool
+12,24/11/24,Ipswich Town,1-1,Manchester United
+12,25/11/24,Newcastle,0-2,West Ham
+13,29/11/24,Brighton & Hove Albion,1-1,Southampton
+13,30/11/24,Wolverhampton,2-4,Bournemouth
+13,30/11/24,Nottingham Forest,1-0,Ipswich Town
+13,30/11/24,Crystal Palace,1-1,Newcastle
+13,30/11/24,Brentford,4-1,Leicester City
+13,30/11/24,West Ham,2-5,Arsenal
+13,01/12/24,Tottenham,1-1,Fulham
+13,01/12/24,Manchester United,4-0,Everton
+13,01/12/24,Chelsea,3-0,Aston Villa
+13,01/12/24,Liverpool,2-0,Manchester City
+14,03/12/24,Ipswich Town,0-1,Crystal Palace
+14,03/12/24,Leicester City,3-1,West Ham
+14,04/12/24,Southampton,1-5,Chelsea
+14,04/12/24,Newcastle,3-3,Liverpool
+14,04/12/24,Manchester City,3-0,Nottingham Forest
+14,04/12/24,Everton,4-0,Wolverhampton
+14,04/12/24,Aston Villa,3-1,Brentford
+14,04/12/24,Arsenal,2-0,Manchester United
+14,05/12/24,Fulham,3-1,Brighton & Hove Albion
+14,05/12/24,Bournemouth,1-0,Tottenham
+15,07/12/24,Crystal Palace,2-2,Manchester City
+15,07/12/24,Brentford,4-2,Newcastle
+15,07/12/24,Aston Villa,1-0,Southampton
+15,07/12/24,Manchester United,2-3,Nottingham Forest
+15,08/12/24,Leicester City,2-2,Brighton & Hove Albion
+15,08/12/24,Ipswich Town,1-2,Bournemouth
+15,08/12/24,Fulham,1-1,Arsenal
+15,08/12/24,Tottenham,3-4,Chelsea
+15,09/12/24,West Ham,2-1,Wolverhampton
+16,14/12/24,Wolverhampton,1-2,Ipswich Town
+16,14/12/24,Newcastle,4-0,Leicester City
+16,14/12/24,Liverpool,2-2,Fulham
+16,14/12/24,Arsenal,0-0,Everton
+16,14/12/24,Nottingham Forest,2-1,Aston Villa
+16,15/12/24,Brighton & Hove Albion,1-3,Crystal Palace
+16,15/12/24,Manchester City,1-2,Manchester United
+16,15/12/24,Southampton,0-5,Tottenham
+16,15/12/24,Chelsea,2-1,Brentford
+16,16/12/24,Bournemouth,1-1,West Ham
+17,21/12/24,Aston Villa,2-1,Manchester City
+17,21/12/24,West Ham,1-1,Brighton & Hove Albion
+17,21/12/24,Ipswich Town,0-4,Newcastle
+17,21/12/24,Brentford,0-2,Nottingham Forest
+17,21/12/24,Crystal Palace,1-5,Arsenal
+17,22/12/24,Manchester United,0-3,Bournemouth
+17,22/12/24,Leicester City,0-3,Wolverhampton
+17,22/12/24,Fulham,0-0,Southampton
+17,22/12/24,Everton,0-0,Chelsea
+17,22/12/24,Tottenham,3-6,Liverpool
+18,26/12/24,Manchester City,1-1,Everton
+18,26/12/24,Bournemouth,0-0,Crystal Palace
+18,26/12/24,Chelsea,1-2,Fulham
+18,26/12/24,Newcastle,3-0,Aston Villa
+18,26/12/24,Nottingham Forest,1-0,Tottenham
+18,26/12/24,Southampton,0-1,West Ham
+18,26/12/24,Wolverhampton,2-0,Manchester United
+18,26/12/24,Liverpool,3-1,Leicester City
+18,27/12/24,Brighton & Hove Albion,0-0,Brentford
+18,27/12/24,Arsenal,1-0,Ipswich Town
+19,29/12/24,Leicester City,0-2,Manchester City
+19,29/12/24,Crystal Palace,2-1,Southampton
+19,29/12/24,Everton,0-2,Nottingham Forest
+19,29/12/24,Fulham,2-2,Bournemouth
+19,29/12/24,Tottenham,2-2,Wolverhampton
+19,29/12/24,West Ham,0-5,Liverpool
+19,30/12/24,Aston Villa,2-2,Brighton & Hove Albion
+19,30/12/24,Ipswich Town,2-0,Chelsea
+19,30/12/24,Manchester United,0-2,Newcastle
+19,01/01/25,Brentford,1-3,Arsenal
+20,04/01/25,Tottenham,1-2,Newcastle
+20,04/01/25,Bournemouth,1-0,Everton
+20,04/01/25,Aston Villa,2-1,Leicester City
+20,04/01/25,Crystal Palace,1-1,Chelsea
+20,04/01/25,Manchester City,4-1,West Ham
+20,04/01/25,Southampton,0-5,Brentford
+20,04/01/25,Brighton & Hove Albion,1-1,Arsenal
+20,05/01/25,Fulham,2-2,Ipswich Town
+20,05/01/25,Liverpool,2-2,Manchester United
+20,06/01/25,Wolverhampton,0-3,Nottingham Forest
+21,14/01/25,Brentford,2-2,Manchester City
+21,14/01/25,West Ham,3-2,Fulham
+21,14/01/25,Chelsea,2-2,Bournemouth
+21,14/01/25,Nottingham Forest,1-1,Liverpool
+21,15/01/25,Everton,0-1,Aston Villa
+21,15/01/25,Leicester City,0-2,Crystal Palace
+21,15/01/25,Newcastle,3-0,Wolverhampton
+21,15/01/25,Arsenal,2-1,Tottenham
+21,16/01/25,Ipswich Town,0-2,Brighton & Hove Albion
+21,16/01/25,Manchester United,3-1,Southampton
+22,18/01/25,Newcastle,1-4,Bournemouth
+22,18/01/25,Brentford,0-2,Liverpool
+22,18/01/25,Leicester City,0-2,Fulham
+22,18/01/25,West Ham,0-2,Crystal Palace
+22,18/01/25,Arsenal,2-2,Aston Villa
+22,19/01/25,Everton,3-2,Tottenham
+22,19/01/25,Manchester United,1-3,Brighton & Hove Albion
+22,19/01/25,Nottingham Forest,3-2,Southampton
+22,19/01/25,Ipswich Town,0-6,Manchester City
+22,20/01/25,Chelsea,3-1,Wolverhampton
+23,25/01/25,Bournemouth,5-0,Nottingham Forest
+23,25/01/25,Brighton & Hove Albion,0-1,Everton
+23,25/01/25,Liverpool,4-1,Ipswich Town
+23,25/01/25,Southampton,1-3,Newcastle
+23,25/01/25,Wolverhampton,0-1,Arsenal
+23,25/01/25,Manchester City,3-1,Chelsea
+23,26/01/25,Crystal Palace,1-2,Brentford
+23,26/01/25,Tottenham,1-2,Leicester City
+23,26/01/25,Aston Villa,1-1,West Ham
+23,26/01/25,Fulham,0-1,Manchester United
+24,01/02/25,Nottingham Forest,7-0,Brighton & Hove Albion
+24,01/02/25,Bournemouth,0-2,Liverpool
+24,01/02/25,Everton,4-0,Leicester City
+24,01/02/25,Ipswich Town,1-2,Southampton
+24,01/02/25,Newcastle,1-2,Fulham
+24,01/02/25,Wolverhampton,2-0,Aston Villa
+24,02/02/25,Brentford,0-2,Tottenham
+24,02/02/25,Manchester United,0-2,Crystal Palace
+24,02/02/25,Arsenal,5-1,Manchester City
+24,03/02/25,Chelsea,2-1,West Ham
+15,12/02/25,Everton,2-2,Liverpool
+25,14/02/25,Brighton & Hove Albion,3-0,Chelsea
+25,15/02/25,Leicester City,0-2,Arsenal
+25,15/02/25,Aston Villa,1-1,Ipswich Town
+25,15/02/25,Fulham,2-1,Nottingham Forest
+25,15/02/25,Manchester City,4-0,Newcastle
+25,15/02/25,Southampton,1-3,Bournemouth
+25,15/02/25,West Ham,0-1,Brentford
+25,15/02/25,Crystal Palace,1-2,Everton
+25,16/02/25,Liverpool,2-1,Wolverhampton
+25,16/02/25,Tottenham,1-0,Manchester United
+29,19/02/25,Aston Villa,2-2,Liverpool
+26,21/02/25,Leicester City,0-4,Brentford
+26,22/02/25,Everton,2-2,Manchester United
+26,22/02/25,Bournemouth,0-1,Wolverhampton
+26,22/02/25,Arsenal,0-1,West Ham
+26,22/02/25,Fulham,0-2,Crystal Palace
+26,22/02/25,Ipswich Town,1-4,Tottenham
+26,22/02/25,Southampton,0-4,Brighton & Hove Albion
+26,22/02/25,Aston Villa,2-1,Chelsea
+26,23/02/25,Newcastle,4-3,Nottingham Forest
+26,23/02/25,Manchester City,0-2,Liverpool
+27,25/02/25,Crystal Palace,4-1,Aston Villa
+27,25/02/25,Wolverhampton,1-2,Fulham
+27,25/02/25,Brighton & Hove Albion,2-1,Bournemouth
+27,25/02/25,Chelsea,4-0,Southampton
+27,26/02/25,Manchester United,3-2,Ipswich Town
+27,26/02/25,Tottenham,0-1,Manchester City
+27,26/02/25,Nottingham Forest,0-0,Arsenal
+27,26/02/25,Brentford,1-1,Everton
+27,26/02/25,Liverpool,2-0,Newcastle
+27,27/02/25,West Ham,2-0,Leicester City
+28,08/03/25,Nottingham Forest,1-0,Manchester City
+28,08/03/25,Liverpool,3-1,Southampton
+28,08/03/25,Crystal Palace,1-0,Ipswich Town
+28,08/03/25,Brighton & Hove Albion,2-1,Fulham
+28,08/03/25,Brentford,0-1,Aston Villa
+28,08/03/25,Wolverhampton,1-1,Everton
+28,09/03/25,Tottenham,2-2,Bournemouth
+28,09/03/25,Chelsea,1-0,Leicester City
+28,09/03/25,Manchester United,1-1,Arsenal
+28,10/03/25,West Ham,0-1,Newcastle
+29,15/03/25,Southampton,1-2,Wolverhampton
+29,15/03/25,Manchester City,2-2,Brighton & Hove Albion
+29,15/03/25,Ipswich Town,2-4,Nottingham Forest
+29,15/03/25,Everton,1-1,West Ham
+29,15/03/25,Bournemouth,1-2,Brentford
+29,16/03/25,Fulham,2-0,Tottenham
+29,16/03/25,Arsenal,1-0,Chelsea
+29,16/03/25,Leicester City,0-3,Manchester United
+30,01/04/25,Wolverhampton,1-0,West Ham
+30,01/04/25,Arsenal,2-1,Fulham
+30,01/04/25,Nottingham Forest,1-0,Manchester United
+30,02/04/25,Southampton,1-1,Crystal Palace
+30,02/04/25,Newcastle,2-1,Brentford
+30,02/04/25,Manchester City,2-0,Leicester City
+30,02/04/25,Brighton & Hove Albion,0-3,Aston Villa
+30,02/04/25,Bournemouth,1-2,Ipswich Town
+30,02/04/25,Liverpool,1-0,Everton
+30,03/04/25,Chelsea,1-0,Tottenham
+31,05/04/25,Everton,1-1,Arsenal

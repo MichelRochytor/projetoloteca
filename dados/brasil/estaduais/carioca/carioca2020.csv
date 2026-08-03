@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,19/01/13,Olaria,0-0,Audax Rio
+B,19/01/13,Friburguense,2-1,Bangu
+B,19/01/13,Flamengo,2-0,Quissamã
+B,19/01/13,Resende,1-1,Madureira
+B,19/01/13,Boavista-RJ,0-3,Vasco
+B,20/01/13,Nova Iguaçu,0-2,Fluminense
+B,20/01/13,Macaé,1-3,Volta Redonda
+B,20/01/13,Botafogo,3-0,Duque de Caxias
+B,23/01/13,Madureira,1-1,Flamengo
+B,23/01/13,Quissamã,0-0,Resende
+B,23/01/13,Audax Rio,2-1,Nova Iguaçu
+B,23/01/13,Duque de Caxias,1-2,Friburguense
+B,23/01/13,Vasco,4-2,Macaé
+B,24/01/13,Bangu,0-0,Botafogo
+B,24/01/13,Fluminense,3-1,Olaria
+B,24/01/13,Volta Redonda,1-1,Boavista-RJ
+B,26/01/13,Friburguense,2-3,Audax Rio
+B,26/01/13,Nova Iguaçu,3-0,Duque de Caxias
+B,26/01/13,Macaé,2-0,Quissamã
+B,26/01/13,Resende,2-4,Vasco
+B,27/01/13,Boavista-RJ,0-1,Madureira
+B,27/01/13,Olaria,0-2,Bangu
+B,27/01/13,Flamengo,1-0,Volta Redonda
+B,27/01/13,Botafogo,1-1,Fluminense
+B,30/01/13,Madureira,2-1,Macaé
+B,30/01/13,Quissamã,0-1,Boavista-RJ
+B,30/01/13,Audax Rio,0-4,Botafogo
+B,30/01/13,Fluminense,2-2,Friburguense
+B,31/01/13,Bangu,0-0,Nova Iguaçu
+B,31/01/13,Duque de Caxias,3-1,Olaria
+B,31/01/13,Vasco,2-4,Flamengo
+B,31/01/13,Volta Redonda,2-4,Resende
+B,02/02/13,Boavista-RJ,1-0,Friburguense
+B,02/02/13,Madureira,1-2,Audax Rio
+B,02/02/13,Quissamã,0-3,Fluminense
+B,03/02/13,Resende,1-1,Olaria
+B,03/02/13,Flamengo,1-0,Nova Iguaçu
+B,03/02/13,Volta Redonda,0-0,Duque de Caxias
+B,03/02/13,Macaé,1-3,Botafogo
+B,03/02/13,Vasco,0-1,Bangu
+B,06/02/13,Friburguense,0-4,Flamengo
+B,07/02/13,Olaria,2-2,Macaé
+B,07/02/13,Nova Iguaçu,1-2,Boavista-RJ
+B,07/02/13,Audax Rio,0-0,Volta Redonda
+B,07/02/13,Botafogo,4-2,Resende
+B,07/02/13,Duque de Caxias,0-1,Madureira
+B,09/02/13,Bangu,0-1,Quissamã
+B,09/02/13,Fluminense,1-1,Vasco
+B,16/02/13,Madureira,2-3,Bangu
+B,16/02/13,Resende,1-1,Friburguense
+B,16/02/13,Boavista-RJ,1-0,Olaria
+B,16/02/13,Macaé,1-0,Nova Iguaçu
+B,17/02/13,Vasco,2-0,Audax Rio
+B,17/02/13,Quissamã,1-1,Duque de Caxias
+B,17/02/13,Volta Redonda,1-3,Fluminense
+B,17/02/13,Flamengo,1-0,Botafogo
+B,23/02/13,Friburguense,1-1,Macaé
+B,23/02/13,Nova Iguaçu,2-2,Resende
+B,23/02/13,Bangu,2-0,Volta Redonda
+B,23/02/13,Olaria,0-2,Flamengo
+B,24/02/13,Botafogo,2-2,Boavista-RJ
+B,24/02/13,Fluminense,2-2,Madureira
+B,24/02/13,Audax Rio,0-0,Quissamã
+B,24/02/13,Duque de Caxias,1-2,Vasco
+SF,02/03/13,Vasco,3-2,Fluminense
+SF,03/03/13,Flamengo,0-2,Botafogo
+F,10/03/13,Vasco,0-1,Botafogo
+B,13/03/13,Flamengo,2-3,Resende
+A,16/03/13,Olaria,1-0,Madureira
+A,16/03/13,Friburguense,2-0,Nova Iguaçu
+B,16/03/13,Bangu,2-2,Duque de Caxias
+B,16/03/13,Macaé,3-2,Boavista-RJ
+A,16/03/13,Botafogo,4-0,Quissamã
+A,17/03/13,Vasco,0-1,Volta Redonda
+B,17/03/13,Fluminense,1-0,Audax Rio
+A,20/03/13,Nova Iguaçu,2-0,Vasco
+A,23/03/13,Quissamã,0-0,Olaria
+B,23/03/13,Resende,2-1,Macaé
+B,23/03/13,Audax Rio,1-1,Bangu
+B,23/03/13,Duque de Caxias,0-0,Fluminense
+B,23/03/13,Boavista-RJ,0-0,Flamengo
+A,24/03/13,Volta Redonda,1-0,Friburguense
+A,24/03/13,Madureira,1-2,Botafogo
+A,27/03/13,Quissamã,2-2,Nova Iguaçu
+A,27/03/13,Madureira,0-1,Volta Redonda
+A,27/03/13,Olaria,0-0,Vasco
+B,27/03/13,Audax Rio,1-2,Boavista-RJ
+B,27/03/13,Fluminense,3-1,Macaé
+B,27/03/13,Bangu,1-2,Flamengo
+B,28/03/13,Duque de Caxias,1-3,Resende
+A,30/03/13,Volta Redonda,2-1,Quissamã
+A,30/03/13,Nova Iguaçu,0-0,Madureira
+B,30/03/13,Fluminense,2-0,Boavista-RJ
+A,31/03/13,Friburguense,5-0,Olaria
+B,31/03/13,Flamengo,1-2,Audax Rio
+B,31/03/13,Resende,1-0,Bangu
+B,31/03/13,Macaé,1-3,Duque de Caxias
+A,03/04/13,Vasco,0-3,Botafogo
+A,06/04/13,Nova Iguaçu,1-0,Volta Redonda
+A,06/04/13,Quissamã,0-1,Madureira
+B,06/04/13,Flamengo,1-1,Duque de Caxias
+B,06/04/13,Resende,0-2,Fluminense
+A,07/04/13,Botafogo,3-0,Olaria
+B,07/04/13,Bangu,1-1,Boavista-RJ
+B,07/04/13,Audax Rio,1-0,Macaé
+A,07/04/13,Vasco,2-1,Friburguense
+A,10/04/13,Botafogo,3-1,Friburguense
+A,13/04/13,Volta Redonda,0-0,Olaria
+A,13/04/13,Vasco,3-1,Quissamã
+A,13/04/13,Friburguense,2-2,Madureira
+B,13/04/13,Boavista-RJ,1-2,Duque de Caxias
+B,13/04/13,Macaé,1-0,Bangu
+B,13/04/13,Resende,2-1,Audax Rio
+A,14/04/13,Botafogo,4-1,Nova Iguaçu
+B,14/04/13,Flamengo,3-1,Fluminense
+A,20/04/13,Madureira,1-0,Vasco
+B,20/04/13,Macaé,1-3,Flamengo
+A,21/04/13,Olaria,2-1,Nova Iguaçu
+A,21/04/13,Volta Redonda,0-1,Botafogo
+A,21/04/13,Friburguense,4-2,Quissamã
+B,21/04/13,Duque de Caxias,0-1,Audax Rio
+B,21/04/13,Boavista-RJ,3-2,Resende
+B,21/04/13,Fluminense,2-0,Bangu
+SF,27/04/13,Botafogo,5-0,Resende
+SF,28/04/13,Fluminense,4-1,Volta Redonda
+F,05/05/13,Botafogo,1-0,Fluminense

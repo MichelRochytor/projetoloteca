@@ -1,0 +1,104 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,22/12/18,Resende,1-1,Macaé
+1F,22/12/18,Americano,1-0,America-RJ
+1F,22/12/18,Nova Iguaçu,2-1,Goytacaz
+1F,27/12/18,Goytacaz,1-1,Americano
+1F,28/12/18,America-RJ,1-1,Resende
+1F,29/12/18,Macaé,1-0,Nova Iguaçu
+1F,06/01/19,Resende,1-0,Goytacaz
+1F,06/01/19,Americano,2-1,Nova Iguaçu
+1F,06/01/19,America-RJ,1-0,Macaé
+1F,09/01/19,Nova Iguaçu,1-2,Resende
+1F,09/01/19,Macaé,0-2,Americano
+1F,10/01/19,Goytacaz,0-1,America-RJ
+1F,13/01/19,Resende,1-0,Americano
+1F,13/01/19,America-RJ,1-1,Nova Iguaçu
+1F,13/01/19,Macaé,2-1,Goytacaz
+2F,19/01/19,America-RJ,0-0,Macaé
+A,19/01/19,Madureira,0-1,Vasco
+A,19/01/19,Fluminense,1-1,Volta Redonda
+A,20/01/19,Portuguesa-RJ,0-1,Americano
+B,20/01/19,Flamengo,2-1,Bangu
+B,20/01/19,Cabofriense,3-1,Botafogo
+B,20/01/19,Boavista-RJ,2-1,Resende
+2F,21/01/19,Goytacaz,1-0,Nova Iguaçu
+A,23/01/19,Portuguesa-RJ,0-0,Madureira
+B,23/01/19,Botafogo,0-0,Bangu
+B,23/01/19,Resende,1-1,Flamengo
+B,23/01/19,Boavista-RJ,1-0,Cabofriense
+A,23/01/19,Vasco,5-2,Volta Redonda
+A,24/01/19,Americano,0-4,Fluminense
+A,26/01/19,Volta Redonda,2-1,Madureira
+B,26/01/19,Bangu,2-0,Boavista-RJ
+2F,26/01/19,Macaé,0-0,Goytacaz
+B,26/01/19,Botafogo,1-2,Flamengo
+2F,27/01/19,Nova Iguaçu,1-0,America-RJ
+A,27/01/19,Fluminense,3-1,Portuguesa-RJ
+A,27/01/19,Vasco,1-0,Americano
+B,27/01/19,Cabofriense,1-1,Resende
+B,29/01/19,Flamengo,3-1,Boavista-RJ
+A,30/01/19,Portuguesa-RJ,0-1,Vasco
+A,30/01/19,Americano,1-2,Volta Redonda
+A,30/01/19,Fluminense,4-0,Madureira
+B,31/01/19,Bangu,1-0,Cabofriense
+B,31/01/19,Botafogo,0-1,Resende
+A,02/02/19,Madureira,1-1,Americano
+2F,02/02/19,Goytacaz,1-2,America-RJ
+2F,02/02/19,Nova Iguaçu,0-2,Macaé
+A,02/02/19,Vasco,1-0,Fluminense
+A,02/02/19,Volta Redonda,1-0,Portuguesa-RJ
+B,03/02/19,Flamengo,4-0,Cabofriense
+B,03/02/19,Boavista-RJ,0-3,Botafogo
+B,03/02/19,Resende,3-0,Bangu
+2F,13/02/19,Macaé,1-1,America-RJ
+2F,13/02/19,Nova Iguaçu,1-0,Goytacaz
+SF,13/02/19,Vasco,3-0,Resende
+SF,14/02/19,Flamengo,0-1,Fluminense
+2F,17/02/19,America-RJ,0-1,Nova Iguaçu
+F,17/02/19,Vasco,1-0,Fluminense
+2F,18/02/19,Goytacaz,1-2,Macaé
+B,22/02/19,Resende,0-1,Volta Redonda
+2F,22/02/19,Macaé,0-4,Nova Iguaçu
+B,22/02/19,Bangu,0-2,Fluminense
+2F,23/02/19,America-RJ,3-2,Goytacaz
+B,23/02/19,Boavista-RJ,1-1,Madureira
+B,23/02/19,Botafogo,1-1,Vasco
+B,24/02/19,Flamengo,4-1,Americano
+B,24/02/19,Cabofriense,2-0,Portuguesa-RJ
+B,28/02/19,Portuguesa-RJ,1-3,Flamengo
+B,01/03/19,Fluminense,1-1,Resende
+B,01/03/19,Madureira,0-1,Bangu
+B,02/03/19,Vasco,2-0,Boavista-RJ
+B,02/03/19,Americano,1-4,Cabofriense
+B,02/03/19,Volta Redonda,1-0,Botafogo
+B,08/03/19,Volta Redonda,0-1,Bangu
+B,09/03/19,Portuguesa-RJ,1-1,Boavista-RJ
+B,09/03/19,Vasco,1-1,Flamengo
+B,10/03/19,Fluminense,2-1,Cabofriense
+B,10/03/19,Americano,1-1,Resende
+B,11/03/19,Botafogo,2-1,Madureira
+B,14/03/19,Boavista-RJ,0-3,Fluminense
+B,15/03/19,Bangu,3-0,Portuguesa-RJ
+B,16/03/19,Resende,0-2,Madureira
+B,16/03/19,Flamengo,0-0,Volta Redonda
+B,17/03/19,Cabofriense,2-0,Vasco
+B,17/03/19,Fluminense,1-1,Botafogo
+B,17/03/19,Boavista-RJ,1-0,Americano
+B,19/03/19,Madureira,0-2,Flamengo
+B,20/03/19,Bangu,2-0,Americano
+B,20/03/19,Resende,0-2,Vasco
+B,21/03/19,Cabofriense,1-1,Volta Redonda
+B,21/03/19,Botafogo,4-1,Portuguesa-RJ
+B,23/03/19,Vasco,1-2,Bangu
+B,24/03/19,Americano,2-2,Botafogo
+B,24/03/19,Flamengo,3-2,Fluminense
+B,24/03/19,Portuguesa-RJ,2-1,Resende
+B,24/03/19,Madureira,0-0,Cabofriense
+B,24/03/19,Volta Redonda,2-4,Boavista-RJ
+SF,27/03/19,Fluminense,1-2,Flamengo
+SF,28/03/19,Bangu,0-1,Vasco
+F,31/03/19,Vasco,1-1(1-3 Pen.),Flamengo
+SF,06/04/19,Flamengo,1-1,Fluminense
+SF,07/04/19,Vasco,2-1,Bangu
+F,14/04/19,Vasco,0-2,Flamengo
+F,21/04/19,Flamengo,2-0,Vasco

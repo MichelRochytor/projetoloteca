@@ -1,0 +1,207 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,29/05/21,Floresta-CE,2-0,Jacuipense
+B,29/05/21,Grêmio Novorizontino,1-0,Figueirense
+A,29/05/21,Botafogo-PB,0-0,Ferroviário
+B,29/05/21,Criciúma,1-0,Ituano
+A,29/05/21,Tombense,1-1,Paysandu
+A,30/05/21,Altos,3-0,Volta Redonda
+A,30/05/21,Manaus FC,2-0,Santa Cruz
+B,30/05/21,Botafogo-SP,1-0,São José-RS
+B,31/05/21,Ypiranga-RS,2-0,Paraná
+B,05/06/21,Ituano,1-4,Grêmio Novorizontino
+A,05/06/21,Ferroviário,1-0,Altos
+B,05/06/21,Figueirense,1-0,Oeste
+A,05/06/21,Santa Cruz,0-0,Floresta-CE
+B,05/06/21,Mirassol,1-2,Ypiranga-RS
+B,05/06/21,Paraná,0-1,Botafogo-SP
+A,06/06/21,Jacuipense,1-1,Tombense
+A,06/06/21,Volta Redonda,5-0,Manaus FC
+B,06/06/21,São José-RS,0-0,Criciúma
+A,07/06/21,Paysandu,0-2,Botafogo-PB
+B,12/06/21,Grêmio Novorizontino,0-0,Oeste
+B,12/06/21,São José-RS,0-0,Ituano
+A,12/06/21,Manaus FC,2-1,Floresta-CE
+B,12/06/21,Botafogo-SP,1-3,Mirassol
+A,12/06/21,Jacuipense,0-2,Paysandu
+A,13/06/21,Tombense,2-2,Altos
+B,13/06/21,Criciúma,2-1,Ypiranga-RS
+A,13/06/21,Botafogo-PB,1-2,Volta Redonda
+B,13/06/21,Paraná,1-1,Figueirense
+A,14/06/21,Ferroviário,1-0,Santa Cruz
+B,16/06/21,Oeste,0-1,Mirassol
+A,18/06/21,Tombense,3-0,Ferroviário
+B,19/06/21,Grêmio Novorizontino,1-0,São José-RS
+A,19/06/21,Floresta-CE,0-0,Botafogo-PB
+A,19/06/21,Paysandu,0-0,Volta Redonda
+B,19/06/21,Ituano,2-1,Paraná
+B,19/06/21,Oeste,0-0,Criciúma
+B,20/06/21,Ypiranga-RS,3-0,Botafogo-SP
+A,20/06/21,Altos,3-2,Manaus FC
+B,20/06/21,Figueirense,1-1,Mirassol
+A,21/06/21,Santa Cruz,2-2,Jacuipense
+A,25/06/21,Botafogo-PB,2-0,Altos
+B,26/06/21,Paraná,3-1,São José-RS
+A,26/06/21,Jacuipense,1-0,Ferroviário
+A,26/06/21,Manaus FC,2-1,Tombense
+B,26/06/21,Mirassol,1-2,Ituano
+A,26/06/21,Volta Redonda,0-0,Santa Cruz
+B,27/06/21,Botafogo-SP,1-0,Oeste
+A,27/06/21,Floresta-CE,0-2,Paysandu
+B,27/06/21,Criciúma,1-0,Grêmio Novorizontino
+B,28/06/21,Ypiranga-RS,0-0,Figueirense
+B,03/07/21,Oeste,2-4,Ypiranga-RS
+A,03/07/21,Ferroviário,1-1,Volta Redonda
+A,03/07/21,Manaus FC,1-1,Jacuipense
+A,03/07/21,Tombense,2-0,Botafogo-PB
+B,03/07/21,Grêmio Novorizontino,1-0,Botafogo-SP
+A,03/07/21,Santa Cruz,1-2,Paysandu
+B,04/07/21,São José-RS,2-1,Mirassol
+A,04/07/21,Altos,0-1,Floresta-CE
+B,04/07/21,Criciúma,2-0,Paraná
+B,05/07/21,Ituano,1-0,Figueirense
+B,09/07/21,Ypiranga-RS,3-2,Grêmio Novorizontino
+A,10/07/21,Volta Redonda,0-0,Jacuipense
+B,10/07/21,Mirassol,0-3,Paraná
+A,10/07/21,Altos,1-0,Santa Cruz
+B,10/07/21,Oeste,0-1,Ituano
+A,10/07/21,Botafogo-PB,4-1,Manaus FC
+B,11/07/21,Figueirense,2-0,São José-RS
+A,11/07/21,Floresta-CE,1-1,Tombense
+A,11/07/21,Paysandu,0-2,Ferroviário
+B,12/07/21,Botafogo-SP,3-1,Criciúma
+B,16/07/21,São José-RS,1-0,Oeste
+B,17/07/21,Mirassol,2-0,Criciúma
+A,17/07/21,Jacuipense,0-0,Botafogo-PB
+A,17/07/21,Santa Cruz,0-1,Tombense
+B,17/07/21,Figueirense,0-0,Botafogo-SP
+A,17/07/21,Paysandu,1-1,Altos
+A,18/07/21,Volta Redonda,1-0,Floresta-CE
+B,18/07/21,Ituano,2-1,Ypiranga-RS
+A,18/07/21,Ferroviário,1-0,Manaus FC
+B,19/07/21,Paraná,0-2,Grêmio Novorizontino
+B,23/07/21,Criciúma,1-0,Figueirense
+B,23/07/21,Oeste,1-1,Paraná
+A,24/07/21,Tombense,1-1,Volta Redonda
+B,24/07/21,Ypiranga-RS,2-1,São José-RS
+A,24/07/21,Floresta-CE,1-1,Ferroviário
+B,24/07/21,Grêmio Novorizontino,1-0,Mirassol
+A,24/07/21,Botafogo-PB,1-0,Santa Cruz
+B,25/07/21,Botafogo-SP,2-1,Ituano
+A,25/07/21,Altos,2-2,Jacuipense
+A,25/07/21,Manaus FC,1-1,Paysandu
+A,30/07/21,Volta Redonda,2-1,Altos
+A,31/07/21,Ferroviário,0-0,Botafogo-PB
+A,31/07/21,Paysandu,1-0,Tombense
+B,31/07/21,Mirassol,2-1,Oeste
+A,31/07/21,Jacuipense,1-1,Floresta-CE
+B,01/08/21,Figueirense,2-1,Grêmio Novorizontino
+B,01/08/21,São José-RS,4-2,Botafogo-SP
+A,01/08/21,Santa Cruz,1-2,Manaus FC
+B,02/08/21,Paraná,1-1,Ypiranga-RS
+B,04/08/21,Ituano,3-0,Criciúma
+A,06/08/21,Altos,1-1,Ferroviário
+B,07/08/21,Ypiranga-RS,1-0,Mirassol
+A,07/08/21,Tombense,3-0,Jacuipense
+A,07/08/21,Floresta-CE,0-2,Santa Cruz
+B,07/08/21,Grêmio Novorizontino,0-0,Ituano
+B,07/08/21,Botafogo-SP,1-0,Paraná
+B,08/08/21,Oeste,2-1,Figueirense
+A,08/08/21,Manaus FC,1-0,Volta Redonda
+A,08/08/21,Botafogo-PB,2-1,Paysandu
+B,09/08/21,Criciúma,2-1,São José-RS
+B,13/08/21,Ypiranga-RS,0-1,Criciúma
+B,14/08/21,Mirassol,1-0,Botafogo-SP
+A,14/08/21,Floresta-CE,2-2,Manaus FC
+A,14/08/21,Volta Redonda,1-1,Botafogo-PB
+B,14/08/21,Ituano,2-2,São José-RS
+A,14/08/21,Paysandu,2-0,Jacuipense
+B,15/08/21,Oeste,1-2,Grêmio Novorizontino
+A,15/08/21,Altos,0-0,Tombense
+A,15/08/21,Santa Cruz,0-0,Ferroviário
+B,16/08/21,Figueirense,2-0,Paraná
+A,20/08/21,Botafogo-PB,1-2,Floresta-CE
+B,21/08/21,São José-RS,1-1,Grêmio Novorizontino
+A,21/08/21,Ferroviário,0-0,Tombense
+A,21/08/21,Manaus FC,2-0,Altos
+B,21/08/21,Mirassol,0-1,Figueirense
+B,21/08/21,Paraná,1-1,Ituano
+B,22/08/21,Criciúma,3-1,Oeste
+B,22/08/21,Botafogo-SP,1-2,Ypiranga-RS
+A,22/08/21,Volta Redonda,2-2,Paysandu
+A,23/08/21,Jacuipense,1-1,Santa Cruz
+B,27/08/21,Grêmio Novorizontino,1-0,Criciúma
+A,28/08/21,Ferroviário,0-0,Jacuipense
+A,28/08/21,Tombense,2-1,Manaus FC
+B,28/08/21,Oeste,0-0,Botafogo-SP
+A,28/08/21,Paysandu,1-1,Floresta-CE
+B,28/08/21,Ituano,2-1,Mirassol
+B,29/08/21,Figueirense,1-1,Ypiranga-RS
+A,29/08/21,Altos,0-0,Botafogo-PB
+B,29/08/21,São José-RS,1-0,Paraná
+A,30/08/21,Santa Cruz,2-1,Volta Redonda
+B,03/09/21,Mirassol,2-5,São José-RS
+A,04/09/21,Floresta-CE,1-2,Altos
+A,04/09/21,Jacuipense,0-1,Manaus FC
+B,04/09/21,Botafogo-SP,1-4,Grêmio Novorizontino
+B,04/09/21,Paraná,2-1,Criciúma
+A,04/09/21,Volta Redonda,2-0,Ferroviário
+B,05/09/21,Ypiranga-RS,2-0,Oeste
+A,05/09/21,Paysandu,1-0,Santa Cruz
+A,05/09/21,Botafogo-PB,1-1,Tombense
+B,06/09/21,Figueirense,1-2,Ituano
+B,11/09/21,São José-RS,1-2,Figueirense
+B,11/09/21,Ituano,2-1,Oeste
+A,11/09/21,Santa Cruz,0-1,Altos
+B,11/09/21,Grêmio Novorizontino,1-0,Ypiranga-RS
+B,11/09/21,Criciúma,0-0,Botafogo-SP
+A,11/09/21,Jacuipense,1-0,Volta Redonda
+A,12/09/21,Tombense,0-0,Floresta-CE
+A,12/09/21,Manaus FC,0-0,Botafogo-PB
+B,12/09/21,Paraná,0-1,Mirassol
+A,13/09/21,Ferroviário,5-1,Paysandu
+B,18/09/21,Oeste,0-1,São José-RS
+A,18/09/21,Floresta-CE,1-1,Volta Redonda
+A,18/09/21,Altos,2-3,Paysandu
+B,18/09/21,Criciúma,3-0,Mirassol
+B,18/09/21,Botafogo-SP,1-2,Figueirense
+B,18/09/21,Grêmio Novorizontino,1-0,Paraná
+B,19/09/21,Ypiranga-RS,0-0,Ituano
+A,19/09/21,Manaus FC,1-1,Ferroviário
+A,19/09/21,Tombense,2-1,Santa Cruz
+A,19/09/21,Botafogo-PB,1-0,Jacuipense
+B,25/09/21,Paraná,4-0,Oeste
+A,25/09/21,Paysandu,2-0,Manaus FC
+A,25/09/21,Ferroviário,0-1,Floresta-CE
+A,25/09/21,Jacuipense,3-2,Altos
+A,25/09/21,Santa Cruz,1-1,Botafogo-PB
+A,25/09/21,Volta Redonda,2-1,Tombense
+B,25/09/21,Mirassol,0-1,Grêmio Novorizontino
+B,25/09/21,Figueirense,2-1,Criciúma
+B,25/09/21,Ituano,0-0,Botafogo-SP
+B,25/09/21,São José-RS,1-1,Ypiranga-RS
+D,02/10/21,Botafogo-PB,0-1,Ituano
+D,02/10/21,Ypiranga-RS,0-1,Tombense
+D,03/10/21,Manaus FC,5-0,Grêmio Novorizontino
+D,03/10/21,Criciúma,0-0,Paysandu
+D,09/10/21,Tombense,2-2,Manaus FC
+D,09/10/21,Grêmio Novorizontino,1-0,Ypiranga-RS
+D,10/10/21,Ituano,0-2,Criciúma
+D,11/10/21,Paysandu,0-0,Botafogo-PB
+D,16/10/21,Ituano,3-1,Paysandu
+D,16/10/21,Criciúma,0-0,Botafogo-PB
+D,17/10/21,Manaus FC,1-1,Ypiranga-RS
+D,18/10/21,Tombense,1-2,Grêmio Novorizontino
+D,23/10/21,Paysandu,1-4,Ituano
+D,23/10/21,Botafogo-PB,1-0,Criciúma
+D,24/10/21,Grêmio Novorizontino,0-1,Tombense
+D,24/10/21,Ypiranga-RS,1-1,Manaus FC
+D,30/10/21,Manaus FC,1-2,Tombense
+D,30/10/21,Ypiranga-RS,3-2,Grêmio Novorizontino
+D,31/10/21,Criciúma,0-0,Ituano
+D,31/10/21,Botafogo-PB,1-0,Paysandu
+D,06/11/21,Paysandu,0-1,Criciúma
+D,06/11/21,Ituano,3-1,Botafogo-PB
+D,07/11/21,Grêmio Novorizontino,2-0,Manaus FC
+D,07/11/21,Tombense,1-1,Ypiranga-RS
+F,13/11/21,Tombense,1-1,Ituano
+F,20/11/21,Ituano,3-0,Tombense

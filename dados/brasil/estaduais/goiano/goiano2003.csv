@@ -1,0 +1,80 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,11/01/03,Jataiense,2-1,Goiânia
+1F,12/01/03,Vila Nova,1-0,Atlético Goianiense
+1F,12/01/03,Rioverdense,0-1,Goiás
+1F,12/01/03,Anápolis,6-0,Goiatuba EC
+1F,12/01/03,Real-GO,3-1,Anapolina
+1F,12/01/03,Grémio Inhumense,0-1,Novo Horizonte
+1F,15/01/03,Atlético Goianiense,3-1,Jataiense
+1F,15/01/03,Novo Horizonte,3-3,Vila Nova
+1F,15/01/03,Goiás,3-2,Real-GO
+1F,15/01/03,Goiatuba EC,1-2,Grémio Inhumense
+1F,15/01/03,Anapolina,1-1,Rioverdense
+1F,15/01/03,Goiânia,2-2,Anápolis
+1F,18/01/03,Vila Nova,2-2,Jataiense
+1F,19/01/03,Goiânia,1-2,Goiás
+1F,19/01/03,Anapolina,2-1,Novo Horizonte
+1F,19/01/03,Rioverdense,1-1,Anápolis
+1F,19/01/03,Real-GO,1-0,Goiatuba EC
+1F,19/01/03,Grémio Inhumense,2-2,Atlético Goianiense
+1F,22/01/03,Jataiense,0-2,Anapolina
+1F,22/01/03,Anápolis,1-2,Vila Nova
+1F,22/01/03,Goiás,1-1,Novo Horizonte
+1F,22/01/03,Goiatuba EC,4-2,Rioverdense
+1F,22/01/03,Real-GO,3-1,Atlético Goianiense
+1F,22/01/03,Goiânia,1-0,Grémio Inhumense
+1F,25/01/03,Vila Nova,5-1,Rioverdense
+1F,26/01/03,Atlético Goianiense,0-0,Goiânia
+1F,26/01/03,Anápolis,3-2,Anapolina
+1F,26/01/03,Jataiense,1-1,Goiás
+1F,26/01/03,Novo Horizonte,0-1,Goiatuba EC
+1F,26/01/03,Grémio Inhumense,1-0,Real-GO
+1F,29/01/03,Anapolina,0-0,Goiás
+1F,29/01/03,Grémio Inhumense,3-3,Anápolis
+1F,29/01/03,Real-GO,1-1,Vila Nova
+1F,29/01/03,Atlético Goianiense,1-2,Novo Horizonte
+1F,29/01/03,Goiatuba EC,2-0,Goiânia
+1F,29/01/03,Rioverdense,2-2,Jataiense
+1F,01/02/03,Goiânia,1-1,Real-GO
+1F,02/02/03,Goiás,1-0,Vila Nova
+1F,02/02/03,Anápolis,1-0,Atlético Goianiense
+1F,02/02/03,Goiatuba EC,2-4,Anapolina
+1F,02/02/03,Grémio Inhumense,1-1,Jataiense
+1F,02/02/03,Novo Horizonte,4-1,Rioverdense
+1F,05/02/03,Vila Nova,2-1,Grémio Inhumense
+1F,05/02/03,Jataiense,2-1,Novo Horizonte
+1F,05/02/03,Real-GO,2-0,Rioverdense
+1F,05/02/03,Atlético Goianiense,1-3,Goiatuba EC
+1F,07/02/03,Anapolina,1-2,Goiânia
+1F,09/02/03,Vila Nova,0-1,Anapolina
+1F,09/02/03,Atlético Goianiense,0-1,Goiás
+1F,09/02/03,Anápolis,1-1,Real-GO
+1F,09/02/03,Rioverdense,1-2,Grémio Inhumense
+1F,09/02/03,Novo Horizonte,4-1,Goiânia
+1F,09/02/03,Jataiense,2-0,Goiatuba EC
+1F,12/02/03,Goiânia,1-2,Rioverdense
+1F,12/02/03,Goiatuba EC,1-2,Vila Nova
+1F,12/02/03,Real-GO,1-1,Novo Horizonte
+1F,12/02/03,Anápolis,0-2,Jataiense
+1F,12/02/03,Grémio Inhumense,2-1,Goiás
+1F,12/02/03,Atlético Goianiense,0-1,Anapolina
+1F,14/02/03,Goiás,2-0,Anápolis
+1F,16/02/03,Vila Nova,3-1,Goiânia
+1F,16/02/03,Goiás,7-2,Goiatuba EC
+1F,16/02/03,Rioverdense,5-0,Atlético Goianiense
+1F,16/02/03,Novo Horizonte,5-3,Anápolis
+1F,16/02/03,Anapolina,2-1,Grémio Inhumense
+1F,16/02/03,Jataiense,4-3,Real-GO
+QF,23/02/03,Anápolis,2-2,Goiás
+QF,23/02/03,Grémio Inhumense,0-2,Vila Nova
+QF,23/02/03,Real-GO,1-1,Anapolina
+QF,23/02/03,Novo Horizonte,4-0,Jataiense
+QF,26/02/03,Goiás,1-0,Anápolis
+QF,26/02/03,Vila Nova,2-2,Grémio Inhumense
+QF,26/02/03,Anapolina,2-3,Real-GO
+QF,26/02/03,Jataiense,1-2,Novo Horizonte
+SF,06/03/03,Novo Horizonte,2-0,Vila Nova
+SF,06/03/03,Real-GO,1-1,Goiás
+SF,09/03/03,Vila Nova,3-2,Novo Horizonte
+F,16/03/03,Novo Horizonte,2-1,Goiás
+F,23/03/03,Goiás,2-1(3-2 Pen.),Novo Horizonte

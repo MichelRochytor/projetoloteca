@@ -1,0 +1,86 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,15/09/98,FC Porto,2-2,Olympiacos
+A,16/09/98,Dinamo Zagreb,0-0,Ajax
+B,16/09/98,Athletic Bilbao,1-1,Rosenborg
+B,16/09/98,Juventus,2-2,Galatasaray
+C,16/09/98,Real Madrid,2-0,Internazionale
+C,16/09/98,Sturm Graz,0-2,Spartak Moskva
+D,16/09/98,Brondby IF,2-1,Bayern München
+D,16/09/98,Manchester United,3-3,Barcelona
+E,16/09/98,Lens,1-1,Arsenal
+E,16/09/98,Panathinaikos,2-1,Dynamo Kyiv
+F,16/09/98,PSV,2-1,HJK
+F,16/09/98,Kaiserslautern,1-0,Benfica
+A,29/09/98,Ajax,2-1,FC Porto
+A,30/09/98,Olympiacos,2-0,Dinamo Zagreb
+B,30/09/98,Galatasaray,2-1,Athletic Bilbao
+B,30/09/98,Rosenborg,1-1,Juventus
+C,30/09/98,Spartak Moskva,2-1,Real Madrid
+C,30/09/98,Internazionale,1-0,Sturm Graz
+D,30/09/98,Barcelona,2-0,Brondby IF
+D,30/09/98,Bayern München,2-2,Manchester United
+E,30/09/98,Dynamo Kyiv,1-1,Lens
+E,30/09/98,Arsenal,2-1,Panathinaikos
+F,30/09/98,Benfica,2-1,PSV
+F,30/09/98,HJK,0-0,Kaiserslautern
+A,20/10/98,FC Porto,3-0,Dinamo Zagreb
+C,20/10/98,Internazionale,2-1,Spartak Moskva
+A,21/10/98,Olympiacos,1-0,Ajax
+B,21/10/98,Rosenborg,3-0,Galatasaray
+B,21/10/98,Athletic Bilbao,0-0,Juventus
+C,21/10/98,Real Madrid,6-1,Sturm Graz
+D,21/10/98,Bayern München,1-0,Barcelona
+D,21/10/98,Brondby IF,2-6,Manchester United
+E,21/10/98,Arsenal,1-1,Dynamo Kyiv
+E,21/10/98,Lens,1-0,Panathinaikos
+F,21/10/98,HJK,2-0,Benfica
+F,21/10/98,PSV,1-2,Kaiserslautern
+A,03/11/98,Dinamo Zagreb,3-1,FC Porto
+C,03/11/98,Spartak Moskva,1-1,Internazionale
+A,04/11/98,Ajax,2-0,Olympiacos
+B,04/11/98,Galatasaray,3-0,Rosenborg
+B,04/11/98,Juventus,1-1,Athletic Bilbao
+D,04/11/98,Barcelona,1-2,Bayern München
+D,04/11/98,Manchester United,5-0,Brondby IF
+E,04/11/98,Dynamo Kyiv,3-1,Arsenal
+E,04/11/98,Panathinaikos,1-0,Lens
+F,04/11/98,Benfica,2-2,HJK
+F,04/11/98,Kaiserslautern,3-1,PSV
+C,04/11/98,Sturm Graz,1-5,Real Madrid
+A,24/11/98,Olympiacos,2-1,FC Porto
+C,24/11/98,Spartak Moskva,0-0,Sturm Graz
+E,24/11/98,Dynamo Kyiv,2-1,Panathinaikos
+A,25/11/98,Ajax,0-1,Dinamo Zagreb
+B,25/11/98,Rosenborg,2-1,Athletic Bilbao
+C,25/11/98,Internazionale,3-1,Real Madrid
+D,25/11/98,Bayern München,2-0,Brondby IF
+D,25/11/98,Barcelona,3-3,Manchester United
+E,25/11/98,Arsenal,0-1,Lens
+F,25/11/98,HJK,1-3,PSV
+F,25/11/98,Benfica,2-1,Kaiserslautern
+B,02/12/98,Galatasaray,1-1,Juventus
+A,08/12/98,FC Porto,3-0,Ajax
+B,08/12/98,Athletic Bilbao,1-0,Galatasaray
+C,08/12/98,Real Madrid,2-1,Spartak Moskva
+A,09/12/98,Dinamo Zagreb,1-1,Olympiacos
+B,09/12/98,Juventus,2-0,Rosenborg
+C,09/12/98,Sturm Graz,0-2,Internazionale
+D,09/12/98,Brondby IF,0-2,Barcelona
+D,09/12/98,Manchester United,1-1,Bayern München
+E,09/12/98,Lens,1-3,Dynamo Kyiv
+E,09/12/98,Panathinaikos,1-3,Arsenal
+F,09/12/98,PSV,2-2,Benfica
+F,09/12/98,Kaiserslautern,5-2,HJK
+QF,03/03/99,Real Madrid,1-1,Dynamo Kyiv
+QF,03/03/99,Manchester United,2-0,Internazionale
+QF,03/03/99,Juventus,2-1,Olympiacos
+QF,03/03/99,Bayern München,2-0,Kaiserslautern
+QF,16/03/99,Dynamo Kyiv,2-0,Real Madrid
+QF,17/03/99,Internazionale,1-1,Manchester United
+QF,17/03/99,Olympiacos,1-1,Juventus
+QF,17/03/99,Kaiserslautern,0-4,Bayern München
+SF,07/04/99,Dynamo Kyiv,3-3,Bayern München
+SF,07/04/99,Manchester United,1-1,Juventus
+SF,21/04/99,Juventus,2-3,Manchester United
+SF,21/04/99,Bayern München,1-0,Dynamo Kyiv
+F,26/05/99,Manchester United,2-1,Bayern München

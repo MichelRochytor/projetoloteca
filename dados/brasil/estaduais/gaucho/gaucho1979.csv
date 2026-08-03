@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,07/03/79,Grêmio,3-1,Novo Hamburgo
+,07/03/79,Caxias,3-0,Riograndense
+,07/03/79,GE Brasil,1-0,Inter SM
+,07/03/79,São Paulo-RS,1-1,Farroupilha
+,07/03/79,Bagé,1-0,Avenida
+,07/03/79,Gaúcho,1-0,Cachoeira
+,07/03/79,Estrela-RS,0-0,14 de Julho-PF
+,08/03/79,Internacional,1-1,Esportivo
+,08/03/79,Juventude,5-0,São Borja
+,08/03/79,Pelotas,1-1,Guarany de Bagé
+,10/03/79,14 de Julho-PF,2-0,São Paulo-RS
+,11/03/79,Estrela-RS,1-1,Farroupilha
+,11/03/79,Inter SM,1-0,Bagé
+,11/03/79,Caxias,4-1,Cachoeira
+,11/03/79,Avenida,1-2,Novo Hamburgo
+,11/03/79,Internacional,2-0,GE Brasil
+,11/03/79,Guarany de Bagé,0-2,Grêmio
+,11/03/79,Gaúcho,1-1,Esportivo
+,12/03/79,São Borja,2-1,Riograndense
+,12/03/79,Pelotas,1-3,Juventude
+,14/03/79,Grêmio,2-1,Inter SM
+,14/03/79,Riograndense,0-2,Internacional
+,14/03/79,Juventude,1-0,São Paulo-RS
+,14/03/79,Esportivo,1-1,Guarany de Bagé
+,14/03/79,GE Brasil,3-0,Caxias
+,14/03/79,Bagé,3-0,Gaúcho
+,14/03/79,Avenida,1-2,14 de Julho-PF
+,14/03/79,Cachoeira,0-1,Estrela-RS
+,14/03/79,Novo Hamburgo,0-0,São Borja
+,15/03/79,Pelotas,3-2,Farroupilha
+,17/03/79,Bagé,0-0,Caxias
+,17/03/79,São Borja,2-0,Estrela-RS
+,17/03/79,São Paulo-RS,0-2,Grêmio
+,18/03/79,Internacional,4-0,Gaúcho
+,18/03/79,Juventude,5-0,Avenida
+,18/03/79,Esportivo,1-0,Pelotas
+,18/03/79,Guarany de Bagé,0-0,GE Brasil
+,18/03/79,14 de Julho-PF,0-1,Inter SM
+,18/03/79,Cachoeira,1-1,Novo Hamburgo
+,18/03/79,Riograndense,3-1,Farroupilha
+,21/03/79,Grêmio,2-0,Esportivo
+,21/03/79,Estrela-RS,0-2,Internacional
+,21/03/79,Gaúcho,3-1,Riograndense
+,21/03/79,São Paulo-RS,2-0,Bagé
+,21/03/79,Pelotas,1-1,Avenida
+,21/03/79,Guarany de Bagé,2-1,14 de Julho-PF
+,21/03/79,Novo Hamburgo,1-1,Juventude
+,21/03/79,Inter SM,4-2,Farroupilha
+,22/03/79,Caxias,1-0,São Borja
+,22/03/79,GE Brasil,2-1,Cachoeira
+,25/03/79,Bagé,2-0,Riograndense
+,25/03/79,Inter SM,0-0,São Paulo-RS
+,25/03/79,Grêmio,1-0,São Borja
+,25/03/79,14 de Julho-PF,0-0,Internacional
+,25/03/79,Juventude,2-0,GE Brasil
+,25/03/79,Esportivo,4-1,Estrela-RS
+,25/03/79,Farroupilha,1-1,Gaúcho
+,25/03/79,Cachoeira,2-1,Pelotas
+,25/03/79,Avenida,1-1,Caxias
+,25/03/79,Novo Hamburgo,2-0,Guarany de Bagé
+,28/03/79,Caxias,1-1,Grêmio
+,28/03/79,Internacional,5-0,Novo Hamburgo
+,28/03/79,São Borja,1-1,Gaúcho
+,28/03/79,Guarany de Bagé,1-1,Inter SM
+,28/03/79,14 de Julho-PF,1-1,Esportivo
+,28/03/79,São Paulo-RS,5-0,Cachoeira
+,28/03/79,Farroupilha,2-1,Avenida
+,28/03/79,Estrela-RS,1-1,GE Brasil
+,28/03/79,Riograndense,0-1,Juventude
+,29/03/79,Pelotas,0-1,Bagé
+,31/03/79,Guarany de Bagé,1-0,Estrela-RS
+,01/04/79,Internacional,1-2,São Paulo-RS
+,01/04/79,Gaúcho,0-0,Caxias
+,01/04/79,Esportivo,2-0,Riograndense
+,01/04/79,GE Brasil,0-0,Grêmio
+,01/04/79,Novo Hamburgo,1-0,Farroupilha
+,01/04/79,Juventude,1-0,14 de Julho-PF
+,01/04/79,Avenida,3-0,Cachoeira
+,01/04/79,Inter SM,1-0,Pelotas
+,01/04/79,Bagé,0-1,São Borja
+,04/04/79,GE Brasil,1-0,Bagé
+,04/04/79,Caxias,1-1,Esportivo
+,04/04/79,Estrela-RS,1-1,Gaúcho
+,05/04/79,São Borja,0-0,São Paulo-RS
+,05/04/79,Avenida,2-1,Guarany de Bagé
+,05/04/79,Cachoeira,0-0,Riograndense
+,05/04/79,Novo Hamburgo,1-0,14 de Julho-PF
+,05/04/79,Inter SM,0-0,Juventude
+,05/04/79,Grêmio,3-1,Farroupilha
+,07/04/79,Gaúcho,0-1,GE Brasil
+,07/04/79,Bagé,1-0,Estrela-RS
+,08/04/79,Farroupilha,1-1,São Borja
+,08/04/79,Caxias,1-2,Internacional
+,08/04/79,Riograndense,1-3,Grêmio
+,08/04/79,Esportivo,4-1,Avenida
+,08/04/79,São Paulo-RS,0-2,Novo Hamburgo
+,08/04/79,14 de Julho-PF,0-1,Pelotas
+,08/04/79,Guarany de Bagé,0-3,Juventude
+,08/04/79,Cachoeira,0-0,Inter SM
+,11/04/79,Internacional,6-0,Cachoeira
+,11/04/79,Gaúcho,0-1,Grêmio
+,11/04/79,São Paulo-RS,0-1,Pelotas
+,11/04/79,São Borja,2-0,Guarany de Bagé
+,11/04/79,Farroupilha,1-1,Caxias
+,11/04/79,Juventude,1-1,Esportivo
+,11/04/79,Novo Hamburgo,2-1,Riograndense
+,11/04/79,Avenida,0-0,GE Brasil
+,11/04/79,Inter SM,0-1,Estrela-RS
+,12/04/79,14 de Julho-PF,5-0,Bagé
+,14/04/79,GE Brasil,1-0,São Paulo-RS
+,15/04/79,Grêmio,6-0,Cachoeira
+,15/04/79,Juventude,2-0,Farroupilha
+,15/04/79,Esportivo,2-1,São Borja
+,15/04/79,Novo Hamburgo,0-0,Inter SM
+,15/04/79,Guarany de Bagé,3-2,Bagé
+,15/04/79,Pelotas,1-1,Gaúcho
+,15/04/79,Riograndense,0-2,14 de Julho-PF
+,15/04/79,Estrela-RS,0-1,Caxias
+,16/04/79,Avenida,0-1,Internacional
+,18/04/79,Bagé,2-0,Novo Hamburgo
+,18/04/79,14 de Julho-PF,2-0,Farroupilha
+,18/04/79,São Borja,2-1,Avenida
+,18/04/79,Inter SM,1-1,Gaúcho
+,18/04/79,Cachoeira,0-1,Guarany de Bagé
+,18/04/79,Esportivo,1-1,GE Brasil
+,18/04/79,Estrela-RS,1-1,Riograndense
+,18/04/79,Caxias,3-1,São Paulo-RS
+,18/04/79,Pelotas,0-3,Grêmio
+,19/04/79,Internacional,5-0,Juventude
+,21/04/79,Riograndense,2-1,Guarany de Bagé
+,22/04/79,Caxias,1-0,Juventude
+,22/04/79,Farroupilha,0-0,GE Brasil
+,22/04/79,São Borja,1-0,Pelotas
+,22/04/79,Grêmio,7-0,Avenida
+,22/04/79,Gaúcho,1-1,14 de Julho-PF
+,22/04/79,Novo Hamburgo,2-0,Estrela-RS
+,22/04/79,Cachoeira,2-1,Bagé
+,22/04/79,São Paulo-RS,1-1,Esportivo
+,22/04/79,Inter SM,0-1,Internacional
+,25/04/79,Grêmio,1-0,14 de Julho-PF
+,25/04/79,Juventude,2-0,Cachoeira
+,25/04/79,GE Brasil,1-0,São Borja
+,25/04/79,Esportivo,3-1,Farroupilha
+,25/04/79,Guarany de Bagé,1-2,Caxias
+,25/04/79,Novo Hamburgo,2-0,Gaúcho
+,25/04/79,Riograndense,0-2,São Paulo-RS
+,25/04/79,Avenida,1-1,Inter SM
+,25/04/79,Estrela-RS,0-0,Pelotas
+,26/04/79,Internacional,4-0,Bagé
+,28/04/79,14 de Julho-PF,1-0,GE Brasil
+,28/04/79,Pelotas,1-1,Riograndense
+,29/04/79,Farroupilha,0-6,Internacional
+,29/04/79,Estrela-RS,0-2,Grêmio
+,29/04/79,Bagé,1-1,Juventude
+,29/04/79,Cachoeira,0-1,Esportivo
+,29/04/79,Gaúcho,4-1,Avenida
+,29/04/79,Caxias,1-0,Novo Hamburgo
+,29/04/79,São Paulo-RS,3-0,Guarany de Bagé
+,29/04/79,Inter SM,1-0,São Borja
+,01/05/79,Riograndense,1-4,GE Brasil
+,02/05/79,Internacional,2-0,Guarany de Bagé
+,02/05/79,14 de Julho-PF,2-0,Caxias
+,02/05/79,Esportivo,2-0,Inter SM
+,02/05/79,Farroupilha,3-1,Bagé
+,02/05/79,São Borja,0-1,Cachoeira
+,02/05/79,Avenida,0-1,Estrela-RS
+,03/05/79,Grêmio,0-1,Juventude
+,03/05/79,Gaúcho,1-2,São Paulo-RS
+,03/05/79,Pelotas,1-1,Novo Hamburgo
+,04/05/79,Guarany de Bagé,1-1,Farroupilha
+,06/05/79,São Borja,1-2,Internacional
+,06/05/79,Bagé,0-5,Grêmio
+,06/05/79,Novo Hamburgo,3-2,Esportivo
+,06/05/79,Riograndense,3-1,Avenida
+,06/05/79,Cachoeira,1-0,14 de Julho-PF
+,06/05/79,São Paulo-RS,0-0,Estrela-RS
+,06/05/79,Caxias,4-1,Inter SM
+,06/05/79,GE Brasil,1-0,Pelotas
+,09/05/79,Juventude,0-0,Gaúcho
+,09/05/79,Pelotas,2-2,Internacional
+,12/05/79,Farroupilha,2-0,Cachoeira
+,12/05/79,Inter SM,3-0,Riograndense
+,12/05/79,Guarany de Bagé,0-1,Gaúcho
+,12/05/79,14 de Julho-PF,2-1,São Borja
+,12/05/79,Avenida,2-0,São Paulo-RS
+,12/05/79,Estrela-RS,2-2,Juventude
+,12/05/79,Caxias,5-0,Pelotas
+,13/05/79,Internacional,0-0,Grêmio
+,13/05/79,GE Brasil,0-2,Novo Hamburgo
+,13/05/79,Esportivo,3-1,Bagé
+,16/05/79,Grêmio,3-0,Riograndense
+,16/05/79,14 de Julho-PF,1-0,Guarany de Bagé
+,16/05/79,GE Brasil,4-1,Avenida
+,16/05/79,Farroupilha,1-3,Esportivo
+,16/05/79,Internacional,1-0,Inter SM
+,19/05/79,14 de Julho-PF,0-2,Estrela-RS
+,19/05/79,Avenida,0-3,Grêmio
+,19/05/79,Riograndense,1-4,Caxias
+,19/05/79,Inter SM,0-0,GE Brasil
+,20/05/79,Juventude,1-0,Bagé
+,20/05/79,Internacional,5-0,São Borja
+,20/05/79,Cachoeira,0-0,Gaúcho
+,20/05/79,Esportivo,1-0,Novo Hamburgo
+,20/05/79,Guarany de Bagé,0-1,Pelotas
+,20/05/79,Farroupilha,0-1,São Paulo-RS
+,22/05/79,Grêmio,2-1,Estrela-RS
+,23/05/79,Juventude,0-3,Internacional
+,23/05/79,Pelotas,1-1,Farroupilha
+,23/05/79,São Paulo-RS,3-1,14 de Julho-PF
+,23/05/79,Riograndense,2-0,São Borja
+,23/05/79,Cachoeira,1-2,Caxias
+,23/05/79,Esportivo,1-1,Gaúcho
+,23/05/79,Bagé,0-0,Inter SM
+,23/05/79,Novo Hamburgo,3-1,Avenida
+,24/05/79,GE Brasil,1-0,Guarany de Bagé
+,26/05/79,Gaúcho,1-0,Bagé
+,27/05/79,Internacional,0-0,Pelotas
+,27/05/79,14 de Julho-PF,3-1,Avenida
+,27/05/79,Farroupilha,0-0,Inter SM
+,27/05/79,São Paulo-RS,1-0,Juventude
+,27/05/79,Guarany de Bagé,0-1,Esportivo
+,27/05/79,Caxias,1-0,GE Brasil
+,27/05/79,Estrela-RS,0-0,Cachoeira
+,27/05/79,São Borja,0-1,Novo Hamburgo
+,30/05/79,Esportivo,0-0,Grêmio
+,30/05/79,Internacional,4-0,Riograndense
+,30/05/79,Pelotas,1-1,São Paulo-RS
+,30/05/79,Gaúcho,0-0,Farroupilha
+,30/05/79,Caxias,1-0,Bagé
+,30/05/79,Avenida,1-0,Juventude
+,30/05/79,São Borja,2-1,GE Brasil
+,30/05/79,Estrela-RS,0-0,Guarany de Bagé
+,30/05/79,Inter SM,1-0,14 de Julho-PF
+,30/05/79,Novo Hamburgo,5-2,Cachoeira
+,02/06/79,Riograndense,1-0,Estrela-RS
+,02/06/79,Farroupilha,1-0,Guarany de Bagé
+,02/06/79,Bagé,1-0,Esportivo
+,02/06/79,Inter SM,0-0,Caxias
+,03/06/79,Grêmio,1-0,São Paulo-RS
+,03/06/79,Cachoeira,0-2,Internacional
+,03/06/79,Juventude,1-0,Pelotas
+,03/06/79,14 de Julho-PF,2-0,Novo Hamburgo
+,03/06/79,Avenida,2-4,São Borja
+,03/06/79,GE Brasil,0-2,Gaúcho
+,06/06/79,Grêmio,3-2,Gaúcho
+,06/06/79,Guarany de Bagé,0-1,Internacional
+,06/06/79,Caxias,3-1,Avenida
+,06/06/79,GE Brasil,0-0,Juventude
+,06/06/79,Riograndense,0-0,Bagé
+,06/06/79,Novo Hamburgo,0-0,Pelotas
+,06/06/79,São Borja,1-1,14 de Julho-PF
+,06/06/79,São Paulo-RS,0-0,Inter SM
+,06/06/79,Estrela-RS,0-0,Esportivo
+,06/06/79,Cachoeira,1-1,Farroupilha
+,09/06/79,Guarany de Bagé,2-1,Riograndense
+,10/06/79,Juventude,0-1,Grêmio
+,10/06/79,Pelotas,1-0,Cachoeira
+,10/06/79,Gaúcho,1-2,São Borja
+,10/06/79,Bagé,0-1,GE Brasil
+,10/06/79,Esportivo,1-0,14 de Julho-PF
+,10/06/79,Novo Hamburgo,1-1,Caxias
+,10/06/79,Estrela-RS,3-0,São Paulo-RS
+,10/06/79,Avenida,1-0,Farroupilha
+,13/06/79,Pelotas,1-0,São Borja
+,13/06/79,São Paulo-RS,1-1,GE Brasil
+,13/06/79,14 de Julho-PF,1-1,Juventude
+,13/06/79,Riograndense,0-1,Esportivo
+,14/06/79,Inter SM,0-1,Grêmio
+,14/06/79,Internacional,3-0,Estrela-RS
+,14/06/79,Bagé,1-0,Guarany de Bagé
+,14/06/79,Caxias,0-1,Gaúcho
+,14/06/79,Cachoeira,2-0,Avenida
+,14/06/79,Farroupilha,2-0,Novo Hamburgo
+,16/06/79,GE Brasil,1-1,Estrela-RS
+,17/06/79,Grêmio,2-0,Guarany de Bagé
+,17/06/79,Gaúcho,1-1,Novo Hamburgo
+,17/06/79,Inter SM,0-1,Cachoeira
+,17/06/79,São Paulo-RS,4-0,Riograndense
+,17/06/79,Caxias,0-0,14 de Julho-PF
+,17/06/79,Farroupilha,1-1,Juventude
+,17/06/79,Esportivo,0-0,Internacional
+,17/06/79,São Borja,0-0,Bagé
+,17/06/79,Avenida,0-1,Pelotas
+,20/06/79,Novo Hamburgo,0-4,Internacional
+,20/06/79,Guarany de Bagé,1-2,São Paulo-RS
+,20/06/79,Cachoeira,1-2,Grêmio
+,20/06/79,Juventude,5-0,Riograndense
+,20/06/79,GE Brasil,1-2,14 de Julho-PF
+,20/06/79,Esportivo,1-0,Caxias
+,20/06/79,São Borja,0-2,Farroupilha
+,20/06/79,Estrela-RS,0-1,Inter SM
+,20/06/79,Avenida,0-2,Gaúcho
+,22/06/79,Bagé,0-1,Pelotas
+,23/06/79,Guarany de Bagé,5-0,Avenida
+,23/06/79,Farroupilha,1-0,Estrela-RS
+,23/06/79,Grêmio,3-0,GE Brasil
+,24/06/79,Internacional,2-1,Caxias
+,24/06/79,Juventude,0-2,Inter SM
+,24/06/79,Pelotas,1-1,Esportivo
+,24/06/79,Gaúcho,2-0,14 de Julho-PF

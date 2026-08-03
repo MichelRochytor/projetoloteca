@@ -1,0 +1,413 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,08/09/01,Rio Negro-AM,1-1,Rio Negro-RR
+B,08/09/01,Moto Club,1-3,Ferroviário
+C,08/09/01,Coríntians-RN,3-0,Botafogo-PB
+C,08/09/01,São Gonçalo-RN,1-1,Desportiva Guarabira
+D,08/09/01,Confiança,2-1,ASA
+F,08/09/01,Cachoeiro,0-2,Feirense
+G,08/09/01,Madureira,5-2,Atlético Sorocaba
+A,09/09/01,Genus,2-2,Águia
+A,09/09/01,Tiradentes-PA,1-2,Ypiranga-AP
+B,09/09/01,Caxiense,0-1,Guarany de Sobral
+D,09/09/01,Itabaiana,2-4,Corinthians-AL
+E,09/09/01,Brasiliense,1-1,CENE
+E,09/09/01,Goiânia,2-0,União Rondonópolis
+E,09/09/01,Real-GO,0-1,Atlético Goianiense
+F,09/09/01,Estrela do Norte,1-0,Juazeiro
+G,09/09/01,Olaria,0-3,Bangu
+G,09/09/01,Santo André,1-2,Paulista
+H,09/09/01,Atl. Três Corações,1-0,Uberlândia
+H,09/09/01,Tupi,2-2,Mamoré
+H,09/09/01,Villa Nova-MG,1-0,Ipatinga
+I,09/09/01,Friburguense,2-2,União Bandeirante
+I,09/09/01,Volta Redonda,1-0,Ituano
+J,09/09/01,GE Brasil,1-0,Pelotas
+J,09/09/01,Passo Fundo,0-0,Marcílio Dias
+J,09/09/01,São José,2-1,Iraty
+I,12/09/01,Friburguense,0-0,Ituano
+A,12/09/01,Andirá-AC,0-1,Rio Negro-RR
+A,12/09/01,Genus,0-2,Tiradentes-PA
+B,12/09/01,Caxiense,0-0,Ferroviário
+B,12/09/01,Moto Club,1-1,Guarany de Sobral
+C,12/09/01,Coríntians-RN,1-1,Desportiva Guarabira
+C,12/09/01,São Gonçalo-RN,0-0,Botafogo-PB
+D,12/09/01,Itabaiana,1-0,ASA
+E,12/09/01,Comercial-MS,1-1,Atlético Goianiense
+E,12/09/01,Goiânia,0-4,Brasiliense
+F,12/09/01,Cachoeiro,3-5,Juazeiro
+G,12/09/01,America-RJ,1-0,Bangu
+G,12/09/01,Atlético Sorocaba,0-0,Paulista
+G,12/09/01,Santo André,0-2,Madureira
+H,12/09/01,Atl. Três Corações,1-0,Tupi
+H,12/09/01,Mamoré,1-1,Uberlândia
+H,12/09/01,Uberaba,0-1,Ipatinga
+I,12/09/01,Volta Redonda,1-2,União Bandeirante
+J,12/09/01,GE Brasil,1-0,São José
+J,12/09/01,Iraty,2-2,Pelotas
+J,12/09/01,Tubarão FC,2-0,Marcílio Dias
+A,13/09/01,Ypiranga-AP,0-0,Águia
+E,13/09/01,CENE,3-0,União Rondonópolis
+F,13/09/01,Estrela do Norte,1-3,Feirense
+B,15/09/01,Ferroviário,1-0,Tocantinópolis
+C,15/09/01,Botafogo-PB,0-1,Treze
+C,15/09/01,Desportiva Guarabira,1-1,Atlético-PB
+E,15/09/01,CENE,2-1,Real-GO
+G,15/09/01,Paulista,3-1,Madureira
+H,15/09/01,Mamoré,1-0,Villa Nova-MG
+H,15/09/01,Uberaba,2-1,Atl. Três Corações
+H,15/09/01,Uberlândia,2-1,Tupi
+D,16/09/01,ASA,1-3,Central
+F,16/09/01,Catuense,0-0,Cachoeiro
+I,16/09/01,Mogi Mirim,2-1,Volta Redonda
+A,16/09/01,Águia,1-2,Tiradentes-PA
+A,16/09/01,Andirá-AC,2-1,Genus
+A,16/09/01,Ypiranga-AP,1-0,Rio Negro-AM
+B,16/09/01,Guarany de Sobral,2-1,River-PI
+D,16/09/01,Corinthians-AL,3-2,CSA
+E,16/09/01,Comercial-MS,0-0,Goiânia
+E,16/09/01,União Rondonópolis,1-3,Brasiliense
+F,16/09/01,Colo Colo-BA,1-0,Estrela do Norte
+G,16/09/01,America-RJ,1-1,Santo André
+G,16/09/01,Atlético Sorocaba,0-1,Olaria
+I,16/09/01,Rio Branco-SP,0-0,Friburguense
+J,16/09/01,Iraty,2-2,Passo Fundo
+J,16/09/01,Pelotas,1-1,São José
+J,16/09/01,Tubarão FC,1-1,GE Brasil
+B,18/09/01,Ferroviário,1-0,River-PI
+C,19/09/01,Botafogo-PB,3-0,Atlético-PB
+D,19/09/01,Corinthians-AL,1-0,Central
+F,19/09/01,Colo Colo-BA,0-0,Cachoeiro
+I,19/09/01,Mogi Mirim,2-0,Friburguense
+A,19/09/01,Águia,2-0,Andirá-AC
+A,19/09/01,Rio Negro-RR,0-0,Ypiranga-AP
+B,19/09/01,Guarany de Sobral,2-1,Tocantinópolis
+C,19/09/01,Desportiva Guarabira,0-3,Treze
+D,19/09/01,ASA,1-3,CSA
+E,19/09/01,Real-GO,1-2,Goiânia
+E,19/09/01,União Rondonópolis,1-0,Comercial-MS
+F,19/09/01,Catuense,2-0,Estrela do Norte
+G,19/09/01,Bangu,0-2,Atlético Sorocaba
+G,19/09/01,Olaria,3-0,Santo André
+G,19/09/01,Paulista,4-0,America-RJ
+H,19/09/01,Ipatinga,5-1,Mamoré
+H,19/09/01,Uberlândia,5-3,Uberaba
+H,19/09/01,Villa Nova-MG,5-0,Atl. Três Corações
+I,19/09/01,Rio Branco-SP,3-1,Volta Redonda
+J,19/09/01,Marcílio Dias,2-2,Iraty
+J,19/09/01,Pelotas,0-0,Tubarão FC
+A,20/09/01,Rio Negro-AM,6-2,Genus
+E,20/09/01,Atlético Goianiense,2-1,CENE
+J,20/09/01,Passo Fundo,1-0,GE Brasil
+C,22/09/01,Atlético-PB,2-3,Coríntians-RN
+C,22/09/01,Treze,1-0,São Gonçalo-RN
+G,22/09/01,Madureira,2-1,Olaria
+J,22/09/01,São José,4-0,Passo Fundo
+B,23/09/01,River-PI,1-0,Moto Club
+F,23/09/01,Feirense,2-0,Catuense
+I,23/09/01,União Bandeirante,1-1,Mogi Mirim
+A,23/09/01,Rio Negro-RR,1-0,Águia
+A,23/09/01,Tiradentes-PA,6-0,Rio Negro-AM
+A,23/09/01,Ypiranga-AP,3-1,Andirá-AC
+B,23/09/01,Tocantinópolis,4-0,Caxiense
+D,23/09/01,Central,2-1,Confiança
+D,23/09/01,CSA,2-3,Itabaiana
+E,23/09/01,Atlético Goianiense,1-0,União Rondonópolis
+E,23/09/01,Brasiliense,3-2,Real-GO
+E,23/09/01,CENE,1-3,Comercial-MS
+F,23/09/01,Juazeiro,3-1,Colo Colo-BA
+G,23/09/01,Atlético Sorocaba,4-0,America-RJ
+G,23/09/01,Bangu,1-2,Paulista
+H,23/09/01,Ipatinga,2-2,Uberlândia
+H,23/09/01,Mamoré,4-1,Uberaba
+H,23/09/01,Tupi,1-1,Villa Nova-MG
+I,23/09/01,Ituano,0-0,Rio Branco-SP
+J,23/09/01,Iraty,4-2,Tubarão FC
+J,23/09/01,Marcílio Dias,0-1,Pelotas
+D,26/09/01,Central,2-1,Itabaiana
+B,26/09/01,Tocantinópolis,2-1,Moto Club
+C,26/09/01,Treze,0-0,Coríntians-RN
+F,26/09/01,Juazeiro,4-1,Catuense
+I,26/09/01,Ituano,0-0,Mogi Mirim
+A,26/09/01,Andirá-AC,2-1,Tiradentes-PA
+A,26/09/01,Genus,1-4,Rio Negro-RR
+B,26/09/01,River-PI,5-0,Caxiense
+C,26/09/01,Atlético-PB,1-2,São Gonçalo-RN
+D,26/09/01,CSA,0-2,Confiança
+E,26/09/01,Comercial-MS,0-0,Brasiliense
+E,26/09/01,Goiânia,0-0,Atlético Goianiense
+E,26/09/01,Real-GO,1-1,União Rondonópolis
+F,26/09/01,Feirense,3-1,Colo Colo-BA
+G,26/09/01,America-RJ,0-1,Madureira
+G,26/09/01,Olaria,1-1,Paulista
+G,26/09/01,Santo André,1-1,Bangu
+H,26/09/01,Atl. Três Corações,1-1,Ipatinga
+H,26/09/01,Uberaba,2-2,Tupi
+H,26/09/01,Villa Nova-MG,0-1,Uberlândia
+I,26/09/01,União Bandeirante,0-0,Rio Branco-SP
+J,26/09/01,GE Brasil,1-0,Marcílio Dias
+J,26/09/01,Passo Fundo,0-0,Pelotas
+J,26/09/01,Tubarão FC,4-0,São José
+A,27/09/01,Rio Negro-AM,4-3,Águia
+B,29/09/01,Guarany de Sobral,0-1,Ferroviário
+C,29/09/01,Botafogo-PB,2-3,Desportiva Guarabira
+C,29/09/01,Treze,3-1,Atlético-PB
+D,29/09/01,Confiança,2-2,Itabaiana
+G,29/09/01,Madureira,1-0,Bangu
+G,29/09/01,Santo André,5-0,Atlético Sorocaba
+J,29/09/01,São José,1-0,Marcílio Dias
+D,30/09/01,Central,1-2,CSA
+B,30/09/01,Tocantinópolis,3-3,River-PI
+F,30/09/01,Juazeiro,2-0,Feirense
+I,30/09/01,Ituano,3-0,União Bandeirante
+A,30/09/01,Andirá-AC,2-1,Rio Negro-AM
+A,30/09/01,Genus,1-2,Ypiranga-AP
+A,30/09/01,Tiradentes-PA,1-1,Rio Negro-RR
+B,30/09/01,Moto Club,0-1,Caxiense
+C,30/09/01,Coríntians-RN,1-1,São Gonçalo-RN
+D,30/09/01,Corinthians-AL,4-3,ASA
+E,30/09/01,Brasiliense,2-1,Atlético Goianiense
+E,30/09/01,Comercial-MS,1-2,Real-GO
+E,30/09/01,Goiânia,1-3,CENE
+F,30/09/01,Catuense,0-1,Colo Colo-BA
+F,30/09/01,Estrela do Norte,3-3,Cachoeiro
+G,30/09/01,America-RJ,1-2,Olaria
+H,30/09/01,Atl. Três Corações,0-0,Mamoré
+H,30/09/01,Tupi,0-1,Ipatinga
+H,30/09/01,Uberaba,1-1,Villa Nova-MG
+I,30/09/01,Friburguense,0-0,Volta Redonda
+I,30/09/01,Rio Branco-SP,3-1,Mogi Mirim
+J,01/10/01,GE Brasil,2-0,Iraty
+J,01/10/01,Tubarão FC,1-0,Passo Fundo
+D,03/10/01,Confiança,4-1,Corinthians-AL
+A,06/10/01,Águia,3-1,Genus
+A,06/10/01,Rio Negro-RR,1-0,Rio Negro-AM
+A,06/10/01,Ypiranga-AP,4-0,Tiradentes-PA
+C,06/10/01,Coríntians-RN,3-1,Treze
+C,06/10/01,São Gonçalo-RN,3-1,Atlético-PB
+E,06/10/01,Atlético Goianiense,1-1,Real-GO
+E,06/10/01,CENE,1-2,Brasiliense
+E,06/10/01,União Rondonópolis,0-1,Goiânia
+F,06/10/01,Catuense,3-0,Juazeiro
+G,06/10/01,Atlético Sorocaba,0-0,Madureira
+G,06/10/01,Bangu,0-1,Olaria
+G,06/10/01,Paulista,1-2,Santo André
+H,06/10/01,Ipatinga,0-0,Villa Nova-MG
+H,06/10/01,Uberlândia,3-0,Atl. Três Corações
+I,06/10/01,Mogi Mirim,1-0,Ituano
+I,06/10/01,Rio Branco-SP,1-2,União Bandeirante
+J,06/10/01,Marcílio Dias,4-0,Passo Fundo
+J,06/10/01,Pelotas,0-1,GE Brasil
+B,07/10/01,Caxiense,0-1,River-PI
+B,07/10/01,Moto Club,1-1,Tocantinópolis
+D,07/10/01,Confiança,1-0,CSA
+D,07/10/01,Itabaiana,2-2,Central
+F,07/10/01,Colo Colo-BA,1-1,Feirense
+H,07/10/01,Mamoré,1-1,Tupi
+J,07/10/01,Iraty,4-1,São José
+A,09/10/01,Tiradentes-PA,6-0,Genus
+I,09/10/01,Mogi Mirim,4-1,União Bandeirante
+A,10/10/01,Águia,1-0,Ypiranga-AP
+A,10/10/01,Rio Negro-RR,1-1,Andirá-AC
+B,10/10/01,Caxiense,3-0,Tocantinópolis
+C,10/10/01,Coríntians-RN,3-2,Atlético-PB
+C,10/10/01,São Gonçalo-RN,0-0,Treze
+D,10/10/01,Confiança,0-0,Central
+E,10/10/01,Atlético Goianiense,1-1,Comercial-MS
+E,10/10/01,Brasiliense,4-0,Goiânia
+E,10/10/01,União Rondonópolis,0-0,CENE
+F,10/10/01,Catuense,2-1,Feirense
+F,10/10/01,Colo Colo-BA,3-3,Juazeiro
+G,10/10/01,Madureira,0-1,Santo André
+G,10/10/01,Paulista,2-0,Atlético Sorocaba
+H,10/10/01,Ipatinga,2-1,Uberaba
+H,10/10/01,Tupi,2-1,Atl. Três Corações
+H,10/10/01,Uberlândia,2-1,Mamoré
+I,10/10/01,Rio Branco-SP,1-2,Ituano
+J,10/10/01,Marcílio Dias,2-3,Tubarão FC
+G,10/10/01,Bangu,4-1,America-RJ
+B,11/10/01,Moto Club,1-1,River-PI
+D,11/10/01,Itabaiana,3-0,CSA
+J,11/10/01,Pelotas,0-1,Iraty
+J,11/10/01,São José,0-0,GE Brasil
+A,13/10/01,Rio Negro-AM,6-1,Ypiranga-AP
+A,13/10/01,Tiradentes-PA,0-1,Águia
+F,13/10/01,Cachoeiro,1-0,Colo Colo-BA
+G,13/10/01,Madureira,1-2,Paulista
+G,13/10/01,Santo André,1-0,America-RJ
+A,14/10/01,Genus,2-1,Andirá-AC
+B,14/10/01,River-PI,2-0,Ferroviário
+B,14/10/01,Tocantinópolis,1-2,Guarany de Sobral
+C,14/10/01,Atlético-PB,0-0,Botafogo-PB
+C,14/10/01,Treze,5-1,Desportiva Guarabira
+D,14/10/01,Central,6-0,Corinthians-AL
+D,14/10/01,CSA,0-2,ASA
+E,14/10/01,Brasiliense,5-0,União Rondonópolis
+E,14/10/01,Goiânia,0-0,Comercial-MS
+E,14/10/01,Real-GO,3-1,CENE
+F,14/10/01,Estrela do Norte,1-2,Catuense
+G,14/10/01,Olaria,0-1,Atlético Sorocaba
+H,14/10/01,Atl. Três Corações,2-1,Uberaba
+H,14/10/01,Tupi,0-1,Uberlândia
+H,14/10/01,Villa Nova-MG,0-0,Mamoré
+I,14/10/01,Friburguense,3-0,Mogi Mirim
+I,14/10/01,Volta Redonda,1-1,Rio Branco-SP
+J,14/10/01,GE Brasil,1-1,Tubarão FC
+J,14/10/01,Passo Fundo,1-2,Iraty
+J,14/10/01,São José,3-4,Pelotas
+A,17/10/01,Andirá-AC,0-1,Águia
+A,17/10/01,Genus,2-1,Rio Negro-AM
+A,17/10/01,Ypiranga-AP,1-0,Rio Negro-RR
+B,17/10/01,River-PI,1-3,Guarany de Sobral
+B,17/10/01,Tocantinópolis,0-1,Ferroviário
+C,17/10/01,Atlético-PB,2-1,Desportiva Guarabira
+C,17/10/01,Treze,1-1,Botafogo-PB
+D,17/10/01,Central,0-1,ASA
+E,17/10/01,CENE,2-2,Atlético Goianiense
+F,17/10/01,Cachoeiro,1-2,Catuense
+F,17/10/01,Estrela do Norte,2-1,Colo Colo-BA
+G,17/10/01,America-RJ,1-0,Paulista
+G,17/10/01,Atlético Sorocaba,4-0,Bangu
+G,17/10/01,Santo André,3-0,Olaria
+H,17/10/01,Atl. Três Corações,0-0,Villa Nova-MG
+H,17/10/01,Mamoré,0-3,Ipatinga
+H,17/10/01,Uberaba,1-1,Uberlândia
+I,17/10/01,Friburguense,1-0,Rio Branco-SP
+I,17/10/01,Volta Redonda,1-2,Mogi Mirim
+J,17/10/01,GE Brasil,2-1,Passo Fundo
+J,17/10/01,Iraty,1-0,Marcílio Dias
+J,17/10/01,Tubarão FC,2-0,Pelotas
+D,18/10/01,CSA,1-0,Corinthians-AL
+E,18/10/01,Comercial-MS,0-1,União Rondonópolis
+E,18/10/01,Goiânia,4-0,Real-GO
+A,20/10/01,Rio Negro-AM,3-0,Tiradentes-PA
+B,20/10/01,Ferroviário,3-0,Caxiense
+E,20/10/01,Real-GO,1-3,Brasiliense
+H,20/10/01,Uberlândia,1-0,Ipatinga
+I,20/10/01,União Bandeirante,3-0,Volta Redonda
+A,21/10/01,Águia,2-2,Rio Negro-RR
+A,21/10/01,Andirá-AC,4-1,Ypiranga-AP
+B,21/10/01,Guarany de Sobral,2-0,Moto Club
+C,21/10/01,Botafogo-PB,0-1,São Gonçalo-RN
+C,21/10/01,Desportiva Guarabira,0-0,Coríntians-RN
+D,21/10/01,ASA,2-1,Itabaiana
+D,21/10/01,Corinthians-AL,3-0,Confiança
+E,21/10/01,Comercial-MS,2-3,CENE
+E,21/10/01,União Rondonópolis,0-1,Atlético Goianiense
+F,21/10/01,Feirense,1-0,Estrela do Norte
+F,21/10/01,Juazeiro,7-0,Cachoeiro
+G,21/10/01,America-RJ,1-1,Atlético Sorocaba
+G,21/10/01,Olaria,0-2,Madureira
+G,21/10/01,Paulista,3-0,Bangu
+H,21/10/01,Uberaba,2-2,Mamoré
+H,21/10/01,Villa Nova-MG,0-0,Tupi
+I,21/10/01,Ituano,1-1,Friburguense
+J,21/10/01,Passo Fundo,2-0,São José
+J,21/10/01,Pelotas,3-1,Marcílio Dias
+J,21/10/01,Tubarão FC,2-0,Iraty
+A,24/10/01,Águia,2-2,Rio Negro-AM
+A,24/10/01,Rio Negro-RR,4-1,Genus
+A,24/10/01,Tiradentes-PA,1-1,Andirá-AC
+B,24/10/01,Guarany de Sobral,2-1,Caxiense
+C,24/10/01,Botafogo-PB,0-1,Coríntians-RN
+C,24/10/01,Desportiva Guarabira,0-6,São Gonçalo-RN
+D,24/10/01,ASA,2-1,Confiança
+D,24/10/01,Corinthians-AL,5-2,Itabaiana
+E,24/10/01,Atlético Goianiense,0-0,Goiânia
+E,24/10/01,Brasiliense,2-1,Comercial-MS
+E,24/10/01,União Rondonópolis,2-1,Real-GO
+F,24/10/01,Feirense,3-0,Cachoeiro
+F,24/10/01,Juazeiro,2-0,Estrela do Norte
+G,24/10/01,Bangu,0-1,Santo André
+G,24/10/01,Madureira,2-0,America-RJ
+G,24/10/01,Paulista,2-1,Olaria
+H,24/10/01,Ipatinga,3-2,Atl. Três Corações
+H,24/10/01,Tupi,4-1,Uberaba
+H,24/10/01,Uberlândia,1-3,Villa Nova-MG
+I,24/10/01,Ituano,2-0,Volta Redonda
+I,24/10/01,União Bandeirante,5-2,Friburguense
+J,24/10/01,Marcílio Dias,3-1,GE Brasil
+J,24/10/01,Pelotas,0-0,Passo Fundo
+B,25/10/01,Ferroviário,2-0,Moto Club
+J,25/10/01,São José,0-0,Tubarão FC
+A,27/10/01,Rio Negro-AM,4-1,Andirá-AC
+A,27/10/01,Rio Negro-RR,2-2,Tiradentes-PA
+A,27/10/01,Ypiranga-AP,5-0,Genus
+B,27/10/01,Caxiense,2-0,Moto Club
+B,27/10/01,Ferroviário,0-0,Guarany de Sobral
+B,27/10/01,River-PI,5-4,Tocantinópolis
+G,27/10/01,Olaria,1-1,America-RJ
+H,27/10/01,Ipatinga,4-0,Tupi
+J,27/10/01,Marcílio Dias,1-2,São José
+C,28/10/01,Atlético-PB,2-3,Treze
+C,28/10/01,Desportiva Guarabira,3-2,Botafogo-PB
+C,28/10/01,São Gonçalo-RN,2-1,Coríntians-RN
+D,28/10/01,ASA,1-0,Corinthians-AL
+D,28/10/01,CSA,3-0,Central
+D,28/10/01,Itabaiana,0-1,Confiança
+E,28/10/01,Atlético Goianiense,2-0,Brasiliense
+E,28/10/01,CENE,2-0,Goiânia
+E,28/10/01,Real-GO,0-2,Comercial-MS
+F,28/10/01,Cachoeiro,0-0,Estrela do Norte
+F,28/10/01,Colo Colo-BA,3-1,Catuense
+F,28/10/01,Feirense,1-2,Juazeiro
+G,28/10/01,Atlético Sorocaba,1-4,Santo André
+G,28/10/01,Bangu,0-2,Madureira
+H,28/10/01,Mamoré,1-2,Atl. Três Corações
+H,28/10/01,Villa Nova-MG,3-1,Uberaba
+I,28/10/01,Mogi Mirim,1-0,Rio Branco-SP
+I,28/10/01,União Bandeirante,2-1,Ituano
+I,28/10/01,Volta Redonda,1-2,Friburguense
+J,28/10/01,Iraty,2-2,GE Brasil
+J,28/10/01,Passo Fundo,1-2,Tubarão FC
+1,03/11/01,Ferroviário,1-1,Treze
+2,03/11/01,Atlético Goianiense,2-1,Confiança
+2,03/11/01,Brasiliense,2-1,São Gonçalo-RN
+1,04/11/01,Guarany de Sobral,3-1,Rio Negro-RR
+3,04/11/01,Ipatinga,1-1,Juazeiro
+3,04/11/01,Madureira,1-1,Feirense
+4,04/11/01,GE Brasil,2-1,Mogi Mirim
+4,04/11/01,Uberlândia,1-1,União Bandeirante
+2,07/11/01,Confiança,2-0,Brasiliense
+3,07/11/01,Feirense,1-2,Ipatinga
+2,07/11/01,São Gonçalo-RN,1-2,Corinthians-AL
+3,07/11/01,Paulista,3-1,Madureira
+4,07/11/01,União Bandeirante,2-1,GE Brasil
+1,08/11/01,Rio Negro-RR,1-0,Ferroviário
+1,08/11/01,Ypiranga-AP,2-1,Guarany de Sobral
+4,08/11/01,Tubarão FC,2-0,Uberlândia
+2,10/11/01,Confiança,4-2,São Gonçalo-RN
+3,10/11/01,Madureira,3-1,Ipatinga
+1,11/11/01,Treze,4-0,Ypiranga-AP
+2,11/11/01,Corinthians-AL,1-0,Atlético Goianiense
+3,11/11/01,Juazeiro,0-5,Paulista
+1,11/11/01,Guarany de Sobral,3-2,Ferroviário
+4,11/11/01,GE Brasil,2-2,Uberlândia
+4,11/11/01,Mogi Mirim,4-0,Tubarão FC
+2,14/11/01,Brasiliense,4-1,Corinthians-AL
+1,14/11/01,Ferroviário,0-0,Ypiranga-AP
+2,14/11/01,São Gonçalo-RN,1-3,Atlético Goianiense
+1,15/11/01,Rio Negro-RR,1-1,Treze
+3,15/11/01,Feirense,1-3,Juazeiro
+3,15/11/01,Ipatinga,0-2,Paulista
+4,15/11/01,Uberlândia,0-0,Mogi Mirim
+4,15/11/01,União Bandeirante,2-1,Tubarão FC
+1,17/11/01,Treze,1-1,Guarany de Sobral
+2,17/11/01,Corinthians-AL,2-1,Confiança
+1,17/11/01,Ypiranga-AP,3-2,Rio Negro-RR
+2,17/11/01,Atlético Goianiense,3-0,Brasiliense
+3,17/11/01,Juazeiro,5-1,Madureira
+3,17/11/01,Paulista,3-1,Feirense
+4,17/11/01,Mogi Mirim,2-0,União Bandeirante
+4,17/11/01,Tubarão FC,3-2,GE Brasil
+Único,24/11/01,Atlético Goianiense,2-3,Paulista
+Único,25/11/01,Mogi Mirim,3-0,Guarany de Sobral
+Único,28/11/01,Guarany de Sobral,2-1,Atlético Goianiense
+Único,28/11/01,Paulista,2-1,Mogi Mirim
+Único,02/12/01,Atlético Goianiense,2-4,Mogi Mirim
+Único,02/12/01,Guarany de Sobral,1-1,Paulista
+Único,09/12/01,Mogi Mirim,1-0,Atlético Goianiense
+Único,09/12/01,Paulista,2-2,Guarany de Sobral
+Único,12/12/01,Atlético Goianiense,3-1,Guarany de Sobral
+Único,12/12/01,Mogi Mirim,1-3,Paulista
+Único,15/12/01,Guarany de Sobral,5-3,Mogi Mirim
+Único,15/12/01,Paulista,2-0,Atlético Goianiense

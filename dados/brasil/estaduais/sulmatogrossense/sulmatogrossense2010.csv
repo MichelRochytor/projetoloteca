@@ -1,0 +1,159 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,06/02/10,Corumbaense,3-3,Pantanal
+B,06/02/10,Comercial-MS,2-1,CENE
+A,06/02/10,7 de Setembro-MS,4-1,URSO Mundo Novo
+A,07/02/10,Itaporã,2-1,Águia Negra
+B,07/02/10,SERC,1-0,Costa Rica EC
+B,07/02/10,MS Saad,1-1,Rio Verde
+B,07/02/10,Misto,2-2,Aquidauanense
+A,10/02/10,URSO Mundo Novo,2-1,Itaporã
+A,10/02/10,Águia Negra,2-1,7 de Setembro-MS
+B,10/02/10,Rio Verde,1-3,SERC
+B,10/02/10,Aquidauanense,0-0,Comercial-MS
+A,11/02/10,Guaicurus,1-2,Corumbaense
+B,11/02/10,MS Saad,3-2,Misto
+A,13/02/10,Itaporã,2-0,7 de Setembro-MS
+A,13/02/10,Naviraiense,3-0,URSO Mundo Novo
+A,13/02/10,Pantanal,1-2,Guaicurus
+A,13/02/10,Corumbaense,1-0,Ivinhema
+B,13/02/10,SERC,2-1,Misto
+B,13/02/10,União-MS,1-1,Aquidauanense
+B,13/02/10,MS Saad,3-3,Comercial-MS
+B,13/02/10,Costa Rica EC,0-2,Rio Verde
+A,16/02/10,Pantanal,0-0,Ivinhema
+A,17/02/10,Naviraiense,1-0,Itaporã
+B,20/02/10,Comercial-MS,3-0,SERC
+B,20/02/10,Aquidauanense,1-2,CENE
+B,20/02/10,União-MS,1-2,MS Saad
+A,21/02/10,Ivinhema,4-1,Guaicurus
+A,21/02/10,7 de Setembro-MS,0-0,Pantanal
+A,21/02/10,URSO Mundo Novo,2-3,Corumbaense
+B,21/02/10,Misto,2-2,Costa Rica EC
+A,24/02/10,URSO Mundo Novo,0-0,Pantanal
+A,24/02/10,7 de Setembro-MS,3-6,Corumbaense
+B,24/02/10,Rio Verde,3-2,Misto
+B,24/02/10,Costa Rica EC,0-0,Comercial-MS
+A,25/02/10,Guaicurus,0-1,Águia Negra
+B,25/02/10,CENE,2-1,MS Saad
+B,27/02/10,Comercial-MS,0-0,Rio Verde
+B,27/02/10,União-MS,1-2,Costa Rica EC
+A,28/02/10,Pantanal,3-2,Itaporã
+A,28/02/10,Ivinhema,4-1,7 de Setembro-MS
+A,28/02/10,Naviraiense,3-1,Guaicurus
+B,28/02/10,MS Saad,3-1,Aquidauanense
+A,28/02/10,Águia Negra,4-1,URSO Mundo Novo
+B,28/02/10,CENE,1-1,SERC
+A,03/03/10,Ivinhema,1-1,Naviraiense
+B,04/03/10,CENE,3-1,União-MS
+B,06/03/10,Aquidauanense,2-1,SERC
+A,06/03/10,Corumbaense,0-2,Águia Negra
+B,07/03/10,Misto,3-4,Comercial-MS
+A,07/03/10,Pantanal,1-2,Naviraiense
+A,07/03/10,URSO Mundo Novo,1-2,Ivinhema
+B,07/03/10,Costa Rica EC,0-3,CENE
+B,07/03/10,Rio Verde,1-0,União-MS
+A,07/03/10,Itaporã,2-0,Guaicurus
+A,10/03/10,Pantanal,1-5,Águia Negra
+B,10/03/10,SERC,2-0,MS Saad
+B,10/03/10,União-MS,2-4,Misto
+B,10/03/10,CENE,1-1,Rio Verde
+B,10/03/10,Aquidauanense,1-1,Costa Rica EC
+A,11/03/10,Guaicurus,0-1,7 de Setembro-MS
+B,13/03/10,Comercial-MS,8-0,União-MS
+B,13/03/10,CENE,3-0,Misto
+A,13/03/10,Itaporã,2-0,Corumbaense
+B,14/03/10,Rio Verde,1-1,Aquidauanense
+A,14/03/10,Naviraiense,2-2,7 de Setembro-MS
+A,14/03/10,Guaicurus,0-3,URSO Mundo Novo
+B,14/03/10,Costa Rica EC,5-2,MS Saad
+A,14/03/10,Águia Negra,3-0,Ivinhema
+B,17/03/10,União-MS,1-0,SERC
+A,17/03/10,Águia Negra,2-2,Naviraiense
+A,17/03/10,Ivinhema,0-1,Itaporã
+B,20/03/10,CENE,3-0,Comercial-MS
+A,20/03/10,Corumbaense,0-3,Naviraiense
+B,20/03/10,Aquidauanense,3-0,Misto
+B,21/03/10,Rio Verde,0-1,MS Saad
+A,21/03/10,URSO Mundo Novo,1-1,7 de Setembro-MS
+B,21/03/10,Costa Rica EC,0-2,SERC
+A,21/03/10,Águia Negra,1-1,Itaporã
+B,23/03/10,União-MS,0-3,CENE
+B,24/03/10,SERC,3-0,Rio Verde
+B,24/03/10,Comercial-MS,1-0,Aquidauanense
+B,24/03/10,Misto,2-1,MS Saad
+A,24/03/10,Itaporã,5-1,URSO Mundo Novo
+A,24/03/10,Corumbaense,3-0,Guaicurus
+A,24/03/10,Ivinhema,1-0,Pantanal
+A,25/03/10,7 de Setembro-MS,1-4,Águia Negra
+B,27/03/10,Comercial-MS,2-0,MS Saad
+B,27/03/10,Aquidauanense,6-1,União-MS
+B,28/03/10,Rio Verde,1-3,Costa Rica EC
+B,28/03/10,Misto,1-2,SERC
+A,28/03/10,Ivinhema,2-1,Corumbaense
+A,28/03/10,7 de Setembro-MS,3-1,Itaporã
+A,28/03/10,URSO Mundo Novo,0-1,Naviraiense
+A,28/03/10,Guaicurus,0-0,Pantanal
+B,31/03/10,SERC,1-0,Comercial-MS
+B,31/03/10,MS Saad,0-1,União-MS
+B,31/03/10,Costa Rica EC,1-1,Misto
+A,31/03/10,Pantanal,1-1,7 de Setembro-MS
+A,31/03/10,Naviraiense,2-0,Águia Negra
+A,31/03/10,Guaicurus,1-0,Ivinhema
+A,31/03/10,Corumbaense,6-2,URSO Mundo Novo
+B,01/04/10,CENE,4-1,Aquidauanense
+A,03/04/10,Corumbaense,2-0,7 de Setembro-MS
+B,03/04/10,Comercial-MS,1-2,Costa Rica EC
+A,04/04/10,Pantanal,4-2,URSO Mundo Novo
+A,04/04/10,Itaporã,1-1,Naviraiense
+A,04/04/10,Águia Negra,5-0,Guaicurus
+B,04/04/10,Misto,2-3,Rio Verde
+B,04/04/10,MS Saad,1-2,CENE
+B,04/04/10,SERC,1-1,União-MS
+A,07/04/10,URSO Mundo Novo,0-0,Águia Negra
+A,07/04/10,Itaporã,4-0,Pantanal
+A,07/04/10,Guaicurus,0-2,Naviraiense
+A,07/04/10,7 de Setembro-MS,1-0,Ivinhema
+B,07/04/10,Rio Verde,3-1,Comercial-MS
+B,07/04/10,SERC,2-1,CENE
+B,07/04/10,Costa Rica EC,4-3,União-MS
+B,07/04/10,Aquidauanense,2-3,MS Saad
+A,10/04/10,Guaicurus,0-2,Itaporã
+B,10/04/10,Comercial-MS,3-1,Misto
+A,11/04/10,Naviraiense,4-0,Pantanal
+A,11/04/10,Ivinhema,3-0,URSO Mundo Novo
+A,11/04/10,Águia Negra,3-0,Corumbaense
+B,11/04/10,SERC,5-0,Aquidauanense
+B,11/04/10,CENE,1-3,Costa Rica EC
+B,11/04/10,União-MS,0-1,Rio Verde
+A,14/04/10,Naviraiense,3-3,Corumbaense
+B,14/04/10,MS Saad,2-1,SERC
+B,14/04/10,Rio Verde,1-0,CENE
+A,14/04/10,Itaporã,1-1,Ivinhema
+A,14/04/10,Águia Negra,5-0,Pantanal
+B,14/04/10,Misto,2-1,União-MS
+B,14/04/10,Costa Rica EC,2-0,Aquidauanense
+A,15/04/10,7 de Setembro-MS,2-2,Guaicurus
+A,17/04/10,Pantanal,1-5,Corumbaense
+A,18/04/10,Naviraiense,2-1,Ivinhema
+B,18/04/10,Aquidauanense,2-2,Rio Verde
+B,18/04/10,Misto,1-4,CENE
+B,18/04/10,União-MS,0-3,Comercial-MS
+B,18/04/10,MS Saad,1-0,Costa Rica EC
+A,21/04/10,Corumbaense,3-1,Itaporã
+A,21/04/10,Ivinhema,1-1,Águia Negra
+A,21/04/10,URSO Mundo Novo,5-2,Guaicurus
+A,21/04/10,7 de Setembro-MS,0-4,Naviraiense
+QF,01/05/10,Comercial-MS,2-1,Águia Negra
+QF,01/05/10,Corumbaense,4-2,SERC
+QF,02/05/10,Rio Verde,2-1,Naviraiense
+QF,02/05/10,Itaporã,2-1,CENE
+QF,09/05/10,Águia Negra,1-0(4-5 Pen.),Comercial-MS
+QF,09/05/10,SERC,2-0(4-1 Pen.),Corumbaense
+QF,09/05/10,CENE,1-1,Itaporã
+QF,13/05/10,Naviraiense,1-0(3-1 Pen.),Rio Verde
+SF,15/05/10,Comercial-MS,1-0,Itaporã
+SF,16/05/10,Naviraiense,4-0,SERC
+SF,23/05/10,Itaporã,0-0,Comercial-MS
+SF,23/05/10,SERC,1-0(6-7 Pen.),Naviraiense
+F,30/05/10,Naviraiense,1-2,Comercial-MS
+F,05/06/10,Comercial-MS,1-0,Naviraiense

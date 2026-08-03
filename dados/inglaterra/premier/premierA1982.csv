@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,27/08/82,Aston Villa,1-3,Sunderland
+1,27/08/82,Brighton & Hove Albion,1-1,Ipswich Town
+1,27/08/82,Coventry City,1-0,Southampton
+1,27/08/82,Liverpool,2-0,West Bromwich
+1,27/08/82,Manchester United,3-0,Birmingham City
+1,27/08/82,Norwich City,1-2,Manchester City
+1,27/08/82,Notts County,0-0,Swansea City
+1,27/08/82,Stoke City,2-1,Arsenal
+1,27/08/82,Tottenham,2-2,Luton Town
+1,27/08/82,Watford,2-0,Everton
+1,27/08/82,West Ham,1-2,Nottingham Forest
+2,30/08/82,Arsenal,1-1,Norwich City
+2,30/08/82,Birmingham City,0-0,Liverpool
+2,30/08/82,Everton,5-0,Aston Villa
+2,30/08/82,Ipswich Town,1-2,Tottenham
+2,30/08/82,Luton Town,0-2,West Ham
+2,30/08/82,Southampton,1-4,Watford
+2,30/08/82,Swansea City,2-1,Coventry City
+2,31/08/82,Manchester City,1-0,Stoke City
+2,31/08/82,Nottingham Forest,0-3,Manchester United
+2,31/08/82,Sunderland,1-1,Notts County
+2,31/08/82,West Bromwich,5-0,Brighton & Hove Albion
+3,03/09/82,Arsenal,0-2,Liverpool
+3,03/09/82,Birmingham City,1-4,Stoke City
+3,03/09/82,Everton,3-1,Tottenham
+3,03/09/82,Ipswich Town,1-1,Coventry City
+3,03/09/82,Luton Town,5-3,Notts County
+3,03/09/82,Manchester City,1-0,Watford
+3,03/09/82,Nottingham Forest,4-0,Brighton & Hove Albion
+3,03/09/82,Southampton,1-0,Aston Villa
+3,03/09/82,Sunderland,1-0,West Ham
+3,03/09/82,Swansea City,4-0,Norwich City
+3,03/09/82,West Bromwich,3-1,Manchester United
+4,06/09/82,Brighton & Hove Albion,1-0,Arsenal
+4,06/09/82,Coventry City,1-0,Sunderland
+4,06/09/82,Liverpool,4-3,Nottingham Forest
+4,06/09/82,Notts County,1-0,Manchester City
+4,06/09/82,Watford,2-1,Swansea City
+4,06/09/82,West Ham,1-1,Ipswich Town
+4,07/09/82,Aston Villa,4-1,Luton Town
+4,07/09/82,Manchester United,2-1,Everton
+4,07/09/82,Norwich City,5-1,Birmingham City
+4,07/09/82,Stoke City,0-3,West Bromwich
+4,07/09/82,Tottenham,6-0,Southampton
+5,10/09/82,Aston Villa,4-1,Nottingham Forest
+5,10/09/82,Brighton & Hove Albion,3-2,Sunderland
+5,10/09/82,Coventry City,0-2,Arsenal
+5,10/09/82,Liverpool,3-3,Luton Town
+5,10/09/82,Manchester United,3-1,Ipswich Town
+5,10/09/82,Norwich City,1-1,Southampton
+5,10/09/82,Notts County,1-0,Everton
+5,10/09/82,Stoke City,4-1,Swansea City
+5,10/09/82,Tottenham,1-2,Manchester City
+5,10/09/82,Watford,3-0,West Bromwich
+5,10/09/82,West Ham,5-0,Birmingham City
+6,17/09/82,Arsenal,2-0,Notts County
+6,17/09/82,Birmingham City,1-0,Coventry City
+6,17/09/82,Everton,1-1,Norwich City
+6,17/09/82,Ipswich Town,2-3,Stoke City
+6,17/09/82,Luton Town,5-0,Brighton & Hove Albion
+6,17/09/82,Manchester City,0-1,Aston Villa
+6,17/09/82,Nottingham Forest,2-0,Watford
+6,17/09/82,Southampton,0-1,Manchester United
+6,17/09/82,Sunderland,0-1,Tottenham
+6,17/09/82,Swansea City,0-3,Liverpool
+6,17/09/82,West Bromwich,1-2,West Ham
+7,24/09/82,Aston Villa,2-0,Swansea City
+7,24/09/82,Brighton & Hove Albion,1-0,Birmingham City
+7,24/09/82,Coventry City,4-2,Everton
+7,24/09/82,Liverpool,5-0,Southampton
+7,24/09/82,Manchester United,0-0,Arsenal
+7,24/09/82,Norwich City,1-3,West Bromwich
+7,24/09/82,Notts County,0-6,Ipswich Town
+7,24/09/82,Stoke City,4-4,Luton Town
+7,24/09/82,Tottenham,4-1,Nottingham Forest
+7,24/09/82,Watford,8-0,Sunderland
+7,24/09/82,West Ham,4-1,Manchester City
+8,01/10/82,Arsenal,2-3,West Ham
+8,01/10/82,Birmingham City,1-1,Watford
+8,01/10/82,Everton,2-2,Brighton & Hove Albion
+8,01/10/82,Ipswich Town,1-0,Liverpool
+8,01/10/82,Luton Town,1-1,Manchester United
+8,01/10/82,Manchester City,3-2,Coventry City
+8,01/10/82,Nottingham Forest,1-0,Stoke City
+8,01/10/82,Southampton,1-0,Notts County
+8,01/10/82,Sunderland,4-1,Norwich City
+8,01/10/82,Swansea City,2-0,Tottenham
+8,01/10/82,West Bromwich,1-0,Aston Villa
+9,08/10/82,Birmingham City,2-3,Luton Town
+9,08/10/82,Brighton & Hove Albion,1-1,Swansea City
+9,08/10/82,Everton,2-1,Manchester City
+9,08/10/82,Ipswich Town,0-1,Arsenal
+9,08/10/82,Manchester United,1-0,Stoke City
+9,08/10/82,Notts County,4-1,Aston Villa
+9,08/10/82,Sunderland,1-1,Southampton
+9,08/10/82,Tottenham,4-0,Coventry City
+9,08/10/82,Watford,2-2,Norwich City
+9,08/10/82,West Bromwich,2-1,Nottingham Forest
+9,08/10/82,West Ham,3-1,Liverpool
+10,15/10/82,Arsenal,2-0,West Bromwich
+10,15/10/82,Aston Villa,3-0,Watford
+10,15/10/82,Coventry City,1-0,Notts County
+10,15/10/82,Liverpool,0-0,Manchester United
+10,15/10/82,Luton Town,1-1,Ipswich Town
+10,15/10/82,Manchester City,2-2,Sunderland
+10,15/10/82,Norwich City,0-0,Tottenham
+10,15/10/82,Nottingham Forest,1-1,Birmingham City
+10,15/10/82,Southampton,3-0,West Ham
+10,15/10/82,Stoke City,3-0,Brighton & Hove Albion
+10,15/10/82,Swansea City,0-3,Everton
+11,22/10/82,Birmingham City,0-0,Ipswich Town
+11,22/10/82,Brighton & Hove Albion,3-1,West Ham
+11,22/10/82,Everton,3-1,Sunderland
+11,22/10/82,Manchester United,2-2,Manchester City
+11,22/10/82,Norwich City,1-0,Aston Villa
+11,22/10/82,Nottingham Forest,3-0,Arsenal
+11,22/10/82,Stoke City,1-1,Liverpool
+11,22/10/82,Swansea City,3-2,Southampton
+11,22/10/82,Tottenham,4-2,Notts County
+11,22/10/82,Watford,0-0,Coventry City
+11,22/10/82,West Bromwich,1-0,Luton Town
+12,29/10/82,Arsenal,0-0,Birmingham City
+12,29/10/82,Aston Villa,4-0,Tottenham
+12,29/10/82,Coventry City,2-0,Norwich City
+12,29/10/82,Ipswich Town,6-1,West Bromwich
+12,29/10/82,Liverpool,3-1,Brighton & Hove Albion
+12,29/10/82,Luton Town,0-2,Nottingham Forest
+12,29/10/82,Manchester City,2-1,Swansea City
+12,29/10/82,Notts County,3-2,Watford
+12,29/10/82,Southampton,3-2,Everton
+12,29/10/82,Sunderland,2-2,Stoke City
+12,29/10/82,West Ham,3-1,Manchester United
+13,05/11/82,Birmingham City,2-1,West Bromwich
+13,05/11/82,Brighton & Hove Albion,1-0,Manchester United
+13,05/11/82,Coventry City,0-0,Aston Villa
+13,05/11/82,Everton,0-5,Liverpool
+13,05/11/82,Luton Town,2-2,Arsenal
+13,05/11/82,Manchester City,2-0,Southampton
+13,05/11/82,Norwich City,1-2,Notts County
+13,05/11/82,Nottingham Forest,2-1,Ipswich Town
+13,05/11/82,Stoke City,5-2,West Ham
+13,05/11/82,Swansea City,3-0,Sunderland
+13,05/11/82,Tottenham,0-1,Watford
+14,12/11/82,Arsenal,1-1,Everton
+14,12/11/82,Aston Villa,1-0,Brighton & Hove Albion
+14,12/11/82,Ipswich Town,1-0,Manchester City
+14,12/11/82,Liverpool,4-0,Coventry City
+14,12/11/82,Manchester United,1-0,Tottenham
+14,12/11/82,Notts County,0-0,Birmingham City
+14,12/11/82,Southampton,1-1,Nottingham Forest
+14,12/11/82,Sunderland,1-1,Luton Town
+14,12/11/82,Watford,1-0,Stoke City
+14,12/11/82,West Bromwich,3-3,Swansea City
+14,12/11/82,West Ham,1-0,Norwich City
+15,19/11/82,Aston Villa,2-1,Manchester United
+15,19/11/82,Coventry City,4-2,Luton Town
+15,19/11/82,Everton,0-0,West Bromwich
+15,19/11/82,Manchester City,0-0,Birmingham City
+15,19/11/82,Norwich City,4-2,Stoke City
+15,19/11/82,Notts County,1-2,Liverpool
+15,19/11/82,Southampton,0-1,Ipswich Town
+15,19/11/82,Sunderland,0-1,Nottingham Forest
+15,19/11/82,Swansea City,1-2,Arsenal
+15,19/11/82,Tottenham,2-1,West Ham
+15,19/11/82,Watford,4-1,Brighton & Hove Albion
+16,22/11/82,Coventry City,1-1,Ipswich Town
+16,26/11/82,Arsenal,2-4,Watford
+16,26/11/82,Birmingham City,2-1,Sunderland
+16,26/11/82,Brighton & Hove Albion,0-2,Notts County
+16,26/11/82,Liverpool,3-0,Tottenham
+16,26/11/82,Luton Town,3-3,Southampton
+16,26/11/82,Manchester United,3-0,Norwich City
+16,26/11/82,Nottingham Forest,3-0,Manchester City
+16,26/11/82,Stoke City,0-3,Aston Villa
+16,26/11/82,West Ham,2-0,Everton
+17,26/11/82,Ipswich Town,3-1,Swansea City
+17,26/11/82,West Bromwich,2-0,Coventry City
+17,03/12/82,Aston Villa,1-0,West Ham
+17,03/12/82,Coventry City,2-0,Brighton & Hove Albion
+17,03/12/82,Everton,0-0,Birmingham City
+17,03/12/82,Manchester City,2-1,Arsenal
+17,03/12/82,Norwich City,1-0,Liverpool
+17,03/12/82,Notts County,3-2,Nottingham Forest
+17,03/12/82,Southampton,1-0,Stoke City
+17,03/12/82,Swansea City,2-0,Luton Town
+17,03/12/82,Tottenham,1-1,West Bromwich
+17,03/12/82,Watford,0-1,Manchester United
+18,03/12/82,Sunderland,2-3,Ipswich Town
+18,06/12/82,Arsenal,2-1,Aston Villa
+18,10/12/82,Birmingham City,0-2,Southampton
+18,10/12/82,Brighton & Hove Albion,3-0,Norwich City
+18,10/12/82,Ipswich Town,0-2,Everton
+18,10/12/82,Liverpool,3-1,Watford
+18,10/12/82,Luton Town,3-1,Manchester City
+18,10/12/82,Manchester United,4-0,Notts County
+18,10/12/82,Nottingham Forest,2-1,Swansea City
+18,10/12/82,Stoke City,2-0,Tottenham
+18,10/12/82,West Bromwich,3-0,Sunderland
+19,10/12/82,West Ham,0-3,Coventry City
+19,17/12/82,Aston Villa,2-4,Liverpool
+19,17/12/82,Everton,5-0,Luton Town
+19,17/12/82,Manchester City,1-1,Brighton & Hove Albion
+19,17/12/82,Norwich City,0-1,Nottingham Forest
+19,17/12/82,Notts County,1-2,West Ham
+19,17/12/82,Southampton,4-1,West Bromwich
+19,17/12/82,Sunderland,3-0,Arsenal
+19,17/12/82,Swansea City,0-0,Manchester United
+19,17/12/82,Tottenham,2-1,Birmingham City
+19,17/12/82,Watford,2-1,Ipswich Town
+20,17/12/82,Coventry City,2-0,Stoke City
+20,26/12/82,Arsenal,2-0,Tottenham
+20,26/12/82,Birmingham City,3-0,Aston Villa
+20,26/12/82,Brighton & Hove Albion,0-1,Southampton
+20,26/12/82,Ipswich Town,2-3,Norwich City
+20,26/12/82,Liverpool,5-2,Manchester City
+20,26/12/82,Luton Town,1-0,Watford
+20,26/12/82,Manchester United,0-0,Sunderland
+20,26/12/82,Stoke City,1-0,Everton
+20,26/12/82,West Bromwich,2-2,Notts County
+20,26/12/82,West Ham,3-2,Swansea City
+21,26/12/82,Nottingham Forest,4-2,Coventry City
+21,27/12/82,Everton,3-1,Nottingham Forest
+21,27/12/82,Manchester City,2-1,West Bromwich
+21,27/12/82,Norwich City,1-0,Luton Town
+21,27/12/82,Notts County,4-0,Stoke City
+21,27/12/82,Southampton,2-2,Arsenal
+21,27/12/82,Sunderland,0-0,Liverpool
+21,27/12/82,Tottenham,2-0,Brighton & Hove Albion
+22,27/12/82,Coventry City,3-0,Manchester United
+21,28/12/82,Aston Villa,1-1,Ipswich Town
+21,28/12/82,Swansea City,0-0,Birmingham City
+21,28/12/82,Watford,2-1,West Ham
+22,31/12/82,Arsenal,2-1,Swansea City
+22,31/12/82,Birmingham City,2-2,Manchester City
+22,31/12/82,Brighton & Hove Albion,1-1,Watford
+22,31/12/82,Liverpool,5-1,Notts County
+22,31/12/82,Manchester United,3-1,Aston Villa
+22,31/12/82,Nottingham Forest,0-0,Sunderland
+22,31/12/82,Stoke City,1-0,Norwich City
+22,31/12/82,West Bromwich,2-2,Everton
+22,31/12/82,West Ham,3-0,Tottenham
+23,31/12/82,Ipswich Town,2-1,Southampton
+23,31/12/82,Luton Town,1-2,Coventry City
+23,02/01/83,Aston Villa,2-0,Southampton
+23,02/01/83,Brighton & Hove Albion,1-1,Nottingham Forest
+23,02/01/83,Liverpool,3-1,Arsenal
+23,02/01/83,Manchester United,0-0,West Bromwich
+23,02/01/83,Norwich City,1-0,Swansea City
+23,02/01/83,Notts County,0-1,Sunderland
+23,02/01/83,Stoke City,1-1,Birmingham City
+23,02/01/83,Tottenham,2-1,Everton
+23,02/01/83,Watford,2-0,Manchester City
+23,03/01/83,West Ham,2-3,Luton Town
+24,14/01/83,Arsenal,3-0,Stoke City
+24,14/01/83,Birmingham City,1-2,Manchester United
+24,14/01/83,Everton,1-0,Watford
+24,14/01/83,Ipswich Town,2-0,Brighton & Hove Albion
+24,14/01/83,Luton Town,1-1,Tottenham
+24,14/01/83,Manchester City,4-1,Norwich City
+24,14/01/83,Nottingham Forest,1-0,West Ham
+24,14/01/83,Southampton,1-1,Coventry City
+24,14/01/83,Sunderland,2-0,Aston Villa
+24,14/01/83,Swansea City,2-0,Notts County
+24,14/01/83,West Bromwich,0-1,Liverpool
+25,21/01/83,Aston Villa,1-1,Manchester City
+25,21/01/83,Brighton & Hove Albion,2-4,Luton Town
+25,21/01/83,Coventry City,0-0,Swansea City
+25,21/01/83,Liverpool,1-0,Birmingham City
+25,21/01/83,Manchester United,2-0,Nottingham Forest
+25,21/01/83,Norwich City,0-1,Everton
+25,21/01/83,Notts County,1-0,Arsenal
+25,21/01/83,Stoke City,1-0,Ipswich Town
+25,21/01/83,Tottenham,1-1,Sunderland
+25,21/01/83,Watford,2-0,Southampton
+25,21/01/83,West Ham,0-1,West Bromwich
+26,04/02/83,Arsenal,3-1,Brighton & Hove Albion
+26,04/02/83,Birmingham City,3-0,West Ham
+26,04/02/83,Everton,3-0,Notts County
+26,04/02/83,Ipswich Town,1-1,Manchester United
+26,04/02/83,Luton Town,1-3,Liverpool
+26,04/02/83,Manchester City,2-2,Tottenham
+26,04/02/83,Nottingham Forest,1-2,Aston Villa
+26,04/02/83,Southampton,4-0,Norwich City
+26,04/02/83,Sunderland,2-1,Coventry City
+26,04/02/83,West Bromwich,1-1,Stoke City
+26,05/02/83,Swansea City,1-3,Watford
+27,11/02/83,Aston Villa,2-0,Everton
+27,11/02/83,Brighton & Hove Albion,0-0,West Bromwich
+27,11/02/83,Coventry City,4-0,Manchester City
+27,11/02/83,Liverpool,1-0,Ipswich Town
+27,11/02/83,Tottenham,1-0,Swansea City
+27,14/02/83,Notts County,1-2,Southampton
+27,18/02/83,Nottingham Forest,0-0,West Bromwich
+28,18/02/83,Manchester City,0-1,Notts County
+28,18/02/83,Southampton,2-0,Sunderland
+27,25/02/83,Birmingham City,1-1,Nottingham Forest
+27,25/02/83,Tottenham,0-0,Norwich City
+27,25/02/83,West Bromwich,0-0,Arsenal
+27,25/02/83,West Ham,1-1,Southampton
+28,25/02/83,Brighton & Hove Albion,1-2,Stoke City

@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,01/09/10,Woolwich Arsenal,1-2,Manchester United
+1,01/09/10,Blackburn Rovers,1-1,Notts County
+1,01/09/10,Everton,2-0,Tottenham
+1,01/09/10,Manchester City,5-1,Bury
+1,01/09/10,Preston North End,0-2,Nottingham Forest
+1,01/09/10,Sunderland,2-1,Newcastle
+1,03/09/10,Aston Villa,1-1,Oldham Athletic
+1,03/09/10,Liverpool,1-2,Bradford City
+2,03/09/10,Bury,1-1,Woolwich Arsenal
+2,03/09/10,Manchester United,3-2,Blackburn Rovers
+2,03/09/10,Middlesbrough,1-0,Everton
+2,03/09/10,Newcastle,0-1,Bristol City
+2,03/09/10,Notts County,1-1,Nottingham Forest
+2,03/09/10,Preston North End,1-1,Manchester City
+2,03/09/10,Sheffield United,1-2,Sunderland
+2,03/09/10,Tottenham,3-1,The Wednesday
+2,10/09/10,The Wednesday,1-1,Middlesbrough
+3,10/09/10,Woolwich Arsenal,0-0,Sheffield United
+3,10/09/10,Blackburn Rovers,1-2,Liverpool
+3,10/09/10,Bradford City,2-2,Bury
+3,10/09/10,Bristol City,0-2,Tottenham
+3,10/09/10,Everton,2-0,Preston North End
+3,10/09/10,Manchester City,0-1,Notts County
+3,10/09/10,Nottingham Forest,2-1,Manchester United
+3,10/09/10,Oldham Athletic,0-2,Newcastle
+3,10/09/10,Sunderland,3-2,Aston Villa
+3,17/09/10,Liverpool,2-3,Nottingham Forest
+3,17/09/10,Middlesbrough,3-0,Bristol City
+3,17/09/10,Sheffield United,0-1,Bradford City
+4,17/09/10,Aston Villa,3-0,Woolwich Arsenal
+4,17/09/10,Bury,2-2,Blackburn Rovers
+4,17/09/10,Manchester United,2-1,Manchester City
+4,17/09/10,Notts County,0-0,Everton
+4,17/09/10,Preston North End,1-3,The Wednesday
+4,17/09/10,Sunderland,2-1,Oldham Athletic
+4,17/09/10,Tottenham,1-2,Newcastle
+4,19/09/10,Sheffield United,2-0,Liverpool
+4,24/09/10,Bradford City,1-2,Aston Villa
+4,24/09/10,Newcastle,0-0,Middlesbrough
+5,24/09/10,Woolwich Arsenal,0-0,Sunderland
+5,24/09/10,Blackburn Rovers,1-2,Sheffield United
+5,24/09/10,Bristol City,0-0,Preston North End
+5,24/09/10,Everton,0-1,Manchester United
+5,24/09/10,Manchester City,1-2,Liverpool
+5,24/09/10,Nottingham Forest,1-2,Bury
+5,24/09/10,Oldham Athletic,2-0,Tottenham
+5,24/09/10,The Wednesday,1-3,Notts County
+5,01/10/10,Middlesbrough,2-0,Tottenham
+6,01/10/10,Woolwich Arsenal,0-0,Oldham Athletic
+6,01/10/10,Aston Villa,2-2,Blackburn Rovers
+6,01/10/10,Bury,5-2,Manchester City
+6,01/10/10,Liverpool,0-2,Everton
+6,01/10/10,Manchester United,3-2,The Wednesday
+6,01/10/10,Notts County,2-0,Bristol City
+6,01/10/10,Preston North End,2-1,Newcastle
+6,01/10/10,Sheffield United,0-1,Nottingham Forest
+6,01/10/10,Sunderland,1-1,Bradford City
+7,06/10/10,Nottingham Forest,1-3,Preston North End
+6,08/10/10,Nottingham Forest,3-1,Aston Villa
+6,08/10/10,Oldham Athletic,1-1,Middlesbrough
+7,08/10/10,Blackburn Rovers,0-1,Sunderland
+7,08/10/10,Bradford City,3-0,Woolwich Arsenal
+7,08/10/10,Bristol City,0-1,Manchester United
+7,08/10/10,Everton,2-1,Bury
+7,08/10/10,Manchester City,0-4,Sheffield United
+7,08/10/10,Newcastle,2-0,Notts County
+7,08/10/10,The Wednesday,1-0,Liverpool
+8,08/10/10,Tottenham,1-1,Preston North End
+7,15/10/10,Bradford City,1-2,Oldham Athletic
+8,15/10/10,Woolwich Arsenal,4-1,Blackburn Rovers
+8,15/10/10,Aston Villa,2-1,Manchester City
+8,15/10/10,Bury,1-1,The Wednesday
+8,15/10/10,Liverpool,4-0,Bristol City
+8,15/10/10,Manchester United,2-0,Newcastle
+8,15/10/10,Notts County,1-0,Tottenham
+8,15/10/10,Sheffield United,0-1,Everton
+8,15/10/10,Sunderland,2-2,Nottingham Forest
+9,15/10/10,Preston North End,1-1,Middlesbrough
+8,22/10/10,Middlesbrough,4-1,Notts County
+9,22/10/10,Blackburn Rovers,3-0,Bradford City
+9,22/10/10,Bristol City,2-0,Bury
+9,22/10/10,Everton,0-1,Aston Villa
+9,22/10/10,Manchester City,3-3,Sunderland
+9,22/10/10,Newcastle,6-1,Liverpool
+9,22/10/10,Nottingham Forest,2-3,Woolwich Arsenal
+9,22/10/10,The Wednesday,2-0,Sheffield United
+9,22/10/10,Tottenham,2-2,Manchester United
+10,22/10/10,Oldham Athletic,2-1,Preston North End
+9,29/10/10,Aston Villa,2-1,The Wednesday
+9,29/10/10,Bradford City,2-1,Nottingham Forest
+10,29/10/10,Woolwich Arsenal,0-1,Manchester City
+10,29/10/10,Blackburn Rovers,1-0,Oldham Athletic
+10,29/10/10,Bury,1-1,Newcastle
+10,29/10/10,Liverpool,1-2,Tottenham
+10,29/10/10,Manchester United,1-2,Middlesbrough
+10,29/10/10,Sheffield United,0-4,Bristol City
+10,29/10/10,Sunderland,4-0,Everton
+11,29/10/10,Notts County,3-3,Preston North End
+10,05/11/10,Bristol City,1-2,Aston Villa
+11,05/11/10,Everton,2-0,Woolwich Arsenal
+11,05/11/10,Manchester City,1-3,Bradford City
+11,05/11/10,Middlesbrough,2-2,Liverpool
+11,05/11/10,Newcastle,1-1,Sheffield United
+11,05/11/10,Nottingham Forest,5-2,Blackburn Rovers
+11,05/11/10,Oldham Athletic,2-1,Notts County
+11,05/11/10,The Wednesday,1-1,Sunderland
+11,05/11/10,Tottenham,5-0,Bury
+12,05/11/10,Preston North End,0-2,Manchester United
+11,12/11/10,Aston Villa,3-2,Newcastle
+12,12/11/10,Woolwich Arsenal,1-0,The Wednesday
+12,12/11/10,Blackburn Rovers,2-0,Manchester City
+12,12/11/10,Bradford City,3-1,Everton
+12,12/11/10,Bury,4-2,Middlesbrough
+12,12/11/10,Manchester United,0-0,Notts County
+12,12/11/10,Sheffield United,3-0,Tottenham
+12,12/11/10,Sunderland,3-1,Bristol City
+13,12/11/10,Liverpool,3-0,Preston North End
+13,12/11/10,Nottingham Forest,4-1,Oldham Athletic
+12,19/11/10,Middlesbrough,3-1,Sheffield United
+12,19/11/10,The Wednesday,0-1,Bradford City
+12,19/11/10,Tottenham,1-2,Aston Villa
+13,19/11/10,Bristol City,0-1,Woolwich Arsenal
+13,19/11/10,Everton,6-1,Blackburn Rovers
+13,19/11/10,Manchester City,1-0,Nottingham Forest
+13,19/11/10,Newcastle,1-1,Sunderland
+13,19/11/10,Notts County,1-0,Liverpool
+13,19/11/10,Oldham Athletic,1-3,Manchester United
+14,19/11/10,Preston North End,2-0,Bury
+13,26/11/10,Aston Villa,5-0,Middlesbrough
+13,26/11/10,Bradford City,3-1,Bristol City
+14,26/11/10,Woolwich Arsenal,1-2,Newcastle
+14,26/11/10,Blackburn Rovers,6-1,The Wednesday
+14,26/11/10,Bury,0-0,Notts County
+14,26/11/10,Liverpool,3-2,Manchester United
+14,26/11/10,Manchester City,2-0,Oldham Athletic
+14,26/11/10,Nottingham Forest,1-1,Everton
+14,26/11/10,Sunderland,4-0,Tottenham
+15,26/11/10,Sheffield United,5-0,Preston North End
+15,03/12/10,Bristol City,1-0,Blackburn Rovers
+15,03/12/10,Everton,1-0,Manchester City
+15,03/12/10,Manchester United,3-2,Bury
+15,03/12/10,Middlesbrough,1-0,Sunderland
+15,03/12/10,Newcastle,6-1,Bradford City
+15,03/12/10,Notts County,0-3,Sheffield United
+15,03/12/10,Oldham Athletic,3-1,Liverpool
+15,03/12/10,Tottenham,3-1,Woolwich Arsenal
+16,03/12/10,Preston North End,0-1,Aston Villa
+16,03/12/10,The Wednesday,5-2,Nottingham Forest
+15,10/12/10,Aston Villa,3-1,Notts County
+15,10/12/10,Nottingham Forest,3-3,Bristol City
+16,10/12/10,Woolwich Arsenal,0-2,Middlesbrough
+16,10/12/10,Blackburn Rovers,3-1,Newcastle
+16,10/12/10,Bradford City,3-0,Tottenham
+16,10/12/10,Bury,3-0,Liverpool
+16,10/12/10,Everton,1-0,Oldham Athletic
+16,10/12/10,Manchester City,1-2,The Wednesday
+16,10/12/10,Sheffield United,2-0,Manchester United
+17,10/12/10,Sunderland,1-1,Preston North End
+16,17/12/10,Manchester United,2-0,Aston Villa
+16,17/12/10,Middlesbrough,3-2,Bradford City
+17,17/12/10,Bristol City,2-1,Manchester City
+17,17/12/10,Bury,2-2,Oldham Athletic
+17,17/12/10,Liverpool,2-0,Sheffield United
+17,17/12/10,Newcastle,4-1,Nottingham Forest
+17,17/12/10,Notts County,1-1,Sunderland
+17,17/12/10,Preston North End,4-1,Woolwich Arsenal
+17,17/12/10,The Wednesday,0-2,Everton
+17,17/12/10,Tottenham,2-2,Blackburn Rovers
+17,24/12/10,Aston Villa,1-1,Liverpool
+17,24/12/10,Oldham Athletic,1-0,The Wednesday
+18,24/12/10,Woolwich Arsenal,2-1,Notts County
+18,24/12/10,Blackburn Rovers,5-1,Middlesbrough
+18,24/12/10,Everton,4-3,Bristol City
+18,24/12/10,Manchester City,2-0,Newcastle
+18,24/12/10,Nottingham Forest,1-2,Tottenham
+18,24/12/10,Sheffield United,3-0,Bury
+18,24/12/10,Sunderland,1-2,Manchester United
+19,24/12/10,Bradford City,1-0,Preston North End
+18,26/12/10,Aston Villa,4-1,Bury
+18,26/12/10,Bristol City,2-2,The Wednesday
+19,26/12/10,Liverpool,1-2,Sunderland
+19,26/12/10,Manchester United,5-0,Woolwich Arsenal
+19,26/12/10,Middlesbrough,0-0,Manchester City
+19,26/12/10,Newcastle,1-0,Everton
+19,26/12/10,Notts County,1-1,Bradford City
+19,26/12/10,Preston North End,0-0,Blackburn Rovers
+19,26/12/10,Sheffield United,1-2,Oldham Athletic
+19,26/12/10,Tottenham,1-4,Nottingham Forest
+19,27/12/10,Bristol City,3-2,Oldham Athletic
+19,27/12/10,Nottingham Forest,1-1,Middlesbrough
+20,27/12/10,Bradford City,1-0,Manchester United
+20,27/12/10,Everton,0-1,Liverpool
+20,27/12/10,The Wednesday,0-2,Newcastle
+20,27/12/10,Tottenham,1-1,Manchester City
+19,28/12/10,Sheffield United,2-1,Aston Villa
+20,31/12/10,Woolwich Arsenal,3-2,Bury
+20,31/12/10,Blackburn Rovers,1-0,Manchester United
+20,31/12/10,Nottingham Forest,0-2,Notts County
+20,31/12/10,Oldham Athletic,1-1,Aston Villa
+20,31/12/10,Sunderland,0-2,Sheffield United
+21,31/12/10,Bradford City,1-3,Liverpool
+21,31/12/10,Bristol City,1-0,Newcastle
+21,31/12/10,Everton,2-0,Middlesbrough
+21,31/12/10,Manchester City,0-2,Preston North End
+21,31/12/10,The Wednesday,2-1,Tottenham
+21,02/01/11,Blackburn Rovers,0-1,Preston North End
+21,02/01/11,Bury,1-0,Aston Villa
+21,02/01/11,Middlesbrough,2-2,Nottingham Forest
+21,02/01/11,The Wednesday,2-1,Bristol City
+21,02/01/11,Sunderland,4-0,Liverpool
+22,02/01/11,Everton,1-5,Newcastle
+22,02/01/11,Manchester United,1-0,Bradford City
+22,03/01/11,Manchester City,2-1,Tottenham
+23,03/01/11,Newcastle,1-1,Preston North End
+21,07/01/11,Sheffield United,3-2,Woolwich Arsenal
+22,07/01/11,Aston Villa,2-1,Sunderland
+22,07/01/11,Bury,0-1,Bradford City
+22,07/01/11,Liverpool,2-2,Blackburn Rovers
+22,07/01/11,Middlesbrough,0-1,The Wednesday
+23,07/01/11,Manchester United,4-2,Nottingham Forest
+23,07/01/11,Notts County,0-1,Manchester City
+23,07/01/11,Preston North End,0-2,Everton
+23,07/01/11,Tottenham,3-2,Bristol City
+24,07/01/11,Newcastle,3-0,Oldham Athletic
+23,21/01/11,Blackburn Rovers,6-2,Bury
+23,21/01/11,Bradford City,0-1,Sheffield United
+23,21/01/11,Bristol City,3-2,Middlesbrough
+23,21/01/11,Oldham Athletic,2-1,Sunderland
+24,21/01/11,Everton,5-0,Notts County
+24,21/01/11,Manchester City,1-1,Manchester United
+24,21/01/11,Nottingham Forest,2-0,Liverpool
+25,21/01/11,Newcastle,1-1,Tottenham
+25,21/01/11,The Wednesday,0-0,Preston North End
+22,28/01/11,Sunderland,2-2,Woolwich Arsenal
+23,28/01/11,Aston Villa,4-1,Bradford City
+23,28/01/11,Notts County,2-0,The Wednesday
+24,28/01/11,Bury,1-0,Nottingham Forest
+24,28/01/11,Middlesbrough,0-2,Newcastle
+24,28/01/11,Sheffield United,1-1,Blackburn Rovers
+25,28/01/11,Liverpool,1-1,Manchester City
+25,28/01/11,Manchester United,2-2,Everton
+26,28/01/11,Preston North End,4-0,Bristol City
+24,04/02/11,Bristol City,1-0,Notts County
+25,04/02/11,Nottingham Forest,1-2,Sheffield United
+25,04/02/11,Sunderland,4-1,Bury
+23,11/02/11,Woolwich Arsenal,0-0,Bradford City
+24,11/02/11,Aston Villa,3-1,Nottingham Forest
+25,11/02/11,Middlesbrough,1-2,Oldham Athletic
+25,11/02/11,Sunderland,2-2,Blackburn Rovers
+26,11/02/11,Bury,0-0,Everton
+26,11/02/11,Liverpool,3-0,The Wednesday
+26,11/02/11,Manchester United,3-1,Bristol City
+26,11/02/11,Sheffield United,2-2,Manchester City
+27,11/02/11,Notts County,2-2,Newcastle
+27,11/02/11,Preston North End,2-0,Tottenham
+26,13/02/11,Tottenham,6-2,Middlesbrough
+24,18/02/11,Blackburn Rovers,1-0,Woolwich Arsenal
+26,18/02/11,Oldham Athletic,1-0,Bradford City
+26,18/02/11,Tottenham,3-0,Notts County
+27,18/02/11,Bristol City,1-1,Liverpool
+27,18/02/11,Everton,1-0,Sheffield United
+27,18/02/11,Manchester City,1-1,Aston Villa
+27,18/02/11,Newcastle,0-1,Manchester United
+27,18/02/11,Nottingham Forest,1-3,Sunderland
+27,18/02/11,The Wednesday,1-0,Bury
+28,18/02/11,Middlesbrough,2-0,Preston North End
+25,25/02/11,Woolwich Arsenal,3-2,Nottingham Forest
+26,25/02/11,Aston Villa,4-0,Tottenham
+28,25/02/11,Bury,2-1,Bristol City
+28,25/02/11,Sheffield United,0-1,The Wednesday
+28,25/02/11,Sunderland,4-0,Manchester City
+29,25/02/11,Preston North End,1-1,Oldham Athletic
+28,27/02/11,Liverpool,3-0,Newcastle
+27,28/02/11,Bradford City,1-0,Blackburn Rovers
+26,04/03/11,Manchester City,1-1,Woolwich Arsenal
+27,04/03/11,The Wednesday,1-0,Aston Villa
+28,04/03/11,Everton,2-2,Sunderland
+28,04/03/11,Middlesbrough,2-2,Manchester United
+28,04/03/11,Nottingham Forest,0-2,Bradford City
+28,04/03/11,Oldham Athletic,2-0,Blackburn Rovers
+29,04/03/11,Bristol City,0-2,Sheffield United
+29,04/03/11,Newcastle,5-1,Bury
+29,04/03/11,Tottenham,1-0,Liverpool
+30,04/03/11,Preston North End,2-0,Notts County
+27,06/03/11,Oldham Athletic,3-0,Woolwich Arsenal
+28,11/03/11,Woolwich Arsenal,1-0,Everton
+28,11/03/11,Aston Villa,2-0,Bristol City
+28,11/03/11,Notts County,1-0,Oldham Athletic
+30,11/03/11,Bury,2-1,Tottenham
+30,11/03/11,Liverpool,3-0,Middlesbrough
+30,11/03/11,Sunderland,1-2,The Wednesday
+31,11/03/11,Manchester United,5-0,Preston North End
+30,14/03/11,Bradford City,1-0,Manchester City
+29,15/03/11,Woolwich Arsenal,1-1,Aston Villa
+30,15/03/11,Manchester United,3-2,Tottenham
+29,18/03/11,Manchester City,0-0,Blackburn Rovers
+30,18/03/11,Everton,0-0,Bradford City
+30,18/03/11,Newcastle,1-0,Aston Villa
+30,18/03/11,The Wednesday,0-0,Woolwich Arsenal
+30,18/03/11,Tottenham,2-1,Sheffield United

@@ -1,0 +1,135 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,21/01/12,Madureira,1-0,Macaé
+A,21/01/12,Olaria,0-1,Nova Iguaçu
+B,21/01/12,Fluminense,3-0,Friburguense
+A,21/01/12,Flamengo,4-0,Bonsucesso
+B,22/01/12,Bangu,1-2,Volta Redonda
+B,22/01/12,Boavista-RJ,3-1,Duque de Caxias
+B,22/01/12,Vasco,2-0,Americano
+A,22/01/12,Botafogo,3-1,Resende
+A,28/01/12,Bonsucesso,3-1,Madureira
+A,28/01/12,Macaé,0-0,Flamengo
+B,28/01/12,Friburguense,2-1,Bangu
+B,28/01/12,Volta Redonda,0-3,Fluminense
+A,29/01/12,Resende,3-2,Olaria
+A,29/01/12,Nova Iguaçu,0-0,Botafogo
+B,29/01/12,Americano,1-1,Boavista-RJ
+B,29/01/12,Duque de Caxias,1-3,Vasco
+B,01/02/12,Bangu,1-3,Vasco
+A,01/02/12,Macaé,3-0,Resende
+B,01/02/12,Friburguense,0-0,Duque de Caxias
+B,01/02/12,Fluminense,1-2,Boavista-RJ
+A,02/02/12,Bonsucesso,0-0,Nova Iguaçu
+A,02/02/12,Madureira,2-2,Botafogo
+B,02/02/12,Volta Redonda,2-0,Americano
+A,03/02/12,Flamengo,0-0,Olaria
+B,04/02/12,Fluminense,1-1,Duque de Caxias
+A,05/02/12,Resende,1-0,Bonsucesso
+A,05/02/12,Nova Iguaçu,2-0,Macaé
+A,05/02/12,Olaria,2-1,Madureira
+B,05/02/12,Vasco,2-0,Friburguense
+B,05/02/12,Americano,2-1,Bangu
+B,05/02/12,Boavista-RJ,1-1,Volta Redonda
+A,05/02/12,Botafogo,0-0,Flamengo
+A,08/02/12,Nova Iguaçu,1-3,Resende
+A,08/02/12,Bonsucesso,2-2,Macaé
+B,08/02/12,Bangu,1-2,Duque de Caxias
+A,08/02/12,Botafogo,5-0,Olaria
+B,08/02/12,Friburguense,5-2,Boavista-RJ
+A,09/02/12,Flamengo,1-0,Madureira
+A,11/02/12,Olaria,0-1,Macaé
+A,11/02/12,Botafogo,4-1,Bonsucesso
+B,11/02/12,Boavista-RJ,4-2,Bangu
+B,11/02/12,Americano,0-1,Friburguense
+A,12/02/12,Resende,2-1,Madureira
+A,12/02/12,Flamengo,2-0,Nova Iguaçu
+B,12/02/12,Duque de Caxias,1-3,Volta Redonda
+B,12/02/12,Vasco,2-1,Fluminense
+B,15/02/12,Vasco,3-0,Volta Redonda
+B,15/02/12,Americano,2-3,Fluminense
+A,18/02/12,Macaé,0-3,Botafogo
+A,18/02/12,Resende,1-3,Flamengo
+A,18/02/12,Madureira,2-2,Nova Iguaçu
+A,18/02/12,Olaria,1-1,Bonsucesso
+B,18/02/12,Duque de Caxias,3-1,Americano
+B,18/02/12,Boavista-RJ,0-1,Vasco
+B,18/02/12,Volta Redonda,2-2,Friburguense
+B,18/02/12,Fluminense,3-0,Bangu
+SF,22/02/12,Vasco,2-1,Flamengo
+SF,23/02/12,Resende,0-1,Friburguense
+SF,23/02/12,Boavista-RJ,1-3,Nova Iguaçu
+SF,23/02/12,Botafogo,1-1(3-4 Pen.),Fluminense
+F,26/02/12,Friburguense,2-2(2-4 Pen.),Nova Iguaçu
+F,26/02/12,Vasco,1-3,Fluminense
+B,29/02/12,Nova Iguaçu,2-1,Friburguense
+B,29/02/12,Bangu,0-0,Olaria
+B,29/02/12,Resende,2-1,Fluminense
+B,29/02/12,Vasco,2-2,Bonsucesso
+B,29/02/12,Flamengo,1-2,Boavista-RJ
+B,01/03/12,Macaé,2-1,Duque de Caxias
+B,01/03/12,Americano,2-4,Botafogo
+B,01/03/12,Volta Redonda,3-0,Madureira
+B,03/03/12,Olaria,0-2,Vasco
+B,03/03/12,Friburguense,0-0,Resende
+B,03/03/12,Fluminense,3-0,Nova Iguaçu
+B,04/03/12,Botafogo,3-1,Volta Redonda
+B,04/03/12,Madureira,2-1,Americano
+B,04/03/12,Bonsucesso,1-1,Bangu
+B,04/03/12,Boavista-RJ,2-3,Macaé
+B,04/03/12,Duque de Caxias,1-2,Flamengo
+B,10/03/12,Nova Iguaçu,0-1,Duque de Caxias
+B,10/03/12,Resende,2-0,Boavista-RJ
+B,10/03/12,Bangu,1-1,Botafogo
+B,10/03/12,Americano,2-2,Olaria
+B,10/03/12,Macaé,3-1,Friburguense
+B,11/03/12,Vasco,3-0,Madureira
+B,11/03/12,Volta Redonda,2-1,Bonsucesso
+B,11/03/12,Flamengo,2-0,Fluminense
+B,17/03/12,Olaria,2-0,Volta Redonda
+B,17/03/12,Madureira,0-1,Bangu
+B,17/03/12,Fluminense,1-3,Macaé
+B,18/03/12,Bonsucesso,2-1,Americano
+B,18/03/12,Friburguense,0-1,Flamengo
+B,18/03/12,Duque de Caxias,1-1,Resende
+B,18/03/12,Boavista-RJ,1-2,Nova Iguaçu
+B,18/03/12,Botafogo,3-1,Vasco
+B,24/03/12,Botafogo,2-0,Duque de Caxias
+B,24/03/12,Olaria,1-2,Friburguense
+B,24/03/12,Madureira,3-1,Boavista-RJ
+B,24/03/12,Bonsucesso,0-2,Fluminense
+B,24/03/12,Volta Redonda,2-4,Flamengo
+B,25/03/12,Vasco,1-1,Resende
+B,25/03/12,Bangu,2-1,Nova Iguaçu
+B,25/03/12,Americano,3-1,Macaé
+B,31/03/12,Nova Iguaçu,0-0,Volta Redonda
+B,31/03/12,Macaé,1-4,Vasco
+B,31/03/12,Resende,2-1,Americano
+B,31/03/12,Boavista-RJ,1-2,Olaria
+B,01/04/12,Flamengo,2-1,Bangu
+B,01/04/12,Friburguense,1-1,Madureira
+B,01/04/12,Duque de Caxias,2-1,Bonsucesso
+B,01/04/12,Fluminense,1-1,Botafogo
+B,07/04/12,Madureira,1-2,Fluminense
+B,07/04/12,Olaria,0-0,Duque de Caxias
+B,07/04/12,Bangu,1-0,Macaé
+B,07/04/12,Vasco,1-2,Flamengo
+B,08/04/12,Botafogo,3-1,Friburguense
+B,08/04/12,Bonsucesso,3-3,Boavista-RJ
+B,08/04/12,Americano,2-2,Nova Iguaçu
+B,08/04/12,Volta Redonda,1-1,Resende
+B,15/04/12,Flamengo,3-1,Americano
+B,15/04/12,Nova Iguaçu,1-3,Vasco
+B,15/04/12,Macaé,0-1,Volta Redonda
+B,15/04/12,Resende,0-3,Bangu
+B,15/04/12,Fluminense,5-1,Olaria
+B,15/04/12,Friburguense,0-0,Bonsucesso
+B,15/04/12,Duque de Caxias,1-4,Madureira
+B,15/04/12,Boavista-RJ,1-1,Botafogo
+SF,20/04/12,Resende,0-2,Volta Redonda
+SF,21/04/12,Fluminense,2-1,Macaé
+SF,21/04/12,Bangu,2-4,Botafogo
+SF,22/04/12,Flamengo,2-3,Vasco
+F,28/04/12,Fluminense,2-0,Volta Redonda
+,29/04/12,Botafogo,3-1,Vasco
+F,06/05/12,Fluminense,4-1,Botafogo
+F,13/05/12,Botafogo,0-1,Fluminense

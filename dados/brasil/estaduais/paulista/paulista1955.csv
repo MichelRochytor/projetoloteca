@@ -1,0 +1,183 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,30/07/55,Palmeiras,3-2,Guarani
+C,31/07/55,Linense,1-1,XV de Piracicaba
+C,31/07/55,Corinthians,1-0,XV de Jaú
+C,31/07/55,Ponte Preta,2-1,Noroeste
+C,31/07/55,Jabaquara,1-1,São Bento de SCS
+C,31/07/55,Taubaté,1-2,Portuguesa
+C,03/08/55,Santos,0-0,Noroeste
+C,07/08/55,Portuguesa,3-1,Jabaquara
+C,07/08/55,XV de Piracicaba,1-2,Corinthians
+C,07/08/55,Noroeste,4-2,São Bento de SCS
+C,07/08/55,Santos,6-3,Ponte Preta
+C,07/08/55,Palmeiras,2-1,Linense
+C,07/08/55,XV de Jaú,4-2,Taubaté
+C,10/08/55,Portuguesa,1-1,Guarani
+C,14/08/55,Noroeste,2-0,Jabaquara
+C,14/08/55,São Paulo,3-0,Guarani
+C,14/08/55,Ponte Preta,2-3,Palmeiras
+C,14/08/55,Taubaté,1-2,Santos
+C,14/08/55,Linense,0-1,Corinthians
+C,14/08/55,São Bento de SCS,2-3,Portuguesa
+C,14/08/55,XV de Piracicaba,4-3,XV de Jaú
+C,17/08/55,São Paulo,3-0,XV de Piracicaba
+C,21/08/55,Guarani,2-0,Taubaté
+C,28/08/55,Guarani,5-1,Ponte Preta
+C,28/08/55,São Bento de SCS,2-4,Palmeiras
+C,28/08/55,Jabaquara,3-0,Linense
+C,28/08/55,XV de Jaú,1-2,São Paulo
+C,28/08/55,Corinthians,2-2,Santos
+C,28/08/55,Noroeste,3-3,Taubaté
+C,28/08/55,XV de Piracicaba,2-3,Portuguesa
+C,03/09/55,Portuguesa,2-4,Ponte Preta
+C,04/09/55,Palmeiras,2-0,São Paulo
+C,04/09/55,Taubaté,2-2,Linense
+C,04/09/55,Guarani,1-1,XV de Jaú
+C,04/09/55,Santos,7-1,Jabaquara
+C,04/09/55,Noroeste,2-1,Corinthians
+C,04/09/55,São Bento de SCS,1-0,XV de Piracicaba
+C,07/09/55,Noroeste,3-2,Portuguesa
+C,07/09/55,XV de Jaú,2-0,Jabaquara
+C,07/09/55,Guarani,1-0,Corinthians
+C,07/09/55,Santos,3-1,São Paulo
+C,07/09/55,XV de Piracicaba,3-2,Ponte Preta
+C,07/09/55,Linense,5-2,São Bento de SCS
+C,07/09/55,Taubaté,1-4,Palmeiras
+C,11/09/55,Jabaquara,0-1,Corinthians
+C,11/09/55,Taubaté,2-0,São Bento de SCS
+C,11/09/55,Noroeste,1-3,Palmeiras
+C,11/09/55,XV de Jaú,0-1,Portuguesa
+C,11/09/55,Guarani,2-1,Linense
+C,11/09/55,São Paulo,4-1,Ponte Preta
+C,11/09/55,XV de Piracicaba,1-2,Santos
+C,17/09/55,São Bento de SCS,2-2,São Paulo
+C,18/09/55,Jabaquara,2-1,Taubaté
+C,18/09/55,XV de Jaú,1-1,Noroeste
+C,18/09/55,Corinthians,2-1,Ponte Preta
+C,18/09/55,Linense,2-3,Santos
+C,18/09/55,Guarani,3-5,XV de Piracicaba
+C,18/09/55,Portuguesa,3-2,Palmeiras
+C,24/09/55,Palmeiras,1-3,Santos
+C,25/09/55,Jabaquara,2-0,Guarani
+C,25/09/55,XV de Jaú,2-2,Linense
+C,25/09/55,Ponte Preta,2-3,São Bento de SCS
+C,25/09/55,XV de Piracicaba,6-1,Noroeste
+C,25/09/55,Corinthians,3-0,Portuguesa
+C,25/09/55,Taubaté,1-1,São Paulo
+C,28/09/55,São Paulo,6-3,Noroeste
+C,28/09/55,Santos,2-0,São Bento de SCS
+C,01/10/55,Palmeiras,5-3,Jabaquara
+C,02/10/55,Linense,2-1,Portuguesa
+C,02/10/55,São Bento de SCS,2-2,Guarani
+C,02/10/55,Ponte Preta,5-2,Taubaté
+C,02/10/55,Corinthians,3-2,São Paulo
+C,02/10/55,Santos,4-1,XV de Jaú
+C,05/10/55,Corinthians,2-1,Taubaté
+C,08/10/55,Corinthians,5-0,São Bento de SCS
+C,09/10/55,Guarani,4-2,Santos
+C,09/10/55,XV de Jaú,1-1,Ponte Preta
+C,09/10/55,Noroeste,1-1,Linense
+C,09/10/55,XV de Piracicaba,0-6,Palmeiras
+C,09/10/55,São Paulo,3-1,Portuguesa
+C,12/10/55,São Paulo,5-3,Jabaquara
+C,12/10/55,Ponte Preta,3-0,Jabaquara
+C,16/10/55,Noroeste,1-2,Guarani
+C,16/10/55,XV de Jaú,1-1,São Bento de SCS
+C,16/10/55,Corinthians,4-2,Palmeiras
+C,16/10/55,Santos,3-1,Portuguesa
+C,16/10/55,Linense,0-3,São Paulo
+C,16/10/55,Taubaté,4-0,XV de Piracicaba
+C,19/10/55,Ponte Preta,0-0,Linense
+C,19/10/55,Jabaquara,2-2,XV de Piracicaba
+C,19/10/55,Palmeiras,1-1,XV de Jaú
+C,22/10/55,São Paulo,4-2,XV de Jaú
+C,23/10/55,Jabaquara,3-3,Palmeiras
+C,23/10/55,XV de Piracicaba,0-5,Guarani
+C,23/10/55,Portuguesa,2-2,Taubaté
+C,23/10/55,Corinthians,3-2,Noroeste
+C,23/10/55,São Bento de SCS,2-2,Linense
+C,26/10/55,Palmeiras,3-2,Noroeste
+C,30/10/55,Linense,4-2,Jabaquara
+C,30/10/55,Santos,2-0,XV de Piracicaba
+C,30/10/55,Noroeste,0-0,São Paulo
+C,30/10/55,São Bento de SCS,2-3,Corinthians
+C,30/10/55,Guarani,0-1,Portuguesa
+C,30/10/55,Palmeiras,2-0,Ponte Preta
+C,30/10/55,Taubaté,3-3,XV de Jaú
+C,03/11/55,Portuguesa,7-1,Linense
+C,05/11/55,Corinthians,1-0,XV de Piracicaba
+C,06/11/55,Santos,5-0,Linense
+C,06/11/55,Taubaté,3-2,Ponte Preta
+C,06/11/55,São Bento de SCS,3-0,Jabaquara
+C,06/11/55,XV de Jaú,3-0,Palmeiras
+C,06/11/55,Guarani,2-1,Noroeste
+C,06/11/55,São Paulo,4-3,Portuguesa
+C,09/11/55,Ponte Preta,2-4,Santos
+C,09/11/55,Palmeiras,2-2,XV de Piracicaba
+C,12/11/55,Palmeiras,1-0,São Bento de SCS
+C,13/11/55,Linense,2-1,Guarani
+C,13/11/55,Portuguesa,8-0,Santos
+C,13/11/55,Noroeste,1-3,XV de Jaú
+C,13/11/55,XV de Piracicaba,3-2,Taubaté
+C,13/11/55,Jabaquara,0-2,São Paulo
+C,13/11/55,Ponte Preta,1-1,Corinthians
+C,20/11/55,Linense,0-1,Palmeiras
+C,20/11/55,São Bento de SCS,2-0,Noroeste
+C,20/11/55,Ponte Preta,3-1,São Paulo
+C,20/11/55,Taubaté,6-0,Jabaquara
+C,20/11/55,Corinthians,1-0,Portuguesa
+C,20/11/55,Santos,5-0,Guarani
+C,20/11/55,XV de Jaú,1-1,XV de Piracicaba
+C,23/11/55,Portuguesa,3-2,XV de Piracicaba
+C,26/11/55,Portuguesa,5-1,São Bento de SCS
+C,27/11/55,Linense,3-2,XV de Jaú
+C,27/11/55,Taubaté,1-0,Corinthians
+C,27/11/55,Noroeste,1-1,Ponte Preta
+C,27/11/55,XV de Piracicaba,3-2,Jabaquara
+C,27/11/55,Guarani,2-4,Palmeiras
+C,27/11/55,São Paulo,3-1,Santos
+C,30/11/55,São Paulo,4-1,Taubaté
+C,30/11/55,Ponte Preta,1-1,XV de Jaú
+C,04/12/55,Noroeste,2-3,Santos
+C,04/12/55,XV de Jaú,5-4,Corinthians
+C,04/12/55,Guarani,2-2,São Paulo
+C,04/12/55,Palmeiras,2-0,Portuguesa
+C,04/12/55,XV de Piracicaba,4-2,Linense
+C,04/12/55,Jabaquara,0-0,Ponte Preta
+C,04/12/55,São Bento de SCS,0-2,Taubaté
+C,10/12/55,Palmeiras,1-1,Taubaté
+C,11/12/55,Corinthians,1-1,São Paulo
+C,11/12/55,Ponte Preta,2-0,Guarani
+C,11/12/55,Jabaquara,3-2,Portuguesa
+C,11/12/55,XV de Jaú,0-3,Santos
+C,11/12/55,Linense,2-2,Noroeste
+C,11/12/55,XV de Piracicaba,6-2,São Bento de SCS
+C,14/12/55,Jabaquara,3-2,XV de Jaú
+C,14/12/55,Portuguesa,3-2,Noroeste
+C,17/12/55,São Paulo,6-1,Linense
+C,18/12/55,Corinthians,1-3,Guarani
+C,18/12/55,São Bento de SCS,2-1,XV de Jaú
+C,18/12/55,Ponte Preta,0-2,Portuguesa
+C,18/12/55,Taubaté,4-1,Noroeste
+C,18/12/55,Santos,3-1,Palmeiras
+C,21/12/55,Corinthians,2-1,Linense
+C,24/12/55,Ponte Preta,2-1,XV de Piracicaba
+C,24/12/55,XV de Jaú,2-1,Guarani
+C,24/12/55,Santos,2-0,Jabaquara
+C,24/12/55,São Paulo,3-0,São Bento de SCS
+C,29/12/55,Corinthians,5-2,Jabaquara
+C,31/12/55,Taubaté,1-3,Guarani
+C,31/12/55,São Bento de SCS,2-0,Santos
+C,08/01/56,Noroeste,2-2,XV de Piracicaba
+C,08/01/56,São Bento de SCS,2-1,Ponte Preta
+C,08/01/56,Guarani,3-0,Jabaquara
+C,08/01/56,Palmeiras,2-2,São Paulo
+C,08/01/56,Linense,0-0,Taubaté
+C,08/01/56,Santos,2-3,Corinthians
+C,14/01/56,Jabaquara,0-0,Noroeste
+C,14/01/56,Portuguesa,2-2,XV de Jaú
+C,15/01/56,Corinthians,2-0,Palmeiras
+C,15/01/56,Santos,2-1,Taubaté
+C,15/01/56,XV de Piracicaba,1-5,São Paulo
+C,15/01/56,Linense,2-2,Ponte Preta
+C,31/05/56,Guarani,1-1,São Bento de SCS

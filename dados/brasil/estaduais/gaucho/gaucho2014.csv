@@ -1,0 +1,129 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,18/01/14,Internacional,2-0,São Luiz
+B,18/01/14,Esportivo,3-2,Pelotas
+B,19/01/14,São José-RS,1-0,Grêmio
+B,19/01/14,GE Brasil,2-0,Cruzeiro-RS
+B,19/01/14,Lajeadense,0-0,Passo Fundo
+B,19/01/14,Veranópolis,2-2,Caxias
+B,19/01/14,Aimoré,1-2,Novo Hamburgo
+B,19/01/14,Juventude,1-2,São Paulo-RS
+B,22/01/14,Caxias,4-2,Aimoré
+B,22/01/14,Pelotas,0-0,Veranópolis
+B,22/01/14,São Luiz,0-1,Juventude
+B,22/01/14,Novo Hamburgo,1-2,Internacional
+B,23/01/14,Cruzeiro-RS,2-1,São José-RS
+B,23/01/14,Passo Fundo,1-0,Esportivo
+B,23/01/14,Grêmio,2-1,Lajeadense
+B,25/01/14,Pelotas,0-1,Juventude
+B,25/01/14,Caxias,0-1,GE Brasil
+B,26/01/14,Passo Fundo,1-2,Internacional
+B,26/01/14,Cruzeiro-RS,1-1,Veranópolis
+B,26/01/14,Novo Hamburgo,1-1,São José-RS
+B,26/01/14,São Paulo-RS,0-0,Esportivo
+B,26/01/14,São Luiz,1-1,Lajeadense
+B,26/01/14,Grêmio,4-0,Aimoré
+B,29/01/14,São José-RS,2-0,Passo Fundo
+B,29/01/14,Internacional,2-1,São Paulo-RS
+B,29/01/14,Veranópolis,2-1,Novo Hamburgo
+B,29/01/14,Lajeadense,2-0,Pelotas
+B,29/01/14,Esportivo,0-0,Caxias
+B,29/01/14,Aimoré,1-1,São Luiz
+B,29/01/14,GE Brasil,1-1,Grêmio
+B,30/01/14,Juventude,1-1,Cruzeiro-RS
+B,01/02/14,Lajeadense,1-0,Caxias
+B,02/02/14,Juventude,1-1,Grêmio
+B,02/02/14,São José-RS,1-2,Pelotas
+B,02/02/14,GE Brasil,4-0,Passo Fundo
+B,02/02/14,Veranópolis,1-0,São Luiz
+B,02/02/14,Esportivo,1-2,Novo Hamburgo
+B,02/02/14,Aimoré,1-0,São Paulo-RS
+B,02/02/14,Internacional,4-1,Cruzeiro-RS
+B,05/02/14,Cruzeiro-RS,1-1,Esportivo
+B,05/02/14,Grêmio,1-0,Veranópolis
+B,05/02/14,Passo Fundo,1-1,Aimoré
+B,05/02/14,São Luiz,0-1,São José-RS
+B,05/02/14,Pelotas,0-1,Internacional
+B,06/02/14,Novo Hamburgo,0-1,GE Brasil
+B,06/02/14,São Paulo-RS,1-1,Lajeadense
+B,08/02/14,Caxias,3-0,São José-RS
+B,09/02/14,Cruzeiro-RS,2-1,Aimoré
+B,09/02/14,Pelotas,1-1,GE Brasil
+B,09/02/14,Passo Fundo,2-1,Juventude
+B,09/02/14,São Paulo-RS,2-4,Veranópolis
+B,09/02/14,São Luiz,3-0,Esportivo
+B,09/02/14,Grêmio,1-1,Internacional
+B,10/02/14,Novo Hamburgo,2-1,Lajeadense
+B,12/02/14,São Paulo-RS,0-0,GE Brasil
+B,14/02/14,Juventude,0-0,Novo Hamburgo
+B,15/02/14,Internacional,4-0,Caxias
+B,16/02/14,Esportivo,1-3,Grêmio
+B,16/02/14,São José-RS,1-1,São Paulo-RS
+B,16/02/14,Veranópolis,0-0,Passo Fundo
+B,16/02/14,GE Brasil,2-0,São Luiz
+B,16/02/14,Aimoré,1-0,Pelotas
+B,16/02/14,Lajeadense,2-0,Cruzeiro-RS
+A,18/02/14,Internacional,2-1,Juventude
+B,19/02/14,Passo Fundo,3-2,Pelotas
+A,19/02/14,São José-RS,2-1,Aimoré
+A,19/02/14,Lajeadense,0-1,Veranópolis
+B,19/02/14,Novo Hamburgo,0-1,Cruzeiro-RS
+B,19/02/14,São Paulo-RS,1-1,São Luiz
+B,19/02/14,Caxias,2-3,Grêmio
+A,20/02/14,GE Brasil,0-1,Esportivo
+A,22/02/14,Juventude,2-0,São José-RS
+B,22/02/14,Grêmio,3-0,Novo Hamburgo
+B,22/02/14,Pelotas,2-1,São Paulo-RS
+A,23/02/14,Veranópolis,1-0,Internacional
+B,23/02/14,Cruzeiro-RS,2-2,Passo Fundo
+A,23/02/14,Esportivo,2-2,Lajeadense
+A,23/02/14,Aimoré,1-1,GE Brasil
+B,23/02/14,São Luiz,0-1,Caxias
+A,26/02/14,Aimoré,3-2,Esportivo
+B,26/02/14,Caxias,2-1,Juventude
+B,26/02/14,Novo Hamburgo,2-1,Passo Fundo
+A,26/02/14,Internacional,1-0,GE Brasil
+A,28/02/14,Internacional,3-0,Esportivo
+B,01/03/14,São Paulo-RS,2-1,Grêmio
+A,01/03/14,São José-RS,0-1,Lajeadense
+B,01/03/14,São Luiz,0-1,Novo Hamburgo
+B,01/03/14,Pelotas,1-3,Cruzeiro-RS
+A,01/03/14,Veranópolis,1-1,Juventude
+B,02/03/14,Caxias,2-1,Passo Fundo
+B,05/03/14,Passo Fundo,4-1,São Luiz
+A,05/03/14,Internacional,1-1,São José-RS
+A,05/03/14,Lajeadense,1-2,Aimoré
+A,05/03/14,Esportivo,3-2,Veranópolis
+B,05/03/14,Cruzeiro-RS,0-0,Grêmio
+A,06/03/14,GE Brasil,2-0,Juventude
+B,06/03/14,Caxias,2-0,São Paulo-RS
+B,06/03/14,Novo Hamburgo,3-1,Pelotas
+B,07/03/14,São Luiz,2-2,Grêmio
+A,09/03/14,Aimoré,1-2,Internacional
+B,09/03/14,Cruzeiro-RS,0-0,Caxias
+A,09/03/14,Lajeadense,0-1,GE Brasil
+B,09/03/14,Pelotas,1-2,São Luiz
+A,09/03/14,Juventude,2-1,Esportivo
+B,09/03/14,Grêmio,3-1,Passo Fundo
+A,09/03/14,Veranópolis,1-1,São José-RS
+B,09/03/14,São Paulo-RS,1-0,Novo Hamburgo
+B,12/03/14,Pelotas,0-3,Caxias
+A,12/03/14,Juventude,2-1,Lajeadense
+A,12/03/14,São José-RS,1-1,GE Brasil
+A,12/03/14,Veranópolis,0-0,Aimoré
+B,12/03/14,São Paulo-RS,4-1,Cruzeiro-RS
+A,16/03/14,Lajeadense,0-1,Internacional
+A,16/03/14,Esportivo,1-0,São José-RS
+A,16/03/14,GE Brasil,1-0,Veranópolis
+A,16/03/14,Aimoré,1-1,Juventude
+B,16/03/14,Caxias,2-1,Novo Hamburgo
+B,16/03/14,Passo Fundo,3-1,São Paulo-RS
+B,16/03/14,Cruzeiro-RS,2-2,São Luiz
+B,16/03/14,Grêmio,3-0,Pelotas
+QF,21/03/14,Caxias,2-2,Veranópolis
+QF,22/03/14,Internacional,3-1,Cruzeiro-RS
+QF,22/03/14,GE Brasil,2-0,Novo Hamburgo
+QF,23/03/14,Grêmio,3-0,Juventude
+SF,26/03/14,Grêmio,2-1,GE Brasil
+SF,26/03/14,Internacional,3-0,Caxias
+F,30/03/14,Grêmio,1-2,Internacional
+F,13/04/14,Internacional,4-1,Grêmio

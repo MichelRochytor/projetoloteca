@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/89,Charlton Athletic,0-0,Derby County
+1,19/08/89,Coventry City,2-0,Everton
+1,19/08/89,Manchester United,4-1,Arsenal
+1,19/08/89,Nottingham Forest,1-1,Aston Villa
+1,19/08/89,QPR,2-0,Crystal Palace
+1,19/08/89,Sheffield Wed.,0-2,Norwich City
+1,19/08/89,Southampton,1-2,Millwall
+1,19/08/89,Tottenham,2-1,Luton Town
+1,19/08/89,Wimbledon,0-1,Chelsea
+1,19/08/89,Liverpool,3-1,Manchester City
+2,22/08/89,Arsenal,2-0,Coventry City
+2,22/08/89,Chelsea,1-1,QPR
+2,22/08/89,Crystal Palace,1-1,Manchester United
+2,22/08/89,Everton,2-1,Tottenham
+2,22/08/89,Luton Town,2-0,Sheffield Wed.
+2,22/08/89,Millwall,2-2,Charlton Athletic
+2,23/08/89,Derby County,1-1,Wimbledon
+2,23/08/89,Manchester City,1-2,Southampton
+2,23/08/89,Norwich City,1-1,Nottingham Forest
+2,23/08/89,Aston Villa,1-1,Liverpool
+3,26/08/89,Arsenal,0-0,Wimbledon
+3,26/08/89,Aston Villa,1-1,Charlton Athletic
+3,26/08/89,Chelsea,4-0,Sheffield Wed.
+3,26/08/89,Crystal Palace,0-1,Coventry City
+3,26/08/89,Derby County,2-0,Manchester United
+3,26/08/89,Everton,3-0,Southampton
+3,26/08/89,Manchester City,1-1,Tottenham
+3,26/08/89,Millwall,1-0,Nottingham Forest
+3,26/08/89,Norwich City,0-0,QPR
+3,26/08/89,Luton Town,0-0,Liverpool
+4,29/08/89,Charlton Athletic,3-0,Chelsea
+4,29/08/89,Southampton,2-1,Aston Villa
+4,29/08/89,Wimbledon,2-2,Millwall
+4,30/08/89,Coventry City,2-1,Manchester City
+4,30/08/89,Manchester United,0-2,Norwich City
+4,30/08/89,Nottingham Forest,2-1,Derby County
+4,30/08/89,QPR,0-0,Luton Town
+4,30/08/89,Sheffield Wed.,1-1,Everton
+4,09/09/89,Aston Villa,2-0,Tottenham
+5,09/09/89,Arsenal,5-0,Sheffield Wed.
+5,09/09/89,Chelsea,2-2,Nottingham Forest
+5,09/09/89,Crystal Palace,2-0,Wimbledon
+5,09/09/89,Everton,3-2,Manchester United
+5,09/09/89,Luton Town,1-0,Charlton Athletic
+5,09/09/89,Manchester City,1-0,QPR
+5,09/09/89,Millwall,4-1,Coventry City
+5,09/09/89,Norwich City,4-4,Southampton
+4,09/09/89,Derby County,0-3,Liverpool
+5,12/09/89,Liverpool,9-0,Crystal Palace
+5,16/09/89,Tottenham,1-4,Chelsea
+6,16/09/89,Charlton Athletic,0-1,Everton
+6,16/09/89,Coventry City,1-0,Luton Town
+6,16/09/89,Manchester United,5-1,Millwall
+6,16/09/89,Nottingham Forest,1-2,Arsenal
+6,16/09/89,QPR,0-1,Derby County
+6,16/09/89,Sheffield Wed.,1-0,Aston Villa
+6,16/09/89,Southampton,1-1,Crystal Palace
+6,16/09/89,Wimbledon,1-0,Manchester City
+6,16/09/89,Liverpool,0-0,Norwich City
+6,23/09/89,Norwich City,2-2,Tottenham
+7,23/09/89,Arsenal,1-0,Charlton Athletic
+7,23/09/89,Aston Villa,1-3,QPR
+7,23/09/89,Chelsea,1-0,Coventry City
+7,23/09/89,Crystal Palace,1-0,Nottingham Forest
+7,23/09/89,Derby County,0-1,Southampton
+7,23/09/89,Luton Town,1-1,Wimbledon
+7,23/09/89,Manchester City,5-1,Manchester United
+7,23/09/89,Millwall,2-0,Sheffield Wed.
+7,23/09/89,Everton,1-3,Liverpool
+8,29/09/89,Manchester City,3-1,Luton Town
+8,29/09/89,Nottingham Forest,2-0,Charlton Athletic
+8,29/09/89,Southampton,2-2,Wimbledon
+7,30/09/89,Chelsea,0-0,Arsenal
+8,30/09/89,Aston Villa,1-0,Derby County
+8,30/09/89,Crystal Palace,2-1,Everton
+8,30/09/89,Millwall,0-1,Norwich City
+8,30/09/89,Sheffield Wed.,0-0,Coventry City
+8,30/09/89,Tottenham,3-2,QPR
+8,14/10/89,Arsenal,4-0,Manchester City
+8,14/10/89,Manchester United,0-0,Sheffield Wed.
+9,14/10/89,Charlton Athletic,1-3,Tottenham
+9,14/10/89,Coventry City,0-2,Nottingham Forest
+9,14/10/89,Derby County,3-1,Crystal Palace
+9,14/10/89,Everton,2-1,Millwall
+9,14/10/89,Luton Town,0-1,Aston Villa
+9,14/10/89,Norwich City,2-0,Chelsea
+9,14/10/89,QPR,1-4,Southampton
+8,14/10/89,Wimbledon,1-2,Liverpool
+9,18/10/89,Tottenham,2-1,Arsenal
+10,20/10/89,Derby County,0-1,Chelsea
+10,21/10/89,Coventry City,1-4,Manchester United
+10,21/10/89,Crystal Palace,4-3,Millwall
+10,21/10/89,Everton,3-0,Arsenal
+10,21/10/89,Luton Town,4-1,Norwich City
+10,21/10/89,QPR,0-1,Charlton Athletic
+10,21/10/89,Tottenham,3-0,Sheffield Wed.
+10,21/10/89,Wimbledon,1-3,Nottingham Forest
+9,21/10/89,Southampton,4-1,Liverpool
+10,22/10/89,Manchester City,0-2,Aston Villa
+10,28/10/89,Manchester United,2-1,Southampton
+11,28/10/89,Arsenal,1-1,Derby County
+11,28/10/89,Aston Villa,2-1,Crystal Palace
+11,28/10/89,Charlton Athletic,1-1,Coventry City
+11,28/10/89,Chelsea,1-1,Manchester City
+11,28/10/89,Millwall,1-1,Luton Town
+11,28/10/89,Norwich City,1-1,Everton
+11,28/10/89,Nottingham Forest,2-2,QPR
+11,28/10/89,Sheffield Wed.,0-1,Wimbledon
+10,29/10/89,Liverpool,1-0,Tottenham
+12,03/11/89,Arsenal,4-3,Norwich City
+12,03/11/89,Manchester City,3-0,Crystal Palace
+12,03/11/89,Southampton,1-1,Tottenham
+12,04/11/89,Charlton Athletic,2-0,Manchester United
+12,04/11/89,Chelsea,4-0,Millwall
+12,04/11/89,Luton Town,1-0,Derby County
+12,04/11/89,Nottingham Forest,0-1,Sheffield Wed.
+12,04/11/89,Wimbledon,0-0,QPR
+12,04/11/89,Liverpool,0-1,Coventry City
+12,05/11/89,Aston Villa,6-2,Everton
+13,11/11/89,Coventry City,1-0,Southampton
+13,11/11/89,Crystal Palace,1-1,Luton Town
+13,11/11/89,Derby County,6-0,Manchester City
+13,11/11/89,Everton,0-1,Chelsea
+13,11/11/89,Millwall,1-2,Arsenal
+13,11/11/89,Norwich City,2-0,Aston Villa
+13,11/11/89,Sheffield Wed.,3-0,Charlton Athletic
+13,11/11/89,Tottenham,0-1,Wimbledon
+12,11/11/89,QPR,3-2,Liverpool
+12,12/11/89,Manchester United,1-0,Nottingham Forest
+14,17/11/89,Manchester City,0-3,Nottingham Forest
+13,18/11/89,Luton Town,1-3,Manchester United
+14,18/11/89,Arsenal,3-0,QPR
+14,18/11/89,Aston Villa,4-1,Coventry City
+14,18/11/89,Chelsea,2-2,Southampton
+14,18/11/89,Crystal Palace,2-3,Tottenham
+14,18/11/89,Derby County,2-0,Sheffield Wed.
+14,18/11/89,Everton,1-1,Wimbledon
+14,18/11/89,Norwich City,0-0,Charlton Athletic
+13,19/11/89,Millwall,1-2,Liverpool
+14,25/11/89,Manchester United,0-0,Chelsea
+15,25/11/89,Charlton Athletic,1-1,Manchester City
+15,25/11/89,Coventry City,1-0,Norwich City
+15,25/11/89,Nottingham Forest,1-0,Everton
+15,25/11/89,QPR,0-0,Millwall
+15,25/11/89,Sheffield Wed.,2-2,Crystal Palace
+15,25/11/89,Southampton,6-3,Luton Town
+15,25/11/89,Tottenham,1-2,Derby County
+15,25/11/89,Wimbledon,0-2,Aston Villa
+14,26/11/89,Liverpool,2-1,Arsenal
+15,29/11/89,Sheffield Wed.,2-0,Liverpool
+16,02/12/89,Aston Villa,2-1,Nottingham Forest
+16,02/12/89,Chelsea,2-5,Wimbledon
+16,02/12/89,Crystal Palace,0-3,QPR
+16,02/12/89,Derby County,2-0,Charlton Athletic
+16,02/12/89,Everton,2-0,Coventry City
+16,02/12/89,Luton Town,0-0,Tottenham
+16,02/12/89,Millwall,2-2,Southampton
+17,02/12/89,Norwich City,2-1,Sheffield Wed.
+16,02/12/89,Manchester City,1-4,Liverpool
+15,02/12/89,Arsenal,1-0,Manchester United
+16,09/12/89,Manchester United,1-2,Crystal Palace
+17,09/12/89,Charlton Athletic,1-1,Millwall
+17,09/12/89,Coventry City,0-1,Arsenal
+17,09/12/89,Nottingham Forest,0-1,Norwich City
+17,09/12/89,QPR,4-2,Chelsea
+17,09/12/89,Southampton,2-1,Manchester City
+17,09/12/89,Tottenham,2-1,Everton
+17,09/12/89,Wimbledon,1-1,Derby County
+18,09/12/89,Sheffield Wed.,1-1,Luton Town
+17,09/12/89,Liverpool,1-1,Aston Villa
+17,16/12/89,Manchester United,0-1,Tottenham
+18,16/12/89,Arsenal,3-2,Luton Town
+18,16/12/89,Charlton Athletic,1-2,Crystal Palace
+18,16/12/89,Coventry City,2-1,Wimbledon
+18,16/12/89,Millwall,2-0,Aston Villa
+18,16/12/89,Norwich City,1-0,Derby County
+18,16/12/89,Sheffield Wed.,2-0,QPR
+18,16/12/89,Chelsea,2-5,Liverpool
+18,17/12/89,Everton,0-0,Manchester City
+18,17/12/89,Nottingham Forest,2-0,Southampton
+19,23/12/89,Liverpool,0-0,Manchester United
+19,25/12/89,Derby County,0-1,Everton
+19,26/12/89,Aston Villa,3-0,Manchester United
+19,26/12/89,Crystal Palace,2-2,Chelsea
+19,26/12/89,Luton Town,1-1,Nottingham Forest
+19,26/12/89,Manchester City,1-0,Norwich City
+19,26/12/89,QPR,1-1,Coventry City
+19,26/12/89,Southampton,1-0,Arsenal
+19,26/12/89,Tottenham,3-1,Millwall
+19,26/12/89,Wimbledon,3-1,Charlton Athletic
+20,26/12/89,Liverpool,2-1,Sheffield Wed.
+20,30/12/89,Aston Villa,2-1,Arsenal
+20,30/12/89,Crystal Palace,1-0,Norwich City
+20,30/12/89,Derby County,4-1,Coventry City
+20,30/12/89,Luton Town,0-3,Chelsea
+20,30/12/89,Manchester City,2-0,Millwall
+20,30/12/89,QPR,1-0,Everton
+20,30/12/89,Tottenham,2-3,Nottingham Forest
+20,30/12/89,Wimbledon,2-2,Manchester United
+21,30/12/89,Southampton,2-2,Sheffield Wed.
+20,30/12/89,Liverpool,1-0,Charlton Athletic
+21,01/01/90,Arsenal,4-1,Crystal Palace
+21,01/01/90,Charlton Athletic,2-4,Southampton
+21,01/01/90,Chelsea,0-3,Aston Villa
+21,01/01/90,Coventry City,0-0,Tottenham
+21,01/01/90,Everton,2-1,Luton Town
+21,01/01/90,Manchester United,0-0,QPR
+21,01/01/90,Millwall,1-1,Derby County
+21,01/01/90,Norwich City,0-1,Wimbledon
+22,01/01/90,Sheffield Wed.,2-0,Manchester City
+22,01/01/90,Nottingham Forest,2-2,Liverpool
+22,13/01/90,Charlton Athletic,0-2,Aston Villa
+22,13/01/90,Coventry City,1-0,Crystal Palace
+22,13/01/90,Manchester United,1-2,Derby County
+22,13/01/90,Nottingham Forest,3-1,Millwall
+22,13/01/90,QPR,2-1,Norwich City
+22,13/01/90,Southampton,2-2,Everton
+22,13/01/90,Tottenham,1-1,Manchester City
+22,13/01/90,Wimbledon,1-0,Arsenal
+23,13/01/90,Liverpool,2-2,Luton Town
+23,14/01/90,Sheffield Wed.,1-1,Chelsea
+23,19/01/90,Manchester City,1-0,Coventry City
+23,20/01/90,Arsenal,1-0,Tottenham
+23,20/01/90,Aston Villa,2-1,Southampton
+23,20/01/90,Chelsea,3-1,Charlton Athletic
+23,20/01/90,Derby County,0-2,Nottingham Forest
+23,20/01/90,Luton Town,1-1,QPR
+23,20/01/90,Millwall,0-0,Wimbledon
+24,20/01/90,Everton,2-0,Sheffield Wed.
+24,20/01/90,Crystal Palace,0-2,Liverpool
+23,21/01/90,Norwich City,2-0,Manchester United
+24,03/02/90,Coventry City,3-2,Chelsea
+24,03/02/90,Manchester United,1-1,Manchester City
+24,03/02/90,Nottingham Forest,3-1,Crystal Palace
+25,03/02/90,Sheffield Wed.,1-1,Millwall
+25,03/02/90,Liverpool,2-1,Everton
+24,04/02/90,Tottenham,4-0,Norwich City
+24,09/02/90,Manchester City,1-1,Wimbledon
+24,10/02/90,Crystal Palace,3-1,Southampton
+24,10/02/90,Derby County,2-0,QPR
+24,10/02/90,Everton,2-1,Charlton Athletic
+25,10/02/90,Chelsea,1-2,Tottenham
+25,10/02/90,Millwall,1-2,Manchester United
+26,10/02/90,Aston Villa,1-0,Sheffield Wed.
+26,10/02/90,Norwich City,0-0,Liverpool
+25,14/02/90,Wimbledon,1-2,Luton Town
+25,17/02/90,Coventry City,3-1,Millwall
+25,17/02/90,Nottingham Forest,1-1,Chelsea
+27,17/02/90,Sheffield Wed.,1-0,Arsenal
+25,19/02/90,Charlton Athletic,2-0,Luton Town
+26,21/02/90,Tottenham,0-2,Aston Villa
+26,23/02/90,Manchester City,1-2,Charlton Athletic
+25,24/02/90,Luton Town,1-1,Southampton
+25,24/02/90,Millwall,1-2,QPR
+26,24/02/90,Aston Villa,0-3,Wimbledon
+26,24/02/90,Chelsea,1-0,Manchester United
+27,24/02/90,Derby County,2-1,Tottenham
+28,24/02/90,Crystal Palace,1-1,Sheffield Wed.
+26,27/02/90,Southampton,4-1,Norwich City
+27,27/02/90,Charlton Athletic,0-0,Arsenal
+26,03/03/90,Nottingham Forest,1-0,Manchester City
+26,03/03/90,QPR,2-0,Arsenal
+27,03/03/90,Manchester United,4-1,Luton Town
+27,03/03/90,Southampton,2-3,Chelsea
+27,03/03/90,Wimbledon,3-1,Everton
+28,03/03/90,Charlton Athletic,0-1,Norwich City
+28,03/03/90,Tottenham,0-1,Crystal Palace
+29,03/03/90,Sheffield Wed.,1-0,Derby County
+27,03/03/90,Liverpool,1-0,Millwall
+26,04/03/90,Coventry City,2-0,Aston Villa
+27,06/03/90,Arsenal,3-0,Nottingham Forest
+27,07/03/90,Luton Town,3-2,Coventry City
+28,10/03/90,Manchester City,1-1,Arsenal
+28,10/03/90,Nottingham Forest,2-4,Coventry City
+28,10/03/90,Southampton,2-1,Derby County
+29,10/03/90,Aston Villa,2-0,Luton Town
+29,10/03/90,Chelsea,0-0,Norwich City
+29,10/03/90,Tottenham,3-0,Charlton Athletic
+28,14/03/90,Manchester United,0-0,Everton
+29,14/03/90,Norwich City,0-0,Coventry City
+29,16/03/90,Arsenal,0-1,Chelsea
+30,16/03/90,Coventry City,1-4,Sheffield Wed.
+27,17/03/90,QPR,3-1,Tottenham
+28,17/03/90,Everton,4-0,Crystal Palace
+29,17/03/90,Derby County,0-1,Aston Villa
+29,17/03/90,Norwich City,1-1,Millwall
+29,17/03/90,Wimbledon,3-3,Southampton
+30,17/03/90,Charlton Athletic,1-1,Nottingham Forest
+30,17/03/90,Luton Town,1-1,Manchester City
+28,18/03/90,Manchester United,1-2,Liverpool
+28,20/03/90,QPR,1-1,Aston Villa
+29,20/03/90,Crystal Palace,1-1,Derby County
+29,21/03/90,Millwall,1-2,Everton
+30,21/03/90,Sheffield Wed.,1-0,Manchester United
+31,21/03/90,Manchester City,1-1,Chelsea
+29,21/03/90,Tottenham,1-0,Liverpool
+30,24/03/90,Crystal Palace,1-0,Aston Villa
+30,24/03/90,Derby County,1-3,Arsenal
+30,24/03/90,Everton,3-1,Norwich City
+30,24/03/90,QPR,2-0,Nottingham Forest

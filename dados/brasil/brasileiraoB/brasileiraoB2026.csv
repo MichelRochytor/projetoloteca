@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,21/03/26,Vila Nova,2-2,CRB
+1,21/03/26,Ceará,1-1,São Bernardo
+1,21/03/26,Operário Ferroviário,1-0,Atlético Goianiense
+1,21/03/26,Botafogo-SP,4-0,Fortaleza
+1,21/03/26,Cuiabá,0-0,Sport
+1,22/03/26,Avaí,2-0,Juventude
+1,22/03/26,Náutico,0-1,Criciúma
+1,22/03/26,Athletic-MG,2-1,Ponte Preta
+1,22/03/26,Goiás,3-1,América Mineiro
+1,22/03/26,Grêmio Novorizontino,1-3,Londrina
+2,31/03/26,Juventude,0-0,Grêmio Novorizontino
+2,31/03/26,Fortaleza,0-0,Cuiabá
+2,01/04/26,América Mineiro,1-2,Botafogo-SP
+2,01/04/26,Londrina,2-2,Goiás
+2,01/04/26,Atlético Goianiense,1-2,Náutico
+2,01/04/26,Sport,1-1,Vila Nova
+2,01/04/26,Ponte Preta,1-1,Ceará
+2,01/04/26,Criciúma,1-1,Athletic-MG
+2,01/04/26,CRB,0-1,Avaí
+2,02/04/26,São Bernardo,1-2,Operário Ferroviário
+3,04/04/26,Fortaleza,2-1,Juventude
+3,04/04/26,Náutico,1-0,Ponte Preta
+3,04/04/26,Cuiabá,0-2,Ceará
+3,04/04/26,Vila Nova,2-1,Atlético Goianiense
+3,04/04/26,Londrina,1-2,Sport
+3,05/04/26,Avaí,0-0,Operário Ferroviário
+3,05/04/26,Grêmio Novorizontino,1-1,CRB
+3,05/04/26,Athletic-MG,1-1,América Mineiro
+3,05/04/26,Botafogo-SP,1-2,São Bernardo
+3,06/04/26,Goiás,1-0,Criciúma
+4,10/04/26,Criciúma,1-0,Botafogo-SP
+4,11/04/26,Juventude,2-0,Goiás
+4,11/04/26,Ponte Preta,0-1,Vila Nova
+4,11/04/26,Sport,2-2,Avaí
+4,11/04/26,Ceará,1-0,Náutico
+4,12/04/26,São Bernardo,0-1,Fortaleza
+4,12/04/26,América Mineiro,0-3,Grêmio Novorizontino
+4,12/04/26,Operário Ferroviário,0-0,Cuiabá
+4,12/04/26,CRB,2-3,Athletic-MG
+4,12/04/26,Atlético Goianiense,2-1,Londrina
+5,18/04/26,América Mineiro,0-0,Sport
+5,18/04/26,Náutico,0-3,São Bernardo
+5,18/04/26,Vila Nova,2-1,Operário Ferroviário
+5,18/04/26,Avaí,1-2,Ponte Preta
+5,18/04/26,CRB,0-1,Juventude
+5,19/04/26,Botafogo-SP,1-1,Atlético Goianiense
+5,19/04/26,Londrina,0-0,Ceará
+5,19/04/26,Goiás,0-2,Cuiabá
+5,19/04/26,Grêmio Novorizontino,2-1,Athletic-MG
+5,19/04/26,Fortaleza,3-2,Criciúma
+6,22/04/26,Cuiabá,1-1,Botafogo-SP
+6,24/04/26,Ponte Preta,1-0,América Mineiro
+6,25/04/26,Sport,1-0,Grêmio Novorizontino
+6,25/04/26,Juventude,1-0,Londrina
+6,26/04/26,São Bernardo,1-0,Goiás
+6,26/04/26,Operário Ferroviário,0-0,Fortaleza
+6,26/04/26,Ceará,3-3,Vila Nova
+6,26/04/26,Atlético Goianiense,2-1,Avaí
+6,26/04/26,Criciúma,3-1,CRB
+6,27/04/26,Athletic-MG,0-1,Náutico
+7,02/05/26,Botafogo-SP,1-1,Náutico
+7,02/05/26,Cuiabá,1-1,Criciúma
+7,02/05/26,Fortaleza,4-1,Goiás
+7,03/05/26,São Bernardo,3-0,Ponte Preta
+7,03/05/26,Operário Ferroviário,3-0,Londrina
+7,03/05/26,Sport,2-0,Ceará
+7,03/05/26,Atlético Goianiense,0-0,Juventude
+7,03/05/26,América Mineiro,1-2,CRB
+7,03/05/26,Avaí,3-3,Grêmio Novorizontino
+7,04/05/26,Vila Nova,1-1,Athletic-MG
+8,09/05/26,Goiás,1-0,Vila Nova
+8,09/05/26,Athletic-MG,0-0,Cuiabá
+8,09/05/26,Ponte Preta,1-3,Sport
+8,09/05/26,Ceará,0-1,Atlético Goianiense
+8,09/05/26,CRB,3-0,Operário Ferroviário
+8,09/05/26,Juventude,0-0,Criciúma
+8,10/05/26,Náutico,4-0,América Mineiro
+8,10/05/26,Avaí,0-0,Fortaleza
+8,10/05/26,Grêmio Novorizontino,1-0,Botafogo-SP
+8,12/05/26,Londrina,1-3,São Bernardo
+9,16/05/26,São Bernardo,1-1,América Mineiro
+9,16/05/26,Operário Ferroviário,2-6,Náutico
+9,16/05/26,Goiás,1-0,Botafogo-SP
+9,16/05/26,Cuiabá,0-0,Grêmio Novorizontino
+9,17/05/26,Athletic-MG,1-1,Juventude
+9,17/05/26,Vila Nova,2-0,Avaí
+9,17/05/26,Ceará,2-1,Fortaleza
+9,17/05/26,Criciúma,1-1,Atlético Goianiense
+9,17/05/26,Sport,1-2,CRB
+9,18/05/26,Ponte Preta,1-4,Londrina
+10,22/05/26,Náutico,1-0,Cuiabá
+10,23/05/26,Grêmio Novorizontino,2-1,Ceará
+10,23/05/26,Fortaleza,3-0,Londrina
+10,23/05/26,Juventude,0-1,Sport
+10,24/05/26,Atlético Goianiense,0-1,São Bernardo
+10,24/05/26,CRB,4-2,Ponte Preta
+10,24/05/26,América Mineiro,1-2,Vila Nova
+10,24/05/26,Avaí,0-2,Goiás
+10,24/05/26,Operário Ferroviário,1-1,Criciúma
+10,25/05/26,Botafogo-SP,1-2,Athletic-MG
+11,29/05/26,Juventude,3-0,América Mineiro
+11,30/05/26,Atlético Goianiense,1-1,Goiás
+11,30/05/26,Avaí,1-2,Criciúma
+11,30/05/26,Athletic-MG,1-0,Fortaleza
+11,30/05/26,Sport,2-0,Náutico
+11,31/05/26,São Bernardo,1-1,Grêmio Novorizontino
+11,31/05/26,Londrina,0-1,Vila Nova
+11,31/05/26,Ceará,1-2,Operário Ferroviário
+11,31/05/26,Cuiabá,2-0,CRB
+11,01/06/26,Ponte Preta,0-0,Botafogo-SP
+12,05/06/26,Operário Ferroviário,2-1,Juventude
+12,06/06/26,Criciúma,1-0,Londrina
+12,07/06/26,CRB,2-3,São Bernardo
+12,08/06/26,América Mineiro,1-2,Atlético Goianiense
+12,08/06/26,Vila Nova,1-0,Botafogo-SP
+12,09/06/26,Ponte Preta,1-2,Cuiabá
+12,09/06/26,Náutico,0-1,Fortaleza
+12,10/06/26,Ceará,2-1,Avaí
+12,10/06/26,Goiás,0-4,Grêmio Novorizontino
+12,10/06/26,Sport,1-1,Athletic-MG
+13,12/06/26,Atlético Goianiense,3-3,CRB
+13,14/06/26,São Bernardo,0-0,Sport
+13,14/06/26,Juventude,3-0,Ponte Preta
+13,14/06/26,Athletic-MG,1-1,Goiás
+13,14/06/26,Cuiabá,1-0,Vila Nova
+13,14/06/26,Botafogo-SP,2-1,Operário Ferroviário
+13,14/06/26,Grêmio Novorizontino,2-2,Náutico
+13,15/06/26,Londrina,3-2,Avaí
+13,15/06/26,Criciúma,1-1,Ceará
+13,16/06/26,Fortaleza,0-3,América Mineiro
+14,18/06/26,Sport,1-1,Atlético Goianiense
+14,20/06/26,Londrina,2-0,Athletic-MG
+14,20/06/26,Ceará,0-1,Botafogo-SP
+14,20/06/26,Vila Nova,4-3,Náutico
+14,21/06/26,Avaí,1-0,Cuiabá
+14,21/06/26,CRB,1-1,Fortaleza
+14,21/06/26,São Bernardo,0-1,Juventude
+14,21/06/26,Goiás,0-3,Operário Ferroviário
+14,22/06/26,Ponte Preta,0-2,Grêmio Novorizontino
+14,23/06/26,América Mineiro,0-1,Criciúma
+15,25/06/26,Cuiabá,2-2,Londrina
+15,26/06/26,Grêmio Novorizontino,2-1,Vila Nova
+15,27/06/26,Operário Ferroviário,1-0,América Mineiro
+15,27/06/26,Criciúma,1-0,São Bernardo
+15,28/06/26,Athletic-MG,1-0,Avaí
+15,28/06/26,Atlético Goianiense,2-0,Ponte Preta
+15,28/06/26,Juventude,2-0,Ceará
+15,28/06/26,Fortaleza,2-1,Sport
+15,28/06/26,Náutico,0-1,Goiás
+15,30/06/26,Botafogo-SP,0-1,CRB
+16,02/07/26,Cuiabá,1-0,América Mineiro
+16,02/07/26,Fortaleza,2-0,Ponte Preta
+16,04/07/26,Grêmio Novorizontino,3-0,Atlético Goianiense
+16,04/07/26,Londrina,5-0,CRB
+16,04/07/26,Criciúma,1-0,Sport
+16,04/07/26,Goiás,2-0,Ceará
+16,05/07/26,Náutico,0-0,Juventude
+16,06/07/26,Botafogo-SP,3-1,Avaí
+16,06/07/26,Vila Nova,2-1,São Bernardo
+16,07/07/26,Athletic-MG,0-1,Operário Ferroviário
+17,08/07/26,Ponte Preta,1-2,Criciúma
+17,10/07/26,Juventude,1-0,Vila Nova
+17,10/07/26,Sport,3-3,Botafogo-SP
+17,12/07/26,Operário Ferroviário,2-1,Grêmio Novorizontino
+17,12/07/26,São Bernardo,2-2,Cuiabá
+17,12/07/26,Avaí,2-0,Náutico
+17,12/07/26,Atlético Goianiense,1-0,Fortaleza
+17,12/07/26,CRB,2-2,Goiás
+17,13/07/26,América Mineiro,1-1,Londrina
+17,13/07/26,Ceará,0-0,Athletic-MG
+18,16/07/26,CRB,2-1,Náutico
+18,17/07/26,São Bernardo,1-1,Avaí
+18,17/07/26,América Mineiro,1-1,Ceará
+18,17/07/26,Juventude,2-0,Cuiabá
+18,17/07/26,Londrina,0-0,Botafogo-SP
+18,17/07/26,Fortaleza,1-0,Grêmio Novorizontino
+18,18/07/26,Ponte Preta,1-2,Goiás
+18,18/07/26,Criciúma,2-0,Vila Nova
+18,18/07/26,Sport,2-2,Operário Ferroviário
+18,18/07/26,Atlético Goianiense,0-0,Athletic-MG
+19,21/07/26,Grêmio Novorizontino,0-1,Criciúma
+19,21/07/26,Avaí,2-1,América Mineiro
+19,21/07/26,Vila Nova,2-1,Fortaleza
+19,22/07/26,Operário Ferroviário,vs,Ponte Preta
+19,22/07/26,Ceará,vs,CRB
+19,22/07/26,Goiás,vs,Sport
+19,22/07/26,Náutico,vs,Londrina
+19,23/07/26,Athletic-MG,vs,São Bernardo
+19,23/07/26,Cuiabá,vs,Atlético Goianiense
+19,23/07/26,Botafogo-SP,vs,Juventude
+20,26/07/26,São Bernardo,vs,Ceará
+20,26/07/26,Criciúma,vs,Náutico
+20,26/07/26,América Mineiro,vs,Goiás
+20,26/07/26,Londrina,vs,Grêmio Novorizontino
+20,27/07/26,Atlético Goianiense,vs,Operário Ferroviário
+20,27/07/26,Sport,vs,Cuiabá
+20,27/07/26,CRB,vs,Vila Nova
+20,28/07/26,Ponte Preta,vs,Athletic-MG
+20,28/07/26,Juventude,vs,Avaí
+20,28/07/26,Fortaleza,vs,Botafogo-SP
+21,07/08/26,Operário Ferroviário,vs,São Bernardo
+21,07/08/26,Ceará,vs,Ponte Preta
+21,08/08/26,Vila Nova,vs,Sport
+21,08/08/26,Botafogo-SP,vs,América Mineiro
+21,09/08/26,Athletic-MG,vs,Criciúma
+21,09/08/26,Grêmio Novorizontino,vs,Juventude
+21,09/08/26,Náutico,vs,Atlético Goianiense
+21,09/08/26,Cuiabá,vs,Fortaleza
+21,10/08/26,Goiás,vs,Londrina
+21,11/08/26,Avaí,vs,CRB
+22,14/08/26,Ponte Preta,vs,Náutico
+22,14/08/26,Sport,vs,Londrina
+22,15/08/26,Atlético Goianiense,vs,Vila Nova
+22,15/08/26,Criciúma,vs,Goiás
+22,15/08/26,Ceará,vs,Cuiabá
+22,15/08/26,Juventude,vs,Fortaleza
+22,16/08/26,Operário Ferroviário,vs,Avaí
+22,16/08/26,São Bernardo,vs,Botafogo-SP
+22,16/08/26,América Mineiro,vs,Athletic-MG
+22,16/08/26,CRB,vs,Grêmio Novorizontino
+23,18/08/26,Londrina,vs,Atlético Goianiense
+23,18/08/26,Náutico,vs,Ceará
+23,18/08/26,Goiás,vs,Juventude
+23,19/08/26,Fortaleza,vs,São Bernardo
+23,19/08/26,Avaí,vs,Sport
+23,19/08/26,Cuiabá,vs,Operário Ferroviário
+23,19/08/26,Vila Nova,vs,Ponte Preta
+23,19/08/26,Botafogo-SP,vs,Criciúma
+23,20/08/26,Athletic-MG,vs,CRB
+23,20/08/26,Grêmio Novorizontino,vs,América Mineiro
+24,22/08/26,Ceará,vs,Londrina
+24,22/08/26,Cuiabá,vs,Goiás
+24,23/08/26,Ponte Preta,vs,Avaí
+24,23/08/26,São Bernardo,vs,Náutico
+24,23/08/26,Operário Ferroviário,vs,Vila Nova
+24,23/08/26,Criciúma,vs,Fortaleza
+24,24/08/26,Athletic-MG,vs,Grêmio Novorizontino
+24,24/08/26,Sport,vs,América Mineiro
+24,25/08/26,Atlético Goianiense,vs,Botafogo-SP
+24,25/08/26,Juventude,vs,CRB
+25,27/08/26,Botafogo-SP,vs,Cuiabá
+25,27/08/26,Grêmio Novorizontino,vs,Sport
+25,27/08/26,América Mineiro,vs,Ponte Preta
+25,27/08/26,Londrina,vs,Juventude
+25,27/08/26,Fortaleza,vs,Operário Ferroviário
+25,27/08/26,Goiás,vs,São Bernardo
+25,27/08/26,Avaí,vs,Atlético Goianiense
+25,27/08/26,Náutico,vs,Athletic-MG
+25,27/08/26,CRB,vs,Criciúma
+25,27/08/26,Vila Nova,vs,Ceará
+26,03/09/26,Ponte Preta,vs,São Bernardo
+26,03/09/26,Grêmio Novorizontino,vs,Avaí
+26,03/09/26,Athletic-MG,vs,Vila Nova
+26,03/09/26,Londrina,vs,Operário Ferroviário
+26,03/09/26,Ceará,vs,Sport
+26,03/09/26,Goiás,vs,Fortaleza
+26,03/09/26,Criciúma,vs,Cuiabá
+26,03/09/26,Náutico,vs,Botafogo-SP
+26,03/09/26,CRB,vs,América Mineiro
+26,03/09/26,Juventude,vs,Atlético Goianiense
+27,07/09/26,Botafogo-SP,vs,Grêmio Novorizontino
+27,07/09/26,São Bernardo,vs,Londrina
+27,07/09/26,América Mineiro,vs,Náutico
+27,07/09/26,Operário Ferroviário,vs,CRB
+27,07/09/26,Fortaleza,vs,Avaí
+27,07/09/26,Atlético Goianiense,vs,Ceará
+27,07/09/26,Criciúma,vs,Juventude
+27,07/09/26,Sport,vs,Ponte Preta
+27,07/09/26,Cuiabá,vs,Athletic-MG
+27,07/09/26,Vila Nova,vs,Goiás
+28,10/09/26,Botafogo-SP,vs,Goiás
+28,10/09/26,Grêmio Novorizontino,vs,Cuiabá
+28,10/09/26,América Mineiro,vs,São Bernardo
+28,10/09/26,Londrina,vs,Ponte Preta
+28,10/09/26,Fortaleza,vs,Ceará
+28,10/09/26,Atlético Goianiense,vs,Criciúma
+28,10/09/26,Avaí,vs,Vila Nova
+28,10/09/26,Náutico,vs,Operário Ferroviário
+28,10/09/26,CRB,vs,Sport
+28,10/09/26,Juventude,vs,Athletic-MG
+29,17/09/26,Ponte Preta,vs,CRB
+29,17/09/26,São Bernardo,vs,Atlético Goianiense
+29,17/09/26,Athletic-MG,vs,Botafogo-SP
+29,17/09/26,Londrina,vs,Fortaleza
+29,17/09/26,Ceará,vs,Grêmio Novorizontino
+29,17/09/26,Goiás,vs,Avaí
+29,17/09/26,Criciúma,vs,Operário Ferroviário
+29,17/09/26,Sport,vs,Juventude
+29,17/09/26,Cuiabá,vs,Náutico
+29,17/09/26,Vila Nova,vs,América Mineiro
+30,24/09/26,Botafogo-SP,vs,Ponte Preta
+30,24/09/26,Grêmio Novorizontino,vs,São Bernardo
+30,24/09/26,América Mineiro,vs,Juventude
+30,24/09/26,Operário Ferroviário,vs,Ceará
+30,24/09/26,Fortaleza,vs,Athletic-MG
+30,24/09/26,Goiás,vs,Atlético Goianiense
+30,24/09/26,Criciúma,vs,Avaí
+30,24/09/26,Náutico,vs,Sport
+30,24/09/26,CRB,vs,Cuiabá
+30,24/09/26,Vila Nova,vs,Londrina

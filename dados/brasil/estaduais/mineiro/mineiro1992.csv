@@ -1,0 +1,289 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,03/08/91,América Mineiro,1-0,Villa Nova-MG
+A,04/08/91,Paraisense,0-1,Esportivo-MG
+A,04/08/91,Pouso Alegre,1-0,Trespontano
+A,04/08/91,Tupi,0-0,Nacional Uberaba
+B,04/08/91,Democrata-GV,1-1,Atlético Mineiro
+B,04/08/91,Democrata-SL,1-0,Ribeiro Junqueira
+B,04/08/91,Flamengo-MG,0-1,Juventus de Divinópolis
+B,04/08/91,Ipiranga,0-1,Valeriodoce
+C,04/08/91,Araxá,3-1,Uberlândia
+C,04/08/91,Cruzeiro,1-0,Rio Branco de Andradas
+C,04/08/91,Fabril,0-0,Caldense
+C,04/08/91,Uberaba,0-1,CA Patrocinense
+B,07/08/91,Atlético Mineiro,2-1,Juventus de Divinópolis
+B,10/08/91,Atlético Mineiro,1-1,Ipiranga
+A,11/08/91,Esportivo-MG,1-1,América Mineiro
+A,11/08/91,Nacional Uberaba,5-3,Pouso Alegre
+A,11/08/91,Trespontano,1-0,Tupi
+A,11/08/91,Villa Nova-MG,2-1,Paraisense
+B,11/08/91,Juventus de Divinópolis,1-1,Democrata-SL
+B,11/08/91,Ribeiro Junqueira,0-3,Democrata-GV
+B,11/08/91,Valeriodoce,0-0,Flamengo-MG
+C,11/08/91,Caldense,1-1,Uberaba
+C,11/08/91,CA Patrocinense,0-0,Araxá
+C,11/08/91,Rio Branco de Andradas,2-0,Fabril
+C,11/08/91,Uberlândia,0-1,Cruzeiro
+B,14/08/91,Atlético Mineiro,2-0,Ribeiro Junqueira
+A,18/08/91,América Mineiro,3-0,Nacional Uberaba
+A,18/08/91,Pouso Alegre,0-0,Paraisense
+A,18/08/91,Trespontano,1-1,Villa Nova-MG
+A,18/08/91,Tupi,2-0,Esportivo-MG
+B,18/08/91,Juventus de Divinópolis,1-1,Valeriodoce
+B,18/08/91,Democrata-SL,0-0,Atlético Mineiro
+B,18/08/91,Flamengo-MG,2-2,Ribeiro Junqueira
+B,18/08/91,Ipiranga,0-0,Democrata-GV
+C,18/08/91,Araxá,1-0,Caldense
+C,18/08/91,Cruzeiro,0-0,CA Patrocinense
+C,18/08/91,Uberaba,0-0,Rio Branco de Andradas
+C,18/08/91,Uberlândia,2-1,Fabril
+A,25/08/91,Esportivo-MG,3-1,Trespontano
+A,25/08/91,Paraisense,1-0,Nacional Uberaba
+A,25/08/91,Tupi,1-1,América Mineiro
+A,25/08/91,Villa Nova-MG,2-1,Pouso Alegre
+B,25/08/91,Democrata-GV,1-0,Flamengo-MG
+B,25/08/91,Ribeiro Junqueira,1-1,Ipiranga
+B,25/08/91,Valeriodoce,2-0,Democrata-SL
+C,25/08/91,Caldense,1-1,CA Patrocinense
+C,25/08/91,Cruzeiro,3-0,Uberaba
+C,25/08/91,Fabril,0-0,Araxá
+C,25/08/91,Uberlândia,0-1,Rio Branco de Andradas
+A,31/08/91,Nacional Uberaba,0-2,Esportivo-MG
+A,01/09/91,Pouso Alegre,1-1,América Mineiro
+A,01/09/91,Trespontano,0-1,Paraisense
+A,01/09/91,Villa Nova-MG,2-1,Tupi
+B,01/09/91,Democrata-SL,3-2,Flamengo-MG
+B,01/09/91,Ipiranga,1-0,Juventus de Divinópolis
+B,01/09/91,Valeriodoce,0-0,Democrata-GV
+C,01/09/91,Cruzeiro,2-0,Caldense
+C,01/09/91,CA Patrocinense,2-0,Uberlândia
+C,01/09/91,Rio Branco de Andradas,3-2,Araxá
+C,01/09/91,Uberaba,0-1,Fabril
+A,04/09/91,América Mineiro,0-0,Paraisense
+A,04/09/91,Esportivo-MG,1-0,Villa Nova-MG
+A,04/09/91,Nacional Uberaba,1-0,Trespontano
+B,04/09/91,Juventus de Divinópolis,3-1,Democrata-GV
+B,04/09/91,Democrata-SL,1-2,Ipiranga
+B,04/09/91,Flamengo-MG,1-7,Atlético Mineiro
+B,04/09/91,Ribeiro Junqueira,0-0,Valeriodoce
+C,04/09/91,Araxá,3-0,Uberaba
+C,04/09/91,Fabril,1-2,Cruzeiro
+C,04/09/91,Rio Branco de Andradas,0-0,CA Patrocinense
+C,04/09/91,Uberlândia,1-1,Caldense
+A,05/09/91,Tupi,3-2,Pouso Alegre
+B,07/09/91,Juventus de Divinópolis,4-2,Ribeiro Junqueira
+A,08/09/91,Paraisense,1-0,Tupi
+A,08/09/91,Pouso Alegre,0-2,Esportivo-MG
+A,08/09/91,Trespontano,1-0,América Mineiro
+A,08/09/91,Villa Nova-MG,2-3,Nacional Uberaba
+B,08/09/91,Democrata-GV,3-1,Democrata-SL
+B,08/09/91,Ipiranga,1-0,Flamengo-MG
+B,08/09/91,Valeriodoce,0-0,Atlético Mineiro
+C,08/09/91,Caldense,1-1,Rio Branco de Andradas
+C,08/09/91,Cruzeiro,0-0,Araxá
+C,08/09/91,CA Patrocinense,1-0,Fabril
+C,08/09/91,Uberaba,3-0,Uberlândia
+A,15/09/91,Esportivo-MG,0-0,Paraisense
+A,15/09/91,Nacional Uberaba,1-1,Tupi
+A,15/09/91,Trespontano,3-2,Pouso Alegre
+A,15/09/91,Villa Nova-MG,1-6,América Mineiro
+B,15/09/91,Atlético Mineiro,0-0,Democrata-GV
+B,15/09/91,Juventus de Divinópolis,5-0,Flamengo-MG
+B,15/09/91,Ribeiro Junqueira,2-0,Democrata-SL
+B,15/09/91,Valeriodoce,0-4,Ipiranga
+C,15/09/91,Caldense,0-0,Fabril
+C,15/09/91,CA Patrocinense,0-1,Uberaba
+C,15/09/91,Rio Branco de Andradas,1-1,Cruzeiro
+C,15/09/91,Uberlândia,1-3,Araxá
+A,21/09/91,Tupi,3-1,Trespontano
+B,21/09/91,Democrata-SL,1-0,Juventus de Divinópolis
+A,22/09/91,América Mineiro,2-0,Esportivo-MG
+A,22/09/91,Paraisense,1-0,Villa Nova-MG
+A,22/09/91,Pouso Alegre,1-1,Nacional Uberaba
+B,22/09/91,Democrata-GV,1-1,Ribeiro Junqueira
+B,22/09/91,Flamengo-MG,1-0,Valeriodoce
+B,22/09/91,Ipiranga,0-0,Atlético Mineiro
+C,22/09/91,Araxá,0-0,CA Patrocinense
+C,22/09/91,Cruzeiro,2-0,Uberlândia
+C,22/09/91,Fabril,0-0,Rio Branco de Andradas
+C,22/09/91,Uberaba,0-1,Caldense
+C,25/09/91,Caldense,0-0,Cruzeiro
+B,28/09/91,Atlético Mineiro,2-0,Democrata-SL
+A,29/09/91,Esportivo-MG,2-0,Tupi
+A,29/09/91,Nacional Uberaba,0-1,América Mineiro
+A,29/09/91,Paraisense,1-1,Pouso Alegre
+A,29/09/91,Villa Nova-MG,0-2,Trespontano
+B,29/09/91,Democrata-GV,1-1,Ipiranga
+B,29/09/91,Ribeiro Junqueira,3-0,Flamengo-MG
+B,29/09/91,Valeriodoce,2-1,Juventus de Divinópolis
+C,29/09/91,Caldense,1-1,Araxá
+C,29/09/91,Cruzeiro,1-0,CA Patrocinense
+C,29/09/91,Rio Branco de Andradas,2-0,Uberaba
+C,29/09/91,Uberlândia,0-1,Fabril
+B,05/10/91,Democrata-SL,0-1,Valeriodoce
+A,06/10/91,América Mineiro,0-1,Tupi
+A,06/10/91,Nacional Uberaba,1-0,Paraisense
+A,06/10/91,Pouso Alegre,0-0,Villa Nova-MG
+A,06/10/91,Trespontano,1-1,Esportivo-MG
+B,06/10/91,Juventus de Divinópolis,0-3,Atlético Mineiro
+B,06/10/91,Flamengo-MG,0-1,Democrata-GV
+B,06/10/91,Ipiranga,3-1,Ribeiro Junqueira
+C,06/10/91,Araxá,1-1,Fabril
+C,06/10/91,CA Patrocinense,3-1,Caldense
+C,06/10/91,Rio Branco de Andradas,2-0,Uberlândia
+C,09/10/91,Fabril,1-1,Uberaba
+B,12/10/91,Ribeiro Junqueira,0-2,Atlético Mineiro
+A,13/10/91,América Mineiro,5-0,Pouso Alegre
+A,13/10/91,Esportivo-MG,2-1,Nacional Uberaba
+A,13/10/91,Paraisense,1-0,Trespontano
+A,13/10/91,Tupi,3-1,Villa Nova-MG
+B,13/10/91,Juventus de Divinópolis,1-1,Ipiranga
+B,13/10/91,Democrata-GV,3-0,Valeriodoce
+B,13/10/91,Flamengo-MG,2-0,Democrata-SL
+C,13/10/91,Araxá,0-0,Rio Branco de Andradas
+C,13/10/91,Uberlândia,2-1,CA Patrocinense
+C,13/10/91,Cruzeiro,3-0,Fabril
+A,16/10/91,Paraisense,1-0,América Mineiro
+A,17/10/91,Pouso Alegre,0-0,Tupi
+A,17/10/91,Trespontano,1-0,Nacional Uberaba
+A,17/10/91,Villa Nova-MG,1-1,Esportivo-MG
+B,17/10/91,Atlético Mineiro,1-0,Flamengo-MG
+B,17/10/91,Democrata-GV,1-1,Juventus de Divinópolis
+B,17/10/91,Ipiranga,1-1,Democrata-SL
+B,17/10/91,Valeriodoce,1-0,Ribeiro Junqueira
+C,17/10/91,Caldense,0-1,Uberlândia
+C,17/10/91,CA Patrocinense,0-0,Rio Branco de Andradas
+C,17/10/91,Uberaba,1-0,Araxá
+A,20/10/91,América Mineiro,2-1,Trespontano
+A,20/10/91,Esportivo-MG,0-0,Pouso Alegre
+A,20/10/91,Nacional Uberaba,2-0,Villa Nova-MG
+A,20/10/91,Tupi,3-0,Paraisense
+B,20/10/91,Atlético Mineiro,0-1,Valeriodoce
+B,20/10/91,Democrata-SL,1-1,Democrata-GV
+B,20/10/91,Flamengo-MG,1-0,Ipiranga
+B,20/10/91,Ribeiro Junqueira,1-2,Juventus de Divinópolis
+C,20/10/91,Araxá,0-1,Cruzeiro
+C,20/10/91,Fabril,0-0,CA Patrocinense
+C,20/10/91,Rio Branco de Andradas,3-0,Caldense
+C,20/10/91,Uberlândia,1-0,Uberaba
+C,25/10/91,Uberaba,0-1,Cruzeiro
+HXF,26/10/91,Atlético Mineiro,3-1,Rio Branco de Andradas
+HXF,27/10/91,Cruzeiro,2-0,Democrata-GV
+HXF,27/10/91,Esportivo-MG,2-1,América Mineiro
+D,03/11/91,Araxá,1-0,Villa Nova-MG
+D,03/11/91,Nacional Uberaba,0-0,Ipiranga
+D,03/11/91,Ribeiro Junqueira,1-1,Caldense
+E,03/11/91,Paraisense,1-0,Democrata-SL
+E,03/11/91,Uberlândia,2-0,Pouso Alegre
+E,03/11/91,Valeriodoce,0-2,Fabril
+F,03/11/91,Juventus de Divinópolis,0-0,CA Patrocinense
+F,03/11/91,Flamengo-MG,3-1,Uberaba
+F,03/11/91,Tupi,3-2,Trespontano
+HXF,03/11/91,Democrata-GV,0-2,Atlético Mineiro
+HXF,03/11/91,Cruzeiro,0-1,América Mineiro
+HXF,03/11/91,Rio Branco de Andradas,1-0,Esportivo-MG
+D,10/11/91,Caldense,1-1,Nacional Uberaba
+D,10/11/91,Ipiranga,1-0,Araxá
+D,10/11/91,Villa Nova-MG,1-2,Ribeiro Junqueira
+E,10/11/91,Democrata-SL,4-3,Uberlândia
+E,10/11/91,Fabril,2-2,Paraisense
+E,10/11/91,Pouso Alegre,1-0,Valeriodoce
+F,10/11/91,CA Patrocinense,0-0,Tupi
+F,10/11/91,Trespontano,0-0,Flamengo-MG
+F,10/11/91,Uberaba,2-0,Juventus de Divinópolis
+HXF,10/11/91,Esportivo-MG,0-0,Democrata-GV
+HXF,10/11/91,Rio Branco de Andradas,2-0,América Mineiro
+D,13/11/91,Caldense,1-0,Villa Nova-MG
+D,13/11/91,Nacional Uberaba,0-0,Araxá
+D,13/11/91,Ribeiro Junqueira,1-1,Ipiranga
+E,13/11/91,Pouso Alegre,1-1,Democrata-SL
+E,13/11/91,Uberlândia,1-0,Fabril
+E,13/11/91,Valeriodoce,2-0,Paraisense
+F,13/11/91,Juventus de Divinópolis,1-0,Tupi
+F,13/11/91,Flamengo-MG,2-0,CA Patrocinense
+F,14/11/91,Uberaba,2-0,Trespontano
+D,17/11/91,Araxá,1-2,Caldense
+D,17/11/91,Nacional Uberaba,1-1,Ribeiro Junqueira
+E,17/11/91,Fabril,0-0,Democrata-SL
+E,17/11/91,Paraisense,1-2,Pouso Alegre
+E,17/11/91,Valeriodoce,0-1,Uberlândia
+F,17/11/91,Juventus de Divinópolis,2-0,Flamengo-MG
+F,17/11/91,CA Patrocinense,1-0,Trespontano
+F,17/11/91,Tupi,1-0,Uberaba
+HXF,17/11/91,Atlético Mineiro,0-1,América Mineiro
+HXF,17/11/91,Cruzeiro,3-1,Esportivo-MG
+HXF,17/11/91,Democrata-GV,1-0,Rio Branco de Andradas
+D,20/11/91,Caldense,1-0,Ipiranga
+D,20/11/91,Ribeiro Junqueira,0-1,Araxá
+E,20/11/91,Uberlândia,3-3,Paraisense
+D,21/11/91,Villa Nova-MG,3-0,Nacional Uberaba
+E,21/11/91,Democrata-SL,2-2,Valeriodoce
+E,21/11/91,Pouso Alegre,2-0,Fabril
+F,21/11/91,Flamengo-MG,1-0,Tupi
+F,21/11/91,Trespontano,1-0,Juventus de Divinópolis
+HXF,21/11/91,América Mineiro,1-1,Democrata-GV
+HXF,21/11/91,Atlético Mineiro,5-1,Esportivo-MG
+D,23/11/91,Villa Nova-MG,2-1,Araxá
+D,24/11/91,Caldense,1-0,Ribeiro Junqueira
+D,24/11/91,Ipiranga,2-0,Nacional Uberaba
+E,24/11/91,Democrata-SL,2-2,Paraisense
+E,24/11/91,Fabril,0-2,Valeriodoce
+E,24/11/91,Pouso Alegre,0-1,Uberlândia
+F,24/11/91,CA Patrocinense,2-0,Juventus de Divinópolis
+F,24/11/91,Trespontano,1-1,Tupi
+F,24/11/91,Uberaba,2-1,Flamengo-MG
+HXF,24/11/91,Cruzeiro,0-2,Atlético Mineiro
+HXF,24/11/91,Democrata-GV,3-0,América Mineiro
+HXF,24/11/91,Esportivo-MG,2-1,Rio Branco de Andradas
+D,27/11/91,Ipiranga,0-1,Villa Nova-MG
+F,27/11/91,Uberaba,3-0,CA Patrocinense
+HXF,27/11/91,América Mineiro,0-1,Rio Branco de Andradas
+HXF,27/11/91,Democrata-GV,2-1,Cruzeiro
+HXF,29/11/91,Esportivo-MG,0-0,Atlético Mineiro
+D,01/12/91,Araxá,1-1,Ipiranga
+D,01/12/91,Nacional Uberaba,1-1,Caldense
+D,01/12/91,Ribeiro Junqueira,0-1,Villa Nova-MG
+E,01/12/91,Paraisense,1-0,Fabril
+E,01/12/91,Uberlândia,0-0,Democrata-SL
+E,01/12/91,Valeriodoce,1-1,Pouso Alegre
+F,01/12/91,Juventus de Divinópolis,0-2,Uberaba
+F,01/12/91,Flamengo-MG,3-1,Trespontano
+F,01/12/91,Tupi,2-1,CA Patrocinense
+HXF,01/12/91,América Mineiro,0-0,Cruzeiro
+HXF,01/12/91,Democrata-GV,3-0,Esportivo-MG
+HXF,01/12/91,Rio Branco de Andradas,0-0,Atlético Mineiro
+HXF,04/12/91,Rio Branco de Andradas,1-2,Cruzeiro
+D,04/12/91,Araxá,0-0,Nacional Uberaba
+D,04/12/91,Villa Nova-MG,2-2,Caldense
+E,04/12/91,Democrata-SL,1-0,Pouso Alegre
+E,04/12/91,Fabril,2-1,Uberlândia
+F,04/12/91,CA Patrocinense,0-0,Flamengo-MG
+F,04/12/91,Trespontano,2-1,Uberaba
+F,04/12/91,Tupi,0-0,Juventus de Divinópolis
+D,05/12/91,Ipiranga,0-0,Ribeiro Junqueira
+E,05/12/91,Paraisense,0-0,Valeriodoce
+D,07/12/91,Caldense,1-0,Araxá
+E,07/12/91,Uberlândia,0-0,Valeriodoce
+D,08/12/91,Ribeiro Junqueira,2-1,Nacional Uberaba
+D,08/12/91,Villa Nova-MG,2-2,Ipiranga
+E,08/12/91,Democrata-SL,2-1,Fabril
+E,08/12/91,Pouso Alegre,1-1,Paraisense
+F,08/12/91,Flamengo-MG,1-1,Juventus de Divinópolis
+F,08/12/91,Trespontano,2-0,CA Patrocinense
+F,08/12/91,Uberaba,2-0,Tupi
+HXF,08/12/91,América Mineiro,1-1,Atlético Mineiro
+HXF,08/12/91,Esportivo-MG,1-1,Cruzeiro
+HXF,08/12/91,Rio Branco de Andradas,2-2,Democrata-GV
+D,11/12/91,Ipiranga,1-0,Caldense
+HXF,11/12/91,Atlético Mineiro,2-0,Democrata-GV
+HXF,11/12/91,Cruzeiro,1-0,Rio Branco de Andradas
+D,12/12/91,Araxá,1-0,Ribeiro Junqueira
+D,12/12/91,Nacional Uberaba,0-0,Villa Nova-MG
+E,12/12/91,Valeriodoce,2-0,Democrata-SL
+E,14/12/91,Paraisense,5-1,Uberlândia
+F,14/12/91,CA Patrocinense,2-2,Uberaba
+F,14/12/91,Tupi,0-0,Flamengo-MG
+HXF,14/12/91,América Mineiro,4-0,Esportivo-MG
+E,15/12/91,Fabril,1-1,Pouso Alegre
+F,15/12/91,Juventus de Divinópolis,2-1,Trespontano
+HXF,15/12/91,Atlético Mineiro,1-0,Cruzeiro

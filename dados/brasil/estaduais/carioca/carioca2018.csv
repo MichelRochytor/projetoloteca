@@ -1,0 +1,133 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,19/01/11,Boavista-RJ,1-1,America-RJ
+A,19/01/11,Vasco,0-1,Resende
+A,19/01/11,Flamengo,2-0,Volta Redonda
+A,20/01/11,Americano,1-1,Nova Iguaçu
+B,20/01/11,Olaria,1-0,Madureira
+B,20/01/11,Botafogo,2-1,Duque de Caxias
+B,20/01/11,Bangu,0-1,Fluminense
+B,20/01/11,Macaé,3-0,Cabofriense
+A,22/01/11,America-RJ,1-3,Flamengo
+A,22/01/11,Volta Redonda,0-1,Boavista-RJ
+A,23/01/11,Resende,1-1,Americano
+A,23/01/11,Nova Iguaçu,3-2,Vasco
+B,23/01/11,Duque de Caxias,4-1,Macaé
+B,23/01/11,Madureira,0-1,Bangu
+B,23/01/11,Fluminense,6-2,Olaria
+B,23/01/11,Cabofriense,0-5,Botafogo
+A,26/01/11,Volta Redonda,1-1,Nova Iguaçu
+A,26/01/11,America-RJ,1-4,Resende
+B,26/01/11,Bangu,1-0,Duque de Caxias
+B,26/01/11,Olaria,2-0,Cabofriense
+A,26/01/11,Flamengo,2-0,Americano
+B,26/01/11,Botafogo,4-1,Madureira
+A,27/01/11,Boavista-RJ,3-1,Vasco
+B,27/01/11,Fluminense,3-1,Macaé
+A,29/01/11,Nova Iguaçu,2-0,America-RJ
+A,29/01/11,Resende,1-0,Volta Redonda
+B,29/01/11,Botafogo,3-1,Olaria
+B,29/01/11,Duque de Caxias,3-3,Madureira
+A,30/01/11,Americano,2-3,Boavista-RJ
+B,30/01/11,Cabofriense,2-4,Fluminense
+A,30/01/11,Vasco,1-2,Flamengo
+B,30/01/11,Macaé,2-2,Bangu
+A,02/02/11,Boavista-RJ,0-1,Resende
+A,02/02/11,America-RJ,3-1,Americano
+B,02/02/11,Madureira,2-1,Cabofriense
+B,02/02/11,Olaria,1-1,Macaé
+B,02/02/11,Bangu,1-1,Botafogo
+A,02/02/11,Flamengo,1-0,Nova Iguaçu
+A,03/02/11,Vasco,0-0,Volta Redonda
+B,03/02/11,Fluminense,3-1,Duque de Caxias
+A,05/02/11,Resende,1-2,Nova Iguaçu
+B,05/02/11,Bangu,2-2,Cabofriense
+B,05/02/11,Macaé,2-2,Madureira
+A,06/02/11,Vasco,3-0,Americano
+A,06/02/11,Boavista-RJ,2-3,Flamengo
+A,06/02/11,Volta Redonda,2-0,America-RJ
+B,06/02/11,Duque de Caxias,4-2,Olaria
+B,06/02/11,Fluminense,2-3,Botafogo
+A,12/02/11,America-RJ,0-9,Vasco
+A,13/02/11,Flamengo,1-0,Resende
+A,13/02/11,Nova Iguaçu,3-5,Boavista-RJ
+A,13/02/11,Americano,2-1,Volta Redonda
+B,13/02/11,Madureira,0-1,Fluminense
+B,13/02/11,Olaria,1-0,Bangu
+B,13/02/11,Cabofriense,2-0,Duque de Caxias
+B,13/02/11,Botafogo,1-1,Macaé
+SF,19/02/11,Resende,1-1(5-4 Pen.),Bangu
+SF,19/02/11,Fluminense,2-2(2-4 Pen.),Boavista-RJ
+SF,20/02/11,Nova Iguaçu,1-3,Olaria
+SF,20/02/11,Flamengo,1-1(3-1 Pen.),Botafogo
+F,27/02/11,Resende,1-1(1-3 Pen.),Olaria
+F,27/02/11,Flamengo,1-0,Boavista-RJ
+B,03/03/11,America-RJ,2-0,Cabofriense
+B,03/03/11,Boavista-RJ,3-1,Bangu
+B,03/03/11,Madureira,3-1,Nova Iguaçu
+B,03/03/11,Duque de Caxias,2-2,Americano
+B,04/03/11,Macaé,3-1,Vasco
+B,05/03/11,Botafogo,4-2,Volta Redonda
+B,05/03/11,Flamengo,3-2,Olaria
+B,05/03/11,Resende,1-2,Fluminense
+B,09/03/11,Americano,2-1,Macaé
+B,09/03/11,Cabofriense,2-1,Resende
+B,09/03/11,Olaria,2-0,Boavista-RJ
+B,09/03/11,Nova Iguaçu,0-1,Botafogo
+B,09/03/11,Fluminense,3-1,America-RJ
+B,09/03/11,Vasco,4-2,Duque de Caxias
+B,10/03/11,Bangu,1-2,Flamengo
+B,10/03/11,Volta Redonda,3-2,Madureira
+B,12/03/11,Boavista-RJ,3-1,Cabofriense
+B,12/03/11,Resende,1-2,Olaria
+B,12/03/11,Botafogo,4-0,Americano
+B,13/03/11,Madureira,2-4,Vasco
+B,13/03/11,America-RJ,1-3,Bangu
+B,13/03/11,Duque de Caxias,0-0,Volta Redonda
+B,13/03/11,Macaé,0-1,Nova Iguaçu
+B,13/03/11,Flamengo,0-0,Fluminense
+B,19/03/11,Nova Iguaçu,1-2,Duque de Caxias
+B,19/03/11,Volta Redonda,2-1,Macaé
+B,19/03/11,Fluminense,0-2,Boavista-RJ
+B,20/03/11,Americano,2-1,Madureira
+B,20/03/11,Cabofriense,0-0,Flamengo
+B,20/03/11,Bangu,0-1,Resende
+B,20/03/11,Olaria,1-0,America-RJ
+B,20/03/11,Vasco,2-0,Botafogo
+B,26/03/11,Olaria,2-0,Nova Iguaçu
+B,26/03/11,Boavista-RJ,0-0,Botafogo
+B,27/03/11,America-RJ,1-2,Duque de Caxias
+B,27/03/11,Resende,5-2,Macaé
+B,27/03/11,Cabofriense,0-1,Americano
+B,27/03/11,Bangu,2-1,Volta Redonda
+B,27/03/11,Flamengo,3-3,Madureira
+B,27/03/11,Fluminense,0-0,Vasco
+B,02/04/11,Nova Iguaçu,3-2,Cabofriense
+B,02/04/11,Madureira,2-0,America-RJ
+B,02/04/11,Volta Redonda,1-2,Fluminense
+B,02/04/11,Macaé,2-1,Boavista-RJ
+B,02/04/11,Duque de Caxias,0-2,Flamengo
+B,03/04/11,Americano,0-0,Olaria
+B,03/04/11,Vasco,4-0,Bangu
+B,03/04/11,Botafogo,1-1,Resende
+B,09/04/11,Nova Iguaçu,1-1,Bangu
+B,09/04/11,Volta Redonda,0-0,Olaria
+B,09/04/11,Madureira,2-1,Boavista-RJ
+B,09/04/11,Macaé,1-1,America-RJ
+B,09/04/11,Vasco,2-1,Cabofriense
+B,10/04/11,Duque de Caxias,2-1,Resende
+B,10/04/11,Americano,1-5,Fluminense
+B,10/04/11,Botafogo,0-2,Flamengo
+B,17/04/11,Flamengo,1-1,Macaé
+B,17/04/11,America-RJ,1-3,Botafogo
+B,17/04/11,Boavista-RJ,3-0,Duque de Caxias
+B,17/04/11,Resende,1-1,Madureira
+B,17/04/11,Fluminense,1-0,Nova Iguaçu
+B,17/04/11,Cabofriense,1-2,Volta Redonda
+B,17/04/11,Bangu,1-2,Americano
+B,17/04/11,Olaria,2-2,Vasco
+SF,23/04/11,Americano,1-2,Madureira
+SF,23/04/11,Botafogo,2-5,Boavista-RJ
+SF,23/04/11,Vasco,1-0,Olaria
+SF,24/04/11,Fluminense,1-1(4-5 Pen.),Flamengo
+F,01/05/11,Boavista-RJ,1-3,Madureira
+F,01/05/11,Vasco,0-0(1-3 Pen.),Flamengo

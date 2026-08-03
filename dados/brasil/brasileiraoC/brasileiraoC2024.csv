@@ -1,0 +1,217 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,12/04/25,Ituano,0-0,Brusque
+1,12/04/25,Figueirense,1-1,Ponte Preta
+1,12/04/25,CSA,1-1,Anápolis
+1,12/04/25,Botafogo-PB,3-0,Confiança
+1,13/04/25,Retrô FC,0-0,Tombense
+1,13/04/25,Itabaiana,2-1,Náutico
+1,13/04/25,Guarani,2-3,Maringá
+1,13/04/25,São Bernardo,1-1,ABC
+1,13/04/25,Caxias,1-0,Floresta-CE
+1,14/04/25,Londrina,3-1,Ypiranga-RS
+2,19/04/25,Náutico,0-0,Botafogo-PB
+2,19/04/25,Ponte Preta,1-0,Retrô FC
+2,19/04/25,Anápolis,0-1,Ituano
+2,19/04/25,Ypiranga-RS,3-2,Itabaiana
+2,20/04/25,Confiança,2-1,Caxias
+2,20/04/25,Floresta-CE,0-2,Londrina
+2,20/04/25,Maringá,1-0,São Bernardo
+2,20/04/25,Brusque,1-0,Guarani
+2,21/04/25,Tombense,3-2,Figueirense
+2,21/04/25,ABC,1-1,CSA
+3,26/04/25,Confiança,1-2,Ponte Preta
+3,26/04/25,Londrina,1-1,Maringá
+3,26/04/25,Retrô FC,2-1,Figueirense
+3,26/04/25,CSA,2-1,Náutico
+3,27/04/25,Itabaiana,0-1,São Bernardo
+3,27/04/25,Ituano,3-1,Tombense
+3,27/04/25,Brusque,1-0,Ypiranga-RS
+3,27/04/25,Botafogo-PB,0-0,ABC
+3,28/04/25,Anápolis,0-0,Floresta-CE
+3,28/04/25,Caxias,2-0,Guarani
+4,03/05/25,Maringá,3-2,Confiança
+4,03/05/25,ABC,2-3,Ituano
+4,03/05/25,Ponte Preta,2-0,Anápolis
+4,03/05/25,Tombense,2-0,Itabaiana
+4,04/05/25,Ypiranga-RS,1-0,CSA
+4,04/05/25,Floresta-CE,1-0,Retrô FC
+4,04/05/25,Náutico,0-0,Brusque
+4,04/05/25,Guarani,2-1,Botafogo-PB
+4,05/05/25,São Bernardo,0-0,Londrina
+4,05/05/25,Figueirense,2-3,Caxias
+5,10/05/25,Náutico,2-0,Confiança
+5,10/05/25,Guarani,0-1,São Bernardo
+5,10/05/25,Anápolis,0-0,Ypiranga-RS
+5,10/05/25,Brusque,0-1,ABC
+5,11/05/25,Caxias,2-1,Retrô FC
+5,11/05/25,Botafogo-PB,2-3,Floresta-CE
+5,11/05/25,Londrina,1-1,Tombense
+5,11/05/25,CSA,3-2,Maringá
+5,12/05/25,Itabaiana,1-1,Figueirense
+5,12/05/25,Ituano,0-1,Ponte Preta
+6,17/05/25,Tombense,0-0,CSA
+6,17/05/25,Floresta-CE,0-0,Guarani
+6,17/05/25,Ponte Preta,1-4,Brusque
+6,17/05/25,Ypiranga-RS,0-4,Náutico
+6,18/05/25,São Bernardo,1-0,Caxias
+6,18/05/25,Maringá,1-1,Botafogo-PB
+6,18/05/25,Retrô FC,1-0,Itabaiana
+6,18/05/25,Figueirense,2-0,Ituano
+6,19/05/25,Confiança,0-2,Londrina
+6,19/05/25,ABC,3-3,Anápolis
+7,24/05/25,Náutico,0-1,Ponte Preta
+7,24/05/25,CSA,0-0,Confiança
+7,24/05/25,Itabaiana,2-1,Caxias
+7,24/05/25,Londrina,1-1,ABC
+7,25/05/25,Botafogo-PB,1-0,Retrô FC
+7,25/05/25,Ituano,0-0,Floresta-CE
+7,25/05/25,Ypiranga-RS,1-0,Tombense
+7,25/05/25,Anápolis,1-1,Maringá
+7,26/05/25,Guarani,0-0,Figueirense
+7,26/05/25,Brusque,1-0,São Bernardo
+8,31/05/25,Retrô FC,0-2,Guarani
+8,31/05/25,ABC,0-0,Náutico
+8,31/05/25,Caxias,4-2,Londrina
+8,31/05/25,Floresta-CE,1-0,Itabaiana
+8,01/06/25,Confiança,4-1,Brusque
+8,01/06/25,Tombense,1-1,Anápolis
+8,01/06/25,Maringá,1-1,Ituano
+8,01/06/25,Figueirense,1-0,Botafogo-PB
+8,02/06/25,Ponte Preta,0-1,Ypiranga-RS
+8,02/06/25,São Bernardo,1-3,CSA
+9,14/06/25,Ponte Preta,0-0,ABC
+9,14/06/25,Ituano,1-1,São Bernardo
+9,14/06/25,Anápolis,0-0,Retrô FC
+9,14/06/25,Botafogo-PB,1-2,Caxias
+9,15/06/25,Londrina,2-1,Figueirense
+9,15/06/25,Brusque,0-0,Tombense
+9,15/06/25,Guarani,2-1,Itabaiana
+9,15/06/25,Ypiranga-RS,1-0,Confiança
+9,16/06/25,Náutico,2-1,Maringá
+9,16/06/25,CSA,2-0,Floresta-CE
+10,28/06/25,Retrô FC,0-4,Londrina
+10,28/06/25,Guarani,1-0,CSA
+10,28/06/25,São Bernardo,3-0,Anápolis
+10,28/06/25,Maringá,0-1,Ponte Preta
+10,29/06/25,Figueirense,1-1,Confiança
+10,29/06/25,ABC,0-3,Ypiranga-RS
+10,29/06/25,Tombense,0-2,Náutico
+10,29/06/25,Caxias,2-1,Ituano
+10,30/06/25,Floresta-CE,2-1,Brusque
+10,30/06/25,Itabaiana,1-0,Botafogo-PB
+11,05/07/25,Náutico,0-0,Floresta-CE
+11,05/07/25,Ituano,2-0,Retrô FC
+11,05/07/25,Confiança,1-1,ABC
+11,05/07/25,CSA,2-3,Caxias
+11,06/07/25,Anápolis,1-0,Itabaiana
+11,06/07/25,Londrina,1-1,Guarani
+11,06/07/25,Ypiranga-RS,0-0,Maringá
+11,06/07/25,Brusque,0-2,Figueirense
+11,07/07/25,Ponte Preta,1-0,Tombense
+11,07/07/25,Botafogo-PB,1-1,São Bernardo
+12,12/07/25,Itabaiana,0-0,Confiança
+12,12/07/25,São Bernardo,2-0,Ponte Preta
+12,12/07/25,Tombense,1-2,ABC
+12,12/07/25,Floresta-CE,2-1,Ypiranga-RS
+12,13/07/25,Guarani,0-0,Ituano
+12,13/07/25,Botafogo-PB,2-0,Londrina
+12,13/07/25,Caxias,1-0,Anápolis
+12,13/07/25,Figueirense,0-0,Náutico
+12,14/07/25,Retrô FC,0-0,CSA
+12,14/07/25,Maringá,0-2,Brusque
+13,19/07/25,Ituano,0-3,Botafogo-PB
+13,19/07/25,ABC,3-3,Maringá
+13,19/07/25,Ponte Preta,2-1,Floresta-CE
+13,19/07/25,Londrina,2-0,Itabaiana
+13,20/07/25,Confiança,3-2,Tombense
+13,20/07/25,CSA,1-1,Figueirense
+13,20/07/25,Ypiranga-RS,0-2,São Bernardo
+13,20/07/25,Brusque,1-2,Retrô FC
+13,21/07/25,Náutico,2-0,Caxias
+13,21/07/25,Anápolis,2-0,Guarani
+14,26/07/25,Guarani,0-1,Náutico
+14,26/07/25,Floresta-CE,1-1,ABC
+14,26/07/25,Retrô FC,0-0,Ypiranga-RS
+14,26/07/25,Londrina,3-1,CSA
+14,27/07/25,Itabaiana,3-1,Ituano
+14,27/07/25,Caxias,2-1,Ponte Preta
+14,27/07/25,Figueirense,1-2,Anápolis
+14,27/07/25,São Bernardo,1-1,Confiança
+14,28/07/25,Tombense,1-1,Maringá
+14,28/07/25,Botafogo-PB,1-3,Brusque
+15,02/08/25,Ponte Preta,1-1,Guarani
+15,02/08/25,CSA,2-1,Botafogo-PB
+15,02/08/25,ABC,0-0,Figueirense
+15,03/08/25,São Bernardo,2-0,Tombense
+15,03/08/25,Maringá,1-1,Floresta-CE
+15,03/08/25,Náutico,3-0,Retrô FC
+15,03/08/25,Ypiranga-RS,0-1,Caxias
+15,04/08/25,Brusque,0-0,Itabaiana
+15,04/08/25,Confiança,2-0,Anápolis
+15,04/08/25,Ituano,1-0,Londrina
+16,09/08/25,Caxias,1-0,ABC
+16,09/08/25,Botafogo-PB,2-1,Ponte Preta
+16,09/08/25,Guarani,2-1,Ypiranga-RS
+16,09/08/25,Ituano,1-2,Confiança
+16,10/08/25,Londrina,0-2,Náutico
+16,10/08/25,Anápolis,2-1,Brusque
+16,10/08/25,Floresta-CE,1-0,Tombense
+16,10/08/25,Retrô FC,0-1,São Bernardo
+16,11/08/25,Itabaiana,1-0,CSA
+16,11/08/25,Figueirense,1-1,Maringá
+17,16/08/25,Ponte Preta,1-0,Itabaiana
+17,16/08/25,Maringá,1-0,Retrô FC
+17,16/08/25,CSA,2-2,Ituano
+17,16/08/25,ABC,3-4,Guarani
+17,17/08/25,São Bernardo,0-3,Figueirense
+17,17/08/25,Brusque,1-2,Londrina
+17,17/08/25,Náutico,1-0,Anápolis
+17,17/08/25,Confiança,1-0,Floresta-CE
+17,18/08/25,Tombense,0-0,Caxias
+17,18/08/25,Ypiranga-RS,2-2,Botafogo-PB
+18,23/08/25,Ituano,2-1,Ypiranga-RS
+18,23/08/25,Caxias,0-1,Brusque
+18,23/08/25,Figueirense,1-0,Floresta-CE
+18,24/08/25,Itabaiana,2-2,Maringá
+18,24/08/25,Londrina,1-1,Anápolis
+18,24/08/25,Retrô FC,1-1,ABC
+18,24/08/25,São Bernardo,1-1,Náutico
+18,24/08/25,Botafogo-PB,1-0,Tombense
+18,25/08/25,Guarani,1-0,Confiança
+18,25/08/25,CSA,1-2,Ponte Preta
+19,30/08/25,Náutico,3-0,Ituano
+19,30/08/25,Ponte Preta,1-0,Londrina
+19,30/08/25,Confiança,1-0,Retrô FC
+19,30/08/25,Tombense,2-2,Guarani
+19,30/08/25,Anápolis,2-0,Botafogo-PB
+19,30/08/25,Maringá,3-0,Caxias
+19,30/08/25,Ypiranga-RS,1-0,Figueirense
+19,30/08/25,Brusque,2-0,CSA
+19,30/08/25,Floresta-CE,2-0,São Bernardo
+19,30/08/25,ABC,0-1,Itabaiana
+C,06/09/25,Guarani,0-1,Ponte Preta
+B,06/09/25,São Bernardo,2-2,Londrina
+B,07/09/25,Floresta-CE,0-0,Caxias
+C,07/09/25,Brusque,0-1,Náutico
+C,13/09/25,Náutico,0-2,Guarani
+B,13/09/25,Caxias,0-0,São Bernardo
+B,14/09/25,Londrina,0-0,Floresta-CE
+C,14/09/25,Ponte Preta,1-0,Brusque
+C,20/09/25,Náutico,0-1,Ponte Preta
+B,20/09/25,Londrina,1-1,Caxias
+B,21/09/25,Floresta-CE,0-0,São Bernardo
+C,21/09/25,Guarani,1-0,Brusque
+C,27/09/25,Ponte Preta,1-1,Náutico
+C,27/09/25,Brusque,3-2,Guarani
+B,28/09/25,São Bernardo,0-1,Floresta-CE
+B,28/09/25,Caxias,0-1,Londrina
+C,04/10/25,Guarani,1-1,Náutico
+C,04/10/25,Brusque,2-1,Ponte Preta
+B,05/10/25,Floresta-CE,0-1,Londrina
+B,05/10/25,São Bernardo,1-0,Caxias
+B,11/10/25,Caxias,1-1,Floresta-CE
+B,11/10/25,Londrina,1-1,São Bernardo
+C,11/10/25,Ponte Preta,2-0,Guarani
+C,11/10/25,Náutico,2-1,Brusque
+F,18/10/25,Londrina,0-0,Ponte Preta
+F,25/10/25,Ponte Preta,2-0,Londrina

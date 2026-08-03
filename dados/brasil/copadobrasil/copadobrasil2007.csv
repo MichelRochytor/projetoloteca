@@ -1,0 +1,127 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,13/02/07,Sampaio Corrêa,1-3,Fortaleza
+1F,14/02/07,Palmeiras,ANU,Operário-MS
+1F,14/02/07,Portuguesa,ANU,SERC
+1F,14/02/07,Fortaleza,ANU,Sampaio Corrêa
+1F,14/02/07,Gama,ANU,Araguaína
+1F,14/02/07,Noroeste,ANU,Galo Maringá
+1F,14/02/07,Atlético Mineiro,ANU,Colo Colo-BA
+1F,14/02/07,Operário-MS,0-5,Palmeiras
+1F,14/02/07,Vitória-ES,1-0,Ipatinga
+1F,14/02/07,SERC,0-2,Portuguesa
+1F,14/02/07,Parnahyba,1-2,Náutico
+1F,14/02/07,Fast Clube,1-2,Vasco
+1F,14/02/07,Coruripe,1-1,America-RJ
+1F,14/02/07,CSA,1-1,Botafogo
+1F,14/02/07,Ulbra-RO,2-0,Santa Cruz
+1F,14/02/07,Atlético Goianiense,2-1,Guarani
+1F,14/02/07,Galo Maringá,1-4,Noroeste
+1F,14/02/07,Caxias,2-1,Coritiba
+1F,14/02/07,Araguaína,1-3,Gama
+1F,14/02/07,Baraúnas,1-1,Vitória
+1F,14/02/07,Colo Colo-BA,1-3,Atlético Mineiro
+1F,14/02/07,Baré,1-0,América-RN
+1F,14/02/07,ADESG,1-2,Fluminense
+1F,21/02/07,Brasiliense,ANU,Barra
+1F,21/02/07,Atlético Paranaense,ANU,Coxim
+1F,21/02/07,Goiás,ANU,Moto Club
+1F,21/02/07,Veranópolis,0-0,Cruzeiro
+1F,21/02/07,Ferroviária,3-1,Juventude
+1F,21/02/07,Coxim,2-5,Atlético Paranaense
+1F,21/02/07,Itabaiana,1-2,Bahia
+1F,21/02/07,Pirambu,1-1,Corinthians
+1F,21/02/07,São José-AP,0-1,Paysandu
+1F,21/02/07,Madureira,2-3,Figueirense
+1F,21/02/07,Rio Branco-PR,1-1,Avaí
+1F,21/02/07,Ipatinga,3-1,Vitória-ES
+1F,21/02/07,Guarani,0-0,Atlético Goianiense
+1F,21/02/07,Náutico,6-0,Parnahyba
+1F,21/02/07,Santa Cruz,1-2,Ulbra-RO
+1F,21/02/07,Villa Nova-MG,1-0,Ponte Preta
+1F,21/02/07,America-RJ,3-1,Coruripe
+1F,21/02/07,Coritiba,4-1,Caxias
+1F,21/02/07,Ananindeua,2-0,São Raimundo-AM
+1F,21/02/07,Barra,1-4,Brasiliense
+1F,21/02/07,Moto Club,1-3,Goiás
+1F,21/02/07,América-RN,2-0,Baré
+1F,21/02/07,Campinense,1-1,Sport
+1F,22/02/07,Vilavelhense,1-0,Treze
+1F,22/02/07,Barras,1-0,Ceará
+1F,22/02/07,Vitória,1-1(3-5 Pen.),Baraúnas
+1F,28/02/07,Sport,3-0,Campinense
+1F,28/02/07,São Raimundo-AM,1-0,Ananindeua
+1F,28/02/07,Cruzeiro,1-0,Veranópolis
+1F,28/02/07,Juventude,2-0,Ferroviária
+1F,28/02/07,Fluminense,6-0,ADESG
+1F,28/02/07,Treze,3-1,Vilavelhense
+1F,28/02/07,Paysandu,2-2,São José-AP
+1F,28/02/07,Figueirense,2-0,Madureira
+1F,28/02/07,Ponte Preta,2-3,Villa Nova-MG
+1F,28/02/07,Bahia,0-1,Itabaiana
+1F,28/02/07,Vasco,6-0,Fast Clube
+1F,28/02/07,Avaí,0-1,Rio Branco SC
+1F,28/02/07,Ceará,2-0,Barras
+1F,01/03/07,Corinthians,3-0,Pirambu
+1F,01/03/07,Botafogo,5-2,CSA
+2F,14/03/07,Treze,0-2,Corinthians
+2F,14/03/07,Portuguesa,0-0,Cruzeiro
+2F,14/03/07,América-RN,1-2,Fluminense
+2F,14/03/07,Brasiliense,0-0,Juventude
+2F,14/03/07,Ceará,1-2,Botafogo
+2F,14/03/07,Ananindeua,0-5,Sport
+2F,14/03/07,Bahia,1-1,Goiás
+2F,14/03/07,Atlético Goianiense,2-3,Fortaleza
+2F,21/03/07,Sport,ANU,Ananindeua
+2F,21/03/07,Corinthians,ANU,Treze
+2F,21/03/07,Ipatinga,2-0,Palmeiras
+2F,21/03/07,Paysandu,1-0,Náutico
+2F,21/03/07,Gama,2-2,Vasco
+2F,21/03/07,Noroeste,0-0,Figueirense
+2F,21/03/07,Ulbra-RO,2-2,Coritiba
+2F,21/03/07,Juventude,2-3,Brasiliense
+2F,21/03/07,Goiás,3-3,Bahia
+2F,21/03/07,Fortaleza,2-3(3-5 Pen.),Atlético Goianiense
+2F,21/03/07,Vitória,4-1,Atlético Paranaense
+2F,21/03/07,America-RJ,1-1,Atlético Mineiro
+2F,22/03/07,Botafogo,2-0,Ceará
+2F,04/04/07,Villa Nova-MG,0-0,Avaí
+2F,04/04/07,Figueirense,4-1,Noroeste
+2F,04/04/07,Fluminense,0-1,América-RN
+2F,04/04/07,Náutico,5-0,Paysandu
+2F,04/04/07,Coritiba,1-0,Ulbra-RO
+2F,04/04/07,Vasco,1-2,Gama
+2F,04/04/07,Atlético Mineiro,2-1,America-RJ
+2F,05/04/07,Cruzeiro,2-1,Portuguesa
+2F,05/04/07,Palmeiras,2-0(3-4 Pen.),Ipatinga
+2F,05/04/07,Atlético Paranaense,3-0,Vitória
+2F,11/04/07,Avaí,3-2,Villa Nova-MG
+1/8,18/04/07,Cruzeiro,0-1,Brasiliense
+1/8,18/04/07,Gama,2-4,Figueirense
+1/8,18/04/07,Náutico,2-2,Corinthians
+1/8,18/04/07,Ipatinga,1-1,Sport
+1/8,18/04/07,Atlético Goianiense,3-1,Atlético Paranaense
+1/8,18/04/07,Avaí,0-2,Atlético Mineiro
+1/8,19/04/07,Fluminense,1-1,Bahia
+1/8,19/04/07,Coritiba,0-1,Botafogo
+1/8,25/04/07,Figueirense,2-1,Gama
+1/8,25/04/07,Sport,1-1(2-4 Pen.),Ipatinga
+1/8,25/04/07,Botafogo,3-3,Coritiba
+1/8,25/04/07,Atlético Mineiro,1-0,Avaí
+1/8,25/04/07,Brasiliense,1-1,Cruzeiro
+1/8,25/04/07,Atlético Paranaense,2-0,Atlético Goianiense
+1/8,25/04/07,Bahia,2-2,Fluminense
+1/8,26/04/07,Corinthians,0-2,Náutico
+QF,02/05/07,Fluminense,1-1,Atlético Paranaense
+QF,02/05/07,Náutico,2-2,Figueirense
+QF,02/05/07,Atlético Mineiro,0-0,Botafogo
+QF,02/05/07,Brasiliense,2-2,Ipatinga
+QF,09/05/07,Figueirense,1-0,Náutico
+QF,09/05/07,Ipatinga,0-1,Brasiliense
+QF,09/05/07,Atlético Paranaense,0-1,Fluminense
+QF,10/05/07,Botafogo,2-1,Atlético Mineiro
+SF,16/05/07,Figueirense,2-0,Botafogo
+SF,16/05/07,Fluminense,4-2,Brasiliense
+SF,23/05/07,Botafogo,3-1,Figueirense
+SF,23/05/07,Brasiliense,1-1,Fluminense
+F,30/05/07,Fluminense,1-1,Figueirense
+F,06/06/07,Figueirense,0-1,Fluminense

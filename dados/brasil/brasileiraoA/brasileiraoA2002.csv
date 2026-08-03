@@ -1,0 +1,340 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,10/08/02,Vasco,2-0,Figueirense
+1,10/08/02,São Paulo,4-2,Paysandu
+1,10/08/02,Paraná,2-1,São Caetano
+1,10/08/02,Santos,2-1,Botafogo
+1,10/08/02,Goiás,3-1,Portuguesa
+1,11/08/02,Fluminense,5-1,Cruzeiro
+1,11/08/02,Palmeiras,1-1,Grêmio
+1,11/08/02,Atlético Mineiro,1-2,Corinthians
+1,11/08/02,Internacional,1-3,Flamengo
+1,11/08/02,Guarani,2-1,Atlético Paranaense
+1,11/08/02,Coritiba,1-0,Vitória
+1,11/08/02,Bahia,1-0,Gama
+1,11/08/02,Juventude,1-0,Ponte Preta
+2,14/08/02,São Caetano,2-0,Fluminense
+2,14/08/02,Botafogo,1-1,Atlético Mineiro
+2,14/08/02,Cruzeiro,1-1,Palmeiras
+2,14/08/02,Grêmio,3-2,Vasco
+2,14/08/02,Atlético Paranaense,4-0,Bahia
+2,14/08/02,Figueirense,0-0,Guarani
+2,14/08/02,Ponte Preta,2-0,Coritiba
+2,14/08/02,Vitória,4-1,Goiás
+2,14/08/02,Corinthians,3-2,Internacional
+2,14/08/02,Flamengo,0-0,Juventude
+2,14/08/02,Portuguesa,1-0,Paraná
+2,14/08/02,Gama,0-1,São Paulo
+3,17/08/02,Fluminense,3-1,Grêmio
+3,17/08/02,Internacional,1-0,Ponte Preta
+3,17/08/02,Atlético Paranaense,2-1,Vasco
+3,18/08/02,Juventude,2-1,Santos
+3,18/08/02,Guarani,1-4,Atlético Mineiro
+3,18/08/02,Flamengo,1-1,Goiás
+3,18/08/02,Paraná,2-3,São Paulo
+3,18/08/02,Cruzeiro,0-0,Botafogo
+3,18/08/02,Portuguesa,0-0,Figueirense
+3,18/08/02,Bahia,1-2,Coritiba
+3,18/08/02,Gama,2-1,Vitória
+3,18/08/02,São Caetano,3-0,Corinthians
+4,21/08/02,Botafogo,2-2,Internacional
+4,21/08/02,São Paulo,0-1,Juventude
+4,21/08/02,Atlético Mineiro,1-1,Fluminense
+4,21/08/02,Paysandu,1-2,Portuguesa
+4,21/08/02,Coritiba,2-1,Flamengo
+4,21/08/02,Vitória,1-1,Atlético Paranaense
+4,21/08/02,Goiás,1-1,Bahia
+4,21/08/02,Santos,3-0,Figueirense
+4,22/08/02,Vasco,0-1,Gama
+4,22/08/02,Palmeiras,3-2,São Caetano
+4,22/08/02,Grêmio,0-2,Guarani
+4,22/08/02,Ponte Preta,2-0,Cruzeiro
+5,24/08/02,Flamengo,1-2,Paysandu
+5,24/08/02,Internacional,2-2,São Paulo
+5,24/08/02,Figueirense,0-3,Botafogo
+5,25/08/02,Palmeiras,0-4,Atlético Mineiro
+5,25/08/02,Fluminense,1-1,Santos
+5,25/08/02,Coritiba,1-2,Corinthians
+5,25/08/02,Portuguesa,1-0,Gama
+5,25/08/02,Cruzeiro,2-1,Bahia
+5,25/08/02,Vitória,2-1,Juventude
+5,25/08/02,Ponte Preta,1-1,Grêmio
+5,25/08/02,Goiás,2-4,Vasco
+6,28/08/02,Guarani,1-1,Internacional
+6,28/08/02,Juventude,2-0,Fluminense
+6,28/08/02,Santos,2-1,Paraná
+6,28/08/02,Gama,2-1,Flamengo
+6,28/08/02,Atlético Paranaense,1-0,Palmeiras
+6,28/08/02,Corinthians,1-1,Cruzeiro
+6,28/08/02,Bahia,1-2,Figueirense
+6,29/08/02,São Paulo,2-0,Goiás
+6,29/08/02,Grêmio,0-0,Portuguesa
+6,29/08/02,Atlético Mineiro,2-1,Vitória
+7,31/08/02,Coritiba,2-0,Fluminense
+7,31/08/02,Botafogo,1-0,Gama
+7,31/08/02,Corinthians,0-3,Atlético Paranaense
+7,31/08/02,Internacional,3-0,Santos
+7,01/09/02,Flamengo,1-1,Cruzeiro
+7,01/09/02,São Paulo,2-0,Grêmio
+7,01/09/02,Atlético Mineiro,0-0,Portuguesa
+7,01/09/02,Paraná,5-1,Palmeiras
+7,01/09/02,Vitória,5-1,Paysandu
+7,01/09/02,Ponte Preta,0-1,São Caetano
+7,01/09/02,Juventude,1-0,Vasco
+7,01/09/02,Goiás,1-2,Guarani
+8,04/09/02,Vasco,1-2,Atlético Mineiro
+8,04/09/02,Flamengo,5-2,Fluminense
+8,04/09/02,Palmeiras,2-2,Coritiba
+8,04/09/02,Cruzeiro,3-1,São Paulo
+8,04/09/02,Atlético Paranaense,2-0,Botafogo
+8,04/09/02,Paysandu,0-1,Corinthians
+8,04/09/02,Bahia,3-2,Paraná
+8,04/09/02,Gama,0-0,Ponte Preta
+8,04/09/02,São Caetano,2-1,Guarani
+8,05/09/02,Portuguesa,0-2,Internacional
+8,05/09/02,Santos,3-0,Vitória
+9,07/09/02,Vasco,1-0,Coritiba
+9,07/09/02,Palmeiras,2-2,Gama
+9,07/09/02,São Caetano,3-0,São Paulo
+9,07/09/02,Atlético Mineiro,2-0,Ponte Preta
+9,07/09/02,Goiás,2-2,Botafogo
+9,08/09/02,Fluminense,4-3,Figueirense
+9,08/09/02,Santos,2-2,Atlético Paranaense
+9,08/09/02,Grêmio,4-0,Corinthians
+9,08/09/02,Paraná,3-0,Flamengo
+9,08/09/02,Vitória,0-0,Internacional
+9,08/09/02,Juventude,2-1,Bahia
+9,08/09/02,Guarani,2-0,Paysandu
+10,11/09/02,Flamengo,3-2,Atlético Paranaense
+10,11/09/02,Portuguesa,3-2,São Caetano
+10,11/09/02,Internacional,3-2,Palmeiras
+10,11/09/02,Coritiba,4-2,Santos
+10,11/09/02,Bahia,1-1,Grêmio
+10,11/09/02,Ponte Preta,1-0,Paraná
+10,11/09/02,Figueirense,0-2,Vitória
+10,11/09/02,Paysandu,2-0,Vasco
+10,12/09/02,Botafogo,0-4,Juventude
+10,12/09/02,Corinthians,3-0,Goiás
+10,12/09/02,Cruzeiro,0-2,Guarani
+10,12/09/02,Gama,1-2,Fluminense
+11,14/09/02,Internacional,2-4,Figueirense
+11,14/09/02,Santos,2-0,Grêmio
+11,14/09/02,Paraná,2-2,Atlético Paranaense
+11,14/09/02,Palmeiras,1-2,Bahia
+11,15/09/02,São Paulo,6-0,Fluminense
+11,15/09/02,Coritiba,3-1,Goiás
+11,15/09/02,Botafogo,1-1,Vasco
+11,15/09/02,Guarani,0-0,Corinthians
+11,15/09/02,São Caetano,4-0,Gama
+11,15/09/02,Vitória,4-3,Portuguesa
+11,15/09/02,Juventude,1-0,Atlético Mineiro
+11,15/09/02,Cruzeiro,3-1,Paysandu
+12,18/09/02,Vasco,1-2,Santos
+12,18/09/02,Portuguesa,2-0,Botafogo
+12,18/09/02,Goiás,3-0,São Caetano
+12,18/09/02,Figueirense,3-1,Cruzeiro
+12,18/09/02,Paysandu,1-1,Coritiba
+12,18/09/02,Atlético Paranaense,1-3,Gama
+12,18/09/02,Bahia,2-0,São Paulo
+12,18/09/02,Ponte Preta,2-0,Palmeiras
+12,19/09/02,Grêmio,2-0,Juventude
+12,19/09/02,Corinthians,2-1,Vitória
+12,19/09/02,Atlético Mineiro,4-1,Paraná
+13,21/09/02,Botafogo,0-2,Coritiba
+13,21/09/02,Portuguesa,0-1,Cruzeiro
+13,21/09/02,Figueirense,1-0,Palmeiras
+13,21/09/02,Santos,1-1,Goiás
+13,22/09/02,Vasco,1-1,Internacional
+13,22/09/02,Corinthians,2-1,Paraná
+13,22/09/02,Atlético Mineiro,0-3,Flamengo
+13,22/09/02,Atlético Paranaense,1-1,São Paulo
+13,22/09/02,Paysandu,4-3,Ponte Preta
+13,22/09/02,Guarani,0-0,Juventude
+13,22/09/02,São Caetano,1-0,Bahia
+13,22/09/02,Grêmio,4-0,Vitória
+14,25/09/02,São Paulo,1-2,Atlético Mineiro
+14,25/09/02,Cruzeiro,4-0,Vasco
+14,25/09/02,Internacional,1-0,Bahia
+14,25/09/02,Fluminense,0-1,Atlético Paranaense
+14,25/09/02,Paraná,1-2,Guarani
+14,25/09/02,Vitória,2-2,São Caetano
+14,25/09/02,Ponte Preta,3-2,Figueirense
+14,25/09/02,Juventude,0-1,Corinthians
+14,26/09/02,Gama,0-0,Santos
+14,26/09/02,Coritiba,2-0,Portuguesa
+14,26/09/02,Palmeiras,1-0,Paysandu
+14,26/09/02,Flamengo,2-3,Grêmio
+15,28/09/02,Internacional,1-2,Paraná
+15,28/09/02,Fluminense,2-1,Guarani
+15,28/09/02,Bahia,1-2,Botafogo
+15,28/09/02,Cruzeiro,2-1,Juventude
+15,28/09/02,Atlético Paranaense,0-1,São Caetano
+15,29/09/02,Vasco,4-0,Portuguesa
+15,29/09/02,São Paulo,2-2,Corinthians
+15,29/09/02,Paysandu,5-2,Atlético Mineiro
+15,29/09/02,Ponte Preta,3-1,Flamengo
+15,29/09/02,Figueirense,2-1,Gama
+15,29/09/02,Goiás,4-1,Grêmio
+15,29/09/02,Santos,1-1,Palmeiras
+16,02/10/02,Grêmio,3-0,Paysandu
+16,02/10/02,Botafogo,2-1,Ponte Preta
+16,02/10/02,Gama,1-1,Internacional
+16,02/10/02,São Caetano,1-0,Coritiba
+16,02/10/02,Palmeiras,1-1,São Paulo
+16,02/10/02,Vitória,2-1,Fluminense
+16,02/10/02,Juventude,2-1,Goiás
+16,02/10/02,Flamengo,1-1,Bahia
+16,03/10/02,Paraná,1-1,Cruzeiro
+16,03/10/02,Corinthians,2-4,Santos
+16,03/10/02,Atlético Mineiro,0-2,Figueirense
+17,05/10/02,Botafogo,1-1,São Caetano
+17,05/10/02,Flamengo,2-3,São Paulo
+17,05/10/02,Gama,2-0,Paysandu
+17,05/10/02,Palmeiras,2-1,Portuguesa
+17,05/10/02,Goiás,0-0,Atlético Paranaense
+17,05/10/02,Guarani,1-2,Vasco
+18,08/10/02,Fluminense,3-2,Paraná
+18,08/10/02,São Paulo,3-1,Coritiba
+18,08/10/02,Guarani,3-1,Gama
+18,09/10/02,Grêmio,1-1,Botafogo
+18,09/10/02,Flamengo,2-0,São Caetano
+18,09/10/02,Corinthians,2-2,Figueirense
+18,09/10/02,Santos,3-2,Atlético Mineiro
+18,09/10/02,Atlético Paranaense,0-1,Ponte Preta
+18,09/10/02,Paysandu,3-2,Bahia
+18,09/10/02,Vitória,4-2,Cruzeiro
+18,09/10/02,Juventude,1-1,Portuguesa
+18,09/10/02,Goiás,4-2,Palmeiras
+19,12/10/02,Palmeiras,2-2,Juventude
+19,12/10/02,Figueirense,0-3,São Paulo
+19,12/10/02,São Caetano,2-0,Vasco
+19,12/10/02,Paraná,1-0,Vitória
+19,13/10/02,Botafogo,1-0,Paysandu
+19,13/10/02,Portuguesa,1-1,Atlético Paranaense
+19,13/10/02,Ponte Preta,3-2,Goiás
+19,13/10/02,Cruzeiro,1-4,Santos
+19,13/10/02,Internacional,2-2,Fluminense
+19,13/10/02,Coritiba,0-1,Guarani
+19,13/10/02,Gama,1-3,Corinthians
+19,13/10/02,Bahia,5-3,Atlético Mineiro
+20,16/10/02,Paysandu,3-1,Paraná
+20,16/10/02,Vasco,2-1,Flamengo
+20,16/10/02,Coritiba,0-0,Grêmio
+20,16/10/02,Internacional,1-2,Goiás
+20,16/10/02,Figueirense,3-2,Atlético Paranaense
+20,16/10/02,Gama,1-0,Juventude
+20,16/10/02,São Paulo,3-2,Santos
+20,16/10/02,Bahia,2-1,Ponte Preta
+20,17/10/02,Palmeiras,4-2,Guarani
+20,17/10/02,Botafogo,1-4,Vitória
+20,17/10/02,Atlético Mineiro,2-1,São Caetano
+21,19/10/02,Santos,1-2,Portuguesa
+21,19/10/02,Vasco,1-0,Paraná
+21,19/10/02,Grêmio,3-1,Gama
+21,20/10/02,Corinthians,1-0,Ponte Preta
+21,20/10/02,Fluminense,1-0,Bahia
+21,20/10/02,Cruzeiro,1-2,Atlético Mineiro
+21,20/10/02,Guarani,1-2,São Paulo
+21,20/10/02,Vitória,1-2,Flamengo
+21,20/10/02,São Caetano,2-1,Paysandu
+21,20/10/02,Goiás,1-0,Figueirense
+21,20/10/02,Atlético Paranaense,2-3,Internacional
+21,20/10/02,Juventude,5-3,Coritiba
+22,23/10/02,Corinthians,2-2,Palmeiras
+22,23/10/02,Portuguesa,2-0,Guarani
+22,23/10/02,São Caetano,1-1,Cruzeiro
+22,23/10/02,Figueirense,2-1,Flamengo
+22,23/10/02,Fluminense,2-2,Goiás
+22,23/10/02,Paraná,2-1,Gama
+22,23/10/02,Paysandu,2-1,Santos
+22,23/10/02,Ponte Preta,1-1,Vitória
+22,23/10/02,Bahia,4-2,Vasco
+23,26/10/02,Botafogo,2-3,Fluminense
+23,26/10/02,Portuguesa,1-3,São Paulo
+23,26/10/02,Internacional,0-1,Grêmio
+23,26/10/02,Santos,3-0,Flamengo
+23,26/10/02,Atlético Paranaense,1-0,Coritiba
+23,26/10/02,Gama,0-1,Goiás
+23,26/10/02,Juventude,3-2,Figueirense
+23,28/10/02,Guarani,2-4,Ponte Preta
+24,30/10/02,Flamengo,0-1,Corinthians
+24,30/10/02,Palmeiras,2-1,Botafogo
+24,30/10/02,Atlético Mineiro,3-2,Internacional
+24,30/10/02,Grêmio,2-1,Atlético Paranaense
+24,30/10/02,Coritiba,3-1,Cruzeiro
+24,30/10/02,Paysandu,1-2,Goiás
+24,30/10/02,Bahia,1-1,Santos
+24,30/10/02,Figueirense,1-2,São Caetano
+24,31/10/02,Fluminense,2-1,Vasco
+24,31/10/02,São Paulo,5-2,Ponte Preta
+24,31/10/02,Paraná,3-1,Juventude
+25,02/11/02,Flamengo,2-0,Botafogo
+25,02/11/02,Guarani,0-2,Santos
+25,02/11/02,Internacional,0-1,Coritiba
+25,03/11/02,Vasco,1-0,Palmeiras
+25,03/11/02,Corinthians,0-2,Fluminense
+25,03/11/02,Cruzeiro,3-2,Grêmio
+25,03/11/02,Ponte Preta,0-0,Portuguesa
+25,03/11/02,Atlético Paranaense,2-2,Atlético Mineiro
+25,03/11/02,Paysandu,2-1,Figueirense
+25,03/11/02,Goiás,4-0,Paraná
+25,03/11/02,São Caetano,2-1,Juventude
+25,03/11/02,Vitória,1-0,Bahia
+26,06/11/02,Fluminense,0-3,Palmeiras
+26,06/11/02,São Paulo,5-3,Vasco
+26,06/11/02,Atlético Paranaense,2-1,Paysandu
+26,06/11/02,Vitória,3-1,Guarani
+26,06/11/02,Figueirense,0-2,Grêmio
+26,06/11/02,Gama,2-3,Cruzeiro
+26,06/11/02,São Caetano,1-1,Internacional
+26,07/11/02,Atlético Mineiro,3-1,Coritiba
+26,07/11/02,Paraná,2-0,Botafogo
+26,07/11/02,Corinthians,5-2,Portuguesa
+27,09/11/02,Vasco,4-1,Vitória
+27,09/11/02,Cruzeiro,4-1,Atlético Paranaense
+27,09/11/02,Santos,1-3,Ponte Preta
+27,09/11/02,Grêmio,2-2,São Caetano
+27,09/11/02,Paysandu,3-2,Fluminense
+27,10/11/02,Botafogo,2-1,Corinthians
+27,10/11/02,Portuguesa,1-2,Flamengo
+27,10/11/02,Coritiba,2-0,Paraná
+27,10/11/02,Guarani,1-1,Bahia
+27,10/11/02,Juventude,3-2,Internacional
+27,10/11/02,Goiás,3-1,Atlético Mineiro
+28,13/11/02,Vasco,2-0,Ponte Preta
+28,13/11/02,Palmeiras,1-1,Flamengo
+28,13/11/02,Atlético Mineiro,6-4,Gama
+28,13/11/02,Internacional,0-1,Cruzeiro
+28,13/11/02,Coritiba,1-2,Figueirense
+28,13/11/02,Bahia,0-0,Corinthians
+28,13/11/02,Juventude,0-0,Paysandu
+28,14/11/02,Fluminense,2-0,Portuguesa
+28,14/11/02,São Paulo,3-2,Vitória
+28,14/11/02,Paraná,1-1,Grêmio
+28,14/11/02,Guarani,2-0,Botafogo
+29,17/11/02,Flamengo,2-2,Guarani
+29,17/11/02,Corinthians,1-1,Vasco
+29,17/11/02,Portuguesa,2-4,Bahia
+29,17/11/02,Cruzeiro,2-0,Goiás
+29,17/11/02,Grêmio,1-0,Atlético Mineiro
+29,17/11/02,Atlético Paranaense,4-0,Juventude
+29,17/11/02,Paysandu,0-2,Internacional
+29,17/11/02,Vitória,4-3,Palmeiras
+29,17/11/02,Ponte Preta,2-3,Fluminense
+29,17/11/02,Figueirense,2-2,Paraná
+29,17/11/02,Gama,4-0,Coritiba
+29,17/11/02,São Caetano,3-2,Santos
+29,17/11/02,Botafogo,0-1,São Paulo
+QF,24/11/02,Fluminense,3-0,São Caetano
+QF,24/11/02,Atlético Mineiro,2-6,Corinthians
+QF,24/11/02,Grêmio,0-0,Juventude
+QF,24/11/02,Santos,3-1,São Paulo
+QF,27/11/02,São Caetano,2-0,Fluminense
+QF,27/11/02,Corinthians,2-1,Atlético Mineiro
+QF,27/11/02,Juventude,0-1,Grêmio
+QF,28/11/02,São Paulo,1-2,Santos
+SF,01/12/02,Fluminense,1-0,Corinthians
+SF,01/12/02,Santos,3-0,Grêmio
+SF,04/12/02,Corinthians,3-2,Fluminense
+SF,04/12/02,Grêmio,1-0,Santos
+F,08/12/02,Santos,2-0,Corinthians
+F,15/12/02,Corinthians,2-3,Santos

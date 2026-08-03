@@ -1,0 +1,110 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,27/02/21,São Bento,1-2,Mirassol
+A,27/02/21,Grêmio Novorizontino,1-1,Ponte Preta
+A,28/02/21,Red Bull Bragantino,0-0,Corinthians
+A,28/02/21,Ferroviária,1-0,Inter de Limeira
+A,28/02/21,Santo André,2-2,Santos
+A,28/02/21,São Paulo,1-1,Botafogo-SP
+A,01/03/21,Guarani,0-3,Ituano
+A,02/03/21,Mirassol,1-1,Grêmio Novorizontino
+A,03/03/21,Inter de Limeira,0-4,São Paulo
+A,03/03/21,Santos,1-1,Ferroviária
+A,03/03/21,Corinthians,2-2,Palmeiras
+A,03/03/21,São Caetano,0-2,Red Bull Bragantino
+A,04/03/21,Ituano,1-0,São Bento
+A,04/03/21,Botafogo-SP,0-1,Guarani
+A,04/03/21,Ponte Preta,0-1,Santo André
+A,06/03/21,Inter de Limeira,1-0,Grêmio Novorizontino
+A,06/03/21,São Paulo,4-0,Santos
+A,07/03/21,Corinthians,2-1,Ponte Preta
+A,07/03/21,Ituano,1-1,Mirassol
+A,07/03/21,Guarani,1-1,Red Bull Bragantino
+A,08/03/21,Ferroviária,5-0,Botafogo-SP
+A,08/03/21,Santo André,0-0,São Caetano
+A,11/03/21,Palmeiras,3-0,São Caetano
+A,13/03/21,Guarani,0-0,São Bento
+A,13/03/21,Grêmio Novorizontino,2-1,São Paulo
+A,13/03/21,Botafogo-SP,0-1,Ponte Preta
+A,13/03/21,Santos,2-1,Ituano
+A,14/03/21,Mirassol,1-0,Inter de Limeira
+A,14/03/21,Palmeiras,2-0,Ferroviária
+A,14/03/21,Red Bull Bragantino,2-1,Santo André
+A,14/03/21,São Caetano,0-1,Corinthians
+A,23/03/21,Mirassol,0-1,Corinthians
+A,24/03/21,São Bento,1-1,Palmeiras
+A,10/04/21,São Bento,1-2,Red Bull Bragantino
+A,10/04/21,São Paulo,5-1,São Caetano
+A,10/04/21,Santos,0-0,Botafogo-SP
+A,11/04/21,Guarani,0-1,Corinthians
+A,12/04/21,São Paulo,1-0,Red Bull Bragantino
+A,13/04/21,Santo André,0-0,São Bento
+A,13/04/21,Ferroviária,2-1,Corinthians
+A,14/04/21,São Caetano,0-2,Grêmio Novorizontino
+A,14/04/21,São Paulo,3-2,Guarani
+A,14/04/21,Ituano,1-2,Botafogo-SP
+A,15/04/21,Inter de Limeira,0-2,Red Bull Bragantino
+A,16/04/21,Ponte Preta,3-0,Santos
+A,16/04/21,Corinthians,1-1,São Bento
+A,16/04/21,Palmeiras,0-1,São Paulo
+A,17/04/21,Red Bull Bragantino,2-1,Mirassol
+A,17/04/21,Grêmio Novorizontino,3-1,Ferroviária
+A,18/04/21,Botafogo-SP,0-0,Palmeiras
+A,18/04/21,Santos,2-1,Inter de Limeira
+A,18/04/21,Corinthians,2-0,Ituano
+A,19/04/21,Red Bull Bragantino,2-0,Ponte Preta
+A,19/04/21,São Bento,1-1,São Caetano
+A,20/04/21,Grêmio Novorizontino,2-0,Santo André
+A,20/04/21,Ferroviária,1-2,Guarani
+A,21/04/21,Inter de Limeira,1-0,Ituano
+A,21/04/21,Mirassol,2-1,Botafogo-SP
+A,22/04/21,São Caetano,1-2,Ponte Preta
+A,23/04/21,São Paulo,2-0,Santo André
+A,23/04/21,Guarani,1-2,Palmeiras
+A,23/04/21,Grêmio Novorizontino,1-0,Santos
+A,25/04/21,Palmeiras,1-2,Mirassol
+A,25/04/21,Red Bull Bragantino,0-0,Ferroviária
+A,25/04/21,Santos,0-2,Corinthians
+A,25/04/21,Botafogo-SP,1-1,São Caetano
+A,25/04/21,Ituano,0-3,São Paulo
+A,26/04/21,Ponte Preta,0-1,Inter de Limeira
+A,26/04/21,Santo André,0-1,Guarani
+A,27/04/21,São Bento,1-1,Grêmio Novorizontino
+A,28/04/21,São Caetano,0-1,Ituano
+A,29/04/21,Ponte Preta,1-2,Mirassol
+A,29/04/21,Palmeiras,0-1,Inter de Limeira
+A,29/04/21,Ferroviária,2-2,Santo André
+A,01/05/21,Red Bull Bragantino,1-1,Santos
+A,02/05/21,Guarani,2-1,Grêmio Novorizontino
+A,02/05/21,Santo André,0-1,Palmeiras
+A,02/05/21,Corinthians,2-2,São Paulo
+A,02/05/21,Ituano,2-1,Ponte Preta
+A,03/05/21,Inter de Limeira,1-0,São Caetano
+A,03/05/21,Mirassol,1-3,Ferroviária
+A,03/05/21,Botafogo-SP,2-0,São Bento
+A,05/05/21,Ponte Preta,3-1,Guarani
+A,06/05/21,Grêmio Novorizontino,2-2,Botafogo-SP
+A,06/05/21,São Bento,2-1,Inter de Limeira
+A,06/05/21,Palmeiras,3-2,Santos
+A,06/05/21,Santo André,2-1,Mirassol
+A,06/05/21,Ferroviária,1-0,Ituano
+A,09/05/21,Botafogo-SP,1-1,Red Bull Bragantino
+A,09/05/21,Corinthians,2-1,Grêmio Novorizontino
+A,09/05/21,Inter de Limeira,1-0,Guarani
+A,09/05/21,Ituano,0-1,Santo André
+A,09/05/21,Mirassol,1-1,São Paulo
+A,09/05/21,Ponte Preta,0-3,Palmeiras
+A,09/05/21,Santos,2-0,São Bento
+A,09/05/21,São Caetano,0-3,Ferroviária
+QF,11/05/21,Corinthians,4-1,Inter de Limeira
+QF,12/05/21,Mirassol,0-0(4-3 Pen.),Guarani
+QF,13/05/21,Ituano,5-1,Santo André
+QF,13/05/21,Ponte Preta,0-0(14-13 Pen.),Botafogo-SP
+QF,14/05/21,Red Bull Bragantino,0-1,Palmeiras
+QF,14/05/21,São Paulo,4-2,Ferroviária
+SF,16/05/21,Corinthians,0-2,Palmeiras
+SF,16/05/21,Red Bull Bragantino,1-1(2-4 Pen.),Ponte Preta
+SF,16/05/21,São Paulo,4-0,Mirassol
+SF,17/05/21,Grêmio Novorizontino,4-0,Ituano
+,20/05/21,Grêmio Novorizontino,2-0,Ponte Preta
+F,20/05/21,Palmeiras,0-0,São Paulo
+F,23/05/21,São Paulo,2-0,Palmeiras

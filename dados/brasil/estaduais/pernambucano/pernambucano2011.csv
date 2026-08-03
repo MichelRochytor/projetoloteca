@@ -1,0 +1,145 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,13/01/11,Sport,1-0,América-PE
+1,13/01/11,Porto-PE,1-0,Araripina
+1,13/01/11,Ypiranga-PE,0-1,Central
+1,13/01/11,Salgueiro,1-0,Cabense
+1,13/01/11,Vitória das Tabocas,0-3,Santa Cruz
+1,13/01/11,Náutico,3-0,Petrolina
+2,16/01/11,Araripina,1-1,Náutico
+2,16/01/11,América-PE,0-1,Porto-PE
+2,16/01/11,Petrolina,1-1,Sport
+2,16/01/11,Cabense,0-0,Vitória das Tabocas
+2,16/01/11,Central,1-0,Salgueiro
+2,16/01/11,Santa Cruz,2-1,Ypiranga-PE
+3,18/01/11,Vitória das Tabocas,0-2,Porto-PE
+3,18/01/11,Central,3-3,Petrolina
+3,18/01/11,Santa Cruz,3-1,América-PE
+3,18/01/11,Cabense,1-0,Sport
+3,18/01/11,Ypiranga-PE,2-0,Araripina
+3,19/01/11,Salgueiro,1-0,Náutico
+4,20/01/11,Petrolina,1-0,Vitória das Tabocas
+4,20/01/11,Araripina,0-1,Santa Cruz
+4,20/01/11,América-PE,0-2,Central
+4,20/01/11,Sport,1-0,Ypiranga-PE
+4,21/01/11,Porto-PE,1-0,Salgueiro
+4,21/01/11,Náutico,1-1,Cabense
+5,23/01/11,Petrolina,1-0,América-PE
+5,23/01/11,Vitória das Tabocas,3-1,Ypiranga-PE
+5,23/01/11,Araripina,2-0,Sport
+5,24/01/11,Salgueiro,0-1,Santa Cruz
+5,24/01/11,Central,1-0,Cabense
+5,24/01/11,Náutico,4-1,Porto-PE
+6,25/01/11,Salgueiro,0-0,Sport
+6,27/01/11,Cabense,1-1,América-PE
+6,27/01/11,Vitória das Tabocas,0-1,Náutico
+6,27/01/11,Ypiranga-PE,1-2,Porto-PE
+6,27/01/11,Santa Cruz,2-1,Petrolina
+6,27/01/11,Central,2-0,Araripina
+7,30/01/11,Náutico,3-1,Santa Cruz
+7,30/01/11,Porto-PE,2-3,Central
+7,30/01/11,América-PE,0-2,Salgueiro
+7,30/01/11,Araripina,3-2,Cabense
+8,30/01/11,Petrolina,2-1,Ypiranga-PE
+7,31/01/11,Sport,2-1,Vitória das Tabocas
+7,02/02/11,Petrolina,1-0,Cabense
+8,02/02/11,Náutico,2-1,Ypiranga-PE
+8,02/02/11,Araripina,0-0,Salgueiro
+8,03/02/11,América-PE,1-2,Vitória das Tabocas
+8,03/02/11,Porto-PE,3-1,Santa Cruz
+8,03/02/11,Sport,2-1,Central
+9,06/02/11,Santa Cruz,2-0,Sport
+9,06/02/11,Central,0-0,Náutico
+9,06/02/11,Cabense,2-1,Porto-PE
+9,06/02/11,Salgueiro,1-0,Petrolina
+9,06/02/11,Vitória das Tabocas,2-1,Araripina
+9,06/02/11,Ypiranga-PE,2-1,América-PE
+10,09/02/11,Náutico,2-1,América-PE
+10,09/02/11,Araripina,2-1,Petrolina
+10,09/02/11,Ypiranga-PE,1-0,Cabense
+10,09/02/11,Vitória das Tabocas,1-0,Salgueiro
+10,09/02/11,Santa Cruz,0-3,Central
+10,09/02/11,Porto-PE,1-0,Sport
+11,13/02/11,Sport,1-1,Náutico
+11,13/02/11,América-PE,2-1,Araripina
+11,13/02/11,Petrolina,2-2,Porto-PE
+11,13/02/11,Cabense,2-2,Santa Cruz
+11,13/02/11,Central,3-1,Vitória das Tabocas
+11,13/02/11,Salgueiro,0-2,Ypiranga-PE
+12,16/02/11,América-PE,0-1,Sport
+12,16/02/11,Araripina,2-2,Porto-PE
+12,16/02/11,Santa Cruz,3-1,Cabense
+12,16/02/11,Vitória das Tabocas,0-0,Central
+12,16/02/11,Ypiranga-PE,0-0,Salgueiro
+12,16/02/11,Petrolina,0-1,Náutico
+13,19/02/11,Náutico,2-1,Araripina
+13,19/02/11,Porto-PE,0-1,América-PE
+13,20/02/11,Cabense,2-0,Ypiranga-PE
+13,20/02/11,Salgueiro,5-1,Vitória das Tabocas
+13,20/02/11,Central,0-1,Santa Cruz
+13,21/02/11,Sport,3-1,Petrolina
+14,26/02/11,Santa Cruz,0-1,Araripina
+14,27/02/11,Ypiranga-PE,1-2,Sport
+14,27/02/11,Cabense,1-4,Náutico
+14,27/02/11,Salgueiro,3-1,Porto-PE
+14,27/02/11,Vitória das Tabocas,1-2,Petrolina
+14,27/02/11,Central,3-2,América-PE
+15,09/03/11,Araripina,0-1,Central
+15,09/03/11,Náutico,4-2,Vitória das Tabocas
+15,09/03/11,Petrolina,0-3,Santa Cruz
+15,10/03/11,Sport,0-0,Salgueiro
+15,10/03/11,Porto-PE,5-2,Ypiranga-PE
+15,10/03/11,América-PE,2-1,Cabense
+16,12/03/11,Santa Cruz,2-0,Salgueiro
+16,12/03/11,Sport,5-0,Araripina
+16,13/03/11,Porto-PE,2-1,Náutico
+16,13/03/11,América-PE,3-2,Petrolina
+16,13/03/11,Cabense,1-0,Central
+16,13/03/11,Ypiranga-PE,3-0,Vitória das Tabocas
+17,20/03/11,Cabense,1-1,Araripina
+17,20/03/11,Vitória das Tabocas,2-1,Sport
+17,20/03/11,Santa Cruz,3-3,Náutico
+17,20/03/11,Central,0-4,Porto-PE
+17,20/03/11,Ypiranga-PE,0-1,Petrolina
+17,20/03/11,Salgueiro,3-0,América-PE
+18,23/03/11,Araripina,0-0,Ypiranga-PE
+18,23/03/11,Náutico,5-1,Salgueiro
+18,23/03/11,Porto-PE,2-0,Vitória das Tabocas
+18,23/03/11,Petrolina,2-1,Central
+18,23/03/11,América-PE,1-2,Santa Cruz
+18,24/03/11,Sport,3-0,Cabense
+19,27/03/11,Central,2-3,Sport
+19,27/03/11,Ypiranga-PE,0-3,Náutico
+19,27/03/11,Santa Cruz,2-0,Porto-PE
+19,27/03/11,Cabense,1-0,Petrolina
+19,27/03/11,Salgueiro,2-2,Araripina
+19,27/03/11,Vitória das Tabocas,1-3,América-PE
+20,02/04/11,Náutico,4-3,Central
+20,03/04/11,Sport,0-2,Santa Cruz
+20,03/04/11,Porto-PE,4-1,Cabense
+20,03/04/11,Petrolina,0-1,Salgueiro
+20,03/04/11,Araripina,2-0,Vitória das Tabocas
+20,03/04/11,América-PE,1-1,Ypiranga-PE
+21,09/04/11,Sport,3-1,Porto-PE
+21,10/04/11,América-PE,4-2,Náutico
+21,10/04/11,Petrolina,1-2,Araripina
+21,10/04/11,Cabense,2-2,Salgueiro
+21,10/04/11,Central,2-3,Ypiranga-PE
+21,10/04/11,Santa Cruz,1-2,Vitória das Tabocas
+22,17/04/11,Náutico,1-0,Sport
+22,17/04/11,Araripina,1-2,América-PE
+22,17/04/11,Porto-PE,1-3,Petrolina
+22,17/04/11,Vitória das Tabocas,0-0,Cabense
+22,17/04/11,Salgueiro,0-2,Central
+22,17/04/11,Ypiranga-PE,0-0,Santa Cruz
+SF,23/04/11,Araripina,2-3,Central
+SF,23/04/11,Petrolina,1-0,Salgueiro
+SF,24/04/11,Sport,3-1,Náutico
+SF,24/04/11,Porto-PE,1-2,Santa Cruz
+SF,27/04/11,Central,0-3,Araripina
+SF,27/04/11,Salgueiro,2-0,Petrolina
+F,30/04/11,Araripina,1-1,Salgueiro
+SF,01/05/11,Náutico,3-2,Sport
+SF,01/05/11,Santa Cruz,3-1,Porto-PE
+F,04/05/11,Salgueiro,1-2,Araripina
+F,08/05/11,Sport,0-2,Santa Cruz
+F,15/05/11,Santa Cruz,0-1,Sport

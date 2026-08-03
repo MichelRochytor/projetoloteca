@@ -1,0 +1,133 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,04/07/63,Renascença,1-0,AE Pedro Leopoldo
+1,06/07/63,Cruzeiro,1-0,Siderúrgica
+1,07/07/63,Atlético Mineiro,1-0,Democrata-SL
+1,07/07/63,Uberaba,1-1,Uberlândia
+1,07/07/63,Guarani-MG,2-0,América Mineiro
+1,07/07/63,Valeriodoce,1-0,Villa Nova-MG
+2,11/07/63,Atlético Mineiro,1-1,Uberlândia
+2,13/07/63,América Mineiro,4-1,AE Pedro Leopoldo
+2,14/07/63,Cruzeiro,2-1,Villa Nova-MG
+2,14/07/63,Democrata-SL,4-1,Renascença
+2,14/07/63,Uberaba,3-2,Valeriodoce
+2,14/07/63,Siderúrgica,0-0,Guarani-MG
+3,20/07/63,América Mineiro,0-1,Uberaba
+3,20/07/63,Democrata-SL,1-0,Siderúrgica
+3,21/07/63,AE Pedro Leopoldo,0-1,Atlético Mineiro
+3,21/07/63,Cruzeiro,3-1,Guarani-MG
+3,21/07/63,Uberlândia,3-2,Valeriodoce
+3,21/07/63,Villa Nova-MG,1-1,Renascença
+4,25/07/63,Renascença,1-0,Valeriodoce
+4,27/07/63,Atlético Mineiro,0-0,Villa Nova-MG
+4,28/07/63,Cruzeiro,5-1,AE Pedro Leopoldo
+4,28/07/63,Uberlândia,1-1,América Mineiro
+4,28/07/63,Democrata-SL,3-2,Guarani-MG
+4,28/07/63,Uberaba,3-1,Siderúrgica
+5,01/08/63,América Mineiro,2-1,Renascença
+5,03/08/63,Atlético Mineiro,1-1,Valeriodoce
+5,04/08/63,Guarani-MG,1-2,Villa Nova-MG
+5,04/08/63,Cruzeiro,1-1,Democrata-SL
+5,04/08/63,Siderúrgica,3-0,Uberlândia
+5,04/08/63,AE Pedro Leopoldo,1-0,Uberaba
+6,10/08/63,América Mineiro,1-2,Atlético Mineiro
+6,11/08/63,Cruzeiro,0-2,Uberlândia
+6,11/08/63,Uberaba,0-1,Renascença
+6,11/08/63,Guarani-MG,4-1,Valeriodoce
+6,11/08/63,Villa Nova-MG,0-0,Democrata-SL
+6,11/08/63,AE Pedro Leopoldo,1-0,Siderúrgica
+7,15/08/63,América Mineiro,1-2,Democrata-SL
+7,17/08/63,Cruzeiro,2-0,Renascença
+7,18/08/63,Atlético Mineiro,1-0,Uberaba
+7,18/08/63,AE Pedro Leopoldo,1-1,Villa Nova-MG
+7,18/08/63,Guarani-MG,2-1,Uberlândia
+7,18/08/63,Valeriodoce,0-0,Siderúrgica
+8,24/08/63,Cruzeiro,2-1,Valeriodoce
+8,25/08/63,Renascença,0-2,Atlético Mineiro
+8,25/08/63,Villa Nova-MG,1-0,Uberaba
+8,25/08/63,Siderúrgica,2-1,América Mineiro
+8,25/08/63,Democrata-SL,2-0,Uberlândia
+8,25/08/63,Guarani-MG,3-0,AE Pedro Leopoldo
+9,31/08/63,América Mineiro,0-0,Cruzeiro
+9,01/09/63,Atlético Mineiro,2-1,Siderúrgica
+9,01/09/63,Guarani-MG,3-2,Renascença
+9,01/09/63,Democrata-SL,4-0,Uberaba
+9,01/09/63,Villa Nova-MG,2-1,Uberlândia
+9,01/09/63,Valeriodoce,1-0,AE Pedro Leopoldo
+11,04/09/63,Renascença,2-0,Uberlândia
+10,06/09/63,América Mineiro,1-0,Villa Nova-MG
+10,07/09/63,Cruzeiro,1-0,Uberaba
+10,08/09/63,Atlético Mineiro,1-0,Guarani-MG
+10,08/09/63,Siderúrgica,1-0,Renascença
+10,08/09/63,Democrata-SL,1-0,Valeriodoce
+10,08/09/63,AE Pedro Leopoldo,1-2,Uberlândia
+11,15/09/63,Cruzeiro,0-1,Atlético Mineiro
+11,15/09/63,Valeriodoce,1-2,América Mineiro
+11,15/09/63,Democrata-SL,3-2,AE Pedro Leopoldo
+11,15/09/63,Uberaba,3-1,Guarani-MG
+11,15/09/63,Villa Nova-MG,0-1,Siderúrgica
+12,19/09/63,América Mineiro,2-1,Siderúrgica
+12,21/09/63,Cruzeiro,2-0,Democrata-SL
+12,22/09/63,Uberlândia,4-0,Villa Nova-MG
+12,22/09/63,Guarani-MG,3-2,Uberaba
+12,22/09/63,AE Pedro Leopoldo,2-0,Valeriodoce
+12,22/09/63,Atlético Mineiro,0-0,Renascença
+13,26/09/63,América Mineiro,4-1,Uberlândia
+13,28/09/63,Cruzeiro,3-1,Renascença
+13,29/09/63,Atlético Mineiro,1-1,Siderúrgica
+13,29/09/63,Villa Nova-MG,1-0,Guarani-MG
+13,29/09/63,Valeriodoce,0-2,Uberaba
+13,29/09/63,Democrata-SL,2-0,AE Pedro Leopoldo
+14,03/10/63,América Mineiro,3-1,Valeriodoce
+14,05/10/63,Cruzeiro,0-1,Guarani-MG
+14,06/10/63,Atlético Mineiro,1-2,Democrata-SL
+14,06/10/63,Uberlândia,2-1,Uberaba
+14,06/10/63,Siderúrgica,3-1,Villa Nova-MG
+14,06/10/63,AE Pedro Leopoldo,2-1,Renascença
+15,10/10/63,Renascença,1-1,Guarani-MG
+15,12/10/63,Cruzeiro,1-2,AE Pedro Leopoldo
+15,13/10/63,Villa Nova-MG,1-1,América Mineiro
+15,13/10/63,Siderúrgica,2-1,Valeriodoce
+15,19/10/63,Atlético Mineiro,2-0,Uberlândia
+15,20/10/63,Democrata-SL,3-1,Uberaba
+16,26/10/63,Atlético Mineiro,2-1,Uberaba
+16,27/10/63,Democrata-SL,0-0,Villa Nova-MG
+16,28/10/63,Cruzeiro,2-0,América Mineiro
+16,28/10/63,Valeriodoce,1-0,Renascença
+16,28/10/63,Uberlândia,3-1,Guarani-MG
+16,28/10/63,Siderúrgica,3-2,AE Pedro Leopoldo
+17,31/10/63,Cruzeiro,3-1,Uberaba
+17,01/11/63,Renascença,0-2,Democrata-SL
+17,03/11/63,Atlético Mineiro,1-1,Villa Nova-MG
+17,03/11/63,Valeriodoce,0-1,Guarani-MG
+17,03/11/63,Siderúrgica,2-0,Uberlândia
+17,03/11/63,AE Pedro Leopoldo,1-1,América Mineiro
+18,07/11/63,América Mineiro,1-2,Guarani-MG
+18,09/11/63,Atlético Mineiro,2-0,AE Pedro Leopoldo
+18,10/11/63,Uberaba,2-0,Villa Nova-MG
+18,10/11/63,Siderúrgica,1-0,Democrata-SL
+18,10/11/63,Uberlândia,2-2,Renascença
+18,10/11/63,Valeriodoce,3-1,Cruzeiro
+19,13/11/63,Uberaba,3-1,Renascença
+19,17/11/63,América Mineiro,0-2,Atlético Mineiro
+19,17/11/63,Siderúrgica,4-2,Cruzeiro
+19,17/11/63,AE Pedro Leopoldo,2-1,Guarani-MG
+19,17/11/63,Villa Nova-MG,2-2,Valeriodoce
+19,18/11/63,Democrata-SL,1-1,Uberlândia
+20,20/11/63,Renascença,1-1,Siderúrgica
+20,21/11/63,Cruzeiro,0-0,Uberlândia
+20,23/11/63,Valeriodoce,0-0,Democrata-SL
+20,24/11/63,Atlético Mineiro,2-0,Guarani-MG
+20,24/11/63,Villa Nova-MG,2-2,AE Pedro Leopoldo
+20,24/11/63,Uberaba,1-0,América Mineiro
+21,28/11/63,Renascença,1-0,Villa Nova-MG
+21,30/11/63,Democrata-SL,0-1,América Mineiro
+21,01/12/63,Siderúrgica,1-0,Guarani-MG
+21,01/12/63,Uberaba,1-1,AE Pedro Leopoldo
+21,01/12/63,Valeriodoce,2-0,Uberlândia
+21,01/12/63,Cruzeiro,1-1,Atlético Mineiro
+22,05/12/63,Cruzeiro,3-2,Villa Nova-MG
+22,06/12/63,América Mineiro,1-0,Renascença
+22,07/12/63,Democrata-SL,0-3,Guarani-MG
+22,08/12/63,Uberlândia,0-0,AE Pedro Leopoldo
+22,08/12/63,Atlético Mineiro,3-2,Valeriodoce
+22,08/12/63,Uberaba,1-0,Siderúrgica

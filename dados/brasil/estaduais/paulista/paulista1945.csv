@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+C,01/04/45,Juventus-SP,0-4,Portuguesa
+C,01/04/45,Ypiranga-SP,4-1,Santos
+C,01/04/45,Palmeiras,5-0,Jabaquara
+C,01/04/45,Comercial Paulistano,0-3,SPRAC
+C,01/04/45,Portuguesa Santista,1-2,Corinthians
+C,08/04/45,Corinthians,0-1,Juventus-SP
+C,08/04/45,Ypiranga-SP,5-2,Comercial Paulistano
+C,08/04/45,Palmeiras,0-0,Portuguesa
+C,08/04/45,Jabaquara,2-6,São Paulo
+C,08/04/45,SPRAC,3-1,Santos
+C,14/04/45,Palmeiras,2-2,SPRAC
+C,15/04/45,Juventus-SP,6-4,Comercial Paulistano
+C,15/04/45,Ypiranga-SP,2-1,Juventus-SP
+C,15/04/45,Santos,3-5,Portuguesa Santista
+C,15/04/45,Corinthians,2-2,Portuguesa
+C,15/04/45,São Paulo,3-1,Ypiranga-SP
+C,21/04/45,Corinthians,3-2,Comercial Paulistano
+C,22/04/45,Santos,2-1,Portuguesa
+C,22/04/45,São Paulo,1-0,Palmeiras
+C,22/04/45,Portuguesa Santista,2-2,Jabaquara
+C,28/04/45,São Paulo,4-1,Juventus-SP
+C,29/04/45,Jabaquara,1-1,Santos
+C,29/04/45,SPRAC,1-2,Ypiranga-SP
+C,29/04/45,Palmeiras,4-2,Comercial Paulistano
+C,29/04/45,Portuguesa,7-2,Portuguesa Santista
+C,06/05/45,Portuguesa Santista,0-2,Ypiranga-SP
+C,06/05/45,São Paulo,3-2,Corinthians
+C,12/05/45,Ypiranga-SP,0-4,Corinthians
+C,13/05/45,Santos,1-1,São Paulo
+C,13/05/45,Comercial Paulistano,0-0,Portuguesa
+C,13/05/45,SPRAC,4-3,Jabaquara
+C,13/05/45,Palmeiras,2-1,Juventus-SP
+C,19/05/45,Palmeiras,5-1,Portuguesa Santista
+C,20/05/45,Jabaquara,4-2,Comercial Paulistano
+C,20/05/45,Juventus-SP,2-5,Santos
+C,20/05/45,São Paulo,4-1,SPRAC
+C,26/05/45,São Paulo,4-1,Comercial Paulistano
+C,27/05/45,SPRAC,2-3,Juventus-SP
+C,27/05/45,Corinthians,7-1,Jabaquara
+C,27/05/45,Ypiranga-SP,2-3,Portuguesa
+C,27/05/45,Santos,0-3,Palmeiras
+C,01/06/45,Portuguesa Santista,3-5,SPRAC
+C,02/06/45,Palmeiras,4-2,Ypiranga-SP
+C,03/06/45,São Paulo,2-1,Portuguesa
+C,03/06/45,Corinthians,3-0,Santos
+C,03/06/45,Portuguesa Santista,1-4,Juventus-SP
+C,10/06/45,Jabaquara,3-2,Ypiranga-SP
+C,10/06/45,Palmeiras,2-2,Corinthians
+C,16/06/45,Portuguesa,3-0,Jabaquara
+C,17/06/45,Santos,3-2,Comercial Paulistano
+C,17/06/45,Corinthians,3-0,SPRAC
+C,17/06/45,São Paulo,5-0,Portuguesa Santista
+C,17/06/45,Jabaquara,2-1,Juventus-SP
+C,24/06/45,Portuguesa,1-0,SPRAC
+C,24/06/45,Comercial Paulistano,5-1,Portuguesa Santista
+C,01/07/45,Juventus-SP,0-1,Ypiranga-SP
+C,01/07/45,Corinthians,4-1,Portuguesa Santista
+C,01/07/45,Portuguesa,2-1,Santos
+C,01/07/45,Jabaquara,1-2,Palmeiras
+C,01/07/45,SPRAC,1-2,Comercial Paulistano
+C,08/07/45,Palmeiras,0-0,Portuguesa
+C,08/07/45,Ypiranga-SP,1-3,SPRAC
+C,08/07/45,Portuguesa Santista,0-2,Santos
+C,08/07/45,São Paulo,12-1,Jabaquara
+C,14/07/45,Juventus-SP,3-3,Corinthians
+C,15/07/45,Portuguesa,5-2,SPRAC
+C,15/07/45,Santos,3-2,Ypiranga-SP
+C,15/07/45,Palmeiras,1-1,Comercial Paulistano
+C,21/07/45,São Paulo,6-1,SPRAC
+C,22/07/45,Corinthians,8-1,Comercial Paulistano
+C,22/07/45,Portuguesa Santista,2-5,Jabaquara
+C,22/07/45,Portuguesa,5-1,Juventus-SP
+C,28/07/45,Comercial Paulistano,2-1,Santos
+C,29/07/45,Ypiranga-SP,6-2,Jabaquara
+C,29/07/45,Portuguesa Santista,1-1,Palmeiras
+C,29/07/45,São Paulo,1-0,Juventus-SP
+C,04/08/45,Juventus-SP,2-0,Portuguesa Santista
+C,05/08/45,Jabaquara,5-2,SPRAC
+C,05/08/45,Palmeiras,2-0,Santos
+C,05/08/45,Comercial Paulistano,1-1,Ypiranga-SP
+C,12/08/45,Jabaquara,2-1,Portuguesa
+C,12/08/45,Corinthians,2-1,São Paulo
+C,18/08/45,Corinthians,1-0,Ypiranga-SP
+C,19/08/45,Portuguesa Santista,1-0,Comercial Paulistano
+C,19/08/45,São Paulo,4-0,Santos
+C,19/08/45,Juventus-SP,1-2,Jabaquara
+C,25/08/45,Palmeiras,5-0,Ypiranga-SP
+C,26/08/45,Jabaquara,2-3,Corinthians
+C,26/08/45,São Paulo,2-1,Portuguesa
+C,02/09/45,Santos,3-1,SPRAC
+C,02/09/45,Corinthians,2-1,Palmeiras
+C,07/09/45,SPRAC,4-0,Portuguesa Santista
+C,08/09/45,Palmeiras,2-1,Juventus-SP
+C,09/09/45,Santos,2-1,Corinthians
+C,09/09/45,São Paulo,2-1,Comercial Paulistano
+C,09/09/45,Ypiranga-SP,0-4,Portuguesa
+C,15/09/45,Corinthians,2-1,SPRAC
+C,16/09/45,São Paulo,3-2,Ypiranga-SP
+C,16/09/45,Juventus-SP,4-1,Comercial Paulistano
+C,16/09/45,Portuguesa Santista,1-1,Portuguesa
+C,22/09/45,Portuguesa,4-1,Comercial Paulistano
+C,23/09/45,Santos,2-6,Jabaquara
+C,23/09/45,Palmeiras,1-1,São Paulo
+C,29/09/45,Jabaquara,4-1,Comercial Paulistano
+C,29/09/45,Juventus-SP,1-1,SPRAC
+C,30/09/45,Corinthians,2-0,Portuguesa
+C,30/09/45,Portuguesa Santista,1-5,São Paulo
+C,07/10/45,Santos,3-1,Juventus-SP
+C,07/10/45,Ypiranga-SP,3-0,Portuguesa Santista
+C,07/10/45,Palmeiras,5-0,SPRAC

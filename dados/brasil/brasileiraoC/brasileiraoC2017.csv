@@ -1,0 +1,195 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+B,14/04/18,Tupi,1-0,Tombense
+A,14/04/18,Juazeirense,0-1,Confiança
+B,14/04/18,Botafogo-SP,1-1,Bragantino
+B,15/04/18,Operário Ferroviário,1-0,Volta Redonda
+A,15/04/18,Salgueiro,0-0,Botafogo-PB
+B,15/04/18,Joinville,1-0,Ypiranga-RS
+A,15/04/18,Globo FC,1-0,ABC
+A,15/04/18,Náutico,1-1,Santa Cruz
+B,15/04/18,Cuiabá,1-0,Luverdense
+A,16/04/18,Atlético-AC,1-0,Remo
+B,21/04/18,Tombense,3-0,Joinville
+A,21/04/18,Remo,1-0,Globo FC
+B,21/04/18,Bragantino,1-0,Tupi
+B,21/04/18,Volta Redonda,3-0,Cuiabá
+B,21/04/18,Luverdense,1-2,Botafogo-SP
+A,21/04/18,Botafogo-PB,4-0,Náutico
+B,22/04/18,Ypiranga-RS,2-1,Operário Ferroviário
+A,22/04/18,ABC,1-0,Juazeirense
+A,22/04/18,Confiança,3-0,Salgueiro
+A,22/04/18,Santa Cruz,3-1,Atlético-AC
+A,28/04/18,Santa Cruz,0-0,ABC
+B,28/04/18,Volta Redonda,3-2,Ypiranga-RS
+B,28/04/18,Tupi,0-1,Operário Ferroviário
+B,28/04/18,Botafogo-SP,0-0,Cuiabá
+A,28/04/18,Juazeirense,1-0,Remo
+B,29/04/18,Joinville,0-2,Bragantino
+A,29/04/18,Globo FC,1-1,Salgueiro
+B,29/04/18,Luverdense,2-0,Tombense
+A,29/04/18,Atlético-AC,1-0,Náutico
+A,30/04/18,Botafogo-PB,2-0,Confiança
+B,05/05/18,Tombense,1-0,Bragantino
+A,05/05/18,Remo,0-0,Santa Cruz
+B,05/05/18,Cuiabá,1-0,Tupi
+A,05/05/18,Juazeirense,2-0,Globo FC
+A,05/05/18,Náutico,2-4,Confiança
+B,06/05/18,Ypiranga-RS,1-0,Luverdense
+A,06/05/18,ABC,2-0,Botafogo-PB
+A,06/05/18,Salgueiro,1-3,Atlético-AC
+B,06/05/18,Operário Ferroviário,2-0,Joinville
+B,07/05/18,Botafogo-SP,2-0,Volta Redonda
+A,12/05/18,Confiança,2-2,ABC
+B,12/05/18,Bragantino,2-1,Ypiranga-RS
+B,12/05/18,Tupi,1-1,Botafogo-SP
+A,12/05/18,Náutico,3-0,Salgueiro
+B,12/05/18,Joinville,2-3,Cuiabá
+B,13/05/18,Operário Ferroviário,1-1,Tombense
+A,13/05/18,Atlético-AC,5-0,Juazeirense
+A,13/05/18,Botafogo-PB,1-3,Remo
+B,14/05/18,Luverdense,4-1,Volta Redonda
+A,14/05/18,Globo FC,1-2,Santa Cruz
+A,19/05/18,Juazeirense,2-0,Náutico
+B,19/05/18,Volta Redonda,2-1,Bragantino
+B,19/05/18,Cuiabá,4-0,Operário Ferroviário
+A,19/05/18,Santa Cruz,2-3,Botafogo-PB
+A,19/05/18,Salgueiro,3-0,ABC
+B,20/05/18,Ypiranga-RS,0-0,Tombense
+B,20/05/18,Botafogo-SP,3-0,Joinville
+B,20/05/18,Tupi,0-1,Luverdense
+A,20/05/18,Globo FC,2-1,Atlético-AC
+A,20/05/18,Remo,0-3,Confiança
+B,26/05/18,Tombense,1-0,Volta Redonda
+B,26/05/18,Bragantino,1-1,Luverdense
+B,26/05/18,Cuiabá,1-2,Ypiranga-RS
+A,26/05/18,Atlético-AC,1-0,Botafogo-PB
+A,26/05/18,ABC,2-1,Remo
+A,26/05/18,Salgueiro,1-0,Juazeirense
+B,27/05/18,Operário Ferroviário,3-1,Botafogo-SP
+B,27/05/18,Joinville,1-1,Tupi
+A,27/05/18,Náutico,2-0,Globo FC
+A,28/05/18,Confiança,1-1,Santa Cruz
+B,02/06/18,Tombense,3-2,Cuiabá
+A,02/06/18,ABC,2-0,Náutico
+B,02/06/18,Bragantino,0-0,Operário Ferroviário
+B,02/06/18,Volta Redonda,2-3,Tupi
+A,02/06/18,Santa Cruz,1-0,Juazeirense
+B,03/06/18,Ypiranga-RS,0-3,Botafogo-SP
+A,03/06/18,Confiança,0-0,Atlético-AC
+B,03/06/18,Luverdense,2-0,Joinville
+A,03/06/18,Remo,0-1,Salgueiro
+A,04/06/18,Botafogo-PB,1-1,Globo FC
+A,09/06/18,Náutico,3-2,Remo
+B,09/06/18,Tupi,4-1,Ypiranga-RS
+B,09/06/18,Cuiabá,0-1,Bragantino
+A,09/06/18,Juazeirense,1-1,Botafogo-PB
+B,10/06/18,Operário Ferroviário,3-2,Luverdense
+B,10/06/18,Botafogo-SP,1-0,Tombense
+A,10/06/18,Globo FC,1-1,Confiança
+A,10/06/18,Atlético-AC,3-0,ABC
+A,11/06/18,Salgueiro,0-0,Santa Cruz
+B,11/06/18,Joinville,1-0,Volta Redonda
+B,16/06/18,Ypiranga-RS,2-0,Joinville
+A,16/06/18,Botafogo-PB,0-0,Salgueiro
+A,16/06/18,Confiança,1-1,Juazeirense
+B,16/06/18,Bragantino,0-2,Botafogo-SP
+B,16/06/18,Volta Redonda,0-1,Operário Ferroviário
+B,16/06/18,Tombense,0-1,Tupi
+B,16/06/18,Luverdense,1-3,Cuiabá
+A,16/06/18,ABC,1-3,Globo FC
+A,18/06/18,Remo,2-2,Atlético-AC
+A,18/06/18,Santa Cruz,0-1,Náutico
+B,23/06/18,Tupi,0-3,Bragantino
+B,23/06/18,Cuiabá,3-0,Volta Redonda
+B,23/06/18,Botafogo-SP,3-1,Luverdense
+A,23/06/18,Juazeirense,2-2,ABC
+B,24/06/18,Joinville,3-1,Tombense
+B,24/06/18,Operário Ferroviário,2-1,Ypiranga-RS
+A,24/06/18,Globo FC,3-1,Remo
+A,24/06/18,Atlético-AC,2-1,Santa Cruz
+A,25/06/18,Náutico,2-0,Botafogo-PB
+A,25/06/18,Salgueiro,1-1,Confiança
+A,29/06/18,Remo,3-0,Juazeirense
+B,30/06/18,Tombense,1-1,Luverdense
+B,30/06/18,Bragantino,2-0,Joinville
+B,30/06/18,Cuiabá,2-1,Botafogo-SP
+A,30/06/18,Náutico,3-1,Atlético-AC
+A,30/06/18,Salgueiro,1-1,Globo FC
+B,01/07/18,Operário Ferroviário,2-0,Tupi
+B,01/07/18,Ypiranga-RS,2-2,Volta Redonda
+A,01/07/18,Confiança,2-2,Botafogo-PB
+A,01/07/18,ABC,0-3,Santa Cruz
+B,07/07/18,Bragantino,2-1,Tombense
+B,07/07/18,Tupi,1-3,Cuiabá
+B,07/07/18,Volta Redonda,1-0,Botafogo-SP
+B,07/07/18,Luverdense,2-2,Ypiranga-RS
+A,07/07/18,Confiança,2-3,Náutico
+A,08/07/18,Globo FC,1-1,Juazeirense
+B,08/07/18,Joinville,1-3,Operário Ferroviário
+A,08/07/18,Santa Cruz,2-0,Remo
+A,08/07/18,Atlético-AC,2-1,Salgueiro
+A,08/07/18,Botafogo-PB,2-0,ABC
+B,14/07/18,Tombense,0-1,Operário Ferroviário
+B,14/07/18,Ypiranga-RS,1-1,Bragantino
+A,14/07/18,ABC,4-0,Confiança
+A,14/07/18,Juazeirense,4-0,Atlético-AC
+B,14/07/18,Botafogo-SP,4-2,Tupi
+B,14/07/18,Cuiabá,5-0,Joinville
+A,14/07/18,Remo,0-0,Botafogo-PB
+B,14/07/18,Volta Redonda,2-0,Luverdense
+A,14/07/18,Santa Cruz,1-1,Globo FC
+A,16/07/18,Salgueiro,1-1,Náutico
+B,21/07/18,Tombense,2-0,Ypiranga-RS
+B,21/07/18,Bragantino,0-1,Volta Redonda
+A,21/07/18,Náutico,1-0,Juazeirense
+A,21/07/18,Botafogo-PB,2-0,Santa Cruz
+B,22/07/18,Operário Ferroviário,1-1,Cuiabá
+B,22/07/18,Joinville,0-2,Botafogo-SP
+A,22/07/18,ABC,2-0,Salgueiro
+B,22/07/18,Luverdense,3-0,Tupi
+A,22/07/18,Atlético-AC,1-1,Globo FC
+A,22/07/18,Confiança,0-2,Remo
+A,27/07/18,Globo FC,1-1,Náutico
+A,28/07/18,Santa Cruz,4-0,Confiança
+A,28/07/18,Juazeirense,0-0,Salgueiro
+B,28/07/18,Botafogo-SP,2-2,Operário Ferroviário
+B,28/07/18,Tupi,2-0,Joinville
+B,28/07/18,Volta Redonda,0-2,Tombense
+B,28/07/18,Luverdense,3-1,Bragantino
+B,29/07/18,Ypiranga-RS,3-0,Cuiabá
+A,29/07/18,Botafogo-PB,1-0,Atlético-AC
+A,29/07/18,Remo,1-0,ABC
+A,04/08/18,Náutico,2-0,ABC
+B,04/08/18,Botafogo-SP,2-0,Ypiranga-RS
+B,04/08/18,Tupi,2-1,Volta Redonda
+B,04/08/18,Cuiabá,2-1,Tombense
+B,05/08/18,Operário Ferroviário,1-1,Bragantino
+B,05/08/18,Joinville,4-2,Luverdense
+A,05/08/18,Globo FC,1-1,Botafogo-PB
+A,05/08/18,Atlético-AC,0-3,Confiança
+A,05/08/18,Juazeirense,0-0,Santa Cruz
+A,06/08/18,Salgueiro,0-1,Remo
+B,11/08/18,Bragantino,2-1,Cuiabá
+B,11/08/18,Volta Redonda,0-0,Joinville
+B,11/08/18,Tombense,0-0,Botafogo-SP
+B,11/08/18,Luverdense,1-0,Operário Ferroviário
+B,11/08/18,Ypiranga-RS,5-1,Tupi
+A,11/08/18,Santa Cruz,1-0,Salgueiro
+A,11/08/18,ABC,0-1,Atlético-AC
+A,11/08/18,Remo,1-1,Náutico
+A,11/08/18,Botafogo-PB,2-2,Juazeirense
+A,11/08/18,Confiança,0-0,Globo FC
+QF,18/08/18,Bragantino,3-1,Náutico
+QF,19/08/18,Santa Cruz,1-0,Operário Ferroviário
+QF,19/08/18,Botafogo-PB,1-0,Botafogo-SP
+QF,20/08/18,Cuiabá,2-0,Atlético-AC
+QF,26/08/18,Operário Ferroviário,3-0,Santa Cruz
+QF,26/08/18,Náutico,1-1,Bragantino
+QF,26/08/18,Botafogo-SP,1-0(4-3 Pen.),Botafogo-PB
+QF,27/08/18,Atlético-AC,2-2,Cuiabá
+SF,01/09/18,Bragantino,0-0,Operário Ferroviário
+SF,02/09/18,Cuiabá,0-0,Botafogo-SP
+SF,08/09/18,Botafogo-SP,0-3,Cuiabá
+SF,09/09/18,Operário Ferroviário,0-0(4-2 Pen.),Bragantino
+F,16/09/18,Operário Ferroviário,3-3,Cuiabá
+F,22/09/18,Cuiabá,0-1,Operário Ferroviário

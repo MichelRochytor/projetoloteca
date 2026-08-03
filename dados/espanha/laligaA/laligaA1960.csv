@@ -1,0 +1,241 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,11/09/60,Atlético de Madrid,1-0,Real Madrid
+1,11/09/60,Athletic Bilbao,0-2,Barcelona
+1,11/09/60,Real Betis,2-0,Mallorca
+1,11/09/60,Real Sociedad,1-0,Granada
+1,11/09/60,Espanyol,3-0,Valencia
+1,11/09/60,Racing Santander,2-1,Real Zaragoza
+1,11/09/60,Elche,2-2,Sevilla
+1,11/09/60,Valladolid,3-0,Real Oviedo
+2,17/09/60,Valencia,1-0,Athletic Bilbao
+2,18/09/60,Real Madrid,3-1,Real Sociedad
+2,18/09/60,Real Zaragoza,4-1,Atlético de Madrid
+2,18/09/60,Barcelona,2-0,Valladolid
+2,18/09/60,Mallorca,2-1,Racing Santander
+2,18/09/60,Sevilla,2-0,Espanyol
+2,18/09/60,Real Oviedo,2-1,Real Betis
+2,18/09/60,Granada,1-1,Elche
+3,24/09/60,Valencia,6-0,Sevilla
+3,25/09/60,Atlético de Madrid,2-1,Mallorca
+3,25/09/60,Athletic Bilbao,4-1,Valladolid
+3,25/09/60,Real Betis,1-3,Barcelona
+3,25/09/60,Real Sociedad,2-2,Real Zaragoza
+3,25/09/60,Espanyol,3-1,Granada
+3,25/09/60,Racing Santander,3-0,Real Oviedo
+3,25/09/60,Elche,3-4,Real Madrid
+4,02/10/60,Real Madrid,2-0,Espanyol
+4,02/10/60,Real Zaragoza,1-1,Elche
+4,02/10/60,Barcelona,2-0,Racing Santander
+4,02/10/60,Mallorca,0-0,Real Sociedad
+4,02/10/60,Sevilla,3-1,Athletic Bilbao
+4,02/10/60,Real Oviedo,0-0,Atlético de Madrid
+4,02/10/60,Valladolid,5-1,Real Betis
+4,02/10/60,Granada,2-2,Valencia
+5,08/10/60,Valencia,0-1,Real Madrid
+5,09/10/60,Atlético de Madrid,2-0,Barcelona
+5,09/10/60,Athletic Bilbao,0-0,Real Betis
+5,09/10/60,Real Sociedad,2-0,Real Oviedo
+5,09/10/60,Espanyol,5-0,Real Zaragoza
+5,09/10/60,Sevilla,0-0,Granada
+5,09/10/60,Racing Santander,3-1,Valladolid
+5,09/10/60,Elche,2-0,Mallorca
+6,16/10/60,Real Madrid,1-1,Sevilla
+6,16/10/60,Real Zaragoza,1-1,Valencia
+6,16/10/60,Barcelona,6-2,Real Sociedad
+6,16/10/60,Real Betis,0-0,Racing Santander
+6,16/10/60,Mallorca,3-0,Espanyol
+6,16/10/60,Real Oviedo,4-0,Elche
+6,16/10/60,Valladolid,0-2,Atlético de Madrid
+6,16/10/60,Granada,2-0,Athletic Bilbao
+7,22/10/60,Valencia,2-1,Mallorca
+7,23/10/60,Atlético de Madrid,2-2,Real Betis
+7,23/10/60,Athletic Bilbao,3-1,Racing Santander
+7,23/10/60,Real Sociedad,0-0,Valladolid
+7,23/10/60,Espanyol,4-1,Real Oviedo
+7,23/10/60,Sevilla,1-1,Real Zaragoza
+7,23/10/60,Elche,2-1,Barcelona
+7,23/10/60,Granada,2-3,Real Madrid
+8,06/11/60,Real Madrid,3-1,Athletic Bilbao
+8,06/11/60,Real Zaragoza,4-1,Granada
+8,06/11/60,Barcelona,4-1,Espanyol
+8,06/11/60,Real Betis,5-1,Real Sociedad
+8,06/11/60,Mallorca,2-2,Sevilla
+8,06/11/60,Racing Santander,1-1,Atlético de Madrid
+8,06/11/60,Real Oviedo,2-2,Valencia
+8,06/11/60,Valladolid,2-1,Elche
+9,13/11/60,Real Madrid,5-1,Real Zaragoza
+9,13/11/60,Valencia,0-2,Barcelona
+9,13/11/60,Athletic Bilbao,2-0,Atlético de Madrid
+9,13/11/60,Real Sociedad,3-1,Racing Santander
+9,13/11/60,Espanyol,1-2,Valladolid
+9,13/11/60,Sevilla,3-2,Real Oviedo
+9,13/11/60,Elche,1-1,Real Betis
+9,13/11/60,Granada,4-0,Mallorca
+10,20/11/60,Atlético de Madrid,3-2,Real Sociedad
+10,20/11/60,Real Zaragoza,0-0,Athletic Bilbao
+10,20/11/60,Barcelona,2-2,Sevilla
+10,20/11/60,Real Betis,3-1,Espanyol
+10,20/11/60,Mallorca,1-1,Real Madrid
+10,20/11/60,Racing Santander,5-1,Elche
+10,20/11/60,Real Oviedo,0-0,Granada
+10,20/11/60,Valladolid,2-2,Valencia
+11,27/11/60,Real Madrid,7-0,Real Oviedo
+11,27/11/60,Real Zaragoza,2-0,Mallorca
+11,27/11/60,Valencia,4-1,Real Betis
+11,27/11/60,Athletic Bilbao,2-2,Real Sociedad
+11,27/11/60,Espanyol,2-0,Racing Santander
+11,27/11/60,Sevilla,4-0,Valladolid
+11,27/11/60,Elche,2-2,Atlético de Madrid
+11,27/11/60,Granada,1-1,Barcelona
+12,04/12/60,Atlético de Madrid,1-1,Espanyol
+12,04/12/60,Barcelona,3-5,Real Madrid
+12,04/12/60,Real Betis,0-0,Sevilla
+12,04/12/60,Real Sociedad,3-2,Elche
+12,04/12/60,Mallorca,0-0,Athletic Bilbao
+12,04/12/60,Racing Santander,3-0,Valencia
+12,04/12/60,Real Oviedo,3-0,Real Zaragoza
+12,04/12/60,Valladolid,4-0,Granada
+13,11/12/60,Real Madrid,2-1,Valladolid
+13,11/12/60,Real Zaragoza,1-1,Barcelona
+13,11/12/60,Valencia,1-2,Atlético de Madrid
+13,11/12/60,Athletic Bilbao,4-2,Elche
+13,11/12/60,Mallorca,1-0,Real Oviedo
+13,11/12/60,Espanyol,1-1,Real Sociedad
+13,11/12/60,Sevilla,1-2,Racing Santander
+13,11/12/60,Granada,1-2,Real Betis
+14,18/12/60,Atlético de Madrid,2-0,Sevilla
+14,18/12/60,Barcelona,4-2,Mallorca
+14,18/12/60,Athletic Bilbao,3-1,Real Oviedo
+14,18/12/60,Real Betis,0-5,Real Madrid
+14,18/12/60,Real Sociedad,1-1,Valencia
+14,18/12/60,Racing Santander,0-0,Granada
+14,18/12/60,Elche,2-0,Espanyol
+14,18/12/60,Valladolid,1-2,Real Zaragoza
+15,01/01/61,Real Madrid,4-0,Racing Santander
+15,01/01/61,Real Zaragoza,2-1,Real Betis
+15,01/01/61,Valencia,0-0,Elche
+15,01/01/61,Mallorca,3-1,Valladolid
+15,01/01/61,Espanyol,0-1,Athletic Bilbao
+15,01/01/61,Sevilla,1-2,Real Sociedad
+15,01/01/61,Real Oviedo,1-0,Barcelona
+15,01/01/61,Granada,0-3,Atlético de Madrid
+16,08/01/61,Real Madrid,3-1,Atlético de Madrid
+16,08/01/61,Real Zaragoza,5-3,Racing Santander
+16,08/01/61,Barcelona,2-2,Athletic Bilbao
+16,08/01/61,Valencia,3-0,Espanyol
+16,08/01/61,Mallorca,1-0,Real Betis
+16,08/01/61,Sevilla,2-0,Elche
+16,08/01/61,Real Oviedo,2-0,Valladolid
+16,08/01/61,Granada,2-0,Real Sociedad
+17,15/01/61,Atlético de Madrid,4-0,Real Zaragoza
+17,15/01/61,Athletic Bilbao,4-1,Valencia
+17,15/01/61,Real Betis,2-0,Real Oviedo
+17,15/01/61,Real Sociedad,0-4,Real Madrid
+17,15/01/61,Espanyol,3-0,Sevilla
+17,15/01/61,Racing Santander,5-1,Mallorca
+17,15/01/61,Elche,1-2,Granada
+17,15/01/61,Valladolid,1-0,Barcelona
+18,22/01/61,Real Madrid,8-0,Elche
+18,22/01/61,Real Zaragoza,1-1,Real Sociedad
+18,22/01/61,Barcelona,2-1,Real Betis
+18,22/01/61,Mallorca,0-1,Atlético de Madrid
+18,22/01/61,Sevilla,1-3,Valencia
+18,22/01/61,Real Oviedo,2-1,Racing Santander
+18,22/01/61,Granada,1-2,Espanyol
+18,24/01/61,Valladolid,1-2,Athletic Bilbao
+19,29/01/61,Atlético de Madrid,2-0,Real Oviedo
+19,29/01/61,Valencia,3-1,Granada
+19,29/01/61,Athletic Bilbao,0-2,Sevilla
+19,29/01/61,Real Betis,3-1,Valladolid
+19,29/01/61,Real Sociedad,3-1,Mallorca
+19,29/01/61,Espanyol,1-2,Real Madrid
+19,29/01/61,Racing Santander,1-0,Barcelona
+19,29/01/61,Elche,2-7,Real Zaragoza
+20,04/02/61,Real Madrid,2-0,Valencia
+20,05/02/61,Real Zaragoza,1-1,Espanyol
+20,05/02/61,Barcelona,2-0,Atlético de Madrid
+20,05/02/61,Real Betis,1-3,Athletic Bilbao
+20,05/02/61,Mallorca,3-0,Elche
+20,05/02/61,Real Oviedo,3-1,Real Sociedad
+20,05/02/61,Valladolid,2-0,Racing Santander
+20,05/02/61,Granada,0-2,Sevilla
+21,12/02/61,Atlético de Madrid,4-2,Valladolid
+21,12/02/61,Valencia,3-0,Real Zaragoza
+21,12/02/61,Athletic Bilbao,3-0,Granada
+21,12/02/61,Real Sociedad,3-2,Barcelona
+21,12/02/61,Espanyol,1-0,Mallorca
+21,12/02/61,Sevilla,0-2,Real Madrid
+21,12/02/61,Racing Santander,0-1,Real Betis
+21,12/02/61,Elche,3-1,Real Oviedo
+22,18/02/61,Barcelona,3-3,Elche
+22,19/02/61,Real Madrid,5-0,Granada
+22,19/02/61,Real Zaragoza,2-1,Sevilla
+22,19/02/61,Real Betis,1-0,Atlético de Madrid
+22,19/02/61,Mallorca,4-0,Valencia
+22,19/02/61,Racing Santander,0-1,Athletic Bilbao
+22,19/02/61,Real Oviedo,2-3,Espanyol
+22,19/02/61,Valladolid,0-0,Real Sociedad
+23,26/02/61,Atlético de Madrid,3-2,Racing Santander
+23,26/02/61,Valencia,3-1,Real Oviedo
+23,26/02/61,Athletic Bilbao,0-2,Real Madrid
+23,26/02/61,Real Sociedad,0-1,Real Betis
+23,26/02/61,Espanyol,1-2,Barcelona
+23,26/02/61,Sevilla,0-2,Mallorca
+23,26/02/61,Elche,3-0,Valladolid
+23,26/02/61,Granada,2-3,Real Zaragoza
+24,05/03/61,Atlético de Madrid,3-1,Athletic Bilbao
+24,05/03/61,Real Zaragoza,2-3,Real Madrid
+24,05/03/61,Barcelona,1-1,Valencia
+24,05/03/61,Real Betis,7-1,Elche
+24,05/03/61,Mallorca,1-0,Granada
+24,05/03/61,Racing Santander,2-0,Real Sociedad
+24,05/03/61,Real Oviedo,2-2,Sevilla
+24,05/03/61,Valladolid,2-0,Espanyol
+25,12/03/61,Real Madrid,3-0,Mallorca
+25,12/03/61,Valencia,1-0,Valladolid
+25,12/03/61,Athletic Bilbao,1-0,Real Zaragoza
+25,12/03/61,Real Sociedad,1-0,Atlético de Madrid
+25,12/03/61,Espanyol,2-1,Real Betis
+25,12/03/61,Sevilla,0-1,Barcelona
+25,12/03/61,Elche,2-0,Racing Santander
+25,12/03/61,Granada,1-1,Real Oviedo
+26,19/03/61,Atlético de Madrid,5-0,Elche
+26,19/03/61,Barcelona,8-2,Granada
+26,19/03/61,Real Betis,0-0,Valencia
+26,19/03/61,Real Sociedad,0-0,Athletic Bilbao
+26,19/03/61,Mallorca,4-0,Real Zaragoza
+26,19/03/61,Racing Santander,1-0,Espanyol
+26,19/03/61,Real Oviedo,0-0,Real Madrid
+26,19/03/61,Valladolid,0-4,Sevilla
+27,26/03/61,Real Madrid,3-2,Barcelona
+27,26/03/61,Real Zaragoza,4-1,Real Oviedo
+27,26/03/61,Valencia,3-1,Racing Santander
+27,26/03/61,Athletic Bilbao,1-2,Mallorca
+27,26/03/61,Espanyol,1-2,Atlético de Madrid
+27,26/03/61,Sevilla,1-1,Real Betis
+27,26/03/61,Elche,1-0,Real Sociedad
+27,26/03/61,Granada,0-1,Valladolid
+28,09/04/61,Atlético de Madrid,2-2,Valencia
+28,09/04/61,Barcelona,0-1,Real Zaragoza
+28,09/04/61,Real Betis,2-1,Granada
+28,09/04/61,Real Sociedad,2-1,Espanyol
+28,09/04/61,Racing Santander,2-0,Sevilla
+28,09/04/61,Real Oviedo,1-0,Mallorca
+28,09/04/61,Elche,4-1,Athletic Bilbao
+28,09/04/61,Valladolid,3-1,Real Madrid
+29,22/04/61,Valencia,0-0,Real Sociedad
+29,23/04/61,Real Madrid,4-0,Real Betis
+29,23/04/61,Real Zaragoza,5-1,Valladolid
+29,23/04/61,Mallorca,3-1,Barcelona
+29,23/04/61,Espanyol,5-2,Elche
+29,23/04/61,Sevilla,4-2,Atlético de Madrid
+29,23/04/61,Real Oviedo,2-0,Athletic Bilbao
+29,23/04/61,Granada,5-1,Racing Santander
+30,30/04/61,Atlético de Madrid,4-0,Granada
+30,30/04/61,Barcelona,3-5,Real Oviedo
+30,30/04/61,Athletic Bilbao,2-3,Espanyol
+30,30/04/61,Real Betis,1-1,Real Zaragoza
+30,30/04/61,Real Sociedad,3-1,Sevilla
+30,30/04/61,Racing Santander,1-1,Real Madrid
+30,30/04/61,Elche,4-1,Valencia
+30,30/04/61,Valladolid,2-0,Mallorca

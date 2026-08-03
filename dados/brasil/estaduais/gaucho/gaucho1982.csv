@@ -1,0 +1,163 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+,20/07/82,Internacional,2-0,GE Brasil
+,20/07/82,São Paulo-RS,0-1,São Borja
+,21/07/82,Guarany de Bagé,0-4,Grêmio
+,21/07/82,São José-RS,0-0,Caxias
+,21/07/82,Juventude,0-4,Novo Hamburgo
+,21/07/82,Inter SM,2-1,Esportivo
+,23/07/82,Internacional,3-2,São Borja
+,23/07/82,GE Brasil,1-1,São Paulo-RS
+,25/07/82,Novo Hamburgo,0-1,Grêmio
+,25/07/82,Caxias,0-0,Guarany de Bagé
+,25/07/82,São José-RS,0-2,Inter SM
+,25/07/82,Esportivo,0-1,Juventude
+,26/07/82,São Paulo-RS,0-1,Internacional
+,28/07/82,Grêmio,1-0,Caxias
+,28/07/82,Guarany de Bagé,1-0,Novo Hamburgo
+,28/07/82,São Borja,0-2,GE Brasil
+,28/07/82,Juventude,0-0,São José-RS
+,29/07/82,Esportivo,0-1,Internacional
+,29/07/82,São Paulo-RS,2-1,Inter SM
+,31/07/82,Internacional,6-1,Juventude
+,31/07/82,São José-RS,2-0,Grêmio
+,01/08/82,Caxias,1-0,São Paulo-RS
+,01/08/82,Inter SM,2-0,Novo Hamburgo
+,01/08/82,GE Brasil,0-0,Guarany de Bagé
+,01/08/82,São Borja,4-1,Esportivo
+,03/08/82,Grêmio,2-0,Internacional
+,04/08/82,Novo Hamburgo,1-0,Caxias
+,04/08/82,Guarany de Bagé,0-2,Inter SM
+,04/08/82,GE Brasil,0-0,Esportivo
+,04/08/82,Juventude,3-2,São Borja
+,06/08/82,Internacional,4-0,São José-RS
+,07/08/82,São Paulo-RS,0-2,Grêmio
+,08/08/82,São José-RS,2-0,São Borja
+,08/08/82,Caxias,0-0,Inter SM
+,08/08/82,Esportivo,4-0,Guarany de Bagé
+,09/08/82,Novo Hamburgo,0-2,Internacional
+,10/08/82,Grêmio,3-0,GE Brasil
+,11/08/82,São Borja,0-0,Caxias
+,11/08/82,Inter SM,0-0,Juventude
+,11/08/82,São Paulo-RS,1-1,Novo Hamburgo
+,15/08/82,São Borja,0-0,Guarany de Bagé
+,15/08/82,Juventude,0-0,Caxias
+,15/08/82,Esportivo,2-0,São José-RS
+,15/08/82,GE Brasil,0-3,Novo Hamburgo
+,16/08/82,Inter SM,0-1,Grêmio
+,18/08/82,Guarany de Bagé,0-3,São Paulo-RS
+,18/08/82,Caxias,1-1,GE Brasil
+,18/08/82,Novo Hamburgo,1-1,São Borja
+,19/08/82,Grêmio,3-0,Esportivo
+,21/08/82,Grêmio,2-0,Juventude
+,22/08/82,São José-RS,1-1,Novo Hamburgo
+,22/08/82,GE Brasil,0-3,Inter SM
+,22/08/82,Esportivo,1-0,São Paulo-RS
+,25/08/82,São Paulo-RS,2-0,São José-RS
+,25/08/82,Inter SM,0-1,São Borja
+,25/08/82,Esportivo,2-0,Caxias
+,25/08/82,Guarany de Bagé,1-1,Juventude
+,28/08/82,Internacional,2-2,Inter SM
+,29/08/82,Novo Hamburgo,2-0,Esportivo
+,29/08/82,Juventude,0-0,São Paulo-RS
+,29/08/82,São José-RS,1-1,GE Brasil
+,31/08/82,São Borja,1-1,Grêmio
+,31/08/82,Caxias,0-1,Internacional
+,01/09/82,Guarany de Bagé,2-1,São José-RS
+,01/09/82,Juventude,1-0,GE Brasil
+,04/09/82,Internacional,4-0,Guarany de Bagé
+,05/09/82,São Paulo-RS,0-1,Esportivo
+,05/09/82,Caxias,1-1,Novo Hamburgo
+,05/09/82,São Borja,0-0,Juventude
+,07/09/82,Grêmio,2-0,São José-RS
+,07/09/82,GE Brasil,0-0,Internacional
+,07/09/82,Inter SM,1-0,Guarany de Bagé
+,09/09/82,Grêmio,2-1,Inter SM
+,09/09/82,Novo Hamburgo,1-0,São Paulo-RS
+,09/09/82,GE Brasil,1-0,Caxias
+,09/09/82,Juventude,1-0,Guarany de Bagé
+,12/09/82,Caxias,0-1,Grêmio
+,12/09/82,São Borja,0-2,Internacional
+,12/09/82,São Paulo-RS,1-0,Juventude
+,12/09/82,Guarany de Bagé,0-1,Esportivo
+,12/09/82,Inter SM,1-0,São José-RS
+,12/09/82,Novo Hamburgo,1-0,GE Brasil
+,14/09/82,Grêmio,2-0,Guarany de Bagé
+,15/09/82,Internacional,4-0,Novo Hamburgo
+,15/09/82,Inter SM,0-1,São Paulo-RS
+,15/09/82,Caxias,0-0,São José-RS
+,15/09/82,GE Brasil,2-0,Juventude
+,15/09/82,Esportivo,3-1,São Borja
+,19/09/82,Juventude,2-1,Internacional
+,19/09/82,São José-RS,0-3,Esportivo
+,19/09/82,Guarany de Bagé,2-2,Caxias
+,19/09/82,São Paulo-RS,0-0,GE Brasil
+,19/09/82,São Borja,0-0,Inter SM
+,21/09/82,Grêmio,4-0,São Paulo-RS
+,22/09/82,Internacional,2-0,Esportivo
+,22/09/82,GE Brasil,2-0,São José-RS
+,22/09/82,Caxias,2-0,São Borja
+,23/09/82,Novo Hamburgo,4-1,Guarany de Bagé
+,23/09/82,Juventude,2-1,Inter SM
+,26/09/82,Inter SM,2-2,Internacional
+,26/09/82,São José-RS,0-1,São Paulo-RS
+,26/09/82,Caxias,1-0,Juventude
+,26/09/82,Guarany de Bagé,0-2,São Borja
+,26/09/82,Esportivo,1-1,Novo Hamburgo
+,27/09/82,GE Brasil,1-1,Grêmio
+,29/09/82,Internacional,1-2,Caxias
+,29/09/82,São Borja,1-1,São José-RS
+,29/09/82,Juventude,0-0,Esportivo
+,03/10/82,Esportivo,1-0,Grêmio
+,03/10/82,Guarany de Bagé,1-1,Internacional
+,03/10/82,São José-RS,3-2,Juventude
+,03/10/82,São Paulo-RS,0-0,Caxias
+,03/10/82,GE Brasil,0-1,São Borja
+,03/10/82,Novo Hamburgo,1-1,Inter SM
+,06/10/82,Juventude,0-0,Grêmio
+,06/10/82,Internacional,1-1,São Paulo-RS
+,06/10/82,São Borja,2-0,Novo Hamburgo
+,07/10/82,Caxias,1-0,Esportivo
+,07/10/82,São José-RS,1-0,Guarany de Bagé
+,10/10/82,Grêmio,2-2,Internacional
+,10/10/82,Novo Hamburgo,0-0,São José-RS
+,10/10/82,São Borja,0-1,São Paulo-RS
+,10/10/82,Guarany de Bagé,0-0,GE Brasil
+,10/10/82,Esportivo,2-1,Inter SM
+,13/10/82,Internacional,3-0,São José-RS
+,13/10/82,São Paulo-RS,3-0,Guarany de Bagé
+,13/10/82,Inter SM,1-3,Caxias
+,13/10/82,Esportivo,2-1,GE Brasil
+,13/10/82,Novo Hamburgo,1-1,Juventude
+,14/10/82,Grêmio,3-0,São Borja
+,17/10/82,Grêmio,2-1,Novo Hamburgo
+,17/10/82,Inter SM,3-1,GE Brasil
+HXF,20/10/82,Grêmio,0-0,Esportivo
+HXF,20/10/82,São Paulo-RS,0-1,Internacional
+HXF,20/10/82,Novo Hamburgo,3-1,Inter SM
+HXF,24/10/82,Inter SM,1-3,Grêmio
+HXF,24/10/82,Internacional,2-1,Novo Hamburgo
+HXF,24/10/82,Esportivo,1-0,São Paulo-RS
+HXF,27/10/82,Internacional,1-0,Esportivo
+HXF,27/10/82,São Paulo-RS,1-1,Inter SM
+HXF,27/10/82,Novo Hamburgo,0-1,Grêmio
+HXF,31/10/82,Inter SM,0-2,Internacional
+HXF,31/10/82,Novo Hamburgo,2-2,Esportivo
+HXF,31/10/82,Grêmio,7-0,São Paulo-RS
+HXF,07/11/82,Esportivo,2-1,Inter SM
+HXF,07/11/82,Internacional,3-1,Grêmio
+HXF,07/11/82,São Paulo-RS,0-0,Novo Hamburgo
+HXF,10/11/82,Inter SM,0-0,Novo Hamburgo
+HXF,10/11/82,Internacional,3-0,São Paulo-RS
+HXF,14/11/82,Novo Hamburgo,0-0,Internacional
+HXF,14/11/82,São Paulo-RS,2-2,Esportivo
+HXF,14/11/82,Grêmio,1-0,Inter SM
+HXF,17/11/82,Esportivo,1-1,Internacional
+HXF,17/11/82,Inter SM,1-3,São Paulo-RS
+HXF,17/11/82,Grêmio,3-0,Novo Hamburgo
+HXF,21/11/82,Internacional,3-1,Inter SM
+HXF,21/11/82,Esportivo,2-1,Novo Hamburgo
+HXF,21/11/82,São Paulo-RS,0-1,Grêmio
+HXF,24/11/82,Esportivo,0-1,Grêmio
+HXF,28/11/82,Inter SM,0-0,Esportivo
+HXF,28/11/82,Novo Hamburgo,4-0,São Paulo-RS
+HXF,28/11/82,Grêmio,0-2,Internacional

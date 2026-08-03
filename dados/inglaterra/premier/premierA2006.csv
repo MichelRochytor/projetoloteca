@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,19/08/06,Sheffield United,1-1,Liverpool
+1,19/08/06,West Ham,3-1,Charlton Athletic
+1,19/08/06,Arsenal,1-1,Aston Villa
+1,19/08/06,Everton,2-1,Watford
+1,19/08/06,Newcastle,2-1,Wigan Athletic
+1,19/08/06,Portsmouth,3-0,Blackburn Rovers
+1,19/08/06,Reading,3-2,Middlesbrough
+1,19/08/06,Bolton,2-0,Tottenham
+1,20/08/06,Manchester United,5-1,Fulham
+1,20/08/06,Chelsea,3-0,Manchester City
+2,22/08/06,Watford,1-1,West Ham
+2,22/08/06,Tottenham,2-0,Sheffield United
+2,23/08/06,Aston Villa,2-1,Reading
+2,23/08/06,Blackburn Rovers,1-1,Everton
+2,23/08/06,Manchester City,0-0,Portsmouth
+2,23/08/06,Charlton Athletic,0-3,Manchester United
+2,23/08/06,Middlesbrough,2-1,Chelsea
+2,23/08/06,Fulham,1-1,Bolton
+3,26/08/06,Liverpool,2-1,West Ham
+3,26/08/06,Charlton Athletic,2-0,Bolton
+3,26/08/06,Fulham,1-0,Sheffield United
+3,26/08/06,Tottenham,0-2,Everton
+3,26/08/06,Watford,1-2,Manchester United
+3,26/08/06,Wigan Athletic,1-0,Reading
+3,26/08/06,Manchester City,1-0,Arsenal
+3,27/08/06,Aston Villa,2-0,Newcastle
+3,27/08/06,Blackburn Rovers,0-2,Chelsea
+3,28/08/06,Middlesbrough,0-4,Portsmouth
+4,09/09/06,Everton,3-0,Liverpool
+4,09/09/06,Arsenal,1-1,Middlesbrough
+4,09/09/06,Bolton,1-0,Watford
+4,09/09/06,Chelsea,2-1,Charlton Athletic
+4,09/09/06,Newcastle,1-2,Fulham
+4,09/09/06,Portsmouth,1-0,Wigan Athletic
+4,09/09/06,Sheffield United,0-0,Blackburn Rovers
+4,09/09/06,Manchester United,1-0,Tottenham
+4,10/09/06,West Ham,1-1,Aston Villa
+4,11/09/06,Reading,1-0,Manchester City
+5,16/09/06,Charlton Athletic,0-1,Portsmouth
+5,16/09/06,Bolton,0-0,Middlesbrough
+5,16/09/06,Everton,2-2,Wigan Athletic
+5,16/09/06,Sheffield United,1-2,Reading
+5,16/09/06,Watford,0-0,Aston Villa
+5,17/09/06,Chelsea,1-0,Liverpool
+5,17/09/06,West Ham,0-2,Newcastle
+5,17/09/06,Blackburn Rovers,4-2,Manchester City
+5,17/09/06,Tottenham,0-0,Fulham
+5,17/09/06,Manchester United,0-1,Arsenal
+2,20/09/06,Liverpool,2-0,Newcastle
+6,23/09/06,Liverpool,3-0,Tottenham
+6,23/09/06,Wigan Athletic,1-1,Watford
+6,23/09/06,Arsenal,3-0,Sheffield United
+6,23/09/06,Aston Villa,2-0,Charlton Athletic
+6,23/09/06,Fulham,0-2,Chelsea
+6,23/09/06,Manchester City,2-0,West Ham
+6,23/09/06,Middlesbrough,0-1,Blackburn Rovers
+6,23/09/06,Reading,1-1,Manchester United
+6,24/09/06,Newcastle,1-1,Everton
+6,25/09/06,Portsmouth,0-1,Bolton
+7,30/09/06,Bolton,2-0,Liverpool
+7,30/09/06,Charlton Athletic,1-2,Arsenal
+7,30/09/06,Chelsea,1-1,Aston Villa
+7,30/09/06,Everton,1-1,Manchester City
+7,30/09/06,Sheffield United,2-1,Middlesbrough
+7,01/10/06,West Ham,0-1,Reading
+7,01/10/06,Blackburn Rovers,2-1,Wigan Athletic
+7,01/10/06,Manchester United,2-0,Newcastle
+7,01/10/06,Tottenham,2-1,Portsmouth
+7,02/10/06,Watford,3-3,Fulham
+8,14/10/06,Wigan Athletic,1-3,Manchester United
+8,14/10/06,Middlesbrough,2-1,Everton
+8,14/10/06,Portsmouth,2-0,West Ham
+8,14/10/06,Arsenal,3-0,Watford
+8,14/10/06,Aston Villa,1-1,Tottenham
+8,14/10/06,Liverpool,1-1,Blackburn Rovers
+8,14/10/06,Manchester City,0-0,Sheffield United
+8,14/10/06,Reading,0-1,Chelsea
+8,15/10/06,Newcastle,1-2,Bolton
+8,16/10/06,Fulham,2-1,Charlton Athletic
+9,21/10/06,Wigan Athletic,4-0,Manchester City
+9,21/10/06,Everton,2-0,Sheffield United
+9,21/10/06,Charlton Athletic,0-0,Watford
+9,21/10/06,Chelsea,2-1,Portsmouth
+9,21/10/06,Aston Villa,1-1,Fulham
+9,22/10/06,Manchester United,2-0,Liverpool
+9,22/10/06,Middlesbrough,1-0,Newcastle
+9,22/10/06,Tottenham,1-0,West Ham
+9,22/10/06,Blackburn Rovers,0-1,Bolton
+9,22/10/06,Reading,0-4,Arsenal
+10,28/10/06,Sheffield United,0-2,Chelsea
+10,28/10/06,Portsmouth,3-1,Reading
+10,28/10/06,Watford,0-0,Tottenham
+10,28/10/06,Arsenal,1-1,Everton
+10,28/10/06,Bolton,0-4,Manchester United
+10,28/10/06,Fulham,0-1,Wigan Athletic
+10,28/10/06,Liverpool,3-1,Aston Villa
+10,28/10/06,Newcastle,0-0,Charlton Athletic
+10,29/10/06,West Ham,2-1,Blackburn Rovers
+10,30/10/06,Manchester City,1-0,Middlesbrough
+11,04/11/06,Fulham,1-0,Everton
+11,04/11/06,Liverpool,2-0,Reading
+11,04/11/06,Manchester United,3-0,Portsmouth
+11,04/11/06,Watford,2-0,Middlesbrough
+11,04/11/06,Bolton,0-1,Wigan Athletic
+11,04/11/06,Charlton Athletic,1-0,Manchester City
+11,04/11/06,Newcastle,0-1,Sheffield United
+11,05/11/06,West Ham,1-0,Arsenal
+11,05/11/06,Aston Villa,2-0,Blackburn Rovers
+11,05/11/06,Tottenham,2-1,Chelsea
+12,11/11/06,Manchester City,0-0,Newcastle
+12,11/11/06,Chelsea,4-0,Watford
+12,11/11/06,Everton,0-1,Aston Villa
+12,11/11/06,Middlesbrough,1-0,West Ham
+12,11/11/06,Portsmouth,1-1,Fulham
+12,11/11/06,Sheffield United,2-2,Bolton
+12,11/11/06,Wigan Athletic,3-2,Charlton Athletic
+12,11/11/06,Blackburn Rovers,0-1,Manchester United
+12,12/11/06,Reading,3-1,Tottenham
+12,12/11/06,Arsenal,3-0,Liverpool
+13,18/11/06,Manchester City,3-1,Fulham
+13,18/11/06,Chelsea,1-0,West Ham
+13,18/11/06,Everton,1-0,Bolton
+13,18/11/06,Portsmouth,2-1,Watford
+13,18/11/06,Reading,2-0,Charlton Athletic
+13,18/11/06,Sheffield United,1-2,Manchester United
+13,18/11/06,Arsenal,1-1,Newcastle
+13,18/11/06,Middlesbrough,0-0,Liverpool
+13,19/11/06,Wigan Athletic,0-0,Aston Villa
+13,19/11/06,Blackburn Rovers,1-1,Tottenham
+14,25/11/06,Charlton Athletic,1-1,Everton
+14,25/11/06,West Ham,1-0,Sheffield United
+14,25/11/06,Aston Villa,1-1,Middlesbrough
+14,25/11/06,Fulham,0-1,Reading
+14,25/11/06,Liverpool,1-0,Manchester City
+14,25/11/06,Bolton,3-1,Arsenal
+14,26/11/06,Newcastle,1-0,Portsmouth
+14,26/11/06,Tottenham,3-1,Wigan Athletic
+14,26/11/06,Manchester United,1-1,Chelsea
+15,28/11/06,Watford,0-1,Sheffield United
+15,29/11/06,Aston Villa,1-3,Manchester City
+15,29/11/06,Fulham,2-1,Arsenal
+15,29/11/06,Liverpool,0-0,Portsmouth
+15,29/11/06,Bolton,0-1,Chelsea
+15,29/11/06,Manchester United,3-0,Everton
+16,02/12/06,Arsenal,3-0,Tottenham
+16,02/12/06,Portsmouth,2-2,Aston Villa
+16,02/12/06,Reading,1-0,Bolton
+16,02/12/06,Sheffield United,2-1,Charlton Athletic
+16,02/12/06,Wigan Athletic,0-4,Liverpool
+16,02/12/06,Blackburn Rovers,2-0,Fulham
+16,02/12/06,Middlesbrough,1-2,Manchester United
+16,03/12/06,Everton,2-0,West Ham
+16,04/12/06,Manchester City,0-0,Watford
+15,05/12/06,Charlton Athletic,1-0,Blackburn Rovers
+15,05/12/06,Tottenham,2-1,Middlesbrough
+15,06/12/06,Newcastle,3-2,Reading
+15,06/12/06,West Ham,0-2,Wigan Athletic
+17,09/12/06,Manchester United,3-1,Manchester City
+17,09/12/06,Tottenham,5-1,Charlton Athletic
+17,09/12/06,Watford,0-0,Reading
+17,09/12/06,Blackburn Rovers,1-3,Newcastle
+17,09/12/06,Liverpool,4-0,Fulham
+17,09/12/06,Middlesbrough,1-1,Wigan Athletic
+17,09/12/06,Portsmouth,2-0,Everton
+17,09/12/06,Bolton,4-0,West Ham
+17,10/12/06,Chelsea,1-1,Arsenal
+17,11/12/06,Sheffield United,2-2,Aston Villa
+2,13/12/06,Wigan Athletic,0-1,Arsenal
+16,13/12/06,Chelsea,1-0,Newcastle
+18,16/12/06,Charlton Athletic,0-3,Liverpool
+18,16/12/06,Newcastle,2-1,Watford
+18,16/12/06,Reading,1-2,Blackburn Rovers
+18,16/12/06,Wigan Athletic,0-1,Sheffield United
+18,16/12/06,Arsenal,2-2,Portsmouth
+18,16/12/06,Aston Villa,0-1,Bolton
+18,17/12/06,Everton,2-3,Chelsea
+18,17/12/06,Manchester City,1-2,Tottenham
+18,17/12/06,West Ham,1-0,Manchester United
+18,18/12/06,Fulham,2-1,Middlesbrough
+19,23/12/06,Fulham,0-0,West Ham
+19,23/12/06,Middlesbrough,2-0,Charlton Athletic
+19,23/12/06,Newcastle,3-1,Tottenham
+19,23/12/06,Portsmouth,3-1,Sheffield United
+19,23/12/06,Reading,0-2,Everton
+19,23/12/06,Arsenal,6-2,Blackburn Rovers
+19,23/12/06,Aston Villa,0-3,Manchester United
+19,23/12/06,Liverpool,2-0,Watford
+19,23/12/06,Manchester City,0-2,Bolton
+19,23/12/06,Wigan Athletic,2-3,Chelsea
+20,26/12/06,Tottenham,2-1,Aston Villa
+20,26/12/06,West Ham,1-2,Portsmouth
+20,26/12/06,Chelsea,2-2,Reading
+20,26/12/06,Everton,0-0,Middlesbrough
+20,26/12/06,Manchester United,3-1,Wigan Athletic
+20,26/12/06,Sheffield United,0-1,Manchester City
+20,26/12/06,Blackburn Rovers,1-0,Liverpool
+20,26/12/06,Bolton,2-1,Newcastle
+20,26/12/06,Watford,1-2,Arsenal
+20,27/12/06,Charlton Athletic,2-2,Fulham
+21,30/12/06,Charlton Athletic,2-1,Aston Villa
+21,30/12/06,Chelsea,2-2,Fulham
+21,30/12/06,Everton,3-0,Newcastle
+21,30/12/06,Manchester United,3-2,Reading
+21,30/12/06,Tottenham,0-1,Liverpool
+21,30/12/06,West Ham,0-1,Manchester City
+21,30/12/06,Blackburn Rovers,2-1,Middlesbrough
+21,30/12/06,Bolton,3-2,Portsmouth
+21,30/12/06,Sheffield United,1-0,Arsenal
+22,01/01/07,Liverpool,3-0,Bolton
+22,01/01/07,Fulham,0-0,Watford
+22,01/01/07,Manchester City,2-1,Everton
+22,01/01/07,Middlesbrough,3-1,Sheffield United
+22,01/01/07,Portsmouth,1-1,Tottenham
+22,01/01/07,Reading,6-0,West Ham
+22,01/01/07,Wigan Athletic,0-3,Blackburn Rovers
+22,01/01/07,Newcastle,2-2,Manchester United
+22,02/01/07,Arsenal,4-0,Charlton Athletic
+22,02/01/07,Aston Villa,0-0,Chelsea
+23,13/01/07,Watford,0-3,Liverpool
+23,13/01/07,Charlton Athletic,1-3,Middlesbrough
+23,13/01/07,Chelsea,4-0,Wigan Athletic
+23,13/01/07,Manchester United,3-1,Aston Villa
+23,13/01/07,Sheffield United,1-1,Portsmouth
+23,13/01/07,West Ham,3-3,Fulham
+23,13/01/07,Bolton,0-0,Manchester City
+23,13/01/07,Blackburn Rovers,0-2,Arsenal
+23,14/01/07,Everton,1-1,Reading
+23,14/01/07,Tottenham,2-3,Newcastle
+24,20/01/07,Liverpool,2-0,Chelsea
+24,20/01/07,Aston Villa,2-0,Watford
+24,20/01/07,Fulham,1-1,Tottenham
+24,20/01/07,Middlesbrough,5-1,Bolton
+24,20/01/07,Newcastle,2-2,West Ham
+24,20/01/07,Portsmouth,0-1,Charlton Athletic
+24,20/01/07,Reading,3-1,Sheffield United
+24,20/01/07,Manchester City,0-3,Blackburn Rovers
+24,21/01/07,Wigan Athletic,0-2,Everton
+24,21/01/07,Arsenal,2-1,Manchester United
+14,23/01/07,Watford,2-1,Blackburn Rovers
+25,30/01/07,Portsmouth,0-0,Middlesbrough
+25,30/01/07,Sheffield United,2-0,Fulham
+25,30/01/07,West Ham,1-2,Liverpool
+25,30/01/07,Reading,3-2,Wigan Athletic
+25,31/01/07,Chelsea,3-0,Blackburn Rovers
+25,31/01/07,Bolton,1-1,Charlton Athletic
+25,31/01/07,Manchester United,4-0,Watford
+25,31/01/07,Newcastle,3-1,Aston Villa
+26,03/02/07,Liverpool,0-0,Everton
+26,03/02/07,Watford,0-1,Bolton
+26,03/02/07,Wigan Athletic,1-0,Portsmouth
+26,03/02/07,Aston Villa,1-0,West Ham
+26,03/02/07,Blackburn Rovers,2-1,Sheffield United
+26,03/02/07,Charlton Athletic,0-1,Chelsea
+26,03/02/07,Fulham,2-1,Newcastle
+26,03/02/07,Manchester City,0-2,Reading
+26,03/02/07,Middlesbrough,1-1,Arsenal
+26,04/02/07,Tottenham,0-4,Manchester United
+27,10/02/07,Reading,2-0,Aston Villa
+27,10/02/07,Sheffield United,2-1,Tottenham
+27,10/02/07,West Ham,0-1,Watford
+27,10/02/07,Chelsea,3-0,Middlesbrough
+27,10/02/07,Everton,1-0,Blackburn Rovers
+27,10/02/07,Manchester United,2-0,Charlton Athletic
+27,10/02/07,Newcastle,2-1,Liverpool
+27,10/02/07,Portsmouth,2-1,Manchester City
+27,11/02/07,Bolton,2-1,Fulham
+27,11/02/07,Arsenal,2-1,Wigan Athletic
+21,21/02/07,Watford,1-1,Wigan Athletic
+25,21/02/07,Everton,1-2,Tottenham
+28,24/02/07,Fulham,1-2,Manchester United
+28,24/02/07,Middlesbrough,2-1,Reading
+28,24/02/07,Charlton Athletic,4-0,West Ham
+28,24/02/07,Liverpool,4-0,Sheffield United
+28,24/02/07,Watford,0-3,Everton
+28,25/02/07,Wigan Athletic,1-0,Newcastle
+28,25/02/07,Tottenham,4-1,Bolton
+28,25/02/07,Blackburn Rovers,3-0,Portsmouth
+29,03/03/07,Liverpool,0-1,Manchester United
+29,03/03/07,Sheffield United,1-1,Everton
+29,03/03/07,Watford,2-2,Charlton Athletic
+29,03/03/07,Arsenal,2-1,Reading
+29,03/03/07,Fulham,1-1,Aston Villa
+29,03/03/07,Manchester City,0-1,Wigan Athletic
+29,03/03/07,Newcastle,0-0,Middlesbrough
+29,03/03/07,Portsmouth,0-2,Chelsea
+29,04/03/07,Bolton,1-2,Blackburn Rovers
+29,04/03/07,West Ham,3-4,Tottenham
+28,14/03/07,Aston Villa,0-1,Arsenal
+28,14/03/07,Manchester City,0-1,Chelsea
+30,17/03/07,Manchester United,4-1,Bolton
+30,17/03/07,Middlesbrough,0-2,Manchester City
+30,17/03/07,Reading,0-0,Portsmouth
+30,17/03/07,Tottenham,3-1,Watford
+30,17/03/07,Wigan Athletic,0-0,Fulham
+30,17/03/07,Chelsea,3-0,Sheffield United
+30,17/03/07,Blackburn Rovers,1-2,West Ham
+30,18/03/07,Charlton Athletic,2-0,Newcastle
+30,18/03/07,Aston Villa,0-0,Liverpool
+30,18/03/07,Everton,1-0,Arsenal
+31,31/03/07,Liverpool,4-1,Arsenal

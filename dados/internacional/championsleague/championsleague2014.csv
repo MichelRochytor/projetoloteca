@@ -1,0 +1,126 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,16/09/14,Olympiacos,3-2,Atlético de Madrid
+A,16/09/14,Juventus,2-0,Malmö
+B,16/09/14,Liverpool,2-1,Ludogorets Razgrad
+B,16/09/14,Real Madrid,5-1,FC Basel
+C,16/09/14,Monaco,1-0,Bayer Leverkusen
+C,16/09/14,Benfica,0-2,Zenit
+D,16/09/14,Galatasaray,1-1,Anderlecht
+D,16/09/14,Borussia Dortmund,2-0,Arsenal
+E,17/09/14,Roma,5-1,CSKA Moskva
+E,17/09/14,Bayern München,1-0,Manchester City
+F,17/09/14,Barcelona,1-0,APOEL
+F,17/09/14,Ajax,1-1,PSG
+G,17/09/14,Chelsea,1-1,Schalke 04
+G,17/09/14,Maribor,1-1,Sporting
+H,17/09/14,FC Porto,6-0,BATE Borisov
+H,17/09/14,Athletic Bilbao,0-0,Shakhtar Donetsk
+E,30/09/14,CSKA Moskva,0-1,Bayern München
+E,30/09/14,Manchester City,1-1,Roma
+F,30/09/14,PSG,3-2,Barcelona
+F,30/09/14,APOEL,1-1,Ajax
+G,30/09/14,Sporting,0-1,Chelsea
+G,30/09/14,Schalke 04,1-1,Maribor
+H,30/09/14,Shakhtar Donetsk,2-2,FC Porto
+H,30/09/14,BATE Borisov,2-1,Athletic Bilbao
+C,01/10/14,Zenit,0-0,Monaco
+A,01/10/14,Malmö,2-0,Olympiacos
+A,01/10/14,Atlético de Madrid,1-0,Juventus
+B,01/10/14,FC Basel,1-0,Liverpool
+B,01/10/14,Ludogorets Razgrad,1-2,Real Madrid
+C,01/10/14,Bayer Leverkusen,3-1,Benfica
+D,01/10/14,Arsenal,4-1,Galatasaray
+D,01/10/14,Anderlecht,0-3,Borussia Dortmund
+E,21/10/14,CSKA Moskva,2-2,Manchester City
+E,21/10/14,Roma,1-7,Bayern München
+F,21/10/14,APOEL,0-1,PSG
+F,21/10/14,Barcelona,3-1,Ajax
+G,21/10/14,Schalke 04,4-3,Sporting
+G,21/10/14,Chelsea,6-0,Maribor
+H,21/10/14,BATE Borisov,0-7,Shakhtar Donetsk
+H,21/10/14,FC Porto,2-1,Athletic Bilbao
+A,22/10/14,Atlético de Madrid,5-0,Malmö
+A,22/10/14,Olympiacos,1-0,Juventus
+B,22/10/14,Ludogorets Razgrad,1-0,FC Basel
+B,22/10/14,Liverpool,0-3,Real Madrid
+C,22/10/14,Bayer Leverkusen,2-0,Zenit
+C,22/10/14,Monaco,0-0,Benfica
+D,22/10/14,Anderlecht,1-2,Arsenal
+D,22/10/14,Galatasaray,0-4,Borussia Dortmund
+C,04/11/14,Zenit,1-2,Bayer Leverkusen
+A,04/11/14,Malmö,0-2,Atlético de Madrid
+A,04/11/14,Juventus,3-2,Olympiacos
+B,04/11/14,FC Basel,4-0,Ludogorets Razgrad
+B,04/11/14,Real Madrid,1-0,Liverpool
+C,04/11/14,Benfica,1-0,Monaco
+D,04/11/14,Arsenal,3-3,Anderlecht
+D,04/11/14,Borussia Dortmund,4-1,Galatasaray
+E,05/11/14,Manchester City,1-2,CSKA Moskva
+E,05/11/14,Bayern München,2-0,Roma
+F,05/11/14,PSG,1-0,APOEL
+F,05/11/14,Ajax,0-2,Barcelona
+G,05/11/14,Sporting,4-2,Schalke 04
+G,05/11/14,Maribor,1-1,Chelsea
+H,05/11/14,Shakhtar Donetsk,5-0,BATE Borisov
+H,05/11/14,Athletic Bilbao,0-2,FC Porto
+E,25/11/14,CSKA Moskva,1-1,Roma
+H,25/11/14,BATE Borisov,0-3,FC Porto
+E,25/11/14,Manchester City,3-2,Bayern München
+F,25/11/14,APOEL,0-4,Barcelona
+F,25/11/14,PSG,3-1,Ajax
+G,25/11/14,Schalke 04,0-5,Chelsea
+G,25/11/14,Sporting,3-1,Maribor
+H,25/11/14,Shakhtar Donetsk,0-1,Athletic Bilbao
+C,26/11/14,Zenit,1-0,Benfica
+A,26/11/14,Atlético de Madrid,4-0,Olympiacos
+A,26/11/14,Malmö,0-2,Juventus
+B,26/11/14,Ludogorets Razgrad,2-2,Liverpool
+B,26/11/14,FC Basel,0-1,Real Madrid
+C,26/11/14,Bayer Leverkusen,0-1,Monaco
+D,26/11/14,Anderlecht,2-0,Galatasaray
+D,26/11/14,Arsenal,2-0,Borussia Dortmund
+A,09/12/14,Olympiacos,4-2,Malmö
+A,09/12/14,Juventus,0-0,Atlético de Madrid
+B,09/12/14,Liverpool,1-1,FC Basel
+B,09/12/14,Real Madrid,4-0,Ludogorets Razgrad
+C,09/12/14,Monaco,2-0,Zenit
+C,09/12/14,Benfica,0-0,Bayer Leverkusen
+D,09/12/14,Galatasaray,1-4,Arsenal
+D,09/12/14,Borussia Dortmund,1-1,Anderlecht
+E,10/12/14,Roma,0-2,Manchester City
+E,10/12/14,Bayern München,3-0,CSKA Moskva
+F,10/12/14,Barcelona,3-1,PSG
+F,10/12/14,Ajax,4-0,APOEL
+G,10/12/14,Chelsea,3-1,Sporting
+G,10/12/14,Maribor,0-1,Schalke 04
+H,10/12/14,FC Porto,1-1,Shakhtar Donetsk
+H,10/12/14,Athletic Bilbao,2-0,BATE Borisov
+1/8,17/02/15,PSG,1-1,Chelsea
+1/8,17/02/15,Shakhtar Donetsk,0-0,Bayern München
+1/8,18/02/15,Schalke 04,0-2,Real Madrid
+1/8,18/02/15,FC Basel,1-1,FC Porto
+1/8,24/02/15,Manchester City,1-2,Barcelona
+1/8,24/02/15,Juventus,2-1,Borussia Dortmund
+1/8,25/02/15,Bayer Leverkusen,1-0,Atlético de Madrid
+1/8,25/02/15,Arsenal,1-3,Monaco
+1/8,10/03/15,Real Madrid,3-4,Schalke 04
+1/8,10/03/15,FC Porto,4-0,FC Basel
+1/8,11/03/15,Chelsea,2-2(Pro.),PSG
+1/8,11/03/15,Bayern München,7-0,Shakhtar Donetsk
+1/8,17/03/15,Atlético de Madrid,1-0(3-2 Pen.),Bayer Leverkusen
+1/8,17/03/15,Monaco,0-2,Arsenal
+1/8,18/03/15,Barcelona,1-0,Manchester City
+1/8,18/03/15,Borussia Dortmund,0-3,Juventus
+QF,14/04/15,Atlético de Madrid,0-0,Real Madrid
+QF,14/04/15,Juventus,1-0,Monaco
+QF,15/04/15,PSG,1-3,Barcelona
+QF,15/04/15,FC Porto,3-1,Bayern München
+QF,21/04/15,Barcelona,2-0,PSG
+QF,21/04/15,Bayern München,6-1,FC Porto
+QF,22/04/15,Real Madrid,1-0,Atlético de Madrid
+QF,22/04/15,Monaco,0-0,Juventus
+SF,05/05/15,Juventus,2-1,Real Madrid
+SF,06/05/15,Barcelona,3-0,Bayern München
+SF,12/05/15,Bayern München,3-2,Barcelona
+SF,13/05/15,Real Madrid,1-1,Juventus
+F,06/06/15,Juventus,1-3,Barcelona

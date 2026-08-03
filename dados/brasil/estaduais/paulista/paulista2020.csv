@@ -1,0 +1,111 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+A,22/01/20,Grêmio Novorizontino,2-0,Oeste
+A,22/01/20,Inter de Limeira,0-4,Guarani
+A,22/01/20,Ituano,0-4,Palmeiras
+A,22/01/20,São Paulo,2-0,EC Água Santa
+A,23/01/20,Ferroviária,1-1,Mirassol
+A,23/01/20,Ponte Preta,2-3,Santo André
+A,23/01/20,Santos,0-0,Red Bull Bragantino
+A,23/01/20,Corinthians,4-1,Botafogo-SP
+A,25/01/20,EC Água Santa,0-2,Grêmio Novorizontino
+A,25/01/20,Oeste,1-0,Ituano
+A,26/01/20,Botafogo-SP,0-1,Ponte Preta
+A,26/01/20,Palmeiras,0-0,São Paulo
+A,26/01/20,Mirassol,1-1,Corinthians
+A,26/01/20,Santo André,2-1,Ferroviária
+A,27/01/20,Red Bull Bragantino,0-1,Inter de Limeira
+A,27/01/20,Guarani,1-2,Santos
+A,29/01/20,Santo André,1-0,EC Água Santa
+A,29/01/20,Ituano,2-2,Botafogo-SP
+A,29/01/20,Palmeiras,4-0,Oeste
+A,29/01/20,Ferroviária,1-2,São Paulo
+A,30/01/20,Grêmio Novorizontino,0-0,Red Bull Bragantino
+A,30/01/20,Santos,2-0,Inter de Limeira
+A,30/01/20,Mirassol,1-1,Guarani
+A,30/01/20,Ponte Preta,2-1,Corinthians
+A,01/02/20,Oeste,1-5,Ferroviária
+A,02/02/20,Corinthians,2-0,Santos
+A,02/02/20,EC Água Santa,1-1,Ituano
+A,02/02/20,Red Bull Bragantino,2-1,Palmeiras
+A,02/02/20,Guarani,2-1,Santo André
+A,03/02/20,Inter de Limeira,2-1,Ponte Preta
+A,03/02/20,Botafogo-SP,0-6,Mirassol
+A,03/02/20,São Paulo,1-1,Grêmio Novorizontino
+A,07/02/20,Oeste,1-1,Guarani
+A,07/02/20,Mirassol,2-0,Red Bull Bragantino
+A,08/02/20,EC Água Santa,1-0,Ferroviária
+A,08/02/20,Ponte Preta,0-1,Palmeiras
+A,09/02/20,Corinthians,0-1,Inter de Limeira
+A,09/02/20,Santo André,2-1,São Paulo
+A,09/02/20,Grêmio Novorizontino,0-0,Ituano
+A,10/02/20,Santos,2-0,Botafogo-SP
+A,14/02/20,Inter de Limeira,0-1,Santo André
+A,14/02/20,Botafogo-SP,1-1,EC Água Santa
+A,15/02/20,Guarani,1-1,Grêmio Novorizontino
+A,15/02/20,Red Bull Bragantino,3-0,Oeste
+A,15/02/20,São Paulo,0-0,Corinthians
+A,16/02/20,Palmeiras,3-1,Mirassol
+A,16/02/20,Ferroviária,0-0,Santos
+A,17/02/20,Ituano,1-0,Ponte Preta
+A,20/02/20,Palmeiras,1-0,Guarani
+A,21/02/20,Botafogo-SP,2-1,Inter de Limeira
+A,21/02/20,Grêmio Novorizontino,1-1,Mirassol
+A,22/02/20,EC Água Santa,2-1,Corinthians
+A,22/02/20,Ituano,2-0,Santos
+A,22/02/20,Oeste,0-4,São Paulo
+A,22/02/20,Ponte Preta,1-1,Ferroviária
+A,23/02/20,Santo André,1-0,Red Bull Bragantino
+A,26/02/20,Corinthians,1-1,Santo André
+A,28/02/20,Guarani,0-0,EC Água Santa
+A,28/02/20,Red Bull Bragantino,2-1,Ituano
+A,29/02/20,Santos,0-0,Palmeiras
+A,01/03/20,Inter de Limeira,0-1,Grêmio Novorizontino
+A,01/03/20,São Paulo,2-1,Ponte Preta
+A,01/03/20,Ferroviária,1-0,Botafogo-SP
+A,02/03/20,Mirassol,1-0,Oeste
+A,06/03/20,Ituano,0-2,Guarani
+A,07/03/20,Santo André,0-1,Oeste
+A,07/03/20,Palmeiras,1-1,Ferroviária
+A,07/03/20,Grêmio Novorizontino,1-1,Corinthians
+A,07/03/20,Santos,3-1,Mirassol
+A,08/03/20,EC Água Santa,1-1,Inter de Limeira
+A,08/03/20,Botafogo-SP,1-0,São Paulo
+A,09/03/20,Ponte Preta,1-2,Red Bull Bragantino
+A,13/03/20,Oeste,3-0,Botafogo-SP
+A,13/03/20,Red Bull Bragantino,4-0,EC Água Santa
+A,14/03/20,Ferroviária,0-0,Grêmio Novorizontino
+A,14/03/20,Inter de Limeira,0-0,Palmeiras
+A,14/03/20,São Paulo,2-1,Santos
+A,15/03/20,Mirassol,1-0,Santo André
+A,15/03/20,Corinthians,1-1,Ituano
+A,16/03/20,Guarani,3-2,Ponte Preta
+A,22/07/20,Ituano,0-0,Ferroviária
+A,22/07/20,Ponte Preta,2-0,Grêmio Novorizontino
+A,22/07/20,Santos,1-1,Santo André
+A,22/07/20,Corinthians,1-0,Palmeiras
+A,23/07/20,EC Água Santa,0-0,Mirassol
+A,23/07/20,Inter de Limeira,2-1,Oeste
+A,23/07/20,Botafogo-SP,2-0,Guarani
+A,23/07/20,São Paulo,2-3,Red Bull Bragantino
+A,26/07/20,Red Bull Bragantino,2-0,Botafogo-SP
+A,26/07/20,Ferroviária,2-0,Inter de Limeira
+A,26/07/20,Guarani,1-3,São Paulo
+A,26/07/20,Mirassol,0-1,Ponte Preta
+A,26/07/20,Grêmio Novorizontino,3-2,Santos
+A,26/07/20,Oeste,0-2,Corinthians
+A,26/07/20,Palmeiras,2-1,EC Água Santa
+A,26/07/20,Santo André,1-3,Ituano
+QF,29/07/20,Ferroviária,0-2,Inter de Limeira
+QF,29/07/20,Guarani,1-1(11-10 Pen.),Ituano
+QF,29/07/20,São Paulo,2-3,Mirassol
+QF,29/07/20,Grêmio Novorizontino,0-2,Botafogo-SP
+QF,29/07/20,Palmeiras,2-0,Santo André
+QF,30/07/20,Red Bull Bragantino,0-2,Corinthians
+QF,30/07/20,Santos,1-3,Ponte Preta
+SF,01/08/20,Inter de Limeira,1-2,Guarani
+SF,01/08/20,Red Bull Bragantino,1-1(4-3 Pen.),Botafogo-SP
+SF,02/08/20,Corinthians,1-0,Mirassol
+SF,02/08/20,Palmeiras,1-0,Ponte Preta
+,04/08/20,Red Bull Bragantino,1-0,Guarani
+F,05/08/20,Corinthians,0-0,Palmeiras
+F,08/08/20,Palmeiras,1-1(4-3 Pen.),Corinthians

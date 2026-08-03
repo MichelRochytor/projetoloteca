@@ -1,0 +1,311 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+E,28/01/84,Flamengo,1-0,Palmeiras
+A,29/01/84,Vasco,2-3,São Paulo
+A,29/01/84,Fortaleza,0-0,Tuna Luso
+B,29/01/84,Bahia,2-0,Atlético Mineiro
+B,29/01/84,Bangu,1-0,Treze
+C,29/01/84,ABC,3-1,Confiança
+C,29/01/84,Santos,1-1,Fluminense
+D,29/01/84,Catuense,0-1,Santo André
+D,29/01/84,Grêmio,2-0,Náutico
+E,29/01/84,Brasília,0-2,Operário-MS
+F,29/01/84,Cruzeiro,1-2,America-RJ
+F,29/01/84,Atlético Paranaense,1-0,Rio Branco-ES
+G,29/01/84,Anapolina,0-0,Operário-MT
+G,29/01/84,Joinville,0-0,Internacional
+H,29/01/84,Santa Cruz,0-0,Portuguesa
+H,29/01/84,Auto Esporte-PI,4-2,Moto Club
+E,31/01/84,Palmeiras,3-1,Goiás
+A,01/02/84,Nacional-AM,1-1,Tuna Luso
+C,01/02/84,Ferroviário,0-0,Fluminense
+D,01/02/84,Santo André,1-0,Grêmio
+D,01/02/84,Coritiba,4-1,Catuense
+F,01/02/84,GE Brasil,1-0,Cruzeiro
+F,01/02/84,America-RJ,1-0,Atlético Paranaense
+G,01/02/84,Internacional,5-0,Anapolina
+H,01/02/84,Portuguesa,0-1,Botafogo
+H,01/02/84,Auto Esporte-PI,0-1,Santa Cruz
+B,01/02/84,CRB,0-0,Bangu
+A,02/02/84,Vasco,1-0,Fortaleza
+B,02/02/84,Treze,1-1,Bahia
+C,02/02/84,Confiança,0-2,Santos
+E,02/02/84,Brasília,0-2,Flamengo
+G,03/02/84,Corinthians,0-0,Operário-MT
+F,04/02/84,Cruzeiro,1-3,Rio Branco-ES
+A,05/02/84,São Paulo,5-0,Fortaleza
+A,05/02/84,Nacional-AM,0-3,Vasco
+B,05/02/84,Atlético Mineiro,4-1,Treze
+B,05/02/84,CRB,1-0,Bahia
+C,05/02/84,Ferroviário,1-0,Confiança
+C,05/02/84,ABC,0-2,Santos
+D,05/02/84,Náutico,3-2,Coritiba
+D,05/02/84,Grêmio,3-0,Catuense
+E,05/02/84,Goiás,0-0,Flamengo
+E,05/02/84,Operário-MS,1-1,Palmeiras
+F,05/02/84,America-RJ,1-1,GE Brasil
+G,05/02/84,Corinthians,1-0,Anapolina
+G,05/02/84,Operário-MT,1-0,Joinville
+H,05/02/84,Moto Club,0-1,Portuguesa
+H,05/02/84,Botafogo,0-1,Santa Cruz
+A,08/02/84,Nacional-AM,1-1,São Paulo
+A,08/02/84,Tuna Luso,1-1,Vasco
+B,08/02/84,Bahia,2-0,Bangu
+C,08/02/84,Fluminense,1-0,ABC
+D,08/02/84,Santo André,1-0,Coritiba
+E,08/02/84,Flamengo,3-2,Operário-MS
+E,08/02/84,Goiás,4-1,Brasília
+F,08/02/84,Rio Branco-ES,1-0,GE Brasil
+F,08/02/84,Atlético Paranaense,3-2,Cruzeiro
+G,08/02/84,Operário-MT,2-2,Internacional
+H,08/02/84,Santa Cruz,3-1,Moto Club
+B,09/02/84,Atlético Mineiro,4-0,CRB
+C,09/02/84,Santos,2-0,Ferroviário
+D,09/02/84,Catuense,1-1,Náutico
+G,09/02/84,Joinville,2-1,Corinthians
+H,09/02/84,Botafogo,2-0,Auto Esporte-PI
+A,11/02/84,Fortaleza,3-2,Nacional-AM
+C,11/02/84,Fluminense,1-0,Confiança
+A,12/02/84,Tuna Luso,0-0,São Paulo
+B,12/02/84,Treze,1-2,CRB
+C,12/02/84,Ferroviário,0-3,ABC
+D,12/02/84,Náutico,2-1,Santo André
+D,12/02/84,Coritiba,1-3,Grêmio
+E,12/02/84,Palmeiras,4-0,Brasília
+E,12/02/84,Operário-MS,2-0,Goiás
+F,12/02/84,Rio Branco-ES,2-1,America-RJ
+F,12/02/84,GE Brasil,1-1,Atlético Paranaense
+G,12/02/84,Anapolina,1-0,Joinville
+G,12/02/84,Internacional,1-1,Corinthians
+H,12/02/84,Moto Club,1-1,Botafogo
+H,12/02/84,Portuguesa,5-0,Auto Esporte-PI
+B,12/02/84,Bangu,0-1,Atlético Mineiro
+A,15/02/84,Vasco,1-0,Nacional-AM
+A,15/02/84,Fortaleza,1-0,São Paulo
+B,15/02/84,Atlético Mineiro,6-0,Bahia
+B,15/02/84,Bangu,0-0,CRB
+C,15/02/84,Santos,4-1,ABC
+C,15/02/84,Confiança,4-1,Ferroviário
+D,15/02/84,Náutico,2-0,Catuense
+D,15/02/84,Grêmio,4-4,Santo André
+E,15/02/84,Brasília,0-2,Goiás
+F,15/02/84,GE Brasil,3-1,Rio Branco-ES
+G,15/02/84,Joinville,2-1,Operário-MT
+G,15/02/84,Anapolina,1-1,Internacional
+H,15/02/84,Auto Esporte-PI,1-2,Botafogo
+H,15/02/84,Moto Club,2-2,Santa Cruz
+E,16/02/84,Operário-MS,1-1,Flamengo
+F,16/02/84,America-RJ,1-1,Cruzeiro
+A,18/02/84,São Paulo,1-1,Nacional-AM
+D,18/02/84,Coritiba,1-2,Náutico
+H,18/02/84,Portuguesa,0-0,Santa Cruz
+A,19/02/84,Vasco,9-0,Tuna Luso
+B,19/02/84,Atlético Mineiro,1-1,Bangu
+B,19/02/84,Bahia,2-1,Treze
+C,19/02/84,Confiança,0-2,Fluminense
+C,19/02/84,ABC,0-0,Ferroviário
+D,19/02/84,Santo André,1-1,Catuense
+E,19/02/84,Palmeiras,1-1,Flamengo
+E,19/02/84,Operário-MS,4-2,Brasília
+F,19/02/84,Rio Branco-ES,1-5,Cruzeiro
+F,19/02/84,Atlético Paranaense,0-1,America-RJ
+G,19/02/84,Corinthians,2-1,Joinville
+G,19/02/84,Internacional,2-0,Operário-MT
+H,19/02/84,Moto Club,0-1,Auto Esporte-PI
+A,22/02/84,São Paulo,3-1,Tuna Luso
+A,22/02/84,Nacional-AM,0-0,Fortaleza
+B,22/02/84,CRB,1-2,Atlético Mineiro
+B,22/02/84,Treze,1-0,Bangu
+C,22/02/84,ABC,1-2,Fluminense
+D,22/02/84,Catuense,0-2,Coritiba
+E,22/02/84,Brasília,1-3,Palmeiras
+E,22/02/84,Goiás,2-1,Operário-MS
+F,22/02/84,Cruzeiro,4-0,GE Brasil
+F,22/02/84,Rio Branco-ES,1-3,Atlético Paranaense
+G,22/02/84,Operário-MT,0-4,Corinthians
+H,22/02/84,Botafogo,0-1,Moto Club
+H,22/02/84,Auto Esporte-PI,3-2,Portuguesa
+C,23/02/84,Ferroviário,0-5,Santos
+D,23/02/84,Náutico,0-0,Grêmio
+G,23/02/84,Joinville,0-0,Anapolina
+A,25/02/84,São Paulo,3-2,Vasco
+E,25/02/84,Flamengo,3-0,Brasília
+H,25/02/84,Botafogo,0-0,Portuguesa
+A,26/02/84,Tuna Luso,2-1,Fortaleza
+B,26/02/84,Bangu,2-2,Bahia
+B,26/02/84,CRB,1-2,Treze
+C,26/02/84,Confiança,0-1,ABC
+C,26/02/84,Fluminense,0-1,Santos
+D,26/02/84,Catuense,1-2,Grêmio
+D,26/02/84,Coritiba,1-2,Santo André
+E,26/02/84,Goiás,0-1,Palmeiras
+F,26/02/84,GE Brasil,1-1,America-RJ
+F,26/02/84,Cruzeiro,2-2,Atlético Paranaense
+G,26/02/84,Corinthians,0-0,Internacional
+G,26/02/84,Operário-MT,6-1,Anapolina
+H,26/02/84,Santa Cruz,3-1,Auto Esporte-PI
+A,29/02/84,Tuna Luso,1-0,Nacional-AM
+A,29/02/84,Fortaleza,2-1,Vasco
+B,29/02/84,Bahia,0-0,CRB
+B,29/02/84,Treze,0-0,Atlético Mineiro
+C,29/02/84,Santos,3-0,Confiança
+C,29/02/84,Fluminense,2-0,Ferroviário
+D,29/02/84,Santo André,1-0,Náutico
+D,29/02/84,Grêmio,5-0,Coritiba
+E,29/02/84,Palmeiras,2-2,Operário-MS
+E,29/02/84,Flamengo,2-2,Goiás
+F,29/02/84,America-RJ,3-1,Rio Branco-ES
+F,29/02/84,Atlético Paranaense,0-0,GE Brasil
+G,29/02/84,Internacional,1-1,Joinville
+G,29/02/84,Anapolina,0-0,Corinthians
+H,29/02/84,Portuguesa,2-0,Moto Club
+H,29/02/84,Santa Cruz,1-2,Botafogo
+1F,02/03/84,Tuna Luso,0-1,Treze
+1F,02/03/84,Coritiba,3-1,Ferroviário
+1F,02/03/84,Goiás,2-1,Rio Branco-ES
+1F,02/03/84,Joinville,2-0,Auto Esporte-PI
+M,10/03/84,Flamengo,3-0,GE Brasil
+I,11/03/84,Goiás,2-2,São Paulo
+I,11/03/84,Bahia,1-1,Fluminense
+J,11/03/84,Vasco,3-1,Atlético Mineiro
+J,11/03/84,Grêmio,1-0,Joinville
+K,11/03/84,Santos,1-1,Fortaleza
+K,11/03/84,CRB,1-0,Palmeiras
+L,11/03/84,Atlético Paranaense,5-0,ABC
+L,11/03/84,Santo André,0-1,Operário-MS
+M,11/03/84,Portuguesa,0-0,Internacional
+N,11/03/84,Operário-MT,1-1,Botafogo
+N,11/03/84,America-RJ,0-1,Coritiba
+O,11/03/84,Santa Cruz,1-1,Treze
+O,11/03/84,Corinthians,4-0,Náutico
+I,14/03/84,Bahia,0-0,São Paulo
+I,14/03/84,Fluminense,3-0,Goiás
+J,14/03/84,Grêmio,0-0,Vasco
+J,14/03/84,Joinville,1-1,Atlético Mineiro
+K,14/03/84,CRB,0-0,Santos
+K,14/03/84,Palmeiras,0-1,Fortaleza
+L,14/03/84,Atlético Paranaense,3-2,Santo André
+L,14/03/84,ABC,2-2,Operário-MS
+M,14/03/84,GE Brasil,1-0,Internacional
+N,14/03/84,America-RJ,3-1,Operário-MT
+O,14/03/84,Santa Cruz,1-1,Corinthians
+O,14/03/84,Treze,0-1,Náutico
+M,15/03/84,Portuguesa,0-1,Flamengo
+N,15/03/84,Botafogo,3-1,Coritiba
+K,17/03/84,Palmeiras,2-2,Santos
+I,18/03/84,São Paulo,0-2,Fluminense
+I,18/03/84,Goiás,2-0,Bahia
+J,18/03/84,Joinville,1-0,Vasco
+J,18/03/84,Atlético Mineiro,0-1,Grêmio
+K,18/03/84,Fortaleza,1-0,CRB
+L,18/03/84,Operário-MS,1-0,Atlético Paranaense
+L,18/03/84,ABC,2-4,Santo André
+M,18/03/84,Internacional,4-0,Flamengo
+M,18/03/84,GE Brasil,0-1,Portuguesa
+N,18/03/84,Botafogo,0-0,America-RJ
+N,18/03/84,Coritiba,2-0,Operário-MT
+O,18/03/84,Treze,0-0,Corinthians
+O,18/03/84,Náutico,1-1,Santa Cruz
+I,21/03/84,Fluminense,3-1,Bahia
+J,21/03/84,Atlético Mineiro,3-1,Joinville
+K,21/03/84,Santos,2-0,CRB
+K,21/03/84,Fortaleza,3-3,Palmeiras
+L,21/03/84,Santo André,0-0,Atlético Paranaense
+L,21/03/84,Operário-MS,1-0,ABC
+M,21/03/84,GE Brasil,1-0,Flamengo
+M,21/03/84,Internacional,0-1,Portuguesa
+N,21/03/84,Operário-MT,1-4,America-RJ
+N,21/03/84,Coritiba,1-1,Botafogo
+O,21/03/84,Corinthians,1-0,Santa Cruz
+O,21/03/84,Náutico,1-0,Treze
+I,22/03/84,São Paulo,3-2,Goiás
+J,22/03/84,Vasco,1-0,Grêmio
+M,24/03/84,Internacional,1-1,GE Brasil
+M,24/03/84,Flamengo,1-1,Portuguesa
+N,24/03/84,America-RJ,2-1,Botafogo
+O,24/03/84,Corinthians,1-1,Treze
+I,25/03/84,Bahia,1-2,Goiás
+I,25/03/84,Fluminense,0-0,São Paulo
+J,25/03/84,Grêmio,1-0,Atlético Mineiro
+J,25/03/84,Vasco,6-0,Joinville
+K,25/03/84,Santos,2-3,Palmeiras
+K,25/03/84,CRB,0-0,Fortaleza
+L,25/03/84,Santo André,2-0,ABC
+L,25/03/84,Atlético Paranaense,1-0,Operário-MS
+N,25/03/84,Operário-MT,2-0,Coritiba
+O,25/03/84,Santa Cruz,2-0,Náutico
+K,30/03/84,Fortaleza,1-4,Santos
+K,30/03/84,Palmeiras,7-0,CRB
+I,01/04/84,São Paulo,2-0,Bahia
+I,01/04/84,Goiás,3-0,Fluminense
+J,01/04/84,Atlético Mineiro,1-0,Vasco
+J,01/04/84,Joinville,1-0,Grêmio
+L,01/04/84,ABC,1-0,Atlético Paranaense
+L,01/04/84,Operário-MS,0-2,Santo André
+M,01/04/84,Flamengo,2-0,Internacional
+M,01/04/84,Portuguesa,4-1,GE Brasil
+N,01/04/84,Botafogo,0-1,Operário-MT
+N,01/04/84,Coritiba,3-2,America-RJ
+O,01/04/84,Náutico,5-1,Corinthians
+O,01/04/84,Treze,0-1,Santa Cruz
+P,07/04/84,Fluminense,1-0,Santo André
+P,08/04/84,Operário-MS,1-1,Portuguesa
+Q,08/04/84,Fortaleza,1-1,Coritiba
+Q,08/04/84,Uberlândia,0-0,Vasco
+,08/04/84,Flamengo,3-0,America-RJ
+S,08/04/84,Atlético Paranaense,1-1,Corinthians
+S,08/04/84,Goiás,1-1,Grêmio
+,09/04/84,Santos,4-2,Náutico
+P,11/04/84,Portuguesa,1-1,Santo André
+P,11/04/84,Operário-MS,0-0,Fluminense
+Q,11/04/84,Uberlândia,1-0,Fortaleza
+Q,11/04/84,Vasco,1-0,Coritiba
+S,11/04/84,Grêmio,2-1,Corinthians
+S,11/04/84,Goiás,0-0,Atlético Paranaense
+,12/04/84,America-RJ,1-1,Santos
+,12/04/84,Flamengo,2-0,Náutico
+S,14/04/84,Corinthians,5-0,Goiás
+P,15/04/84,Portuguesa,0-1,Fluminense
+P,15/04/84,Santo André,1-1,Operário-MS
+Q,15/04/84,Coritiba,1-0,Uberlândia
+Q,15/04/84,Vasco,2-0,Fortaleza
+,15/04/84,Santos,0-1,Flamengo
+,15/04/84,Náutico,3-1,America-RJ
+S,15/04/84,Grêmio,1-1,Atlético Paranaense
+P,18/04/84,Santo André,0-0,Portuguesa
+P,18/04/84,Fluminense,2-0,Operário-MS
+Q,18/04/84,Coritiba,0-0,Vasco
+Q,18/04/84,Fortaleza,0-2,Uberlândia
+,18/04/84,America-RJ,0-0,Flamengo
+,18/04/84,Náutico,1-0,Santos
+S,18/04/84,Corinthians,0-0,Grêmio
+S,19/04/84,Atlético Paranaense,2-1,Goiás
+P,21/04/84,Fluminense,4-2,Portuguesa
+P,22/04/84,Operário-MS,1-0,Santo André
+Q,22/04/84,Fortaleza,1-5,Vasco
+Q,22/04/84,Uberlândia,1-1,Coritiba
+,22/04/84,Flamengo,2-2,Santos
+,22/04/84,America-RJ,1-1,Náutico
+S,22/04/84,Atlético Paranaense,1-4,Grêmio
+S,22/04/84,Goiás,0-1,Corinthians
+P,25/04/84,Portuguesa,3-2,Operário-MS
+P,25/04/84,Santo André,1-1,Fluminense
+Q,25/04/84,Vasco,1-0,Uberlândia
+Q,25/04/84,Coritiba,2-1,Fortaleza
+,25/04/84,Santos,1-0,America-RJ
+,25/04/84,Náutico,2-1,Flamengo
+S,25/04/84,Grêmio,2-0,Goiás
+S,25/04/84,Corinthians,2-0,Atlético Paranaense
+QF,29/04/84,Coritiba,2-2,Fluminense
+QF,29/04/84,Flamengo,2-0,Corinthians
+QF,01/05/84,Portuguesa,2-5,Vasco
+QF,01/05/84,Náutico,2-3,Grêmio
+QF,05/05/84,Vasco,4-3,Portuguesa
+QF,06/05/84,Fluminense,5-0,Coritiba
+QF,06/05/84,Corinthians,4-1,Flamengo
+QF,06/05/84,Grêmio,3-1,Náutico
+SF,12/05/84,Grêmio,1-0,Vasco
+SF,13/05/84,Corinthians,0-2,Fluminense
+SF,19/05/84,Vasco,3-0,Grêmio
+SF,20/05/84,Fluminense,0-0,Corinthians
+F,24/05/84,Fluminense,1-0,Vasco
+F,28/05/84,Vasco,0-0,Fluminense

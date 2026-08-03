@@ -1,0 +1,301 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1,14/08/93,Newcastle,0-1,Tottenham
+1,14/08/93,Arsenal,0-3,Coventry City
+1,14/08/93,Liverpool,2-0,Sheffield Wed.
+1,14/08/93,Aston Villa,4-1,QPR
+1,14/08/93,West Ham,0-2,Wimbledon
+1,14/08/93,Chelsea,1-2,Blackburn Rovers
+1,14/08/93,Manchester City,1-1,Leeds United
+1,14/08/93,Southampton,0-2,Everton
+1,14/08/93,Sheffield United,3-1,Swindon Town
+1,14/08/93,Oldham Athletic,0-3,Ipswich Town
+1,15/08/93,Norwich City,0-2,Manchester United
+2,16/08/93,Tottenham,0-1,Arsenal
+2,17/08/93,Everton,1-0,Manchester City
+2,17/08/93,Leeds United,1-0,West Ham
+2,17/08/93,Wimbledon,1-1,Chelsea
+2,17/08/93,Ipswich Town,1-0,Southampton
+2,18/08/93,Manchester United,3-0,Sheffield United
+2,18/08/93,Blackburn Rovers,2-3,Norwich City
+2,18/08/93,Sheffield Wed.,0-0,Aston Villa
+2,18/08/93,QPR,1-3,Liverpool
+2,18/08/93,Coventry City,2-1,Newcastle
+2,18/08/93,Swindon Town,0-1,Oldham Athletic
+3,21/08/93,Manchester United,1-1,Newcastle
+3,21/08/93,Blackburn Rovers,1-0,Oldham Athletic
+3,21/08/93,Leeds United,0-4,Norwich City
+3,21/08/93,Wimbledon,2-2,Aston Villa
+3,21/08/93,Sheffield Wed.,0-1,Arsenal
+3,21/08/93,QPR,2-1,Southampton
+3,21/08/93,Coventry City,1-1,West Ham
+3,21/08/93,Tottenham,1-0,Manchester City
+3,21/08/93,Everton,4-2,Sheffield United
+3,21/08/93,Ipswich Town,1-0,Chelsea
+3,22/08/93,Swindon Town,0-5,Liverpool
+4,23/08/93,Aston Villa,1-2,Manchester United
+4,24/08/93,Arsenal,2-1,Leeds United
+4,24/08/93,Manchester City,0-2,Blackburn Rovers
+4,24/08/93,Sheffield United,2-1,Wimbledon
+4,24/08/93,Oldham Athletic,3-3,Coventry City
+4,25/08/93,Southampton,5-1,Swindon Town
+4,25/08/93,Newcastle,1-0,Everton
+4,25/08/93,Liverpool,1-2,Tottenham
+4,25/08/93,Norwich City,1-0,Ipswich Town
+4,25/08/93,West Ham,2-0,Sheffield Wed.
+4,25/08/93,Chelsea,2-0,QPR
+5,27/08/93,Manchester City,1-1,Coventry City
+5,28/08/93,Arsenal,2-0,Everton
+5,28/08/93,Liverpool,2-0,Leeds United
+5,28/08/93,Aston Villa,1-0,Tottenham
+5,28/08/93,Norwich City,0-0,Swindon Town
+5,28/08/93,West Ham,0-4,QPR
+5,28/08/93,Chelsea,1-1,Sheffield Wed.
+5,28/08/93,Southampton,1-3,Manchester United
+5,28/08/93,Sheffield United,1-1,Ipswich Town
+5,28/08/93,Oldham Athletic,1-1,Wimbledon
+5,29/08/93,Newcastle,1-1,Blackburn Rovers
+6,30/08/93,Leeds United,1-0,Oldham Athletic
+6,31/08/93,Everton,0-1,Aston Villa
+6,31/08/93,Ipswich Town,1-1,Newcastle
+6,31/08/93,Wimbledon,1-0,Southampton
+6,01/09/93,Blackburn Rovers,1-1,Arsenal
+6,01/09/93,Sheffield Wed.,3-3,Norwich City
+6,01/09/93,QPR,2-1,Sheffield United
+6,01/09/93,Coventry City,1-0,Liverpool
+6,01/09/93,Tottenham,1-1,Chelsea
+6,01/09/93,Swindon Town,1-3,Manchester City
+6,01/09/93,Manchester United,3-0,West Ham
+7,11/09/93,Arsenal,4-0,Ipswich Town
+7,11/09/93,Aston Villa,0-0,Coventry City
+7,11/09/93,Norwich City,0-1,Wimbledon
+7,11/09/93,West Ham,0-0,Swindon Town
+7,11/09/93,Chelsea,1-0,Manchester United
+7,11/09/93,Manchester City,3-0,QPR
+7,11/09/93,Southampton,0-2,Leeds United
+7,11/09/93,Sheffield United,2-2,Tottenham
+7,11/09/93,Oldham Athletic,0-1,Everton
+7,12/09/93,Liverpool,0-1,Blackburn Rovers
+7,13/09/93,Newcastle,4-2,Sheffield Wed.
+8,18/09/93,Blackburn Rovers,0-2,West Ham
+8,18/09/93,Leeds United,2-1,Sheffield United
+8,18/09/93,Sheffield Wed.,2-0,Southampton
+8,18/09/93,QPR,2-2,Norwich City
+8,18/09/93,Coventry City,1-1,Chelsea
+8,18/09/93,Tottenham,5-0,Oldham Athletic
+8,18/09/93,Everton,2-0,Liverpool
+8,18/09/93,Ipswich Town,1-2,Aston Villa
+8,18/09/93,Swindon Town,2-2,Newcastle
+8,19/09/93,Manchester United,1-0,Arsenal
+8,20/09/93,Wimbledon,1-0,Manchester City
+9,25/09/93,Manchester United,4-2,Swindon Town
+9,25/09/93,Blackburn Rovers,1-1,Sheffield Wed.
+9,25/09/93,Newcastle,2-0,West Ham
+9,25/09/93,Arsenal,1-0,Southampton
+9,25/09/93,Coventry City,0-2,Leeds United
+9,25/09/93,Chelsea,1-0,Liverpool
+9,25/09/93,Everton,1-5,Norwich City
+9,25/09/93,Sheffield United,0-1,Manchester City
+9,25/09/93,Oldham Athletic,1-1,Aston Villa
+9,26/09/93,Ipswich Town,2-2,Tottenham
+9,27/09/93,Wimbledon,1-1,QPR
+10,02/10/93,Leeds United,4-0,Wimbledon
+10,02/10/93,Sheffield Wed.,2-3,Manchester United
+10,02/10/93,Liverpool,0-0,Arsenal
+10,02/10/93,QPR,3-0,Ipswich Town
+10,02/10/93,Aston Villa,0-2,Newcastle
+10,02/10/93,Norwich City,1-0,Coventry City
+10,02/10/93,West Ham,1-0,Chelsea
+10,02/10/93,Southampton,3-3,Sheffield United
+10,02/10/93,Swindon Town,1-3,Blackburn Rovers
+10,03/10/93,Tottenham,3-2,Everton
+10,04/10/93,Manchester City,1-1,Oldham Athletic
+11,16/10/93,Manchester United,2-1,Tottenham
+11,16/10/93,Newcastle,1-2,QPR
+11,16/10/93,Arsenal,0-0,Manchester City
+11,16/10/93,Sheffield Wed.,2-2,Wimbledon
+11,16/10/93,Liverpool,2-1,Oldham Athletic
+11,16/10/93,Coventry City,1-1,Southampton
+11,16/10/93,West Ham,0-0,Aston Villa
+11,16/10/93,Chelsea,1-2,Norwich City
+11,16/10/93,Swindon Town,1-1,Everton
+11,17/10/93,Ipswich Town,0-0,Leeds United
+11,18/10/93,Blackburn Rovers,0-0,Sheffield United
+12,23/10/93,Leeds United,3-3,Blackburn Rovers
+12,23/10/93,QPR,5-1,Coventry City
+12,23/10/93,Aston Villa,1-0,Chelsea
+12,23/10/93,Norwich City,0-0,West Ham
+12,23/10/93,Tottenham,1-1,Swindon Town
+12,23/10/93,Manchester City,1-1,Liverpool
+12,23/10/93,Everton,0-1,Manchester United
+12,23/10/93,Sheffield United,1-1,Sheffield Wed.
+12,23/10/93,Oldham Athletic,0-0,Arsenal
+12,24/10/93,Southampton,2-1,Newcastle
+12,25/10/93,Wimbledon,0-2,Ipswich Town
+13,30/10/93,Manchester United,2-1,QPR
+13,30/10/93,Blackburn Rovers,1-0,Tottenham
+13,30/10/93,Newcastle,4-0,Wimbledon
+13,30/10/93,Arsenal,0-0,Norwich City
+13,30/10/93,Sheffield Wed.,3-3,Leeds United
+13,30/10/93,Liverpool,4-2,Southampton
+13,30/10/93,Chelsea,0-1,Oldham Athletic
+13,30/10/93,Ipswich Town,0-2,Everton
+13,30/10/93,Swindon Town,1-2,Aston Villa
+13,31/10/93,Coventry City,0-0,Sheffield United
+13,01/11/93,West Ham,3-1,Manchester City
+14,06/11/93,Arsenal,1-2,Aston Villa
+14,06/11/93,Leeds United,4-1,Chelsea
+14,06/11/93,Wimbledon,3-0,Swindon Town
+14,06/11/93,Liverpool,2-0,West Ham
+14,06/11/93,QPR,1-0,Blackburn Rovers
+14,06/11/93,Coventry City,2-1,Everton
+14,06/11/93,Southampton,1-0,Tottenham
+14,06/11/93,Ipswich Town,1-4,Sheffield Wed.
+14,06/11/93,Sheffield United,1-2,Norwich City
+14,07/11/93,Manchester City,2-3,Manchester United
+14,08/11/93,Oldham Athletic,1-3,Newcastle
+15,20/11/93,Manchester United,3-1,Wimbledon
+15,20/11/93,Blackburn Rovers,2-0,Southampton
+15,20/11/93,Sheffield Wed.,0-0,Coventry City
+15,20/11/93,Aston Villa,1-0,Sheffield United
+15,20/11/93,Norwich City,1-1,Manchester City
+15,20/11/93,West Ham,2-0,Oldham Athletic
+15,20/11/93,Chelsea,0-2,Arsenal
+15,20/11/93,Tottenham,1-1,Leeds United
+15,20/11/93,Everton,0-3,QPR
+15,20/11/93,Swindon Town,2-2,Ipswich Town
+15,21/11/93,Newcastle,3-0,Liverpool
+16,22/11/93,Chelsea,0-0,Manchester City
+16,23/11/93,Everton,1-1,Leeds United
+16,23/11/93,Blackburn Rovers,2-1,Coventry City
+16,24/11/93,Newcastle,4-0,Sheffield United
+16,24/11/93,Sheffield Wed.,3-0,Oldham Athletic
+16,24/11/93,Aston Villa,0-2,Southampton
+16,24/11/93,West Ham,0-0,Arsenal
+16,24/11/93,Tottenham,1-1,Wimbledon
+16,24/11/93,Swindon Town,1-0,QPR
+16,24/11/93,Manchester United,0-0,Ipswich Town
+17,27/11/93,Arsenal,2-1,Newcastle
+17,27/11/93,Leeds United,3-0,Swindon Town
+17,27/11/93,Wimbledon,1-1,Everton
+17,27/11/93,QPR,1-1,Tottenham
+17,27/11/93,Coventry City,0-1,Manchester United
+17,27/11/93,Manchester City,1-3,Sheffield Wed.
+17,27/11/93,Ipswich Town,1-0,Blackburn Rovers
+17,27/11/93,Sheffield United,1-0,Chelsea
+17,27/11/93,Oldham Athletic,2-1,Norwich City
+17,28/11/93,Liverpool,2-1,Aston Villa
+17,29/11/93,Southampton,0-2,West Ham
+18,04/12/93,Manchester United,2-2,Norwich City
+18,04/12/93,Leeds United,3-2,Manchester City
+18,04/12/93,Wimbledon,1-2,West Ham
+18,04/12/93,Sheffield Wed.,3-1,Liverpool
+18,04/12/93,QPR,2-2,Aston Villa
+18,04/12/93,Coventry City,1-0,Arsenal
+18,04/12/93,Tottenham,1-2,Newcastle
+18,04/12/93,Everton,1-0,Southampton
+18,04/12/93,Ipswich Town,0-0,Oldham Athletic
+18,04/12/93,Swindon Town,0-0,Sheffield United
+18,05/12/93,Blackburn Rovers,2-0,Chelsea
+19,06/12/93,Arsenal,1-1,Tottenham
+19,07/12/93,Oldham Athletic,2-1,Swindon Town
+19,07/12/93,Sheffield United,0-3,Manchester United
+19,08/12/93,Southampton,0-1,Ipswich Town
+19,08/12/93,Liverpool,3-2,QPR
+19,08/12/93,Aston Villa,2-2,Sheffield Wed.
+19,08/12/93,West Ham,0-1,Leeds United
+19,08/12/93,Manchester City,1-0,Everton
+20,11/12/93,Newcastle,1-1,Manchester United
+20,11/12/93,Liverpool,2-2,Swindon Town
+20,11/12/93,Aston Villa,0-1,Wimbledon
+20,11/12/93,West Ham,3-2,Coventry City
+20,11/12/93,Chelsea,1-1,Ipswich Town
+20,11/12/93,Manchester City,0-2,Tottenham
+20,11/12/93,Southampton,0-1,QPR
+20,11/12/93,Sheffield United,0-0,Everton
+20,11/12/93,Oldham Athletic,1-2,Blackburn Rovers
+20,12/12/93,Arsenal,1-0,Sheffield Wed.
+20,13/12/93,Norwich City,2-1,Leeds United
+21,18/12/93,Blackburn Rovers,2-0,Manchester City
+21,18/12/93,Leeds United,2-1,Arsenal
+21,18/12/93,Wimbledon,2-0,Sheffield United
+21,18/12/93,Sheffield Wed.,5-0,West Ham
+21,18/12/93,Coventry City,1-1,Oldham Athletic
+21,18/12/93,Tottenham,3-3,Liverpool
+21,18/12/93,Everton,0-2,Newcastle
+21,18/12/93,Ipswich Town,2-1,Norwich City
+21,18/12/93,Swindon Town,2-1,Southampton
+21,19/12/93,Manchester United,3-1,Aston Villa
+22,22/12/93,Newcastle,1-1,Leeds United
+22,26/12/93,Sheffield United,0-0,Liverpool
+22,26/12/93,Wimbledon,1-2,Coventry City
+22,26/12/93,Manchester United,1-1,Blackburn Rovers
+22,27/12/93,Southampton,3-1,Chelsea
+22,27/12/93,Ipswich Town,1-1,West Ham
+22,27/12/93,Swindon Town,0-4,Arsenal
+22,27/12/93,QPR,2-0,Oldham Athletic
+22,27/12/93,Tottenham,1-3,Norwich City
+22,27/12/93,Everton,0-2,Sheffield Wed.
+23,28/12/93,Liverpool,1-1,Wimbledon
+23,28/12/93,Manchester City,1-1,Southampton
+23,28/12/93,West Ham,1-3,Tottenham
+23,28/12/93,Chelsea,1-0,Newcastle
+23,29/12/93,Oldham Athletic,2-5,Manchester United
+23,29/12/93,Arsenal,3-0,Sheffield United
+23,29/12/93,Leeds United,1-1,QPR
+23,29/12/93,Sheffield Wed.,3-3,Swindon Town
+23,29/12/93,Blackburn Rovers,2-0,Everton
+23,29/12/93,Norwich City,1-2,Aston Villa
+24,01/01/94,Manchester United,0-0,Leeds United
+24,01/01/94,Newcastle,2-0,Manchester City
+24,01/01/94,Wimbledon,0-3,Arsenal
+24,01/01/94,QPR,1-2,Sheffield Wed.
+24,01/01/94,Aston Villa,0-1,Blackburn Rovers
+24,01/01/94,Tottenham,1-2,Coventry City
+24,01/01/94,Everton,0-1,West Ham
+24,01/01/94,Southampton,0-1,Norwich City
+24,01/01/94,Ipswich Town,1-2,Liverpool
+24,01/01/94,Sheffield United,2-1,Oldham Athletic
+24,01/01/94,Swindon Town,1-3,Chelsea
+25,03/01/94,Arsenal,0-0,QPR
+25,03/01/94,Sheffield Wed.,1-0,Tottenham
+25,03/01/94,West Ham,0-0,Sheffield United
+25,03/01/94,Chelsea,4-2,Everton
+25,03/01/94,Coventry City,1-1,Swindon Town
+25,04/01/94,Liverpool,3-3,Manchester United
+25,04/01/94,Norwich City,1-2,Newcastle
+26,15/01/94,Leeds United,0-0,Ipswich Town
+26,15/01/94,Wimbledon,2-1,Sheffield Wed.
+26,15/01/94,Aston Villa,3-1,West Ham
+26,15/01/94,Norwich City,1-1,Chelsea
+26,15/01/94,Tottenham,0-1,Manchester United
+26,15/01/94,Manchester City,0-0,Arsenal
+26,15/01/94,Everton,6-2,Swindon Town
+26,15/01/94,Southampton,1-0,Coventry City
+26,15/01/94,Sheffield United,1-2,Blackburn Rovers
+26,15/01/94,Oldham Athletic,0-3,Liverpool
+26,16/01/94,QPR,1-2,Newcastle
+27,22/01/94,Manchester United,1-0,Everton
+27,22/01/94,Newcastle,1-2,Southampton
+27,22/01/94,Arsenal,1-1,Oldham Athletic
+27,22/01/94,Sheffield Wed.,3-1,Sheffield United
+27,22/01/94,Liverpool,2-1,Manchester City
+27,22/01/94,Coventry City,0-1,QPR
+27,22/01/94,Chelsea,1-1,Aston Villa
+27,22/01/94,Ipswich Town,0-0,Wimbledon
+27,22/01/94,Swindon Town,2-1,Tottenham
+27,23/01/94,Blackburn Rovers,2-1,Leeds United
+27,24/01/94,West Ham,3-3,Norwich City
+23,02/02/94,Coventry City,1-0,Ipswich Town
+16,05/02/94,Norwich City,2-2,Liverpool
+28,05/02/94,Blackburn Rovers,3-0,Wimbledon
+28,05/02/94,Tottenham,1-3,Sheffield Wed.
+28,05/02/94,Manchester City,2-1,Ipswich Town
+28,05/02/94,Everton,4-2,Chelsea
+28,05/02/94,Oldham Athletic,2-1,Southampton
+28,05/02/94,Swindon Town,3-1,Coventry City
+29,05/02/94,QPR,2-3,Manchester United
+28,06/02/94,Aston Villa,1-0,Leeds United
+29,12/02/94,Wimbledon,4-2,Newcastle
+29,12/02/94,Aston Villa,5-0,Swindon Town
+29,12/02/94,Tottenham,0-2,Blackburn Rovers
+29,12/02/94,Manchester City,0-0,West Ham

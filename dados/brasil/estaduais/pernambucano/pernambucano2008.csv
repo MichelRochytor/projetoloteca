@@ -1,0 +1,103 @@
+Rodada,Data,Time da Casa,Placar,Time Visitante
+1F,12/01/08,Sport,4-0,Salgueiro
+1F,13/01/08,Santa Cruz,3-2,Ypiranga-PE
+1F,13/01/08,Petrolina,0-0,Vera Cruz-PE
+1F,13/01/08,Central,1-1,Sete de Setembro-PE
+1F,13/01/08,Serrano-PE,1-0,Náutico
+1F,13/01/08,Centro Limoeirense,1-0,Porto-PE
+1F,16/01/08,Serrano-PE,1-1,Porto-PE
+1F,16/01/08,Santa Cruz,1-1,Petrolina
+1F,16/01/08,Vera Cruz-PE,2-3,Ypiranga-PE
+1F,16/01/08,Sete de Setembro-PE,1-1,Sport
+1F,16/01/08,Salgueiro,1-1,Central
+1F,17/01/08,Náutico,3-2,Centro Limoeirense
+1F,20/01/08,Porto-PE,1-2,Náutico
+1F,20/01/08,Centro Limoeirense,1-1,Serrano-PE
+1F,20/01/08,Ypiranga-PE,0-1,Petrolina
+1F,20/01/08,Vera Cruz-PE,0-0,Santa Cruz
+1F,20/01/08,Sete de Setembro-PE,2-3,Salgueiro
+1F,20/01/08,Sport,3-2,Central
+1F,23/01/08,Náutico,0-0,Porto-PE
+1F,23/01/08,Serrano-PE,1-0,Centro Limoeirense
+1F,23/01/08,Petrolina,0-2,Santa Cruz
+1F,23/01/08,Ypiranga-PE,2-2,Vera Cruz-PE
+1F,23/01/08,Central,2-3,Sport
+1F,23/01/08,Salgueiro,1-0,Sete de Setembro-PE
+1F,27/01/08,Centro Limoeirense,2-1,Náutico
+1F,27/01/08,Porto-PE,0-1,Serrano-PE
+1F,27/01/08,Petrolina,4-1,Ypiranga-PE
+1F,27/01/08,Santa Cruz,4-1,Vera Cruz-PE
+1F,27/01/08,Sete de Setembro-PE,0-2,Central
+1F,27/01/08,Salgueiro,0-0,Sport
+1F,30/01/08,Porto-PE,2-0,Centro Limoeirense
+1F,30/01/08,Náutico,5-2,Serrano-PE
+1F,30/01/08,Vera Cruz-PE,2-1,Petrolina
+1F,30/01/08,Ypiranga-PE,2-0,Santa Cruz
+1F,31/01/08,Sport,2-0,Sete de Setembro-PE
+1F,31/01/08,Central,2-0,Salgueiro
+1F,06/02/08,Sete de Setembro-PE,1-1,Petrolina
+1F,06/02/08,Centro Limoeirense,0-4,Náutico
+1F,06/02/08,Central,2-0,Santa Cruz
+1F,06/02/08,Serrano-PE,0-2,Salgueiro
+1F,07/02/08,Porto-PE,0-1,Ypiranga-PE
+1F,07/02/08,Sport,2-1,Vera Cruz-PE
+1F,09/02/08,Náutico,2-1,Sete de Setembro-PE
+1F,09/02/08,Santa Cruz,2-2,Porto-PE
+1F,10/02/08,Centro Limoeirense,1-1,Petrolina
+1F,10/02/08,Ypiranga-PE,0-0,Central
+1F,10/02/08,Salgueiro,1-3,Sport
+1F,10/02/08,Vera Cruz-PE,2-2,Serrano-PE
+1F,13/02/08,Serrano-PE,1-0,Sport
+1F,16/02/08,Sete de Setembro-PE,4-3,Centro Limoeirense
+1F,17/02/08,Central,1-1,Porto-PE
+1F,17/02/08,Ypiranga-PE,2-1,Santa Cruz
+1F,17/02/08,Salgueiro,1-0,Vera Cruz-PE
+1F,17/02/08,Sport,8-0,Serrano-PE
+1F,18/02/08,Petrolina,1-2,Náutico
+1F,20/02/08,Centro Limoeirense,1-0,Sete de Setembro-PE
+1F,20/02/08,Porto-PE,3-3,Santa Cruz
+1F,20/02/08,Vera Cruz-PE,2-3,Salgueiro
+1F,21/02/08,Náutico,5-0,Petrolina
+1F,21/02/08,Central,3-3,Ypiranga-PE
+1F,23/02/08,Vera Cruz-PE,2-4,Sport
+1F,24/02/08,Sete de Setembro-PE,0-2,Náutico
+1F,24/02/08,Petrolina,3-4,Centro Limoeirense
+1F,24/02/08,Porto-PE,0-1,Central
+1F,24/02/08,Santa Cruz,1-1,Ypiranga-PE
+1F,24/02/08,Salgueiro,1-3,Serrano-PE
+1F,02/03/08,Petrolina,3-1,Sete de Setembro-PE
+1F,02/03/08,Náutico,3-0,Centro Limoeirense
+1F,02/03/08,Ypiranga-PE,2-1,Porto-PE
+1F,02/03/08,Santa Cruz,2-2,Central
+1F,02/03/08,Sport,4-1,Salgueiro
+1F,02/03/08,Serrano-PE,1-2,Vera Cruz-PE
+F,09/03/08,Serrano-PE,1-2,Ypiranga-PE
+F,09/03/08,Náutico,3-0,Central
+F,09/03/08,Sport,3-0,Salgueiro
+F,12/03/08,Central,0-2,Sport
+F,12/03/08,Salgueiro,0-1,Serrano-PE
+F,12/03/08,Ypiranga-PE,3-2,Náutico
+F,16/03/08,Central,4-0,Serrano-PE
+F,16/03/08,Ypiranga-PE,1-3,Salgueiro
+F,16/03/08,Náutico,0-1,Sport
+F,23/03/08,Serrano-PE,1-2,Náutico
+F,23/03/08,Salgueiro,1-0,Central
+F,23/03/08,Sport,2-1,Ypiranga-PE
+F,26/03/08,Serrano-PE,1-0,Sport
+F,26/03/08,Central,4-2,Ypiranga-PE
+F,30/03/08,Ypiranga-PE,1-1,Sport
+F,30/03/08,Náutico,5-1,Serrano-PE
+F,06/04/08,Central,3-1,Salgueiro
+F,06/04/08,Sport,3-0,Serrano-PE
+F,06/04/08,Náutico,6-1,Ypiranga-PE
+F,09/04/08,Salgueiro,1-0,Náutico
+F,13/04/08,Central,1-1,Náutico
+F,13/04/08,Salgueiro,0-3,Sport
+F,16/04/08,Ypiranga-PE,1-1,Serrano-PE
+F,16/04/08,Sport,1-1,Central
+F,16/04/08,Náutico,0-0,Salgueiro
+F,20/04/08,Sport,0-0,Náutico
+F,20/04/08,Salgueiro,2-4,Ypiranga-PE
+F,20/04/08,Serrano-PE,0-2,Central
+F,23/04/08,Ypiranga-PE,2-4,Central
+F,23/04/08,Serrano-PE,0-1,Salgueiro
